@@ -4,7 +4,7 @@ import numpy as np
 from pdb import set_trace
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import preprocessing
-
+from scipy.sparse import csr_matrix
 from demos import cmd
 
 import re
@@ -30,7 +30,7 @@ class JobResume():
 
         lda1 = lda.LDA(n_topics=100, alpha=0.1, eta=0.01, n_iter=200)
         self.csr_mat = lda1.fit_transform(self.csr_mat.astype(int))
-        self.csr_mat = preprocessing.normalize(self.csr_mat,norm='l2',axis=1)
+        self.csr_mat = csr_matrix(preprocessing.normalize(self.csr_mat,norm='l2',axis=1))
         return
 
     def doc2vec(self):
@@ -51,7 +51,7 @@ class JobResume():
 
 
         content1 = convert_sentences(self.content)
-        model = Doc2Vec(size=300, window=10, min_count=5, workers=multiprocessing.cpu_count(),alpha=0.025, min_alpha=0.025)
+        model = Doc2Vec(vector_size=300, window=10, min_count=5, workers=multiprocessing.cpu_count(),alpha=0.025, min_alpha=0.025)
         model.build_vocab(content1)
 
         for epoch in range(10):
@@ -59,7 +59,7 @@ class JobResume():
             model.alpha -= 0.002  # decrease the learning rate
             model.min_alpha = model.alpha  # fix the learning rate, no decay
 
-        self.csr_mat = np.array([normalize(model.infer_vector(x.words, alpha=model.alpha, min_alpha=model.min_alpha),p=2) for x in content1])
+        self.csr_mat = csr_matrix([normalize(model.infer_vector(x.words, alpha=model.alpha, min_alpha=model.min_alpha),p=2) for x in content1])
         return
 
     def tfidf(self):
@@ -78,6 +78,50 @@ class JobResume():
         self.csr_mat=tfer.fit_transform(self.content)
         return
 
+def match_resume(x,resume_id,num):
+    target = x.csr_mat[resume_id].transpose()
+    jobs = x.csr_mat[x.num_resume:]
+    probs = (jobs*target).toarray().flatten()
+    order = np.argsort(probs)[::-1][:num]
+    print("Resume:")
+    print(x.resumes['Resume'][resume_id])
+    print()
+    set_trace()
+    print("Matched jobs: ")
+    print(probs[order])
+    set_trace()
+    for id in order:
+        print(id)
+        print(x.jobs["jobpost"][id])
+        print()
+        set_trace()
+    return order
+
+def match_job(x,job_id,num):
+    target = x.csr_mat[x.num_resume+job_id].transpose()
+    jobs = x.csr_mat[:x.num_resume]
+    probs = (jobs*target).toarray().flatten()
+    order = np.argsort(probs)[::-1][:num]
+    print("Job Post:")
+    print(x.jobs["jobpost"][job_id])
+    print()
+    set_trace()
+    print("Matched resumes: ")
+    print(probs[order])
+    set_trace()
+    for id in order:
+        print(id)
+        print(x.resumes['Resume'][id])
+        print()
+        set_trace()
+    return order
+
+
+def test():
+    x = JobResume()
+    x.prepare()
+    x.doc2vec()
+    match_job(x,0,5)
 
 if __name__ == "__main__":
     eval(cmd())
