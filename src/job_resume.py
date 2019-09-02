@@ -15,6 +15,14 @@ class JobResume():
         self.jobs = pd.read_csv(jobfile)
         self.resumes = pd.read_csv(resumefile)
 
+    def print_job(self,job_id):
+        print("Job Post:")
+        print(self.jobs["jobpost"][job_id])
+
+    def print_resume(self,resume_id):
+        print("Job Post:")
+        print(self.resumes["Resume"][resume_id])
+
     def prepare(self):
         resumes = [x for x in self.resumes["Resume"]]
         jobs = [x for x in self.jobs["jobpost"]]
@@ -102,26 +110,21 @@ def match_job(x,job_id,num):
     jobs = x.csr_mat[:x.num_resume]
     probs = (jobs*target).toarray().flatten()
     order = np.argsort(probs)[::-1][:num]
-    print("Job Post:")
-    print(x.jobs["jobpost"][job_id])
-    print()
-    set_trace()
-    print("Matched resumes: ")
-    print(probs[order])
-    set_trace()
-    for id in order:
-        print(id)
-        print(x.resumes['Resume'][id])
-        print()
-        set_trace()
-    return order
+    return order, probs[order]
+
+
+
 
 
 def test():
     x = JobResume()
     x.prepare()
     x.doc2vec()
-    match_job(x,0,5)
+    matched_resumes, probs = match_job(x,0,5)
+    for i,r in enumerate(matched_resumes):
+        print("ID: d%, Prob: f%" %(r,probs[i]))
+    set_trace()
+    x.print_resume(matched_resumes[0])
 
 if __name__ == "__main__":
     eval(cmd())
