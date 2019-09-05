@@ -21,7 +21,7 @@ class JobResume():
 
     def print_resume(self,resume_id):
         print("Job Post:")
-        print(self.resumes["Resume"][resume_id])
+        print(self.resumes["Resume"][resume_id].decode('string_escape'))
 
     def prepare(self):
         resumes = [x for x in self.resumes["Resume"]]
@@ -119,10 +119,13 @@ def match_job(x,job_id,num):
 def test():
     x = JobResume()
     x.prepare()
+    set_trace()
     x.doc2vec()
     matched_resumes, probs = match_job(x,0,5)
+
+    set_trace()
     for i,r in enumerate(matched_resumes):
-        print("ID: d%, Prob: f%" %(r,probs[i]))
+        print("ID: %d, Prob: %f" %(r,probs[i]))
     set_trace()
     x.print_resume(matched_resumes[0])
 
