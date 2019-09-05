@@ -86,31 +86,19 @@ class JobResume():
         self.csr_mat=tfer.fit_transform(self.content)
         return
 
-def match_resume(x,resume_id,num):
-    target = x.csr_mat[resume_id].transpose()
-    jobs = x.csr_mat[x.num_resume:]
-    probs = (jobs*target).toarray().flatten()
-    order = np.argsort(probs)[::-1][:num]
-    print("Resume:")
-    print(x.resumes['Resume'][resume_id])
-    print()
-    set_trace()
-    print("Matched jobs: ")
-    print(probs[order])
-    set_trace()
-    for id in order:
-        print(id)
-        print(x.jobs["jobpost"][id])
-        print()
-        set_trace()
-    return order
+    def match_resume(self,resume_id,num):
+        target = self.csr_mat[resume_id].transpose()
+        jobs = self.csr_mat[x.num_resume:]
+        probs = (jobs*target).toarray().flatten()
+        order = np.argsort(probs)[::-1][:num]
+        return order, probs[order]
 
-def match_job(x,job_id,num):
-    target = x.csr_mat[x.num_resume+job_id].transpose()
-    jobs = x.csr_mat[:x.num_resume]
-    probs = (jobs*target).toarray().flatten()
-    order = np.argsort(probs)[::-1][:num]
-    return order, probs[order]
+    def match_job(self,job_id,num):
+        target = self.csr_mat[self.num_resume+job_id].transpose()
+        jobs = self.csr_mat[:self.num_resume]
+        probs = (jobs*target).toarray().flatten()
+        order = np.argsort(probs)[::-1][:num]
+        return order, probs[order]
 
 def test():
     x = JobResume()     # Load data
@@ -120,7 +108,7 @@ def test():
     set_trace()
 
     # Find top 5 most similar resumes to Job post ID 0.
-    matched_resumes, probs = match_job(x,0,5)
+    matched_resumes, probs = x.match_job(0,5)
     # Print the ID of the recommended top 5 resumes and their cosine distance to the target job post.
     for i,r in enumerate(matched_resumes):
         print("ID: %d, Prob: %f" %(r,probs[i]))
@@ -128,7 +116,7 @@ def test():
     set_trace()
 
     # Find top 5 most similar job posts to Resume ID 0.
-    matched_jobs, probs = match_resume(x, 0, 5)
+    matched_jobs, probs = x.match_resume(0, 5)
     # Print the ID of the recommended top 5 job posts and their cosine distance to the target resume.
     for i, r in enumerate(matched_jobs):
         print("ID: %d, Prob: %f" % (r, probs[i]))
