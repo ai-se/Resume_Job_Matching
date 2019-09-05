@@ -20,7 +20,7 @@ class JobResume():
         print(self.jobs["jobpost"][job_id])
 
     def print_resume(self,resume_id):
-        print("Job Post:")
+        print("Resume:")
         print(self.resumes["Resume"][resume_id].decode('string_escape'))
 
     def prepare(self):
@@ -112,21 +112,29 @@ def match_job(x,job_id,num):
     order = np.argsort(probs)[::-1][:num]
     return order, probs[order]
 
-
-
-
-
 def test():
-    x = JobResume()
-    x.prepare()
-    set_trace()
-    x.doc2vec()
-    matched_resumes, probs = match_job(x,0,5)
+    x = JobResume()     # Load data
+    x.prepare()         # Preprocessing
+    x.doc2vec()         # Encode every resume and job post
 
     set_trace()
+
+    # Find top 5 most similar resumes to Job post ID 0.
+    matched_resumes, probs = match_job(x,0,5)
+    # Print the ID of the recommended top 5 resumes and their cosine distance to the target job post.
     for i,r in enumerate(matched_resumes):
         print("ID: %d, Prob: %f" %(r,probs[i]))
+
     set_trace()
+
+    # Find top 5 most similar job posts to Resume ID 0.
+    matched_jobs, probs = match_resume(x, 0, 5)
+    # Print the ID of the recommended top 5 job posts and their cosine distance to the target resume.
+    for i, r in enumerate(matched_jobs):
+        print("ID: %d, Prob: %f" % (r, probs[i]))
+
+    set_trace()
+
     x.print_resume(matched_resumes[0])
 
 if __name__ == "__main__":
