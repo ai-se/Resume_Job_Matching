@@ -88,7 +88,7 @@ class JobResume():
 
     def match_resume(self,resume_id,num):
         target = self.csr_mat[resume_id].transpose()
-        jobs = self.csr_mat[x.num_resume:]
+        jobs = self.csr_mat[self.num_resume:]
         probs = (jobs*target).toarray().flatten()
         order = np.argsort(probs)[::-1][:num]
         return order, probs[order]
