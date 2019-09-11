@@ -5,6 +5,8 @@ from pdb import set_trace
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import preprocessing
 from scipy.sparse import csr_matrix
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
 from demos import cmd
 
 import re
@@ -100,11 +102,42 @@ class JobResume():
         order = np.argsort(probs)[::-1][:num]
         return order, probs[order]
 
+    def dimensionality_reduction(self):
+        pca = PCA(n_components=2)
+        self.reduced_mat = pca.fit_transform(self.csr_mat.toarray())
+
+    def visualization(self):
+        font = {'family': 'cursive',
+            'weight': 'bold',
+            'size': 20}
+
+
+        plt.rc('font', **font)
+        paras = {'lines.linewidth': 4, 'legend.fontsize': 20, 'axes.labelsize': 30, 'legend.frameon': False,
+                 'figure.autolayout': True, 'figure.figsize': (16, 6)}
+        plt.rcParams.update(paras)
+
+        plt.figure()
+        x_resume, y_resume, x_job, y_job = [],[],[],[]
+        for i,row in enumerate(self.reduced_mat):
+            if i < self.num_resume:
+                x_resume.append(row[0])
+                y_resume.append(row[1])
+            else:
+                x_job.append(row[0])
+                y_job.append(row[1])
+
+        plt.scatter(x_job,y_job,color="gray")
+        plt.scatter(x_resume,y_resume,color="red")
+        plt.savefig("../figure/visualization.png")
+
+
 def test():
     x = JobResume()     # Load data
     x.prepare()         # Preprocessing
     x.doc2vec()         # Encode every resume and job post
-
+    x.dimensionality_reduction()
+    x.visualization()
     set_trace()
 
     # Find top 5 most similar resumes to Job post ID 0.
