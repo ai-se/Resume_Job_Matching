@@ -6,6 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import preprocessing
 from scipy.sparse import csr_matrix
 from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from demos import cmd
 
@@ -106,7 +107,13 @@ class JobResume():
         pca = PCA(n_components=2)
         self.reduced_mat = pca.fit_transform(self.csr_mat.toarray())
 
+    def clustering(self, n=5):
+        self.clusters = KMeans(n_clusters=n, random_state=0).fit(self.csr_mat).labels_
+
     def visualization(self):
+        self.dimensionality_reduction()
+        self.clustering(n=5)
+
         font = {'family': 'cursive',
             'weight': 'bold',
             'size': 20}
@@ -118,17 +125,24 @@ class JobResume():
         plt.rcParams.update(paras)
 
         plt.figure()
-        x_resume, y_resume, x_job, y_job = [],[],[],[]
+        resumes = {}
+        jobs = {}
         for i,row in enumerate(self.reduced_mat):
+            cat = self.clusters[i]
             if i < self.num_resume:
-                x_resume.append(row[0])
-                y_resume.append(row[1])
+                if cat not in resumes:
+                    resumes[cat] = {"x":[], "y":[]}
+                resumes[cat]["x"].append(row[0])
+                resumes[cat]["y"].append(row[1])
             else:
-                x_job.append(row[0])
-                y_job.append(row[1])
-
-        plt.scatter(x_job,y_job,color="gray")
-        plt.scatter(x_resume,y_resume,color="red")
+                if cat not in jobs:
+                    jobs[cat] = {"x": [], "y": []}
+                jobs[cat]["x"].append(row[0])
+                jobs[cat]["y"].append(row[1])
+        colors = ["red","blue","green","gray", "yellow"]
+        for cat in set(self.clusters):
+            plt.scatter(jobs[cat]["x"],jobs[cat]["y"],marker ="o",color=colors[cat])
+            plt.scatter(resumes[cat]["x"],resumes[cat]["y"],marker ="X",color=colors[cat])
         plt.savefig("../figure/visualization.png")
 
 
@@ -136,7 +150,6 @@ def test():
     x = JobResume()     # Load data
     x.prepare()         # Preprocessing
     x.doc2vec()         # Encode every resume and job post
-    x.dimensionality_reduction()
     x.visualization()
     set_trace()
 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="508566f5-28ac-4d66-91f4-e7f53b4e97b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/job_resume.py" afterPath="$PROJECT_DIR$/src/job_resume.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/job_resume.py" afterPath="$PROJECT_DIR$/src/job_resume.py" />
     </list>
     <ignored path="Resume_Job_Matching.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +14,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -23,12 +22,12 @@
     <favorites_list name="Resume_Job_Matching" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="salary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/salary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="400">
+              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -39,17 +38,25 @@
       <file leaf-file-name="job_resume.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/job_resume.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88430697">
-              <caret line="129" column="45" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
+            <state relative-caret-position="197">
+              <caret line="141" column="56" lean-forward="true" selection-start-line="141" selection-start-column="56" selection-end-line="141" selection-end-column="56" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
-                <element signature="e#580#642#0" expanded="false" />
-                <element signature="e#812#1014#0" expanded="false" />
-                <element signature="e#1043#1502#0" expanded="false" />
-                <element signature="e#1535#2763#0" expanded="false" />
-                <element signature="e#1716#2012#0" expanded="false" />
-                <element signature="e#2057#2121#0" expanded="false" />
-                <element signature="e#2794#3610#0" expanded="false" />
+                <element signature="e#494#573#0" expanded="false" />
+                <element signature="e#615#677#0" expanded="false" />
+                <element signature="e#725#814#0" expanded="false" />
+                <element signature="e#847#1049#0" expanded="false" />
+                <element signature="e#1078#1537#0" expanded="false" />
+                <element signature="e#1570#2798#0" expanded="false" />
+                <element signature="e#1751#2047#0" expanded="false" />
+                <element signature="e#1803#1934#0" expanded="false" />
+                <element signature="e#2092#2156#0" expanded="false" />
+                <element signature="e#2423#2638#0" expanded="false" />
+                <element signature="e#2829#3645#0" expanded="false" />
+                <element signature="e#3117#3179#0" expanded="false" />
+                <element signature="e#3419#3507#0" expanded="false" />
+                <element signature="e#3697#3918#0" expanded="false" />
+                <element signature="e#3964#4198#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -58,8 +65,8 @@
       <file leaf-file-name="demos.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/demos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="1675">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -86,22 +93,11 @@
       </list>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -114,6 +110,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scratches" />
@@ -123,6 +121,24 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Resume_Job_Matching" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resume_Job_Matching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resume_Job_Matching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resume_Job_Matching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -258,7 +274,9 @@
       <method />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -267,32 +285,33 @@
       <changelist id="508566f5-28ac-4d66-91f4-e7f53b4e97b8" name="Default" comment="" />
       <created>1566824929514</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1566824929514</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34233576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19023238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18992043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39476812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -315,8 +334,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/salary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="400">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
@@ -325,25 +344,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/job_resume.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <element signature="e#580#642#0" expanded="false" />
-            <element signature="e#812#1014#0" expanded="false" />
-            <element signature="e#1043#1502#0" expanded="false" />
-            <element signature="e#1535#2763#0" expanded="false" />
-            <element signature="e#1716#2012#0" expanded="false" />
-            <element signature="e#2057#2121#0" expanded="false" />
-            <element signature="e#2794#3610#0" expanded="false" />
+            <element signature="e#494#573#0" expanded="false" />
+            <element signature="e#615#677#0" expanded="false" />
+            <element signature="e#725#814#0" expanded="false" />
+            <element signature="e#847#1049#0" expanded="false" />
+            <element signature="e#1078#1537#0" expanded="false" />
+            <element signature="e#1570#2798#0" expanded="false" />
+            <element signature="e#1751#2047#0" expanded="false" />
+            <element signature="e#1803#1934#0" expanded="false" />
+            <element signature="e#2092#2156#0" expanded="false" />
+            <element signature="e#2423#2638#0" expanded="false" />
+            <element signature="e#2829#3645#0" expanded="false" />
+            <element signature="e#3117#3179#0" expanded="false" />
+            <element signature="e#3419#3507#0" expanded="false" />
+            <element signature="e#3697#3918#0" expanded="false" />
+            <element signature="e#3964#4198#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="1675">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -352,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/salary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
@@ -362,25 +389,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/job_resume.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="71" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <element signature="e#580#642#0" expanded="false" />
-            <element signature="e#812#1014#0" expanded="false" />
-            <element signature="e#1043#1502#0" expanded="false" />
-            <element signature="e#1535#2763#0" expanded="false" />
-            <element signature="e#1716#2012#0" expanded="false" />
-            <element signature="e#2057#2121#0" expanded="false" />
-            <element signature="e#2794#3610#0" expanded="false" />
+            <element signature="e#494#573#0" expanded="false" />
+            <element signature="e#615#677#0" expanded="false" />
+            <element signature="e#725#814#0" expanded="false" />
+            <element signature="e#847#1049#0" expanded="false" />
+            <element signature="e#1078#1537#0" expanded="false" />
+            <element signature="e#1570#2798#0" expanded="false" />
+            <element signature="e#1751#2047#0" expanded="false" />
+            <element signature="e#1803#1934#0" expanded="false" />
+            <element signature="e#2092#2156#0" expanded="false" />
+            <element signature="e#2423#2638#0" expanded="false" />
+            <element signature="e#2829#3645#0" expanded="false" />
+            <element signature="e#3117#3179#0" expanded="false" />
+            <element signature="e#3419#3507#0" expanded="false" />
+            <element signature="e#3697#3918#0" expanded="false" />
+            <element signature="e#3964#4198#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -389,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/salary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
@@ -399,25 +434,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/job_resume.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="23" column="71" lean-forward="false" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <element signature="e#580#642#0" expanded="false" />
-            <element signature="e#812#1014#0" expanded="false" />
-            <element signature="e#1043#1502#0" expanded="false" />
-            <element signature="e#1535#2763#0" expanded="false" />
-            <element signature="e#1716#2012#0" expanded="false" />
-            <element signature="e#2057#2121#0" expanded="false" />
-            <element signature="e#2794#3610#0" expanded="false" />
+            <element signature="e#494#573#0" expanded="false" />
+            <element signature="e#615#677#0" expanded="false" />
+            <element signature="e#725#814#0" expanded="false" />
+            <element signature="e#847#1049#0" expanded="false" />
+            <element signature="e#1078#1537#0" expanded="false" />
+            <element signature="e#1570#2798#0" expanded="false" />
+            <element signature="e#1751#2047#0" expanded="false" />
+            <element signature="e#1803#1934#0" expanded="false" />
+            <element signature="e#2092#2156#0" expanded="false" />
+            <element signature="e#2423#2638#0" expanded="false" />
+            <element signature="e#2829#3645#0" expanded="false" />
+            <element signature="e#3117#3179#0" expanded="false" />
+            <element signature="e#3419#3507#0" expanded="false" />
+            <element signature="e#3697#3918#0" expanded="false" />
+            <element signature="e#3964#4198#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -426,8 +469,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/salary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
@@ -436,25 +479,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/job_resume.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <element signature="e#580#642#0" expanded="false" />
-            <element signature="e#812#1014#0" expanded="false" />
-            <element signature="e#1043#1502#0" expanded="false" />
-            <element signature="e#1535#2763#0" expanded="false" />
-            <element signature="e#1716#2012#0" expanded="false" />
-            <element signature="e#2057#2121#0" expanded="false" />
-            <element signature="e#2794#3610#0" expanded="false" />
+            <element signature="e#494#573#0" expanded="false" />
+            <element signature="e#615#677#0" expanded="false" />
+            <element signature="e#725#814#0" expanded="false" />
+            <element signature="e#847#1049#0" expanded="false" />
+            <element signature="e#1078#1537#0" expanded="false" />
+            <element signature="e#1570#2798#0" expanded="false" />
+            <element signature="e#1751#2047#0" expanded="false" />
+            <element signature="e#1803#1934#0" expanded="false" />
+            <element signature="e#2092#2156#0" expanded="false" />
+            <element signature="e#2423#2638#0" expanded="false" />
+            <element signature="e#2829#3645#0" expanded="false" />
+            <element signature="e#3117#3179#0" expanded="false" />
+            <element signature="e#3419#3507#0" expanded="false" />
+            <element signature="e#3697#3918#0" expanded="false" />
+            <element signature="e#3964#4198#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -463,8 +514,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/salary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
@@ -473,35 +524,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/job_resume.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <element signature="e#580#642#0" expanded="false" />
-            <element signature="e#812#1014#0" expanded="false" />
-            <element signature="e#1043#1502#0" expanded="false" />
-            <element signature="e#1535#2763#0" expanded="false" />
-            <element signature="e#1716#2012#0" expanded="false" />
-            <element signature="e#2057#2121#0" expanded="false" />
-            <element signature="e#2794#3610#0" expanded="false" />
+            <element signature="e#494#573#0" expanded="false" />
+            <element signature="e#615#677#0" expanded="false" />
+            <element signature="e#725#814#0" expanded="false" />
+            <element signature="e#847#1049#0" expanded="false" />
+            <element signature="e#1078#1537#0" expanded="false" />
+            <element signature="e#1570#2798#0" expanded="false" />
+            <element signature="e#1751#2047#0" expanded="false" />
+            <element signature="e#1803#1934#0" expanded="false" />
+            <element signature="e#2092#2156#0" expanded="false" />
+            <element signature="e#2423#2638#0" expanded="false" />
+            <element signature="e#2829#3645#0" expanded="false" />
+            <element signature="e#3117#3179#0" expanded="false" />
+            <element signature="e#3419#3507#0" expanded="false" />
+            <element signature="e#3697#3918#0" expanded="false" />
+            <element signature="e#3964#4198#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -510,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/salary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
@@ -520,17 +569,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/job_resume.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88430697">
-          <caret line="129" column="45" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <element signature="e#580#642#0" expanded="false" />
-            <element signature="e#812#1014#0" expanded="false" />
-            <element signature="e#1043#1502#0" expanded="false" />
-            <element signature="e#1535#2763#0" expanded="false" />
-            <element signature="e#1716#2012#0" expanded="false" />
-            <element signature="e#2057#2121#0" expanded="false" />
-            <element signature="e#2794#3610#0" expanded="false" />
+            <element signature="e#494#573#0" expanded="false" />
+            <element signature="e#615#677#0" expanded="false" />
+            <element signature="e#725#814#0" expanded="false" />
+            <element signature="e#847#1049#0" expanded="false" />
+            <element signature="e#1078#1537#0" expanded="false" />
+            <element signature="e#1570#2798#0" expanded="false" />
+            <element signature="e#1751#2047#0" expanded="false" />
+            <element signature="e#1803#1934#0" expanded="false" />
+            <element signature="e#2092#2156#0" expanded="false" />
+            <element signature="e#2423#2638#0" expanded="false" />
+            <element signature="e#2829#3645#0" expanded="false" />
+            <element signature="e#3117#3179#0" expanded="false" />
+            <element signature="e#3419#3507#0" expanded="false" />
+            <element signature="e#3697#3918#0" expanded="false" />
+            <element signature="e#3964#4198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/salary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/job_resume.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="141" column="56" lean-forward="true" selection-start-line="141" selection-start-column="56" selection-end-line="141" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#494#573#0" expanded="false" />
+            <element signature="e#615#677#0" expanded="false" />
+            <element signature="e#725#814#0" expanded="false" />
+            <element signature="e#847#1049#0" expanded="false" />
+            <element signature="e#1078#1537#0" expanded="false" />
+            <element signature="e#1570#2798#0" expanded="false" />
+            <element signature="e#1751#2047#0" expanded="false" />
+            <element signature="e#1803#1934#0" expanded="false" />
+            <element signature="e#2092#2156#0" expanded="false" />
+            <element signature="e#2423#2638#0" expanded="false" />
+            <element signature="e#2829#3645#0" expanded="false" />
+            <element signature="e#3117#3179#0" expanded="false" />
+            <element signature="e#3419#3507#0" expanded="false" />
+            <element signature="e#3697#3918#0" expanded="false" />
+            <element signature="e#3964#4198#0" expanded="false" />
           </folding>
         </state>
       </provider>
