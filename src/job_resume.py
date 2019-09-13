@@ -8,6 +8,7 @@ from scipy.sparse import csr_matrix
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
 from demos import cmd
 
 import re
@@ -103,8 +104,8 @@ class JobResume():
         order = np.argsort(probs)[::-1][:num]
         return order, probs[order]
 
-    def dimensionality_reduction(self):
-        pca = PCA(n_components=2)
+    def dimensionality_reduction(self,n=3):
+        pca = PCA(n_components=n)
         self.reduced_mat = pca.fit_transform(self.csr_mat.toarray())
 
     def clustering(self, n=5):
@@ -124,26 +125,29 @@ class JobResume():
                  'figure.autolayout': True, 'figure.figsize': (16, 6)}
         plt.rcParams.update(paras)
 
-        plt.figure()
+        fig = plt.figure()
+        ax = fig.add_subplot(111, projection='3d')
         resumes = {}
         jobs = {}
         for i,row in enumerate(self.reduced_mat):
             cat = self.clusters[i]
             if i < self.num_resume:
                 if cat not in resumes:
-                    resumes[cat] = {"x":[], "y":[]}
+                    resumes[cat] = {"x":[], "y":[], "z":[]}
                 resumes[cat]["x"].append(row[0])
                 resumes[cat]["y"].append(row[1])
+                resumes[cat]["z"].append(row[2])
             else:
                 if cat not in jobs:
-                    jobs[cat] = {"x": [], "y": []}
+                    jobs[cat] = {"x": [], "y": [], "z":[]}
                 jobs[cat]["x"].append(row[0])
                 jobs[cat]["y"].append(row[1])
-        colors = ["red","blue","green","gray", "yellow"]
+                jobs[cat]["z"].append(row[2])
+        colors = ["red","blue","green","gray", "orange"]
         for cat in set(self.clusters):
-            plt.scatter(jobs[cat]["x"],jobs[cat]["y"],marker ="o",color=colors[cat])
-            plt.scatter(resumes[cat]["x"],resumes[cat]["y"],marker ="X",color=colors[cat])
-        plt.savefig("../figure/visualization.png")
+            ax.scatter(jobs[cat]["x"],jobs[cat]["y"],jobs[cat]["z"],marker ="o",color=colors[cat])
+            ax.scatter(resumes[cat]["x"],resumes[cat]["y"],resumes[cat]["z"], marker ="^",color=colors[cat])
+        plt.savefig("../figure/visualization3D.png")
 
 
 def test():
