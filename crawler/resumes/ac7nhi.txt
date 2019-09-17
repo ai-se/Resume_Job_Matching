@@ -1,0 +1,70 @@
+
+Aaron Kigler
+EDUCATION
+Binghamton University, Location Biomedical Engineering
+Sept 2012 - May 2016
+● BS with concentration in biomedical devices
+EXPERIENCE
+E-J Electric Installation Co., NY, NY Internship Oct 2018 - PRESENT
+● Assist senior project managers on multiple NYC transit projects, including design and commissioning of various aspects of electrical systems within transit department
+● Manage and update Submittals, Time keeping, T&M, RFI etc.
+● Coordinate with clients and vendors
+● Perform site surveys for installation of equipment throughout E-J’s projects Jaguar Industries, Haverstraw, NY Research Development Feb 2017 - Oct 2018
+● Surveyed product inventory, and aggregated product data
+● Managed, entered and categorized data into logs
+● Analyzed data to find outlying data points to better manage production, and storage of product
+● Worked with the head of product management to refine product inventory Binghamton University Greenhouse, Binghamton, NY Biology Internship Sep 2014 - May 2016
+● Researched various hydroponic models, focusing on vertical hydroponics
+● Modeled and designed vertical hydroponic system in AutoCAD
+● Worked closely with the machinist producing final product
+● Maintained and cultivated plants in greenhouse and hydroponic system Kibbutz Sde Eliyahu: Bio Bee Biological Systems, Israel Entomology Internship June 2013 - August 2013
+● Cultivated, raised and transferred numerous species of beneficial insects that are used in agriculture for integrative pest management
+PROJECTS
+Rotational 3D Bioprinter Senior Design Project
+Sept 2015 - May 2016
+● Lead designer on team of four engineers, designed, built and experimented on a bioprinter capable of printing cylindrical biological structures
+● Drafted and modeled outer casing, z-axis, additive cylinder and electronics, using AutoCAD
+● Coded Graphical User Interface in Python to issue printing instructions, motor movement commands, control temperature and light fixtures
+● Designed Arduino based mechano-electrical system to control rotation of step motors for axial movement, and to control movement and temperature of biological material through printhead
+● Communicated with client and manufacturing companies to find, utilize and design the correct parts needed for the project
+● Worked in lab using alginate and polymer cross linking chemicals to print cylindrical tubes of different lengths and radii
+● Wrote paper detailing developments, specific designs, resource allocation, client interactions and general project assessments
+RESEARCH
+Integrative Pest Management Research and Implementation with Dr. Julian Shepherd, Binghamton University Entomology Research Sept 2014 - May 2015
+● Cultivated, bred and studied numerous colonies of bugs to protect plants, lower pesticide usage and lower expenses at Binghamton University Greenhouses
+● Designed built and regulated incubation and living structures for multiple species including: Aphids, Aphidius colemani, Encarsia formosa, Pseudococcidae sp. References available upon request
+17 Powder Horn Dr.
+Suffern, NY 10901
+845-***-****
+ac7nhi@r.postjobfree.com
+SKILLS
+Data analytics:
+R
+Matlab
+Mathematica
+Code:
+Python
+Html/Css
+CAD:
+AutoCAD
+Fusion 360
+Solidworks
+Mechatronics:
+Arduino
+Machining:
+Lathe
+Power Tools
+Mill
+Design:
+Adobe Illustrator
+Gimp
+Processors:
+Word
+Excel
+Lab-Work:
+Bioprinting
+Crispr
+Certifications:
+Osha-10
+
+Contact this candidate

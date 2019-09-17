@@ -1,0 +1,109 @@
+
+Curriculim Vitae
+Michael Johan Van Wyk
+Contact: Mobile +27-60-657-**** E-Mail ac898k@r.postjobfree.com
+
+Senior Planner
+Mining,Construction and Oil&Gas
+
+Profile summery
+•An accomplished senior maintenance planner with almost 17 years of expertise in maintenance and asset management,planning,measures and controls, HSE management, risk assessment, cost controls and resource management.
+•Proficient in maintenance budget including capital project preparation and presentation.
+•Extensive heavy equipment and field experience of more than 10 years, in open pit and process plants.
+•Conversant with mechanics and maintenance of heavy equipment. Major manufacturers like: CAT,Kommatsu,P&H,Sandvik,Hitachi,Liebherr,Terex etc.
+•I have sound understanding and experience in total run of mines and works, attained legal law and standards certification from South African department of minerals and energy. Also certified in supervisory dissipline by Anglo America and Gold fields South Africa.
+•Technically sound in Microsoft office package, Microsoft Projects, Projects 2000, SAP (Plant Maintenance, Purchasing, Material Management,Time&Attendance), Pragma, Dynamiqs and Mainquest.
+•I have a sensitive and dynamiq approach to cross cultural workplaces and available for worldwide relocation.
+•I am an enterprising leader with proven dexterity in leading and directing multi disciplinary personnel in achieving company directives.
+
+Education
+1984 Technical high school qualification (High Technical School Vereniging)
+1989 Qualified as Airframe fitter(survival) ( South African Air Force)
+2000 Qualified as Fitter and Machinist ( Engineering Skills Training Centre)
+
+Certificates
+
+Maintenance &asset management (Roland Bergh Consulting)
+Maintenance planning (M-Tech)
+Role of the chairperson (Anglo development centre)
+Modern SHEQ/Risk management (International Risk Control Academy)
+Hazard Identification and Risk assessment (HIRA) (International Risk Control Academy)
+Finance for non financial managers (Anglo development centre)
+Legal knowledge/standards and code of practise
+Practical supervision (Kavan)
+Excel Advance 2002 (MS office user specialist)
+MS Projects
+Projects 2000
+Business report writing skills (Anglo development centre)
+Management Principles & Practise
+BMW advance driving
+Business Centered Maintenance/Maintenance management (Growthcon Inl)
+SAP R3 PM,MM, T&A, CO reporting (Gateway Project Information)
+SAP R3 Service management
+SAP R3 Maintenance planning Advance
+Supervisors course (Gold Fields Africa)
+Managing discipline (Anglo development centre)
+Conflict management (ADC)
+Senior engineering supervisor
+Hydraulic trouble-shooting
+Tamrock drilltech 1190E (Drilltech Inc Florida USA)
+Liebherr excavator service course ( Liebherr SA)
+Hydraulic trouble-shooting
+CAT(Caterpillar) Mainternance ( Barlows CAT)
+Alighnment course (ESTC)
+Centrifical pump course (ESTC)
+Lubrication fundamentals & product knowledge (ESTC)
+Basic hydraulic course
+Methane gas training
+Open flame equipment (Kloof GM Co LTD)
+
+Achievements
+
+SAP R3 Implementation
+In 1999 selected as team member and superuser for SAP R3 implementation at Anglo Platinum's Mogalakwena section .Largest open pit mine in Southern hemisphere. Implementation done by Gateway Project Implementation. Team consisted of 7 members and my role was to create project plan to populate all master data, ie Functioinal location structure, Equipment, Componants, Sub components, Maintenance packages, Maintenance plans, bill of materials, Measuring points, Resources, Task durations, Measuring documents, Rotable controls and Parts pick lists.
+All statutory and legal inspections, tests like earth leakage, pressure vessel tests, brake tests, slope stability, Transformer tests etc.
+Making use of historical data and full FMECA and RCM on fleet off 140 units of different equipment types from 300Ton dump trucks to Light delivery vehicles and Facilities. And on concentrator/process plant the process was duplicated but on fixed equipment like Ball mills, Cone crushers, Conveyors, compressors, Pressure vessels etc.
+Responsible for testing complete cycle on each equipment type to ensure system functions to standard before roll out. The complete system implementation was completed in record time of 4 months.
+
+Profit improvement program
+
+In 2005 I called for a profit improvement program on Caterpillar dump trucks, The engines on these 280 ton truck were designed to last 18000 hours and we only managed between 8000 to 11000 hours before failure. These failures could not be explained by support personnel from CAT on site. I lead the team of 6 delegates including product support, parts management and maintenance specialists from CAT.
+I crafted the project in collaboration with Growthcon Itl . The project lasted only 1 month and the final conclusion was turbo manufold gaskets were inferior and new spec was not communicated through STI's from CAT (Barloworld equipment) and old spec part numbers were never superseeded thus we used inferior parts for years. All engines were retro fitted with new spec parts and the project had a cost saving in access of R 30 000 000,00.
+
+SAP R3 and Data mine interphase
+
+In 2007 I initiated an project to interphase Data mine information to be automatically be included on measuring documents of equipment maintenance plans to eliminate input errors. The team consisted of 9 members from Mine, Data mine and SAP consultants. My role was as project leader.
+The end product was in the form of Phat files being created on Data mine system that populates SAP PM twice daily by means of existing network connection.+
+The whole project lasted 14 months as major drawbacks were experienced in terms of patent and licencing agreements but was duly resolved by involving Legal teams of both software providers.
+
+Core competencies
+
+Project management Safety Inspections and drives
+Budget Management Document and contractor control
+Site operations/management Resource allocation
+Long term planning Cost reduction/profit improvement
+Maintenance efficiency Stores and supply planning
+Rotable parts management Equipment life cycle costing
+Total Cost of ownership Data analysis
+Master data load and updating Reliability centered maintenance
+Bill of Materials RCM, FMECA,RCA,MTTR, MTBF,MTTF.
+Work control Outsource management
+
+Work Experience
+
+Hitachi(2012-2014) As Senior planner (Expat)on remote site in Mozambique, under contract from Vale coal Brazil. Responsible for cost control, parts forecast and maintenance during project life cycle. Preparing medium and long term project maintenance and end of life rebuilds plan documentation to ensure business objectives are achieved. Liasion with parts department on new requirements,bill of materials, STI's and parts supersessions. Managing internal and external resources to ensure key objectives are met in terms of budget plan and throughput. Updating data base and reports on actual vs plan achievements.General site management and sourcing/purchasing infrastructure and special tooling. All maintenance activities planned and scheduled on Dynamiqs CMMS. Managing and contracting third party repairs,resources,warranties and services rendered by foreign companies. Role and duties performed to minimise loss and wastage, prevent accidents and incidents by Zero tolerance methodology.
+
+Minopex(2010-2012) As maintenance co ordinator at Platinum process plant under contract from Redpath mining. Main responsibilities to plan and schedule routine maintenance, shut down and periodic rebuilds including spares, resources and expediting. Monitoring and providing technical assistance during major repairs and rebuilds according to OEM standards and procedures. Updating of maintenance plans according to failure analysis and failure frequency tables. Reporting to client on compliance,availability, utelizasion and cost. Working closely with materials department to ensure correct stock levels are maintained and bill of materials are up to date and monthly stock take. Made use of Pragma CMMS and excel spreadsheets to fill the gaps in Pragma.
+
+Anglo Platinum In my position I was responsible for the effective management of maintenance programs for all open pit mining equipment. Develop/adapt maintenance plans according to RCA/RCM techniques. Ensure maintenance are done according to BCM principles and to ensure resource and material(spares) availability. In charge of 5 assistant planners who respectively under my leadership follow these through to the 5 different disciplines at our operation. Supply effective management reports on Availability, Utilization, MTBF, MTTR, MTBS, $/ton,TCO, LCC and EOL management and forecasting. All managed on SAP R3 maintenance system and Ms Projects.
+In short to effectively maintain all equipment/assets cost effectively by improving skills and processes to optimize asset life and availability using best practices and technology.
+
+Languages
+
+Afrikaans : Home language (Native speaker)
+English: Second language (Fluent/advanced)
+Portugeuse: (Basic)
+Sotho: (Basic)
+Dutch: ( Basic)
+
+Contact this candidate

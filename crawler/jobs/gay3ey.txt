@@ -1,0 +1,49 @@
+Job Title = Machinist
+
+Position summary:
+Provide programming and machining expertise in support of the Engineering Department and client requests. Program, set up, and operate machinery for the fabrication of parts.
+Tasks:
+Develop CNC programs using MasterCAM for Solidworks for mills based on engineering drawings and models.
+Configure tools and ensure efficient production.
+Analyze drawings, blueprints, and design data in order to calculate correct part dimension for machines, tool selection, machine speeds, and feed rates.
+Set up and operate CNC equipment.
+Monitor output and proper operation of mechanical equipment.
+Make mechanical and/or program adjustments to ensure - parts are meeting quantity and quality requirements.
+Use precision measuring instruments including micrometers and calipers, and fixtures and gauges to check work.
+Read Instrumentation and gauges to accurately measure dimensions on parts that are being machined within a .001 tolerance.
+Communicate recommendations to modify processes to improve productivity and quality.
+Skills:
+Experience programming in MasterCAM preferred.
+Experience using Solidworks preferred.
+Must have a proficient understanding of G-code programming.
+Experience setting up and troubleshooting CNC machines.
+Able to demonstrate good manufacturing practices and be able to select tooling and machining resources for manufacture of parts.
+Strong mathematical skills.
+Blueprint with GD&T reading capabilities.
+Able to read instrumentation and gauges for measurement purposes.
+Able to work under own initiative.
+Flexible, courteous, friendly and positive approach.
+Discretion, confidentiality and professionalism at all times.
+Ability to follow written and verbal instructions.
+Ability to work in a team environment.
+Make a positive contribution to maintaining a workplace that is healthy, safe, neat and tidy.
+Experience and Education:
+High School Diploma or equivalent
+Minimum of 6+ years of CNC machining experience
+Mastercam for Solidworks experience preferred
+Physical Requirements:
+Stand/Sit Moderate physical activity. May require handling of objects that can weigh up to 50 lbs. and above.
+Walk - Move, Traverse
+Use hands/fingers to handle, feel or type - Operate, Activate, Use, Prepare, Inspect, Place, Detect, Position
+Talk/Hear - Communicate, Detect, Converse with, Discern, Convey, Express oneself, Exchange information
+See - Detect, Determine, Perceive, Identify, Recognize, Judge, Observe, Inspect, Estimate, Assess
+Stoop, kneel, crouch or crawl Position self, move around.
+Climb or balance climb ladders or work stands/platforms to get around the aircraft.
+This position requires activities involving being around moving machinery, loud noises, exposure to marked changes in temperature and humidity, and exposure to dust, fumes, and gases.
+Responsibilities and tasks outlined in this job description are not exclusive and may change as determined by the needs of the company.
+A veteran-owned company and is proud to be an Equal Opportunity employer committed to hiring veterans. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin or disability.
+This job description is not an offer of employment or employment contract.0
+
+
+Go to apply 
+

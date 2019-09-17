@@ -1,0 +1,68 @@
+
+DIEUDONNE SOSSOUKPE
+
+***** ********* ***** ** # *, Germantown, MD 20874
+Cell: 240-***-**** ac9tac@r.postjobfree.com
+PROFESSIONAL SUMMARY
+Certified ScrumMaster (CSM)
+USA Navy since January 2018
+USA government Clarence
+Experience serving as scrum master for multiple teams simultaneously
+Worked in DevOps environments using engineering practices such as ATDD, BDD, continuous integration, and pair programming
+Full knowledge of the SDLC with hands on experience as scrum master serving teams throughout
+Experience working with onshore and offshore teams
+Good team leader, Player and can work alone with minimal or no supervision.
+Good problem solving, judgment, and decision-making skill.
+PROFESSIONAL EXPERIENCE
+
+Kaiser Permanente
+Rockville, Maryland
+SCRUM MASTER July 2018 – present
+Served as a scrum master for multiple teams made up of developers, software quality analyst, DBA, and product owner. We worked on developing an application in which health care professionals, including the administrative staff can input patient date and keep track of patient records in a more user-friendly way. Application was also capable of being accessed by patients to keep track of appointments, and contact their physicians as needed. As scrum master I was tasked with facilitating the implementation of scrum within the company as they were operating in a waterfall environment. Taught agile/scrum to all teams and I we began working on the actual project, I facilitated all scrum ceremonies (sprint planning, daily stand up, sprint review, sprint retrospective). Used metrics such as burndown charts and velocity chart to track team progress. Used capacity planning to ensure team members weren’t over committing or getting burned out. Use the PM to escalate all impediments which couldn’t be resolved within the scrum team.
+Working with developers and testers in assisting Product Owner in Backlog refinement.
+Resolving impediments, internally within the team and external as needed
+Facilitation of all Scrum Events, including Sprint planning, Daily scrum, Sprint Reviews, and Retrospective
+Tracked metrics such as burndown charts/burnup charts, velocity, and capacity to evaluate team health and bandwidth
+Utilizing use case, workflow, activity and sequence diagrams to define functional requirements for the development team.
+Providing all support to the Scrum team using a servant leadership style whenever possible, leading by example.
+Motivating the Scrum team to work towards continuous improvement and deliver shippable product that deliver business value in every sprint.
+Collaborating with project management team to identify potential project risks and assist with the development of preventive plans.
+Escalating issues to management and seeking timely resolution.
+Part of Agile Community of Practice, collaborating with other Scrum Masters on the best methods and practices helping us introduce positive Agile culture.
+Made sure task boards were being updated to ensure transparency and effective communication.
+
+Bank of America
+Rockville, Maryland
+SCRUM MASTER February, 2015 – January,2018
+Served as a Scrum Master within multiple scrum teams in facilitating the transition from Waterfall into Agile methodology. Worked with the scrum team to facilitate, educate and coach them on the scrum framework. Teams were made up of business analyst, quality analyst, and developers. We ran 1-month long sprints and released quarterly. Used Jira and Confluence as SDLC tools and skype for business for communication, as teams were co-located. Project was application based and data driven, with overall goals to improve business efficiency and user interaction. Application enabled users to access all necessary day to day banking needs. Also, on the backend enabled business to be able to keep tracks of end user records and account status.
+Mentored less experienced team members to adapt to scrum/agile best practices to deliver quality product in a complex project environment.
+Protected team from internal and external distractions to help them focus on daily activities to be productive and growing in ability.
+Facilitated all scrum ceremonies including sprint planning, daily stand ups, sprint reviews and sprint retrospectives.
+Resolve impediments using internal team resources or escalating externally as needed.
+Build a trusting environment by encouraging transparency and self-organization in day to day work processes and flows.
+Focused on developing more trusted and collaborative team environment where problems can be raised without fear of blame or being judged with a complete focus on problem resolution.
+Partnered and worked closely with the Product owner in backlog grooming to ensure the product backlog is consistent groomed and always ready for team consumption
+Assisted internal and external communication, improving transparency and radiating information.
+Used metrics such as burndown charts, velocity chart and capacity to evaluate team health and progress through sprints
+MILLITARY EXPERIENCE
+
+USA NAVY
+Upper Marlboro, MD
+Aviation machinist mate 01/2018 to Current us navy aviation mechanic engineer. Inspect, adjust, test, repair, and overhaul aircraft engines
+EDUCATION
+CERTIFIED SCRUMMASTER (CSM) – Scrum Alliance
+AVIATION MACHINIST MATE (AD): AVIATION MECHANIC ENGINERY - Navy A School
+Pensacola, FL
+COMPUTER NETWORK AND CYBER SECURITY – University of Maryland
+College Park, MD
+ASSOCIATE OF ARTS (General Studies) - Montgomery College,
+Rockville, MD
+LANGUAGES
+English – Verbal and Writing
+French – Verbal and Writing
+TECHNICAL TOOLS
+SDLC: Visual studios, Jira, Trello, Rally, MS Project, Rational
+Communication: Zoom, Skype, Google Hangout, JoinMe
+Microsoft office (Word, Excel, PowerPoint, Outlook)
+
+Contact this candidate

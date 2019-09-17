@@ -1,0 +1,80 @@
+
+Plano, Tx
+Rohail Gill
+469-***-****
+
+ac8695@r.postjobfree.com
+Mechanical Engineer
+Summary
+
+Highly motivated Mechanical Engineer with creative thinking, problem-solving and result focused. Hands on experience in CREO PARAMETRIC,SOLIDWORKS, AutoCAD, Revit, and other engineering tools to solve problems and add value to the team.
+
+Core Skills
+
+Product Design, Analysis, Manufacturing & Test
+Prototype / Hardware Fabrication
+Mechanical and Electrical Integration
+Geometric Dimensioning & Tolerancing
+Finite Element Analysis/Ansys
+Drawing Revision
+Project management, Planning & Scheduling
+Progress monitoring & Project reporting
+Analytical, Numerical & Presentations skill
+Teamworking, Oral & Written communications
+Software
+PRO/E CREO, SolidWorks, ABAQUS, CATIA V5
+FreeCAD, AutoCAD, Solid Edge, REVIT
+
+MATLAB, LabView, C, C++, C#, Java
+Microsoft Office
+Education
+B.S. Mechanical Engineering
+University of Texas at Dallas, U.S.A.
+
+December 2018
+Work History
+
+Mechanical Engineer
+Armored Fitness Equipment
+Jan 2018 – July 2018
+Product Development of Adjustable Jerk Block
+Perform a full lifecycle product development (design, develop, test prototypes, manufacture and implement).
+Used Finite Element Analysis (FEA) to reduce the number of physical prototypes and optimize components in the design phase to develop a safe product.
+Generated Bill of Materials (B.O.M) and Engineering Drawings.
+Produced the project schedule and coordinated all project activities
+Worked extensively with Vendors and Machinist until fabricated products met our standards & requirements.
+Assembled the fabricated parts by following created Manufacturing Instructions.
+Carefully designed test cases to assure a safe product that meets ASME standard
+Handled the procurement forms for placing orders.
+Assisted in preparing the presentations to show the projected product lifecycle, product stress points and product capabilities.
+Mechanical Engineer University of Texas at Dallas Jan 2018 – July 2018
+
+Parabolic Leaf Spring optimization
+Researched various material’s tension, compression and bending to measure mechanical properties.
+Used SolidWorks to create a Parabolic Leaf Spring model.
+Optimized the design using ABAQUS.
+Made justification of material selection, including how it is processed and the properties.
+Optimized it using Taylor series and MATLAB and compared the values with ABAQUS values to see which optimization is more accurate.
+Evaluate the final product’s overall performance, reliability, and safety
+Prepare product reports and documentation
+Used Microsoft PP, Word, Project and Visio to create, organize, analyze and present data, analysis and recommendations
+
+Design Engineer
+
+University of Texas at Dallas
+
+Feb 2017 – May 2018
+
+Effects on lift and drag coefficient of an air foil in a wind tunnel
+Designed and 3D printed various airplane fins
+Utilized ABAQUS to perform aerodynamic analysis later compared with the analytical results.
+Used a wind tunnel to perform aerodynamic analysis on an air foil with and without the fins attached to it
+Performed analytical calculations on the lift and drag coefficient on the different types of air fins
+Results were documented and presented to the supervisors
+
+Extracurricular Activities
+American Society of Mechanical Engineers, Richardson, TX
+
+Phi Kappa Theta, Richardson, TX
+
+Contact this candidate

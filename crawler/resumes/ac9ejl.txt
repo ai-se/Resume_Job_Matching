@@ -1,0 +1,160 @@
+
+OBJECTIVE: CNC PROGRAMMER/ADVANCED ENGINEERING
+
+PROFESSIONAL PROFILE
+
+Over 10 years experience in CNC multi axis manufacturing of complex parts
+Certified Tool and Die Maker
+Certified Red Seal General Machinist
+MasterCAM 2019 mill-lathe expert knowledge
+Esprit multi axis mill-turn excellent knowledge
+Vericut working knowledge
+CATIA V5 sound knowledge
+Excellent understanding of manufacturing principles, methods & planning, tool fixture design, CNC/CMM programming, multi-axis turn/mill and mill machining.
+Working knowledge of engineering materials including exotics such as Inconel, Super Duplex, Titanium, Invar, Kovar, Monel, Ferrillium, Vespel, Peek and able to optimize the cutting performance and processing of such materials
+Good knowledge injection plastic tooling, automotive dies/ hydroforming
+CNC programming CAD/CAM and manual G codes in depth knowledge
+Strong proficiency with CAD (solid modeling) and CAM software
+Post-processors development for all types of machine, starting with the 2 axis lathes and 3 axis mills to 5 axis mills and dual spindle multi-turret mill-turn machines.
+Strong Fanuc, Siemens, Heidenhein, Mazak Integrex controls knowledge
+Hands-on experience with CNC machines
+Laser cutting/welding expert knowledge
+Extensive blue print reading, GD&T and CMM knowledge
+In depth knowledge of military and aircraft quality assurance standards
+Strong focus on process improvement
+
+WORK EXPERIENCE
+
+ALLIEDONE INDUSTRIAL INC
+MISSISSAUGA, ONT 2018 -PRESENT
+CNC PROGRAMMER
+
+Generate CAM programs for CNC mill-lathe machines using MasterCAM software for complex high precision assemblies aircraft landing gears,
+pneumatic and hydraulic actuators and manifolds.
+
+Create required documents to aid in setting up machines (tool list, setup sheets).
+Optimize CNC programs on 4 and 5 axis machining centers in a cost-effective manner but within quality part requirements.
+Provide assistance and work with machinists to ensure fully comprehensible programs.
+Work with methods engineering, production and quality to ensure the requirements are met of the manufactured products.
+Select cutting tools and prove them out.
+Review scheduled existing machining processes for improvement opportunities.
+Store generated data, reports and documents according to defined company structure
+Prepare and issue required stage drawings for the Job
+Define times, material sizes and cuts, help define tech details, feed and speed rates
+Prepare, review and issue CAD/ CAM and CNC programs required for theJob
+Ensure the CAM file is as standard as possible, write following standard methodology
+Recover any changes on CAM done at the CNC machine following job completion
+Ensure the Job final information and programs are retrieved from the Shop Floor, reviewed and filed
+
+DISHON LTD
+VAUGHN, ONT 2014 - 2018
+CNC PROGRAMMER
+
+Develop applications/programs for aircraft/aerospace, subsea oil/gas, nuclear power generation components including parts completed in one setup "done in one"
+Determine suitable and cost-effective machining processes based on part specifications.
+Write and optimize CNC programs to create complex parts on multi-axis dual spindle turn/mill machines
+Develop and prove-out required tools, fixtures and select cutting tools.
+Create and compile necessary documents to aid in setting up machines.
+Review existing machining processes for improvement opportunities.
+Work with engineering, production, quality, purchasing and scheduling departments to ensure a smooth flow of quality products flow through the facility.
+Work with machinists to ensure CNC programs are fully comprehensible and that issues do not arise.
+Provide assistance with problem solving when issues arise in reference to product manufacturing.
+
+NORWEST PRECISION LTD
+TORONTO, ONT 2010 - 2014
+CNC PROGRAMMER
+
+Review and analyze customer supplied manufacturing 2D or 3D data
+Initiating contact with customer in order to resolve any technical issues
+Establishing the manufacturing process plan
+Creating CAD data needed for CNC programming process
+Develop efficient N/C programs for 3, 4 and 5 axis milling machines
+Develop fixture requirements for machined components
+Analyze tooling requirements including special tooling design and create tool lists
+Produce shop floor documents including setup procedures for each program
+Maintain and update N/C programs and appropriate documentation
+Troubleshoot and edit existing programs when problems arise
+
+PHILLIPS ENGINEERING TECHNOLOGIES
+CONCORD, ONT 2005- 2010
+APPLICATIONS ENGINEER
+
+Design and develop machining process for complex parts
+Fixture design/commissioning for the process
+Cutting tools selection and design of special tools
+CNC part programming ( milling and turning )
+First-off part production and inspection
+Machine and the process machinist/operator training
+
+Turn key projects worked on for customers:
+Schaeffler Group (INA, FAG, LUK), General Dynamics, US Air Force, Alstom Power
+
+MAGNA INTERNATIONAL- PROMATEK RESEARCH CENTRE BRAMPTON, ONT 2003 – 2005
+
+LASER CAD/CAM PROGRAMMER
+
+Programmed 5axis laser cutting and welding paths using Catia/Cenit CAM package or laser machine online teach tool.
+Designed fixtures, jigs and tooling for laser process using Catia V5 CAD software.
+Programmed CNC equipment to machine all fixtures, jigs and tool components.
+Laser fixture set-up, first-off, inspection of cut part.
+Trained and supervised operators in the operation of the laser cutter/welder.
+Worked with GD&T data to verify the tolerances of the machined and/or laser cut components.
+
+MAGNA INTERNATIONAL- MASSIV AUTOMATED SYSTEMS BRAMPTON, ONT 1998 – 2003
+
+CNC PROGRAMMER
+
+CAD development of 3D complex surfaces for automotive car closures hemming tooling and automated hemming stations.
+2D and 3D CNC programming of all line components including large, medium size casts for hemmer understeel and hemming beams made up from D2 steels for
+Daimler Chrysler PG44 hood, liftgate and doors.
+Created setup and tooling sheets.
+Assisted CNC machinist in setup, first-off and problem solving.
+
+MAGNA INTERNATIONAL- MASSIV DIE-FORM BRAMPTON, ONT 1989 – 1998
+
+CAD / CAM PROGRAMMER
+
+Used CAD to make customer driven die design changes and modification including tool processing of the operational sequence to form and pierce.
+Developed 3D draw surface, part trim lines, flange lines and blank prototypes.
+Manipulated digitized scan data to create 3D solid part model including class “A” &”B” surfacing.
+Programmed 3axis and 5axis high-speed machining centers to make medium and large die components for the auto industry.
+
+DIE MASTER TOOL INC. MISSISSAUGA, ONT 1986 - 1989
+
+CNC PROGRAMMER /SETUP
+
+CAD/CAM programmed aircraft and defense parts.
+Planned processes from start-to-finish to produce parts like: propeller shafts for the “T-53” engine used in Huey Helicopters, valves for the “MK-46” torpedo
+and pressure shafts for “AGT-1500” gas turbine engine used in “M1” tank.
+Programmed injection plastic mold to make aircraft propeller for Canada Air unmanned surveillance device.
+CAD designed fixtures, jigs and other special tools.
+Machine and tools setup including length and radius offsets adjustments, first-off.
+Programmed and operated state-of-the-art 3D Leitz co-ordinate measuring machine used to check military and aircraft parts requiring MIL-I-45208A,
+MIL-Q-9858A, AQAP-4, CSA Z.299.3 quality assurance standards.
+
+EDUCATION
+
+2006 Tool and Die Maker Certificate (Ontario and Inter-Provincial)
+
+2006 General Machinist Red Seal Certificate (Ontario and Inter-Provincial)
+
+2004 CATIA V5 Certified Professional: Part Design, Surface Design - Expert
+
+1996 Tebis V3.25 Numerical Control Mill
+Tebis America Incorporated, Troy, Michigan
+
+1994 CATIA V4 Solids Design, Advanced Surface, Drafting, NC Lathe and Mill
+DBM Systems Incorporated, Toronto, Ontario
+
+1985 Humber College of Applied Arts and Technology, Toronto, Ontario
+Numerical Control Machine Programmer
+NC2, NC3A, NC3B Part-time courses.
+
+1981 Mechanical Engineering College, Poland
+Mechanical Engineering Technologist
+
+REFERENCES
+
+Available upon request.
+
+Contact this candidate

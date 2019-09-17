@@ -1,0 +1,137 @@
+
+JOHN R BUSSERT, CISSP
+**** * **** ** • Marengo, Illinois 60152
+815-***-**** h • Email: ac7mym@r.postjobfree.com
+815-***-**** m
+www.linkedin.com/in/john-bussert-729a005
+
+INFORMATION TECHNOLOGY EXECUTIVE
+CIO, CTO, VP – Director of Development
+CISO Security Lead
+
+Versatile, accomplished Information Technology Executive offering over 25 years’ experience in Information Technology and Business Development. Proven leader who performs as a key business partner and provides critical leadership to the corporation and executive team. Demonstrated ability to learn and implement new concepts, easily adapt to change and manage multiple concurrent tasks. Innovative, high-energy leader offering excellent organizational and communication skills, an extensive track record of success and the capacity to assume increasingly significant responsibilities.
+
+Implemented NIST
+
+CORE COMPETENCIES
+
+Business Strategy Training & Mentoring Sales Trend Analysis
+Strategic Planning Information Security CISSP Technology Architecture
+P & L Management Published Author IT Extensive Project Management
+e-Commerce Architecture Qliktech QlickView Compliance SOX, HIPAA, GLBA
+Health Care Software Management Database – SQL, DB2, Oracle Ariba, EDI, XML
+Mobile Applications Social Networking APIs VMware - VSphere
+Business Intelligence, CRM Light manufacturing Logistics and Warehousing
+Bank interfaces – ACH, Positive Pay Report Writing
+Digital Marketing HP Indigo, Xerox iGen GMC Variable Data Management
+Mobil App Development Agile, Spiral Development Methodologies
+Google, Paypal, Interfaces PCI Compliance Health Care Interfaces HL7
+Disaster Recovery – Business Continuity Logistics and Warehousing
+
+PROFESSIONAL EXPERIENCE
+
+SWIFT TECHNOLOGIES, INC., Elgin, Illinois 1994-Present
+Technology Company – including Software Development, Network Security Services Web Development, Mobile development, MSP.
+SwiftOrder.com
+Founder – President, Consultant
+
+Built a software company originally, as a pure software development house with an iSeries (IBM) and Microsoft technologies (.net) integrated application for Order Management, Accounting, Inventory Management, Light Manufacturing and Purchase Management. Application still used by companies from 10 to 300 Million in annual revenues. Led the company evolution to a professional services company offering specialized services to the Health Care, Law and other services industries delivering Web, Mobile, Data Integration and Executive Management “Rent a CIO” services.
+
+Ultimately adding network security, MSP, web development (WebSphere and Microsoft ASP support).
+
+Selected Achievements:
+Grew from startup to development company with 100+ clients in multiple industries from Distribution, Marketing and Commercial Print, Medical, Law and Hobby Distribution.
+Managed company through the rise and fall of the tech break down.
+Responsible for the management (P&L) as well as sales and marketing.
+Passed CISSP to start security practice in network and web security.
+Interface with 3rd party vendors such as Ariba, various vendors EDI standards using XML
+Integrate Oracle, SAP into order management and accounting.
+Setup and integrate CRM (SalesForce.com, Microsoft) into order management system
+Engineered, built and delivered Business Dashboard using QlikView by QlikTech use by executive management, sales and operations
+
+DATAMART, USA, Marengo, Illinois 4/2010-11/2015
+Direct Marketing, Interactive Marketing, Digital Print, Mail Fulfillment House.
+Datamartdirect.com
+VP, CIO
+Over the last 2 years, took company from a manual operation process to 70% automated increasing margins, and increasing customer satisfaction as a result of quicker turn around and better quality. Responsible for all IT, Digital Print, PrePress, Web Development, internal, SQL Server, and customer technology integration.
+Selected Achievements:
+Managed all IT and Customer Support Projects from inception to delivery and support
+Implement technology to support over 70% of the incoming and reoccurring jobs that used to take manual intervention. Including adding QA processes to raise the level of customer satisfaction.
+Designed and Managed Plant move from Hanover Park to Bloomingdale
+Implemented Budget process across the whole company (had never been implemented before)
+Designed and Implemented Data Center and server consolidation movement.
+Designed and Implemented Business Continuity, Disaster Recovery Program.
+Implemented employee training in technology and security.
+Implemented PCI for customer data security programs.
+Initiated Cloud Analysis for application deployment
+Build Programs for Trans Promo product development for client – 20,000 transactions daily
+Develop Major Auto Digital Marketing Program for international auto firm including PURLS, personal digital print marketing, fulfillment and BI Tracking.
+
+WYNSTAR, Lisle, Illinois 1991-1994
+IBM Midrange – AS/400 – ERP Software developer and marketer.
+Founder, CTO, CIO
+Responsible for 30 developers, 10 customer service support as well as the company’s technology direction and implementation in building products for commercial use. Responsible for development methodologies, quality assurance, customer implementations, enhancements and presales support.
+
+Selected Achievements:
+Recruited and obtained Venture Capital investment in original company (IBS) to found Wynstar.
+Recruited Management Team from CEO, Controller, Customer Service Manager and VP Sales and Marketing.
+Helped build a dealer (affiliate) network with 12 affiliates and Sales offices in New York, Los Angeles and Chicago.
+Designed and Implemented software development tools to increase programmer productivity over 100%.
+Built Marketing Training videos for presenting the Wynstar Design and Technology for customer and Affiliates
+Primary Architect for Alliance – ERP
+Managed Development projects from inception to product delivery
+Acted as Pre-Sales for large account prospects
+
+INTELLIGENT BUSINESS SYSTEMS, INC, Arlington Heights, Illinois 1988-1991
+Software Development Firm – IBM Midrange – AS/400.
+Cofounder, President
+Built software Development Company specializing in IBM midrange hardware and Wholesale Distribution/Manufacturing market.
+
+Selected Achievements:
+Cofounded company and recruited development, sales and support personnel.
+Primary architect in company’s code product Alliance for Wholesale Distribution and Manufacturing.
+Developed business plan for guiding organization and attracting partner companies (IBM VAR and IR Programs)
+Managed IBM Partner relations program
+
+HFA, INC, Deerfield, Illinois 1982-1988
+ISV Manufacturing Applications – IBM System/38 & 4300 Main Frame.
+VP Development
+Responsible for the technology, development and architecture of the companies customized applications on the IBM 4300 mainframe. Develop migration and testing strategy for the applications on the new IBM System/38.
+
+Selected Achievements:
+Spearheaded development and architecture of the “new” IBM System/38 – including the 2nd install in the Midwest.
+Developed training program for new and existing developers utilizing programing tools.
+Designed and built new programming tools to automate development tasks reducing errors and improving programmer productivity
+
+Also Having Understanding
+
+Ruby on Rails Parallels Plex GMC software
+Impostrip Adobe CS5.5 Linux (Ubuntu Desktop and Server
+
+These are technologies that I have dealt with, understand their design and function but are not necessarily expert in.
+
+EDUCATION
+
+Bachelor of General Studies – Computer Science
+Roosevelt University, Chicago, Illinois
+DePaul University
+USN Onboard University
+
+Services
+US Navy 1994 – 1998
+Aviation Machinist, Plane Captain, NATOPS, instructor.
+Chairman Riley Township Plan Commission 2005-2011
+
+Other - Hobbies
+
+Published Author – wrote Weekly and Monthly Column
+on IT related Topics for Various Trade Publications
+Wood Working
+Christian Support Services
+Music
+Reading
+Outdoor - fishing
+
+References upon request.
+
+Contact this candidate

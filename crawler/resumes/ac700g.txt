@@ -1,0 +1,86 @@
+
+Professional Summary
+Strongly focused and knowledgeable System’s Analyst, SQL query/reports specialist, and python developer with a wide breadth of IT experience. Expert communicator of complex technological concepts to professional and non-professional audiences.
+Skills
+oMS-SQL
+oPython
+oMS Excel
+oMicrosoft Access
+oMantisBT (Problem ticketing and tracking)
+oGemini (Task ticketing and tracking)
+oProject Insights (Project management)
+oMeridian
+oConfluence
+
+oRequirements gathering and Analysis
+oEnterprise Implementations
+oBusiness Analyst
+oProject management
+oUnit test plan writing and utilizing
+oQA testing
+oANSI 834 Files
+oMAP
+oProcessing guide creation
+
+Career Highlights
+2017 – Present Empyrean Benefits
+Business System’s Analyst
+
+Participated in requirements gathering for new client implementation
+Maintained configuration documents and made recommendations as necessary.
+Identified process and system gaps and developed potential solutions.
+Configured 29 benefit’s ranging from 1 to 10 plans per benefit with varying eligibility rules based off of previous requirements gathering workshops.
+Maintained and scheduled a job to grab an employee file feed twice each week from ADP via SFTP.
+Using Python, programed system to parse through over 13,000 employee records and populated the database with all of the provided data as needed.
+Created and updated the Python scripts and SQL queries that automatically determine benefit eligibility, employee and employer cost, as well as any waiting periods that needed to be applied to each individual employee.
+Created and maintained jobs that calculated costs, and automatically wrote out files with employee elections to be SFTP’d to each individual insurance carrier once a week as well as SFTP’ing deduction codes and amounts to ADP.
+During implementation, participated in all unit testing and QA testing. Provided feedback as needed.
+Created and maintain detailed and easy to understand step by stop processing guides for all processes, jobs, schedules and procedures
+Maintain constant daily communication with client to assure quality service and also to assist the service center with any issues or questions
+
+2014 – 2016 Attended college.
+While in college held positions at:
+
+-Tennessee Tech University Book Store
+-Tennessee Tech Student help desk
+-Volunteer State Community College IT Help Desk
+Oreilly Auto Parts
+Battery’s Plus Bulbs
+
+2011 – 2013 Auto Trader
+VIN Solutions QA and Compliance expert for auto dealer websites
+
+QA & Compliance Expert for auto dealer websites
+Insured all newly designed websites, met stringent quality standards before initial launch date, and included correct linking on all pages as well as grammar and ease of use.
+As compliance expert, ensured all new sites met the strict OEM standards & ensured dealers received all advertising funds.
+
+2005 – 2009 Dominion Enterprises/Dealerskins
+Enterprise Support Team Leader, Webmaster for Mazda USA
+
+Dedicated support team leader for Mazda USA and all Mazda dealers.
+Managed projects and delivered support to dealerships and Mazda USA marketing.
+Experienced in scaled operations, supporting over 2,000 CMS-generated websites, including advertising, content and data aggregation services.
+Intermediate customer support manager
+Data analysis and troubleshooting of a nighty inventory file feel via FTP using tools such as Microsoft Excel and Access
+
+2003 – 2004 Thomas Nelson, Inc.
+Technology Operations: Computer Support Technician
+Responsible for the daily computer technician duties as well as back for network administration and help desk duties in a MAC and Windows environment
+Alternated general help desk duties with other technicians
+
+2000 – 2002 Nashville Wire Products Mfg.
+Computer Network Support Technician for the various mfg. plants in middle TN.
+Responsible for the daily computer technician duties as well as back for network administration and help desk duties
+
+1998 – 2000 Canon USA Tech Support
+1991 – 1998 US NAVY- Diesel mechanic and machinist.
+
+EDUCATION
+
+3/20/2017 - New Horizons Computer Learning Center: 20462 Administering MS-SQL Server Databases
+3/13/2017 – New Horizons Computer Learning Center: 20463 Implementing a Data Warehouse/MS-SQL Server
+3/6/2017 – New Horizons Computer Learning Center: 20461 Querying Microsoft SQL Server
+5/2015 to 12/2016 - Tennessee Tech University: BSBA/business Information Technology.
+1/2014 to 5/2015 - Volunteer State Community College: Associate of Science, (Cum Laude)
+
+Contact this candidate

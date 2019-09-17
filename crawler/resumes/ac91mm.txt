@@ -1,0 +1,196 @@
+
+PETER A. PINISCH
+** ******** ***
+Markham, Ontario L6C 1R6
+647-***-****
+
+PROFILE
+
+Over 10 years’ experience in the field of Engineering & Industrial Technology, expertise in the development of Automation Equipment
+& Machinery, Manufacturing & Telecommunication Systems
+
+SUMMARY OF QUALIFICATIONS
+
+In-depth knowledge of Mechanical Design, Manufacturing Processes & Machinery
+Specialized skills in Mechatronics & Automation
+Significant diagnostic & troubleshooting abilities
+Qualified in fibre optic splicing, testing & termination
+Proficiency with test equipment: Spectrum Analyzer, OTDR, Optical Power, RF Signal Meters & Multi-Meters
+Strong organization skills, prioritizing & meticulous in completion of assignments
+Excellent oral & written communication
+
+EDUCATION
+
+Mechanical Engineering Technology Centre De Formation Professionelle Et Technique
+(Diploma) Montreal, QC
+
+Arts & Sciences Concordia University
+(Undergraduate) Montreal, QC
+
+Control Systems Engineering Academy of Engineering & Information Technology
+(Diploma) Toronto, ON
+
+Advanced PLC, Operating Engineer-CL.4 Industrain College
+(Diploma) Toronto, ON
+
+EMPLOYMENT HISTORY
+
+INDUSTRIAL MAINTENANCE …contract 2017-19
+IN-VISION STAFFING Oakville, Ontario
+Technical Services
+
+NETWORK COMMUNICATIONS…contract 2009-19
+WAVESTAR, GLOBALIVE CORPORATION, IBEW, Toronto, Ontario
+
+Review, interpret & operate with various schematics, blueprints & test documentation
+Performed high quality wiring & managing support for contractors working on CATV/FTTX communications systems
+Supervised the installation of ac/dc primary & secondary power rack; BBU, radio base station equipment
+overhead/ underflow structure, pedestals, concrete bases, flush mount vaults & cabinets
+Repaired or replaced faulty cables, power suppliers & amplifiers, measured/calibrated signal strength using WAVETEK RF signal meter
+Prepared & connected various types & sizes of fibre optic cable: testing, splicing & termination:
+Technical analysis of the network architecture: ISP/OSP & centralized cabling for Bell Canada, Rogers & Wightman Telecom
+Audit fibre network complex, to determine shortfalls & define the system’s capacity & capability
+Record the results of tests & system configuration; draft a schematic framework for planned plant upgrade
+Project management & technical field services: assisted in the design & formation of new cable infrastructure, (FTTX; HFC, RFoG, GPoN)
+
+EMPLOYMENT HISTORY contd. PETER A. PINISCH
+647-***-****
+
+Pg. 2
+
+FIBER OPTICS…contract 2007-09
+WESBELL TECHNOLOGIES, Toronto, Ontario
+Telecommunication & Investment Recovery Management
+
+Circuit build aerial, underground & performed premise cabling
+Splice optical cable & test for desired reading using OTDR
+POP HUT installation, in rack cross-connect & fibre management systems
+On assignment configured original FTTH systems for communities in south central Ontario
+
+MECHANICAL TECHNOLOGIST…contract 2004-05
+ATOMIC ENERGY of CANADA LTD. (AECL) Mississauga, Ontario
+Commercial Products & Field Services Division
+
+Responsible for the configuration & assembly of reactor tooling.
+Designed & completed (6) mock-ups employed as training systems for AECL & Pt. Lepreau Generating Station N.B.
+Developed (2) prototypes planned for innovative tool program, Bruce reactor project
+At site, instructed Comstock personnel on original equipment & adapted procedures for the emergent work
+Supported crews working on the reactor face & supervised the fuel channel side of (13) feeder replacements
+Assignments in flow visualization test rig set-up & mechanical systems
+
+TECHNICAL FIELD SERVICE 2001-04
+MASTEC CANADA INC. Scarborough, Ontario
+Telecommunication, Broadband & Network Services
+
+Maintained electrical distribution, coaxial & fibre optic cable systems
+Operated spectrum analyser to locate transmission problems & isolate noise contamination on the broadcast network
+Field-tested node, bridge amplifiers/ SMT, sketched topographic layout of the fault location
+Set-up UPS (captive office), repaired telephone & satellite equipment for Bell Canada
+
+MACHINE DEVELOPER…contract 2000-01
+SYNCHRONIZED AUTOMATION SYSTEMS INC. Mississauga, Ontario
+Test Cell, Pick/Place Station & Robot Handling Equipment
+
+R&D- Prototype design & tooling
+Produced samples, special purpose tools & fixtures used for automated part transfers & gripping systems
+Machined & modified the components for proper fit & alignment
+Test the mechanized systems
+
+AUTOMATION/ROBOTICS…contract 1999/2006
+KRAKEN AUTOMATION INC. Burlington, Ontario
+Industrial Control Systems
+
+HMI configuration, mechanical & electrical installation
+MCP/field-bus connectivity: PLC- I/O, machine control wiring & articulated robot systems
+Factory Acceptance Test/Equipment Commissioning
+
+FIELD SERVICE ENGINEER
+H.J.LANGEN INC. Mississauga, Ontario 1997-99
+Packaging Automation & Machinery
+
+Assembled the prototype, prepared tests to determine precision & durability
+Revised the engineering & technical specifications
+Field support; installed plant mechanization, concluded calibration & tuning on location
+
+PETER A. PINISCH
+647-***-****
+
+pg. 3
+
+PLANT ENGINEER…contract 1996-97
+ZENTAI INC. Montreal, Quebec
+Tool Design & Manufacturing
+
+Facility planning & utilization
+Improvised tools & special equipment for manufacturing efficiency
+Project administration: organized & implemented scope of work; design, production & materials
+Involved with aspects of quality assurance & customer liaison
+
+PROJECT ENGINEER …contract 1995-96
+NORTHERN TELECOM (NORTEL) LTD. Montréal, Quebec
+Advanced Power Systems Division
+Modular Distribution & Power Conversion Products
+Assignment: Affiliated Technology Inc
+Project: MINI-BTS, MSA-600, MDS-50
+
+Compiled & classified data for proper completion of the project
+Interpreted the detailed drawings & built the prototype
+Identified areas in the design for enhancement & cost reduction
+Qualified the device for production
+Composed assembly guides, defined tests & inspection procedures
+Project: Designed modern office concept for the Engineering Dept., Q/A Dept. & Technology Laboratory
+Site & location selection, established the floor plan
+Designed the general overall layout
+Detailed the layout drawings & utilities installation
+
+MILITARY HARDWARE ENGINEER …contract 1993-94
+TRITOP INC. Montreal, Quebec
+Fire & Safety Equipment Manufacturer
+
+Overhauled & tested multi-stage pumps, gas compressors & pneumatic conveyance systems
+Engineering compliance, regulatory requisite & design codes for respire apparatus, nautical & helicopter equipment
+Customized the control technology for the Securus purification system
+
+TECHNICAL SPECIALIST 1992-97
+AFFILIATED TECHNOLOGY INC. Hudson, Quebec
+Consultant & Engineering Services
+
+Product innovation & design
+Machine technology /controls & components
+Conducted TAB (Testing, Adjusting & Balancing) commissioning & start-up
+Integrated systems management
+
+TECHNICAL SKILLS
+
+Industrial Electrician 937420002 Quebec
+Electrician C/M 309A 920-31602 (credited) Ontario
+Millwright/Machinist (credited) QC/ON
+RSLINX, PLC5, SLC500, OMRON-LSS/CX-Programmer, FANUC 90-30
+CAD/CAM, GD & T
+
+PETER A. PINISCH
+647-***-****
+
+pg. 4
+
+ADDITIONAL TRAINING & PROFESSIONAL DEVELOPMENT
+
+VANIER COLLEGE Montreal, Quebec…1994-96
+Electro-technology... Attestation
+Electric Machines /Controls & Power Systems
+
+I.C.D. Ltee Montreal, Quebec…1991-92
+Microcomputer
+Computer Electronics
+
+BUCK ENGINEERING Montreal, Quebec…1981-84
+Industrial Electronics … Diploma
+Electric Circuits, Digital Concepts & Applications
+
+AVIRON TECHNICAL INSTITUTE Montreal, Quebec…1979-80
+General Mechanics…Diploma
+Automotive Systems
+
+References on request
+
+Contact this candidate

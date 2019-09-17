@@ -1,0 +1,139 @@
+
+FranklinTu
+ac764d@r.postjobfree.com 714-***-**** **122 Park Lane, Garden Grove, CA 92840
+
+Objective:
+Seeking a position as anElectro-Mechanical Engineer, Mechanical Engineer, Manufacturing Engineer, Sustaining Engineer, Test Engineer orrelated field.
+
+Overview:
+CAD: SolidWorks, Autodesk Inventor, Creo Parametric (Pro-E), AutoCAD, CATIA.
+Hands-on &experience with mechanical and electronic/electrical hardware.
+Experience working from R&D through production/assembly.
+Experience in multiple engineering disciplines
+Working knowledge with project/program management.
+Designed Electronic Enclosures.
+EMI, Thermal Analysis.
+Experience:
+BOEING, 5301 Bolsa Ave, Huntington Beach, CA 92647
+(Contractor through EASi Agency 901 Tower Dr., Ste.220, Troy, MI 48098) 714-***-****
+Mechanical Engineer ) 09/2018 – Present
+Selecting MIL & Aerospace connectors and components for a design.
+Generating detail wire harness diagram and Parts List for Unmanned Underwater Vehicles project.
+Supporting the team to analyze results.
+Performs technical review of supplier capabilities to facilitate source selection.
+Working under the guidance of a leadership team.
+
+OCTOTECH RF, 16531 Scientific, Irvine, CA 92618 714-***-****
+Sr. RF Packaging/Assembly Engineer(Edward Han ) 01/2018 – 7/2018
+Creating Lead Frame and Package Outline Drawing.
+Creating Wire Bonding Diagram drawing (RFIC Semiconductor).
+Generating Assembly Instructions, Build Sheet, Grind/Dice Build Sheet for CM (Carsem in Suzhou China, Tempus Lab in Incheon Korea, Quik-Pak in San Diego CA).
+Main contact to CM and Vendors.
+Maintaining equipment and supplies in the Lab.
+Working with outside lab (EAG & SAGE) for ESD test.
+
+Soligen Corp., 4590 MacArthur Blvd, Newport Beach, CA 92660 714-***-****
+Sr. Engineer 09/2017 – 12/2017
+Design packaging for SSD card by using SolidWorks 2016.
+Create test fixture and Test SSD card.
+Create BOM, ECR, EO, Work Instructions.
+Working on the SMT Stencil Printing (DEK), P & P (Juki, Topaz).
+
+Symbolic Displays Inc., 1917 E. St. Andrew Pl, Santa Ana, CA92705 714-***-****
+Project Engineer - Sr. Mechanical DesignEngineer(Tony L 02/2016 – 08/2017
+Interpreting customer specifications to define requirementsfor new LRU and Flight Control System.
+Applying engineering principles and researches, designs, develops concepts and oversees the testing of products, such as Illuminated Control Panel (i.e. Exterior Lighting, C-130J, Lockheed Martin), Display Control Panel (i.e. Indicator, Standby Engine Display, C-17, Boeing Defense)per Mil. Spec. and Aerospace Spec.
+Designing for manufacture and designing for assembly. Resolving engineering problems.
+Hands-on testing mechanical and electrical (minor) system.
+Using theAutodesk Inventor 3D CAD (+ VAULT)to create mechanical layouts, drawings and BOM.
+Developing detailed fabrication and assembly drawings, performing tolerances analysis.
+Generating Sales Drawing, ECR, EO and NCR.
+Designing fixtures for vibration test. Support Reliability department.
+Supportingproduction, QA, Sales department.
+
+C & D Zodiac Aerospace, 12240 Warland Dr., Cypress, CA 90630
+(Contractor through Insight Global Agency) 562-***-****
+Sr. Manufacturing Engineer(Johnathan) 07/2015 – 09/2015
+Provided drafting/documentation support for manufacturing.
+Revised and corrected existing documents.
+Performed Lean Manufacturing and Stockroom.
+Improved manufacturing process.
+Applied Lean Manufacturing (Safety, Quality, Cost, & Delivery).
+UsedCATIAV5 to design fixture for production.
+
+Solid State Devices, Inc., 14701 Firestone Blvd, La Mirada, CA 90638 562-***-****
+Electro-Mechanical DesignEngineer and Process Engineer(David Guy) 11/2014 - 03/2015
+Mechanical Design: Packaging for electronic modules per MIL specification.
+SolidWorks: 3D model (with Features, Surfaces, Sheet Metal…), 2D drawing,EPDM, BOM, ECR/EO/NCR.
+Built prototype.
+Resolved project and product issue.
+Attended PDR, CDR and FDR meeting.
+GeneratedAssembly Plan, Test Plan, Assembly Jig and Test Fixture.
+Worked closely with Engineers, Marketing, Operations and Vendor.
+Provided technical support to customer, engineering team, sales, marketing and manufacturing.
+
+STACO SYSTEMS, Inc., 7 Morgan, Irvine, CA 92618 949-***-****
+Mechanical Engineer and Manufacturing Engineer Manager(Tim Devlin )9/2006 - 11/2014
+Designed Rugged LED (Red, Green, Amber, NVIS Green A, B) Keyboards and Keypads.
+Supported for Aerospace, Military and ITAR (International Traffic in Arms Regulations) products.
+UsedSolidWorks(+ EPDM) and Creo Parametric2.0CAD software to create mechanical models and drawings
+Createddrawings from component level to top level.(Sheet Metal chassis enclosures, Solid material, Plastic).
+CreatedBOM and Manufacturing drawings.
+CreatedECR / EO.
+Hands on work to build prototype after designing.
+Performed DFM & DFT
+Used lathe and mill machines to build assembly and test fixtures.
+Worked with senior staff, mid-level manager and operations.
+Assisted VP of Data Entry Systems with proposals.
+Involved in all qualification testing (CE, UL, Thermal, Shock, Vibration, EMI, ESD, RF Emission, etc.).
+Interacted with customers on the specific project application.
+Travelled to customer sites to solve problems.
+Cole Instrument Corp., 2650 S. Croddy Way, Santa Ana, CA 92704 714-***-****
+Electro-Mechanical Design Engineer 2/2006 - 9/2006
+Designed engine starter switches.
+Followed up the design from starting to production.
+UsedAutodesk Inventor 3D CAD software to create mechanical models and drawings.
+
+Powerwave Technologies, 1801 E. St. Andrew Pl, Santa Ana, CA 92705 ) 466-1000
+Manufacturing Engineer and NPI Test Engineer 10/1999 - 2/2006
+Provided training and support to Contract Manufacturing in Thailand about 3 years.
+Improved the manufacturability and yield of the products, efficiency of manufacturing manpower.
+Interfaced with engineering in coordinating the release of new products.
+Responsible for planning and establishing manufacturing techniques.
+Responsible for troubleshooting and resolving: manufacturing problems associated with machinery, materials, equipment, and other processes.
+Performed DFM (Design for Manufacture), DFT (Design for Test)
+Reviewed and approved Engineering Release.
+Test, Troubleshooting and Support Design Engineer Team on the New Product.
+Verified Automation test and developed new test and hardware procedures.
+Provided engineering support to production in troubleshooting and resolving technical problems.
+Assisted developing Automation Test Bench (ATE) for new Product.
+Built test fixtures and Interface sets from design engineering drawings and applications.
+Performed Design Verification Test (DVT).
+
+Orange Machine Shop, Orange, California
+Machinist 1993 – 1998
+Operatedconventional Lathe & Milling machines.
+
+Software Skill and Knowledge:
+Skills:SolidWorks, AutodeskInventor, Creo Parametric 2.0 (Pro-E).
+Microsoft Word, Excel, Power Point, Project, & Visio, Adobe Acrobat (PDF Professional Version)
+Knowledge: CATIA V5, AutoCAD Mechanical, LabVIEW
+DO-160 spec. for Aerospace products
+MIL-STD-810 spec. for MIL products
+MS25212 (DZUS), MIL-PRF-22885H, MIL-DTL-7788H
+IP67
+
+Education:
+California State Polytechnic University, Pomona
+Major: B.S. of Electrical & Computer Engineering.
+Minor:B.S. of Mechanical Engineering.
+Certificate of Radio Frequency Engineering at Powerwave Technologies, Inc.
+Certificate of Feedforward Technologyat Powerwave Technologies, Inc.
+Certificate of Competence Process Improvement
+Certificate of LabVIEW
+Certificate of SolidWorks
+
+References:
+U.S. Citizen.
+
+Contact this candidate

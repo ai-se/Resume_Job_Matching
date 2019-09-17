@@ -1,0 +1,109 @@
+
+Philip D. Bierhalter II
+**** ***** ***. ********, ********. 49419
+Phone: 269-***-**** Or Cell: 616-***-****
+E-mail: ac7nrs@r.postjobfree.com
+EDUCATION
+Bachelor of Science Degree: Electrical/Electronic Technology Engineering, Ferris State University, Big Rapids, Michigan
+oRelated Course Work: Magnetic Induction, AC/DC control devices, PLC Programming / PLD +, Basic, C++, Assembly Programming, Serial/parallel Communications, Ladder Logic, Project Management, Advanced Calculus / Fourier series
+oSenior Project entailed the design, construction, and implementation of a 110 VAC Voice Activated Home Control System.
+Associate Degree - Electronics Technology, Lake Michigan Community College, Benton Harbor, MI
+United States Naval Submarine School, U.S. Naval Submarine Base, Groton, CONN.
+oSpecialized training in submarine warfare and operations dealing with previous naval training.
+United States Naval Machinist Mate "A" School, Great Lakes Naval Training, Great Lakes, ILL
+oMaintenance of high-pressure hydraulics, boiler, air, and water systems.
+oControl and maintenance of submarine water, hydraulic and air systems.
+WORK EXPERIENCE
+Allegis, Detroit MI. 04/18 – 10/18
+Controls IT Integrator
+Collection of raw data for new assembly line at General Motors Drivetrain in Wyoming, MI. Used PCM&C, Data Validation Tools, NetFlex, and Kepware. Responsible for monitoring all OEM Data was correct and recorded correctly.
+
+Fogg Filler, Holland MI. 12/17 – 02/18
+Electrical Engineer
+Custom construction of bottle fill equipment utilizing Design Site, Rockwell Software, and Virtual Machine from an electrical standpoint.
+Utilize RS Logix 5000, FactoryTalk, RS logic 500, on several operating system platforms.
+Usage of drafting software Virtual Machine to modify existing prints and create new documentation.
+Involved with in house startup of machinery to ensure reliability before delivery to customer.
+
+Tyson Foods, Zeeland, MI. 09/2017 – 10/2017
+Maintenance Tech.
+Support production in daily operations including PLC and electrical repairs.
+Incorporated the usage of RS logix 5, 500, and 5000 along with FactoryTalk and MicroScan in the fast paced food industry on various machinery concepts.
+
+Aerotek Recruiting, Kentwood, MI. 01/ 2017 – 04/2017
+Controls Engineer
+Short term contracts at locations in Kentwood to support production.
+Contracts at HTS, Kentwood and North American Fuel, Kentwood. Duties involved rebuilding machinery controls.
+
+Hearthside Foods Solutions, Kentwood MI. 09/ 2013 – 01/ 2017
+Controls Technician
+Responsible for maintaining production reliability for four facilities around Grand Rapids.
+Had to use various PLC, HMI, and drive software packages.
+Software included Logix’s 5, 500, and 5000’s along with FatoryTalk, and Drive Executive.
+Also utilize CX programmer, Parameter Store, and Prolink III
+Assisted maintenance team with mechanical maintenance issues. Helped with changing gear boxes, troubleshooting and fixing conveyors and drive rollers.
+
+E’mation Controls & Engineering, Byron Center, MI. 11/ 2012 – 12/ 2012
+Control Engineer
+Design & Implementation of control systems to meet Customer’s needs.
+Designed and built control systems to meet customer demands.
+Usage of Rockwell Software including Logix 500, PanelBuilder 32, and FactoryTalk.
+
+OnStaff USA, Portage, MI. 07/ 2012 – 10/ 2012
+Controls Engineer
+3 Month contract at PSI located in Otsego MI. to convert present programming to Rockwell Software format.
+Assisted with the programming and HMI interfacing using RS Logix 500, and FactoryTalk on Dewatering machinery used in the States and abroad.
+Completed converting a programming protocol from one format to Rockwell language in a PLC and HMI scenario.
+
+Challenge Manufacturing INC, Holland, MI 11/ 2008 – 07/ 2012
+Controls Engineer
+Maintaining of off shift Engineering support including Controls, Welding, and Quality to provide disruption free production flow.
+Responsibilities included support to an expansive press room but also a wide variety of welding operations including several that incorporated handshaking with up to 7 ABB & Fanuc robots with several new production lines being installed.
+Extensive use of Logix 500, Logix 5000, DeviceNet, PanelBuilder 32, and FactoryTalk. Also became proficient with Medar weld controllers
+Installed numerous Poke Yoke and duel sheet detectors to meet customers’ requests.
+
+Magna Donnelly, Holland, MI. 04/ 2007 – 05/ 2008
+Electrical Engineer\Maintenance Manager
+Duties included overseeing the day to day operations of the Maintenance Department including preventive maintenance, material purchases, and scheduling of machinery repair/rebuild.
+Engineering responsibilities included designing, building and implementation of new production equipment involving building of control systems, programming of PLC’s and PC’s to final production working standards along with continuous support to ensure disruptive free production.
+Programming and troubleshooting of Slick 500’s, PLC 5’s, MicroLogix’s, and 5000 using RS- Linxs. Programming of Panelview’s and Microview’s.
+Designed and implemented a PLC based pick and place for Magna’s facility in Monterrey Mexico.
+
+Asimco Technologies Inc., Grand Haven, MI. 11/ 2005 – 04/ 2007
+Senior Controls Electrician
+Hired directly from Aerotek as a Senior Controls Technician to ensure and maintain productivity to fulfill customers’ needs for automotive camshafts. I was held accountable for electrical reliability for numerous production lines.
+Operations involved precision accuracy in CNC, lathe, and precision grinding operations. I assisted with mechanical reliability of machinery often necessary to insure reliable productivity in a fast paced environment.
+Asimco supplied camshafts for Ford, GM, Hemi, Cummins and Caterpillar.
+Programming and troubleshooting of Slick 500’s, PLC 5’s, MicroLogix’s, and 5000 using RS-Logix/Linxs. Programming of Panelview’s and Microview’s.
+Responsible for equipment such as Landis, Okuma, and Cincinnati laths, mills, and CNC machinery
+Installation and replacement of Siemens Drives and control systems.
+
+Benteler Automotive (Hagen Drive), Grand Rapids, MI 05/ 2004 – 12/ 2004
+Electrical Engineer
+Employed with Time Technical Services as an Electrical Engineer.
+Responsible for maintaining production reliability. I was assigned to Hydroforming and tube bending technology involving Allen-Bradley and Siemens controls, vision inspection and final quality conformation.
+Programming and troubleshooting of Slick 500 & PLC 5’s using RS-Logix. Programming PanelView 1000, 1200, & Microview’s using PanelBuilder software.
+Assisted with starting of a new catalytic converter assembly line.
+Worked with Hydroforming manufacturing including PLC controls, valve tuning, and extensive assistance to the maintenance team concerning electrical and PLC troubleshooting.
+
+Sara Lee Bakery Group, Grand Rapids, MI 08/ 2003 – 04/ 2004
+Engineering Supervisor
+Implementation of control systems and the supervisory position of Engineering Mechanics and Electricians.
+Supervision on maintenance team to support production reliability.
+Installed and debugged Slick 500’s, PLC 5’s and multiple HMI interfaces for new production lines.
+Supported and improved Lean manufacturing on the plant floor while maintaining production reliability.
+
+Frontier Technology Inc., Allegan, MI 07/ 2003 – 08/ 2003
+Controls Engineer
+Building and implementation of control cabinets and external wiring of associated field devices to final startup and run off.
+Constructed and insured reliability of moisture separation system for the city of Phoenix AZ.
+Built, Installed and programmed conveyor system for moisture separator including control cabinets and field controls, including Slick 500 and PanelView’s setup and debug.
+
+L & W Engineering, Holland, MI 10/ 2001 – 12/ 2002
+Senior Controls Engineer
+Responsible for robotic weld cells reliability, and installation of new production lines including extensive use of Rockwell Automation, and Mitsubishi Software. Have experience with safely interfacing robotic units with PLC controls, and the building and installation of control cabinets on numerous production lines.
+Design and contracting of the installation on seven conveyor lines including Slick 500, MicroLogix’s and PanelView 1000 programming using PanelBuilder for new models of Honda USA.
+Construction of control cabinets installed and wired for several Pedestal welders including HMI controls.
+Supported maintenance staff with 24/7 support to ensure and enhance productivity.
+
+Contact this candidate
