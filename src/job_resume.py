@@ -9,6 +9,7 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
+from scipy.stats import spearmanr
 from demos import cmd
 
 import re
@@ -111,7 +112,7 @@ class JobResume():
     def clustering(self, n=5):
         self.clusters = KMeans(n_clusters=n, random_state=0).fit(self.csr_mat).labels_
 
-    def visualization(self):
+    def visualization(self,name=''):
         self.dimensionality_reduction()
         self.clustering(n=5)
 
@@ -129,17 +130,16 @@ class JobResume():
         ax = fig.add_subplot(111, projection='3d')
         resumes = {}
         jobs = {}
+        for cat in set(self.clusters):
+            jobs[cat] = {"x": [], "y": [], "z":[]}
+            resumes[cat] = {"x":[], "y":[], "z":[]}
         for i,row in enumerate(self.reduced_mat):
             cat = self.clusters[i]
             if i < self.num_resume:
-                if cat not in resumes:
-                    resumes[cat] = {"x":[], "y":[], "z":[]}
                 resumes[cat]["x"].append(row[0])
                 resumes[cat]["y"].append(row[1])
                 resumes[cat]["z"].append(row[2])
             else:
-                if cat not in jobs:
-                    jobs[cat] = {"x": [], "y": [], "z":[]}
                 jobs[cat]["x"].append(row[0])
                 jobs[cat]["y"].append(row[1])
                 jobs[cat]["z"].append(row[2])
@@ -147,13 +147,13 @@ class JobResume():
         for cat in set(self.clusters):
             ax.scatter(jobs[cat]["x"],jobs[cat]["y"],jobs[cat]["z"],marker ="o",color=colors[cat])
             ax.scatter(resumes[cat]["x"],resumes[cat]["y"],resumes[cat]["z"], marker ="^",color=colors[cat])
-        plt.savefig("../figure/visualization3D.png")
+        plt.savefig("../figure/"+name+"visualization3D.png")
 
 
 def test():
     x = JobResume()     # Load data
     x.prepare()         # Preprocessing
-    x.doc2vec()         # Encode every resume and job post
+    x.tfidf()         # Encode every resume and job post
     x.visualization()
     set_trace()
 
@@ -174,6 +174,35 @@ def test():
     set_trace()
 
     x.print_resume(matched_resumes[0])
+
+def consist():
+    x = JobResume()     # Load data
+    x.prepare()         # Preprocessing
+    x.doc2vec()         # Encode every resume and job post
+    y = JobResume()     # Load data
+    y.prepare()         # Preprocessing
+    y.lda()         # Encode every resume and job post
+    z = JobResume()     # Load data
+    z.prepare()         # Preprocessing
+    z.tfidf()         # Encode every resume and job post
+    matched_resumes_x, probs_x = x.match_job(0,5)
+    matched_resumes_y, probs_y = y.match_job(0,5)
+    matched_resumes_z, probs_z = z.match_job(0,5)
+    spearmanr(probs_x,probs_y)
+    spearmanr(probs_z,probs_y)
+    spearmanr(probs_x,probs_z)
+
+    matched_jobs_x, probs_x = x.match_resume(0, 5)
+    matched_jobs_y, probs_y = y.match_resume(0, 5)
+    matched_jobs_z, probs_z = z.match_resume(0, 5)
+    spearmanr(probs_x,probs_y)
+    spearmanr(probs_z,probs_y)
+    spearmanr(probs_x,probs_z)
+
+    x.visualization(name="doc2vec_")
+    y.visualization(name="lda_")
+    z.visualization(name="tfidf_")
+    set_trace()
 
 if __name__ == "__main__":
     eval(cmd())
