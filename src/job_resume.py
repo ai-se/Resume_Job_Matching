@@ -429,7 +429,7 @@ def trend():
     plt.xlabel("Year")
     plt.xticks(x_axis, years, fontsize=9)
     # plt.yticks(np.arange(0, 101, 10))
-    # plt.ylim([0, 101])
+    plt.ylim([0, 1.0])
     # Legends
     patches = []
     topics = []
