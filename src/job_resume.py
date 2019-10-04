@@ -25,7 +25,6 @@ class JobResume():
     def __init__(self,jobfile = "../data/job.csv",resumefile="../data/resume.csv"):
         self.jobs = pd.read_csv(jobfile)
         self.resumes = pd.read_csv(resumefile)
-        self.num_lda_topics = 100
 
     def print_job(self,job_id):
         print("Job Post:")
@@ -50,12 +49,12 @@ class JobResume():
         self.num_job = len(self.job_post)
         self.content = self.resume_info+self.job_post
 
-    def lda(self, content="all", seed=0):
+    def lda(self, content="all", seed=0, num_topics=100, alpha=0.1, eta=0.01):
 
         np.random.seed(seed)
         import lda
-        tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
-                               decode_error="ignore")
+        # tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
+        #                        decode_error="ignore")
         if content == "resume":
             target = self.resume_info
         elif content == "job":
@@ -66,17 +65,17 @@ class JobResume():
                                 sublinear_tf=False,decode_error="ignore",max_features=4000)
         tfidfer.fit(target)
         voc = tfidfer.vocabulary_.keys()
-        remove_words = ["job","application","armenia"]
-        for word in remove_words:
-            if word in voc:
-                voc.remove(word)
+        # remove_words = ["job","application","armenia"]
+        # for word in remove_words:
+        #     if word in voc:
+        #         voc.remove(word)
 
         tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
                         vocabulary=voc,decode_error="ignore")
         # tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
         #                 vocabulary=self.voc,decode_error="ignore")
         self.csr_mat=tfer.fit_transform(target)
-        lda1 = lda.LDA(n_topics=self.num_lda_topics, alpha=0.1, eta=0.01, n_iter=200)
+        lda1 = lda.LDA(n_topics=num_topics, alpha=alpha, eta=eta, n_iter=200)
         self.csr_mat = lda1.fit_transform(self.csr_mat.astype(int))
         self.classes = np.argmax(self.csr_mat,axis=1)
         vocab = tfer.vocabulary_
@@ -216,12 +215,15 @@ class JobResume():
             for i in xrange(len(mat)):
                 mat[i][i] = 0
             closest_i, closest_j = np.unravel_index(np.argmax(mat, axis=None), mat.shape)
-            to_merge = classes.pop(closest_i)
+            if closest_i > closest_j:
+                closest_i, closest_j = closest_j, closest_i
+            to_merge = classes.pop(closest_j)
             for title in to_merge:
-                classes[closest_j][title] = to_merge[title]
+                classes[closest_i][title] = to_merge[title]
+
         self.classes = range(len(self.jobs))
         for i,dict in enumerate(classes):
-            for index in np.array(dict.values()).flatten():
+            for index in [item for sublist in dict.values() for item in sublist]:
                 self.classes[index] = i
 
 
@@ -331,53 +333,7 @@ def triplet_test():
     print(result_resume)
     set_trace()
 
-def triplet_test2():
-    margin = 0.0
-    jobids = {"photographer":6445,"Office Manager":3238,"HR":18993,"ASP.NET Developer":11854,"Sales/Consultant":1525,"Administrative Assistant":14386,"Graphic Designer":14585,"Software Engineer":413, "User Interface/ Web Designer":16808, "Lawyer":19000}
-    resumeids = {"photographer":44,"Office Manager":103,"HR":3,"ASP.NET Developer":48,"Sales/Consultant":605,"Administrative Assistant":504,"Graphic Designer":1168,"Software Engineer":881,"User Interface/ Web Designer":41, "Lawyer":392}
-    x = JobResume()     # Load data
-    x.prepare()         # Preprocessing
-    result_job = {}
-    result_resume = {}
-    wrong = []
-    for treatment in [20]:
-        x.num_lda_topics = treatment
-        x.lda()
-        name = "lda_"+str(treatment)
-        result_job[name] = 0
-        result_resume[name] = 0
-        for key in jobids:
-            jobid = jobids[key]
-            resume_yes = resumeids[key]
-            for r in resumeids:
-                if r==key:
-                    continue
-                resume_no = resumeids[r]
-                diff = x.cos_dist(jobid+x.num_resume,resume_yes) - x.cos_dist(jobid+x.num_resume,resume_no)
-                if diff > margin:
-                    result_job[name]+=1
-                elif diff < -margin:
-                    result_job[name]+=-1
-                    wrong.append((key,r))
-        for key in resumeids:
-            resumeid = resumeids[key]
-            job_yes = jobids[key]
-            for r in jobids:
-                if r==key:
-                    continue
-                job_no = jobids[r]
-                diff = x.cos_dist(resumeid,job_yes+x.num_resume) - x.cos_dist(resumeid,job_no+x.num_resume)
-                if diff > margin:
-                    result_resume[name]+=1
-                elif diff < -margin:
-                    result_resume[name]+=-1
-                    wrong.append((key,r))
-    print("targeting jobs")
-    print(result_job)
-    print("targeting resumes")
-    print(result_resume)
-    print(wrong)
-    set_trace()
+
 
 def trend():
     import matplotlib.patches as mpatches
@@ -385,8 +341,10 @@ def trend():
 
     x = JobResume()     # Load data
     x.prepare()
-    x.num_lda_topics = 10
-    x.lda(content="job",seed=5)
+    num_topics = 100
+    x.lda(content="job",seed=5,num_topics=num_topics)
+    print(Counter(x.classes))
+    set_trace()
     representatives = np.array(np.argmax(x.csr_mat,axis=0))[0]
     print(representatives)
     set_trace()
@@ -399,7 +357,7 @@ def trend():
         tmp = Counter(x.classes[indices])
         row = {"Year": year}
         tmp_row = {}
-        for i in xrange(x.num_lda_topics):
+        for i in xrange(num_topics):
             tmp_row[i]=float(tmp[i])/total
         row["order"] = [(key, tmp_row[key]) for key in np.array(tmp_row.keys())[np.argsort(tmp_row.values())]]
         result.append(row)
@@ -413,7 +371,7 @@ def trend():
     x_axis = np.arange(0, len(years))
     y_offset = np.array([0] * len(years))
     colors_dict = {}
-    top_topic_count = x.num_lda_topics
+    top_topic_count = num_topics
     plt.figure(figsize=(8, 6))
     for index in range(top_topic_count):
         bar_val, color = [], []
@@ -469,6 +427,7 @@ def trend2():
     years = sorted(list(set(x.jobs["Year"])))
     result = []
     for year in years:
+        set_trace()
         indices = np.where(x.jobs["Year"]==year)[0]
         total = len(indices)
         tmp = Counter(x.classes[indices])
