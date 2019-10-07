@@ -11,6 +11,12 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from scipy.stats import spearmanr
 from demos import cmd
+from collections import Counter
+
+try:
+   import cPickle as pickle
+except:
+   import pickle
 
 import re
 
@@ -29,27 +35,65 @@ class JobResume():
         print(self.resumes["Resume"][resume_id].decode('string_escape'))
 
     def prepare(self):
-        resumes = [x for x in self.resumes["Resume"]]
-        jobs = [x for x in self.jobs["jobpost"]]
-        self.num_resume = len(resumes)
-        self.num_job = len(jobs)
-        self.content = resumes+jobs
+        self.resume_info = [x for x in self.resumes["Resume"]]
+        self.job_post = []
+        for i in xrange(len(self.jobs)):
+            if pd.isnull(self.jobs["ApplicationP"][i]):
+                self.job_post.append(self.jobs["jobpost"][i])
+            else:
+                x = self.jobs["ApplicationP"][i]
+                start = self.jobs["jobpost"][i].find(x)
+                end = start + len(x)
+                self.job_post.append(self.jobs["jobpost"][i][:start]+self.jobs["jobpost"][i][end:])
+        self.num_resume = len(self.resume_info)
+        self.num_job = len(self.job_post)
+        self.content = self.resume_info+self.job_post
 
-    def lda(self):
+    def lda(self, content="all", seed=0, num_topics=100, alpha=0.1, eta=0.01):
+
+        np.random.seed(seed)
         import lda
-        tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
-                               decode_error="ignore")
-        self.csr_mat = tfer.fit_transform(self.content)
+        # tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
+        #                        decode_error="ignore")
+        if content == "resume":
+            target = self.resume_info
+        elif content == "job":
+            target = self.job_post
+        else:
+            target = self.content
+        tfidfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=True, smooth_idf=False,
+                                sublinear_tf=False,decode_error="ignore",max_features=4000)
+        tfidfer.fit(target)
+        voc = tfidfer.vocabulary_.keys()
+        # remove_words = ["job","application","armenia"]
+        # for word in remove_words:
+        #     if word in voc:
+        #         voc.remove(word)
 
-        lda1 = lda.LDA(n_topics=100, alpha=0.1, eta=0.01, n_iter=200)
+        tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
+                        vocabulary=voc,decode_error="ignore")
+        # tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
+        #                 vocabulary=self.voc,decode_error="ignore")
+        self.csr_mat=tfer.fit_transform(target)
+        lda1 = lda.LDA(n_topics=num_topics, alpha=alpha, eta=eta, n_iter=200)
         self.csr_mat = lda1.fit_transform(self.csr_mat.astype(int))
+        self.classes = np.argmax(self.csr_mat,axis=1)
+        vocab = tfer.vocabulary_
+        self.vocab =  np.array(vocab.keys())[np.argsort(vocab.values())]
+        self.topic_words = lda1.topic_word_
+        n_topic_words = 8
+        for i,topic_dist in enumerate(self.topic_words):
+            topic = self.vocab[np.argsort(topic_dist)[-n_topic_words:][::-1]]
+            print('Topic {}: {}'.format(i,' '.join(topic)))
         self.csr_mat = csr_matrix(preprocessing.normalize(self.csr_mat,norm='l2',axis=1))
         return
 
     def doc2vec(self):
+
         from gensim.models import Doc2Vec
         from gensim.models.doc2vec import TaggedDocument
         import multiprocessing
+        np.random.seed(0)
 
         def convert_sentences(sentence_list):
             for i in range(len(sentence_list)):
@@ -105,11 +149,15 @@ class JobResume():
         order = np.argsort(probs)[::-1][:num]
         return order, probs[order]
 
+    def cos_dist(self,a,b):
+        return (self.csr_mat[a]*(self.csr_mat[b].transpose())).toarray()[0]
+
     def dimensionality_reduction(self,n=3):
         pca = PCA(n_components=n)
         self.reduced_mat = pca.fit_transform(self.csr_mat.toarray())
 
     def clustering(self, n=5):
+        np.random.seed(0)
         self.clusters = KMeans(n_clusters=n, random_state=0).fit(self.csr_mat).labels_
 
     def visualization(self,name=''):
@@ -149,13 +197,53 @@ class JobResume():
             ax.scatter(resumes[cat]["x"],resumes[cat]["y"],resumes[cat]["z"], marker ="^",color=colors[cat])
         plt.savefig("../figure/"+name+"visualization3D.png")
 
+    def hierarchy(self, n=10):
+        classes = [{title: np.where(self.jobs["Title"]==title)[0].tolist()} for title in set(self.jobs["Title"]) if not pd.isnull(title)]
+        m=self.csr_mat.shape[1]
+        while len(classes)>n:
+            print(len(classes))
+            centers = []
+            for dict in classes:
+                indices = [item for sublist in dict.values() for item in sublist]
+                try:
+                    center = preprocessing.normalize(np.array([np.mean(self.csr_mat[indices].toarray(),axis=0)]),norm='l2',axis=1)[0]
+                except:
+                    set_trace()
+                centers.append(center)
+            centers = csr_matrix(np.array(centers))
+            mat = (centers * centers.transpose()).toarray()
+            for i in xrange(len(mat)):
+                mat[i][i] = 0
+            closest_i, closest_j = np.unravel_index(np.argmax(mat, axis=None), mat.shape)
+            if closest_i > closest_j:
+                closest_i, closest_j = closest_j, closest_i
+            to_merge = classes.pop(closest_j)
+            for title in to_merge:
+                classes[closest_i][title] = to_merge[title]
+
+        self.classes = range(len(self.jobs))
+        for i,dict in enumerate(classes):
+            for index in [item for sublist in dict.values() for item in sublist]:
+                self.classes[index] = i
+
+
+        new_jobs = []
+        for job_title in classes:
+            tmp = {title:len(job_title[title]) for title in job_title}
+            new_jobs.append(np.array(tmp.keys())[np.argsort(tmp.values())[::-1][:8]])
+        print(new_jobs)
+
+
+
+
 
 def test():
     x = JobResume()     # Load data
     x.prepare()         # Preprocessing
     x.tfidf()         # Encode every resume and job post
-    x.visualization()
     set_trace()
+
+    x.visualization()
 
     # Find top 5 most similar resumes to Job post ID 0.
     matched_resumes, probs = x.match_job(0,5)
@@ -203,6 +291,155 @@ def consist():
     y.visualization(name="lda_")
     z.visualization(name="tfidf_")
     set_trace()
+
+def triplet_test():
+    margin = 0.0
+    jobids = {"photographer":6445,"Office Manager":3238,"HR":18993,"ASP.NET Developer":11854,"Sales/Consultant":1525,"Administrative Assistant":14386,"Graphic Designer":14585,"Software Engineer":413, "User Interface/ Web Designer":16808, "Lawyer":19000}
+    resumeids = {"photographer":44,"Office Manager":103,"HR":3,"ASP.NET Developer":48,"Sales/Consultant":605,"Administrative Assistant":504,"Graphic Designer":1168,"Software Engineer":881,"User Interface/ Web Designer":41, "Lawyer":392}
+    x = JobResume()     # Load data
+    x.prepare()         # Preprocessing
+    result_job = {"tfidf":0,"lda":0,"doc2vec":0}
+    result_resume = {"tfidf":0,"lda":0,"doc2vec":0}
+    for treatment in [x.tfidf,x.lda,x.doc2vec]:
+        treatment()
+        name = treatment.__name__
+        for key in jobids:
+            jobid = jobids[key]
+            resume_yes = resumeids[key]
+            for r in resumeids:
+                if r==key:
+                    continue
+                resume_no = resumeids[r]
+                diff = x.cos_dist(jobid+x.num_resume,resume_yes) - x.cos_dist(jobid+x.num_resume,resume_no)
+                if diff > margin:
+                    result_job[name]+=1
+                elif diff < -margin:
+                    result_job[name]+=-1
+        for key in resumeids:
+            resumeid = resumeids[key]
+            job_yes = jobids[key]
+            for r in jobids:
+                if r==key:
+                    continue
+                job_no = jobids[r]
+                diff = x.cos_dist(resumeid,job_yes+x.num_resume) - x.cos_dist(resumeid,job_no+x.num_resume)
+                if diff > margin:
+                    result_resume[name]+=1
+                elif diff < -margin:
+                    result_resume[name]+=-1
+    print("targeting jobs")
+    print(result_job)
+    print("targeting resumes")
+    print(result_resume)
+    set_trace()
+
+
+
+def trend():
+    import matplotlib.patches as mpatches
+
+
+    x = JobResume()     # Load data
+    x.prepare()
+    num_topics = 100
+    x.lda(content="job",seed=5,num_topics=num_topics)
+    print(Counter(x.classes))
+    set_trace()
+    representatives = np.array(np.argmax(x.csr_mat,axis=0))[0]
+    print(representatives)
+    set_trace()
+
+    years = sorted(list(set(x.jobs["Year"])))
+    result = []
+    for year in years:
+        indices = np.where(x.jobs["Year"]==year)[0]
+        total = len(indices)
+        tmp = Counter(x.classes[indices])
+        row = {"Year": year}
+        tmp_row = {}
+        for i in xrange(num_topics):
+            tmp_row[i]=float(tmp[i])/total
+        row["order"] = [(key, tmp_row[key]) for key in np.array(tmp_row.keys())[np.argsort(tmp_row.values())]]
+        result.append(row)
+
+    COLORS_ALL = ["lightgray", "red", "blue", "darkslategray","yellow", "darkmagenta", "cyan", "saddlebrown","orange", "lime", "hotpink"]
+    def get_color(index):
+        return COLORS_ALL[index]
+
+    width = 0.6
+    plts = []
+    x_axis = np.arange(0, len(years))
+    y_offset = np.array([0] * len(years))
+    colors_dict = {}
+    top_topic_count = num_topics
+    plt.figure(figsize=(8, 6))
+    for index in range(top_topic_count):
+        bar_val, color = [], []
+        for i,row in enumerate(result):
+            topic = row["order"][index]
+            if topic[0] not in colors_dict:
+                colors_dict[topic[0]] = get_color(topic[0])
+            bar_val.append(topic[1])
+            color.append(colors_dict[topic[0]])
+        plts.append(plt.bar(x_axis, bar_val, width, color=color, bottom=y_offset))
+        y_offset = np.add(y_offset, np.array(bar_val))
+    plt.ylabel("Topic %")
+    plt.xlabel("Year")
+    plt.xticks(x_axis, years, fontsize=9)
+    # plt.yticks(np.arange(0, 101, 10))
+    plt.ylim([0, 1.0])
+    # Legends
+    patches = []
+    topics = []
+    topicname = ["system","office","sales","accounting","english","representative","software","consulting","banking","management"]
+    for index, (topic, color) in enumerate(colors_dict.items()):
+        patches.append(mpatches.Patch(color=color, label='Topic %s' % str(topic)))
+        topics.append(topicname[topic])
+    plt.legend(tuple(patches), tuple(topics), loc='upper center', bbox_to_anchor=(0.5, 1.14), ncol=5, fontsize=9,
+             handlelength=0.7)
+    plt.savefig("../figure/trend.png",
+              bbox_inches='tight')
+    plt.clf()
+
+def trend2():
+
+
+    try:
+        with open("../dump/hierarchy.pickle","r") as f:
+            x = pickle.load(f)
+    except:
+        try:
+            with open("../dump/lda.pickle","r") as f:
+                x = pickle.load(f)
+        except:
+            x = JobResume()     # Load data
+            x.prepare()
+            x.num_lda_topics = 100
+            x.lda(content="job")
+            with open("../dump/lda.pickle","w") as f:
+                pickle.dump(x,f)
+
+        num_jobs = 10
+        x.hierarchy(n=num_jobs)
+        with open("../dump/hierarchy.pickle","w") as f:
+            pickle.dump(x,f)
+
+    years = sorted(list(set(x.jobs["Year"])))
+    result = []
+    for year in years:
+        set_trace()
+        indices = np.where(x.jobs["Year"]==year)[0]
+        total = len(indices)
+        tmp = Counter(x.classes[indices])
+        row = {"Year": year}
+        for i in xrange(num_jobs):
+            row[i]=tmp[i]
+            row[i+num_jobs] = float(tmp[i])/total
+        result.append(row)
+    df = pd.DataFrame(result)
+    df.to_csv("../figure/trend_hierarchy.csv")
+
+
 
 if __name__ == "__main__":
     eval(cmd())
