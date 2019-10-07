@@ -1,0 +1,89 @@
+
+PROFILE SUMMARY
+* ***** ** ********** ** Information Technology as an Oracle PL SQL and APEX Developer and Application Support Specialist.
+Extensive experience in creating web applications using the Oracle Application Express (APEX), SQL and PL/SQL.
+Involved in all phases of the SDLC (Software Development Life Cycle) from analysis, design, development, testing and implementation with timely delivery against aggressive deadlines.
+Developed Complex queries and database objects like Stored Procedures, Functions, Packages, Cursors and Triggers using SQL and PL/SQL.
+Hands-on experience with Oracle APEX 4.1 /5.1/18.1, SQL Developer, SQL Plus, MySQL and Oracle 11g/12c.
+Experience in Application Migration from Data Centre to Microsoft Azure and Database Migration.
+Provided 2nd and 3rd Level of Support to various web applications and Desktop applications like Oracle Primavera, Unifier, etc.
+Have worked on issue resolution with continuous interaction with Customer and resolving their issues related to the application.
+Strong knowledge of ITIL process with various ticketing tools such as ServiceNow, HPSM and Assyst.
+Oracle PL/SQL Developer Certified Associate.
+
+TECHNICAL SKILLS
+
+•Microsoft Azure
+•Oracle Apex 4.1/5.1
+•PL SQL
+•SQL
+•Oracle 11g/12c
+•Oracle Primavera
+•ORDS
+•Apache Tomcat
+•Windows Server
+•HTML
+•Java Script
+•MY SQL
+•CSS
+•ServiceNow
+•HPQC
+
+EDUCATION
+Computer Science & Engineering, Bachelor of Engineering
+Aug 2008 – Jun 2012
+
+CERTIFICATION AND AWARDS
+•Oracle PL/SQL Developer Certified Associate
+oOracle Database 11g: SQL Fundamentals I
+oOracle Database 11g: Program with PL/SQL
+•Awarded “On the Spot” and “Star Performer" at Tata Consultancy Services.
+•Recipient of the Best Team and Service Commitment Award at Tata Consultancy Services
+
+EMPLOYEMENT HISTORY
+IBM Ltd I
+Senior System Engineer
+10/2018 – 06/2019
+•Major/Minor Enhancements as per business requirement in Oracle Apex applications.
+•Involved in the continuous service improvement (CSI) and fixing of production problems. Generated PL/SQL scripts for data manipulation and validation.
+•Prepared Data Discovery and Design document for Apex applications Migration from Data centre to Data centre.
+•Developed Stored Procedures, Functions, Packages and SQL Scripts for the application.
+•Preparation of solution design document for application development.
+•Preparation of test cases for application post migration.
+•Coordination with business for user acceptance testing (UAT).
+
+Tata Consultancy Service
+Technical Lead
+03/2017 – 09/2018
+•Migration of 10 applications from Data centre to Microsoft Azure and worked closely with Cloud solution Architect for application migration.
+•Preparation of functional design specifications, As-is and To-be architectures, Questionnaires documents for application Migration.
+•Estimated costs and schedules and other elements associated with Migration project.
+•Application build on Microsoft Azure.
+•Performed various Oracle Apex Admin activities like Oracle Apex Installation/upgrade, ORDS Upgrade, Admin Password reset, deployment in Tomcat web server, ACL settings etc.
+•Lead team of 5 members.
+•Coordination with Testing team and Business during functional testing, performance testing and UAT of the application Post Migration.
+•Oracle Apex upgrade from 4.1 to 5.1 with ORDS configuration.
+•Installation of Oracle Apex 5.1 on application server, ORDS configuration on Tomcat web server.
+•Worked on various Authentication schemes in Oracle Apex applications like SSO implementation (Kerberos), Custom, LDAP, Application Express accounts etc.
+
+Tata Consultancy Service
+IT Analyst
+08/2014 – 02/2017
+•Application development (Reports, forms, dashboards etc.) And enhancement in Oracle Apex.
+•Requirement gathering, Design, Development, Testing and Documentation of Timesheet Entry System (Oracle Apex Application).
+•Developed Indexes, Views, Sequence, Stored Procedures, Functions, Packages and SQL Scripts for an application.
+•SSL implementations on Tomcat server for various applications on Oracle Apex.
+•Supported APEX applications and conducted performance tuning for PLSQL.
+•Major/Minor Enhancement as per business requirement in Oracle Apex applications.
+•Conducted sessions and trained team on ITIL process such as Change Management, Incident Management, Problem Management, Service Request and SLA.
+
+Tata Consultancy Service
+System Engineer
+06/2012 – 07/2014
+•Database migration from Oracle to SQL server 2008 & data import using the BCP command and BULK INSERT.
+•Involved in resolving production problems for the applications and Ensure all support service level agreements are met.
+•Performing the testing of an application for the up gradation using the HPQC tool by running the test cases and generating the status report using tool.
+•Troubleshooting incidents raised by the user through detailed analysis and providing the access to the user in the Primavera P6, and requests status\detailed information check by writing queries in Oracle.
+•Preparing the projects (asset management planning & Scheduling) in Primavera by defining the EPS and OBS as requested by the User.
+
+Contact this candidate

@@ -1,0 +1,245 @@
+
+Joe Rethemeyer
+Objective To continue working in the IT field and to grow in knowledge and experience with a wide range of computer networking technologies
+Education 2004–2006 ECPI Technical College Richmond, VA
+AAS CIS: September 1st, 2006 – Information Technology w/a focus on Networking and Security Management
+Certifications
+CCNP R&S
+Net+
+JNCIA
+CCNA SEC
+A+
+JNCIS
+
+IT Skills
+Palo Alto, Checkpoint, ASA
+IP-Sec, iVPN, eVPN
+Security Principals and Techniques
+Threat Detection and Mitigation
+Policy and Route management
+Spunk, Cisco Prime
+
+Network Sniffers and SPAN
+Infinistream Administration
+Wire Shark
+
+Spectrum, eHealth, Triage
+Infoblox DNS
+AWS, Azure Architecture and Design
+
+Studying Cyber Security
+Studying Cloud Computing
+Studying Python and Automation
+Cisco ISR, ASR
+Cisco Nexus 9K, 7K, 5K, 2K FEX
+Catalyst Switching
+CATOS and Legacy IOS
+
+Linux, F5, Proxy
+
+BGP, OSPF, EIGRP, RIP
+LAN, WAN, MAN, OC3, MPLS, Metro-E
+vPC, VLAN, VRF, BFD, HSRP, VRRP
+
+Cisco Wireless, VoIP, and Security
+Network Design and Architecture
+
+Network Automation
+Python and Ansible
+
+Experience
+03-2015 to 05-2019 Wells Fargo Richmond, VA
+Sr. Network Engineer Perimeter Team
+Configure, deploy, manage, and troubleshoot Network, Firewall and Appliances.
+Configured iVPNs, eVPNs, port turn-ups, decommission, port channels, vPCs, FEX technology, Data Center, infrastructure, perimeter networks, and other network tasks.
+Implemented rule and policy updates for port and IP security purposes such as.access control and IP and content filtering, file scanning and and threat detection services on Palo Alto, Checkpoint, and Cisco ASA.
+Implemented route updates in static routing objects on Palo Alto, Checkpoint, and Cisco ASA.
+Top side - DMZ - Bottom side perimeter network management
+Training on Python and Ansible network automation.
+Used HP Network Automation (HPNA) to scheduled network management and configuration task automation.
+Had to learn and follow detailed procedures and policies to complete network tasks according to written documentation provided by the customer Wells Fargo.
+Create design documentation using Visio and created Controlled Access Networks and any wholesale customer needs for already designed networks.
+09-2013 to 03-2015 Advantage Technical Resourcing Richmond, VA
+Sr. Network Engineer Perimeter Team Wells Fargo
+Configure, deploy, manage, and troubleshoot Network Devices and Appliances
+Configured iVPNs, eVPNs, port turn ups, decommission, port channels, vPCs, FEX technology, Data Center, infrastructure, perimeter networks, and other network tasks.
+Used HP Network Automation (HPNA) to scheduled network management and configuration task automation.
+Adapt to, learn and follow detailed procedures and policies to complete network tasks according to written documentation provided by the customer Wells Fargo.
+Create design documentation using Visio and created Controlled Access Networks and any wholesale customer needs for already designed networks.
+12-2011 to 06-2013 Artech Information Systems Richmond, VA
+Sr. Network Analyst/Engineer Dominion
+Configure, deploy, manage, and troubleshoot CA Products
+eHealth and eHealth Live Suite – Distributed Servers
+eHealth Live Health Administrator
+eHealth Live Health Application Administrator
+eHealth Web Administrator
+Spectrum – Distributed Servers
+Voice Quality Monitoring
+Configure, deploy, manage, and troubleshoot existing and new customer Cisco/Juniper/Foundry hardware networks.
+Provide on-going technical support and troubleshooting for implemented Cisco/juniper/Foundry Hardware.
+Evaluate new network technologies, management, and analytical tools.
+Participated in design conferences, produced network diagrams and detailed network documentation.
+Maintained and created technical and vendor product information and assisted in establishing performance standards, policies, and procedures.
+Upgrade all kinds of equipment from Juniper/Cisco Switches to Cisco Wireless controllers.
+Configure new LWAPPs and add them to the controller, configured them from the controller.
+Configured Autonomous to become LWAPPs
+Deployed many LWAPP Rogue Detectors, and APs
+Used WCS for administration purposes and to monitor the wireless networks health.
+Used the Location Appliance to locate areas of bad signal strength and for planning.
+Contributed to the production of reports and post mortems on events and outages to the job.
+Implement Cisco IOS software Upgrades on production sensitive Cisco Networks.
+Normal LAN troubleshooting and break/fix support.
+Upgrade and configure Voice Gateways.
+Install and configure Netscout Infinistream Appliances.
+Forescout NAC Appliance configuration and administration.
+
+03-2011 to 12-2011 Axelon Services Inc. Richmond, VA
+Sr. Network Engineer IBM/AT&T/Altria/Philip Morris USA
+Configure, deploy, manage, and troubleshoot existing and new customer Cisco hardware networks.
+Responsible for the initial implementation and configuration of Cisco 6500, 4900, 4500, 3750, and 2960 series multilayer switches.
+Provide on-going technical support and troubleshooting for implemented Cisco Hardware.
+Evaluate new network technologies, management, and analytical tools.
+Participated in design conferences, produced network diagrams and detailed network documentation.
+Maintained and created technical and vendor product information and assisted in establishing performance standards, policies, and procedures.
+Contributed to the production of reports and post mortems on events and outages to the job.
+Implement Cisco IOS software Upgrades on production sensitive Cisco Networks.
+VRF configuration and architecture.
+Virtual Routing and Policy Switching.
+Metropolitan Area Network design through EPLs.
+BGP and EIGRP Dynamic Routing design, testing, implementation and troubleshooting.
+EIGRP, GLBP redundancy and load balancing.
+Enterprise MPLS over EPL MAN/WAN links.
+VPN design, implementing, testing, and troubleshooting over enterprise MPLS EPLs.
+Assisted Wireless 4400 Controller and deployed Lightweight enterprise WAPs
+Normal LAN troubleshooting and break/fix support.
+12-2010 to 03-2011 PLANIT Technology Group Glen Allan, VA
+Network Engineer Virginia State University Network Refresh
+Configure, deploy, manage and troubleshoot existing and new customer Cisco, Juniper, and 3Com network hardware.
+Responsible for the initial implementation and configuration of various network resources.
+Created and maintained technical and vendor product information and assisted in establishing performance standards, policies, and procedures.
+Contributed to the production of reports and post mortems on events and outages to the job.
+Implemented IOS and JUNOS upgrades.
+Assisted in designing of new VSU Core Network.
+Assisted in designing new IP address ranges used for new VSU Core network.
+Assisted in installation and configuration of network devices during massive Network Refresh Project.
+Assisted in implementation of OSPF on a statically routed network.
+Assisted multiple vendors for communications with their hardware/software needs through the VSU network.
+Configured Voice Gateways VG224 for Analog to VoIP over VSU Network
+Worked with Call Manager and Unity Servers.
+03-2010 to 12-2010 Sapphire Technology Group Richmond, VA
+Network Engineer Bon Secours Health Systems Network Refresh
+Configure, deploy, manage and troubleshoot existing and new customer Cisco network hardware.
+Responsible for the initial implementation and configuration of various network resources.
+Created and maintained technical and vendor product information and assisted in establishing performance standards, policies, and procedures.
+Contributed to the production of reports and post mortems on events and outages to the job.
+Lead Team of PC Technicians to audit/survey network and devices.
+
+Configured EIGRP, ACLs, Trunks, L3 Interconnects, DHCP for new scopes on Server 2008/2003 and on Cisco Switches/Routers.
+Documented all changes made to network during refresh.
+Set port security and prepared ports for VoIP.
+Configured Static and default routes.
+Prepared templates for new switches and updated documentation in programs such as IPPlan.
+Lead team from Fiber Plus to cut over to the new hardware and re-cable and patch all devices for a cleaner closet.
+01-2009 to 03-2010 PLANIT Technology Group Richmond, VA
+Network Engineer\PC Technician and Migration Specialist
+Network Administrator for Bob McDonnell for Governor Campaign.
+Design and configuration of Cisco war room network election Nov 3, 2009 Election for Gov-Elect Bob McDonnell.
+Network and systems engineer for Shaheen Law Firm.
+Upgrade Database software.
+Active directory\Exchange administration.
+Configure, deploy, manage and troubleshoot existing and new customer Cisco network hardware.
+Worked with VITA\Northrup Grumman on the network and PC Migrations throughout the state of Virginia.
+Virus Management
+Used Altiris Migration tools to migrate old state computers profiles/personalities to new production machines.
+08-2006 to 12-2008 Network Business Solutions Richmond, VA
+Lead Network\Systems Engineer\PC Technician
+Supported small business workgroup networks.
+Mail Enable and IMail Server support and administration.
+Outlook implementation, configuration and support.
+Residential and Small Business Consultation.
+LAN and WLAN implementation and support.
+Cat5, 5e, and 6 Cabling, Tracing, and Termination.
+Recover corrupt data and files on malfunctioning disk drives.
+WindowsXP/2000/Vista Workstation Administration.
+Windows 2003 SB Administration.
+08-2006 to 12-2006 New Market Corporation Richmond, VA
+Network Analyst Internship
+Updated PDM and Flash on Pix 501 Firewall.
+Setup DHCP for inside LAN on Pix with NAT Configurations.
+Created Network Diagrams (Visio).
+Set up access lists on Cisco Routers.
+Setup 802.11g wireless in meeting rooms.
+Monitor and Troubleshoot LAN.
+
+Joe Rethemeyer
+Professional References:
+
+Scott Barnhill
+Sr. Network Engineer
+AT&T
+804-***-****
+
+Steve Kendrick
+Sr. Network Architect
+Dominion
+C: 804-***-**** W: 804-***-****
+
+Patrick Horrigan
+Project Manager
+Capitol One
+804-***-****
+
+Joe Brousaides
+Sr. PC/Network Technician and Migration Specialist
+PLANIT Technology Group
+Harvard College Potential Student Interviewer
+804-***-****
+
+Davis Stanley
+Sr. Network Engineer
+Pinnacle Systems/IBM/AT&T/Phillip Morris USA
+804-***-****
+
+Preston Smith
+Sr. Network Analyst
+Dominion
+804-***-****
+
+Kathy Franklin
+CBIA Management Company / Network Business Solutions
+Small Business Owner/IT Consultant
+adafmm@r.postjobfree.com
+512-***-****
+
+Sam Burton
+USAirways
+Station Manager
+804-***-****
+NMS/Cisco/Juniper Skill set
+
+Systems:
+·Firewalls: Palo Alto and Checkpoint
+·Cisco Nexus: 2K/5K/7K/9K
+·Cisco Firewalls: PIX Series, ASA
+·Cisco Routers: 800, 1700, 2500, 2600, 2800, 2900, 7200 Series, ISR and ASR Series
+·Cisco Switches: Cisco 1900, 2900, 3500, 3700, 4500, 4900, and 6500 Series
+·Cisco Voice Gateways: Cisco VG224 and VG248 Series
+·Cisco Wireless Controllers: 4400 and 5500 Series.
+·Cisco Wireless Control System and Location Appliance
+·Cisco APs: 1100 and 1200 Series with multitudes of antennas, patches, and other peripherals.
+·Juniper Switches: EX2200, EX2400, EX3200, EX4200, and EX4500
+·Juniper Routers: SRX240, SRX3600 and SRX5800 Series
+·Other Firewalls: Sonic Wall, Netgear
+·Other Switches: Foundry
+Protocols:
+·TCP/IP, UDP, RIP, EIGRP, OSPF, HSRP, GLBP, SNMP, DNS, DHCP, TFTP, FTP, ICMP, CDP, VTP, STP, VRF, VPN,IP-Sec, SD-WAN ect…
+Network Connectivity:
+·100baseT, 100baseFX, Gigabit Ethernet, 10 Gigabit Ethernet, 802.11, LX, LH, SX and LC, ST, SC Fiber Jumpers.
+Network Management:
+·Use of various Suites and protocol analyzers such as and including: Cisco Prime, Azrure, Triage, SDM, IP Plan, HP Network Automation, JunOS Space, Spectrum, eHealth, Open View, Wireless Control System and Location Appliance, Vital Suite, Scrutinizer…ect
+Operating Systems:
+·Advanced knowledge and use of all versions of MS Windows Operating Systems, DOS, Linux, Unix, and Mac/Apple OSX, Junos, IOS, NXOS, PANOS, Checkpoint, ISR, ASR
+Applications:
+·Microsoft Office, Microsoft Project, Visio, Outlook, eHealth and eHealth Live Suite, Spectrum….ect
+
+Contact this candidate

@@ -1,0 +1,76 @@
+
+CAREER PROFILE
+A QA engineer with over ** years of experience in software QA development, project/program management techniques/processes, management of small scale technical/non-technical teams and software testing. Excels in stressful environments with a proven track record of
+determining, negotiating and agreeing on in-house quality procedures, standards and specifications as well as assessing Tier 1 customer requirements and ensuring these are met.
+
+TECHNICAL TOOLS
+Java, C, C++, JavaScript, .HTML, CSS, Net, Visual Studio, Eclipse, SQL, MS SQL Server, MySQL, Google Web Toolkit, Selenium, IBM Rational Functional Tester (Version 9.2.0), Microsoft Team Explorer Everywhere (TFS Server Plug-in for Eclipse, Version 14.134.0), Microsoft Test Manager, Blueprint, WinTask, Axosoft OnTime, JIRA Atlassian and add-ons like Zypher and Confluence, PeopleSoft, Siebel CRM, TDD, BDD
+
+EXPERIENCE
+QA SOFTWARE AUTOMATION DEVELOPER
+GLOBAL AFFAIRS CANADA
+05/2019 – Present Gatineau, QC
+Responsible for designing and developing the automated regression test suite for Global Affairs Canada – Department of Foreign Affairs, Trade and Development’s non-strategic Export Import Control System II website
+Responsible for architecting regression test suite using Java – Rational Functional Tester in an Eclipse IDE on a .Net framework front-end and a SIEBEL CRM ORACLE backend system
+Gained in depth knowledge of Microsoft Test Manager, Microsoft SQL Server and various other tools
+
+QA DELIVERY MANAGER
+PHATTAP
+06/2017 – 04/2019 Toronto, ON
+Improved software quality and reduced defects via introduction of defect and requirements management tools, requirements gathering and testing best practices, root cause analysis, UML diagrams and via creation of standardized tools, processes and methodologies
+Planned and coordinated resources needed to implement new test strategies (Agile Scrum vs Kanban), resulting in development of best practice models
+Achieved 2-day turn on bug fixes by managing defect backlog, prioritizing 5 defects per day.
+Developed and implemented QA processes and standards within the IP Video Delivery Engineering team
+Work closely with Product Management, Development, Support, Sales and Services teams to prioritize assignments and manage risks/issues to ensure successful delivery with high quality
+
+FINANCIAL QA SOFTWARE TESTER
+CANADIAN TIRE CORPORATION
+12/2016 – 05/2017 Oakville, ON
+Ensure the functionality integrity of Canadian Tire Corporation’s Financial and Supply Management software system through manual testing of their next Peoplesoft software version upgrade
+Work closely with software developers, accountants, and stakeholders to verify the functional quality of an upcoming Peoplesoft version release
+Create BDD Feature File text file for QA testing automation
+
+PLATFORM SERVICES DEVELOPMENT QA DELIVERY MANAGER QUICKPLAY
+03/2016 – 11/2016 Toronto, ON
+Managed the Platform Development Services group which comprised 15 QA engineers whose main responsibility was to ensure quality and integrity of the on-line web streaming services of AT&T’s video platform.
+Liaise with internal development teams, video delivery and AT&T stakeholders through daily scrums, defect triage meetings, testing requirement gatherings, monitoring individual QA test results, and end-to-end integration testing results to create definition documents, test matrices, daily reports, and progress tracking reports
+Ensure QA coverage by stepping in on blackout manual test case creation, test matrices and testing when seen it was missed in coverage
+
+QA SOFTWARE ENGINEER, RELEASE BUILDS & OUTSOURCE MANAGER AAREAS INTERACTIVE
+05/2006 – 10/2016 Toronto, ON
+Provide and maintain software quality deliveries on Aareas Interactive Inc.’s home sales application which includes virtual design centers, home builder websites (condonow.com, beaverhomesandcottages.ca), POS, CRM, sales & inventory applications on many platforms including kiosks, mobile & tablet apps, and desktops
+Effective in building good working relationships among the QA team, developers and stakeholders by communicating and coordinating efforts among People, Technology and Software to deliver customer software releases bi-weekly
+Provide strong leadership to a QA team of 3 people in Dhaka, Bangladesh by defining and documenting QA processes, and planning, analysis processes for efficiencies and delegate QA software testing tasks
+Setup automation QA software regression testing - using Java-Selenium on an Eclipse IDE - on static code to ensure more coverage on company’s bi-weekly releases
+Lead, managed and participated in manual test case design, testing and defect management for the purpose of release on new features, using Axosoft OnTime software.
+
+QA SOFTWARE AUTOMATION ENGINEER
+ATI TECHNOLOGIES INC.
+01/2000 – 11/2005 Markham, ON
+Enhanced ATI Technologies’ driver quality by participating as a key member in a Test Infrastructure Development Team (TIDT), where I had a major role in prototype designing, building and maintaining two internal websites, for the purpose of automation testing and tracking tests results on pre-checked-in code
+Created a push-pull reporting system using ASP.NET and ORACLE database that would auto-generated reports and notifications to stakeholders - developers, QA and manager - at appropriate times.
+oDeveloper and QA stakeholders would be sent an autogenerated email upon completion of a pre-defined batch of test sets defining test cases
+oDeveloper and QA stakeholders would also be sent repair reminders for outstanding issues.
+oManager and QA stakeholders would receive a bi-weekly autogenerated emailed summary report based on TIDT analysis definitions
+oThe information can be pulled for details and anytime from the Intranets holding the internal websites.
+Develop analytical software for reporting and informative purposes
+Create quality standards for automation test case writing
+Develop testing software to capture video frames from the ATI Technologies’ Multimedia hardware accelerators with respect to that of the source disc source using C++.
+
+QA SOFTWARE TESTER
+ATI TECHNOLOGIES INC.
+05/1993 – 12/1999 Markham, ON
+Ensure quality of ATI Technologies’ products by performing manual BOIS testing and ATI Video Graphic manual card testing
+Enhanced testing coverage by creating automation tests using simple scripting languages
+Establish and maintained testing environments and conditions for ATI Technologies’ hardware capture card products which included support for multiple TV Broadcasting formats:
+oEuropean PAL, Japanese and North American NTSC Transmission
+Software driver testing
+EDUCATION
+UNIVERSITY OF TORONTO BASc - Electrical Engineering
+RADIO COLLEGE OF CANADA SCHOOL OF ELECTRONICS TECHNOLOGY
+Electronics Engineering Technology Diploma
+
+ASSOCIATIONS
+PROFESSIONAL ENGINEERS OF ONTARIO 1993-Present
+
+Contact this candidate

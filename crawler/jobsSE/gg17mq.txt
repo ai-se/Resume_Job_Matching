@@ -1,0 +1,37 @@
+
+Were looking for humble, but ambitious, razor-sharp Software Engineer, mobile who can teach us a thing or two. We promise to return the favor. Like us, you take product development, UX research and platform engineering seriously; youre passionate about technology. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. Our selection process will emphasize hands on engineering. The ideal candidate must be a master of their domain and be able to contribute as an individual contributor (software engineer and architect).
+
+Why We Need This Role
+We are looking for a mobile software engineer to help us develop platform to generate mobile apps for React Native. The industry is in a constant state of flux; tools and frameworks change by the month and so we are looking for someone who is not afraid to learn on the job, and who can take the initiative to identify and implement novel solutions
+
+Why You Should Join
+This is a challenging and diverse role that requires you to build both, a new generation of Builder Solution product, from the ground up. Only join this role if you are craving rapid growth, able to create a path in uncharted territory, and comfortable with trying, failing and course-correcting fast.
+
+First Six Month Deliverables
+Collaborate with designers, product managers, and other software developers to deliver compelling products or enterprise wide integrations
+As a part of the engineering scrum team, contribute to the architecture of efficient and reusable components that drive complex applications across the stack
+Build frameworks enabling us to create mobile apps
+Identify and resolve functional, performance and scalability issues
+Requirements
+Passionate about loosely held values and ideas. We want someone who has experience but is not blinded by the path already taken.
+5+ years or more React Native development experience
+Strong understanding of and experience with testing practices
+Experience building out 2 or more complex applications from concept to completion (end-to-end)
+Capable of owning technical design for projects of moderate complexity, and understand the tradeoffs in creating good software
+Depth knowledge in in-scope products or systems that enables to debug those effectively and without issues
+Capable of consistently producing high-quality code and aware of best practices and trends
+Demonstrated ability to master at least one major skill outside of core coding such as monitoring, documentation, security, integration testing, visual design, devops, performance optimization
+Demonstrated ability of taking a complex user story, breaking it down into sub-tasks, and completing said sub-tasks with relative ease
+Demonstrated ability of showing initiative beyond knocking tasks off a list or to identify and suggest areas of future work for themselves or their teams
+Benefits
+Health and Wellness benefits including competitive medical, dental, and vision plans
+Performance-based bonuses and stock options
+Generous vacation and time off benefits including paid holidays
+Generally flexible working hours
+Working in a beautiful office space the heart of Silicon Beach in Playa Vista
+A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
+Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

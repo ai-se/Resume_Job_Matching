@@ -1,0 +1,36 @@
+
+Cloud Engineer
+Direct Hire
+Wayne, NJ
+Our client is seeking a Cloud Engineer who would be responsible for architecting and developing cloud-native platforms on Azure & AWS, virtual machines, containers, serverless, network, storage, security, and platform services such as analytics, database, devops pipelines.
+Other duties to include architect Integration Platform as a Service, such as Mulesoft/Boomi; developing software defined strategies for infrastructure management, application deployment, and services; moving on-premise production and testing environments to the cloud and providing continuous technical support to both internal and external customers; daily management and maintenance of cloud-based infrastructure.
+
+Requirements
+Bachelor's degree and a minimum 7 years' related work experience.
+Experience with cloud management frameworks.
+Approximately 4-7 years of technical architecture experience.
+Experience with Azure Resource Templates.
+Implement security architectures for cloud cloud/hybrid systems.
+One or more cloud platform certifications.
+Extensive Python, CFT (JSON/YAML), Terraform skills for building out automation and infrastructure as code.
+Experience in standing up CICD pipeline, orchestration with Jenkins/bamboo, code development in one of cm technologies with chef, puppet, ansible.
+Experience with Windows Server management (2012 r2, 2016).
+Experience deploying web and service-based applications in Windows/Linux environments.
+Knowledge of network equipment/IOS: routing, switching, and firewalls.
+Knowledge of network protocols such as: DNS, SMTP, SNMP, SSH, SFTP.
+Strong understanding of networking (TCP/IP, OSI model), operating system fundamentals (Windows, UNIX, mainframe), security technologies (firewalls, IDS/IPS, etc.) and application programming/scripting languages (C, Java, Perl, Shell).
+Experience using Git, JIRA - Experience with Docker and container orchestration (Kubernetes).
+Experience with Management Suite (OMS), certificates and SSL management.
+Experience with JavaScript Frameworks (Angular), RESTful APIs, JSON and XML formats is a plus.
+Great working knowledge of IP networking, VPN's, DNS, and load balancing General understanding of CMS applications, .Net Framework and/or .Net Core.
+Experience with monitoring tools, such as Application Insights, Microsoft Operations, Prometheus, Grafana and Splunk.
+Strong Jenkins background and experience with Artifactory and build pipelines.
+Strong understanding of regulatory requirements and compliance issues affecting clients related to privacy and data protection, such as PCI DSS, GLBA, Basel II, EU Data Protection Directive, International Cross Border, and U.S. State Data Privacy Laws.
+Experience working with a variety of Banking IT software and service providers preferred.
+Azure Certification / AWS Certified Solutions Architect
+
+Permanent
+
+
+Go to apply 
+

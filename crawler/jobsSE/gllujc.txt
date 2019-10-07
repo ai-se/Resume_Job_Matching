@@ -1,0 +1,62 @@
+
+What We Do
+
+The SEI helps advance software engineering principles and practices and serves as a national resource in software engineering, computer security, and process improvement. The SEI works closely with defense and government organizations, industry, and academia to continually improve software-intensive systems. Our core purpose is to help organizations improve software engineering capabilities and develop or acquire the right software, defect free, within budget and on time, every time.
+
+Position Summary
+
+This position within the Software Engineering Institute (SEI) will be located at our customer site in Aurora, CO, to provide expertise and guidance related to DevOps practices. This position will support the Software Engineering Institute's (SEI) mission by working with government customers to understand their challenges, identifying actionable solutions, and guiding programs to operationalize the most effective techniques and practices.
+
+If you are an engineer passionate about improving the ability to deliver high quality, high-demand systems, and you are committed to researching new ideas to bring innovation to government, then this is the position for you.
+
+Position Summary:
+
+You will have Expertise in DevOps processes and tools, resilient system design and implementation, and requirements gathering and analysis enables team to develop comprehensive practices engineering processes tailored to rare customer needs, or improve existing processes to meet evolving challenges by demonstrating new technologies. Built on confirmed SEI software engineering methodologies and cyber security expertise, SEI's engineering processes lead to efficient, successful, and secure product development and deployment.
+
+You will participate in all phases of the application development lifecycle including hands on development activities.
+
+Requirements:
+
+BS in computer science, software engineering, computer engineering, or a related quantitative field of study with eight (8) years of applicable experience, or MS in computer science, software engineering, computer engineering, or a related quantitative field of study with five(5) years of applicable experience
+Movement between buildings required
+Willingness to travel to various locations to support the SEI's overall mission. This may include national travel to sponsor sites, conferences, and offsite meetings on occasion (15%)
+You will be subject to a background check and will need to obtain and maintain a Department of Defense security clearance.
+Knowledge, Skills and Abilities:
+
+Knowledge of software engineering on following strengths: requirements, architecture and design, program and acquisition management, performance improvement, assurance, and/or security
+Relevant experience within the last 2 years in working on a large software development program
+Familiarity with general Linux operating system concepts, development pipeline tools, etc.
+Understanding of basic computer systems, and network, database and application security issues
+Excellent written and verbal communication skills
+Excellent reasoning and analytical skills
+Ability to work effectively and manage time without supervision
+Ability to attend customer meetings and respond to customer requirements
+Highly motivated self-starter individual with ability to multi-task, prioritize and actionable
+Desired Experience:
+
+Experience as a software developer working on software applications in a professional environment. At least three of the five years of relevant experience working on static web applications.
+Experience in an Ops/DevOps role with an emphasis on deploying and handling environments in cloud platforms(AWS, Azure, or similar)
+Experience with configuration management tools such as Chef, Puppet, or similar.
+Experience developing in object oriented programming on Java, C#, C++
+Experience with scripting languages such as Python, Ruby, Perl, and Bash
+Experience with modern web frameworks such as Django, Angular JS, React
+Familiarity with SDLC deployment packages, Maven, Ant, Docker, etc
+Experience with source code repository - Git, Mercurial, SVN, or TFS
+Experience solving problems software applications and reading stack traces
+Familiarity with system and task automation
+Familiarity with risk and security assessments
+Collaboration skills, with written and spoken communication skills
+Excellent troubleshooting and problem solving capabilities
+More Information:
+
+Please visit "Why Carnegie Mellon" to learn more about becoming part of an institution inspiring innovations that change the world.
+
+A listing of employee benefits is available at:
+
+Carnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran.
+
+Permanent
+
+
+Go to apply 
+

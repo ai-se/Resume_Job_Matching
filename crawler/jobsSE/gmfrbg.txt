@@ -1,0 +1,22 @@
+
+Performance Software seeks a Software Engineer - Avionics.
+Job Requirements
+Avionics software development experience
+Depending on position level, strong Object Oriented Language (C++, C#, Python, etc.) and software development methodologies (Waterfall, Agile, etc.)
+Full lifecycle software development; Embedded software experience is desired but not required
+Knowledge of DO-178 Development Standard is a plus but not a requirement
+Highly motivated and a self-starting attitude
+BS or advanced degree in Computer Science, Computer Engineering, Electrical Engineering, or Computer Systems Engineering or similar software development curriculum
+Job Description
+At Performance we are looking for passionate Software Engineers to design, develop and install software solutions for state of the art safety critical systems, especially in the areas of avionics and medical instruments. The successful candidates will be able to build high-quality, innovative and fully performing embedded software. Prior experience with embedded software is highly desirable but not an absolute requirement. These positions are full-time. Responsibilities include:
+Execute full lifecycle software development, including developing systems requirements
+Write well designed, testable, efficient code
+Determine operational feasibility and produce specifications
+Integrate software components into a fully functional software system
+Develop software verification plans, skilled in automated systems testing
+Document and maintain software functionality
+Tailor and deploy software tools, processes and metrics
+
+
+Go to apply 
+

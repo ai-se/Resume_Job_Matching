@@ -1,0 +1,114 @@
+
+Bharath
+Email: adaid1@r.postjobfree.com
+Contact: 973-***-****
+
+PROFESSIONAL SUMMARY:
+
+Professional experience with Medical devices and pharmaceutical industry with experience in Manufacturing and Computer Systems Validation (CSV) as a Validation/Quality Analyst and compliance analyst/Technical Writing Testing and with strict adherence to GAMP & cGMP regulations (cGMP, GLP, and GCP).
+Working with CAPA and investigational studies, implementing change control processes,
+performing process and development validation, aseptic area validation, CIP/SIP, manufacturing, utilities, facilities, coordinated FAT and SAT testing for laboratory and analytical equipment, good knowledge on engineering studies like TMV (Test Method Validation) and statistical approaches
+Extensive knowledge in Food and Drug Administration (FDA) regulations, GDP, 21 CFR Part 11, 210/Annex 11, 211, 810, 820, ISO 13485, ISO 9001, ISO 14971 (Safety and Risk Management (USP)) AAMI and EU regulations
+Followed Computer Systems Validation CSV Master Plan to author, review and approve CSV deliverables for systems as per GxP, GLP, GCP, GMP, GDP, cGMP, FDA Assessment
+Strong knowledge on all software development life cycles (SDLCs) like Waterfall, Agile and V-models.
+Experience performing GAP Analysis, Complaint Investigations, Supplier Qualification.
+Internal & External Audit management, Deviation Management, Data Trending, Change Management and Training/Certification.
+Good experience in analytical method validation using statistical tools.
+Performed Measurement System Analysis (MSA) / Gage R & R and utilized SPC to identify out of control conditions and reduced part to part variation to improve overall Cp and Cpk values.
+Establish, review and maintain standardized QMS documents like SOPs, WI, Control plans, PFMEA, DFMEA.
+Proficient in reviewing and documenting validation protocols like IQ/OQ/PQ, TMV, Receiving Inspection, return products.
+Expertise in working in a clean room environment and gowning procedures.
+Proficient with Microsoft Office and knowledge of MATLAB, AutoCAD, Solid works.
+Proficient in Technical Writing with strong experience in developing Enterprise Lifecycle Documentation required for application development projects like Project Plan, URS, FRS, FDS, RTM, Test Plan, and conformance with FDA rules and regulations.
+Having working experience in Temperature mapping study, qualification & validation that are carried out for various assets used in Pharmaceutical segment for carriage and storage of medicines & vaccines.
+Experience working with and validation of LIMS, Track Wise, CCMS, Adverse Event Reporting System AERS Spreadsheet and Report Validation.
+Extensive experience in HP ALM (Application lifecycle management) and Quality center.
+
+SKILLS:
+
+Validation
+21CFR Part11 (210, 211, 820), cGXP, IQs, OQs, Qs, SOP, Remediation Plans, RTM, Validation deliverables (VP, URS, FRS, FRA, IQ, OQ, PQ, VSR etc.), Non-conformances etc
+SDLC Methodologies
+Agile, Waterfall, and V-model
+Modeling Tools
+AutoCAD, Solid Works, Pro-E, Catia V5, Uni Graphics-NX
+Lean Quality Tools
+FEMA, Six Sigma, 5S, 8D, Pareto Charts, VSM, SPC, CAPA, Root Cause Analysis, Process development, Lean Manufacturing, Tool & Fixture Design, Mini Tab, New Product Development, IQ/OQ/PQ environment & FDA compliance, Analytical Equipment tools
+Application tools
+HP ALM, Track Wise, LIMS
+Other Tools
+MS Office, MS Project
+
+PROFESSINAL EXPERINCE:
+
+CSL Behring -Pasadena, CA
+Quality Engineer Jan 2018 – Present
+
+Supported Risk Management and CAPA through customer complaints / root cause investigations and trending analysis.
+Performed Installation, Operational, and Performance Qualifications on new tooling and equipment.
+Well-versed with Statistical Process Control, Design and Process Failure Mode and Effects Analysis (DFMEA/PFMEA) and Equipment and Process validations (Cp/CpK, PpK, GR&R, Correlation).
+Responsible for maintaining Quality System Regulations (Part 820) and Regulatory Standards (ISO 13485/14971).
+Supported product launch and phase review processes - design reviews, product risk management,
+maintenance of DHF, and review of documentation and Technical Files.
+Worked on various phases of CAPA that included Initiation of CAR (Corrective Action Request), CAPA Investigation phase (Root cause analysis, 5-Why’s).
+Authored operational, maintenance and calibration procedures for production equipment, test equipment and utilities.
+Ensured the use of appropriate statistical tools such as collection and summarized data, drawing of conclusions with confidence, determination of sample sizes and data distributions.
+Ability to apply Gage R&R and statistical tools towards validation and evaluation of measurement methods. Used Minitab software to analyze the data.
+Perform remediation work on Supplier Corrective Actions, internal Corrective and Preventive Actions and Quality Investigation Reports
+
+Coordinate and carry out validation temperature mapping studies in Lab autoclaves, cold rooms, refrigerators, warehouse and walk-in incubators to assure the storage requirements conditions.
+Participated in process deviations support team to explain non-conformances (NCR) and reviewed associated documentation as a part of CAPA initiatives following all procedures.
+Participate in Failure Mode and Effect Analysis (FMEA) and Operational Quality Risk Assessment processes to help reduce process deviations.
+HillRom- Charleston, SC
+Quality Assurance Jan 2017 – Dec 2017
+
+Writing Validation Plan, Risk Assessment, Quality Assurance review, Validation Summary Report in compliance with 21 CFR Part 11 and GxP FDA Compliance Regulations.
+Developing test cases/scripts (IQ, OQ) for verification against specifications to ensure fitness for intended use of the Spread sheets.
+Created qualification and validation deliverables, such as validation project plans, risk assessments, validation (IQ, OQ, and PQ) protocols, commissioning plans, commissioning and validation summary reports, etc.
+Authored operational, maintenance and calibration procedures for production equipment, test equipment and utilities.
+Performed Risk Analysis and FMEA and initiate SPC for product and process success
+Corrective and Preventative Actions (CAPA), Design Controls, Risk Management Techniques, Supplier Corrective Action Develop Control Plans
+Reviewed and analyzed supplier related nonconforming products through product Nonconformance Reports (NCRs).
+Coordinated UAT (User Acceptance Testing) for the application.
+Reviewed the Requirement Traceability Matrix (RTM).
+Was involved in reviewing Test Cases, Test Scripts and Test Summary Reports.
+Worked on Risk Assessment of the systems.
+Performed QA/testing at the initial stage of SDLC process.
+Was involved in reviewing Corrective Action and Preventive Action (CAPA) documentation.
+Worked on daily tracking and monitoring QMS for any change control requests and initiated CAPA when required.
+Worked on gap analysis for QMS and daily tasks for scheduling the activities related to support data migration.
+
+Dr.Reddy’s Laboratories-Hyderabad, INDIA
+Validation Engineer Jan 2015 - Nov 2015
+
+Performed Material Review Board investigation and participated in CAPA.
+Review/revised meeting for PFMEA, Product Inspection Plan, and Feature Verification Plan.
+Ensure internal quality processes, procedures and systems are compliant to all governing standards
+Ensure all process validation requirements are met for all new and existing processes
+Ensure risk assessments are thorough and deliverables meet all governing requirements
+Experience in the Quality Management Systems & Operational processes in manufacturing environment
+Develop Technical Studies, Risk Analysis, Process Mapping, DOE’s, Gap Analysis, Statistical Analysis, Discrepancy Reports, among other documentation.
+Experience conducting audits, risk analysis, risk assessments, PFMEA, DFMEA to corporate quality systems.
+
+Genesis Medical Systems- Hyderabad, INDIA
+Quality Analyst June 2014 - Dec 2014
+
+Experienced in class III Medical device industry (orthopedic implants) Responsibilities include:
+Nonconformance identification and evaluation: Perform NC investigations which includes: Event description, containment activities, root cause analysis, Disposition and corrective/ Remedial actions.
+Supported for implementation of lean and six sigma tools to eliminate waste and reducing the process variation. Providing shop floor support for resolving CNC machining technical issues.
+Responsible for developing and testing the machines by executing validation protocols and determining functional limits as well as reporting service failures.
+Provided technical support for New Product Introductions NPI and generating a work instruction on shop floor for smooth transition. Experience in Working with CAPA team in closing out CAPA's.
+Conducting statistical analysis, prior and during project execution from various charts that are developed in Excel and Minitab by collecting results across different stages in manufacturing
+Successfully eliminated taper issues in Extremities by introducing CMM's for accurate results
+Actively participated in team meetings suggested new methodologies for process improvements and gained good results.
+Involved in developing all design control risk management documents such as plans, hazard analyses, and design and process FMEA's, and reports.
+Drafted product and process control methods documents to ensure that criteria for identifying critical control points are met.
+
+EDUCATIONAL QUALIFICATIONS:
+
+University of Dayton – Dayton, OH
+Master of Science: Mechanical Engineering
+Jawaharlal Nehru Technological University - Hyderabad, India
+Bachelor of Technology Mechanical Engineering
+
+Contact this candidate

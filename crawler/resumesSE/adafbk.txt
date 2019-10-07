@@ -1,0 +1,77 @@
+
+Zachary Hitchens
+
+GitHub.com/thecleanmonk
+Philadelphia, PA
+
+EXPERIENCE
+Upwork.com, Philadelphia, PA – Web Developer
+July 2019 to Current
+-Created a weather application using national weather service API, ReactJS, React Router and Bootstrap.
+-Developed a fully animated landing page for a local business using Bootstrap, CSS and Javascript.
+-Developed a dynamic blogging site for a client using the Django web framework and SQLite which features a fully functional backend with login/logout/register and post features.
+-Created a recipe search application for a client using React.JS, React-Router and Bootstrap.
+-Performed end to end api testing for a restful application
+Wolters Kluwer, Philadelphia, PA – Automation Engineer
+October 2018 to August 2019
+-Automated numerous test cases using Selenium in a C# framework
+-Performed API testing using Postman, SoapUI and CURL.
+-Integrated API based testing into automation framework for managing PubMed data verification.
+-Automated the process of metrics retrieval from Microsoft’s TFS (Team Foundation Server)
+
+Elsevier, Philadelphia, PA – Automation Engineer
+May 2018 to October 2018
+-Automated test cases using Selenium and a Java based framework
+-Used Jenkins as a Constant Integration server to Queue and manage job runs.
+-Contributed features to current in house tools developed in Python / Java
+-Developed a run comparison tool which helped prevent major flaws from entering our codebase.
+-Worked closely with offshore engineers for product releases, pipelines or hotfixes.
+-Lead manual QA efforts for product releases in combination with automated test runs to ensure product quality.
+
+Quattro Direct, Berwyn, PA – Quality Assurance Technician
+August 2017 to May 2018
+-Created a Quality Assurance plan with associated documentation for an organization of 50+ employees.
+-Developed In house and client emails using the Foundation Framework for building custom emails
+-Scraped websites for client data using Selenium, BeautifulSoup4 and Python 3
+
+FourFront LLC, Berwyn, PA – Web Developer
+(Internship)
+April 2017 to July 2017
+-Managed a portfolio of 20+ live wordpress sites
+-Provide support for clients based on request
+-Created and modified wordpress plugins
+-Created custom wordpress themes and child themes
+-Revamped the UI for our In House SEO tool
+
+Brio Solutions, Ft Washington, PA — Jr Software Developer (Internship)
+August 2016 to April 2017
+-Created website front-end UI for numerous clients from mockups using Javascript, HTML and SaSS
+-Worked with numerous backend technologies to automate business processes and logic with SQL Server while maintaining the use of the MVC Framework.
+
+-
+
+SKILLS
+Front-End Development
+QA Automation
+Email Development
+Process automation
+Programming Languages
+Java, Python, JavaScript, C#, CSS, Ruby
+Frameworks / CMS
+
+React.JS,Django, Flask, Node.JS,Foundation 6, Bootstrap, WordPress, Watir
+Interests
+
+CSS / JavaScript Animations
+Restful / SOAP API’s
+Database Architecture
+Network Security
+Systems Modelling
+
+Education
+
+Temple University
+
+Computer Science, 85 credits complete.
+
+Contact this candidate

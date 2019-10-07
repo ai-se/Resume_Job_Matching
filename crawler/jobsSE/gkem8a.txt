@@ -1,0 +1,58 @@
+
+VMware Engineer
+Eagan, Minnesota USA 55121
+Long Term Employment
+Job Description:
+Skilled VMware Engineer with expert knowledge of automation for a large IT Scale environment needed to oversee the management as part of the virtualization team that supports a windows/linux environment. The ideal candidate will have a deep technical understanding of VMware vSphere (ESXi version 6 and above). The VMware Engineer will join a team of a major nationwide organization, with thousands of sites, to continually improve its complex multi-protocol nationwide network. Position is located in Eagan, MN. Telework not available.
+Responsibilities:
+Support the automated infrastructure that deploys VDeploy, implement and maintain VMware vSphere infrastructure.
+Proactively identify and perform hardware and software upgrades
+Assist with developing technical solutions for new business requirements
+Monitoring system performance, troubleshooting network problems and outages.
+Assist with developing system specification and operating instruction documents, best practice guides and revises existing system documentation and procedures to correct deficiencies.
+Required Skills:
+VMware experience in maintaining and upgrading ESXi hosts and Appliances. Must have comprehensive and in depth understanding of ESXi 6 and above.
+Experience with large-scale virtualization (1000+VM) environments using technologies such as VMware vCenter, vSAN, vROps, vRealize Orchestrator, vLog Insight and PowerCli.
+Required experience automation and scripting complex tasks using tools such as PowerShell, PowerCLI, UCS Powertools, Posh-SSH, Git, Python, and Chef. Experience working with Ansible and Puppet a plus.
+Experience with Microsoft Windows server operating system 2008R2/2012 R2.
+Experience with Linux (Red Hat) and/or similar Unix-based servers
+Experience with VMware Horizon 7.x technology
+Proficient with HP hardware to include Rack servers, Blade servers, ILO s, OA s and Virtual Connects.
+Have in depth knowledge of networks / firewalls / SANs in regards to supporting virtual and physical server infrastructure
+Experience in remediating vulnerabilities on the servers
+Excellent communication and interpersonal skills
+Desired Skills:
+In-depth knowledge and understanding of AD.
+Experience supporting data networks, firewalls and MS Active Directory
+Excellent writing and presentation skills
+Good understanding of Networking and experience in troubleshooting layer 1, 2, and 3 networking issues
+EXPERIENCE LEVEL:
+10+ years extensive experience in related IT operational functions
+5+ years experience with VMWare ESX/ESXi 6.x Administration and support
+3+ years experience with VMWare Horizon 6.x/7.x Administration and support
+2+ years experience with scripting and automation
+8+ years advanced troubleshooting and problem solving skills
+5+ years advanced experience in both Linux/Windows environment with VMware engineering
+EDUCATION:
+Must possess a minimum of a Bachelor s Degree in Computer Science or Information Technology related field.
+CERTIFICATIONS: (one required)
+VCP and/or VCAP are required, in addition one or more certifications below are a plus:
+VMware Certified Professional on VMware vSphere (VCP6)
+VMware Certified Advanced Professional (VCAP)
+In addition one or more certifications below are a plus
+MCTS or MCIPT
+CCNP
+RHCE
+AWS CSA
+MCA Azure (Admin Associate or Dev Associate)
+
+Thanks
+Suresh G
+Talent Acquisition Specialist
+Northwest Software, Inc.
+
+Permanent
+
+
+Apply now
+

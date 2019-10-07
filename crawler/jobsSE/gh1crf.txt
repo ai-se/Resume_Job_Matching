@@ -1,0 +1,26 @@
+
+Position reporting to a Development Manager, the candidate will be primarily working in research and development of Adams, a multi-body system dynamics computer simulation code.
+Typical responsibilities for this position may include working on these fields:
+Numerical Methods Research new and better numerical methods (including parallel methods) for multi-body dynamics simulations and multi-physics co-simulations with other codes.
+Formulations Development of theoretical formulations and methods for the successful simulation of complex multi-body systems on heterogeneous hardware.
+Maintenance of existing code Maintain existing algorithms and solutions. This includes defect resolution, re-architecture, algorithm redesign, code optimization, and general enhancements.
+Computer science Understand the Adams Solver code and become proficient in newer computer technologies based on C++ programming.
+Scripting - Prepare scripts for automated testing, reporting, daily work, using common scripting languages like Python and json.
+Other Documentation writing, minimal customer support, some travel.
+Familiarity with IDE tools on Windows and Linux operating systems.
+Familiarity with packages like MATLAB or Mathematica.
+Familiarity with scripting languages like Python or Perl (a plus)
+Familiarity with Adams or other multi-body dynamics software (a plus)
+
+Requirements
+The successful candidate will possess the following skills and qualifications:
+Ph.D. degree in Engineering, Mathematics, Physics or related field.
+Graduate research work in MBD, FEA, Control or numerical methods.
+4+ years of experience developing commercial CAE applications.
+Proficiency in C++ Programming.
+Familiarity with parallel programming and GPGPU coding (a plus).
+Good communication skills and eagerness to learn. A team player who can work effectively within a worldwide organization.
+
+
+Go to apply 
+

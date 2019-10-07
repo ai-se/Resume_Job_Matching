@@ -1,0 +1,34 @@
+
+Lucas Neiva
+Software Engineer { Computer Engineering Major
+adagdy@r.postjobfree.com Phone : +55-91-983**-**** Work Experience
+Moobi - BitX
+Full Stack Software Engineer Intern Bel em, PA (Feb 2019 { Jul 2019)
+- Shipped 3 Web Apps to manage more than 100.000 users and company metrics using React with TypeScript
+- Built reusable components and restructured an API (Node.js /Express) to decrease deployment time
+- Developed a Web App to track drivers and display their routes in a delivery system using React and Google Maps API
+- Improved the performance of web apps by refactoring the U.I. infrastructure and dependencies Software Engineering Lab
+Backend Engineer Intern Bel em, PA (Jan 2018 { Feb 2019)
+- Designed and built a medical web system to manage the patient
+ow at the University Clinical Lab increasing the number of appointments by 30%
+- Developed and modeled the backend infrastructure in Node.js and MongoDB using RESTful API pattern Education
+Federal University of Par a Jan 2017 { Jul 2021 (expected)
+- Computer Engineering Major
+- Cumulative Average (GPA) : 3.5/4.0
+- Relevant CS Courses : Data Structures, Network Infrastructure, Object Oriented Design, Computer Pro- gramming in C, Operating Systems, Software Engineering, Databases Technical Projects
+Easy Ticket (May 2019 { Jun 2019)
+(Full Stack { React Native, Node, MySQL, Redis, Socket.io)
+- Built a mobile app used to buy University Restaurant tickets
+- Designed a scalable server in Node.js using typescript, with client-side in React Native mobile app and MySQL database to persist data
+- Developed a session management system which uses Redis to cache requests for ticket validation from a QR Code checkout system
+- Integrated the app with the PayPal API to secure the payment methods and data ChatApp (Nov 2018)
+(Full Stack { React, Node, Socket.io)
+- Built a Chat Web App to connect users using React and Node
+- Developed a message system using socket.io library, sharing if a user is typing, leaving or entering in a community chat room
+Extracurricular
+Software Engineering University Group (Nov 2018 { Present)
+- Founded and led a software engineering study group of 15 students Backend Development Workshop (Oct 2018)
+- Led a back-end development workshop for new students and organized projects with NodeJS and MongoDB Skills
+Programming Languages Go, Python, Java, JavaScript, TypeScript, HTML & CSS Tools and Frameworks React, Node, Express, React Native, Unix, Redis, MySQL, MongoDB, Redux Interests Photography, Guitar, Poker
+
+Contact this candidate

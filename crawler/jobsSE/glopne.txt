@@ -1,0 +1,145 @@
+
+Who are we?
+
+Independent Software is a consulting, product, and solutions firm dedicated to the practical application of software and system engineering technologies to solve complex problems. We bring together world class engineers with proven engineering best practices, domain expertise, commercial technologies and proven agile management approaches to create high value solutions aimed at helping our customers meet their most critical business and mission objectives.
+
+Why Independent Software?
+
+We are focused on continual learning and evolution. We don't do things because "that's the way we've always done things"; we listen to our employees and adapt to the changing marketplace. We look at the big picture and encourage our engineers to get training and certifications in emerging technologies that will help shape our customer's mission.
+
+We've been profitable year after year. We're always on the lookout for great engineers to join the team and we recognize that our employees are the heart and soul of what we do. We focus on recruiting talented people, treating them right, and then allowing them to do what they do best. No red tape. No micromanagement. Smart people want to work with smart people, and we love people who are passionate about what they do, and finding ways to do it better.
+
+What you will be doing!
+
+General Requirements:
+
+The Principal-level Software Engineer shall have at least the following experience:
+
+* At least ten (15) years in software development/engineering including requirements analysis, software development, installation, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution. The individual must be able to communicate directions and provide guidance to senior, mid-level and junior programmer/analysts, as required. Bachelor's Degree in a Technical Field will be considered equivalent to four (4) years' experience. Master's Degree in a Technical Field will be considered equivalent to an additional two (2) years' experience.
+
+* At least eight (8) years' experience developing software using the Java programming language. At least six (6) years of this experience must have been obtained in the last eight (8) years. At least six (6) years developing software for Windows (2000, 2003, XP, Vista), UNIX or Linux (Red hat versions 3-5) OS and at least two (2) years of this experience must have been obtained within the last four (4) years.
+
+* Experienced with JavaScript, Flex, JSP, Hypertext Markup Language (HTML), CSS, SpringMVC or equivalents for UI developers and Spring, Hibernate, JPA, Servlets or equivalents for enterprise Java developers.
+
+* developing at least one Object Oriented System (OOS)
+
+* Experience in planning, accomplishing goals, complicated tasks and providing consultation on complex projects as a top-level contributor or specialist. Have a firm grasp of modern computer programming with a minimum of six (6) years' experience in programming and development of application software for complex systems, software testing and experience developing solutions integrating and extending COTS products.
+
+* Have demonstrated technical writing skills and have generated at least five (5) documents in support of a software development project and experience designing and developing applications that contain a user-facing view component.
+
+Additional Experience Desired:
+
+* Developing and deploying desktop application frameworks (e.g. ECLIPSE or IntelliJ)
+
+* JDK 7 and 8
+
+* Experience creating a Java Web application backed by a database using JDBC, JPA or Hibernate
+
+* Spring 3.x or above
+
+* Experience consuming and writing REST and SOAP services in Java and Jersey
+
+* Build and deployment experience with Maven, Apache Web Server, and Tomcat
+
+* Knowledge of MongoDB v3.x
+
+* Knowledge of MongoDB v3.x
+
+* Experience with Active MQ, JMS, XML, JSON, SOAP UI
+
+* Experience with DOM and AJAX
+
+* Knowledge of JQuery
+
+* Experience with Firebug
+
+* Experience with Agile methods, Scrum, and XP
+
+* Detail-oriented and thorough in designing, coding, and testing.
+
+* Maintaining knowledge of industry trends and standards
+
+* Familiar with Test Driven Development and experience using JS/UI test using a testing framework
+
+* Experience with JIRA
+
+Required Skills:
+
+* Experience with software development using:
+
+* Java,
+
+* Maven,
+
+* Tomcat,
+
+* Spring framework,
+
+* RESTful Web Services.
+
+* Experience with performance and scalability testing
+
+* Experience working in teams
+
+* Experience with Enterprise Cloud Technologies
+
+* Experience with customer corporate technologies
+
+* Experience with MapReduce and Pig
+
+* Experience with Elasticsearch and other SQL databases (i.e., Postgress, Oracle)
+
+* Experience with Subversion
+
+Education Desired:
+
+* Bachelor's Degree in Computer Science will be considered equivalent to four (4) years' experience.
+
+* At least ten (15) years in software development/engineering including requirements analysis, software development, installation, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution. The individual must be able to communicate directions and provide guidance to senior, mid-level and junior programmer/analysts, as required. Bachelor's Degree in a Technical Field will be considered equivalent to four (4) years' experience. Master's Degree in a Technical Field will be considered equivalent to an additional two (2) years' experience.
+
+* At least eight (8) years' experience developing software using the Java programming language. At least six (6) years of this experience must have been obtained in the last eight (8) years. At least six (6) years developing software for Windows (2000, 2003, XP, Vista), UNIX or Linux (Red hat versions 3-5) OS and at least two (2) years of this experience must have been obtained within the last four (4) years.
+
+Clearance: THIS POSITION REQUIRES A CURRENT TS/SCI CLEARANCE WITH POLYGRAPH!
+
+Top Reasons to Work at Independent Software:
+
+* Great people deserve even better benefits, from comprehensive healthcare coverage and generous leave time to discounts with all of our vendors.
+
+* You are not just a job title. That's why we tip the work-life balance scale in your favor. It's not about being billable, it's about being valuable.
+
+* Whether you're working on-site or in our offices, your role at Independent Software is just as critical to our success as your coworker's.
+
+* We're constantly researching and implementing the latest technology so you've always got the right tools at your disposal.
+
+* As we've grown, we've retained that small company feel. When we say we have an open door policy, we actually mean it.
+
+* Independent Software is comprised of wonderfully generous folks. We believe in supporting the causes our employees care about. Bring us an opportunity to help and we'll listen.
+
+* Teamwork got us where we are today. Our collaborative environment allows you to maximize your true potential.
+
+* The work we do is exciting, critical stuff. No matter your role at Independent Software, you're helping us keep the nation safe and secure.
+
+* We have a history of great achievement and, with each year, our company gets even bigger and better. As we grow, so does the opportunity for our employees.
+
+* We host a variety of fun employee and family events throughout the year to say thanks for all that you do to make Independent Software a technology leader as well as a phenomenal place to work.
+
+Benefits:
+
+* Competitive salary
+
+* Comprehensive health, dental, and vision insurance plans
+
+* 401(k) retirement plan with company paid match of gross salary
+
+* A generous Paid Time Off and Holiday package
+
+* Lots of paid training! We encourage all employees to seek out training opportunities like conferences, certification courses and seminars.
+
+* We truly believe the right work-life balance can exist, and it's here at Independent Software. Our work is extremely important, but your job is just a part of who you are. When you enjoy your life outside of our walls, you're at your best the next time you walk through our doors. We do all we can to assure that happens every day.
+
+Independent Software is an Equal Opportunity Employer EOE, M/F/D/V.
+SDL2017
+
+
+Go to apply 
+

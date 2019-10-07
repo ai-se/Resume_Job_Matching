@@ -1,0 +1,211 @@
+
+Karthikeyan Mohandoss
+E-mail: adahi0@r.postjobfree.com
+Mobile: +91-988*******
+Profile
+
+Certified Scrum Master and highly experienced Software Professional with around 12+ years of experience across Project Management, Business Analysis and Software Testing. Proven ability to establish and exceed goals. Strong collaboration, communication, technical, and leadership skills and have knowledge and expertise coupled with international exposure and working experience.
+
+Career Profile
+
+Seasoned Project Manager with hands on knowledge of Waterfall and Agile methodology.
+Around 12+ years of experiences as software professional, which includes 9+ Years of experience in Project management and over 3+ years of experience in Business Analysis.
+Co-ordinating new business process design, change management and seasoned professional, with outstanding project planning, execution, monitoring and resource balancing skills with ability to support multiple projects simultaneously.
+Proficiency in SDLC and STLC and wide knowledge and exposure to Testing Process.
+Excel at communicating with stakeholders to provide accurate reporting and information regarding the ongoing projects and initiatives.
+Good working knowledge of web development practices and technologies.
+Parallelly worked with over 5 clients to gather functional requirements and design screen mock-ups.
+Experienced in coordinating, negotiating and motivating resources in support and project deliverables.
+Effectively training, motivating and mentoring Team Leaders, Developers, Testing team and other resources.
+Experience in managing international and multi-cultural projects (UK, USA, New Zealand, Netherlands, Dubai, China and Switzerland)
+
+Key Skills and Achievements
+
+Project Management
+Conceptualizing project execution plans after discussion with clients, gathering requirement and preparing specification documents.
+Hands-on, pro-active approach to fulfilling project objectives within agreed time frame, budget and quality margins.
+Providing post-implementation, enhancement and maintenance support to client for application.
+Responsible for user acceptance testing & extending post go-live support, including training support to end-users.
+Management of budgets ranging from £10K to £0.5million
+Manage the creation and updating of project-level plans, milestones, issues and risks.
+Management of multi-skilled teams, ability to develop individuals and progress their careers.
+Directing application development through in house and third party developers.
+Managing application releases into various environments.
+
+Business Analysis / Consultancy
+Support in the implementation activities which includes Fit and Gap solution analysis and discussions, CR documentation, business clarifications to development team and testing team, review of test cases, review of online help file, training guides and user manuals, functional testing, user acceptance testing support and cutover support.
+Impart business and product related trainings to various teams in the project
+Conducting GAP analysis as well as completing document analysis, requirement workshops, etc.
+Mapping business requirements for process enhancements/ developments/ implementations.
+Assisting internal business partners and technical teams to define and refine business strategy and supporting operational processes.
+Working out the new system's requirements & specifications and test strategies.
+Assisting in functional testing of the new system, ensuring that it meets the user specifications.
+Communicating with teammates and project leaders to deliver the best solution for the projects.
+Monitoring the market trends to develop products and improve existing products and services.
+Meeting customer requirements through technical solutions by working with pre-sales and technical teams
+
+Testing and Quality Assurance
+Excellent Test management skills and a proven ability in translating business requirements into explicit testing deliverables that meet customer expectations.
+Proven ability in effective test strategy, test planning and execution of complex projects involving globally spread teams at demanding client locations.
+Experienced and attuned in utilizing effective QA processes, standards, methodologies and tools in executing test projects efficiently.
+Good experience in Test case design, Execution, Defect Reporting and tracking.
+Hands on Experience with various Defect Management tools like (Mantis, Bugzilla and Jira).
+
+Career History
+
+Around 12+ years of experience in the IT Industry out of which,
+Jul 2014 – Till date - Project Management / Business Analyst experience in Birbals Inc., Chennai.
+Nov 2012 – Mar 2013 - Project Management experience in Group FiO India Private Limited., Chennai.
+Oct 2011 – Nov 2012 - Project Management experience in Media Systems India Pvt Ltd., Cochin.
+Oct 2008 – Apr 2011- Project Management / Business Analyst experience in MercuryMinds Technologies Pvt Ltd., Chennai.
+Oct 2005 – Sep 2008 - Software Engineer (Testing / Business Analyst) in Seventh Sense Networks, Chennai.
+
+Project Manager / Scrum Master Jul 2014 – Till date
+Birbals Inc, Chennai
+Major Clients: Role: Project Manager / Scrum Master
+
+Visitors For Insurance, NexGen Power Systems – Document Management System, CopyWorld Inc, VisitorPlans.com, Multichoice Insurance,, Meet The Drapers, Viome, SKY2C, 101VOICE, Check Center, Bright Brain Events, Radio Zindagi,, many more ecommerce sites and web applications.
+
+Environment: PHP, MySQL, ASP.net, SQL, Python, Java Script, HTML, Ajax, X-Cart, Magento, Joomla, Word Press, Angular JS, Android / IOS mobile App.
+
+Roles & Responsibilities:
+Manage three maintenance projects having monthly releases
+Track & Report daily progress and project status to stake holders
+Protect teams and keep them focused on tasks in hand
+Remove impediments to allow team to deliver the business objective
+Ensure scrum process used as intended - enforcer of rules
+Managed projects from concept to launch.
+Involved in Project Planning, Effort Estimation, Test Planning & scheduling, Resource planning.
+Worked independently and on multiple initiatives at the same time.
+Tracking the Project Requests / Change / Issues / Risk and updated the customer on regular intervals.
+Provided business consultation and clarifications to the development team and testing team.
+Increased business from existing customers by providing excellent services and improved the Customer satisfaction and increase the business growth.
+Forecast of resources required.
+Handled India operation’s completely.
+
+Project Manager Nov 2012 – Mar 2013
+Group FiO India Private Limited., Chennai
+Product: Opentaps 1.5 Professional System Role: Project Management
+Opentaps Open Source ERP + CRM is an open source Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) system.
+Roles & Responsibilities:
+Detailed requirements analysis and solution discussion with customers
+Creation of detailed CR specifications documents and update based on the new change request
+Manage the new change request in the project, analyze the impact of the new change request, approve and raise the change request.
+Provide business consultation and clarifications to the development team and testing team.
+Preparation of Business functions, End-2-End scenarios and Test cases
+Coordinating test team members with the development team and involved in Weekly sales meeting with the top management.
+Review of Core product release notes, Solution release notes and provide impact analysis for System Integration Test and System Acceptance Test
+Creation of weekly report to track the status of the project.
+Regular interaction with clients thro’ e-mails and telecoms throughout the project
+
+Jr. Project Manager Oct 2011 – Nov 2012
+Media Systems India Pvt Ltd., Cochin
+(An ISO 27001 Certified Company that builds / develops software products and provides solutions for their client’s businesses all around the world)
+Client: Summit Energy, USA
+Summit tracks Greenhouse Gas (GHG) emissions for its clients based on their usage of commodities such as electric power and natural gas. When used these commodities emit certain pollutants/emissions. Summit clients want to see these emissions aggregated at the level they are responsible for. Global Emission Factor Library that will support multiple sets of factors that can be accessed by all clients as well as versions of each set of factors. Allow users to view their emissions under different protocols. Carbon Map Library is used to calculate their GHG Emissions under different scenarios. Carbon map Summary is used to display the summary of entire carbon map in one place and export the values to Excel, PDF or CSV.
+Environment: ASP.Net, HTML, Ajax, JS, SQL Server 2008
+Roles & Responsibilities:
+Involved in Project Planning, Effort Estimation, Test Planning & scheduling, Resource planning.
+Facilitated managers working on client engagements.
+Reviewed high-level deliverables across projects.
+Managed scope and mitigated risk across projects.
+Served as a key participant in team and client meetings
+Coordinating test team members with the development team and involved in Weekly status meeting with the top management.
+Review of test cases created by testing team.
+
+Client: Rasmussen College, USA
+Rasmussen College is a 112-year old for-profit private college offering associate's and bachelor's degrees at 22 campuses in Minnesota, Illinois, North Dakota, Florida, and Wisconsin. It also has an online division. It is headquartered in Bloomington, Minnesota. Rasmussen offers on campus and online classes leading to Bachelor of Science (BS), Associate of Applied Science (AAS), and Associate of Science (AS) degrees in career-focused areas. The school offers more than 80 programs and partners with Benedictine University to provide Master's level programs. The school is organized into six schools: Health Sciences, Business, Justice Studies, Education, Nursing, and Technology and Design.
+
+Environment: Share Point 2010, HTML, Ajax, SQL Server 2008
+Roles & Responsibilities:
+Detailed requirements analysis and solution discussion with customers in onsite and creation of CR specifications documents.
+Coordinate all the client visit and support the clients in project related activities.
+Preparation of High level test conditions, End-2-End scenarios, Test cases and Test Plan.
+Review of test scenarios, cases and Defect reports.
+Coordinating test team members with the development team.
+Organizing defect triage meetings with the development team & business team.
+Preparation of daily summary report and sending to onsite.
+Defect Reporting using Ms-Excel sheet and Custom SharePoint Module(in house defect tracking tool)
+UAT Test Planning, test cases preparation, test execution
+Defect Management, Test summary & signoff.
+
+Jr. Project Manager / Business Analyst Oct 2008 – Apr 2011
+MercuryMinds Technologies Pvt Ltd., Chennai
+Major Clients: Role: Project Manager / Business Analyst
+PharmacyExpress, SMIFU, Supply Hero, PharmacyDirect, DanielFootwear, ChiaraFashion, Queens and many more ecommerce sites
+Environment: PHP, MySQL, Java Script, HTML, Ajax, DHTML, X-Cart, OS Commerce, Magento, Lite Commerce, eBay, Media Wiki, Joomla, Word Press, Drupal, Flash, Action Script, Chat System
+
+Roles & Responsibilities:
+Managed ecommerce and web based projects to meet performance benchmarks for budget, timeline, and customer satisfaction.(Project Planning, Effort Estimation, Test Planning & scheduling, Resource planning)
+Managed scope, milestones, and risks to keep the integrations on schedule and managed a series of 4 load tests conducted on 10 Production ecommerce sites and identified specific changes to improve site performance and stability.
+Grew long-term relationships with clients and capitalized on equity and partnership opportunities.
+Provided design input on the custom ecommerce platform functionality and integrations.
+Interviewed on-site and off-site business stakeholders on existing processes to reveal system gaps.
+Mentored another project manager.
+Possessed a thorough understanding of service offerings, technical preferences, and strategic direction.
+Consulted with over 10 clients to gather functional requirements and design screen mock-ups.
+Pro-actively managed client expectations and changes in project scope and requirements.
+Working on individual growth plan and setting goals for the team members, constant mentoring and tracking growth.
+Monitor/Inspect status of all projects.
+Forecast of resources required.
+Supervision of the requirements gathering processes and ensure the scope fulfilment within required time-frame and quality expectations
+Reporting to the Project Co-ordinator (Client) on a regular basis and communicating with stakeholders to provide accurate reporting and information regarding the ongoing projects and initiatives
+
+Senior Business Analyst / Software Engineer Oct 2005 – Sep 2008
+Seventh Sense Networks, Chennai
+Product: Production Management-ERP (eServe) Role: Business Analyst
+eServe, comprehensive yet cost effective service management software. eServe is simple and user friendly as testified by the Users and is available as a packaged product.
+
+Environment: ASP.Net, HTML, Ajax, JS, SQL Server
+Roles & Responsibilities:
+Creation of detailed CR specifications documents and update based on the new change request.
+Provided business consultation and clarifications to the development team and testing team.
+Creation of end to end test cases covering all the business scenarios and requirements.
+Review of the user manuals and help files created by User Documentation team.
+Functional testing of the application and business training and Knowledge transfer to Production Support Team.
+Handling of the change management process for the new requirements or proposed changes.
+
+Product: Production Management-ERP (e-Tex) Role:Testing/Business Analyst Fully Integrated ERP for Apparel Manufacturers - Exporter - Retailers. e-Tex is a breakthrough ERP solution designed to help garment manufacturers align to competitive market requirements by achieving cutting edge automation. Developed in close consultation with industry experts, e-Tex is a truly integrated product with unique and unmatched features its start from enquiry to till shipment like Enquiry, Sampling, Merchandising, planning, Approval, Purchase, Inventory/QC, Production Exports, and payroll.
+
+Environment: ASP.Net, HTML, Ajax, JS, SQL Server
+Roles & Responsibilities:
+Creation of end to end test cases covering all the business scenarios and requirements
+Designing Test Cases according to the Functional Specifications
+Involved in Functional and Regression testing.
+Defect Reporting using Ms-Excel sheet.
+Review of the user manuals and help files created by User Documentation team
+Business training and Knowledge transfer to Production Support Team
+
+Key Attributes
+Leadership
+Defining staffing needs in terms of required skills, knowledge, and competencies.
+Building capabilities within the team through engagement and leadership.
+Providing tools and support to teams by recognising needs for project mobilisation and team building.
+Identifying opportunities to develop others by leveraging the skills of more experienced staff.
+Assembling the correct skills, knowledge, and competencies required for effective project delivery.
+Acting as a primary contact for internal and external technical queries regarding projects.
+
+Personal
+Continually strive to improve in getting the most out of what is achievable with today’s technologies
+Demonstrating a positive and fresh outlook and maintaining a ‘can do’ attitude in the face of challenges.
+Demonstrated tact and diplomacy coupled with the ability to remain calm under pressure, in order to achieve positive outcomes. Effective under pressure and quick in adapting to changes (new working environments, concepts and systems).
+Getting to the heart of problems by focusing on critical information and issues.
+Used to work in fast-paced, hectic work environments.
+
+Certification:
+Certified Scrum Master (CSM) and an active member
+
+Achievements:
+Have won accolade from customers and prospective customer organizations for good performance in the project and knowledge in the ecommerce business functions.
+Established a technical team @ Birbals Inc., India with zero resource and sole responsible to setup a complete team, mentor the team and delivered projects successfully over the past 4+ years.
+Consistently graded ‘Good’ and ‘Exceptional’ throughout tenure with MercuryMinds Technologies Pvt Ltd.,
+
+Education
+B.E (Electronics & Communication Engineering) in 2005 from Sethu Institute of Technology, Anna University, India with 67% aggregate.
+Higher Secondary Education in 2001 from M N U J N Higher Sec. School, in India with 81.16% aggregate.
+S.S.L.C in 1998 from M N U J N Higher Sec. School, Madurai (State board) with 82.2% aggregate.
+
+Training / Workshops:
+Workshop in : Business Analysis @ ThoughtWorks, Chennai
+
+Contact this candidate

@@ -1,0 +1,28 @@
+
+Software Guidance & Assistance, Inc., (SGA), is searching for a Senior IT Security Engineer for a Contract assignment with one of our premier Insurance Services clients in Cary, NC.
+
+Responsibilities :
+The Senior Security Engineer must have the ability to identify, document, and recommend security safeguards and configurations in a highly complex environment with a demonstrated ability to recognize, and appropriately incorporate layered security safeguards within the network, application, and data layers from a defender's perspective.
+The Senior Security Engineer must be an adaptable, pragmatic, and positive professional, who is comfortable in delivering clear and concise information at both a technical and managerial level.
+Identify, recommend, develop, and implement technical security solutions to enhance control environment.
+Manage security product life cycle from vendor management roadmap and QBR, change management, documentation, user training, milestone planning, and deployment coordination.
+Work effectively with other Information Security teams and outsourcing providers to ensure technology security solutions are in alignment with organizational strategic goals.
+Ability to work with teams around the globe.
+Document and transition operational responsibilities to the Security Operations team.
+Required Skills:
+3-5+ Utilizing Cisco AMP and the McAfee security suite of products within an enterprise environment.
+3-5+ years of IT Security Engineering experience working in an enterprise infrastructure or security architecture environment.
+Working knowledge of various industry security standards and frameworks including: ISO 27001, ISF Standard of Good Practice (SoGP), NIST, etc.
+Teamwork, collaboration and communication skills, both written and verbal. Preferred Skills:
+Bachelor's degree in Computer Science, Information Systems, or 5+ years of related equivalent work experience in lieu of degree is acceptable.
+Working knowledge of modern enterprise and security architectures, their challenges, common approaches to overcome their challenges, and their inherent security strengths and weaknesses.
+Desire to seek professional certifications such as: CISSP, CISA, CISM, GIAC, CGEIT, CRISC, CEH, or other relevant industry certification.
+Experience utilizing Python to write reusable, testable, and efficient code.
+Working knowledge of endpoint firewall and web content filtering applications.
+SGA is a Certified Women's Business Enterprise (WBE) celebrating over thirty years of service to our national client base for both permanent placement and consulting opportunities. For consulting positions, we offer a variety of benefit options including but not limited to health & dental insurance, paid vacation, timely payment via direct deposit. SGA accepts transfers of H1 sponsorship for most contracting roles. We are unable to sponsor for Right-to-Hire, Fulltime, or Government roles. All parties authorized to work in the US are encouraged to apply for all roles. Only those authorized to work for government entities will be considered for government roles. Please inquire about our referral program if you would like to submit a candidate for any of our open or future job opportunities. SGA is an EEO employer. We encourage Veterans to apply. To view all of our available job postings and/or to learn more about SGA please visit us online at .
+
+Permanent
+
+
+Go to apply 
+

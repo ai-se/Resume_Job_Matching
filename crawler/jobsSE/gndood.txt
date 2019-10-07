@@ -1,0 +1,28 @@
+
+Description:
+Verification and Validation (V&V;) Engineer for Software. The selected candidate will work under direct supervision of the V&V; Lead to produce clear and concise V&V; documents for medical devicesJob duties include, but are not limited to:
+Learn from and adhere to internal quality manual (Quality System Procedures, Work Instructions, and Forms)
+Perform manual and automated testing of medical devices with embedded softwareTesting includes but is not limited to:
+Testing via the device User interface
+Remote testing via wired communication interfaces
+Remote testing via wireless communication interfaces
+Peripheral (SD Card, external measurement, etc. ) functionality testing via SD Card, wired, and wireless interfaces
+Perform manual and automated testing of software only medical devices (iOS apps, web apps, etc. )
+Perform Unit Testing and Integration Testing
+Review code for logic errors, proper coding conventions, best practices, etc., and provide feedback
+Quickly learn to use automated test tools and specialty test equipment; develop and validate automated test scripts
+Log defects and issues found during V&V; activities and track to closure
+Prioritize project tasks to complete on schedule while maintaining quality of work
+Work in a team environment; peer review work
+Provide weekly project status reports
+Develop test plans, test procedures, trace matrices, and test reports
+Perform regression analysis and determine testing associated with design changes
+Work closely with Design Quality Engineer to identify safety related units in softwareEducation/Experience:
+Bachelor s Degree or equivalent
+3-5 years professional experience
+Experience with software V&V; of embedded devices required
+Basic understanding of global medical device regulations, requirements, and standards preferred
+
+
+Go to apply 
+

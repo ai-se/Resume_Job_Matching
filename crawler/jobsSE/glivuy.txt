@@ -1,0 +1,10 @@
+
+Experienced Site Reliability EngineerWindows/PowershellThe Cyber Security Telemetry team is a global team.
+The candidate will work in an agile Scrum team to design, engineer, package, deploy and maintain agents across Windows and Linux operating systems.
+Additionally, the candidate will perform day-to-day operations to maintain the production and development infrastructure on which the software runs.
+The candidate will also document the solution including designs, test plans/results, and, where appropriate, installation instructions and operational manuals.
+The ideal candidate should be passionate about working in an agile team and developing new solutions.Tasks Day-to-day operational maintenance of Cyber Security agents and any associated backend infrastructure, including system administration tasks--- Automating Windows-based tasks using Powershell--- Writing code (in Powershell or Python) to interact with APIs of the deployed solutions--- Document test plans and test results--- Document solutions in wiki--- Maintain relevant industry, information security, and technical knowledgeQUALIFICATIONS:5+ years of experience and excellent skills in Excellent Powershell development skills, including experience working with APIs and source code management--- Excellent systems administration skills on Windows--- Technical solution design, implementation, and integration experience in enterprise environments, preferably with information security software--- Packaging and package integration on Windows--- Decent working knowledge of Linux --
+
+
+Go to apply 
+

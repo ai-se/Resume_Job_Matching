@@ -1,0 +1,34 @@
+
+About TRUCE
+At TRUCE, we believe there’s a better way for businesses to leverage all a mobile device has to offer in the workplace, while still protecting what’s most important – their employees, assets and IP. TRUCE offers the first Mobile Device Management platform to provide flexible, contextual enforcement of a company’s mobile device usage policy. Our patented solution offers employers the ability to manage employee access to relevant apps at the appropriate time and place using contextual indicators. As a result, the distractions of mobile devices are eliminated, helping businesses to reduce accidents, increase efficiency, improve employee safety and create a better workplace.
+Our Culture
+We are a diverse team unified by a common purpose: to enable the safe and effective use of mobile technology. People are at the heart of everything that we do. We work hard, have fun, take pride in our work, and recognize that our accomplishments are the results of our team efforts.
+What You'll Do
+We are seeking a Software Engineer (on our Platform team) to architect, build, and maintain back-end services on AWS. TRUCE applies a DevOps mindset to the services and applications we build, and so this Software Engineer will own several back-end services.
+This position is suited for developers or system administrators (database, systems, network, or cloud) who would like to grow into a senior role. It is an excellent opportunity to work on latest technologies and build architectures that scale. An ideal candidate would be someone who loves to learn, takes ownership of deliverables, takes pride in delivering a quality product, and likes to move fast.
+The interview process will include writing and troubleshooting code, in addition to the technical interview.
+Responsibilities
+
+Architect, build, troubleshoot and maintain cloud-based solutions and applications.
+Provide infrequent after-hours monitoring and triage of critical production issues.
+Prioritize and work independently on several technical tasks requiring solutions having an estimated complexity of 8-16 hours.
+Required Qualifications
+
+Excellent knowledge of a high-level programming language (e.g., Python, Java, C#, C++, PHP, JavaScript).
+Experience (2 - 3 years) in developing production-level back-end solutions (e.g., services).
+Working knowledge of at least one database (e.g., MySQL, SQL Server, PostgreSQL, MongoDB).
+Working knowledge of Linux/UNIX command line tools (e.g., vim, perl, awk, sed).
+Preferred Qualifications
+
+Experience delivering two or more software or systems projects (at the professional level) through the entire SDLC.
+Exposure to patterns for building Distributed Systems.
+BS in Computer Science (or equivalent) from an accredited 4-year university.
+Experience in a dynamically typed language (Python, PHP, JavaScript, etc.) and a statically typed language (Java, C++, C#, etc.)
+Experience with Amazon AWS, Google Cloud, or Microsoft Azure (AWS Certification a plus)
+Experience with Jetbrains tools (IntelliJ, PHPStorm, DataGrip, PyCharm)
+
+VgESOGVBhX
+
+
+Go to apply 
+

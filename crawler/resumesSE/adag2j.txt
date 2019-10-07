@@ -1,0 +1,103 @@
+
+Teodoro Lonoza
+** ******** **., ***********, *******, M1V 2Y1
+(Cell) 437-***-**** E-mail: adag2j@r.postjobfree.com
+
+Objective: To help and utilize my skills as well as to be proficient with your generous/orientation/training as Electronics Engineering Technologist (R&D) for your prestigious organization’s further success.
+
+Detailed Responsibility / Skill exposures
+Significant Technical Responsibility or Responsibility over other Hardware test engineers.
+-Regular interpersonal relationships with other hardware test engineers as well as interfacing with them in each of different test modules which are integral parts of the system to build it on a whole.
+-Independent protoype building, fabricate, test, in-depth level troubleshoot, detailed component selection and documentation of digital/analog and RF ciruits experiments, PC based I/O manipulations and data acquisitions in various platforms like PIC micro controller, Arduino, JTAG, Atmel, Altera, Quartus, SoC.
+Writing Hardware Qualification test plans, Qualification test procedures, executing Qualification tests, and writing Qualification test reports.
+Used to incorporate and write step by step procedures on: Standard Tests, Optional Tests, Measured Parameters (Performance/Free run Tests), Calculated parameters, Non-Functional requirements: Safety Systems (Operator to be protected in an enclosed area, Starter enclosure interlocked, E-stop, Ground leakage detection); Environmental (Temperature operational range, Relative humidity); Documents Requirements (Control assembly drawings, Mechanical assembly drawings, manual, spare parts list; Applicable standards (CSA/UL as required, CE).
+Project planning/Implementation/Monitoring, Installation, Commissioning, Test & Acceptance, Material outsourcing (equipment/component level) of various on-site projects in Telecommunications, Solar Farm (Power Engineering), Home Automation, Audio/Visual systems.
+Knowledgeable, Hands-on and familiar with Power Engineering-Servo Motors, Motion Control, Variable Frequency Drives, setting up PID algorithm, Control system automation, Pneumatic/Hydraulic valves, Accelerometers, Shaft Encoders, AC/DC motors, Stepper motor, exposure in PWM circuit tuning/testing and prototype building on microcontrollers
+Knowledge in RF test and measurements in the Microwave radio Link, Ku, Ka, C bands. Power measurements and test using spectrum analyzer, network analyzer and noise figure analyzer.
+Hands on experience with RF Test Equipment - spectrum analyzers, Network analyzers, power meters and Noise figure analyzers.
+Knowledge in Microwave Radio Link, Network installation, configuration (various topologies).
+Knowledgeable in various programming languages/platforms (Matlab/Labview/PIC Micro/Arduino/SoC/VHDL/Assembly Language programming/protocols/interfaces like: GPIB, RS 232, RS 422, RS 485, Modbus, Profibus, CANbus, RS 232, RS 485, SCADA DNP3, D20 equipment, PLC RSLogix
+Hobbies: Professional Audio, IoT (Internet of Things), Home Automation, Electrical/Electronics parameter monitoring/interfacing through Ethernet gateway.
+PCB Assembly/Test/ Manufacturing experience: In-Circuit Test Automationand Functional test of PCB modules.
+Summary of Qualifications in the Test Engineering (various product lines), Research & Development, Test & Measurement Industry:
+Renewable Energy/PV Solar and Hybrid Technology: Achievements/experiences and member of the design/functional test team of Digital Power Control Board (DPCB motherboard, combiners, full electrical parameters of the whole high power inverter system), test/acceptance(CSA-Canadian Standards Authority)/QA/Verification(features/parameters) of 1 MW (megawatt) inverter used in Saulte Ste. Marie Solar Farm ..SATCON TECHNOLOGIES-pioneer of high power conversion system and remote monitoring in Canada.
+- Test bay, PCBA Test bench, R & D, Field Service) - Responsible for supporting designs (R & D), test activities for power conversion systems from 5 KW to 1 MW,
+Power Systems Test Technologist, Satcon Technologies, Inc., Burlington, Ontario
+
+Automotive Industry: Part of the Design Team/Technical Service Support for D&V Research and Development - Electric Power Train (EPT) series of test stands provides state of the art test equipment for automotive companies around the world. Able to test motors up to 20,000rpm, 2500Nm as well as controllers/inverters and battery systems. D&V provides modular test stands for the hybrid and electric vehicle industry of the future.
+- D & V Electronics, Vaughan, Ontario
+
+Designed and developed (analog/digital/mixed signal/RF) electronics, troubleshooting and repair, test and calibration of electrical metrology instruments/standards, test instruments (DC and AC products used in utilities).
+- Electrical Metrology Engineer, Measurements International Limited, Prescott, Ontario, Canada
+
+Power Energy/Utilities: Implementation of all phases of conceptualization, applied research, hands-on design, improvement, in-house development of software, hardware circuits and electrical/electronic equipment related to data synthesis and analysis, digital instrumentation, micro-controllers, microcomputer/PC based systems, sub-station protection and control for various sub-station and power plants in the whole Philippine Archipelago.
+- Principal Engineer, Research & Development (R & D), SCADA Telecom, National Power Corporation, Philippines
+
+Committed and responsible through proper implementation of test and
+calibration based on procedures and standards Type 1, TAR 4:1(U.S. National Bureau of Standards). Based in various divisions such as DC/LF, HF/RF and Repair Facility Lab,
+performed quality and precise maintenance, test/calibration, troubleshooting and repair as well as in depth component level repair of various electronic instruments- spectrum analyzer, Storage oscilloscope, RF generator, microwave radio and standards, Radar equipment, panel - Metrology Engineering Technologist, Precision Measurements and Equipment Laboratory Kay & Associates(American company based in Kuwait Air Force and Air Defense Kuwait, Metrology/Calibration-Test and Measurements), KUWAIT
+
+Trained in Basic and Advanced Hand Soldering Technique (SMT components, J-lead, fine pitch, chip component, discrete component tabbed transistors, SOIC, PLCC, QFP, FPQFP, SOCKET), pin through component Repair/Rework under microscope- based on IPC standard
+Hand soldering and rework of SMT components such as QFPs and fine pitch components - Repair/Rework Technician, (Celestica/SMTC/G E, Canada)
+
+EDUCATION AND AFFILIATIONS
+Bachelor of Engineering (Canadian Equivalency evaluation from World Education Services), Toronto, Canada - Completion date October 2004
+Registered Electronics and Communications Engineer, Professional Regulations Commission (PRC), Manila, Philippines since 1986
+Bachelor of Science in Electronics and Communication Engineering, University of Santo Tomas, Manila, Philippines - Completion date March 1980
+
+Specialization Courses and Academic Activities
+
+Hardware Design Engineer Course (FPGA, CPLD, ASIC, VHDL, Verilog, C++, Labview), IT Academy, Toronto, Canada
+Advance PLC Programming Certificate (Ladder Logic, HMI, DCS, SCADA, Panel Builder, Panel View, RS Logix, SLC 500 Series, Modbus, NetDDE, Serial Communications-RS 232, RS 485) INDUSTRAIN COLLEGE, Toronto, Ontario, Canada
+Digital Microwave Radio Relay Quadralink, HARRIS
+Electrical Safety Training for Qualified Electrical Worker (High Voltage/High Current used in X-ray generators and Satellite Communications), Continuing Quest for Excellence (ISO 9000, TQM, Standards in accordance with CSA, IEEE/ANSI, methods of procedure), Manufacturing Training, Holder of Controlled Goods Directorate clearance (ITAR-U.S. and Canada) – Communication and Power Industries, Canada
+GT Training Program – Service Partnership Program (Projector, Motion Control, Auxiliary system for projector instrumentation, intelligent control lighting system, public address system and proprietary Professional Audio System – IMAX Corporation and Society of Motion Pictures and Television Engineers (SMPTE), Mississauga, Canada
+Microprocessor-controlled Substation (Protection and Control, Distribution Relay Applications) – Schneider Electric
+HIGHLIGHTS OF WORK EXPERIENCE:
+
+4/18 to date Adamson Systems Engineering
+ELECTRONICS ENGINEERING TECHNOLOGIST - Research and Development (MANUFACTURING/AVB/NETWORKING/CLASS D AMPS/SMPS/SMT)
+- Design, Develop, Installation, Construction, Testing and Production and manufacturer of Professional Audio Products for the touring industry and large install applications.
+• Class D audio amplifiers
+• Switch Mode Power supplies (SMPS)
+• Audio networking, communications and AVB
+
+10/16 -3/18 Creation Technologies, Inc., Markham, Ontario
+Test Technologist, In-Circuit Test (I C T ) Testing Station
+In circuit Testing of various PCB modules using Teradyne/GenRad ICT System together with the different types of test fixtures which correspondingly matched the said PCB modules under tests
+Manual assembly of electronic components including complex and high density projects according to assembly books, custom specs and quality standards
+Perform hand soldering, inspection and rework of all thru-hole, SMT, mixed assemblies and custom parts as per Engineering specifications and IPC workmanship standards
+04/15 -10/16 DG Capitel, Inc. - Telecommunications, Calcary, Alberta, Canada
+System Engineer - provider of communication systems and services to some of the world’s leading corporations. Demonstrated capabilities span the entire life cycle of a communications requirement including: Network Evaluation and Planning, System Design and Engineering, Sourcing and Procurement of Selected Materials, Implementation, Construction, Testing and Commissioning, Logistics Management, After Sales Services and Site Maintenance.
+3/13 - 4/15 BCL X-ray Canada, Inc., Mississauga, Ontario, Canada
+On-site field service Specialist(Troubleshooting and repair, preventive maintenance, installation, test, and commissioning) of various types of Medical Diagnostic Imaging: X-ray of Different brands
+
+2/10 - 3/13 Sat-Con Power Systems Canada Ltd., Burlington, Ontario, Canada
+Power Systems Test Technologist (Test bay, PCBA Test bench, R & D, Field Service) - Responsible for supporting test activities for power conversion systems from 5 KW to 500KW
+Perform qualification and acceptance test of electrical components, circuit boards and power conversion systems, PV solar inverter, rectifiers.
+Test/Evaluation/Verification of various Solar PV inverters, power conditioning equipment from 30 KW to 500KW range (renewable energy)
+1 MW PV Inverter for Solar Farms
+Perform qualification and acceptance test of electrical components, circuit boards and power conversion systems, PV solar inverter, rectifiers.
+Participate in Root Cause Analysis, Corrective Action processes
+
+2/09 – 2/10 Measurements International Limited, Prescott, Ontario, Canada
+Electrical Engineer (Electrical Metrology/R & D) - Responsible for testing, troubleshooting, research and development, calibration and designing of company manufactured metrology based calibration products for Temperature, DC Resistance, DC voltage and AC power all of which are used in electrical testing, standards and metrology laboratories worldwide – Turnkey Metrology solutions for Quantum Metrology, Temperature Metrology, DC Resistance and DC Current.
+7/07 – 2/09 Sat-Con Power Systems Canada Ltd., Burlington, Ontario, Canada
+Power Systems Test Technologist (Test bay, PCBA Test bench, R & D, Field Service) - Responsible for supporting test activities for power conversion systems from 5 KW to 1MW
+Perform qualification and acceptance test of electrical components, circuit boards and power conversion systems, PV solar inverter, rectifiers.
+Generate test reports, procedures and set up documentations for both internal and external customers as well as assist in the assembly of test set ups and work with external certification bodies to obtain product approvals.
+
+3/04 – 6/06 IMAX Corporations, Mississauga, ON, Canada
+Technical Service Specialist (Professional Audio and Movie Projector instrumentation systems) - Technical support and customer field service exposure as Technical Service Specialist maintaining and on-site immediate restoration of movie projector instrumentation, lighting control system, peripherals and professional audio systems in various IMAX proprietary theatres worldwide.
+
+08/02 - 01/04
+Electronic Manufacturing Operator/Technician (Contract)
+CELESTICA, Don Mills, Scarborough, ON
+Telecommunications system, computer circuit boards and peripheral manufacturing
+
+10/94 – 5/99 System Instrumentation and Control Division, SCADA and Telecommunications Department, System Operations, National Power Corporation, Manila, Philippines
+Principal Instrumentation/Automation Engineer (Research & Development, Substation Automation) – responsible for the implementation of all phases of conceptualization, applied research, design, improvement, in-house development of software, hardware circuits and electrical/electronic equipment related to data synthesis and analysis, digital instrumentation, micro-controllers, microcomputer/PC based systems for sub-stations and power plants electronics/computerized equipment.
+
+REFERENCES: AVAILABLE UPON REQUEST
+
+Contact this candidate

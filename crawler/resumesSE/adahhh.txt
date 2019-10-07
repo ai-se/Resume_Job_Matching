@@ -1,0 +1,291 @@
+
+SUNIL CYRIAC (adahhh@r.postjobfree.com)
+
+Summary
+•Senior Systems Analyst, 12 years of experience as Business analyst, Test data analyst and Mainframe developer.
+•Experience in analyzing complex systems and determining operational objectives by studying business functions.
+•Experience in constructing workflow charts and diagrams
+•Experience in working in business domain of Health Care (Claims processing systems, Membership and Provider systems) and banking and financial systems
+•Experience in JIRA and user story creations
+•Experience in CA agile and user story creations
+•Hands on Experience in SOAP UI and Postman usage
+•Experience working in Agile methodology
+•Experience working with Swagger
+•Experience working with web services like SOAP and RESTful
+•Experience using Bit bucket and Jenkins
+•In depth knowledge of software development and testing life cycle phases
+•Experience in working in the Technical Domain of Mainframes in zOS, Unix and windows platforms
+•Experience in working in business domain of Health Care (Claims processing systems, Membership and Provider systems) and banking and financial systems
+•Experience in analyzing data needs and data issues
+•Knowledge of Defect management and Automation concepts
+•Good knowledge in TDM concepts
+•Excellent analytical and debugging skills
+•Positive attitude and a hard worker
+•Expertise in leading teams across different geographies
+•Proven efficiency in Client and Stakeholder relation skills
+•Additional competence in business analysis and requirement gathering
+•Hands of experience in estimation of effort
+•A team player with strong understanding of customer requirements
+•Team Leadership ability
+•Team coordination and management skills
+•Quick and eager learner
+
+Summary of Technical Skills
+
+Languages : COBOL, JCL, AcuCobol, UNIX
+Platforms : Android, iOS, IBM zOS, Windows, UNIX
+Mainframe Tools : Change Man, Expeditor, FILE-AID, Abend-Aid, SAR, IBM PD tools
+Control-M, CA-Dispatch, Table base, IMS File-Aid, BMC Tools, FMIMS,FMDB2,File manager
+Other tools : Perfecto Mobile, SOAP UI, Postman, IBM data studio, SQL developer
+Database : IMSDB, DB2, MS-Acess,Oracle
+OLTP : TSO/ISPF
+Additional Skills : HL7 inbound format, Clover leaf mapping, Zeplin
+
+Experience Highlights
+
+UST Global, USA (Oct 2018 – Till Date)
+Date of Joining: 22nd October 2018
+Client /Account: Anthem-Mobility
+Designation: Senior Systems Analyst
+
+UST Global, Mexico (Feb 2018 – Oct 2018)
+Date of Joining: 16th February 2018
+Client /Account: Anthem-SOA test data management
+Designation: Senior Systems Analyst
+
+UST Global, USA (Oct 2017 – Feb 2018)
+Date of Joining: 9th October 2017
+Client /Account: Anthem-SOA test data management
+Designation: Systems Analyst
+
+UST SERVICIOS, S.A DE C.V, Leon, Mexico (Oct 2013- Oct 2017)
+Date of Joining: Oct 7th 2013
+Client /Account: Anthem-WGS Providers and WGS Pricing
+McKesson – Global financial System
+Designation: Systems Analyst
+
+UST Global, Infopark, Kochi, Kerala (April 2013 - Oct 2013)
+Date of Joining: 15th April 2013
+Client /Account: Anthem-WGS Providers
+Designation: Systems Analyst
+
+TATA Consultancy Services Limited, Infopark, Kochi, Kerala (Sep 2010 – April 2013)
+Date of Joining: 1st Sep 2010
+Client/Account: American Express Corporation
+Designation: I.T Analyst
+
+UST Global, Infopark, Kochi, Kerala (March 2008 – August 2010)
+Date of Joining: 19th Mar 2008
+Client/Account: WellPoint-WGS and STAR Membership and Billing
+Designation: Senior Software Engineer
+
+Project Details:
+
+IngenioRx mobile application development– Anthem
+Role : Business systems analyst
+Duration : October 2018 – Till Date
+
+Descriptions: IngenioRx is a new pharmacy benefits manager (PBM) standalone pharmacy mobile application that Anthem is developing. IngenioRx will serve customers of Anthem affiliated health plans, as well as non-Anthem customers, with a seamless, integrated experience by taking Anthem’s new model to the national marketplace. IngenioRx will begin offering a full suite of PBM solutions starting in 2020
+
+Responsibilities:
+Requirement Gathering
+Test application using physical devices and perfecto mobile
+Mobile application performance validation
+508 compliance validation
+JIRA story writing
+Defining Acceptance criteria
+Identifying test data needs
+Validating API services
+API to UX mapping
+UX/UI and content reviews
+Swagger analysis
+Risk and gap analysis
+Delivery management for the scrum team
+
+Software Used: Zeplin, Pefrecto, Jira, Confluence, Postman, SQL developer
+
+SOA Testing and Test Data Management– Anthem
+Role : Onsite Co-ordinator
+Duration : October 2017 – October 2018
+
+Descriptions: Anthem’s mission is to improve the lives of the people we serve and the health of our communities. We advocate healthy living, and our affiliated health plans provide consumers with tools and information to better manage their health work with health care providers to help keep chronic conditions under control, and bring health care and coverage to medically underserved communities.
+
+Responsibilities:
+Requirement Analysis
+Test data management
+Test data mining
+Test data analysis
+Test data preparation
+Test data validation
+Application Knowledge Transfer
+TDM automation ideas development
+Onshore and Offshore Coordination
+Stakeholder Management
+Client Relations
+Training
+Document Review
+Presentations
+
+Software Used: DB2,Changeman,File Manager, JCL,COBOL,IBM data studio,SQL developer, SOAP UI,Postman,NASCO EMOL
+
+Sharks Agile team – McKesson (Change Health Care)
+Role : Developer Lead/ Business Analyst
+Duration: June 2016 – Oct 2017
+
+Project Description:
+McKesson is based in the United States and distributes health care systems, medical supplies and pharmaceutical products. Additionally, McKesson provides extensive network infrastructure for the health care industry; also, it was an early adopter of technologies like bar-code scanning for distribution, pharmacy robotics, and RFID tags. It is a Fortune Global 500 company, and the 5th highest revenue generating company in the United States.
+
+We had an engagement with McKesson corp., where both development activities as well as production support was provided to global financial systems of McKesson corp.
+
+Roles& Responsibilities:
+
+•Worked with client to elicit requirements for development/maintenance activities.
+•Worked as a business analyst in the second half of the assignment
+•Involved in gathering business needs and converting it to technical requirements
+•Determines operational objectives by studying business functions
+•Gathering information, evaluating output requirements and formats
+•Analyzing requirements, constructing workflow charts and diagrams
+•Studying system capabilities, writing specifications
+•Managing the work within the team.
+•Involved in Design and code review.
+•Ensures that the work products are delivered to the client with quality.
+•Implementation Support/Activities.
+
+WGS Providers – EPDS V2.0 Migration
+Role : Onsite Co-ordinator
+Duration : April 2013 – June 2016
+
+Project Description:
+
+A provider system is basically a doctor, hospital, laboratory, nurse or anyone else who delivers medical or health-related service.
+
+There are three provider data bases that support the WGS 2.0 Family of Systems, as well as vendors and clients:
+
+NMS – Network Management System, which contains professional and HMO providers for California, Colorado, and Nevada. Wisconsin Senior and Georgia HMO Senior providers are also on this data base. These providers make use of the professional claim form to submit claims.
+
+WMS – WellPoint Management System, which contains professional and HMO providers for Unicare, includes all states except California, Colorado, and Nevada, plus all Central Region PAR and Non-PAR providers to support price & ship Host and Intra-Plan business. These providers also bill using the professional claim form.
+
+EPDS – Enterprise Provider Data Solution, which contains institution providers for NMS and WMS. These providers make use of the institutional claim form to submit claims.
+
+As part of this project, The EPDS V2.0 is envisioned as a single repository for all provider data across the enterprise. The purpose EPDS V2.0 is to build a foundation to enable the entry of provider data once into a central repository, streamlining and standardizing WellPoint business processes. EPDS V2 centers on the heart of WellPoint’s business model of creating, tracking, marketing and managing flexible, quality provider networks to support all lines of business, products and services.
+
+As a Project Lead/ Lead developer my responsibilities included
+
+Co-ordination between the onsite and offshore teams
+Leading the offshore team
+Managing the work within the team
+Resource management
+Involved in Design and code review
+Ensures that the work products are delivered to the client with quality.
+Implementation Support/Activities.
+
+Pegasus Migration
+Role : Track Lead
+Duration : Jan 2012 – April 2013
+
+Project Description:
+
+American Express (AMEX) is the leading credit card service providers across the globe. Global Commercial Services (GCS) team provides the development and technical support for the corporate cards operations in Japan and Asia Pacific markets.
+
+As part of this project, Amex wanted to introduce a new centralized system to handle all the technical activities for Japan and Asia pacific regions.
+
+Main advantages of this common data repository are, streamlining and standardizing the Amex Business activities and flexibility of introducing new business functionalities over the globe with minimal technology involvement and less cost.
+
+As a Track Lead my responsibilities included
+
+•Co-ordination between the onsite and offshore teams
+•Leading the offshore team
+•Managing the work within the team
+•Resource management
+•Requirement analysis and estimation
+•Involved in Analysis of the Programs and Applications.
+•Coding and Testing.
+•Review of work products.
+•Ensures that the work products are delivered to the client with quality.
+•Implementation Support/Activities.
+
+Japan Zero Spenders
+Role : Senior Developer
+Duration : Sep 2010 – Jan 2012
+
+Project Description:
+There were more than 10K credit cards in Japan market without making a single transaction in few years. American express was spending millions of dollars for the maintenance of these inactive cards.
+As part of this project AMEX wanted to identify the credit cards which are not making any transactions (Kanji or Katakana) or English as per the card holder’s language preference, requesting them to either call the help desk or make any transactions to retain their credit cards. In case of no response from the card holder, Amex will cancel the cards and sent another automated letter to the card holder stating the reason for cancellation.
+
+As a Senior Developer my responsibilities included
+
+•Co-ordination between the onsite and offshore teams
+•Guiding the offshore team
+•Managing the work within the team
+•Resource management
+•Requirement analysis and estimation
+•Involved in Analysis of the Programs and Applications.
+•Coding and Testing.
+•Review of work products.
+•Ensures that the work products are delivered to the client with quality.
+•Implementation Support/Activities.
+
+WellPoint: BMC ARC Implementation
+Role : Developer
+Duration: Dec 2009-Sep 2010
+
+Project Description:
+The primary objective of BMC ARC implementation in WGS Membership and Claims system is to reduce the manual effort in mainframe job restarts and to reduce the CPU usage. ARC (Application Restart Controller) is a BMC tool developed to support the automatic check point and restart of the mainframe jobs.
+
+As part of this project, WellPoint decide to convert all its batch jobs to BMCARC complied to reduce the total CPU usage and manual effort involved in mainframe job restart. Approximate savings expected after the implementation of this huge project was over a million dollars in each month.
+
+As a developer my responsibilities included
+
+•Involved in Analysis of the CPU usage for all batch jobs in WGS system
+•Sharing solutions to the business on CPU usage reduction
+•Preparing design documents
+•Build and implementation support
+
+WellPoint: HALDB Conversions
+Role : Developer
+Duration: April 2008 – Dec 2009
+
+The primary objective of WellPoint-HAL DB Conversions project is to handle the spaces issues in different WellPoint WGS databases
+
+There were some data bases in WGS system running out of space and creating issues in batch processing. WellPoint has decided to convert its main history databases and history storing tape files to HALDB to get rid of the spaces and performance issues. Highly available large data base (HALDB) has unlimited data storage capacity and it has better performance compared to the large tape files.
+
+Main objectives of this HALDB conversion were:
+
+1.Resolve the space issues in WGS IMS databases
+2.Improve the performance by converting tape files to IMS DB
+3.Improve the CPU savings
+
+As a developer, my responsibilities included
+
+•Involved in Analysis of the Programs and Application
+•Sharing business knowledge and technical knowledge
+•Technical document preparation
+•Coding and Unit testing
+•Review of work products
+•Ensure the quality of deliverables.
+
+EDUCATION, TRAINING & CERTIFICATIONS
+
+Bachelor of Engineering in Electronics and Communication Engineering, KSR College of Engineering, Thiruchengode, Anna University
+
+Software Professional Training from Capital mark, Thiruvananthapuram, Kerala, India, which consists of –
+
+•Soft Skills Training
+•IMSDB/DC
+•DB2
+•Acu Cobol
+•Unix
+•Clover leaf mapping
+•COBOL/JCL/VASM
+•Change Man and Expeditor
+•File Aid, Abend Aid and CTM
+•Business
+•Configuration Management
+•DPC/QC
+
+Contact Details:
+
+Email :- adahhh@r.postjobfree.com
+Mobile :- 513-***-****
+
+Contact this candidate

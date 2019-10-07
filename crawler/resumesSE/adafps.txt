@@ -1,0 +1,316 @@
+
+adafps@r.postjobfree.com 812-***-**** (Mobile)
+K E I T H D . U L R I C H
+
+ROLES
+Project Manager
+Product Owner
+Scrum Master
+Release Manager
+Application Developer
+Telephony Manager
+Call Center Supervisor
+Area Manager
+Quality Assurance Manager
+Account Executive
+Contract Negotiator
+Sales Manager
+Finance Negotiator
+
+TOOLS/METHODS
+Rally (Agile)
+Technology Delivery Platform AgileCraft
+MS Project
+MS SQL Server
+Coldfusion
+JavaScript
+HTML
+JQuery
+Flex
+Flash
+AVAYA Systems Admin
+
+INDUSTRY APPLICATIONS
+Financial
+Telecommunications
+Business to Business Sales
+Radio/Television/Film
+
+EDUCATION
+B.S. Communications
+University of So. Indiana
+Evansville, Indiana
+Computer Science
+IVY Tech State College
+Evansville, Indiana
+
+CAREER HIGHLIGHTS
+Employed for over 25 years with AT&T.
+Promoted 3 times within AT&T.
+Received multiple ‘exceed expectations’ ratings on past reviews.
+Held positions in web development, project management, release management, Agile methodology, process design, building operations, call center telephony architecture and call center supervision.
+
+CERTIFICATIONS
+Scrum Master Accredited Certification
+Scrum Product Owner Accredited Certification
+
+SKILLS INVENTORY
+Software Development
+Web Application Development
+Software Application Development
+Database Design and Administration
+
+Business Management
+Agile Product Owner
+Agile Scrum Master
+Project Management
+Methods and Procedures (M&P) Authoring
+Quality Assurance Process Management
+Call Center Supervision
+Vendor Management
+Customer Service
+Six Sigma Yellow Belt
+
+Telephony Management
+Technical Architecture
+ACD Call Flow Design and Implementation
+Call Center Reporting
+Workforce Management
+Voicemail/ACD User Administration
+
+Sales Experience
+Advertising Sales
+Auto Fleet Sales
+Textile Sales
+
+adafps@r.postjobfree.com 812-***-**** (Mobile)
+K E I T H D . U L R I C H
+CHRONOLOGICAL SUMMARY OF EXPERIENCE
+Scrum Master, Product Owner, Release Manager
+HCL America – Contracted to AT&T Technology Development, 2016-Current
+Telecommute
+Responsibilities:
+-Employed all aspects of Agile Methodology in both Scrum Master and Product Owner roles
+-Coached agile principles for adoption
+-Facilitated daily standup meetings and Scrum events for distributed Agile teams
+-Collaborated with internal and external stakeholders eliminating impediments on the team
+-Performed Agile Coaching for other teams
+-Assisted and mentored teams in deliverable quality through quality acceptance and procedural adherence
+-Assisted the Product Owner and keep the backlog work effectively prioritized
+-Facilitated effective communications between product, development and QA
+-Performed project management duties as required
+-Clearly defined and prioritized the feature requirements and acceptance criteria into an agile backlog; managing the requirements throughout the agile development lifecycle
+-Acted as an ambassador for the product within the team, and as the primary technical contact for queries related to the product
+-Assessed value and prioritized stories to ensure work focused on those with maximum value that are aligned with product strategy
+-Made timely decisions about scope and features to help the team deliver a successful product
+-Lead daily scrums with the development team to help drive priority decisions and remove roadblocks
+-Communicated changes in strategic direction or priority shifts to cross-functional teams
+-Provided frequent communication to the product leadership on development progress, escalating any issues that could impact the budget, timeline, or strategic vision.
+-Collaborated with other teams to ensure a seamless experience across all touch points
+-Owned production support issues including research to eliminate bugs.
+-Acted as Scrum Master/Product Owner for multiple teams simultaneously
+-Acted as Delivery Release Manager for the Global Navigation (att.com) teams.
+Including…
+-Adobe Analytics: Updating existing and creating new parameter and event values for PageLoad, LinkClick, and Form Submit events for att.com's sales web pages to be passed to the Adobe DETM for use by the Marketing Business Unit.
+-Global Navigation: Updating code and technologies employed in the support the Global Navigation Header and Footer on att.com
+-Web Page Accessibility: Fixing errors found on att.com Sales and Services web pages which are not in compliance with the AT&T standardized accessibility solutions as provided by the Corporate Accessibility Technology Office.
+Technologies employed:
+MS Office, Rally, Technology Delivery Platform, AgileCraft, Skype, JIRA, Webex, HTML, CSS, JavaScript, Agile, SAFe Agile
+
+IT Project Manager
+Springleaf Financial, 2015 – 2015
+Evansville, IN
+Responsibilities:
+-Interfacing with the client/business partners, participating in meetings with the client, application teams, and executives, managing and developing detailed Project Plans, ensuring the work complies with the prescribed Scope, controlling changes, controlling the schedules, and documenting and disseminating project documentation, while utilizing SDLC methodologies.
+-Reviewing/ensuring scope definition, constructing project plans including communication plans, test strategy plans, budget forecasts, implementation plans and risk assessments.
+-Tracking actuals against forecast with respect to capital and expense dollars, hours/HC, schedule milestones, while utilizing governance and finance tools to ensure executive reports are comprehensive and up to date.
+Technology employed.
+
+Sr. Web Developer
+AT&T BCS National Operations, 2012-2015
+Telecommute
+Responsibilities:
+-Design and manage several online applications/sites.
+-Create, update and maintain web applications (http://intranet.att.com/nationalops/ ) using ColdFusion, HTML5, JavaScript, JQuery, CSS3 and SQL Server 2000/2005/2008.
+-Primary Developer for the National Operations web applications including: Filemover, Emergency Notification Roster and its associated automated information distribution application, Telephony Management Tool, Development Team Work Tracker, Crisis Management Tool etc.
+-Research developing technologies for use in future projects.
+Technologies employed:
+ColdFusion, HTML, CSS, JavaScript, ActionScript, PHP, SQL Server, Dreamweaver, Acrobat, and Fireworks.
+
+Web Developer
+AT&T Uverse Network Management Portal, 2009-2012
+Telecommute
+Responsibilities:
+-Design and manage several online reports/sites.
+-Create, update and maintain web reports on the U-verse Management Portal (http://ump.lno.att.com/) using ColdFusion, HTML, JavaScript, JQuery, CSS and SQL Server 2000/2005/2008.
+-Assist in development of Adobe Flex applications.
+-Primary Developer for the recently added U-verse Operations and Support site.
+-Research developing technologies for use in future projects.
+Technology Strategies & Standards Exceptions:
+-Acted as Subject Matter Expert for TSS Exceptions for entire UMP team, purchasing new software licenses for Adobe Creative Suite 4 and FlexBuilder.
+Technologies employed:
+ColdFusion, HTML, CSS, JavaScript, ActionScript, PHP, SQL Server, Dreamweaver, Acrobat, Flex and Fireworks.
+
+Web Developer
+AT&T att.com User Experience, 2007-2009
+Telecommute
+Responsibilities:
+-Design and manage several online applications.
+-Update and maintain att.com’s landing pages, member facing support site,
+agent facing support site, and Online Toolkit.
+-Develop application prototypes based upon requirements submitted by internal
+clients for customer-facing web sites.
+-Work directly with product managers and marketing teams, as well as other
+members of the online user experience team to produce front-end code to
+support UE designs.
+-Research developing technologies for use in future projects.
+Specific examples:
+Ongoing Rapid Deployment Projects:
+-Lead offshore teams in timely completion of code, acted as the team’s
+-Project Manager for multiple vendor projects.
+Monthly DSL Price Increase Emails:
+-Created and updated existing MIME files for monthly distribution to communication DSL service price changes to external customers.
+Software Inventory and License Tool:
+-Developed and managed the Online Services' Software Inventory and License Tool (http://ebiz.sbc.com/isdcs/tools/silc/) to track and redistribute existing unused software licenses within the organization.
+*Saved an estimated $40,000.
+Quality Assurance Process:
+Designed, implemented and managed the quality control process for the att.com landing pages (http://www.att.com).
+*Successfully maintained 0% as the acceptable level of errors published.
+U-verse U-know:
+Designed, developed and maintained the member-facing “U-verse U-know” dashboard
+(http://helpme.att.net/uknow/).
+Technology Strategies & Standards Exceptions:
+Acted as Subject Matter Expert for TSS Exceptions for entire User Experience team, gaining exceptions for new software licenses.
+*Successfully submitted over 400 exception requests and managed them to completion.
+Technologies employed:
+ColdFusion, HTML, CSS, JavaScript, AJAX, Flash, ActionScript, PHP, SQL Server, Dreamweaver, Acrobat, Photoshop
+
+IT Project Manager
+SBC Communications CCTP Infrastructure PMO, 2003-2007
+San Antonio, TX
+Responsibilities:
+-Interfacing with the client/business partners, participating in meetings with the client, application teams, and executives, managing and developing detailed Project Plans, ensuring the work complies with the prescribed Scope, controlling changes, controlling the schedules, and documenting and disseminating project documentation, while utilizing SDLC methodologies and following PROMISE and EXPRESS processes.
+-Reviewing/ensuring scope definition, constructing project plans including communication plans, test strategy plans, budget forecasts, implementation plans and risk assessments.
+-Tracking actuals against forecast with respect to capital and expense dollars, hours/HC, schedule milestones, while utilizing governance and finance tools to ensure executive reports are comprehensive and up to date.
+CCTP Projects:
+-Disaster Recovery of any Individual CCTP Technology within a data or call
+center
+-Elimination of Legacy IVR Traffic for Consumer-West and Southwest
+-Request for Dialer Work State Reports (Low Complexity).
+Merger Projects:
+-Rebranding: Listing Name Change for Internal SBC Accounts within the East Region (High Complexity)
+-Rebranding: Listing Name Change for Internal SBC Accounts within the Midwest Region (High Complexity)
+-Rebranding: Listing Name Change for Internal SBC Accounts within the Southwest Region (High Complexity)
+-Rebranding: Listing Name Change for Internal SBC Accounts within the West Region (High Complexity)
+SIP Projects:
+-Broken Promise and Final Bill Collection filters (Low Complexity)
+Additionally:
+-Created a tool using Excel to assist teammates in resolving Express process issues, and managing multiple projects or programs concurrently.
+-Assumed some of the RPOC responsibilities for the CCTP Infrastructure PMO.
+-Assisted with the Application Front Door duties for the Call Center
+Infrastructure teams.
+-Completed RPOC, and CAR training successfully.
+
+Call Center Supervisor (1 of 3 simultaneously)
+SBC Public Communication, 1999-2003
+Evansville, IN
+Responsibilities:
+-Managed the Center’s Smartset group spanning all aspects of personnel and business issues including up to 50 direct reports that utilized the following platforms: Nortel Maximizer, Elcotel PNM plus, PDAS, Coinnet Auditor, CoSpeed ACT120 and Phone 1. This team is responsible for supporting field technicians and Managers during installation, disconnection, physical changes and record changes with regard to all Smartset both inside and outside of the 13-state region.
+-Monitored intelligent pay phones daily, providing collections and repair reports to the field managers and make appropriate repairs through specialized systems designed to aid in updating pay phone internal software and profiles.
+-Supported field technicians through the initialization and troubleshooting of pay phones.
+-Provided data to Technicians and Area Managers verifying repair tickets cleared and coin collections completed in a timely manner.
+-Analyzed intelligent sets and implement solutions from the center to avoid unnecessary premise visits by field technicians.
+-Partnered daily with technicians to determine if collections are reporting and if the rating of local, long distance and other dialing patterns are processing correctly.
+-Handled team’s attendance, FMLA, and disabilities and coach employees on attendance, phone observations, workload measurement scorecards, and performance management.
+-Partnered with the Union representatives to ensure a safe and equitable work environment that will maintain or increase the existing levels of employee morale and productivity.
+-Acted as liaison between SBC and out-of-region vendors, negotiating installation and repair requirements.
+Negotiate employee grievances with union representatives on the company’s behalf.
+
+Telephony Manager (2 of 3)
+SBC Public Communication, 1999-2003
+Evansville, IN
+Responsibilities:
+-Acted as Project Manager to replace the existing Teloquent ACD (Automatic Call Distributing system) with the new Avaya Definity G3si, which included identifying the Center’s changing needs, investigating possible solutions. Arranging demonstrations to gather insight from upper level managers. Negotiating with vendors regarding price and incidentals. Designing new call flow and call routing structure. Wrote training materials and trained end users on the new system.
+-Analyzed and Identified all the Center’s needs regarding call routing and reporting structures, making revisions upon request.
+-Reduced incoming call customer wait time 28%, by implementing time in queue recordings and maximum calls in queue thresholds.
+-Created and maintained call routing programs (vectors).
+-Recorded all announcements to customers on division’s IVR.
+-Created new voicemail boxes and training for entire staff.
+-Supported the Center in all aspects of PBX administration and design enhancements including training of center Customer Advocates and Management, instituting new workgroups and call routing, and completing monthly server backups and reboots.
+
+Project Manager (3 of 3)
+SBC Public Communication, 1999-2003
+Evansville, IN
+Responsibilities:
+-Lead the division’s intranet design team consisting of members from multiple teams in building web-enabled solutions that support the Public Communications business unit. Managed technical issues and coordinated the resolution of issues among multiple teams. Estimated resources required, assigned work to team members based on their expertise, tracked team progress, and made the necessary adjustments. Provided functional expertise, and coordinated production support issues by prioritizing work, identifying areas of improvement, and developing action plans.
+-Created an online Workload Measurement Scorecard used by all Center Managers in order to reduce time needed to track employee monthly performance.
+-Created repair ticket tracking software for use by the Center’s Inmate Group using an MS Access database.
+-Designed and implemented back up office procedures for the Universal Service Center.
+-Supervised the team that detected fraud regarding refund requests due to lost coins and managed the issuance of refund checks to customers in all 13 states.
+Software Experience:
+MS Office, MS Access, MS Visual Basic, MS FrontPage, HTML, XML, JavaScript, SQL, Linux, Visio, Watermark Imaging, PC Anywhere, Teloquent, Timbuktu, PNM Plus, Corel Draw, Winbatch, MS Project, TCPIP, IPX/SPX, Novell, Windows 3.11 - XP, COBOL, Cold Fusion, PhotoShop, MySQL, Oracle, Unix, and Windows NT - 2000 server.
+
+IT Manager
+SBC Public Communication, 1995-1999
+Evansville, IN
+Responsibilities:
+-Designed, implemented and maintained the division’s intranet server using Windows NT 4.0 platform. Using FrontPage 97 - 98, Windows NT Server 4.0, IIS 4.0, Active Server Pages, HTML, ODBC, and SQL Server 7.0.
+-Recommended and implemented changes in procedures and quality control standards to improve systems operating efficiency in the Evansville Call Center.
+-Increased division-wide productivity at all levels of staff and management through the effective use of Novell technology and state of the art Windows workstations.
+-Minimized overall software and training costs through the practical use of software suites; MS Access databases and help desk support technologies.
+-Installed and configured new call center departments and training centers, while forecasting user growth and future business requirements.
+-Managed LAN system architecture, planning, administration, and support for the 500 node LAN in Evansville and Chicago using Novell 3.12.
+-Initiated and developed procedures for troubleshooting, repair and installation of workstations with regards to both hardware and software, including PC’s, modems, zip drives and ditto drives, printers, fax machines, net port boxes, and scanners.
+-Managed the team that controlled the computer inventory for the division’s 5-state region and authored computer inventory software, using Access 97, and VBA.
+-Acted as database administrator for Out-of-Territory, Inmate Repair Tracking and Coin Refund databases, using SQL and Access 2.0 - 97.
+-Supervised contractors. Scheduled and planned activities of support team responsible for design, implementation and backup of I.T. systems for call centers in Evansville.
+-Successfully developed and implemented design and backup of desktop support procedures for Evansville, Chicago and various field offices for approximately 500 users.
+-Designed the implementation and maintenance of the division’s regional Help Desk software.
+-Implemented and maintained desktop support database in order to better provide timely solutions to end users, increasing productivity by 20%.
+Training Completed:
+PMI’s Intro to Project Management, Intermediate and Advanced MS Access, Intro to SQL/PL SQL, Novell Netware Advanced Administration, Netware Installation and configuration, Filenet’s Watermark Image Server Administration and Elcotel’s PNM plus software courses
+Customer Service Representative
+SBC Public Communication, 1993-1995
+Evansville, IN
+Responsibilities:
+-Answered incoming calls from Ameritech residential customers and attended to customer needs including: Opening New Accounts, Disconnecting Accounts, Transferring Service to new locations, explaining existing charges on the customer’s monthly bill and negotiating with customers for the payment of past due accounts.
+-Analyzed customer’s bills and offered additional services including, call waiting, call forwarding, voice mail, etc.
+
+Studio Operations Manager
+Columbia Pictures, 1991-1992
+Evansville, IN
+Responsibilities:
+-Designed and distributed a 180-page atlas of the Southern Indiana and Northern Kentucky areas in which filming would take place.
+-Received from Production Assistant to Studio Manager.
+-Managed all outside contracting, hiring, scheduling, ordering, and maintenance for the studio.
+-Supervised the day-to-day running of the studio communications center, servicing approximately 200 studio personnel.
+
+Sales
+D-Patrick Motoplex, 1987-1991
+Evansville, IN
+Responsibilities:
+-Sold vehicles to public and company accounts.
+-Acted as Sales Manager for temporary projects to help meet sales deadlines.
+-Received top salesperson award for 8 consecutive months.
+-Conducted presentations to potential new employees, for recruitment purposes, explaining company goals and possible income opportunities.
+
+Broadcast Director
+WNIN-TV (PBS), 1983-1987
+Evansville, IN
+Responsibilities:
+-Directed live fund-raising auctions annually for local PBS affiliate. Thus live production position lead a "contracted" production team including: an Assistant Director, Technical Directors, Audio Directors, Camera Operators, Sound Assistants and a variety of Production Assistants.
+-Directed local programming utilizing a News/Interview format. This also included leading a team of "contracted" production professionals for the length of each series production.
+
+Account Executive
+GE Cablevision, 1983-1987
+Evansville, IN
+Responsibilities:
+-Sold 30, 60, and 90 second commercial advertising time for MTV, CNN, USA and ESPN in local market.
+-Sold television commercial production services for local cable television provider.
+-Negotiated new contracts with clients to regain and maintain client’s patronage.
+-Handled billing issues for client base.
+-Produced and Directed local cable access programs.
+
+*Reference available upon request.
+
+Contact this candidate

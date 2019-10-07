@@ -1,0 +1,119 @@
+
+Mounika Bathini
+Software Developer In Test
+E-mail: adahr8@r.postjobfree.com
+Mobile: 469-***-****
+
+Over 5+ years of experience in design and development of software test automation solutions based on software development/release requirements of web-based and client server applications as QA Manual and Automation Test Engineer.
+
+PROFESSIONAL SUMMARY:
+
+Experienced in Software Development Life Cycle (SDLC) and Software Test Life Cycle (STLC) in Agile as well as waterfall development environments.
+Proficient in different types of testing like Automation, API Testing, Manual, Integration, System, Regression, Black Box, White Box, Performance, Functional, Database validation and User Acceptance Testing.
+Experienced in developing Automation Scripts using tools like Selenium (in Java, Junit, TestNG, Page Object Model) using Automation frameworks.
+Experienced in implementing different automation development efforts in Agile and Waterfall development environments.
+Well acquainted with the documentation of Test Plan, Test Scenarios/ Test Objects, Use cases and Test Cases.
+Proficient in Selenium Test suite using components like Selenium WebDriver, Selenium Grid with Java and TestNG.
+Experience web services testing (SOAP, RESTful) using SoapUI Pro.
+Experience in POSTMAN for API Testing.
+Experience in applications design and development using client/Server and 3-tier architecture.
+Designed and implemented Test Automation Framework using Java/J2EE.
+Experienced in writing complex SQL Queries and working with RDBMS like Oracle and MySQL.
+Developed Test Scripts to implement Test Cases, Test Scenarios, Step Definitions and features using Cucumber.
+Effectively involved in Defects logging, tracking and managing Defect Life Cycles using QC.
+Involved in developing Test Scripts to implement Test Cases, Test Scenarios, and features for TDD (Test Driven Development), BDD (Behavior Driven Development) using Selenium.
+Expertise in implementing APACHE POI to read the data from external resources in selenium.
+Experienced in Test case management software’s like JIRA.
+Well versed with Reporting Mechanism’s (Daily/Weekly/Monthly Status Reports) to Project Stakeholders.
+Provide risk analysis and support for seamless product release.
+Active participation in daily Scrum stand-up meetings, Sprint Review meetings and Retrospective meetings.
+
+TECHNICAL SKILLS
+
+Test Approaches
+Waterfall, Agile/Scrum, SDLC
+Programming Languages
+C, JAVA/J2EE, SQL
+Testing Tools
+QTP/ UFT, QC/ ALM, Selenium (Selenium IDE, Selenium web driver, Selenium Grid), XPath, SOAP UI, Bugzilla, Cucumber, Maven
+Framework
+Page Object Model, TestNG, Appium, Data Driven, Hybrid Testing Framework
+Other Tools
+POSTMAN, JIRA, Microsoft Visual Studio, Microsoft Test Manager, Eclipse IDE, Selenium IDE, GitHub, Jenkins
+Operating Systems
+Windows XP/7/8/10, MAC
+Databases
+MY SQL, Oracle, MS SQL Server 2005/2000, MS Access
+
+PROFESSIONAL EXPERIENCE:
+
+1) Project Profile:
+Blackhawk Network, Pleasanton, CA,
+July 2018 – Sep 2019,
+QA Automation Engineer
+
+Responsibilities:
+Participated in all sprint meetings including Planning, Retrospective, Demo, Backlog grooming and meetings.
+Used Selenium Web Driver, Java, Maven, POSTMAN and Selenium Grid to create regression automation scripts.
+Executed functional and Regression test suites for different applications.
+Developed Selenium Framework using Page Object Model, Properties file, Data Driven and TestNG.xml.
+Written QA documents, Reports and test cases
+Performed API testing of the front-end application using Selenium webdriver.
+Wrote automated data-driven test scripts using selenium webdriver to carry out functional, data driven, Integration and regression testing by using reusable actions / test harnesses.
+Automated Batch tests for some modules.
+Experienced in using HTTP methods like GET, POST, PUT, DELETE Methods in POSTMAN for API Testing.
+Developed test scripts using different web element locators (id, name, CSS selector, XPath).
+Used Load Runner to develop scripts to conduct performance testing.
+Developed test suites by grouping test cases using TestNG annotations.
+Developed Test Suites (Java-Selenium) in Eclipse IDE and modified the selenium scripts and executed.
+Maintained all the Requirements, Test Objects and Test cases in HP ALM.
+Developed and executed SQL Queries to perform backend database testing.
+Provided estimates of resource and schedule for the tasks to be completed.
+Worked on Jira for writing test cases, generating test reports and as a project management tool for carrying out sprint process.
+
+Environment: MS SQL Server, Windows, Selenium WebDriver, Java, TestNG, Maven, Eclipse, JIRA, SoapUI Pro, XML, SQL.
+
+2) Project Profile:
+IBM, Bangalore, India,
+March 2016 – Feb 2018,
+QA Automation Engineer
+
+Project Name: IMB DENMARK
+
+Responsibilities:
+Prepared Test cases for positive and negative test scenarios as referred in the user stories keeping in mind the Boundary Value Limitations, Equivalence partition classes.
+Participated in Requirement Specification Meetings (RSD) to understand the application’s functional requirements to initialize the test scenarios, test flows and test procedures.
+Initially project development was in waterfall model and now it is in transition state to Agile and I was a part of all the transition meetings and helped the team with all the KT and tools.
+Scripted Tests and automated using Selenium IDE /Selenium WebDriver at OS level for User Interface (UI).
+Used Quality Center to track bugs and maintained the flow of iterations.
+Responsible for performing build jobs and code updates.
+Involved in developing the automation script for SPoE application using Java and C Test Automation tool.
+Supported code SQL queries to perform data integrity testing and for Back-End Database Validations.
+Defect logging, tracking and retesting using JIRA.
+Performed database testing, complete backend testing and web-based testing.
+Responsible for Continuous Integration and Continuous Deployment using Selenium.
+Worked closely with the developers within the Agile SCRUM team for bug reviews and participated in QA Meetings.
+
+Environment: Eclipse, HTML, XML, Quality Center, SQL, Oracle, Windows, Internet Explorer, Chrome, Firefox, Safari, Git, Agile, Waterfall, MS-office.
+
+3) Project Profile:
+
+IBM, Chennai, India,
+May 2014 – Feb 2016,
+QA Automation Engineer
+
+Project Name: CiRATS
+
+Responsibilities:
+Assessed & analyzed user stories and participated in Sprint planning, Review Sessions & Scrum Meetings and developed Test cases, Test data, Test procedures and Test reports.
+Extensively worked on Integration and Manual testing to check compatibility of new functionality with the existing functionalities of the application.
+Reviewed database test cases according to assigned Requirements to validate reports by retrieving data with SQL queries from MySQL. Implementation of QA approaches to ensure quality of a product and was involved in project planning and coordination.
+Performed manual API testing, Unit testing for Production and also used Selenium IDE for application testing
+Used HP Quality Center to store all testing results, metrics, implemented test plan document, created test cases, Defect tracking and reporting.
+Expertise in generating the daily defect detailed report using Quality Center for the other project stake holders and the project Management.
+Segregated Bugs on the basis of severity and priority and maintained the log using HP Quality Center.
+Reported QA Status reports, Defect Log reports, Traceability reports and Test execution & results reports.
+
+Environment: Windows, MySQL, waterfall model, MS-office, HP Quality Center, TSRM, WinSCP, WAS 8.5, RAD 7.5, Eclipse 4.0, SQL, Core Java, Eflux Framework.
+
+Contact this candidate

@@ -1,0 +1,77 @@
+
+Ultimate Software is seeking a Site Reliability Engineer (SRE) with a robust and diverse background in Software Engineering, Software Design, and Systems Architecture with a focus on automation, reliability, and system integration. Site Reliability Engineering (SRE) is an engineering discipline that combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Ultimate Software's services -- both our internally critical and our externally-visible systems -- have reliability and uptime appropriate to users' needs and a fast rate of improvement while keeping an ever-watchful eye on capacity and performance.
+
+At Ultimate Software our SREs come from both development and operations backgrounds with a common passion for running products at scale in production. Our SREs are always seeking to understand how our systems work end-to-end without boundaries.
+
+Our team is responsible for:
+
+* Performance, Stability, and Reliability considerations
+
+* Capacity planning
+
+* Working closely with the product development teams to build and design features
+
+* Debugging issues in production
+
+* Building out CI/CD pipelines
+
+* Automation
+
+* Building out logging, monitoring, and alerting infrastructure
+
+Primary/Essential Duties and Key Responsibilities:
+
+Engage in and improve the whole lifecycle of services including: system design, build, deployment, and support
+Define and implement standards and best practices related to: system architecture, deployment, metrics, operational tasks
+Support services through activities such as monitoring availability, system health, and incident response
+Improve system performance, application delivery and efficiency through automation, process refinement, post-mortem reviews, and in-depth configuration analysis
+Engage in communications across all areas of the organization
+
+Required Qualifications:
+
+Experience with highly resilient systems as well as anti-fragility design patterns
+Experience with distributed systems
+Experience with service-oriented architectures
+Experience with one or more of the following: Python, Ruby, C#
+Experience with Linux, Unix, and Windows operating systems internals and administration (filesystems, inodes, system calls) and networking (e.g., TCP/IP, routing, network topologies)
+Experience with OpenStack
+Experience with configuration management (Chef, Ansible, Puppet)
+Experience with shell scripting (Bash, powershell, or Batch)
+Experience with development pipelines (Team City, Jenkins, Concourse)
+Ability to lead and work in projects
+Ability to communicate effectively
+Positive team participation skills
+Strong organizational, written and communication skills
+BS degree in Computer Science or a related technical field involving coding (e.g. physics or mathematics), or equivalent experience.
+Ability to multitask and adapt to quickly changing priorities
+Ability and willingness to work evenings/nights on occasion (Participate in on-call rotation)
+
+Preferred Qualifications:
+
+Experience with algorithms, data structures, complexity analysis and software design
+Experience with Public Cloud (Amazon Web Services or Google Cloud Platform)
+Experience with administrating ElasticSearch, MongoDB, RabbitMQ, HAProxy, and Kafka in production environments
+Experience with Kubernetes, Bosh, and Docker
+Experience with Object/Block storage
+Experience with hybrid cloud architectures
+Technical writing
+Auditing
+Development background
+
+Physical Requirements:
+
+No unique physical demands are required for this job.
+
+Travel Requirements:
+
+5%
+
+This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
+
+Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company s online employment application, please contact .
+
+Permanent
+
+
+Apply now
+

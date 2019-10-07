@@ -1,0 +1,73 @@
+
+ALI ADNAN
+Sr.Network Engineer– IP CORE
+Currently Employer: MULTINET PAKISTAN (An Axiata group subsidiary) Mob:+923*********
+Email:ali.adnann@hotmailcom
+DoB:5th June, 1987
+Country: Pakistan
+Address: 56-z/1 Block 6 PECHS Karachi-Pakistan
+SKYPE: ali.adnann
+SUMMARY & OBJECTIVE
+A Sr.Network Engineer having more than 6 years IT/ISP experience with CCNA (R&S) (Security) and CCNP
+(R&S) Certification. Can manage, configure, Install and troubleshoot ISP and enterprise infrastructure
+(Internet, VPN, MPLS, LAN) by the experience gained through working in different organizations and Hand on experience of different vendors (Cisco, Juniper, Raisecom, Maipu,BDCOM, Mikrotik, Ubiquiti, Huawei, Barracuda, Fortinet, Zyxel, Paradyne, and GEPON). Ability to work effectively in team on different projects. Excellent quick learner with ability to absorb new technologies. Looking forward to work in a Networking/IT field where I can apply my engineering knowledge and groom my professional career in the best of interest of the organization.
+SKILLS:
+•Hands on Cisco (7606, 7604, ASR1004, Catalyst 4500, ME-3400, ME-2400, 3750), Raisecom(ISCOM2110EA), Maipu(S3100), Juniper(mx480, ex4200, SRX, SSG), Fortinet(60E,60D,100E),Barracuda(F18,F80),Sangfor,ASA.
+•Routing Protocols (MPLS,BGP, OSPF, EIGRP, Redistribution)
+•Switching technologies (VTP, VLAN, STP, Etherchannel,REP, HSRP, VRRP, Flex link)
+•DMVPN, Gre-Tunneling, VPN (Site-to-Site, Remote Access, SSL VPN), AAA, Port Security, ACLS
+•Cisco Router IOS Based Firewalls (Basic, Advance, Zone Based), IPS
+•Syslog Server, NMS SolarWind’s, Cacti, MRTG, STG, Network Troubleshooting. CERTIFICATIONS
+CCNA (R&S) 200-120 CERTIFIED-CSCO12522560
+CCNA Security 640-554 CERTIFIED- CSCO12522560
+CCNP (R&S) CERTIFIED- CSCO12522560
+ALI ADNAN
+WORK EXPERIENCE
+Sr.Network Engineer – IP CORE
+MULTINET PAKISTAN (An Axiata group subsidiary) December2013 – Present MULTINET Pakistan is one the largest telecommunication service provider which provide the service of Internet, IP Transit, IP/MPLS L2 Circuit, IP/MPLS L3 Circuit, IT Managed Service, Telco Managed Service, Data Centers, Domestic and international Leased Line, Cloud Computing service all across Pakistan. It has an all- optics network layout with metros in 50 different cities, and long haul optical fiber network spread over 7500 KM across Pakistan.
+ROLE & RESPONSIBILITIES
+Monitor, Installation and Configuration of core and access network infrastructure.
+Deal in trouble tickets along with reasons, history, and outage Reports &etc.
+Troubleshoot and maintain nationwide and international network operations.
+Perform and document network backups and routine maintenance of core network device
+Solution designing, planning, configuration, testing and post deployment support of L2/L3 MPLS VPN, Internet and transit services for both local and international customers.
+Planning and development of IP Core & Access Network infrastructure.
+Managing nationwide INTERNET, VPN and MPLS L2/L3 network.
+Configuration, Management and Optimization of Interior Routing/Switching, Broadband infrastructure, Metro Ethernet, FTTx(Metro Ethernet/GEPON) and L2/L3 MPLS infrastructure.
+Providing Support/Troubleshooting to International customers of Telekom Malaysia, TATA, Verizon Communication, British Telecom, Equant (Orange Business).
+Configuration of network and customer equipment with respect to management plane, Services, Security.
+Deployment, Testing and troubleshooting of customers circuits involving Internet, L2 VPN, L2 & L3 MPLS VPN.
+Deal with customer’s issues on daily basis, Troubleshoots and provide solutions for WAN and LAN network.
+Procurement of customer equipment’s from Suppliers/ Vendors.
+Working on Multi-vendor devices, such as Cisco, Juniper, Raisecom, Maipu, BDCOM, Mikrotik, Ubiquiti, Huawei, Zyxel, Paradyne,Fortinet,Baracudda,Sangfor,ASA and GEPON.
+Network monitoring through various NMS tools such as MRTG, Solar Winds ORION, STG, Cacti Technical Support Engineer
+CubeXS Weatherly PVT.LTD May 2011 – JAN 2012
+Cubexs Weatherly is a multinational IT company which offers a service of Internet, Cloud, Data Center and wireless networks. Participate in the designing of networks and Network Redundancy such as: LAN & WAN, Virtual Private Networks (VPN), and Internet. ALI ADNAN
+PROJECTS
+DIGICOM-Implementation of MPLS network for multiple sites in different cities.
+PICIC-Implementation of MPLS network
+IBM Pakistan-Implementation of IP SEC Site-to-Site VPN
+ABB Pakistan- Implementation of MPLS network and BGP peering.
+Clariant Chemicals- Implementation of Cisco ASA firewall.
+Brookes Pharma-Implementation of Internet service with Layer 3 Redundancy
+GETZ Pharma- Implementation of Internet service with Layer 3 Redundancy
+Chenone-Implementation of L2 VPN
+Diamond Industries-Implementation of L2 VPN/L2 MPLS network for multiple sites in different cities.
+Implementation of MPLS and Internet network for multiple Bank (Bank AlHabib,Allied Bank,Samba,United Bank).
+Implementation of Wireless Network for American Consulate.
+Implementation of MPLS and Internet network for multiple Textile Outlets
+(KHAADI,NISHAT,FIRDOUS,Dinners,UNIWORTH)
+ROLE & RESPONSIBILITIES
+Manage office LAN network and provide hardware troubleshooting and software installation.
+Provide 1st level support (physical layer)to all internet clients(DSL,FIBER,RF)
+Install, configure, and maintain network services, equipment and devices.
+Monitor system performance, internet traffics and complete network links.
+Providing technical support through phone and complain management system
+Do point to point testing of RF link and fiber link.
+Deals with data center and international clients (AT&T, EXPEREO).
+Install all new hardware, systems, and software for networks.
+Structure Cabling (Fiber, UTP & Accessories).
+EDUCATION
+2006-2010 BS in Telecommunication Engineering from National University of Computer & Emerging Sciences, FAST 2016-2018 ME in Communications systems and Networks from Hamdard University
+
+Contact this candidate

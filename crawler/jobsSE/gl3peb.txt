@@ -1,0 +1,25 @@
+
+Day to Day Responsibilities of this Position and Description of Project:
+• The Client Private Cloud Operations team provides and operates an ever-growing, stable, high performing Openstack virtualization platform to serve as one of the foundations for the success of the Client application. We continuously improve the quality and efficiency with which we deliver and manage that platform through proactive monitoring and capacity management.
+
+Must Have:
+Fluent in Linux (CentOS or similar)
+Experience with large-scale distributed infrastructure systems; good understanding of Data Centers and provisioning/managing infrastructure resources (Compute/Network/Storage
+
+Should Have
+Fluency in Programming/Scripting language(s) like Python, Ruby or bash.
+Your awesome communication skills leave no room for ambiguity or miscommunication, and your follow up skills are second to none.
+At a minimum, 1+ years of experience in Infrastructure Engineering
+
+Nice To Have
+Experience with container technologies like Docker/Rocket and Kubernetes/Mesos/Marathon, especially on top of Openstack, is a HUGE PLUS
+Experience running and maintaining a 24x7 Internet-oriented production environment, private (OpenStack) and/or public (AWS/Azure/GCP) clouds
+Experience with configuration management tools (Chef/Puppet/Ansible) and how to administer them
+Experience with upgrading Openstack clusters to a newer version of Openstack
+Experience with using shared storage (Ceph) to enable Live Migration
+Experience with Software Defined Networking (OpenContrail)
+Experience with Continuous Integration Continuous Deployment (CICD) and Infrastructure As Code (IAC)
+
+
+Go to apply 
+

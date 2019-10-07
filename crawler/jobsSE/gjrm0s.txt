@@ -1,0 +1,41 @@
+
+Infrastructure is what powers every technology organization. We rely on our infrastructure to empower our customers around the world to improve the care of their patients. We’re seeking a hungry engineer who can join us on this journey, using his or her technological skills to make us more efficient. In this role, you will help to modernize our infrastructure, automate our deployment pipeline, and build tooling to ensure all systems are healthy. From day one, you will have an immediate impact on the day-to-day efficiency and security of our infrastructure, and an ongoing impact on our overall growth.
+We have multiple DevOps positions posted. Please select the position which most closely matches your qualifications.
+Responsibilities and Activities:
+Build out new (and convert existing) cloud infrastructure as code
+Build out new (and convert existing) logging and monitoring infrastructure
+Manage and extend our CI/CD pipeline
+Participate in multiple scrum teams as a matrixed expert
+Build automation to improve workflow, increase test coverage, and improve reliability
+Build automated test of the production systems and infrastructure
+Diagnose development and production issues to propose and/or develop solutions
+Resolve development and production database performance issues
+Participate in on-call rotation
+What you should be proficient at:
+Working with cloud solutions with AWS, GCS, or Azure
+Working with containers – Linux and/or Windows
+Networking concepts in both copper and the cloud
+Rudimentary Linux and/or Windows system administration
+Excellent communication skills – both written and verbal
+Excellent analytical skills – root cause and remediation
+Required Knowledge, Skills & Abilities:
+Running applications in containers (Docker)
+Cloud console (AWS, GCS, or Azure)
+Proficient in scripting languages (bash, Python, PowerShell, Javascript)
+Proficient with configuration languages (json, yaml, hcl)
+Using source code management - git preferred
+Experience and enthusiasm for automating anything that must be done more than once
+Strong creative and analytical thinking
+Preferred Experience
+Pertinent professional certifications
+Provisioning systems (CloudFormation, Terraform)
+Configuration Management (Puppet, Chef, Ansible, Salt)
+Virtualization (Hyper-V, Vagrant, VMWare, LXC, VirtualBox)
+Monitoring (Prometheus, Logstash, Kibana, Grafana, Nagios)
+Load Balancing and routing (F5, Nginx)
+Agile tools (GitHub, GitLab, JIRA, Trello, VersionOne)
+Please include a cover letter that describes why you feel you would be a good fit for our company and the position you are applying for. Keep in mind that we are interested not only in your background and skills, but also in who you are and how you would fit into our team and our vision.
+
+
+Go to apply 
+

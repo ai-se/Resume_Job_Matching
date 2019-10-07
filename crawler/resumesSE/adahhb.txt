@@ -1,0 +1,151 @@
+
+Technical
+Expertise:
+Advanced MS-
+Excel, Google
+Analytics, ML
+techniques,
+Anaconda, Spyder,
+GAGAN M BABU
+Email: adahhb@r.postjobfree.com
+Mobile: 886-***-****/ 701-***-****
+Jupiter Notebook,
+Python, NumPy,
+SciPy, Matplotlib,
+Seaborn, R, Dplyr,
+ggplot2, SQL, SQL
+server, XML,
+Jason, HTML
+Education:
+BE in Industrial
+Production @ NIE,
+Mysore with CGPA
+8.14
+Diploma in @ JSS
+Polytechnic’
+Mysore with 73.5%
+Additional
+Certification:
+Diploma in Data
+Analysis with
+Python and R @
+Srinidhi Learning
+Centre, Mysore.
+Google Analytics
+for Beginners by
+Analytics
+Academy - Google
+Advanced Google
+Analytics by
+Analytics Academy -
+Google
+Career synopsis:
+Looking for a suitable position as ML Engineer like Data Analyst where I can utilize my technical skills for the company’s growth. As a Data Analyst, the following responsibilities are performed:
+Interpret data, analyze results using statistical techniques
+Translate analysis and insights into ongoing management and technical reports
+Develop and implement data collection and data
+analytics strategies that optimizes statistical efficiency and quality
+Identify, analyze, and interpret trends or patterns in complex data sets
+Filter and “clean” data by reviewing compute reports and Performance indicators to locate and correct data quality issues
+Locate and define new process improvement opportunities
+Thrive in a team environment with strong interpersonal skills. Collaborate and build relationships with product owners, engineers, development teams, architects, operations partners, and business clients
+Establish, and regularly update, multi-phase delivery roadmap
+Technical expertise regarding data models, data mining and segmentation techniques
+Knowledge of statistics and experience using statistical packages for analyzing datasets (Excel)
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Adept at queries, report writing and presenting findings Personal Skills:
+Analytic Problem-
+Solving
+People Skills
+Evaluating
+Numeracy Skills
+Attention to details
+Business Skills
+Personal Details:
+DOB :15-Jan-1994
+PAN No-
+CABPG8249N
+Languages
+known: Kannada,
+English, Hindi
+Address: #40
+Purandaradasa
+Road Aishwarya
+Nagar Srirampura,
+Mysore,
+Karnataka-570023
+Passport
+Number:
+N2912885
+Notice
+period:
+Available
+immediately
+Proven ability in developing relationships with stakeholders, communicating project/program status, and understanding detailed business requirements across multiple project initiative
+Attended an online training and got certified in Google Analytics tool.
+WORK EXPERIENCE:
+Currently working @ Jubilant Generics Limited, Nanjangud as Associate Purchase from March 2018 to till date. Jubilant Generics Limited is an integrated global pharmaceutical and life sciences company engaged in manufacturing and supply of APIs, Solid Dosage Formulations, Radiopharmaceuticals, Allergy Therapy Products, Advance Intermediates, Fine Ingredients, Crop Science Ingredients, Life Science Chemicals and Nutritional Products.
+Responsibilities:
+Ensuring smooth work flow in the supply chain from end to end
+Good skills and knowledge of SAP (Systems Applications and Products in Data Processing)
+Minimizing inventory costs
+Planning supply chain schedules in advance in preparation for periods
+Negotiating with suppliers to minimize raw materials and achieve maximum efficiency
+Providing accurate routing information to ensure that delivery times and locations are coordinate
+Problem solving skills & supporting team with necessary information.
+Ensuring Project closure with necessary details & submit to the management for capitalization.
+Worked @ Unilog Content Solutions Pvt. Ltd., Mysore as Data Analyst from January 2016 to December 2017.
+Unilog Content Solutions Pvt. Ltd is a B2B eCommerce software and content management. all-in-one, multitenant SaaS B2B digital commerce platform built with an API first/micro services architecture and a platform with strong site search, PIM, and user roles and B2B workflows-built in. Major Projects handled while working in Unilog Content Solutions Pvt. Ltd. Company:
+Project – Russel Equipment’s, Villa Lighting, S&S, Orgill Software Platform used: Advanced MS-Excel with features like VLOOKUP, Pivot Tables and etc.
+Responsibilities:
+Normalization
+Data classification
+De-Duplication
+UNSPSC Coding
+Attribute Extraction
+Data Enrichment by Collecting all Possible Critical Information by Web Search.
+Production, Quality Check, Quality Analysis
+List of the projects practiced during the Data Analyst training:
+Python projects:
+1. Iris Dataset:
+This data set consists of the physical parameters of three species of flower — Versicolor, Setosa and Virginica.
+In this data we will be predicting the classes of the flowers based on numeric parameters that are Sepal width, Sepal length, Petal width and Petal length.
+NumPy, Pandas and Scikit Learn are some of the inbuilt libraries in Python that we have used.
+Using algorithms, we have trained our model to check how accurate every algorithm
+K – Nearest Neighbour (KNN), Logical Regression,
+Random forest, SVM (Support Vector Machine)
+Here, Random forest gives optimal accuracy compared to others
+By using this we reduce the chances of overfitting and variance in the data which thus lead to better accuracy
+2. House Price Prediction:
+Thousands of houses are sold every day. There are some questions every buyer asks himself like: What is the actual price that this house
+This data contains 1460 training data points & 80 features that might help us predict the selling price of a house.
+To apply data preprocessing and preparation
+techniques
+Exploratory data analysis allows us to understand the data and the relationships between variables
+better
+Correlation between variables helps us to predictor variables are correlated with the target variable
+Build machine learning models able to predict house price based on Algorithms: - Linear Regression,
+Nearest Neighbors, Support Vector Regression,
+Decision Tress, Neural Networks, Random Forest
+Choose an algorithm that implements the
+corresponding technique
+To analyze and compare models’ performance in
+order to choose the best model
+R projects:
+1. Movie Recommendation System:
+To build a recommendation engine that
+recommends movies to users
+A recommendation system provides suggestions to
+the users through a filtering process that is based on user preferences and browsing history.
+In our Data Science project, we will make use of these four packages – ‘recommenderlab’,
+‘ggplot2’, ‘data.table’ and ‘reshape2’.
+Data pre-Processing will help to make the finalized dataset to build the model by using One-hot encoding
+We will implement a single model– Item Based
+Collaborative Filtering.
+Explore the most viewed movies in our dataset
+Data Normalization is a data preparation procedure to standardize the numerical values in a column to a
+common scale value
+The algorithm first builds a similar-items table of the customers who have purchased them into a
+combination of similar items. This is then fed into the recommendation system
+
+Contact this candidate

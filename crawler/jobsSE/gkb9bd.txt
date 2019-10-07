@@ -1,0 +1,32 @@
+
+Description:Objective
+To support the Data Management and Engineering practice in Client Business Intelligence team
+Key roles
+Understand statistical and probabilistic models built by the analytic teams
+Implement the models in a standardized scalable method simplifying the user experience for model users, developers and owners
+Develop re-usable generic calculation libraries/packages
+Assist in adoption of DevOps standards and productionalized analytics in the team
+Perform root cause analysis on data and logic issues in the data management layer.
+Propose solutions and help resolve issues.
+Document requirements and solution/technical architecture
+Perform impact analysis to the data environment based on changes made in upstream applications.
+Work closely with:
+BI, IDS, Model development teams and Business
+
+Requirements:
+Must Haves:
+Computer science background (experience and/or education)
+Strong programming skills in advanced SQL, Python (or SAS)
+6+ years of solid experience in Design and Python, Django, Flask framework
+Experienced in working with various Python IDE's using PyCharm, PyScripter, Spyder, PyStudio and PyDev.
+Foundation in using DevOps standards – Linux shell, JIRA, GIT
+Documentation skills
+Good to have:
+Experience with Tableau/Power BI, Excel or OBIEE
+Experience using Informatica and Netezza stored procedures
+Web development and JavaScript knowledge a plus
+Knowledge of Cloud databases
+
+
+Go to apply 
+

@@ -1,0 +1,170 @@
+
+LAST / CURRENT EMPLOYER Job Title
+Location / Dates Employed
+When employers / recruiters read a CV they are trying to relate your application to their vacant position. Put simply, if they can’t find a correlation within the first 10 seconds then they move on. Use your CV to reflect a job advert with each sentence optimised for the role you are applying to. Try to focus on skills and experience which are going to be the most apt.
+If using bullet points try to focus these towards key achievements gained within your role;
+Keep bullets precise and to the point;
+Use figures that employers can relate too. i.e. Increased revenue by 20% through new initiatives in year one;
+Include key tech skills relevant to the role you are applying for;
+5 or 6 bullet points should be enough.
+PREVIOUS EMPLOYER Job Title
+Location / Dates
+As you explain your career history do not to leave unexplained gaps, you do not want a future employer to be left with any questions regarding your integrity. Your employment history should also tell a story of progression demonstrating how your career has developed through the differing roles.
+If using bullet points try to focus these towards key achievements gained within your role;
+Keep bullets precise and to the point, 5 or 6 should be enough;
+Use figures that employers can relate too. i.e. Increased revenue by 20% through new initiatives in year one;
+Include key tech skills relevant to the role you are applying for. E D U C A T I O N
+2000: University of Medicine – Roma “La
+Sapienza”
+CANDIDATE H.B
+P R O F E S S I O N A L P R O F I L E
+Candidate G.F is a seasoned IT professional with a solid Linux/Unix background on both on-prem and cloud (AWS, GCP), working as a true DevOps practitioner, in and out of Agile/Scrum teams or core tooling teams, and with a focus on automation and security.
+He has worked on and with legacy infrastructures, brownfield and greenfield projects. He also has plenty of experience in both development and operations, figuring out new solutions to old problems, simplifying complex environments and helping customers find the right path to technology.
+.
+E M P L O Y M E N T H I S T O R Y
+L e a d D e v O p s E n g i n e e r
+C O N T A C T
+LOCATION
+London
+Tel No.
+034*-***-**** / 078*-****-***
+EMAIL
+Rafieq.Latchman@Prime-
+pennypersonnel.co.uk
+WEBSITE
+www.prime-pennypersonnel.co.uk
+CANDIDATE – G.F
+Contino (Cloudconsultancy) / Lead Consultant (Contract) London, UK / June 2019 to present
+Candidate G.F worked as an AWS senior engineer, he acts as the SME in a SCRUM team of senior cross-functional engineers, for infrastructure related topic, automation, and architecture.
+Building the foundation of a Data Platform as Infrastructure as Code. Goal to drive the transformation of exec-level business reporting across the whole company
+(4500+ dynamic PowerBI reports using various data sources)
+CI/CD driven (CodeCommit/CodeBuild)
+Automation driven: heavily terraform driven
+Scripting: bash/python
+Data Lake/ETL: AWS Glue (spark)
+Monitoring (cloudwatch, slack as chatops)
+Messaging bus (Kafka, NATS streaming)
+Agile tooling integrated in the process (Jira, Confluence, SharePoint) Undisclosed start-up company (Data and AI product)/ Lead Infrastructure Engineer - Contract
+London, UK / November 2018 to April 2018
+Candidate G.F worked on new project to create a product to sell pre-packaged Data for AI Data scientist. helping the company lay down the first revision of the infrastructure for an initial POC to fund further investment.
+● CI/CD driven (Bitbucket)
+● Automation driven: terraform, ansible, kubernetes(kops, helm)
+● Scripting: bash/python
+● Monitoring (prometheus, zipkin)
+● Messaging bus (Kafka, NATS streaming)
+● Data lake/ETL (Apache Hadoop, Hive, Ignite)
+● Processing Data for AI via standard tooling (Apache Airflow, Dask) Agile tooling integrated in the process (Jira, Confluence) E X P E R T I S E
+DevOps
+AWS
+Kubernetes
+Linux
+Network Design
+Scripting bash/python
+E M P L O Y M E N T H I S T O R Y ( C O N T I N U E D ) VANTAGE POB / Operations and Service Delivery Manager Scotland, UK / September 2008 - October 2010
+Candidate P.Q was employed within an Operational and Service Delivery role where his responsibility was ensuring the smooth and efficient day-to-day operation and delivery of the oil and gas industry’s only collaborative system, Vantage POB, used to track and monitor off-shore personnel movement
+● Liaising extensively with the Governance Board, comprising senior managers for leading oil companies including BP, Talisman, Shell and Chevron, and organising quarterly Board meetings
+● Producing comprehensive, accurate reports on service, including budget, performance, security, incident management, risks, service improvements, software and third- party management
+● Personally- chairing the quarterly user forum, for super-users from all major oil companies and several contractors
+● Holding full responsibility for leading and managing the Support Team and helpdesk staff, and driving performance through regular appraisals
+● Preparing proposals and contracts, ensuring contractual compliance and managing relationships with both clients and contractors
+● Managing incidents, change, configuration and releases in line with ITIL standards
+● Management of a £1.25million annual budget
+● Developing improved service delivery processes
+SAIC Ltd / Applications Lead and Project Manager
+Scotland, UK / July 2006 – August 2008
+● Contributing as an integral member of the team responsible for transitioning IT services into operations for the client’s new flagship asset, as part of the BP Angola Greater Plutonio Project
+● Spearheading the development of local applications support capability, including recruiting and developing new staff
+● Proactively promoting ITIL culture within the local service delivery capability, providing ITIL training and mentoring and implementing ITIL-compliance incident management processes
+● Delivering requirements analysis, solution design, application testing, change, release and configuration management, configuration management, document management, progress reports and problem reports
+● Coordinating the handover of IT services and applications to support
+● Deputising for on-site local IT management, and recruiting local support staff EARLIER EMPLOYMENT / 1987 - 2006
+SAIC Ltd / 1999 - 2001
+Team Leader and Project Manager
+SAIC Ltd / 1998 - 1999
+Senior Systems Engineer
+AMEC Ltd / 1992 – 1998
+Principal Software Engineer
+IPC Systems / 1987 – 1992
+Senior Software Engineer
+S K I L L S
+DevOps Kubernetes
+Linux
+Agile/Scrum Scripting CI/CD
+I N T E R E S T S
+Philip Morris international / Sr. DevOps Engineer (contract role)
+London, UK / June 2018 – September 2018
+Candidate G.F worked as Senior DevOps Engineer on a DevOps implementation project focusing on release management and end-to-end deployments via CD.
+CI/CD: Jenkins
+Linux: Centos
+Infrastructure: AWS (route53, lambda, iam, Cloudwatch) / docker / rancher
+/ K8S
+Automation: Ansible, Terraform
+Logging/Monitoring: Cloudwatch/ELK
+Scripting: bash, python
+Services: Artifactory / Jira / Confluence / Bitbucket Implemented all-around automation in DevOps pipelines reduce technical debt by implementing single pipelines and stage-driven automated process escautomated infrastructure deployment (terraform,ansible) via CI jobs (jenkins) in VCS
+(bitbucket)
+Implement best practices around security (IAM, application hardening, least privilege principle, etc.) and modular redundant and immutable infrastructure Focus on applying SRE principle across the release management process and improve documentation.
+Mentoring on DevOps and CI/CD practices and principles Airbus Defence and Space / Devops Engineer (contract role) London, UK / January 2018 – May 2018
+Candidate G.F worked as DevOps Engineer
+CI/CD: Jenkins
+Linux: Ubuntu, Amazon Linux
+Infrastructure: AWS (terraform, cloudformation,ec2, vpc, iam, cloudwatch)
+/ docker / vagrant (local testing)
+Automation: Ansible
+Logging/Monitoring: Cloudwatch/Splunk
+Scripting: bash, python
+Services: Artifactory / Jira / Confluence / Github enterprise
+Devops implementation project focusing on infrastructure and end-to-end deployments via CD.
+Implement all-around automation on devops pipelines
+automated infrastructure deployment (terraform, cloudformation,ansible) via CI jobs (jenkins) in VCS (Github enterprise)
+Implement AWS best practices around security (IAM, application hardening, least privilege principle, etc.) and modular redundant and immutable infrastructure
+Focus on measuring and monitoring. Logging and correlation via Splunk and AWS Cloudwatch.
+Mentoring on DevOps practices and principles
+Hive / Centrica Connected Home / SRE Devops Engineer
+(contract role)
+London, UK / February 2017 – October 2017
+Candidate G.F worked as Senior DevOps Engineer
+CI/CD: Jenkins / Travis CI
+Linux: Ubuntu, Amazon Linux
+Infrastructure: AWS (cloudformation,cfndsl, ec2, lambda/serverless, cloudwatch) / vagrant (local testing)
+Automation: Puppet (hiera, masterless, gpg)
+Logging/Monitoring: Wavefront, ELK stack (elasticsearch, fluentd)
+Scripting: bash, python, ruby
+Services: Artifactory / Gemfury
+Worldpay (Technology, Fintech)/ Devops Engineer (perm role) London, UK / September 2019 – February 2017
+Candidate G.F worked as DevOps Engineer.
+CI/CD: Jenkins HA master / slaves
+Linux: Ubuntu, Centos, Amazon Linux
+Infrastructure: AWS (Cloudformation, EC2, ECS, cloudwatch) /OnPrem Vmware/whost
+Docker/Openshift
+Automation: Ansible (plus custom Ansible modules and lookups)
+Logging/Monitoring: splunk
+Scripting: bash, python
+DevOps transformation from waterfall ops and automation of development environment. Focus to create an end-to-end automated delivery pipeline of environments consistent from dev. to production. Transition from old-fashioned monolithic service built in house to fully automated smaller units hosted in docker/openshift environment with integrated testing, by moving components to a microservice oriented architecture. Illumina / Linux System Administrator (perm role)
+London, UK / May 2015 – September2016
+Candidate G.F worked as a Linux System Administrator
+CI/CD: Jenkins
+Linux: Centos, RHEL, Amazon Linux
+Infrastructure: AWS (Cloud formation, EC2, Cloudwatch) /Colo Bare Metal (DELL), Cobbler/Kickstart/Vagrant
+Ops: Rsyslog, Hadoop, Nginx/Tomcat/Apache
+Docker, Artifactory
+Logging/Monitoring: splunk, nagios
+Automation: Ansible, custom modules
+Scripting: Bash, Python
+Working in a team of 6 with main focus on DevOps design and operations; in particular by redesigning the whole automation infrastructure and configuration management with Ansible
+(previously driven by puppet). Quickly grown up to be the point of reference for automation and security in the team. Focus to create a bare metal provisioning solution to automate standing a set of Datacentre servers implementing hardware/firmware and full-stack configuration by using a combination of open source tools and commercial products to scale up to speed (cobbler/pxe, dell firmware tools, Ansible, jenkins, nagios, pagerduty, keeping packages repos in Artifactory); other tasks include maintaining the infrastructure as code as possible, using version control and test environments for change control; automating repetitive processes and tasks previously done by hand, as soon as they are discovered; scalability forecast and remediation as needed by using automation; logging and monitoring via splunk and pagerduty oncall. Taking care of the fleet of mapreduce clusters machines and services, monitoring job progression or completion; performing the practical aspect of auditing and security policies application on systems, implementing monitoring and alerting; working in a collaborative code peer-review git environment driven by Agile/Scrum methodologies. Implementing operational intelligence with splunk acting as a SME in the company.
+Jagex / Linux System Administrator (perm role)
+Cambridge, UK / October 2014 – May 2015
+Candidate G.F worked as a Linux System Administrator
+Linux: Centos, Debian
+Infrastructure: Bare Metal (DELL), Cobbler/Kickstart,NetOptics balancers, Cisco routers and switches, Juniper Firewalls
+Ops: exim, postfix, rsyslog, elasticsearch, logstash, nginx, apache, bind, postgres, mysql, pacemaker/corosync,
+Logging/Monitoring: elasticsearch, zabbix
+Automation: Puppet
+Scripting: Bash, Python, Perl
+Initially hired as a Senior UNIX/Linux Engineer, I am working in a team of 6. Keeping the Linux fleet of servers running and performant; maintaining the central configuration management and automation of provisioning, monitoring, alerting, involved in transitioning from an old configuration system (bcfg2) to a puppet-driven infrastructure without disruption; refining security of systems by tighening policies and configuration of services and servers; ensuring mail delivery and security is in order; keeping the network layer (switches,routers,firewalls,ips and balancers) in shape and evolve when necessary.
+Worked various roles
+Italy / July 2005 – September 2014
+Candidate G.F worked as various roles from senior systems engineer to Technical Manager in Italy before coming over to London.
+
+Contact this candidate

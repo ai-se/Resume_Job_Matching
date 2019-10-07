@@ -1,0 +1,36 @@
+
+William Winter
+**** ****** *, ***** **, TX ***** adaghq@r.postjobfree.com 409-***-****
+
+Education
+Associate of Natural Science (May, 2015) - College of the Mainland, Texas City, Texas
+Associate of General Studies (May, 2015) - College of the Mainland, Texas City, Texas
+
+B.S. Computer Science (May, 2019) - University of Houston Clear lake, Clear Lake, Texas
+
+Skills
+
+●Proficient in C# & .NET, Xamarin HTML & CSS, & OOP Practices
+●Educated in Java, Python, C#, C, & SQL
+●Familiar with JavaScript, C++, JIRA, Github, MVC
+●Experienced with Programming Environments Visual Studios, NetBeans IDE, Java Eclipse, Atom, and JetBrains.
+●Flexible & Adaptable, able to learn new tools quickly & work in groups or independently.
+
+Relevant Coursework Cumulative GPA: 3.2
+
+Web App(C#), Data Structures (Java Focus), CS1(Python),CS2(Java), Microcomputer Applications(C#), Operating Systems(C)
+Linear Algebra, Discrete Mathematics, Calculus I & II, Differential Equations, and Digital Circuits, Technical Writing, Computer Architecture, Intro to AI
+
+Experience
+Intern at Galen Data as a Software Verification Engineer: August 2018 – Decemeber 2018
+Created test cases from software requirements & verified those cases.
+Senior Project sponsored by them to create a connected(BLE) blood pressure app utilizing xamarin to streamline development for multiple platforms.
+Independent Dev. Practice
+Creation of small projects/challenges in various environments to increase familiarity with various languages & environments such as xamarin, .NET, HTML, etc.
+Examples include projects such as a ‘Halloween Store’ in .NET, account creation & log in functions, validation practice, a ToDo List App in xamarin.
+Currently taking a FullStack course on Udemy(Bootstrap, Javascript, Node.js, etc)
+Unrelated Experience: Farm Manager 2012-Present
+Handle sale of merchandise in various settings & Manage day to day task for a farm.
+Create planting schedules, work schedules & manage other employees.
+
+Contact this candidate

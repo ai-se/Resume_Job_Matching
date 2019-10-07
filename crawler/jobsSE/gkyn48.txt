@@ -1,0 +1,58 @@
+
+Job Title: Big Data Consultant
+Department: Big Data
+Job Type: Contract
+Location: Pleasanton, CA
+
+Job Overview:
+As a Big Data Developer, you will be working with our strategic client to implement leading edge Big Data solution for one of the largest healthcare providers. We are looking for software engineers with a strong understanding of the full big data development lifecycle, including requirements gathering, solution design, development, and production deployment.
+The ideal candidate will have solid development experience with the desire and passion to learn big data technologies. Will provide training for the ideal candidate to learn Spark development.
+Responsibilities:
+Participate in technical planning & requirements gathering phases including design, coding, testing, troubleshooting, and documenting data-oriented software applications in one or more of the following areas
+Create ETL code in Java or Spark
+End-to-End Big Data Solutioning and data stream design, experience with tools of the trade: Hadoop, Storm, Hive, Pig, Azure (HD Insight) and Data Lake Design
+Build Large Scale, Fault Tolerance Systems with components of scalability, and high data throughput with tools like Kafka, Storm, Flink, and Spark, and NoSQL platforms like HBase and DataStax
+Build NoSQL solutions and capacity for understanding Graph, Key Value, Tuple Store, Columnar Memory, and in-memory functionality
+
+SKILLS AND EXPERICENCE REQUIRED:
+Passionate coder with 3 years of application development experience.
+Breadth of experience with (List technologies).
+Strong debugging, problem solving and investigative skills. Ability to assimilate disparate information (log files, error messages etc.) and pursue leads to find root cause problems.
+Experience with Agile/Scrum methodology.
+Self-starter who can work independently
+Bachelor s Degree with a minimum of 3+ year s relevant experience or equivalent.
+5+ years of experience in on premise or Cloud big data development
+2+ years as a Java application software developer.
+2+ years experience with traditional relational databases such as Oracle, SQL Server, PostgreSQL, MySQL.
+Experience working in an Agile/Scrum environment
+Need someone who is a self-starter and team player, capable of working with a team of architects, developers, business/data analysts, QA, and client stakeholders
+Strong written and verbal communications
+2+ years experience working in Big Data (Hadoop, Hive, Pig, Storm, NoSQL, HBase, Cassandra, Druid)
+1+ years hands-on experience with ETL tools (Talend, Informatica, NiFi, etc.)
+1+ years hands-on experience working with Geospatial Analytics and Reporting
+1+ years hands-on experience with Spark/Kafka data manipulation, pipeline creation
+1+ years hands-on experience working within AWS, Azure, or Google IaaS Solutions
+Hands-on experience with DevOps solutions like: Puppet, AWS CloudFormation, Docker and microservices
+Experience working with (hands-on) or working with teams who work within the Business Intelligence & Visualization Space (Tableau, Power BI, Qlik, Cognos, SAP BOBJ, etc.)
+Passion for working with open-source technologies as well as commercial platforms
+
+Educational Qualifications:
+Required - Bachelor s degree in Computer Science, Information Technology, Computer Engineering or closely related or equivalent
+Preferred - Master s degree in Management Information Systems (MIS), Computer Science, Big Data or Analytics or equivalent
+Travel:
+Open to travel based up on the nature of the engagement
+Equal Employment Opportunity
+Reliable Software employment does not discriminate on the basis of race, religion, gender, sexual orientation, age or any other basis as covered by federal, state, or local law.
+Employment decisions are based solely on qualifications, merit and business needs.
+
+Shameer K
+IT Recruiter
+(O)
+2260 Haggerty Road, Suite#285, Northville, MI 48167.
+
+Contract
+12 Months
+
+
+Apply now
+

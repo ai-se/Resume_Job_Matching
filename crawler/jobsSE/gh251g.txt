@@ -1,0 +1,79 @@
+
+The Information Security Engineer position is responsible for monitoring and assessing the security of all customer-facing products and services provided by JAMF Software, as well as internal infrastructure and services used by JAMF Software. In addition, the position is responsible for providing guidance and technical expertise both during the product/service planning and development process as well as during the development and maintenance of corporate policies and procedures. Finally, the position is also responsible for responding to and managing issues in the Security Response queue.
+
+Responsibilities
+
+* Develop and maintain security documentation and reporting
+
+* Manage 1st and 3rd party penetration tests and vulnerability assessments on company products and services
+
+* Provides guidance for the removal or remediation of vulnerabilities to products and hosted infrastructure
+
+* Perform security incident analysis and recommend remediation steps
+
+* Research new threats, risks, and attack vectors to JAMF infrastructure and software
+
+* Responds and coordinate research and resolution of security incidents and issues
+
+* Performs security assessments on both internal and external applications/infrastructure
+
+* Provide product expertise and counsel throughout the organization
+
+* Other duties and special projects as assigned
+
+* Performs all job responsibilities in alignment with the core values, mission and purpose of the organization
+
+* Adheres to the highest moral, ethical and legal standards to deliver an environment that promotes respect, innovation and creativity
+
+* Supports and promotes a positive, inclusive workplace one in which the talents and strengths of our increasingly diverse workforce are welcomed, further developed and manifested in our work
+
+* 2 - 4 Years Advanced knowledge of the SLDC, QA testing, software development, or application security. (Required)
+
+* 2 – 4 Years Knowledge of information system security principles, information system security controls, data communication networks, or risk & compliance (Preferred)
+
+* 2 – 4 Years Knowledge and experience in security testing, security automation, security assessment tools and techniques (Preferred)
+
+* General Experience Knowledge and experience with Jamf software, Apple devices, or device management (Preferred)
+
+* Strong Communication Skills
+
+* Excellent Organizational Skills
+
+* Proven Analytical Skills
+
+* Read / Comprehend Written Instructions
+
+* Follow Verbal Instructions
+
+* Ability to communicate complex technical terms in an easy to understand, non-technical manner
+
+* Ability to interact effectively with co-workers in a results driven culture
+
+* Self-starter, energetic multi-tasker, highly motivated and team player
+
+* Effective and efficient project planning and time management skills
+
+* Ability to critically analyze issues and use good judgement to make decisions
+
+* Trustworthy with sensitive information and access to systems containing sensitive data
+
+* Bachelor's Degree in Computer Science, Information Systems, Computer Engineering or related field (Preferred, a combination of relevant experience and education may be considered)
+
+* Preferred Certifications/Licensures:
+
+* GIAC Security Essentials
+
+* CEH (Certified Ethical Hacker)
+
+* CISSP Certified Information Systems Security Professional
+
+* AWS Certified Security
+
+Location: Minneapolis, MN
+
+Travel:
+SDL2017
+
+
+Go to apply 
+

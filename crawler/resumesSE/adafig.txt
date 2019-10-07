@@ -1,0 +1,73 @@
+
+SHARON SAMSON
++919*********
+adafig@r.postjobfree.com
+SOFTWARE
+C Programme
+Python
+MATLAB
+2016
+EDUCATION
+Bachlor of Technology
+(Electronics and CommunicationEngineering)
+Mahatma Gandhi University
+2012-2016
+Advanced PG in Embedded System and Hardware Design SMEC Labs, Ernakulam, Kerala
+PURPOSE STATEMENT
+A strong desire to work in a challenging environment where I can utilize my education and skills to achieve my aim. I am determined to offer honesty, efficiency and sincerity to the optimum level.
+Software Engineer
+7.1 CGPA
+Embedded C
+HARDWARE
+RASPBERRY PI
+KINECT SENSOR
+Peripherals: ESP8266,ZIGBEE
+LIFI
+ARDUINO
+Completed 15 days implant training at Keltron, Thiruvananthapuram. Participated in NRC 2013, Robotic workshop conducted by ARK Techno solutions.
+Attended seminar on “MOBILE COMMUNICATIONS” by BSNL. VOCATIONAL TRAINING
+WORK EXPERIENCES
+Program Developer(Embeded & MatLab) NOV 2016-JUN2018 Pantech Solutions
+Job profile: code developer in python(open CV) and MATLAB Django
+Software Developer(Python,Django)
+Techversant Infotech,Infopark
+JUN 2018-till present
+Job Profile:Working with tables from MySQL/mongo/PostgresSQL database with Python/frameworks/AI based chatbot with machine learning
+Extensive experience in python (openCV)
+Used MATLAB tool to write codes in DIP and communication Experience on handling Raspberry pi,Arduino and different types of embedded hardwares
+My role is to develop and validation of projects which is fully handled by me
+Hands on experience for writing front end C codes
+HTML
+STRENGTH
+Creative
+Teamwork
+Motivation
+Leadership
+Time Management
+Problem Solving
+Singing
+Reading
+Dance
+HOBBIES
+Music
+Real-time 3D reconstruction augmented reality with kinetic sensor Role: Hardware interfacing and developer
+Programming language: MATLAB C CODE
+Hardware: Kinect sensor, Arduino controller,Motor drivers, robot section
+Details: Kinect sensor is using for getting the 3d information and skeleton information of the human with respect to the coordinates valuesThe detected color or depth video which is taken by kinect pass interepts to robot section and it will produce an VR environment Virtual Reality with python for real-time applications Role: Developer
+Programming language: Python
+Platform: Anaconda Environment
+Details: Anaconda Environment supports deep neutral networks and as well as backend compiler modles
+Here using eyeball movement we are controlling the whole pc from cursor movement to keyboard interfacing options using deep backend python compilers for tracking and interfacing options API generation and UI designing for biometric application Role: Developer
+Platform: Django
+Details: Have created a environment using Django which can access the user,device,admin by using some permission classes Here the input is a biometric analog data which is further changed to digitalvalue and will go through the accessing procedure.We have given authentication and unauyhenntication for the user access and gave updation,requesting,storing deleting,creating accessing for device and admin using put,get,patch,delete
+PROJECTS
+Cerebro- API authenticated platform for enrollment Role: Developer
+Platform: Pycharm,sublime
+Details: User,enrollment logs gets automatically check-in and backup Technology: Mongo db,Django,html,css
+Jobpro
+Role: Developer
+Platform: Pycharm,sublime
+Details: A job website for jobseekers and employer which is using server with postgress db
+Technology: Django postgress db, elastic search,html,css,bootstrap
+
+Contact this candidate

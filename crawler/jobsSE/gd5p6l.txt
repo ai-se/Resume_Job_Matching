@@ -1,0 +1,45 @@
+
+Were looking for humble, but ambitious, razor-sharp technical lead who can teach us a thing or two. We promise to return the favor. Like us, you take product development, API, Analytics and ML or AI platform engineering seriously; youre passionate about technology and, even more so, about leadership. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. We are currently seeking an engineering Technical Lead to drive technical vision and execution as well as provide architectural and functional leadership to a team of engineers in an innovative and fast paced environment. Our selection process will emphasize software engineering and architecture skills as well as SDLC or scrum process organizational skills equally. The ideal candidate must be a master of the engineering domain and be able to contribute as an individual contributor (software engineer and architect) at least half of the time. We are looking for someone who is equally comfortable leading by influence or authority. Last, we are looking for a rare mix of intelligence, integrity, domain knowledge, verbal agility, and diplomacy which allows you to rapidly earn the trust of technically astute engineers and product astute product managers.
+
+Why We Need This Role
+We are looking for a leader to help us build out a set of AI powered tools and services which will allow us to pro-grammatically assemble licensed client applications from the building blocks of code. This includes, but not limited to, developing ESB technology that will serve as assembly foundation for said assemblies to programmatic orchestration of underpinning infrastructure. We want to do this to disrupt and automate software development in a similar fashion Henry Fords assembly lines disrupted and automated car manufacturing.
+
+Why You Should Join
+This is a challenging and diverse role that requires you to build both, an organization and new generation of Builder Assembly product, nearly from the ground up. Only join this role if you are craving rapid growth, able to create a path in uncharted territory, and comfortable with trying, failing and course-correcting fast.
+
+First Six Month Deliverables
+Grow Builder ESB team
+Grow Builder ESB team to be capable of parallelized and autonomous license activation and building block bus development efforts
+Develop ESB technology that will serve as a foundation for each client project assembly as well as a programmatic means for building blocks assembly into apps or underpinning infrastructure creation.
+Requirements
+10 plus years solid experience in back end open source based technologies, including at least 2 years in Ruby or RoR cloud based ecosystems
+A minimum of 4 plus years solid experience as a technical lead, including at least 2 years in large scale platform environment
+CS degree required or equivalent work experience
+Solid procedural and object oriented Software Engineering fundamentals
+3 plus years of relevant experience managing fast-paced and dynamic Scrum team
+A proven track record of senior level software engineering and architecture accomplishments in a high-capacity, large-scale, internet-based product platform
+Capable of technical deep-dives, yet verbally and cognitively agile enough to hold their own in a strategy discussion with senior technical or product leadership
+Comfortable recruiting a team of very bright, experienced engineers capable of working on projects and at scale unlike any other they've encountered
+Very experienced with Agile / Scrum methodologies
+Outstanding communication skills, both written and oral
+Expert understanding of RoR framework
+Solid understanding of AWS services
+Solid experience with containerized applications and serverless functions
+Strong understanding of and experience with testing practices
+Strong automation and CI / CD experience
+Pivotal Tracker or Jira, Docker, CI/CD, GitHub tools experience, some would say you are a master
+If I asked your previous team members about you, they would say you were a great leader and even better contributor. They would also very much welcome an opportunity to work for you once again
+Some experience collaborating with ML/AI teams is a plus
+Experience in data-driven environments
+Benefits
+Health and Wellness benefits including competitive medical, dental, and vision plans
+Performance-based bonuses and stock options
+Generous vacation and time off benefits including paid holidays
+Generally flexible working hours
+Working in a beautiful office space the heart of Silicon Beach in Playa Vista
+A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
+Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

@@ -1,0 +1,94 @@
+
+"
+
+Title: Software Engineer
+
+Location: Jersey City, NJ or Glendale,CA
+
+Duration: 1 year
+
+8+ years Exp Required
+
+Major Responsibilities:
+
+Design and architect
+software solution based on business requirements.
+
+Work with
+cross functional team members to develop prototype, produce design
+artifacts, develop components, perform and support SIT and UAT
+testing, triaging and bug fixing.
+
+Produce high functioning,
+testable code from software designs and specifications.
+
+Design
+and develop tests and test-automation suites.
+
+Produce and
+update software documentation.
+
+Provide peer review of
+engineering deliverables.
+
+Present practical input for strategic
+technology decisions.
+
+Qualifications:
+
+8 plus years
+experience
+developing large scale solutions in IT and enterprise
+organizations.
+
+Ability to develop software in Java, C#, NodeJS,
+HTML5, CSS3, JavaScript, Spring Framework, ReactJ.
+
+Experience
+in relational databases such as SQL, non-relational databases such as
+DynamoDB and ORM technologies such as Hibernate and Entity
+Framework.
+
+Experience with MVC, MVVM design patterns and Single
+Page Applications
+
+Strong DevOps focus and experience building
+and deploying applications with automation tools.
+
+Experience
+building on AWS and cloud native design and architecture. Experience
+building serverless applications on AWS a plus.
+
+Experience with
+container technologies such as Kubernetes or Docker.
+
+Experience
+with build automation technologies such as Maven or Jenkins.
+
+Experience with test-driven development and automated testing
+frameworks.
+
+Experience with Scrum/Agile development
+methodologies.
+
+Excellent collaborative, communication,
+interpersonal skills
+
+Excellent analytical, technical
+documentation and presentations skills
+
+Ability to lean and
+evaluate new tools, concepts, and challenges quickly.
+
+BS degree
+in Computer Science or Engineering, or equivalent job
+experience.
+Experience in compliance technology domain such as
+anti-money laundering, sanction screening systems a plus.
+- provided by Dice
+
+Contractor
+
+
+Go to apply 
+

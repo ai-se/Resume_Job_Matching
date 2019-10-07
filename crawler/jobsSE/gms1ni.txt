@@ -1,0 +1,55 @@
+
+Cloud Service Operations Engineer
+Must have AWS and Linux Experience
+Location: Denver, Colorado
+
+ABOUT THE JOB
+Cloud Service Operations team is an elite team in Software AG which champions cloud technology and supports Software AG Cloud SaaS offerings. We thrive to keep our cloud products in high SLA standards, with strict data security, and top performance through continuously improving processes.
+The new team member should manage & operate Software AG Cloud environments, mainly ARIS Cloud.
+
+Tasks and Responsibilities:
+Provide professional, courteous and prompt technical support to customers and internal staff with the goal to achieve highest level of customer satisfaction
+Work closely with Development Teams, Cloud Security &Compliance, Sales, Global Support Organization and Product Management, to strengthen cloud offerings
+Support security and compliance requirements of the Software AG Cloud Platforms
+Apply findings to improve the cloud deployments and management of systems
+Communication with the Software AG Cloud customers in a very customer oriented manner
+Main focus will be ARIS Cloud
+
+ABOUT YOU
+Academic Degree: University degree in Computer Science, Information Technology or similar
+
+Professional Experience in year(s): 3
+
+Special Knowledge:
+Amazon AWS Solutions Architect with experience in EC2, S3, RDS, VPC CloudWatch, CloudTrail, CloudFormation, etc.
+Familiar with other cloud IaaS vendors such as Microsoft Azure, Google or Alibaba
+Software automation skills
+Preferable: ARIS Installation, administration and configuration experience
+
+IT Skills:
+Strong Linux administration skills - preferred CentOS
+Good familiarity with Logging & monitoring procedures and the use of tools like Gray logs, Zabbix, Grafana, or Splunk
+Database Management experience - preferred Oracle DBMS
+Single-Sign-on, LDAP, Active Directory - configuration knowledge
+Understanding of Network administration (VPN, firewalls)
+
+Additional Requirements/ Soft Skills:
+Willingness to be available for on-call duty at weekends
+Motivated to collaborate in an international team with customers all over the world
+
+WHAT YOU CAN EXPECT
+The employees are smart, friendly and welcoming
+Health Insurance starts your first day on the job
+Three weeks paid vacation & three weeks paid sick leave
+9 paid holidays (including a floating holiday and a community service day)
+401(k) Plan with up to 5% employer match
+Business Casual office
+
+Software AG is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration without regard to race, age, religion, color, marital status, national origin, gender, gender identity or expression, sexual orientation, disability, or veteran status.
+Click on the link to view the full EEO Statement.
+
+IND123
+
+
+Go to apply 
+

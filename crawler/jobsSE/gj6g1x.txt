@@ -1,0 +1,33 @@
+
+Position Responsibilities
+Responsible to lead development of features for Train control system following good OOPS concepts and stringent code quality/Software Security standards.
+Responsible for producing design artifacts like process/activity flows, object relationship model, decision tree charts and UML diagrams.
+Responsible for supporting product maintenance related activities i.E. Bug fixes, defect triaging, feature development, validation and training.
+Demonstrate strong skills in OOP programming, design patterns, data modeling and database design.
+Responsible for making sure the team follows coding standards and design standards.
+Responsible for mentoring other software engineers and hold design reviews and code reviews.
+Responsible to make sure the team follows the schedule and communicate status plus concerns.
+Qualifications:
+Strong 10+ years experience in application development on .Net framework in C#, VB and Sql Server. Solid desktop application development, web/Windows services (SOA) experience and good understanding of Microsoft platform.
+Good to have knowledge of configuring and interfacing with enterprise level messaging platforms like RabbitMQ, ZeroMQ, QPid, MSMQ, etc.
+Good to have knowledge of algorithms related to graph theory and experience with graph database like TinkerGraph, Giraffe, Neo4j, etc.
+Good to have knowledge of domain modelling and entity modelling.
+Have understanding of general network design principles including TCP/IP and UDP.
+High degree of attention to detail.
+Strong debug and troubleshooting skills.
+Team player and works well with others.
+Effective oral and written communication skills; ability to articulate clearly and concisely.
+Self motivated, quick learner, results-oriented and a clear focus on quality.
+Ability to develop high level of credibility and strong positive relationships with peers and management.
+Good to have real time system development experience but not required.
+Good to have experience with WPF graphics but not required.
+Education, Experience and Knowledge Required:
+B.S. Or M.S. In Computer Science or Computer/Electrical engineering or relevant professional experience.
+The candidate needs to have 10+ years experience in software development and support processes for enterprise-class systems.
+Experience as a Team lead or Project Lead for at least 5 years.
+Experience and understanding of the database management systems used to support complex n tiered systems.
+Would be desirable but not mandatory that candidate has knowledge of railroad system operations.
+
+
+Go to apply 
+

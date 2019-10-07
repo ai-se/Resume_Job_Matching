@@ -1,0 +1,114 @@
+
+RICHARD D. “RICH” LAUTNER
+Clearwater, FL ● 727-***-**** ● ac92ah@r.postjobfree.com
+
+PROFESSIONAL SUMMARY
+ERP Implementation/Post Implementation Consultant/Project Manager: 25 years of broad based Manufacturing: ERP, Operations, IT & Finance in leadership roles. Orchestrating enterprise wide technical, functional & cultural change; leading organizations to drive measurable financial results from fully integrated ERP systems and best practices. Global Manufacturing (lean, discrete and process) Aerospace/Defense, Medical Device, Tier One Automotive, Semi-Conductor, Capital Equipment & Agricultural Capital Equipment.
+
+TECHNICAL / FUNCTIONAL PROFICIENCY
+Epicor 10, 9.05, Vantage, Vista & Eci M1 ERP Solutions, Project Management, Business Analysis, Process Mapping, Gap Analysis, Process Re-Engineering, Test Scripts, Data Migration, Dashboards, BAQ, DMT, Crystal Reports, BPM, C#, Financial Reporting, Manufacturing Execution (MES), Job Scheduling, Manifest, Knowledge Transfer/Education, Accounting and Cost Management, Quote to Cash, SDLC, SOX, SQL, MS SQL Server, Windows Server, MS-Office Suite including Visio & Project.
+
+PROFESSIONAL EXPERIENCE
+INDEPENDENT ERP CONSULTANT Clearwater, FL 2010 – Present
+ERP Consulting Firm; Focused on Epicor 10.1, 10, 9.5 & Vantage – Owner / Consultant
+
+ENGAGEMENTS:
+Semiconductor Manufacturing Capital Equipment OEM
+Principal Technical/Functional Consultant-Subject Matter Expert: Epicor
+● Managed hands on, full suite implementation of the first of six subsidiaries, including; General Ledger, CRM, Quoting, Order Management, Inter-Company transactions, Engineering, Job Scheduling, Job Costing, MRP, MES, Purchasing, Shipping, Inventory & Quality Management.
+● Managed data migration; designed and developed analytical Crystal Reports & BAQs, then tested & executed updates via DMT.
+● Implemented MES using it to implement “Labor Based-Finite Scheduling”; Setup Work Centers, Work Center Groups, Operations, Direct Employee tables including scheduling parameters, then developed Crystal Report Dashboards, trained Production Manager, Planners and shop floor staff. Accurately relieving bills of operations dramatically improved the accuracy of promise dates given to customers at order time based on Epicor’s Job scheduling module.
+● Developed and implemented a General Ledger, Multi-company Account Segment strategy requiring a Posting Rule change prior to G/L Consolidation of subsidiaries to parent company.
+● Modified all G/L Controls to accommodate the new hierarchy.
+● Converted from FIFO to Standard inventory costing method using BAQ & DMT.
+● Performed a break-even analysis determining the base hourly shop rate & fully loaded labor rate to use with production table setup.
+
+Global Turbine Engine Company serving the Aerospace and Energy Sectors
+Program Manager/Implementation Architect
+● Led functional teams in the development of a roll out strategy for Epicor 10.1 corporate wide.
+● Orchestrated the roll out execution plan with teams from 5 global subsidiaries.
+● Worked with functional leads to lay out and execute Data Migration using; DMT, BAQ, Crystal Reports.
+● Up-lift BPMs from ABL to C#.
+
+Industrial Manufacturing & Services Company Specializing in Power Plant Equipment
+Developer / Business Analyst
+● Design & Development of BPM Customizations to the Quote Management Module using C# and Method Directives.
+● Designed and developed Reports & Dashboards, Including direct labor efficiency &.and utilization and various sales
+dashboards.
+● Changed the Posting rules to accommodate a bank provided automated CC Statement that charges the
+appropriate department based on the Employee’s department.
+
+Elevator Controller Engineering, Repair Kitting & Distribution Company
+Project Manager / Business Analyst / Developer
+● Managed a team of 2 developers along with myself working a JIRA list of Enhancements, Customizations, and
+Implementation of advanced features. Coordinating overall customization design for production and financial work
+flow within their process
+● Served as the focal point for the Business analysis and Design of Customizations as the Epicor Finance, Production & Costing database subject matter expert.
+● Managed and Administered an upgrade from Epicor 10.1 to 10.2.
+
+Global Sporting Goods Manufacturing & Distribution Company
+Project Manager/Senior Consultant – Epicor 10.0
+● Managed a major multi-national post-implementation project
+● Oversaw design, development, training and deployment of a of a major Shipping Management customization that now accommodates 20-30 truck loads per day between Black Friday and Christmas.
+● Business Analyst Lead; Implemented InSite Manifest; Epicor add-on including, Endicia USPS integration, creation of Commercial Invoices. Capturing tracking / package details in Epicor of USPS, UPS, FedEx & Common Carrier shipments.
+● Led the functional “Procure to Pay” team in the implementation of the Landed Cost feature of AP.
+● Designed an tested a SQL Forecasting tool that allows production manager to update priorities in Excel, then update Job Start Dates and Quantities in Epicor Jobs.
+
+Agriculture Grain Storage and Processing Elevator Fabrication OEM
+Financial/Production Consultant-Epicor
+● Led the Implementation of their Management Execution System (MES); Designed and developed MES dashboards and KPIs providing accurate utilization and efficiency ratios for management as well as providing the necessary detail to the production operators so the onus of accurate MES entries is placed on the shop floor, getting it right at the source. This made shop scheduling possible by accurately relieving production backlog.
+● Converted Average to Standard Inventory Costing Method including batch updates to Inventory, Chart of Accounts & Part Master using DMT in a Multi-Company environment. Required after acquisition to align with the parent company.
+
+Custom Cutting Tool OEM - Epicor 10.0
+Project Manager/Subject Mater Expert, Multi-Company Financial Consultant
+● Facilitated multi-company Epicor 10 ERP implementation & Kazan Blitz.
+● Managed schedule using MS Project, identified milestones, mitigate risk, set up on going communication schedules for all Stake Holders including Senior Management, Team Leaders & a News Letter to the general employee population.
+● Instructed Epicor Production/Finance training sessions.
+● Worked with finance team to develop Account Segment strategy & Costing Method.
+
+Lift Gate OEM
+Operations Consultant / Subject Mater Expert – Epicor 9.5
+● Worked with Engineers and Detailers to setup Epicor Configurator Module in a Kanban production environment. ● Designed and developed dashboards primarily to Identity areas where lean principals would have the most value added.
+
+FARMER MOLD & MACHINE WORKS, INC. St. Petersburg, FL 2006 – 2012
+Automated Capital Equipment OEM
+General Manager / Vice President: Operations
+● Report directly to the President; brought increased revenue and profitability by connecting with customer expectations in product design direction, service & distribution. Use ERP system to manage costs, revenue, cash, production scheduling, quoting, forecasting and Supply Chain. Direct reports include: Finance, Engineering (product definition), Production, Supply Chain & Order fulfillment. Focused Engineering on re-design of our highest potential commercial equipment products, modernizing our machine offerings making them competitive in both performance and cost followed by focused industry campaigns.
+Principal ERP Consultant
+● ERP Implementation – Lead Consultant/Project Manager:
+Orchestrated full suite implementation from a delivery perspective; balancing schedule and resources as to mitigate risk to growing operations. Work directly with executives, managers, functional leaders and staff as a subject matter expert, transferring knowledge, mapping & re-engineering processes.
+● Tactical Financial Analysis: Accounting / Production Integration, Corporate Performance, (KPIs), Product Design; Adopting an Engineer to Build Philosophy using Inventor Solid assembly drawings matching Epicor BOMs.
+● Re-engineered production business processes based on Value Chain Analysis, taking full advantage of the software’s native capabilities where possible.
+● Cost Accounting: Defined Cost Management strategy guiding shop floor, inventory and financial system setup in Epicor.
+● Defined and Implemented best practices for engineering to accurately represent the full manufacturing cost. This provided realistic and consistent customer quotes of unit sales prices that had a clear cost/margin break down.
+● Implemented Manufacturing Execution System (MES), developed margin ratio reporting to identify poor performing work.
+● Reviewed poor performing Jobs with all stake holders to develop corrective actions; process improvement, design to build, capital equipment automation, operator training etc.
+
+PRECISION PLUS, INC. Cape Coral, FL 1994 – 2004
+High Volume Precision Machined Products Manufacturer
+General Manager / Vice President: Operations
+● Report directly to President: Demonstrated financial growth.
+● Direct all operations related to P&L performance, including; Production, Finance and Accounting, Quality, Supply Chain, Order Fulfillment and Business Development.
+● Significantly cut costs through the practical application of Value Stream Mapping, Total Quality Management, Continuous Process Improvement, Lean Manufacturing principles and a well-integrated ERP System.
+● Increased bottom line by focusing on true costs and maximizing margins based on what the market would bare.
+● Increased market share with focus on quality, delivery and customer experience.
+ERP Implementation Consultant / Project Manager
+● Orchestrated a full suite life cycle ERP conversion from Peach Tree to Epicor.
+● Developed Financial migration strategies, mapped functional processes through “Go Live”.
+● Managed QS-9000 Certification project; Managing risk in a growth environment. This Resulted in increased customer base that could then include tier one automotive suppliers to Ford, GM and Chrysler.
+
+THE BOEING COMPANY Long Beach, CA 1985 – 1993
+Commercial and Military Aircraft Manufacturer
+Senior Systems Analyst / Project Manager
+● Key member of the core EPR development & implementation team. Focus on Supply Chain, data analysis, cleanup, migration and management reporting.
+● Aircraft Launch Team: Information systems liaison; first article core launch teams: T-45 aircraft carrier trainer; C-17 Military Airlifter & MD11 & MD90 commercial aircraft.
+● Manage design & development of material shortage allocation process driving all aircraft final assembly priorities.
+Senior Financial Controls Analyst
+● Business Intelligence Database: Coordinate technical & financial teams; develop an aggregate enterprise financial performance / Business Intelligence database used for senior executive financial planning.
+
+EDUCATION
+Ferris State University; Big Rapids, MI – Business Management
+Orange Coast College; Costa Mesa, CA – Management Information Systems
+St. Petersburg College; Clearwater, FL - PMP Course Work
+
+Contact this candidate

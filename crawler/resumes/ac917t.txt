@@ -1,0 +1,129 @@
+
+FRANCISCO MACAPAZ
+ADDRESS: **** ****** **.
+ST. HUBERT, QUEBEC
+CANADA J3Y 2M4
+TEL. NOS: 450-***-**** (HOME)
+514-***-**** (CELLPHONE)
+SUMMARY
+Operation and maintenance of industrial power plants, commissioning, assembly and overhauling, installation, and valves positioning, major and minor repairs of main engine, auxiliary components and coupled generators, diagnosis of equipment programs and corrective measures, preventive maintenance schedule and preventive maintenance inspections.
+Strong mechanical skills and good knowledge in reciprocating and rotary machines, valves and pumps, air compressors, fire and water tube boilers, oil purifiers, light and heavy locomotives, diesel, gas/steam turbines and combined cycle and co-generation system.
+Able to operate and maintain single-handed 68.7 MW (6 unit /diesel power plant and waste heat recovery system)
+Flexible to handle various tasks and deadlines.
+Supervised and trained employees.
+Maintenance/operation of industrial Power Plant, HVAC and motor pool
+Mechanical Alignment, fabrication, modification and design mechanical piping system and layout.
+Assembly, overhaul, installation, troubleshooting defects on mechanical/electrical systems and repair.
+Accountable in the proper executions of computer commands (SCADA-DCS- PLC) which direct operations of electrical and mechanical systems of power plant, power generation and distribution, HVAC systems monitoring and controls, lighting facilities, fire alarm and security control and monitoring. EXPERIENCE
+2007-to present Canadian Pacific Railway, Montreal QC Diesel Mechanic
+Performed preventive maintenance and schedule units inspection on all assigned freight locomotives.
+Established accurate safety procedures and briefing on lock-out/tag-out procedures, five-alive points prior to operation and maintenance activities.
+Performed overhauling, repairs on freight trains, inbound and outbound standard inspections, brake test operation, above and bottom frame inspections.
+Performed electrical inspections i.e. bus voltage frame, brushes, contactors, protective relays and sensors, groundings, cable insulations, computer terminals, switch gears, generator feeders, parameter alarms and gauges.
+Execute main generator and battery load test
+Performed leakage tests on hydro and pneumatics.
+Troubleshoot mechanical and electrical systems, calibrate and adjust mechanical equipment and other related devices.
+Download equipment reports per time and maintain mechanical records.
+Units Handled: SD40, SD60, SD90. AC4400, EVO87 series (4 stroke cycle, T/C charged, V-12)
+2002-2007 Harrington Automotive Products, Brossard QC Leadhand
+Performed operation and maintenance on computerized molding machines for general motor transmission specific parts.
+Execute visual inspection on specific gauges readings on finished products for final quality inspection as per client design and specifications.
+Perform metal hard test and coating analysis on raw materials prior to molding process.
+Inspect and repair motor and pumps, rotary and reciprocating air compressors, hydraulic pumps and programmed cutters.
+Submits daily production report and machine equipment plant operational condition.
+Trained new employees and organized job task planning, orientation and safety plant procedure.
+Units Handled: 7 units hydraulic 3000 PSI machines, air compressors, DCS- Allen and Bradley system.
+2001.2002 IRIS Hosiery Inc, Montreal QC
+Quality Control Supervisor
+Performed quality and maintenance inspections on fabric manufacturing machines
+Trouble shoot mechanical failures and upgrades
+Inspects production quality of raw materials and finished products based on client’s design and specs, finalized and approved production quality for shipments including projected production quota for replenishment.
+Assisted in training new staff and evaluate probationary work performance and make recommendations for qualified staff for permanent positions.
+Submits daily report to Plant Manager, Quality Control Chief and Chief Mechanic the status of machines and production quality.
+Attends weekly meetings relative on production and quality with management and recommends certain ideas relevant to production and quality of finished products for more competitiveness.
+Units Handled: 200 units programmed/computerized manufacturing equipment (socks), 5 rotary compressors 150 PSI.
+2000.2001 King Saud University, Riyadh, Saudi Arabia Maintenance Engineer
+Responsible in the maintenance program of the university complex which covers power plant and HVAC consisting of five departments (mechanical, plumbing, construction, motor pool and machine shops) with a total of 130 staff to supervise.
+Decide, counter-check and evaluate contractor’s projected maintenance works based on daily, monthly and yearly work charts; inspects actual work accomplishments in the field – daily maintenance corrective measures, PMI and PMS on approved job orders.
+Study and make technical evaluations on contract bidders’ proposals per maintenance project and submit final recommendations to the Director of Operation and Maintenance project for approval.
+Approve orders and evaluate all types of spare parts to be used in the field
+(fat moving and slow moving items) and coordinate with material management manager and field supervisors.
+Attend weekly meetings with the Director of King Saud University Complex, Saudi Department Head, contractors and submit proposals/recommendations relevant to the project maintenance activities. Submit weekly/monthly project maintenance reports to the Director of O&M project of King Saud University complex.
+Units Handled: 4 units – (30mws/unit) gas turbine, brushless generator/water cooled – 3000rpm/3phase-AC John Brown frame 7; 7 units 150-450 psi water tube boilers; 2 units 150 psi fire tube boiler; 6 units chillers and water treatment system.
+1994.2001 King Saud University, Riyadh, Saudi Arabia Console Operator
+Carry-out checking of electrical and mechanical console peripherals (SCADA, DCS, PLC), alarm and display computer monitors, log printers and errors prior to start-up operation from master data base update and control host processing unit.
+Accountable in the proper execution of computer commands and checking of electrical and mechanical fault systems, supply and distribution of electrical energy, electrical and load statistics, generation and distribution of steam hot water, chilled water, domestic water, fuel supply, mechanical load statistics, HVAC units and irrigations.
+Process events and system faults with their respective system addresses thru computerized checking of all electrical and mechanical units such as gas turbine generator, generator main feeders, transfer switches (auto and manual system), substation transformers and switchgears, MCC, bus voltage line, phase current frequencies, power factors, stator winding temperatures
+(generator and electric motors), electrical and mechanical transmitters and relays, KWHR generated, boilers (fire and water tubes), chillers, cooling tower fans, chilled water pumps, condenser water pumps, fuel and lube oil booster pumps, air compressors, AHU, water softeners, blending stations.
+Coordinate with Field Electrical and Mechanical engineers, technicians during detected incoming events of importance i.e. emergency shutdown, power outage in which mechanical and electrical units are directly affected, likewise in the start-up and cut-off of power generating units, switchgears, MCC motor and pumps, AHU’s and main HVAC units and auxiliaries.
+Check unit application programs if it triggers or executes at proper time program and immediately coordinate thru radio, telephone and intercom to concerned electrical and mechanical field engineers or technicians when failure to execute or trigger commands occur such as programmed lighting events of academic and hospital buildings, AHU programmed circuit breaker and switchgears, generator feeders and transfer switches and motor control centers for normally open and close events programming as indicated in the computer application program.
+Trained Saudi nationals in the proper computer operations of electrical and mechanical consoles, their peripherals, functions and computer related system.
+Units Handled: 2 units HPU (Host Processing Units) – Master & Slave Bus system; 2 units CRT Display monitor; 2 units CRT Alarm monitor, 2 units APV colored graphic monitor; 2 units SPR Alarm monitor printer; 2 units SPR Log monitor printer and 2 units SKB keyboard.
+1990.1993 Saudi Arabian Army
+Power Generator Repairman
+Responsible in the operation and maintenance of military base power plant including major repair and overhauling of main engine diesel generators and auxiliary system, cylinder heads, pistons, connecting rod, main bearing, crankshaft, turbocharger, governor, etc.
+Carried out commissioning on newly purchased diesel engine generators, checking actual load efficiency value and logged electrical data such as KW- HR generated, voltage, frequency, power factor stator winding temperature, peak load and established synchronization program on generators (incoming and outgoing).
+Established periodic preventive maintenance schedule and servicing of all diesel engine generators, auxiliary units, electrical control system and panels, made daily power plant production reports.
+Units Handled: 15 unit 1 MW/Unit caterpillar D-399/398 Turbocharged V-16, 1200 RPM Four stroke 3-phase revolving filled/solid state exciter. 1987.1990 Saudi Arabian National Guard, Riyadh, Saudi Arabia Utility Engineer
+Responsible in the operation and maintenance of military base power plant including major repair and overhauling of main engine diesel generators and auxiliary system, cylinder heads, pistons, connecting rod, main bearing, crankshaft, turbocharger, governor, etc.
+Carried out commissioning on newly purchased diesel engine generators, checking actual load efficiency value and logged electrical data such as KW- HR generated, voltage, frequency, power factor stator winding temperature, peak load and established synchronization program on generators (incoming and outgoing).
+Established periodic preventive maintenance schedule and servicing of all diesel engine generators, auxiliary units, electrical control system and panels, made daily power plant production reports.
+Units Handled: 15 unit 1 MW/Unit caterpillar D-399/398 Turbocharged V-16, 1200 RPM Four stroke 3-phase revolving filled/solid state exciter. 1986.1987 Al-Husseini Est, Riyadh, Saudi Arabia
+Power Generator Field Mechanical Engineer
+Responsible in the maintenance and proper operation program of 19 project powerhouses composed of 74 diesel engine generators ranging from 380 KVA to 570 KVA en-line and V-type diesel generators.
+Performed actual overhauling and repair, generator installation and alignment, commissioning, servicing and PMS programs on main engine, auxiliary motors and pumps, main generators, lube oil and fuel oil purifiers, air compressors and water treatment processes.
+Planned and directed personnel responsibilities on each powerhouse to follow standard operation and maintenance works.
+Carry-out power production reports and highlight programs such as forecasted PMS, fuel rate, fuel unit cost, kilowatt hour generated, fuel oil and lube oil consumption, instantaneous load and peak load, fuel oil consumption, life span projection of fuel oil and lube oil stored in the service tanks.
+Trained power plant personnel of different nationalities in the operation of diesel generators (starting, stopping, cutting-in and cutting-out of load, loading procedure and synchronization program and data logger analysis).
+Units Handled: 74 unit-380KVA/570KVA/unit V-type/en-line, brush/DC generators (Scania, Volvo, Renault, Mitsubishi, Caterpillar, Cummins, Detroit, Onan and MAN diesel turbocharged 4-stroke cycle).
+1984.1986 Power Systems Inc., Manila Philippines
+Service Engineer
+Shift in-charge in the operation and maintenance of two units diesel engine and generators.
+Performed on-site repairs and overhauls of generator engines and executes preventive maintenance on power plant generators.
+Analyze, maintain and evaluate power plant equipment log sheets, logbooks, technical reports on PMI, PMS and power plant emergency corrective measures.
+Carry-out proper turnover of all power plant units status to incoming shift and brief on standing alarms and records.
+Coordinate, execute proper decisions during emergency shutdown and power outages.
+Issue work orders to electrical and mechanical maintenance personnel.
+Assists to troubleshoot faulty system and its location.
+Coordinate records during routine equipment test.
+Observes proper power plant cleanliness and standard safety procedures.
+Units Handled: 2 units V-14 5.7 MW/unit Pielstick AC Generator 4 stroke cycle.
+1982.1983 Amran Power Plant, Yemen Arab Republic
+Power Station Engineer
+Assisted Japanese IHI consultants in the commissioning of 4 units V-type, 14- cylinder Pielstick diesel engine-generators, 5.7mws per unit and 570 KVA 12 V-type Mitsubishi diesel engine generator (standby generator).
+Carry-out actual periodic PMS on main engine, axuliary units, oil purifiers
+(lube oil and fuel oil), air compressors, checking main bearing clearances, connecting rod bearings, valve rocker tappet setting and adjustment, crankshaft deflection test (hot and cold), camshaft and main driving gears actual clearances and backlash.
+Trained Yemeni nationals in the automatic and computerized diesel power plant operation programs on main engine, auxiliary units and control room switchboard operation.
+Submitted directly to Japanese consultants daily power plant production report and the result of actual periodic report on mechanical clearances on diesel engine moving parts for total evaluation of the operating units including actual temperatures and pressures (lube oil, fuel oil and water) during idling speed, no load and with load operation as stipulated under warranty period agreement.
+Revised and reorganized distribution of manpower according to workload and need of every section in the power plant.
+Units Handled: 5 units -5.7 MW /unit IHI Pielstick brushless-AC generator 4- stroke cycle V-14, LO and FO purifiers.
+1978.1981 Atlas Consolidated Mining and Development Corp. Toledo City, Philippines.
+Operation Supervisor
+Shift in-charge in the actual operation of diesel power plant diesel engine generators, diesel engine auxiliary generator, waste heat exhaust gas turbine, water tube and fire tube boilers, water treatment operation and analysis.
+Established actual evaluation of diesel operating units, checking normal and abnormal condition of generators (with load and without load) including main engine and auxiliary units through computerized data logger system.
+Troubleshoots electrical faulty system, checked log sheets of shift engine tender, auxiliary tender and switchboard tender.
+Confirmed in every end-shift the actual status of operating units with their corresponding data.
+Implemented/maintained cleanliness program and safety hygiene within the power plant premises.
+Units Handled: 5 units-11.45 MW/unit IHI Pielstick brushless-AC generator 4- stroke cycle V-12, 7 units-12MW/unit Mitsubishi steam turbine, 1 unit-5.7MW waste heat exhaust recovery system (Conseco).
+1975.1978 Progressive Stevedoring Co, Inc. Toledo City, Philippines Leadman Mechanic
+Carried-out tabulated preventive maintenance schedule, overhauling and periodic servicing of diesel engine generators, auxiliary pumps and motors, PMS on steam turbine and generator, PMS on fire tube and water tube boilers.
+Repairs all types of auxiliary pumps (reciprocating and rotary).
+Conducted hydro testing on boilers (fire and water tubes) and diesel engine cylinder heads, boiler re-tubing, man-drilling and flaring of boiler generating tubes, de-scaling of turbine blades, cleaning of condensers and replacement of damaged pump’s mechanical seal.
+Checked alignment of steam turbine main drive shaft and its auxiliary system.
+Conducted overhauling and major repair on steam turbine and boilers.
+Units Handled: 7 units-12 MW/unit Mitsubishi steam turbine (oil and coal fired), 4 unit-emergency diesel generator, 150-450 PSI steam drum pressure water tube boilers, boiler feed pumps, boiler de-aerators, evaporators, condensers, heat exchangers, forced draft fans and other related auxiliaries. EDUCATION
+1985 Power Generator Technician Class B (certificate of completion) The Diversified Technical Consultants, Manila Philippines 1978 Bachelor of Science (Mechanical Engineering)
+University of San Jose Recoletos, Cebu City, Philippines 1973 Associate in Marine Engineering
+Cebu Central Colleges, Cebu City, Philippines
+CERTIFICATIONS
+- Diesel Service Attendant Course (DSA)
+- Shop Track Operations Course (STOC)
+- Locomotive Shop Inspection (LSI)
+- Basic Electrical Train Inspection (BETI)
+- Safety Presentation and Fall Arrest Protection, Respirator Test Canadian Pacific Railway
+Montreal, Canada
+March 2007 (All Passed/Certified)
+REFERENCES
+Shall be submitted upon request.
+
+Contact this candidate

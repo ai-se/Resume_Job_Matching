@@ -1,0 +1,118 @@
+
+Ash Ashanti
+P: 470-***-**** E: ac965p@r.postjobfree.com
+
+SUMMARY
+
+Certified IT professional with a customer-first attitude. More than ten years in diversified information technology related experience in areas such as, Salesforce declarative administration; Software Application Training; End-User Technical support, Software implementation and CRM migration. Excellent communication and people skills across all levels of an organization. Ability to coordinate and perform several projects simultaneously. Superb analytical, troubleshooting and problem- solving skills with the ability to communicate in a clear and succinct manner. Certified in numerous software applications. Extremely tech savvy with passion for keeping pace with current and emerging technologies.
+
+CERTIFICATIONS
+Salesforce CPQ Specialist – In process : Salesforce Administrator - Salesforce Advanced Administrator- Salesforce Service Cloud Specialist - Salesforce Pardot Specialist Office 365 Specialist - Veritas NetBackup
+
+SKILLS
+Data loader, Apptus, Workbench, DocuSign, Adobe, Office 365, SharePoint, NetBackup, Oracle, Jira and numerous proprietary software and applications.
+
+EXPERIENCE
+Veritas Technologies LLC Remote
+Salesforce Administrator Feb 2016 – Present
+
+Primary point of contact and support to over 500 world-wide end users. Provide unparalleled support to customers through various channels to include email, phone, Service Cloud portal, WebEx and chat to help resolve issues to completion.
+Perform Salesforce declarative administrator functions and support - user setups, profiles and roles, reports and dashboards, customize objects, fields, record types, page layouts, workflow and validations.
+Conduct deduping, record merges/deletes, deactivations, ownership transfer of bids, accounts and opportunities.
+Administer license management, security settings and conduct regular security audits.
+Process project setup, project coordination, leads, bids, change management, cost and revenue forecasting, billing, revenue recognition and reconciliation support.
+Develop and create customized reports and dashboards on a weekly or monthly basis. Provide ad hoc reports when request.
+Work with Training and Development on creating training materials and resources for new and existing users, training users, and researching and disseminating best practices that help drive user adoption and success.
+Maintain records by performing systematic cleanup of contacts, accounts, reports and dashboards and performs routine data integrity health checks.
+Facilitate sandbox refresh. Deploy change sets between UAT and production environments. Triage defects and providing inputs to improve processes.
+Perform extract, transform and load (ETL) functions of data from source systems - SQL and Oracle database to Salesforce.
+
+Kaplan University Ft Lauderdale, FL
+Salesforce Administrator Feb 2015 – Feb 2016
+Provided real-time support for issues relating to Salesforce and integrated applications.
+Responded to end-user’s calls, emails and web support cases. Log and track identified system problems through resolution.
+Administration tasks included creating profiles, roles, users, page layouts, email alerts, reports and dashboards.
+Conducted salesforce implementation of data from legacy system – Campus View (CVUE) using data loader into Salesforce and performed data cleansing and data validation.
+Updated validation rules, workflows, and approval processes for automated alerts, field updates, and email generation according to application requirements.
+Assist in enhancement/defect release. In addition, processed, test and deployed change sets from sandbox to production.
+Identified opportunities to improve Salesforce functionality and end user experience. Participated in the development and integration process with other enterprise systems.
+Created and maintain documentation for internal knowledge base of user issues and resolutions.
+Provided end-user training and instruction on Salesforce.com functionality to enrollment advisors.
+Assisted with large-scale data improvement projects within Salesforce and integrated applications.
+
+Salesforce.com Beaverton, OR
+Customer Success Specialist II Feb 2014 – Feb 2015
+
+Delivered and managed customer support for Premier and Standard Success plan Salesforce clients. Document user problems using Service Cloud and Knowledge base.
+Addressed customer requests such as adding features, sandbox refreshes, data cleansing and data migration.
+Used Data Loader for insert, update, and bulk import or export of data from Salesforce.com objects. Extract, and load data from comma separated values (CSV) files. Perform imports of leads, accounts and contacts.
+Processed new users’ setup, create chatter group and conduct Salesforce training.
+Created reports and dashboards and custom fields. Directed clients to Salesforce Trust.com for known issues and bugs.
+Met client case SLAs. Worked with customers to understand their needs and expectations and directed them to the proper solution. Download and installed business applications, such as DocuSign from AppExchange.
+Created Profiles and Roles based on Organizations role hierarchy and implemented Record and Field-Level security. In addition, configured security settings and permission sets.
+Modified declarative configuration including workflows and approval processes and Page Layouts.
+Customized page layouts for Opportunity, Contacts and Accounts depending upon client’s needs.
+Created and customized email templates for client base. In addition, created knowledge base articles for Salesforce community.
+
+HicksPro Atlanta, GA - Remote
+Support Specialist Apr 2012 – Apr 2013
+
+Provided first level contact technical support of all IT software applications issues via phone, online chat, web submissions and other electronic medium for over International users using remote management tools.
+Support a wide range of software and applications, including COTS products or in-house developed applications.
+Administered, configure and support laptops, desktops, workstations, mobile devices and peripherals on multiple platforms: Windows, Mac, Linux, and Virtual Machine (VM) operating systems.
+Implemented rollout of Salesforce and Lync software. Trained users on Salesforce and Lync software applications.
+Setup of user profiles, roles and groups. In addition, processed reports and dashboards.
+Used a variety of tools and techniques to isolate, diagnose, troubleshoot, train and resolve software applications and network connectivity issues for end-users in a timely manner in compliance with service level agreement.
+Researched created and maintained monthly knowledge base articles for uploading to SharePoint server to streamline automated customer self-service solutions, both internally and externally.
+Collaborated with development team to test newly developed applications products to ensure quality in advance of general release. Processed monthly software deployments.
+Monitored network servers. Responded quickly to server down incidents and remediated to restore services. Assisted Systems Administrators with system backups utilizing Iron Mountain software.
+Tracked handling of support incidents through ticketing system, to include detailed resolution notes to support a knowledge base repository.
+
+Four Rivers Software Atlanta, GA - Remote
+Healthcare Software Trainer Nov 2010 – Jan 2012
+
+Facilitated instructor-led and onsite training for healthcare facilities utilizing a web-based Total Asset Management System (TMS) Customer relationship management (CRM) application utilized primarily within hospital for transition from paper-based records to an Electronic Health Record (EHR), Asset Management, billing, accounting, clinical Bio medical and plant engineering operations departments.
+Provided on-site and virtual training classes ranged from 8 hours to 40 hours of instruction depending on the topic and needs of the client. Class sizes ranged from 8 – 100, medical staff and facility end-user from various levels to utilize web-based and mobile applications. (Travel 65%).
+Delivered remote eLearning training services via Nefsis, WebEx or Adobe Connect using the Analysis, Design, Development, Implementation, Evaluation (ADDIE) model for training.
+Provided 1st tier call center application support and training to end-users to include software installs and upgrades. Responded to end-user’s issues and inquiries via phone, email, chat and remote PC to troubleshoot and debug client reported application hardware and software technical issues in timely manner.
+Manually performed data collection from legacy systems for conversion of data from various databases, reports and other documentation. Created, edited and repaired custom forms and reports.
+Augmented revenue by up-selling (3% commission) of on-site integration services and add-on software modules to clients.
+
+Xerox Atlanta, GA
+Sr. Technical Trainer Mar 2008 – Oct 2010
+
+Taught classroom hands-on training for proprietary Point of Sales (POS) proprietary auditing software to clients in U.S. and Canada (75% travel).
+Worked in multi-vendor environments and supported cross-functional project teams.
+Trained over 300 end-users per with varying levels of computer knowledge, skills and abilities to utilize web-based and mobile software products used primarily by airport operations and police.
+Delivered basic and advance training on the following 3rd party software applications: Windows 07 and Microsoft Office 2003, 2007 and 2010 (Word, Excel, and PowerPoint, Outlook, Visio) and Adobe Acrobat Professional.
+Developed and delivered instructor led eLearning training using ADDIE model for training. In addition, developed training manuals, training presentations, visual aids, online training sessions, training tips, and other educational materials.
+Designed Computer Based Training (CBT’s) software simulation using Adobe Captivate 5.5 and training DVDs sessions based on workflow process.
+Provided 1st Tier product support to fix problems in malfunctioning equipment or software via various channels: email, phone, chat or remote PC – WebEx.
+Created and prepared teaching aids such as course syllabus, class schedules, training guides, PowerPoint presentations, skill evaluation exams, registration forms, feedback forms and student training certificates.
+
+UPS Supply Chain Solutions Alpharetta, GA
+Logistics Support Specialist June 2005 – Mar 2008
+
+Created and managed over 3,000 import and export customer accounts through the supply chain from order placement to invoicing for UPS Supply Chain Solutions Flex Global View (FGV) Web based visibility system for global end-users.
+Assisted in resolving supply chain issues related to fulfilling customer orders that occurred at production phase shipping: air, ocean, truck or rail to warehouse storage point.
+Performed post-resolution follow-ups requests via email or phone. Documented over 200 daily end-user ticking issues via Remedy call tracking database.
+Collaborated with sales and cross-functional teams in supply chain operations (middleware, and development) to develop and implement service and cost solutions.
+Handled triage issues to resolve or escalate to appropriate technology services department such as development or middleware.
+Processed and extracted over 300 daily customer flat files from various data source systems such as Excel CSV and UNIX files to ensure correct data transmission feeds into SQL database.
+Wrote Standard Operating Procedures (SOP) manual for FGV end-users to streamline documents and make existing processes more efficient and effective.
+Developed expertise in software applications such as FGV Web Proprietary Application, SQL Database, Outlook, UNIX and Windows.
+
+EDUCATION
+
+Georgia State University
+BA Communications
+
+Keller Graduate/DeVry
+20 Post Graduate hours in Information Technology
+
+MILITARY
+
+United States Air Force
+Airborne Communications Operator
+
+Contact this candidate

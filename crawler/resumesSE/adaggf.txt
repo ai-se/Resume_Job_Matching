@@ -1,0 +1,76 @@
+
+PAUL DIETZ
+Greater Minneapolis/St. Paul, MN Area
+507-***-****
+adaggf@r.postjobfree.com
+www.linkedin.com/in/prdietz
+
+TECHNICAL PRODUCT SUPPORT ENGINEER
+
+A customer focused technical support engineer proficient in front & back-end operations, development and support with an excellent record of bringing projects in on schedule and within budget. Strong interpersonal, communicative, and organizational skills, intuitive ability to attain network, system, and hardware level solutions while maintaining excellent customer relations. Skills include:
+
+Analytical Skills Troubleshooting Process Improvement Problem Resolution
+Storage Compliance/Regulations Customer Service Project Management
+Collaboration Budget Management Project Lifecycle Operating Systems
+Documentation Incident Management Big Data Disaster Recovery
+TECHNICAL SKILLS
+
+Platforms: Windows 9x/NT/2000/XP/Vista/Windows 7/Linux/Open BSD
+Networking: LAN / WAN Administration, TCP/IP, Novell, 100BaseT Ethernet, VPN, Wireless,
+NFS, SMB, iSCSI, HTTP, FTP
+Administration Tools: UNIX, FreeBSD, VMware, Altiris Server, Norton Ghost, HP OpenView, Remedy,
+Microsoft Office Suite, Lotus Notes, Norton/McAfee Virus Protection Utilities,
+WebEx Remote Access, DameWare Mini Remote Control, Bomgar Remote
+Connections, LogMeIn Remote Connections, Citrix XenClient with XenDesktop, Citrix XenServer, VDI in box client, GoToMeeting & GoToPC, Juniper Networks, Odyssey Access, Pointsec/Checkpoint Media Encryption
+Directory Services: LDAP, NIS, ADS
+Familiarity: Bourne/Bash, Python, Perl
+
+PROFESSIONAL EXPERIENCE
+
+DELL EMC/Isilon, Plymouth, MN 4/2011 – 6/2019
+Product Support Engineer
+Collaborated with enterprise customers using award winning, bleeding edge scale-out NAS multi-petabyte storage arrays with massive throughput and processing capabilities.
+Resolved issues working with a team of engineers with very remote access to customer.
+Reviewed logs gathered from storage array to identify issues, isolate issue and resolve by working closely with the customer.
+Provided resolution by escalating creation/management including working with engineering.
+Technology Services Industry Association - Certified Support Professional I (CSP-I)
+Technology Services Industry Association - E10-001: Information Storage and Management Exam Version 3 (DCS-PE)
+Technology Services Industry Association - E20-655: Specialist - Platform Engineer, Isilon Exam (DCA-ISM)
+
+Paul Dietz 507-***-**** Page 2
+
+NASH FINCH, Edina, MN 3/2011 – 4/2011
+Desktop Support Analyst (Contract)
+Supported approximately 1000 internal customers supporting Citrix virtual desktop profile.
+Added new customer profiles to XenServer and configured with correct applications & server connections for the specific customer.
+Attached approved applications to appropriate groups for easy customer access.
+
+UNITED HEALTH GROUP, Golden Valley, MN 11/2006 – 12/2010
+Technology Support Analyst, (Contract)
+Supported company rationalization projects.
+Prepared legacy machines for migration by removing firewalls and installing Altiris client to meet deadline of approximately 65,000 computers.
+Installed, configured, provided troubleshooting of security software to secure company and client data per HIPAA regulations.
+Identified network issues, repaired or reported appropriately for resolution.
+Confirmed users’ notification post migration to ensure appropriate software installation with correct permissions.
+
+Mayo Health Systems, Rochester, MN 3/2002 – 11/2006
+Helpdesk Support Specialist
+Provided level 2 support for customers using various Windows based platforms from Win98 to Windows XP and Microsoft application packages.
+Assisted customer with install and setup Remote Access and a VPN connection.
+Supported customers in various Clinical Applications & assisted proper support contact for applications.
+
+ADDITIONAL RELEVANT EXPERIENCE
+
+Computer Systems Installer – Mayo Health Systems, Rochester, MN
+Certification Lab Administrator – The St. Paul Company, St. Paul, MN
+Corporate and Remote Helpdesk Support – The St. Paul Company, St. Paul, MN
+
+EDUCATION
+
+CDI COMPUTER TECHNOLOGY, Bloomington, MN
+Microcomputer Technical Specialist and System Network Administrator.
+
+BROWN INSTITUTE OF BROADCASTING, Minneapolis, MN
+Major - Broadcasting and Journalism.
+
+Contact this candidate

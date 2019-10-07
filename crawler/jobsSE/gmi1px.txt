@@ -1,0 +1,62 @@
+
+Title: Oracle Lead Engineer/Tech Manager
+Job Name: Oracle Lead Engineer
+Job Location: Secaucus, NJ
+
+Job Overview
+The Oracle Senior Engineer is accountable for proactively and holistically leading or supporting EA activities that create deliverables that guide the direction and drive targeted business outcomes. Oracle Senior Engineer role is focused on Architect, defining and implementing Oracle Cloud solutions addressing business requirements and priorities for the Oracle Domain & Fusion Cloud applications process area.
+In the context of a project, role reports into Director, Oracle Fusion Cloud Applications & Business Systems Architecture and partners closely with the stakeholders to ensure requirements are clearly understood, and translates these requirements into necessary application and technology components that meet the business need. This role is responsible for ensuring that their solutions meet both the functional and technical requirements outlined for the project. The candidate must have strong communication skills, full life-cycle experience as well as excellent skills in architecture and designing robust yet pragmatic solutions using Oracle Fusion Cloud SaaS/PaaS software. The candidate should possess project management experience in managing small to large teams which are geographically distributed.
+Scope of Activities
+• Work with Enterprise Architect peers (e.g., enterprise, business, information and solutions architects) to analyze and derive the technology architecture future state.
+• Coach, mentor and collaborate with technical subject matter experts and EA peers to develop technology architecture that enables and drives new business capabilities and operating models.
+• Oversee and facilitate the research, evaluation, and selection of hardware and software technology and product standards, as well as the design of standard configurations.
+• Collaborate with business constituents, other EA team members, project teams and staff in various IT functional areas as needed to fulfill the responsibilities described above.
+• Perform Architecture assessment analysis and provide High Level Design for requested changes.
+• Provide application/technology expertise within the assigned function including conducting In-depth quality reviews on design and testing.
+• Complete understanding of the SDLC and Change Management process.
+• Excellent interpersonal skills with the ability to meet common objectives through teamwork.
+• Excellent Problem Analysis, Customization design, Integration Testing, and System Testing.
+• Ability to meet and discuss with functional team users to identify opportunities for business improvement and to provide optimized solutions.
+• Primary technology liaison to the Business groups regarding application systems architecture landscape.
+• Coordinate cross functionally within IT teams to deliver Strategic projects.
+• Troubleshoot and diagnose complex business problems and recommend solutions.
+• Accomplish effort estimation of scope, provide Architecture guidelines & solution designs and recommend best approach for the business requirement.
+• Have In-depth application expertise for Oracle Cloud Order Management & Supply Chain and Other Business systems.
+• Review, recommend and influence 3rd party software solutions and adherence to technology standards.
+• Participate in requirement gathering and provide high level and detailed Architecture/Solution Designs.
+• Effectively resolve problems and roadblocks as they occur, consistently following through on details while driving innovation as well as issue resolution.
+• Collaborate with Program Managers, Developers, Testers and Production Support teams to implement innovative technical solutions via iterative approach reducing time to delivery.
+• Mentor development and support teams by guiding with SOA development standards/guidelines and insights into domain architecture.
+• Build and maintain the Current state, Interim state and Future state architecture views for the domain and enterprise systems - SOA architectures (Hybrid & SaaS approach).
+• Effectively collaborates across all delivery teams including Customer, Oracle team, System Integrators, Third Parties.
+• Responsible for the research, evaluation, and selection of application, technology, and infrastructure standards.
+• Creates project and technology roadmaps and define migration plans to mitigate the gaps between the current and future state.
+• Collaborates with IT stakeholders to apply IT strategy to architecture future state architecture and develops roadmaps to realize future state. Collaborates with project teams to understand requested capabilities and recommends the right set of technologies to meet the needs.
+• Provides infrastructure capacity recommendations for new applications and systems.
+Credentials and Experience
+• Bachelor's degree in Computer science, system analysis or a related study, or equivalent experience
+• Minimum of five years of Solutions design & Implementation experience in IT, with a deep knowledge in a minimum of two of the following technical disciplines: Solutions design, Application configuration, Application Integrations, Middleware Tech stack (On-Premise & Cloud), Servers and storage, Database management, and Operations.
+• Minimum of five years in the capacity of technical project management with ability to handle day to day project tracking, stakeholder management, team management and other SDLC activities.
+Skills
+• Experience managing medium to large size teams and projects through all stages of SDLC.
+• Experience handling geographically distributed teams across time zones (onshore an offshore)
+• Experience managing project schedules and project plans
+• Experience working with business stakeholders to report project status and raise risks at the right time
+• Prior Experience in Oracle SaaS/PaaS Cloud applications (Financials, SCM, GOP, OTC, DOO (Distributed Order Orchestration), PPM/EPM Suite and Architect the Process/Integration touch points using Oracle Fusion Middleware Techstack using Oracle API’s and FBDI).
+• Prior Experience in SaaS/PaaS integrations into Oracle Fusion Cloud applications.
+• Proficient in Functional concepts and understanding of Oracle Fusion Cloud SaaS Financials/SCM/PPM/EPM applications.
+• Understanding of the processing of EDI Transactions (using CMK & JusTransform) to and from our Suppliers, Customers, the integration of supply chain data to other applications and all SCM reporting needs.
+• Knowledge of Oracle Fusion Middleware Architecture and supporting technologies, defining services, establishing the service usage patterns within the enterprise including orchestration, composition, messaging patterns.
+• Prior experience with modern Middleware technology based architectures and supporting their implementation in a large technology eco-system.
+• Expertise in Integration technologies and coordinating work effort using Oracle Fusion Middleware (On-Premise & PaaS Techstack) Web Services.
+• Design, and implement Middleware solutions to accommodate cross domain integrations.
+• Experience in providing Architectural solutions for a Hybrid Integration approach using Oracle Fusion Cloud SaaS Applications and On-Premise Applications.
+• Conduct architecture assessments and define solutions to produce a detailed technical design document for custom development and integration requirements.
+• Provide integration solutions for new systems / enhancements in accordance with agreed architectural designs and provides development guidance to technical team.
+• Expertise with leveraging Oracle Fusion Cloud delivered Web Services/API's.
+• Ability to understand requirements and efficiently review the Functional and Technical documents. Ability to communicate the architecture & design changes as needed.
+• Experience with Oracle Fusion Cloud Security administrative functions - RBAC (Role Based Access Control).
+
+
+Go to apply 
+

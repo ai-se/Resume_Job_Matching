@@ -1,0 +1,40 @@
+
+Job Title - Product Security Engineer (DevSecOps)
+
+Length - 6 months, Temp to hire
+
+Location Palo Alto CA
+
+About -
+We are looking for a DevSecOps engineer who has 3-5 years of experiences with tools used for Static/Dynamic Security Code Analysis, 3rd Party Component Analysis, and container vulnerability management. The candidate will work with developers, product security team, and DevOps teams to design and implement DevSecOps practice and tools within Varian. Candidates with direct experiences with the following tools preferred: Coverity, SonarQube, BlackDuck, Protecode, TwistLock.
+
+In this role, the candidate will be responsible for cyber security hardening of radiotherapy products.
+
+More specifically:
+
+Provide input for system hardening and applying security standards during product development phase
+Support the scoping of comprehensive security assessments executed by 3rd parties (e.g. Product Penetration Testing), analyze and report results, and support the design of remediations
+Lead the design, set up, and initial configuration of CI/CD security tools: static security code analysis, 3rd party component analysis, vulnerability scanning and management platforms
+Perform continuous monitoring for new high-risk vulnerabilities of released products, triggering proactive actions when needed (security patching)
+Support the coordinated tuning of rule sets in security tools (e.g. static code analysis tool, vulnerability management tool) to meet product-specific goals
+Collaborate with and provide feedback to Product Security Office to ensure the relevancy and the value of the central governance mechanisms, tool sets, reference architecture, and other repositories
+Support the setup and update of the repository of 3rd party components used in Varian product(s); import/integrate the repository to supporting security technology platforms for subsequent vulnerability and risk analysis
+Provide hands-on technical support expertise in general SW development, system engineering, IT and networking as necessary
+Provide hands-on technical support for network firewall policies and troubleshooting network connectivity issues
+
+Desired -
+Involved with the CI/CD Pipeline
+great communicator
+strong understanding of security tools
+
+Best,
+Kushal Shah
+APN Software Service INC
+
+(Direct)
+
+Permanent
+
+
+Go to apply 
+

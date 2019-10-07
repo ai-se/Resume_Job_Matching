@@ -1,0 +1,107 @@
+
+Gregory Allan Blount
+* ********* *****
+Saint Peters, Missouri 63376-7000
+(636)-922-1423h (636)-387-3978c
+adaf0z@r.postjobfree.com
+
+QUALIFICATIONS: Certified Solidworks Professional. Excellent AutoCad background. Over
+25,000 hours total cad experience. Strong solid modeling ability with complex
+surfacing skills. Extensive AutoLisp knowledge. Excellent mechanical aptitude. Creative problem solver. Team player with strong communication skills.
+
+EDUCATION : St. Charles Community College
+Auditor / Lead Auditor Training for ISO 9000,
+IRCA Certificate Number A12436
+
+ITT Technical Institute
+Major: Computer Aided Drafting and Design Technology
+Degree: Associates (class valedictorian)
+
+Arkansas State University
+Major: Mechanical Engineering
+
+EXPERIENCE:
+COMPUTER AIDED MEASUREMENT SPEC., BOEING thru USTech Solutions 05/19 – 09/19
+Utilized Leica laser trackers, CMM arms, handheld laser scanners and ATOS Triple Scan 3d digitizing scanner to measure aerospace parts and assemblies. Used Verisurf 2018 to analyze the captured data and generate reports. Designed tooling fixture to improve measurement process using Unigraphics NX 11.0.
+
+DESIGNER, ATSI thru Belcan 11/17 – 10/18
+Piping design using Autocad 2016. PFD and PID creation created and maintained piping line lists and valve lists, equipment modeling and placement, created 3d piping estimation model of cellulose ethanol plant to be used for budgeting.
+
+CNC PROGRAMMER, JET AVIATION thru HSGI INC. 05/17 – 08/17
+Created 3d solid models of parts using Solidworks 2011. Created 3 and 5 axis CNC programs using Mastercam 2017 and X9 for C.R. Onsrud routers with OSAI controllers. Verified programs by operating routers to machine parts out of hardwood, plastic and aluminum for the aerospace industry.
+
+DESIGNER, EMR 03/16 – 04/16
+Piping design using Autocad MEP. PID modification and 3d piping for ammonia refrigeration systems.
+
+DESIGNER, HUSSMANN CORP. 05/15 – 10/15
+Solid Edge ST6 models, assembly and drawing creation. Windchill BOM creation and maintenance.
+
+TURNELL CORP. 02/15 – 05/15
+Inventor assembly, part and fabrication drawing creation for bulk material equipment and conveyors.
+
+DESIGNER, ESSEX INDUSTRIES 02/14 – 12/14
+Designed liquid oxygen tanks for the military and private sector using Solidworks 2014 and EPDM.
+
+DESIGNER, DUPONT MECS, INC. 07/12 – 07/13
+Created sulfuric acid plant piping isometrics using Bentley Autoplant Design V8i. Reviewed plant models for piping accuracy, accessibility and interferences using Navisworks Manage 2011. Created and revised piping P&IDs using AutoCad 2010. Modeled all 3D equipment, boilers, vessels, burners etc. using Bentley Autoplant and Autocad. Modeled 3D steel structures for equipment and piping support and maintenance access. Created vessel fabrication, structural steel layout and steel detail drawings using Autocad 2010.
+
+DESIGNER, M & K CHEMICAL ENGINEERING CONSULTANTS, INC. 11/10 – 03/12
+Designer, 3D piping, equipment modeling, piping drawings, structural concrete modeling and drafting using AutoCad 2011 and CADWorx 2010.
+
+DESIGNER, TITAN TUBE 07/10 – 11/10
+Product design and fabrication drawing creation using Solidworks 2010. BLM Adige LT712D
+CNC tube laser programming and CMM formed tube measurement to facilitate accurate bend programs.
+
+DESIGNER, BAUSCH & LOMB. 08/08 – 05/09
+Product design from concept to production drawings using Solidworks 2008, Cosmos Works and PDM Works. Documentum GDMS III (DCM 5.3 SP4) DCO author. Wrote product testing and data collection protocols. Power supply mechanical design, sheet metal enclosure design and detail, product lab testing and data collection.
+
+DESIGNER, TURNELL CORP. 06/08 – 08/08
+Cement plant layout modeling and drawing creation using Autodesk Inventor 2008. Sheet metal chute and ductwork design and associated detail drawings. Customer site visits verifying existing equipment, dimensions and clearances.
+
+DESIGNER, INNOVENTOR ENGINEERING, INC. 10/07 - 12/07
+Chain drive design, motor and reducer sizing and selection. Nema 4 sheet metal enclosure design, detail and model assemblies. Drawing and BOM creation using Solidworks 2008.
+
+DESIGNER, STEREOTAXIS, INC. 08/05 – 08/07
+Product and machine design, concept through implementation, Solidworks 2007 and Cosmosworks for part and assembly FEA. Controls packaging and cabinet design utilizing sheet metal models and detail drawings. Research and development and presentation.
+
+DESIGNER, INNOVENTOR ENGINEERING, INC. 08/04 - 06/05
+Designing wide range of products and components for various clients using Solidworks 2004 & 2005. Tasks include individual components, assemblies, BOM’s and drawings. Machined plastic and metal parts also molded plastic assemblies and machine design. Engineering support for Stereotaxis Niobe PM3.2 cost reduction project consisting of part and assembly design using Solidworks 2004 and PDM Works. Created and update BOM’s for aforementioned assemblies.
+
+DESIGNER, EPIC SYSTEMS, INC. 11/03 - 01/04
+Designed process piping skids using Solidworks 2004 with the Routing add-in. Modeled all equipment and components, creating design tables for applicable parts. Created all assemblies necessary to define fabrication processes. Created all component and assembly drawings to facilitate fabrication.
+
+LEAD PROJECT DESIGNER, ROESLEIN & ASSOCIATES 05/02 - 06/03
+Beverage container packaging plant layout and systems design. Responsible for entire plant layout, equipment and conveyance interfaces, foundation design, support platforms and miscellaneous steel design, some piping and cable tray. Project design completed in nine months.
+
+ENGINEER, ARCH CONVEYING 07/01 - 12/01
+Custom fabrication design of conveyor systems, special equipment and associated structures for the food industry. Utilized Autocad Mechanical Desktop and Solidworks to design and create 3D solid models and detailed shop drawings for sheet metal and welded assembly fabrication in shop. Created part nests for CNC plasma cutter. Worked directly with clients and vendors to fulfill client’s needs in a timely fashion. Installed and administrated in-house network which greatly improved office efficiency.
+
+DESIGNER / DRAFTER, DSI PROCESS SYSTEMS 12/00 - 04/01
+Utilized AutoDesk Mechanical Desktop 4.0 to model three dimensional piping assemblies, equipment skids and platforms for the beverage industry. Created a three dimensional block library of commonly used components based on vendor supplied specifications. Analyzed P&ID schematics to determine most efficient space and material utilization needed to create functional assemblies. Created
+drawings necessary to fabricate equipment, directed shop personnel in the fabrication of the aforementioned equipment, created BOM's and ordered parts and material required for fabrication.
+
+DESIGNER / CNC PROGRAMMER, CAMBRIDGE ENGINEERING 06/99 - 11/00
+Created CNC programs for Amada turrets and Trumph cutting laser. Created and maintained product BOM's in Excel, created Visual Basic routines to streamline this process. Redesigned existing make up air product line to eliminate 27% of the manufacturing cost by reducing the piece count, removing second operations and eliminating purchased parts. Documented existing product process times, created detailed summary of proposed changes, designed prototype and created animations for presentation to all affected departments and discussed issues or concerns. Implemented suggestions and created functional prototypes using SolidWorks 2000, this entailed modeling each fabricated sheet metal part and applicable purchased parts. Created forming drawings for the press brake operators, assembly drawings for manufacturing and exported dxfs to be programmed for the laser and turrets. Created Visual Basic routines for SolidWorks to automate the part marking process. Maintained "Problem Solver Report" database, suggestions or complaints filed by shop personnel were reviewed and implemented via an ECN process if deemed effective. Reduced number of open "PSR's" from over 35 to 0.
+
+DESIGNER / QUALITY ASSURANCE, SYNTEC, INC. 01/98 - 04/99
+Modify existing vitrectomy system component designs, create and revise part and assembly drawings using AutoCAD 13, updated and created BOM's in Microsoft Access, linked the Access database to the AutoCAD drawings using AutoLisp and ODBC. ISO 9001 implementation throughout the company infrastructure, writing operational procedures, manufacturing procedures and the quality manual. Maintain inventory of production parts, define purchasing requirements for production runs utilizing the Access BOM's, create purchase orders and order all necessary components. Receive and inspect incoming components and update inventory stores. Assembled subassemblies and final product, calibrate and trouble shoot finished product.
+
+DESIGNER / ENGINEER, HUSTLER CONVEYOR 10/96 - 01/98
+Designed bulk material conveyors primarily for the recycling industry. Utilized customer specification defining length and required loads. Created assembly and detail drawings in AutoCAD 13 and BOM's in Excel for various conveyors and equipment from a system layout drawing. Steelbelt, flatbelt, oscillators, stackers, large drum magnets and supporting structures, fabricated from sheet metal and structural shapes. Supported the shop during production and verified product after production. Designed and detailed chutes and hoppers for the various conveyor interfaces. Wrote AutoLisp routines to refine and improve the design and routine drafting procedures.
+
+CONSULTANT, 09/95 - 10/96
+Industrial Product Design utilizing 3DStudio Max 2.0 and AutoCAD Mechanical Desktop 1.0 to evolve functional and appealing product designs for the consumer products industry. Worked as a contract drafter / designer for various companies, Barnes - Jewish, and White Rodgers being two. At Barnes did HVAC and riser diagrams. White Rodgers drafting and design of a QC valve leak tester to be used in production. Novell network and computer hardware support for a diverse array of clients.
+
+DESIGNER / ENGINEER, SYNERGETICS, INC. 06/93 - 09/95
+Designer of Products and Tooling, Quality Assurance product and parts inspection, FDA Regulatory Compliance, 51Ok submission to the FDA for new product approval, Novell 3.12 Network Administrator, Purchasing Agent, Materials Requirements Planning Software implementation and maintenance, CNC Programmer (Citizen L16 Swiss Lathe), Customer Support, Software support for fellow employees on the following software packages Autocad R11 AME, Autocad R12 for Windows, Windows 3.1, Wordperfect 6.0, Alpha 4 relational database setup databases created reports wrote applications for general office bookkeeping, Word for Windows, Excel for Windows, First Design, Vellum, Truespace, Carbon Copy 6.0, Computer Hardware Maintenance troubleshot non functional PCs replaced hard drives, installed memory, video cards, power supplies, scanners, modems etc.. Created 3D solid models of finished products and renderings for marketing brochures and catalogs.
+
+CAD DRAFTER / DESIGNER, EAGLE ENERGY, INC. 10/92 - 06-93
+Design installations of Andover building automation and temperature control systems. Produced working drawings of equipment location relative to existing structure, created detailed wiring schematics of existing equipment's connection to automation control. Responsible for writing software to control installed systems. On site trouble shooting of existing installations.
+
+CAD DRAFTER / DESIGNER, SURGICAL TECHNOLOGIES INC. 11/90 - 09/92
+Designed parts and produced working drawings of various ophthalmology instruments. Prototyped designs using lathes, milling machine and surface grinder. Supervised drafting department. Implemented FDA compliant document control system. Analyzed software needs and reviewed packages for implementation. Principle inventor of an aspirating refluxing fluted laser delivery probe Patent number 5318560, current sales volume exceeds one million dollars annually.
+
+CAD DRAFTER, ARCORP LTD. 02/90 - 02/91
+Created commercial architectural workings, details, elevations, sections, ceiling and floor plans. Wrote lisp routines, script files, and modified both screen and tablet menus improving efficiency.
+
+Contact this candidate

@@ -1,0 +1,24 @@
+
+Details):
+Role & Responsibilities * Participate in development of C/C++ functional models for instruction accurate simulation
+* Develop C/C++ or SystemC functional models for micro-architectural blocks
+* Participate in the integration of functional block models to build a functioning system
+* Develop C/C++ or SystemC Cycle accurate models for micro-architectural blocks
+* Participate in integration of the Cycle accurate models to build a functional system
+* Develop tools and infrastructure needed to help analyze and maintain C/C++ models
+* Own the release management of the models
+* Participate in model correlation with RTL.
+* Migrate models to Industry Standard Tool
+
+Environments Qualifications/Experience/Skill Required
+* Fluency in C/C++
+* Familiarity with systemC is preferred
+* Familiarity with scripting languages like Python is preferred
+* Good understanding of general architecture and microarchitecture is preferred
+* Team player with excellent communication skills and desire to tackle challenging problems
+
+Permanent
+
+
+Go to apply 
+

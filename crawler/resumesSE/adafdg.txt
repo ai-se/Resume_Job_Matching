@@ -1,0 +1,50 @@
+
+Ayush Samarth
+864-***-**** adafdg@r.postjobfree.com in linkedin.com/in/ayush-samarth Greenville,SC Industrial Engineer with experience in automotive manufacturing, quality engineering, and lean optimization. My profile includes plant and customer quality engineering experience at ZF Group; Exposure in high volume manufacturing, transmissions, assembly and process improvement as a Quality Engineer coop. Skilled in problem-solving techniques, equipment design, process optimization, and waste reduction. Strategic planner and analytical person with a history of improving productivity, managing defect rate and maximizing efficiency. EDUCATION
+Clemson University Clemson, SC, US
+Master of Science in Industrial Engineering, Graduated May 2019 GPA 3.54/4.0 University of Pune Pune, India
+Bachelor of Engineering in Mechanical Engineering, Graduated June 2016 First Class CORE SKILLS AND COMPETENCIES
+Problem Solving Data Analysis Quality Assurance Lean Manufacturing DMAIC
+Process Improvement Kanban Poka-Yoke Continuous Improvement Pareto Analysis
+Quality Control DOE Kaizen CTQ PDCA
+PROFESSIONAL EXPERIENCE
+ZF Transmissions Gray Court LLC Gray Court, SC, US May 2018 – Present
+(Quality Engineer coop)
+• Achieved a 70% reduction in bearing damage failure using DMAIC-Six Sigma tool
+• Addressed the drag torque failure with a cross-functional team and achieved failure rate reduction of 96% (Shainin Red-X)
+• Achieved a cycle time reduction of 27%, mitigated downtime and attained a lean process for the assembly of a clutch pack
+• Performed Statistical Process Control (SPC) analysis, optimized tolerance limits and improved the overall equipment effectiveness (OEE) by 45%
+• Analyzed gear damage and developed action items to contain noise test failure in final assembly
+• Test station equipment modification by integrating a new sensor (POKA-YOKE) for improved traceability and quality control for the snap ring (8D)
+• Designed fixture using Creo with GD&T and fabricated a prototype to control free play in the installation of the sensor cluster unit
+• Achieved first time quality by designing an experiment (DOE) for factor study and developing a Poka-Yoke for the leak test failure
+• Performed internal audits for IATF-16949 Certification, verified control plan, and analyzed KPI’s to improve manufacturing performance
+• Investigated line issues, performed root cause analysis using 5-WHYs and developed corrective and preventive measure (CAPA)
+• Performed bottleneck analysis and standardized work by creating a standard operating procedure (SOP) for the gear assembly at rework
+• Assisted Sr. QE in the development of Advanced Product Quality Planning (APQP) Documentation, Measurement System Analysis (MSA), Validation and launch related customer Production Part Approval Process (PPAP) Nanda Engineering and Foundry Works Bhilai, CG June 2016 – June 2017
+(Manufacturing Engineer)
+• Introduced KANBAN and designed a POKA -YOKE to prevent the mixing of resins for sand mold
+• Identified potential root causes of core rejection and achieved a 34% reduction in rejection of core using Failure Mode Effect Analysis (FMEA)
+• Designed improvements for equipment to improve operator productivity and prevent core damage
+• Performed Layered Process Audits (LPA) on manufacturing processes to determine adequacy, capability, and conformance with customer specification and ISO-9001 requirements
+• Oversaw the production process and managed the production schedule Bhilai Steel Plant, SAIL Bhilai, CG June 2014
+(Trainee)
+• Training on production planning and machine load optimization
+• Introduction to Cycle counting and inventory management systems ACADEMIC PROJECTS
+Graduate Teaching Assistant Clemson University Jan 2019 – May 2019
+• Assisted professor for the coursework “Foundations in Quality” (Spring 2019)
+• Performed simulations for Design of Experiments (DOE), ANOVA and other statistical and quality tools Quality Assurance of Stamping process for automotive supplier CU-ICAR Jan 2018 – May 2018
+• Conducted DOE on the stamping process to reduce the percentage quality defect due to burr formation
+• Conducted Gage R&R on burr height measurement process
+• Performed statistical analysis to identify Key Performance Indicators (KPIs) affecting burr height
+• Improved stamping process capability from .98 to 1.5 Team Lead – Lean Six Sigma Project Clemson University Jan 2018 – May 2018
+• Managed a team of 4 for maximizing productivity
+• Data collection and analysis to prioritize improvement zones using value stream mapping (VSM) and Pareto Analysis
+• Developed strategies to optimize order cycle for perishable items and achieved a 13% reduction in annual waste CERTIFICATIONS AND TRAININGS
+Lean Six Sigma Green Belt 8D & Problem Solving A3 Continuous Improvement
+Failure Mode Effect Analysis APQP, PPAP, IATF-16949, ZFPS Statistical Process Control SOFTWARE PACKAGE
+Minitab MS Excel Auto CAD CATIA PTC Creo
+SAP Automation Studio Axalant MS Word MS PowerPoint
+SAS Power BI
+
+Contact this candidate

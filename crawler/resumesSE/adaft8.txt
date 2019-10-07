@@ -1,0 +1,292 @@
+
+Praveen Batchu
+Cell: 240-***-****
+Email: adaft8@r.postjobfree.com
+
+Objective:
+
+With around 15+ years of experience in system Administration and Bigdata Administration, Designs Hadoop architecture, installs the system and reports on progress, seeking for a challenging career in Hadoop eco system and Systems with a progressive organization which will utilize my skills and experience.
+
+Professional Summary:
+
+CDH (Cloudera) hadoop administration or maintenance
+Hortonworks HDP installation / support
+Supporting Haodop (Bigdata) stack
+Bigdata architecture planning
+Both major and minor upgrades to the existing CDH cluster
+Unix/Linux systems installation and configuration, mainly Red Hat Linux with advanced services, software and hardware raid, backup procedures and regular maintenance.
+RF and Core Network planning to site selection, installation, commissioning.
+Knowledge in Configuring Apache server 2.0, Mail Server, Samba Server, FTP server, SE Linux security, Kernel Performance Tuning and configuring Software RAID.
+Configuring DNS servers / creating virtual hosts.
+Working Experience on VMware ESX Server 3 and ESXi 4
+Strong knowledge on DHCP / PXE Kickstart installation
+Configuring Barracuda anti spam filter for both incoming and outgoing mails
+Implementing Open SSH based security for the Redhat
+Troubleshooting application server problems, connectivity issues, systems, DNS management, URL setup
+Updating Redhat / fedora systems using RPM and yum
+Installing Point to point connections (WAN), Establishing Point to multipoint
+Experience in Installing RFS cables
+IBM Tivoli Identity Management (ITIM, ITAM, WebSEAL)
+WebLogic server maintenance
+OPENTEXT CMS maintenance
+
+Technical Skills
+
+Hardware HP, DELL and Assembling of computers
+Operating System: Redhat Linux, Fedora, Centos, Windows server 2003, Windows 2008, Windows XP
+Directory 2000/2003, OpenLdap
+Web servers Tomcat, JBOSS, Apache – Integration with Apache
+E-Mail servers Zimbra collaborative suite, Qmail, Sendmail
+Virtual computing VMWare ESXi 3.5 / 4
+Monitoring Sysmon, MRTG, Nagios, Zenoss
+Database MySql
+Scripting Bash, Perl
+
+Education:
+
+Master of Science (MS-IT) from Stratford University
+Bachelor of computer Applications (BCA) from Nagarjuna University
+
+Certifications:
+
+RHCE: Redhat certified System Engineer
+Certificate number is 111-130-902
+https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-130-902
+
+Cloudera Certified Administrator for Apache Hadoop (CCAH)
+Certificate number: 100-012-641
+http://certification.cloudera.com/verify
+
+Professional Experience:
+
+Kaiser Permanente Oct 2018 - Present
+Pleasonton, CA
+
+Role: Lead Sr. Hadoop Administrator
+Founded in 1945, Kaiser Permanente is recognized as one of America’s leading health care providers and not-for-profit health plans. Expert and caring medical teams are empowered and supported by industry-leading technology advances and tools for health promotion, disease prevention, state-of-the-art care delivery, and world-class chronic disease management.
+
+Responsibilities:
+Installing and configuring POC / DEV / TEST and Prod clusters
+Support Informatica BDM environment integration with CDH
+Supporting SAS environment connecting to CDH
+Supporting Ansible environment for Hadoop clusters
+SSL support for high availability
+HAProxy setup for load balancing cloudera services.
+Support offshore and onshore teams.
+Cluster setup along with DR planning using datadomain
+Supporting Trifacta, Arcadia installations and upgrades.
+Solix common data platform archival tool, installation / upgrade / patching
+Build new clusters for migrating existing CDH cluster.
+Support Rstudio installation and modules support.
+Support day to day operations.
+Kafka cluster configuration along with sentry
+
+Fishbowl, Inc, March 2016 - Aug 2018
+Alexandria, VA
+
+Role: Lead Senior Hadoop Administrator
+Fishbowl helps restaurants leverage data to drive predictable sales growth. Fishbowl’s closed loop restaurant marketing SaaS platform is highly scalable and ingests data quickly from various sources, including email, SMS, social, online ordering, loyalty programs, reservations, and more
+
+Responsibilities:
+Installing and maintaining MAPR Platform
+MCS upgrade
+Configuring CLDB High availability
+Applying Mapr patches – manual process and MCS automated process.
+Upgrade MAPR 3.6 to 4.1
+Supporting and configuring drill.
+Performance tuning of Hadoop clusters and Hadoop MapReduce routines.
+Installing / configuring Talend
+Installing and managing linux servers
+Supporting HBASE
+Managing spacewalk for patch management for centos
+Supporting physical hardware installations in DataCenter
+Supporting migration of Hadoop cluster to AWS.
+Supporting offshore and near shore hadoop developers.
+Working with data delivery teams to setup new Hadoop users.
+Setting up Linux users, setting up Kerberos
+
+Fannie Mae, June 2015 – Feb 2016
+Reston, VA
+
+Role: Lead Senior Hadoop Administrator
+Fannie Mae is supporting today's housing recovery and helping to build a sustainable housing finance system
+
+Responsibilities:
+Installing Hortonworks (HDP 2.3.2.3) stack
+supporting knox
+creating / supporting kafka ACLs
+Supporting deployments in storm.
+Creating HBase tables and supporting
+Installing HDP cluster using blueprints
+Rolling upgrade of HDP minor versions
+Training new hires of the complete setup
+Performing network IO activities using iperf
+Collecting and aggregating large amounts of log data using Apache Flume and staging data in HDFS for further analysis Familiarity with network layout and setup
+Rack configuration in Hadoop cluster based on Availability zones
+Participated in development and execution of system and disaster recovery processes.
+Operational support services relating to Hadoop infrastructure and application installation.
+Configured security with Kerberos
+Provide training and managing Hadoop team.
+
+CACI International June 2013 – May 2015
+Chantilly, VA
+
+Role: Senior Hadoop / Linux Administrator (MIDAS – Obamacare project)
+CACI provides information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers.
+
+Responsibilities:
+Fixing security audit changes on Linux servers
+Supporting windows 2008 R2 servers
+Cognos / SAS support for installation requests on Linux servers
+Jboss-ews and jboss-eap maintenance and installation
+CAS integration with AD jboss servers
+AD integration with Linux
+Java tuning / heap size settings for custom mapreduce jobs
+Cloudera hadoop installation
+Cloudera Hadoop Upgrade from 4.3 to 5.2.4
+Cognos / informatica support
+CDH5 tuning
+Cloudera hadoop Operations support for day to day activities
+Supporting Hadoop eco system with hive / sqoop / hue jobs
+Implementing Kerberos for authorization
+Content pump jobs from oracle to hive and hive to oracle
+Support Erwin data modeler setup
+
+National Education Association
+Washington, DC Nov 2011- May 2013
+
+Role: Senior Linux System Administrator
+The National Education Association (NEA), the nation's largest professional employer organization, is committed to advancing the cause of public education.
+
+Responsibilities:
+Installing / configuring RHEL (Redhat Enterprise linux) 5.x, 6.x
+Supporting WebLogic servers and deployments
+Supporting VmWare installations
+Preparing Operational Run books
+Supporting OpenText CMS architecture
+RedHat Package Management
+Tomcat / JBOSS installation and support
+IBM Tivoli Identity management services, hands on experience with installation of ITIM, ITAM, WebSeal and DB2 - Basic knowledge
+Install / configure IBM WebSphere servers
+Hands on experience on HP Data protector backup / restore utility
+Search engine support of Verity and Google analytics
+Installing / Supporting Jira / confluence
+Supporting Linux environment for disaster recovery environment
+
+Synacor,Inc
+Buffalo, NY
+June 2010 – Oct 2011
+
+Role: Senior Linux System Administrator
+
+Simply put, Synacor provides best of breed technology solutions designed to enhance ISPs’ relationships with their customers. As a global technology company, focused on providing innovative and flexible products, Synacor is supported by a wide variety of services and trusted technology.
+
+Responsibilities:
+Building / configuring Centos Systems using Kickstart
+Centos environment with over 1000+ servers
+Supporting day to day operations for the development team
+Supporting VmWare installations
+Monitoring servers on 24x7 basis on a shift turnover
+Taking necessary actions as per the Groundwork (nagios) alerts
+Supporting HP ILO software for 1000+ HP blade servers
+Support LAMP environment
+Installation / upgrading servers using PXE boot
+Preparing Operational Run books
+Supporting Heartbeat services
+Installing / Supporting Jira / confluence
+Supporting DNS servers
+Taking care of all hardware related issues
+Implementing OPENLDAP custom schema and support
+Package Management
+NIC Bonding, Multipath
+Maintaining several environments using Puppet
+Supporting VMWare esxi4.x
+Disk Partitioning
+LVM, NFS support
+
+Hewlett Packard (HP)
+Frisco, TX June 2008 – April 2010
+
+Role: Linux System Administrator / Mail Server Administrator
+
+Comcast is one of the biggest customer to HP hosting around 24 million email accounts which I am part of the team for managing such a big account. Around 1500 blade servers in network which is very huge for management and new technologies like Zimbra collaboration suite for data storage and Bizanga for SMTP / LMTP connections.
+
+Responsibilities:
+Customer support service calls through OVSD
+Installation / upgrade ZCS (Zimbra collaboration suite)
+Monitoring servers on 24x7 basis on a shift turnover
+Taking necessary actions as per the nagios alerts
+Responsible for Zimbra installations / configurations / monitoring
+Responsible for LDAP queries modifications
+Supporting E-Mail problems, customer queries
+Monitoring of 1500 HP blade servers
+Usage of Bugzilla for bugs tracking
+Upgrade and Monitoring Bizanga servers used for IMTA / OMTA / QMTA
+Supporting Redhat enterprise Linux 4 / 5
+Support HBA for SAN admin
+Installation / upgrading servers using PXE boot
+Writing documented procedures for the work
+Supporting windows 2003 servers
+Supporting netbackup tool for backup / restore
+Supporting clustering services
+Patching Linux through RHN
+Supporting SAN related queries on Linux
+
+Benson Informatics ltd, Dar-es-salaam, Tanzania May 2004 – Dec 2007
+Role: Wireless Network Administrator / Redhat Linux 3.0 / clients support
+
+http://www.bol.co.tz
+Pioneer of true wireless Broadband Internet service provider in Tanzania with first and only commissioned Nomadic Internet setup in Dar-es-Salaam and Arusha. With around five thousand customers.
+
+Environment: Qmail servers, Navini system, Redhat Linux 3.0
+
+Responsibilities:
+Maintaining Qmail-servers, supporting over 3500 customers and their pc problems on Linux
+Configuring of DNS services one master and other slave in different zones on Linux
+Involved in configuring VPN servers. Establishing point to point Non Line of site (NLOS) from our towers located in different places all over the city to NOC.
+Scheduling MySql backups as a part of system administration and restore into different system
+Planning, Installing and sweeping RFS cables for Navini BTS.
+Deployment of barracuda anti-spam and TrendMicro anti virus
+Installation of BTSs in Arusha and Dar-es-salaam, Tanzania.
+Installing windows 2000 server for EMS (Element management system) which monitors different BTSs from a single point of place
+Configuration of Asterisk open source PBX system for the office use
+Upgrading / refreshing / CPEs (customer premise equipments)
+Establishing point to point links from sites to NOC which works as a Bridge
+Establishing point to multipoint links from NOC to different clients / sites
+Periodically taking backups of EMS server and restoring in backup server
+Troubleshooting cisco switches at NOC and assigning vpn’s for each site
+RF and Core Network planning to site selection, installation, commissioning.
+Subscriber support to system maintenance and network optimization
+Maintaining and configuring print server which serves around 6 printers from a single print server for different purposes at office.
+Establishing VPN servers at clients place for there developments
+Providing host-based system security using IDS.
+Implementation and maintenance of Openssh.
+Working on Ticket server and resolving the tickets on priority basis.
+
+GHENSoft (INDIA) Private Limited, Hyderabad, India Oct 2001 – April 2004
+Role: Network Administrator / System Administrator
+
+http://www.ghen.net
+GHENSoft is a software solutions company with a global outlook, most reliable support in Software Applications industry, 24/7, 365 days.
+
+Environment: Linux server, network cabling and network setup
+
+Responsibilities:
+Involved in Setup of Systems LAN and Linux Server as FTP Server and Responsible for maintaining the LAN comprising of Windows XP/98/ME Servers and Clients.
+Sendmail support for testing applications
+Managing Redhat 9.0 for virtual hosting configurations and cobalt, plesk servers
+Providing the Windows and Linux Connectivity using Samba. Maintaining and trouble shooting the Hardware problems.
+Managing around 30+ computers LAN and their desktops software and hardware.
+Configuring Tomcat server for JSP support on apache web server
+Configuring apache web server on Redhat Linux server for sub domain support for developing applications
+Installing / managing CVS (concurrent versions system) on Redhat 9.0
+Setting up Mdaemon with 200+ clients.
+Qmail server configuration from open source for the support of clients mailing lists and mails and using webmail as squirrelmail
+Monitoring tools to check what services are down using open source tool like sysmon. Ecartis Mailing list configuration for different customers as per different types of requirements.
+Maintaining and Configuring Virtual Hosts on different webservers.
+Configuration of DNS servers located remotely and maintenance.
+Configuring NFS server, NIS Server, CVS Server
+Configuring VSS on Windows
+Scheduling backups by rsync from hosting servers and mail servers to backup servers.
+
+Contact this candidate

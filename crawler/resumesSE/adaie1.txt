@@ -1,0 +1,94 @@
+
+* ** *
+Velislav R. Marinov
+Curriculum Vitae
+Profile
+10+ years of experience with Dynamics AX and ERP
+* ****-***** *** ***************
+Technical experience with X++, C#, SQL server
+Good analytical and problem-solving skills
+Scrum, ITIL, Software architecture, Continuous Integration
+Good communication skills
+Professional Experience
+Technical Consultant – Dynamics AX 2012 R2 & R3
+Hexcel Corporation
+September 2017 – Present
+As a member of a cross-functional team I was involved in the design, development and enhancement of Dynamics AX and its bespoke sub-systems and integration layer. My main focus was the design and implementation of various automation and integration projects including the EDI messages for e- Invoice, ASN, and the upgrade of the Spanish tax integration to version SII 1.1. I’ve also championed the introduction of automated unit tests and I take pride in having achieved 100% code coverage for the e-Invoice message broadcast. I also worked closely with the BA and support teams on the development and continuous integration of various enhancements in the following functional areas: Production, Intercompany, MRP, Quality, Finance, AR & AP, etc.
+Additional experience & technologies used:
+• Workload planning, user story decomposition, task estimation, continuous improvement
+• Delivery of hot-fixes in coordination with ISVs and Microsoft
+• Worked closely with the DBA on performance-tuning and database growth management
+• TFS/DevOps, AIF, WCF, .Net, C#, SysTest framework, SoapUI, IDMF, PowerShell
+• Porini A&T, Process manufacturing, SEPA, EDI, Retail, BizTalk, LogicApps
+• Upgrade from AX 2012 R2 to R3
+• AX2XML, RFSmart, Labeling & Barcoding, Hand-held device integration, Automated builds Senior Dynamics AX Developer - Dynamics AX 2012 R1 & R3 Sapa Group AB (now Norsk Hydro)
+March 2012 – September 2017
+With 2000+ users across multiple locations in Europe, NA, and Asia, this was one of the biggest Dynamics AX end-users at the time.
+My main responsibilities:
+Coordinated the delivery and development in the Pricing, MFG, Quality, and Planning areas
+Design of technical specifications (TDDs)
+Lead the delivery of custom RF module - based on the standard WHS/BHS mobile framework
+Design & implementation of custom modules for Capacity Management (CTP), Quality, and Pricing
+On-site support during roll-outs
+TFS Version Control – Branching, Merging, Automated builds, and code promotion to CRP/UAT/PROD
+Root-cause analysis and remediation of issues on PROD/CRP/UAT etc.
+Development of detailed action plans for handling P1 incidents in PROD
+Worked closely with MS engineers on a number of kernel and application issues 2 of 3
+Additional experience & technologies used:
+TFS, SQL Server, Visual Studio, C#, AIF, BizTalk, EDI, PowerShell, SharePoint, SSRS, LCS
+Performance tuning and profiling, Client-Server optimizations, SCOM
+Master Planning, Production & Quality, Logistics (WMS & TMS), T&L, GL, FA, Projects
+Scrum, SDLC, ITIL
+ISV Solutions: Pulse, Dynamic Software - Production Maintenance, BHS WAX/TRX, Transform Software Engineer
+Intelligent Systems Bulgaria Ltd.
+December 2009 – February 2012 (2 years 4 months)
+I lead a small team of developers during 3 full-cycle implementations of Dynamics AX 2009 for customers in the manufacturing, apparel, and construction businesses. Main responsibilities:
+Design of technical specifications from functional requirements
+Time estimation of FRD items and pre-sales requirements
+The Bulgarian localization for AX 2009 and AX 2012
+BI, Data migration, Integration with external systems
+Administration, installation, and support of all Dynamics AX instances
+AIF, Production, MRP, GL, IM, PA, AR, AP, FA, CRM, Porini A&T etc.
+Merging ISV solutions with the GLS layer for Eastern Europe
+Training, knowledge transfer, mentoring junior team members
+Mobile applications and handheld devices
+Dynamics NAV 5.0/6.0
+Sr. Dynamics AX Developer
+Business Software Solutions Ltd.
+December 2007 – December 2009 (2 years)
+I led a small team of 2 Dynamics AX developers during the implementation of Dynamics AX 4.0 at Paraflow Communications.
+My main responsibilities included:
+Core X++ development of new functionalities and customizations of the standard system
+Data-migration and administration
+Development of KPI dashboards with QlikView
+I also gained additional experience with:
+GL, IM, AR, AP, and PA, CRM
+Code review and creation of Technical Design Document Software Developer
+Paraflow Communications
+July 2007 – December 2007 (6 months)
+Worked on some of the company's projects in the banking sector. My duties included writing Web services, SQL stored procedures, SharePoint web-parts. I also helped with uplifting the internal warehouse management system.
+3 of 3
+Certifications
+Microsoft Business Management Solutions Professional – Developer
+Microso Dynamics™ 2009 Development Introducon
+Microso Dynamics™ 2009 MorphX Soluon Development
+Microso Dynamics™ 2009 Installaon and Conﬁguraon
+Microso Dynamics™ 4.0 Development Introducon
+Microso Dynamics™ 4.0 MorphX Soluon Development
+Microso Dynamics™ 4.0 Enterprise Portal Development
+Microso Dynamics™ 4.0 Installaon and Conﬁguraon
+Microsoft Certified Technology Specialist:
+Microso® SQL Server™ 2008 - Implementaon and Maintenance
+Microso® SQL Server™ 2008 - Database development
+Microso® SQL Server™ 2005 - Implementaon and Maintenance Scrum Alliance – Certified Scrum Master
+Languages
+Bulgarian Native speaker
+English Fluent
+Spanish Fluent
+French Basic
+Contact information
+Mobile +44-770*-***-***
+Linked-in https://www.linkedin.com/in/velmar/
+E-mail adaie1@r.postjobfree.com
+
+Contact this candidate

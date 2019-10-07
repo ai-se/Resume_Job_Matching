@@ -1,0 +1,49 @@
+
+e-Xstream is looking to hire a Senior Project Engineer to act as project lead for successfully coordinating and executing services projects specifically focused on advanced and challenging composite modeling topics. Services projects will typically last between a few weeks to few months; in some instances projects may stretch over the course of a few years. The engineer will serve as primary liaison between the Professional Services department and the client.
+
+The engineer shall be located in the US ideally work out of a MSC Software local US office, home office might be possible and have US citizenship in order to perform ITAR projects. The position is to be filled immediately. Main Responsibilities
+Analyze customers/prospects needs, define and apply or develop the adequate modeling strategy, promote the Digimat technology wherever applicable. Typical projects are a combination of some or all of those tasks:
+Act as project lead to successfully coordinate and execute services projects.
+Elaborate new modeling methods (e.g. additive manufacturing, 3D wovens, CMCs, SMCs).
+Execute virtual testing studies.
+Coordinate test campaigns, analyze test data and calibrate material models.
+Prepare finite element models (FEM: mesh, loads and BCs) of various structural parts.
+Perform structural FEA, assist customers designing and validating plastic parts.
+Manage project schedule, communication and reporting with customers and partners.
+Monitor progress of consultants toward task completion and report progress.
+
+e-Xstream engineering, part of Hexagons Manufacturing Intelligence division, is a software & engineering services company 100% focused on the multi-scale modeling of composite materials & structures. We help our customers, material suppliers and material users across various industries (Aero, Defense, Auto, E&E), to
+
+Reduce material testing and prototyping;
+Investigate and predict the behavior of a large mix of composite materials;
+Improve prediction of structural FEA by accounting for manufacturing process;
+Design & manufacture innovative high-performance composite parts
+Minimize weight, cost and time-to-market of optimal composite industrial parts
+Test composites and calibrate Digimat material cards for targeted performances and applications;
+Act as project lead to successfully coordinate and execute services projects.
+Elaborate new modeling methods (e.g. additive manufacturing, 3D wovens, CMCs, SMCs).
+Execute virtual testing studies.
+Coordinate test campaigns, analyze test data and calibrate material models.
+Prepare finite element models (FEM: mesh, loads and BCs) of various structural parts.
+Perform structural FEA, assist customers designing and validating plastic parts.
+Manage project schedule, communication and reporting with customers and partners.
+Monitor progress of consultants toward task completion and report progress.
+Requirements
+Minimum of a bachelors degree in Material Engineering, Mechanical Engineering, Aeronautical Engineering, or equivalent. Advanced degree preferred.
+Ideally 5 years + of experience in the field of composites, doing either material or structural engineering.
+Strong background on plastics &/or composite materials, ideally familiar with material modeling.
+Experience with hot topics such as additive manufacturing (3D Printing), CMCs, SMCs is a clear plus.
+Knowledge of finite elements, experienced with preparing and solving nonlinear FEA.
+Think out-of-the-box, ability to bounce back and be force of proposition.
+Looking for a rigorous, structured and autonomous engineer thrilled by new challenges.
+Excellent interpersonal, verbal and writing skills for client liaison, proposal preparation, project planning, report writing, and presentation of results.
+Strong project management skills.
+Benefits
+Position in a highly qualified and dynamic team of material and numerical modeling experts
+Actively lead and execute leading edge composite modeling projects, opportunity to tackle new challenges on a daily basis and to continuously learn about composites materials, parts, processes
+Performance-driven career progression in a company leading the composite modeling world
+Attractive salary package
+
+
+Go to apply 
+

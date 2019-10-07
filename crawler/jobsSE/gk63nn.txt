@@ -1,0 +1,37 @@
+
+Devops Engineer
+Milford, MA
+
+We are currently seeking someone with a passion for automation to work with our DevOps team in a collaborative and agile environment where
+team members are empowered to innovate and continually improve.
+
+Responsibilities:
+Responsible for setting up monitoring dashboards, alerts, log management for our C/I & C/D infrastructure
+Strong understanding of the inner workings of Kubernetes so they can be expanded specifically for our C/I & C/D usage
+Develop and deploy software using Kubernetes.
+Participate in the development of a common build infrastructure written in Python
+Administering, maintaining, and troubleshooting build infrastructure
+
+Qualifications
+B.S. or higher in Computer Science (or similar field) or equivalent combination of education and relevant work experience
+5+ years of hands-on with Enterprise software development process
+Proven record of working with Kubernetes
+Strong knowledge of Docker technology
+Extensive knowledge of UNIX shell and Linux
+A sense of urgency towards supporting software development efforts
+Full life-cycle experience (design through delivery and support), Developing and improving CI/CD standards, practices, and procedures.
+
+Additional qualities to this role:
+Experience with the Atlassian Suite: Bamboo, Confluence, BitBucket & Jira
+Knowledge of Ansible and Terraform
+Have worked with multi-platform architecture
+Ability to work independently and cross-functionally
+Ability to communicate clearly and collaborate across different levels of the business locally and worldwide
+regards
+poornima
+
+Permanent
+
+
+Go to apply 
+

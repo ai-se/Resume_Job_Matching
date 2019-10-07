@@ -1,0 +1,96 @@
+
+(PALARAMAN.B)
+Email:adahqt@r.postjobfree.com
+Mobile:+919*********,638*******
+CAREER OBJECTIVE:
+To work in a challenging environment demanding all my skills and efforts to contribute to the development of organization and myself with impressive performance.
+Area Of Expertise:
+SCADA Development using SIRIUS 5.1, an Integrated Development Environment and Process Management Tool.
+Commissioning, Integration & Testing of Remote Terminal Unit
+(HUSKY 6049-E70)
+Basic knowledge Rockwell PLC Compact Logic.
+SCADA FT-VIEW, Connected Component Workbench.
+Basic Knowledge of MODBUS, IEC 60870-101/103/104Protocols.
+Electronic Data Communication through RS485 / RS232 modes, Ethernet.
+Making Documentation works regarding projects such as Factory Acceptance Tests (FAT), Site Acceptance Tests (SAT), Internal Test, Functional Designs, Reports.
+Knowledge of MS OFFICE Tools.
+Knowledge of networking, and OFC communication.
+Professional Experience:
+Current Employer: SYNERGY SYSTEMS & SOLUTIONS, Faridabad, India Position: SCADA AMC ENGINEER
+Experience: 4
+th
+dec 2017 to till present.
+Company Profile:
+Execution of turnkey projects comprising of Master Control Centre, Remote Terminal Units, Programmable Logic Controllers and Field Instruments. The company holds credit for the make of SCADA Software named SIRIUS and RTU Hardware named HUSKY 6049-E70. The Company scope of work includes System Study, Design, Detailed Engineering, Testing, Supply, Commissioning, Integration, Warranty &Maintenance. Company Clients:
+INDIAN RAILWAYS, DMRC, IIT-KANPUR, POWER GRID, GAIL, BHEL, UPPTCL, BRPL
+(Reliance), TATA POWER, SIEMENS, NPCL, 0GETCO, TORRENT POWER and others. Training and Experience:
+Projects Undertaken:
+Project Name: PROVISION OF SCADA SYSTEM FOR CONNECTING ALL SUBSTATIONS AVAILABLE IN ICF. Installation and Supply & Commissioning of 3 nos. of RTU and 24 nos. 11KV VCB in INTEGRAL COACH FACTORY(ICF) Chennai, on IEC104 protocol.
+Responsibilities: AMC of SCADA (Server,FEP,HDS) and 3 no of RTU & Transfer RTU data to Control Centre over IEC 104 Protocol on OFC(Optical Fibre Cable). EDUCATIONAL QUALIFICATIONS:
+COURSE
+INSTITUTION
+NAME OF
+THE
+BOARD
+YEAR OF
+PASSING
+% OF
+MARKS
+B.E(EEE)
+AAA college of Engg And
+Technology,amatur
+virudhunagar.
+AICET
+Mar 2017
+CGPA 6.3
+DIPLOMA
+Government
+polytechnic college,
+Theni.
+Directorate of
+Technical
+Education,
+Chennai.
+2014
+76.46
+HSC
+M.N.M.S.P.S Hr.Sec
+school,
+Mallanginar.
+State board
+2011
+56
+SSLC
+M.N.M.S.P.S Hr.Sec
+school,
+Mallanginar
+State board
+2009
+73.6
+TECHNICAL QUALIFICATION:
+Obtained Industrial Plant Automation Engineer (IPLAE) from Technocrat Automation Pvt Limited (IAO Accredited), Chennai. With 3 months hands on practical experience in Industrial Automation Tools specializing in PLC, DCS, SCADA and VFD.
+TECHNICAL SKILLS:
+PLC (Programmable Logic Controllers) & DCS (Distributed Control System) - Programming languages such as LD(Ladder Diagram) & FBD (Functional Block Diagram)
+Hands on Practical exposure in brands as Siemens, AB (Allen Bradley), ABB
+(Asea Brown Boveri), GE-Fanuc, Keyence, Omron.
+SCADA (Supervisory Control & Data Acquisition) – Screen designing, PC & PLC interface, Data collection & storage
+HMI (Human Machine Interface) - Screen designing, PLC interface, DCS interface
+VFD (Variable Frequency Drive)–Commissioning and Troubleshooting
+Pneumatics & Field Instruments ( Control Valve, Sensors, Level Transmitters, Flow Transmitters, Temperature Transmitters, Pressure Switches)
+Knowledge in Panel wiring
+Troubleshooting – PLC & DCS programming
+- Control Panel (Power wiring & Control wiring.
+PERSONAL PROFILE:
+Father’s Name : V.BALA GURUMOORTHI RAJ
+Date of Birth : 20-06-1994
+Gender : Male
+Marital Status : Unmarried
+Passport Number & Validity : R4707223 & 5/09/2027
+Language Known : Tamil, English,Hindi,Telugu
+Address : 6/79,solaigoundanpatti,
+Virudhunagar (dt)-626001
+DECLARATION:
+I hereby declare that the above particulars furnished by me are true to the best of my knowledge and belief.
+Place: Chennai (PALARAMAN)
+
+Contact this candidate

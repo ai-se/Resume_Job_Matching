@@ -1,0 +1,17 @@
+
+With offices all over the World, Vistatec is growing fast as the demand for global content increases.
+We are always looking for motivated, innovative and hardworking individuals to build on our success.
+People that join our global team get to share in our reputation of being a Globalisation industry leader, second to none when it comes to technology, reliability and customer experience.
+We work with some of the World’s most admired organisations and our people get to play a part in their success, as we make it possible for them to bring their products and services to global markets quicker than ever before.
+At Vistatec, we promote an environment of creativity, innovation and collaboration and we are passionate about customer service.
+Our people get to work with cutting edge technologies, process optimising workflows and an organisational culture that knows no boundaries.
+We work hard and are rewarded well.
+We enjoy flexible work practices allowing us to serve our global client base to the highest standards whilst maintaining a healthy work life balance.
+We are proud to have one of the highest staff retention rates in the industry.
+This role will suit someone looking to join a dynamic and progressive Company where you can learn, grow and succeed.
+The Role The Localisation Software Engineer will work as part of a cross functional group within the Technical Operations Team to ensure the timely delivery of high-quality software products to our international customers.
+Main Duties & Responsibilities Source file analysis to identify localisable content and troubleshoot potential problems early in the software development life cycle Translation kit preparation and processing both manually and through translation workflow systems Bug fixing of software UI and functionality issues including root cause analysis Create and optimise processes to increase efficiency, improve quality and reduce/eliminate human error Prepare, compile, validate and finalise project deliverables Author and maintain project documentation adhering to the Quality Management System standards Requirements 3+ years’ experience in a software localisation engineering role Strong practical knowledge of CAT / TM tools such as Catalyst, Worldserver, XTM, Trados and Passolo or other similar localization platforms Ability to script, and create automation to aid processing and management of content Experience with file management and version control systems such as SCM, SVN and GIT Experience with various file formats and mark-up languages including XML, HTML, JSON, properties & resx Practical knowledge of multibyte character sets, Unicode and RTL languages Be proactive, with very strong problem solving & organisational skills Excellent communication skills as you will be working at peer level with our customer’s teams Ability to work with and manage remote/virtual teams Strong ability to multitask, prioritise, and work independently with minimal supervision Be flexible and adaptable, to be able to work in a variety of roles in a rapidly changing environment Advantageous Skills Programming skills – C#, VBA, Python, RegEx, Powershell, PHP, Javascript SQL and relational database experience Fluency in languages other than English Knowledge of multiple operating systems including Windows, Linux, Android and iOS including client/server environments Experience with UA/Help compilation system engineering tools Experience with multimedia applications such as Articulate 360, RISE and Adobe Captivate
+
+
+Go to apply 
+

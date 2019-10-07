@@ -1,0 +1,87 @@
+
+ROBERT COOLEY
+adai0v@r.postjobfree.com
+573-***-****
+
+SUMMARY
+I have extensive experience successfully completing large projects as a Senior Developer at major corporations using Microsoft development tools in a Windows environment. I enjoy the productivity of a full-featured development environment with the best debugging tools in the industry. I am seeking a Windows developer position based on the .Net technology stack.
+
+KEY SKILLS
+Visual Studio – VB.net
+ASP.Net Webforms
+SQL Server
+Microsoft Windows (desktop and server)
+Win32 API
+
+EXPERIENCE
+
+2/2019 to VoestAlpine-Rollform Corp Shelbyville, KY
+9/2019 Application Developer (VB.Net/Asp.Net Webforms)
+Converted Purchase Quote Estimating System from Silverlight/WCF to Webforms.
+Converted several apps from VB6/Crystal reports to Webform reports.
+
+1/2009 to MONTGOMERY SOFWARE Lawrence, KS
+12/2018 Application Developer (VB.Net)
+Developed an image viewer for the FBI featuring multi-threaded image decompression and a video viewer with quad pane playback.
+Co-Developed Truly-Mail, a secure email alternative.
+
+4/2004 to THINK GEO Dallas, TX
+10/2008 Application Developer (VB.Net)
+Created the Windows-Phone and 64 bit versions of the companies core Map components and added support for additional data formats and coordinate systems.
+Created the GeoCoder product which converts street addresses into GIS coordinates.
+Created Raster-USA, a pre-rendered data-set with 1 mile square pixels with dozens of attributes for the continental US.
+Built a “Designer” allowing end users to add map layers, and edit their attributes (ie, add highways, then make them black and 5 pixels wide). Map designs could be exported in VB.Net, C#, or XML formats. This small project increased sales over 20%.
+Hundreds of mini-projects for customers.
+
+3/2002 to SECURITY BENEFIT GROUP Topeka, KS
+7/2003 Application Developer (VB6 / VB Script, SQL Server - 30 users)
+Project Lead for EasyPay, an intranet application to track retirement account deposits for 30% of the teachers in the USA.
+Integrated EasyPay with existing securities purchasing systems.
+Extracted the last remaining data from an AS-400 allowing it to be decommissioned. ROI on the new version was only 2 years due to savings on maintenance fees.
+
+9//2000 to DELL COMPUTER Round Rock, TX
+2/2002 Application Developer (VB6 / MTS / MSMQ / SOAP / XML / ADO / Oracle 8)
+Stabilized and enhanced Speedway, a mission critical factory automation and direct shipping application.
+Addressed application (MSMQ related) crashes and numerous SOAP/XML performance bottlenecks.
+
+4/2000 to TRILOGY SOFTWARE Austin, TX
+9/2000 Application Developer (VB6 / Oracle 8 - 4000 users)
+Enhanced Custom Quotation System 6.0 for EMC (storage appliances), a sales tool for configuring and pricing enterprise storage systems. Added a rules engine to ensure all quoted systems were buildable and functional.
+Implemented a server process based on MSMQ to import customer quotes, allowing much finer control over database connections, and record locks. Sales people no longer needed to resubmit quotes due to concurrency issues.
+
+3/99 to GATX PRODUCT SERVICES Houston, TX
+2/00 Applications Developer (VB6 / SQL Server 6.5 & 7 – 20 users)
+Developed applications for monitoring oil futures contracts, and their associated shipments.
+Migrated from SQL Server 6.5 to 7.0 which included the modification of indexes, stored procedures, and triggers.
+Resolved several application performance issues by reducing the duration of locks, tuning queries and removing hundreds of redundant indexes required by Crystal Reports. The reports were modified to use a local temporary Access database,
+Added basic application level security checks and user access controls.
+
+4/98 to CLINICAL NETWORX Boston, MA
+2/99 Developer (VB5 & 6 / Oracle / SQL Server - 100+ users)
+Maintained and enhanced Clinical Master, a front-office patient information system.
+Prototyped a Microsoft Management Console-style front end (similar to Explorer) providing an extensible, hierarchical framework for business objects, and associated visual components.
+Developed a template for new data entry forms, standardizing their look and feel. Standardized interfaces for data entry validation logic allowing migration of the code base to a three tier architecture.
+
+10/97 to USAA INSURANCE San Antonio, TX
+4/98 Developer (VB5 / COM / IBM DB2 - 700+ Users)
+Maintained and enhanced Discovery 3, a GUI front end to a mainframe-based claims handling application.
+Developed a One-Click utility to automate building of over 80 projects and components. Optimized build procedures to take thirty minutes rather than an entire morning via incremental builds and dependency analysis. Fixed numerous circular references.
+Created code-injection utilities to inject logging into every procedure/function with database access. Affected code was then migrated to new middle-ware business objects. This allowed the addition of a Unix based caching tier to offload expensive and limited mainframe-based processing.
+
+2/97 to DUN & BRADSTREET Bethlehem, PA
+9/97 Supplier Performance Review Project Developer (VB4 & 5/ DB2 – 20 users).
+Sales Automation Project (VB5 / COM / Outlook / Exchange Server / SQL Server).
+Developed a replacement for a prototype vendor survey application that had been in production for several years.
+Enhanced a system that tracked customer usage patterns, enabling sales people to focus on contracts soon to expire, or showing declining usage.
+Integrated the application with Outlook (primarily for Tasks, and Journals) using Exchange to distribute custom Outlook forms, e-mail, and updated sales usage databases.
+
+7/94 to CLAYTON SYSTEMS St. Louis, MO
+12/96 Project Lead (VB3 & 4 / SQL Server / Oracle).
+Led a team of developers on a Manufacturing Plant Maintenance package.
+QuickStart 3 & 4, migration from an Oracle Forms based application.
+
+CERTIFICATIONS
+MICROSOFT CERTIFIED SOLUTION DEVELOPER - MCP ID #14667
+MICROSOFT CERTIFIED SYSTEMS ENGINEER
+
+Contact this candidate

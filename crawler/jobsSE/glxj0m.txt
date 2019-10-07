@@ -1,0 +1,109 @@
+
+Hello All,
+Please find the below requirement details
+
+Position: .Net Build Engineer
+Location: Philadelphia, PA
+Duration: Long Term
+
+Duties and Responsibilities
+The .Net Build engineer will compile and distribute releases to test and production environments as needed
+
+Design and implement automated solutions and improve the build, installation and deployment processes
+
+Development experience on ASP.Net Webforms, Asp.Net MVC, Angular 6, Vue Js, WebApi applications
+
+Experience with creating automated installation and deployment processes
+
+Very strong build automation skills are essential
+
+Experience in .NET, PowerShell, IIS, Visual Studio 2017, Visual Studio Code, Nuget, TFS, Windows Xml Installer and web services architecture are essential for this hands-on role
+
+Essential
+
+Ideal candidate would have 2-4 years of experience in a build engineering role
+
+Practical knowledge of Source Control Management, specifically branching, tagging and merging of different code streams (i.e. Subversion)
+
+Strong scripting skills, especially PowerShell
+
+Strong knowledge of Windows Xml Installer
+
+Microsoft Development/Build technologies, i.e. ASP.Net...
+
+TFS Version Control System
+
+IIS Webserver
+
+.Net build and deployment experience
+
+Batch and Power shell scripts experience
+
+MS Visual Studio
+
+MS Visual Studio Code
+
+Job Description
+
+The DHS PMT Application Development team employs a wide variety of build technologies and compiles many builds per day, many of which employ dozens of individual legs. With so many moving parts, there can be lots of failed builds (especially during any sort of outage). The Engineering Services team creates and maintains build infrastructure, promotes best practices, and lives on the front line of analysis when things go wrong. We're looking for someone with organizational skills, build experience, and a general knack for diagnosing failures, who can be the front line of build failure investigation.
+
+Build management and failure investigation work includes:
+
+Monitor builds .NET Core teams (surfaced on acting whenever a given build fails:
+
+Determine root cause(s) of failure using logs and other artifacts. This may include but is not limited to:
+
+Source code history analysis
+
+Connecting to build machines and directly investigating them
+
+Obtaining a local repro of the failure
+
+Ensure TFS issue(s) are created or routed to the appropriate owners.
+
+Associate build failures with their matching GitHub issue in mc.dot.net.
+
+Recommend areas for investment to increase reliability (e.g. suggest where better logging, more retries, etc. could reduce the incidence of failure)
+
+Communicate with the individual or team which caused a build failure to ensure that they are working to unblock it (if applicable).
+
+Regularly communicate a summary of build failure analysis to the DDFUN and DncEng teams.
+
+Create labels and branches as needed
+
+Publish list of issues addressed by build
+
+QUALIFICATIONS
+
+A minimum set of skills to be successful in this role include:
+
+MSBuild familiarity: Be able to understand MSBuild output and project file format with the ability to track down the source of an error. Ideally should have at least some experience with both desktop and .NET-Core-based MSBuild
+
+VSTS familiarity: Be able to use VSTS online to look through build history, agent pools, and other aspects that may help understand a specific build failure reason.
+
+Some GitHub familiarity: Be able to navigate issues in GitHub, using the ZenHub Kanban plugin, updating, assigning, and labelling issues as appropriate.
+
+Operating Systems: Be able to use Windows Servers to troubleshoot common file system issues (file ownership, file handles, disk space, etc.) and find system logs. Investigations where the problems appear to be related to machine state will require investigation of the machines used for builds.
+
+Scripting languages: Python, PowerShell (both Desktop and Core versions), Bash, and cmd scripts are all used as part of our builds. While you won't be expected to write in these languages, being able to understand and debug them is essential for understanding build issues.
+
+PREFERRED SKILLS
+
+These skills are not mandatory but will help:
+
+Basic use of command line debuggers: Be able to attach a debugger, get a managed call stack, and create a minidump using windbg/cdb on Windows
+
+VSTS Yaml-based definitions: Be able to parse the new. yaml build definition format and debug issues
+
+Thanks
+
+Ranjith
+
+Software Technology, Inc
+- provided by Dice
+
+Contractor
+
+
+Go to apply 
+

@@ -1,0 +1,65 @@
+
+Energetic full stack software
+engineer skilled in writing clean,
+robust code and strategic problem
+solving. Experienced in front and
+back end development as well as
+testing and debugging code into
+production.
+https://github.com/navin1551
+www.linkedin.com/in/navin1551
+https://navin1551.github.io/portfolio
+P R O F I L E
+R E C E N T P R O J E C T S
+714-***-****
+adafsh@r.postjobfree.com
+Yorba Linda, CA
+C O N T A C T
+JavaScript
+React
+Node/Express
+PostgreSQL
+RESTful API's
+jQuery
+HTML5, CSS3
+Jest,Enzyme, Mocha & Chai
+Git,GitHub
+Chrome Dev Tools
+JWT Auth
+S K I L L S
+COCKTAIL CRITIC
+https://cocktail-critic.now.sh JULY 2018
+App that allows users to sign up for a username and password and search for popular drinks and leave a review and rating
+React, Node/Express, PostgreSQL, Zeit, Heroku
+DOGGY DIALOGUE
+https://doggy-dialogue-app.now.sh JUN 2018
+Dog forum app that allows users to sign up and make posts and replies in various forums about dogs and dog related issues
+React, Node/Express, PostgreSQL
+E D U C A T I O N
+BACHELOR OF ARTS IN BUSINESS ADMINISTRATION -
+FINANCE
+CALIFORNIA STATE UNIVERSITY FULLERTON 2012-2017
+E X P E R I E N C E
+THINKFUL - SOFTWARE DEVELOPMENT APPRENTICE
+11/2018 - 07/2019
+Collaborated with senior level developers in developing, testing, and deploying various applications into
+production using latest technologies and frameworks SILVERADO SENIOR LIVING - STAFF ACCOUNTANT
+08/2018 - 12/2018 IRVINE, CA
+Responsible for accurately posting of daily and monthly journal entries
+Assisted with month and year end accounting duties to close out accounts
+N A V I N
+K UMAR
+SOFTWARE
+ENGINEER
+EDUCATOR LOCATOR
+https://navin1551.github.io/Educator-Locator/ FEB 2018 App that allows users to search for schools and colleges in a given location
+HTML5, CSS3, JavaScript, jQuery, 3rd party API
+COUNTRIES
+Repos available on GitHub IN PROGRESS
+App that allows users to search and view information on different countries and create a customizable itinerary to travel
+React, Node/Express, PostgreSQL
+STEELERS QUIZ
+https://navin1551.github.io/steelers-quiz-app JAN 2018 Quiz app that allows users to take a multiple choice quiz on the Pittsburgh Steelers football team
+HTML5, CSS3, JavaScript, jQuery
+
+Contact this candidate

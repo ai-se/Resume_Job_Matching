@@ -1,0 +1,141 @@
+
+Edward Coyle
+Phone: 848-***-****
+Email: adagr0@r.postjobfree.com
+
+*/****
+*/****
+SUMMARY
+Over 15 years experience performing project deployments of POS, PC and server refreshes occasionally as lead. These assignments often create time sensitive troubleshooting situations that may go beyond the scope of the project. Some of these projects have required air travel or long commutes and overnight stays. There are, more often than not, several layers of customers and contacts that need to be satisfied which creates an environment requiring an extremely high level of performance. I have a proven ability to work proficiently in this environment which demonstrates a high level of professionalism and competence.
+
+TECHNICAL
+Hardware:
+Strong mechanical aptitude/ Installation break fix and configuration of IBM based POS PC’s and Servers. SCSI, Raid, Dell PC's and servers, 802.11, Cisco, VTC, Polycom HDX 4000, Tandberg, Ethernet, Lexmark, Xerox &HP printers, Fujitsu scanners, CAC, biometric fingerprint scanners.
+
+OS Environments:
+Expert in Windows 3.x/95/98/2000/XP/2003/Vista. and Win7. Shell and configuration experience in Cisco, UNIX/Linux & DOS, BIOS
+
+Languages:
+Some professional experience using Java, JavaScript, HTML, ODBC, SQL, XML, IBM Macros, DOS
+
+Applications:
+MS Office, Exchange, WSUS SCCM, DNS, AD, DHCP, Hyena, Remote Desktop, Dragon Medical 10.10, Approvit, Lotus forms viewer, PureEdge, Symantec Exec 10d, McAfee ePolicy Orchestrator, MS Backup, Ghost Imaging, Remedy, Aloha, Encore, Service Desk, Envisionware, drivers updates, registry modification and others.
+
+IT Certifications:
+A+ (Certificate # COMP001001364122)(2003)
+Network+ (Certificate # COMP001001364122)(2008)
+Security+ (Certificate # COMP001001364122)(2010)
+MCSA 2000:Security (Microsoft Certified Professional ID: 2950265)
+Dell 577 Basic Wireless Technology - Certification 5/7/2009
+IBM Websphere Commerce Suite 4.1 Implementation Specialist (may have expired)
+
+PROFESSIONAL
+EXPERIENCE
+
+Independent consultant/contractor
+1999- present
+
+The following companies have contracted me to provide field service support for deployment projects and service calls on an on-call basis. Over 500 service calls have been provided for these companies and more, with a very high standard of performance.
+
+FieldNation.com
+Universal DataComm
+
+OnForce.com
+Core Technology Solutions
+
+Witnet Inc.
+WorkMarket.com
+
+These projects include the following: POS, POS Controllers kiosk installs, TV firmware updates, printer installs, router installs, phone system roll-outs, Cat5e/6e cable runs, software deployments & upgrades on IBM based computer systems, including servers, and field service troubleshooting & repairs on IBM based computer systems, including servers and other technologies.
+
+Ruchman Associates. Inc.
+Jessup MD
+IT Specialist
+12/2010 - 3/2012
+
+Contract position to the U.S. Army’s Walson Medical Support Element at Fort Dix. Desktop Support with Hardware, OS troubleshooting, registry modification, BIOS configuration and occasional networking. Managed Dell workstation warranty service scheduling. VTC setups Polycom HDX 4000, & Tandberg,
+WinXP, MS Office 2003 environment. Current ongoing projects: Win7 deployment.
+
+Maplewood Public Library
+Maplewood NJ
+Windows Administrator
+2/2009 - 4/2010
+
+Part-time position (10 hours per week) providing in-house IT support including break/fix, administration of Win2003 server on a Dell 2800 and 100+ Dell workstations. Managed Dell workstation warranty service scheduling.
+Accomplishments:
+Identified long standing network performance issue as a switch mis-configuration and made required configuration changes Cisco router.
+
+Utilized OpenDNS as failure-over during the infrequent inaccessibility of the local DNS server.
+
+Addressed existing disk space limitation by expanding the existing RAID volume,
+by adding a new hard disk drive and expanding existing volumes into it.
+
+Added time server services to the local server to address printer network issues.
+
+Modified and implemented new backup strategy using Symantec Backup Exec 10d.
+
+Fastteks
+Florham Park NJ
+On-call Field Technician
+2/2009 - 1/2010
+
+Desktop and break/fix support mainly for the home users and SOHO with occasional commercial clients. Part-time on-call position.
+
+Electronic System Services
+Clarksburg MD
+Field Technician
+5/2008 – 10-2008
+
+Main duties focus on a project for a major fast food chain incorporating new menu items and a small remodel (Par, Panasonic). POS cabling(cat5e, video and serial) is moved to a temporary position and later moved to a permanent position. New remote terminals and monitors installed. New menu items are programmed for routing.
+
+Agilysys Inc.
+Taylors, SC
+3550 Rutherford Road
+Customer Engineer II
+5/2008 – 10-2008
+
+Duties included repair replacement and configuration of the following equipment: IBM POS terminals, RS6000 F40, IBM NetVista PC’s, Symbol access points, wireless handheld terminals, scanner/scales, Hypercom ICE6000 electronic funds transfer devices, token ring and Ethernet hubs and switches and numerous printers. Update problem tracking systems and document service calls in Remedy.
+
+Ocean Computer Group
+Ocean NJ
+WebSphere Developer
+1996 - 2001
+
+Same employer as above. Promoted from Field Technician. Team member developing e-commerce sites using IBM Websphere Commerce Suite 4.1. Technologies used Java, JavaScript, Html, SQL, Dreamweaver and others.
+
+Field Service Technician
+
+Main duties involved field service of Windows based PC systems, which involved troubleshooting, hardware replacement, system and network configuration, and installation of OS and device drivers, and patches in the MS Windows and DOS environments. Also service and repair of IBM midrange servers, workstations and related peripherals, which included hardware replacement and system configuration in IBM’s SSP and OS/400 environments.
+
+EDUCATION
+TRAINING
+1993 – 1997
+Brookdale Community College
+Lincroft NJ
+Degree candidate AAS in Computer Science. 69 credits
+11/2008
+New Horizons Computer Learning Center
+Iselin, NJ
+Linux+, Cisco and Network+ Certification training.
+
+1977 – 1979
+Rutgers University
+Piscataway NJ
+Undergraduate studies.
+5/2003
+TechTrain
+Clarksburg, MD 20871
+MCSE2000 bootcamp
+
+3/2000
+Netcom Information Technologies Inc.
+Long Island City NY
+Certification Training
+Linux Administration using Red Hat
+
+5/1998
+IBM Training Services
+Leesburg VA
+VisualAge for Java to WebSphere 3.12 bootcamp
+
+Contact this candidate

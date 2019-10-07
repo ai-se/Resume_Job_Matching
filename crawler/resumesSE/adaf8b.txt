@@ -1,0 +1,53 @@
+
+DEEPIKA THIRUMENI
+adaf8b@r.postjobfree.com 858-***-**** 10895 Camino Ruiz, Unit 59, San Diego, CA - 92126
+Available Immediately. No Sponsorship Required.
+SUMMARY
+Software Tester and Data Analyst with 1-year experience, on implementation testing with universal remote and home automation products. Dedicated to consumer product verification and testing. Proficient with C, C++ and Python. Strong work ethic, organized, and a team player.
+SKILLS
+ENGINEERING TOOLS: LabVIEW, MATLAB, Xilinx, ModelSim
+ASSEMBLY LANGUAGES: Assembly Language of ARM Architecture, 8051 Microcontroller
+PROGRAMMING LANGUAGES: C, C++, Python, SQL
+
+EXPERIENCE
+Logitech Engineering & Designs India Private Limited, Software Test Analyst May 2015 - Apr. 2016
+Efficiently validated up to 10 Philips TV models and its corresponding remote-control model with its required manual and brochures.
+Mapped buttons of the customer's remote control with specific code available to the universal remote control.
+Executed inter-operability tests to verify functionality of buttons on the universal remote control.
+Analyzed and debugged customer issue related to unsynchronized buttons, occurring when configuring the setup.
+Fixed customer issues by recoding specific buttons and promoting devices and closed tickets.
+Created technical reports, technical presentations, test data summaries using Microsoft Word, PowerPoint and Excel.
+
+EDUCATION
+San Diego Continuing Education May 2019
+Python Programming Certificate
+Learned Python programming essentials including list, tuple, functions, modules, file objects, strings and regular expressions.
+UC San Diego Extension June 2018
+Professional Programming Certificate
+
+Relevant Courses: 1. Embedded Systems 2. C/C++Programming
+
+SKR Engineering College, Affiliated to Anna University, India Sept. 2012 - June 2014
+Master of Engineering, VLSI Design CGPA: 7.75/10
+
+Relevant Courses: 1. Advanced Microprocessors and Microcontrollers 2. Computer Architecture and Parallel Processing 3. Advanced Digital System Design
+
+Magna College of Engineering, Affiliated to Anna University, India Sept. 2007 - Apr. 2011
+Bachelor of Engineering, Electronics and Communication Engineering Percentage: 70%
+
+Relevant Courses: 1. Computer Programming 2. Data Structures 3. Computer Architecture 4. Wireless Networks
+5. Mobile Communications 6. Computer Networks 7. Microprocessor and its Applications
+
+ACADEMIC PROJECTS
+C/C++ Programming in MS Visual Studio
+Designed a BankAccount class, to hold account type, owner name, account balance and account closure penalty percent.
+Implemented GetInitialValues, DisplayAccountDetails and CalculatePenalty methods using C++.
+Developed a DetermineElapsedTime program, that computes time elapsed between start and stop times stored in MyTime structures and stores elapsed time in MyTime structure using C++.
+Embedded Applications Development using 8051 assembly in EdSim51 Simulator
+Developed a Key Debounce application that mitigates the effects of Key Bouncing. Loaded the application in the simulator, and tested the application using virtual Bouncing Keypad peripheral.
+Designed and implemented a Signal generator using look up table that sends waveform samples to the virtual Digital-to-Analog Converter (DAC) circuit. Verified the waveforms in virtual scope connected to DAC output of the microcontroller.
+Enhanced Image Watermarking, Sands Instrumentation Pvt Ltd
+Developed an enhanced watermarking algorithm to stamp an invisible watermark in a source image and extracting from a stamped image.
+Implemented an algorithm using C programming language and verified by downloading and testing the software in Blackfin Microprocessor Development Board.
+
+Contact this candidate

@@ -1,0 +1,40 @@
+
+This position is located in Westlake, OH***
+Job Objective:
+· To work effectively on a technical team to architect cloud and on-premises infrastructure solutions to meet company needs for application hosting
+· Responsible for collaborating with IT manager, engineering team and client services personnel to research, architect, implement and protect solutions for hosting web application delivery, database performance, storage capacity & monitoring
+
+Duties and Tasks Critical to Success:
+· Design and implement cloud infrastructure solutions to meet company needs for cloud application hosting
+· Partner with IT manager and engineering team to explore and execute solutions for improving web application delivery, database performance, storage capacity & monitoring
+· Help implement the company technology direction, vision, and strategy for hosting environment inclusive of AWS infrastructure, Azure AD and local network
+· Ensure uptime and oversee routine patching/maintenance for mixed hosting environments
+· Oversee secure data migrations by working in tandem with a seasoned database administrator
+· Recommend, develop, implement and maintain automation tools to increase efficiency
+· Recognize, troubleshoot and resolve technology issues that affect our various hosting environments
+· Research security enhancements and make recommendations to management and engineering teams
+· Stay current on information technology trends and security standards (NIST, LEADS, CJIS, etc.)
+· Research, write and implement change management and incident response policies for company and hosting environments
+· Document extensively and share knowledge with team members, engineering and client services teams
+Skillset
+· Bachelor’s Degree
+· 5+ years of relevant IT experience working with on-prem and cloud enterprise systems (as an admin), including deployment automation tools, such as Ansible, Terraform, PowerShell DSC or similiar
+· Experience working with and managing Microsoft Visual Studio/Azure DevOps
+· Strong knowledge of Windows Active Directory best practices, capabilities, and design
+· Experience architecting cloud infrastructures on Amazon Web Services (AWS) for medium scale and enterprise level applications, including offerings such as VPC, EC2, Network, ELB, EBS, and IAM
+· Broad experience with cloud adoption, prototyping of new environments, server builds, data migration and performance tuning
+· Technical knowledge of infrastructure components such as Network Topology, Storage, Windows, Application knowledge of Java, .Net, and IT security
+· Experience with configuring software-defined networking and security configurations, including security groups and ACLs
+· Understanding and knowledge of “Infrastructure as Code” as well as instance and service automation platforms
+· Experience with DevOps procedures and processes and with working in an Agile environment
+· Experience with monitoring and troubleshooting connectivity and performance in complex cloud or on-prem environments
+· AWS certification(s) in one or more of these areas preferred: Cloud Practitioner, Solutions Architect, DevOps Engineer, SysOps Administrator
+· Microsoft certifications such as MCSE or MCSD preferred
+· Excellent communication skills, Ability to adapt to change, accept constructive criticism and work on a team
+· Dedication to meeting deadlines
+
+Reports to: IT Manager
+
+
+Go to apply 
+

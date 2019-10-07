@@ -1,0 +1,41 @@
+
+Sales EngineerLondon, United KingdomSales â Sales EngineeringEmployee
+- REGWho are Dynatrace?Dynatrace makes it easy and simple to monitor and run the most complex, hyper-scale multi-cloud ecosystems.
+
+Purpose built for todayâs enterprises, Dynatrace is the only AI-powered, full stack and completely automated monitoring solution that provides deep insight (answers, not data) into every user, every transaction, across every application.
+
+Thatâs why the worldâs leading brands, including 79 of the Fortune 100, trust Dynatrace to optimize customer experiences, innovate faster and modernize IT operations with absolute confidence.Dynatrace is leading the way in the APM space, has innovative and exciting solutions to combat the performance challenges of today and are looking for innovative people to join our team.
+
+Whatâs the role?As a Dynatrace Sales Engineer, you will be a key member of the Dynatrace sales engine and will be responsible for providing excellent technical support to the sales team.
+
+You will be the expert on Dynatrace and all things APM.
+
+Within this exciting role, you will responsible for executing great demoâs which demonstrate Dynatrace unique approach in solving the customerâs pain, executing and managing POCs onsite, building key relationships with Dynatraceâs customers and completing RFIs & RFPs.
+
+You will also work across teams including Dynatraceâs innovation labs, Dynatraceâs Expert Services consultants, CSMs and marketing.
+
+About you:To ensure your success as a Sales Engineer at Dynatrace, you need to be an ambitious, confident and self-motivated individual, with previous SE experience or another technical customer facing role.
+
+You need to be passionate about innovative technology, technical sales and articulating value to customers and prospects.
+
+In addition, we are also looking for:At least 3-4 years experience supporting Sales teams in a Presale roles.
+
+Be able to demonstrate a track record leading to sales success An excellent team player, with the ability to work across all disciplines.
+
+Excellent communication and presentation skills, with the ability to communicate technical value into business value.Previous 3 â 5 years of experience working with Java, .NET, PHP or JavaScript languages and are knowledgeable around web technologies as well as SQL.Experience and knows the way around typical OSâs including Windows & Linux.Ability to troubleshoot technical issues to produce a working outcome and be able to manage this process.Ability to manage a number of project simultaneously, work with a number of different sales people and support other SEs where needed.Must have a strong desire to grow professionally, adapt to an ever-changing environment and are coachable.
+
+Desired Experience & Skills:Experience with application performance management technologies and techniquesExperience with Cloud environments like Azure, AWS, Docker, Openshift etc.Experience with JavaScript frameworks including JQuery, Dojo, AngularJS etc.Experience with Java technology including Servlets, Struts, Spring, Web Services, EJB, JMS etc.Experience with Cloud and Big Data technologiesWorking with APM technologiesWhat Youâll Do:Help clients evaluate the only Generation 3 APM solution in the market tod Partner with sales representatives to identify new sales opportunities as well incremental sales opportunities within existing accounts.Partner with our local partners to also help identify new sales opportunities as well incremental sales opportunities within existing accounts.
+
+Provide technical leadership in the Discovery, Solution Evaluation, and Solution Proposal stages of the opportunity sales cycle.Take ownership of solution evaluations and Proofs-of-Concept in support of sales opportunities either directly or through channel partners.Maintain and continuously develop technical knowledge.
+
+Share knowledge across the team and continuously develop and enhance personal and team capabilities.Provide feedback to Product Management for enhancements needed in the market and also escalation required to resolve the technical issues.As thought leader in the market and local region, support key marketing events.
+
+Either at Dynatrace sponsored industry events or partner sponsored events: ensure the top demo is delivered by you and the team at demo booths.
+
+And on the main stage deliver keynote presentations.Work with local Sales and Sales Engineering leadership to identify learning/development opportunities for you and the local team that helps maintain the companies leadership position in the market.
+
+LI-SL1
+
+
+Go to apply 
+

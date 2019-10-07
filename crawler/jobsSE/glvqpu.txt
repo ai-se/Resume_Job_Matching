@@ -1,0 +1,22 @@
+
+Responsibilities
+The Sr. Network Engineer is responsible for contributing to the design, implementation and operational support of a large customer s network infrastructure. You will design, configure and maintain network equipment such as routers, switches, load balancers and firewalls.
+In this position you will be supporting a large scale data center migration project as well as numerous acquisition and divestiture activities that impact the client s network and IT infrastructure.
+Requirements
+BS in Computer Science, Computer Information Systems preferred, plus 6 or more years of hands-on experience in designing and implementing large-scale networks, network routing, switches, firewalls, load balancers, WAN Accelerators and internet related networking and securities technologies.
+Experience with networking equipment such as high end Cisco Routers and switches, Cisco Catalyst 6509 as well as ASR 9000 and Nexus 7K, 5K and 2K Routers / Switches.
+Experience with designing and implementing large-scale networks, network routing, switches, Data Center Design, firewalls, load balancer, WAN accelerators and internet-related networking and security technologies is required for this position.
+Cisco Certification preferred: CCNP, CCIE
+Experience with routing protocols: EIGRP, OSPF, BGP
+Experience with: IPSEC, S-2-S VPN, DMVPN
+Experience in network and systems security, not only a key understanding of overall concepts, but also the ability to implement policies, processes and develop solutions to network and security problems.
+Experience administering and deploying Cisco ASA network firewalls and Cisco ACLs.
+Experience administering and deploying Palo Alto firewalls.
+Ability to document processes procedures and network designs clearly and accurately. Documents will be used by additional Presidio groups to provide remote support. The documentation will also be used to update the customer on project activities and milestones.
+We are unable to sponsor H1B candidates at this time.
+
+Permanent
+
+
+Go to apply 
+

@@ -1,0 +1,34 @@
+
+About the position
+
+Our Infrastructure team is a small but critical part of our organization, responsible for designing, implementing and maintaining Greenhouse’s platform. We craft the environment that enables our engineers to focus on shipping new features, each of which brings us closer to the goal of delivering the best recruiting software possible.
+We’re working on some interesting problems, and we’re searching for a Senior Site Reliability Engineer who’ll help keep our site performant and secure by building scalable and fault-tolerant cloud infrastructure. You’d design and implement features that support our in-house development platform, using technologies like Docker and Kubernetes.
+In the coming year, you'd help us build out advanced monitoring and autoscaling systems, support for global scalability and disaster recovery, and continuous integration and deployment for our applications.
+If you’re looking for a dynamic environment and excited by what we’re looking to do, this may be the job for you.
+Learn more about our engineering culture here!
+Who will love this job:
+A problem solver, who not only thinks about the bigger picture, but can also connect the dots and dedicatedly resolve issues quickly and efficiently
+A lover of detail with the mentality to analyze and manage large problem domains
+A doer, who doesn't just tinker but has a strong bias for action
+A great teammate, who is able to contribute and thrive within a fast-paced environment
+What you’ll do:
+Build new features and improvements to our Kubernetes-based PaaS
+Enhance system observability by instrumenting applications, adding new data sources, and creating high-impact dashboards and alerts
+Collaborate with product engineers to design new applications and make them performant, scalable, and reliable
+Scale the platform to deliver a consistently great user experience worldwide
+Learn and deploy cutting-edge tools and technologies: Docker, Kubernetes, Container Linux, Terraform, Prometheus, Grafana, and Go
+You Should Have:
+A deep understanding of Linux systems
+Experience running production cloud infrastructure
+Proficiency in a high-level programming language
+A knack for troubleshooting and fixing hard bugs
+Ability to design and build large distributed systems
+Your unique talents! If you don’t meet 100% of the qualifications above, tell us in your cover letter why you’d be a great fit for this role.
+Pay, Perks & Such:
+At Greenhouse, we love to celebrate our diverse group of hardworking employees – and it shows. We’re proud to say that in 2018, we’ve been ranked #2 by Crain’s New York Best Places to Work, #10 Best Company Culture to work for by Comparably, #37 Best Place to Work by Glassdoor and are recognized on Inc. Magazine’s Best Workplaces list. We pride ourselves on our collaborative culture that is pervasive throughout every step of a Greenhouse employee's journey. Starting with our interviews and continuing through our executive “Ask Me Anything” sessions, collaboration is at the heart of working at Greenhouse.
+We offer a full slate of benefits including competitive salaries, stock options, medical, dental, vision, life and disability coverages, FSA, HSA, flexible vacation, commuter benefits, a 401(k) plan and a parental leave program. And... we offer some not-so-standard, extra-fun benefits, including learning & development stipends, adoption and fertility benefits, an employee discount platform, and of course, fully stocked fridges and cold brew on tap. :)
+We value diversity and believe forming teams in which everyone can be their authentic self is key to our success. We encourage people from underrepresented backgrounds and different industries to apply. Come join us, and find out what the best work of your career could look like here at Greenhouse.
+
+
+Go to apply 
+

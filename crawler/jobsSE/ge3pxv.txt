@@ -1,0 +1,41 @@
+
+Advent Software is looking for a motivated and experienced DevOps Engineer to help with the architecture and implementation of a new hosted product offering. This position will focus on building processes to simplify and streamline customer deployment, manage capacity, and ensure scalability. The candidate must be a self-starter, able to work independently, and can collaborate well with the overall project group.
+
+Desired Experience
+
+* Strong experience in Linux and Windows
+
+* Experience with multi-tier application stacks
+
+* Scripting (Ruby, Powershell/PowerCLI, Linux shell scripting)
+
+* Define and implement automated system installation/configuration procedures within virtualized infrastructures (ESXi, EC2, Azure)
+
+* Build Automation (Jenkins)
+
+* Systems automation and provisioning (Chef)
+
+* Strong Research and Troubleshooting skills
+
+* Package management workflows (Aptitude/dpkg, Yum/RPM)
+
+* Source Code Management (Git)
+
+* Ability to work in Agile environment (JIRA, Confluence)
+
+Minimum Qualifications
+
+* Chef experience
+
+* Jenkins experience
+
+* Strong experience with Linux and Windows administration within an automation context
+
+* Linux shell scripting, Ruby, Powershell/PowerCLI
+
+* VMWare ESXi experience
+SDL2017
+
+
+Go to apply 
+

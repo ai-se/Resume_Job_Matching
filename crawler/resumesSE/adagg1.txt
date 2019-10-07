@@ -1,0 +1,34 @@
+
+MICHAEL BENJAMIN ROSENBERG
+516-***-**** adagg1@r.postjobfree.com 9 Eaton Place - Apartment 25, Binghamton, NY 13905 INTERESTS
+UAV Systems Robotics and Automation Sensor-Based Navigation Product Development and Design Marketing Content Creation EDUCATION
+Binghamton University, State University of New York, Thomas J. Watson School of Engineering Master of Science in Computer Engineering Expected May 2020 Bachelor of Science in Computer Engineering - Major GPA: 3.5/4.0 May 2019 TECHNICAL SKILLS
+Specialized Skills: UAV Systems, Video Capture/Transmission Systems, 3D Design/Manufacturing, Marketing Content Creation Programming Languages: C, C++, Python Computer Software: ArduPilot/PX4 Flight Stack, QGroundControl/APM Planner, Adobe CC Certifications: FAA Part 107 Certified UAS Operator, Red Cross Lifeguard/CPR/AED/First Aid PROFESSIONAL EXPERIENCE
+Emerging Technology Studio – Assistant Student Director, Binghamton University Spring 2016 – Present
+• Lead workshops on Technology such as “Introduction to 3D Printing” and “Arduino 101” in Binghamton University’s Makerspace
+• Assist students with modern technologies in project design, 3D printing, CNC machining, circuit design, programming, VR, etc.
+• Help students and faculty manufacture parts for research and personal projects, such as the ‘Helping Hands’ project SW Engineering Product Manager Intern – Zebra Technologies, Holtsville, NY Summer 2019
+• Created 20+ customer facing videos to teach, introduce and compare several Zebra hardware and software products
+• Developed concept design to integrate UAV systems into Zebra’s Workforce Connect Software Suite
+• Investigated market competition and created content to address gaps left in competitor product portfolios UAV Systems Engineer – Custom Electronics Inc., Oneonta, NY Spring 2019
+• Worked on US Military contract regarding UAS system design and integration
+• Developed long-range video transmission system using Microhard radio modems onboard small UAVs (< 0.55lbs) RF Engineering Intern – Zebra Technologies, Holtsville, NY Summer 2018
+• Developed new ‘Wi-Fi Rate vs. Range’ testing method using Rhode & Schwarz spectrum analyzers and Satimo RF chambers
+• Improved the data comprehensiveness 125x and cut testing time by 80% for the fusion team at Zebra’s Holtsville office
+• Automated testing using a Python script programmed to communicate with the Network Controller (via Telnet) PROJECT EXPERIENCE
+Connecting Workforces: Proposal to Integrate Stress Relief Outlets into Zebra’s Holtsville Campus Summer 2019 Zebra Technologies, NY
+• Identified common issue of high workplace stress among NY21’s interns and full-time employees
+• Investigated cost/benefit, employee opinion, industry trends and scientific research on adding cooperative indoor & outdoor games
+• Presented findings to senior leaders and Zebra’s renovation team (Proposal Adapted and Accepted into NY21 Office Redesign Plan) Robotics and Automation: Zebra Robotics Competition (ZRC 2018) Summer 2018 Zebra Technologies, NY
+• Programmed an iRobot Roomba Create2 using Python on a Raspberry Pi to navigate and manipulate the course to win 2nd place
+• Created a video presentation of the competition that was shared on Zebra’s Intranet and continues to be used for new-hire recruiting Beta Testing and Product Development Fall 2010 – Present
+• Reviewed and tested pre-release products (DJI UAVs, Netgear Routers, Nest “Smart” Thermostats, Roku Streaming Boxes etc.)
+• Collaborated with Product Development Teams to discover and facilitate fixing of bugs, hardware faults, etc. LEADERSHIP EXPERIENCE
+UAV Systems/Product Development: Service Network for Drones – Project Lead Fall 2018 – Present Binghamton University, Senior Capstone Project
+• Original concept idea accepted by Binghamton University’s Capstone Program for 2018-2020 Academic Years
+• Led a team of engineers to develop and manufacture a PoC for a connected Network with a solution to UAV range limitations
+• Constructed aerial and ground platforms with a back-end network to manage communication, route planning and asset management YouTube Content Creator Fall 2010 – Present
+• Manage a YouTube Channel focused on technology related content resulting in thousands of referred sales and views
+• Collaborate with marketing teams from Logitech, Dyson, OtterBox, Shark Wheel, and more to create marketing content
+
+Contact this candidate

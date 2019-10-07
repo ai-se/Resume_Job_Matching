@@ -1,0 +1,41 @@
+
+Engineer; Software Test, Senior
+Raleigh, NC 27601
+Long Term Employment
+Job Description:
+Support performance testing for the RSS application
+Specialized skills in functional and performance testing, and test automation
+Lead performance testing efforts as required;
+Create/maintain the following deliverables: Test Strategy, Test Plan, Test Schedule, Test Executions and Analysis, Performance Test Report and Recommendations;
+Setup test runs and execute test in HP Application Lifecycle Management, Performance Center and JMeter tools, and with new testing tools that are acquired;
+Expert knowledge of Performance Center (Years of experience 5+)
+Gather performance testing requirements and statistics in preparation of testing efforts;
+Provide performance testing expertise;
+Provide performance testing for mobile applications expertise;
+Assist in the definition and modification of performance testing best practices, standard reports and metrics, and IT governance and compliance standards;
+Assist the team in coaching and mentoring the various projects as it relates to performance testing;
+Assist with compiling standard SDF (Software Delivery Framework) metrics
+Perform load/performance testing
+Setup and maintain the current environment with RSS application servers, load generator servers, and HP testing software used for the RSS load/performance testing.
+Provide subject matter expertise to RSS stakeholders.
+Server administration duties (Windows OS, application software installation process documentation, OS and application problem diagnosis).
+Educational/Experience:
+A minimum of ten (10) years of experience;
+A degree from an accredited College/University in the applicable field of services is preferred;
+Expert knowledge of Performance Center (Years of experience 5+);
+Experience with Test Automation tools;
+Strong organizational, analytical/problem solving and interpersonal skills;
+Strong verbal/written communication, listening, group interaction, and presentation skills;
+Ability to work on multiple tasks and projects simultaneously, manage tasks independently; and assume ownership of assigned tasks;
+Demonstrated initiative and effective independent decision-making skills
+
+Thanks
+Suresh G
+Talent Acquisition Specialist
+Northwest Software, Inc.
+
+Permanent
+
+
+Apply now
+

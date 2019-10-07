@@ -1,0 +1,33 @@
+
+This role is involved in the next generation explicit dynamics solution. Develop and maintain code mostly in C++ and QT. Specify and implement capabilities in Nastran and Dytran nonlinear explicit solutions. Understand and develop user requirements, create design documents, perform coding to implement the designs, initiate the testing of the developed capabilities and assist in correcting any deficiencies. Have massive opportunities to work with highly skilled and experienced computation engineers and scientists.
+
+RESPONSIBILITIES:
+Develops, maintains and tests Dytran and MSC Nastran and related products as necessary.
+Creates test models for specific linear and nonlinear solution capabilities.
+Reports bugs, problems/enhancements within the Development team.
+Helps with the development and execution of quality assurance tests, procedures, tools, benchmarks, training and documentation for new and enhanced products.
+Researches into algorithms for nonlinear FE analysis and develops nonlinear explicit to support multi-disciplinary simulations and technology integration in Dytran and MSC Nastran.
+Performs the implementation and test of linear and nonlinear solution capabilities in MSC products.
+Documents the enhancement and improvement of MSC products.
+Must ensure that all products meet a high standard of quality per the Product Quality Metrics and Guidelines.
+Management may change this description at any time, according to business needs.
+Requirements
+Education:
+Masters degree or higher in Computer Engineering, Mechanical Engineering, Civil Engineering and Aerospace Engineering or related field, with emphasis in theory of computational solid mechanics and/or computational fluid dynamics.
+Experience:
+2-5 years of programming experience in FORTRAN, C++ and QT coding is desired.
+2-5 years of experience in research and development of explicit dynamics, finite element methods and/or finite volume methods is preferred.
+2-5 years of experience in development and implementation of FEA and/or CFD program, parallel programming and MPI preferred.
+Required:
+Strong engineering and problem solving skills.
+Strong knowledge of python, C++ and QT.
+Moderate knowledge and finite element development experience in explicit coding.
+Moderate knowledge of non-linear mechanics and numerical techniques.
+Moderate oral and written communication skills in English.
+Experience with software regression testing and QA process is a plus.
+Ability to create articulate design documents using a variety of documentation tools, including Microsoft Word & MS Excel.
+General knowledge of commercial FEA products.
+
+
+Go to apply 
+

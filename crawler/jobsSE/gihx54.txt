@@ -1,0 +1,23 @@
+
+This position will be a technical advisor for designing and defining our desired architecture for Tableau’s SaaS services. This person will be responsible for working with various teams across the Development organization to understand their products and work with them to design SaaS/Cloud solutions. The SaaS Architecture Engineer will know the state of design decisions and implications of most areas of the product while engaging with many individuals and key stakeholders on the Development team to ensure that products are being designed and built for Cloud scale deployments. This person will collaborate with engineers across the company and define and document design patterns to support our SaaS initiatives. Assist in development of SaaS capabilities and platform as required.
+Some of the things youll be doing include…
+Design and architect industry leading SaaS BI solutions, able to operate at cloud scale
+Read technical/functional specifications and documentation from various feature teams
+Work with engineers and Product Managers to define SaaS requirements and ensure they are in roadmaps
+Work collaboratively with technical leads and managers with expectation of driving to solutions with them
+Participate as the technical lead for overall SaaS architecture
+Participate as a member of the Virtual Architecture Team
+Report and advise senior leadership on specific issues uncovered and ideas of solution
+Provide documentation, guidance and support to feature teams and other technical team members on SaaS best practices and target architectures
+Who you are…
+Experienced. 15+ years’ experience in the software industry. 5+ years experience with large-scale SaaS offerings in senior technical role. Proven success at the architect level for large-scale SaaS offerings. Deep expertise with Continuous Delivery environments. Experience using or building Business Intelligence software is a plus.
+Technical. Deep AWS or other public cloud expertise. Experience with Linux environments. Understanding of large-scale distributed systems. Ability to go deep on technical implementation. Expert coding skills are required. Expert-level knowledge of software engineering and Agile practices and principles.
+Educated. BS degree in Computer Science or equivalent, advanced degree preferred
+Passionate. You have a passion for solving complex problems, be they at work or in your spare time on your own projects. You do great work even when no one is watching. The drive to deliver is just a part of you.
+Relentlessly High Standards. You understand what it takes to solve problems in a complex system of interacting components.
+A True Team Player. You enjoy collaborating with, learning from, and teaching others so we can all become better developers. You actively do your part to make a positive work environment.
+You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world!
+
+
+Go to apply 
+

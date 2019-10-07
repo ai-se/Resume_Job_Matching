@@ -1,0 +1,51 @@
+
+About Me:
+Name : Singamsetty Teja Mobile : 888-***-****
+Experience: 1 year & 6 month Skype : gsraviteja08
+Email : adah80@r.postjobfree.com Date of birth : 01-12-1994 Company : Pathfinder Enterprise solutions
+Career Objective:
+• To Pursue a challenging career and be a part of progressive organization that gives scope to enhance my knowledge and skills in order to cope with latest technology changes.
+Education:
+• B .Tech from Sri Venkateshwara college of Engineering and Technology with 7.12 CGPA[2017].
+• Intermediate(M.P.C) from board of Intermediate Education with 81.3%[2012].
+• S.S.C from Andhra Pradesh state board with 84.6%[2010] Professional Experience:
+• Experience in Testing Web Application, window Application and Mobile Application.
+• Experience in Manual Testing with the focus on Functional Testing, Smoke Testing, Integration testing, Retesting and Regression Testing.
+• Experience in working with Business analyst and Developers for projects during full software development life cycle process.
+• Expertise in Defect tracking tools such as you track.
+• Generate test cases based on the requirements and other documents.
+• Good Knowledge in SDLC,STLC, and Bug life cycles.
+• Preparation of Build Stability Report and Daily status report.
+• Preparation of Test Report and Reporting to Developers.
+• Writing Automation Scripting for Modules using Java.
+• Executed Test scripts using selenium web driver. Testing Skills:
+• Manual Testing Java Robot Page object model Framework
+• Selenium web driver Sikuli TestNG Framework
+• Appium Core java Keyword Driven Framework
+Project 1:
+Project Title: Foodie
+Description:
+Foodie is Restaurant Management Solution. Managing and improving the Cash flow of the Restaurant. Mobile pos system, Foodie allows you to Configure the POS station for specific job functions. By matching the user interface to requirements of the position employees are able to operate faster with fewer mistakes. Manager your food costs and inventory with standard and perpetual Features.
+Project 2:
+Project Title: Axis pro
+Description:
+Axis pro is Food Court Management System. Managing and improving the cash flow organisation of the food court. From a central transaction system that encompass a card issue counter, top up, refund and reissue. Managing a large scales Food courts cash flow becomes easy and fuss free. Responsibilities:
+• Involved in writing High level test cases for Modules.
+• Performed GUI Testing, Smoke Testing, Functional Testing,
+• Performed Integration testing between Web and mobile applications.
+• Involved in Regression and Retesting.
+• Detecting defects and tracking into you track .Providing screenshots to identify and reproduce the bugs.
+• Preparation of Daily status report.
+• Preparation of Build Stability Report.
+• Writing Automation Scripting for Modules using Java.
+• Executed Test scripts using selenium web driver. Strength:
+• Ability to work Individual as well as Team Member.
+• Quick learner and Flexible to Ever-changing Technology. Hobbies and Interest:
+• Playing cricket.
+• Trekking.
+Declaration:
+I Hereby Declare that all the above- mentioned information is true to the best of my knowledge.
+Place:
+Date: [S.TEJA]
+
+Contact this candidate

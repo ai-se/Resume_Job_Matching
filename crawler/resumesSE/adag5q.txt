@@ -1,0 +1,142 @@
+
+CURRICULUM VITAE
+
+BISWAJIT CHAKRABORTY
+
+Seeking suitable position in Instrumentation & Control System engineer with a reputed organization in the LNG, Oil and Gas, Refinery and Petrochemical domain.
+
+PROFESSIONAL SYNOPSIS
+
+A dynamic professional with over 23 years of affluent experience in Instrumentation & control system Development of Basic Engineering, Field Engineering, Installation & Commissioning, and Instrument Enhancements. Presently associated with Technip France ME, as a Sr. Commissioning Team Leader Instrumentation & control system. Possesses extensive experience in all aspect of instrumentation includes Engineering, commissioning and warranty maintenance. An effective communicator with excellent relationship management skills and strong analytical, problem solving & organizational abilities.
+
+Knowledge Purview
+
+CORE COMPETENCIES
+Installation & Commissioning
+Instrument Installing and commissioning as well as conducting tests & inspections to ensure operational effectiveness of plant & utilities.
+Responsible for FAT, SAT, loop checking, Functional check & Commissioning activities in DCS, PLC & ESD Systems as a part of PMC Instrument Team. Carried out the functional test and commissioned the molecular sieve beads.
+Pre-commissioning, Commissioning and testing of all installed instruments and control system.
+Carried out loop checks and Function Checks for the 6 x 240 TPH MACCHI and MHI Boilers.
+Revamping Project involved the commissioning activities including functional test, Instrument Loop check of various equipment’s during pre-commissioning, commissioning Hot and cold Transfer of the loops.
+Responsible for loop checking, Functional check, Commissioning and Start-up activities for Reactor, incinerator, Heater all fire equipment as per NFPA regulation.
+Carried out Function checks for Crack Gas Compressor (SIEMENS), for Propane and Ethylene Compressors (ELLIOT).
+Having good commissioning experience of Gas Turbine, Steam Turbine and Multi-Stage Compressors Nuovo Pignone, Siemens, Mitsubishi Steam Turbine Compressor, Gas Turbine work with GE Mark - VI. Instrument Air Compressor, etc.
+Supervising the marshalling cabinets cross wiring till FTA cards for the field signals simulate and testing the same in DCS.
+Direct supervision to QA/QC instrument inspectors and pre-commissioning team in performing their duties, plan the orderly execution of company responsibility matrix
+Familiars with Ciscom, Opercom, IDMS, Winpcs, Petropcs, CDMS, Maximo, MMMS & CMMS in different projects.
+Responsibilities of Engineering Activities
+As a Control and Instrumentation engineer with extensive working experience in oil and gas projects and developed well proven skills combined with a flexible attitude to work. The responsibilities include reviewing of Logics, Configurations, Function Test Procedures, Cause and Effect matrix and other relevant documents.
+Following up with System Software Design modifications and Modification of Logic Typical and preparing as-built drawings as per the installation & commissioning and co-ordination with client.
+Proficient working experience and thoroughly conversant with Instrumentation & Control Deliverables for all project phases, Field Design Engineering of Oil & Gas Facilities.
+Extensive experience of Reviewing the Contract Specification, Preparation of TQs, Scope definition, Work procedures, handling kick off meeting
+Preparation and Review of Instrumentation engineering deliverables;
+Instrument Design basis, Instrument Index, I/O list, Technical specification for Instruments, Specification and Datasheets for Field Instruments/Control valves/On-Off Valves/PSV, Sizing and selection of control valves, flow elements etc.
+Preparation of requisition for field instruments and ICSS, Technical Bid Evaluation of Vendors technical offers, TQs and Clarifications, Procurement supports
+Review and design inputs to designers for preparation of Instrument/JB Location Plan, Cable tray layouts, Instrument Cable Block Diagram, Control/Rack room layout, Loop Wiring, Instrument Hook up, Level sketches, MTO generation and validation.
+Participation in the P&ID review meetings, and Coordination with Various 3rd party vendors.
+Coordination with intra-disciplines such as process, safety, piping, static/rotary, HVAC, electrical for various design input requirements
+Vendor drawing review for package instrumentation.
+Review of System Architecture diagram, GA drawing, Panel wiring drawing for DCS/ESD/F&G cabinets.
+Reviewed Functional design specification for Control systems.
+Participated in Factory Acceptance Test for Honeywell, Yokogawa, Foxboro, & Emerson Delta – V, DCS.
+Carried out Site surveys for various instrument scopes of works.
+Method statement, Risk assessment and JSA documents preparation.
+
+Maintenance & Operations
+Carry out preventive and routine maintenance schedules on all process units and in accordance with maintenance procedures.
+Install, maintain or repair a variety of electronic and pneumatic instrumentations.
+Test, calibrate and re-install repaired electronic and pneumatic instruments ensuring accuracy of operation and recording of data, both within a system or circuit, and in synchronization with others.
+Study and propose enhancements to the control instrumentation and system to prevent obsolescence.
+Experience on Field Instruments and Control Loops tuning, Preventive Maintenance, trouble-shooting, calibration in Oil & Gas industry / Refinery / Fertilizers / Petro-chemicals.
+Worked as a lead of a team of Supervisor, technicians and fitters to get the instrument activities.
+Worked on instruments (Vibration, temperature etc.) related to Compressors, Turbines, Feed Pumps, Heaters, Desalters, CRU, Separators, Boiler, Fractionators and check their permissive & shutdown interlocks. Assisted operation for start-up of the units.
+Involved in modification of control system and loop configuration in running Plant for better performances. As per requirement of job.
+Well Familiar with Calibrating Device like Druck DPI Calibrator, SFC, HART communicator, UNOMAT, Dead weight tester, Decade Box, Thermocouple calibrator.
+Ensure all maintenance records are completed, including work orders, work reports and the maintenance log describing the fault, time, labour and materials used and the recorded values.
+Experience in CMMS System
+Performed data entry to the MAXIMO maintenance system & MMMS (Materials & Maintenance Management system) like work order activities, materials and spares, failure reports and manpower statistic & Handling Computerized Maintenance Management System (CMMS).
+FAMILIARTY WITH PROCESS & CONTROL INSTRUMENTATION SYSTEM
+
+Honeywell Experion C-200 Process Knowledge System (PKS),-DCS & TDC-3000 & TDC-3000X, Total distributed control system.
+Foxboro I/A series, 6.2.1, -DCS.
+Emerson Process Management Delta – V, DCS.
+Fisher Rosemount – RS3, Distributed Control System.
+Yokogawa centum CS -3000, -DCS.
+Fail safe control system (FSC - Honeywell Safety Management Solution),
+IPS Instrument Protective Systems, Triconex.
+Triconex TMR ESD System.
+Modicon Quantum- PLC system
+Siemens, ABB, PLC.
+Bently Nevada- 3500/3300 smart series for vibration and various types of rotating equipment monitoring by Trend master with Pro-Tim like vibration temperature and speed.
+
+Professional Experience
+
+COMMISSIONING & START-UP PROJECTS HANDLED
+
+Qatar Gas Expansion PMP project Ras Laffan, Qatar.
+With TCJV (Technip Chiyoda Joint Venture)
+As a Sr. Instrument Commissioning and Start-up Team Leader since November 2013 to till date.
+Qatar Gas Expansion project QG-2 Ras Laffan, Qatar.
+Worked with CTJV (Chiyoda Technip Joint Venture) seconded from Cegelec, UAE. As a Commissioning and Start-up Team Leader since November 2007 to March 2009.
+Qatar Gas Expansion project QG-3&4 Ras Laffan, Qatar.
+As an Instrument Commissioning Team Leader with CTJV (Chiyoda Technip Joint Venture) seconded from Cegelec, UAE. From September 2009 to 31st March 2011.
+Ras Laffan Olefin Company (RLOC) QATAR.
+Worked with Technip seconded from Cegelec, UAE. As an Instrument Commissioning and Start-up Team Leader since April 2009 to August 2009.
+TAKREER Refinery NCR & GASCO F & G Project Abu Dhabi.
+With Cegelec, Abu Dhabi, UAE as a Sr. Project Engineer from April 2011 to July 2012.
+BP (British Petroleum) ANADARKO & SONATRACH El-Merk-CPF & ISG Project, Algeria.
+With Petrofac international Ltd Sharjah, UAE. Worked as a Sr. Commissioning Eng. Instrumentation & Control System from August 2012 to October 2013.
+
+REVAMPING & COMMISSIONING PROJECTS HANDLED
+
+Abu Dhabi Gas Industries Ltd. (GASCO) ABICS project (ASAB & BAB Integrated Control System), Abu Dhabi, UAE.
+Worked with Cegelec Abu Dhabi as a Sr. Instrument Engineer from June 2005 to October 2007.
+Petrochemical Industries Company (PIC)-Kuwait. Automation & Revamping project.
+Worked with Cegelec Abu Dhabi as an Instrument Engineer for Construction Commissioning and Start-up activity since October 2003 to May 2005.
+
+MAINTENANCE CONTRACTS HANDLED
+
+Petrochemical Industries Company (PIC) - Kuwait. Ammonia & Urea plant.
+Worked as an Instrument & Analyzer Foreman with UB Engineering Co. Ltd. From October 2001 to September 2003. Same time worked with TECHNIMONT Italy, for commissioning activity UREA Automation & Revamping project.
+
+Kuwait Oil Company (KOC) Kuwait. Maintenance contract.
+Worked as a Sr. Instrument Technician with Khalifa–Al–Dabbous Co. Kuwait their maintenance contract under KOC from September 2000 to September 2001.
+Kuwait National Petroleum Company (KNPC) Mina Abdullah Refinery Kuwait. Maintenance contract.
+Worked with SPIC-SMO as an Instrument Foreman from May 1995 to September 1999 with their maintenance contract under KNPC Mina Abdullah Refinery.
+Worked materials data entry system, addition and deletion new and obsolescence materials.
+ZIA Fertilizer Company Ltd.
+Worked with ZIA Fertilizer Company as an Instrument Technician since February 1993 to April 1995 with their maintenance contract.
+
+TRAININGS ATTENDED
+
+Completed an Industrial attachment training organized by Khulna Goalpara Power House from Jul’92-Oct’92.
+Attended in-house safety trainings conducted by KNPC (Kuwait National Petroleum Co.), KOC (Kuwait Oil Co.) PIC (Petrochemical Industries Company Kuwait). GASCO (Abu Dhabi Gas Company), BP (British Petroleum)-ANADARKO & SONATRACH Algeria, QG (Qatar Gas) and Hazardous Area, Work permit procedures (PTW),
+Attended the training Fire Fighting & Evacuation Procedures, etc.
+
+ACADEMIC CREDENTIALS
+
+Bachelor of Electronics & Communication Engineering Degree.
+Diploma in Power Technology with electronics & instrumentation.
+
+IT SKILL SET
+
+Diploma in Computer Application from the London Institute of Technology & Research under the National Institute, Kuwait.
+Conversant with AUTOCAD.
+
+PERSONAL DOSSIER
+Nationality : Indian
+Date of Birth : 15th January 1969
+Local contact phone : +974-********
+Email ID : adag5q@r.postjobfree.com
+Marital Status : Married with one child.
+Driving Licence, no : India -3439/08/BTH
+Qatar- 269********
+Languages Known : English, Arabic, Hindi & Bengali.
+Reference :
+1)Kaushik Chakravarty, QATAR GAS. Mob. +974-********.
+2)Swapan Chakravorty, QATAR GAS. Mob. +974-********.
+3)Kallal Kumar Bhattacharya. HOUSE OF TRADE & CONTRACTING CO., KUWAIT. Mob. +965-*******
+
+Biswajit Chakraborty
+
+Contact this candidate

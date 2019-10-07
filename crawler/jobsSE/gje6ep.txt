@@ -1,0 +1,44 @@
+
+THE ROLE
+
+As a Solutions Engineer, you'll participate in the full range of pre-sales activities from lead qualification to vendor selection by prospective customers. While the core of the role is typically presenting and demonstrating products, SA's/SE's are also responsible for working with various sales reps to ensure.
+Project stakeholders buy into Alfresco All business drivers are clearly understood and satisfied (e.g. by demos) Technical approvers indicate / recommend Alfresco Any competition has been boxed out
+The Pre-Sales Team is proactive, adaptable to change, flexible, and doesn't possess an ego. They have a "we win as a team" mentality and believe in a work/life balance. As a part of the Pre-Sales team and reporting to a senior leader within the sales organization.
+
+You will be responsible for
+
+Supporting our driven and motivated Sales Reps through discovery calls, virtual or live product demonstrations, presentations, proofs of concept, and integration with partner products
+Answering customer inquiries concerning system software and applications, and providing software development and consultation to prospective users
+Contributing to the achievement of regional and team booking targets as defined by the VP of Sales, Americas
+Strategizing with our Sales Reps on how to best work together to ensure Alfresco's success
+Building and presenting the Business and Technical value around Alfresco solutions for our customers.
+Evangelizing our cloud ready platform with customers
+
+Your Keys to your Success are...
+
+Experience with Amazon Web Services cloud computing concepts
+Prior experience as part of an Enterprise Software Sales team and knowledge on how to drive and shape a typical sales cycle
+You’re a solutionist who is technically resourceful with grit & tenacity, who wants to learn and is coachable
+Experience building customized solutions around Content Services (ECM) and Process Services (Automation/improvement AKA BPM)
+Prior Pre-Sales experience with senior level leadership customers, such a C-Level and below
+Prior experience building relationships with technical contacts and possessing excellent communication/presentation/white boarding skills in person and over the phone
+BA/BS College Degree in engineering, computer science or technology preferred
+Spanish language skills
+
+Your Technical Abilities...
+
+AWS knowledge with the following: Regions, EC2/AMI's, EBS Volumes, Aurora, ELB, Auto Scaling, Bastion, S3, CloudFormation, Glacier, IAM, Lambda, Dynamo DB & More
+Docker, Vagrant, VMWare & AWS virtualization solutions
+Managing Java applications and architecture (finding log files, digging out errors, configuring database connections, etc.)
+Moderate to expert Javascript development and/or modification experience
+Understanding and working knowledge of Microservices Architecture
+Understanding and working knowledge of Angular 2 or related UX framework (Angular, REACT, etc.)
+Linux and Windows administration (installing products, diagnosing issues, configuring product and service startups, ports, security, etc.)
+Web application development experience (HTML5, DOM, jQuery, YUI, etc.)
+HTML / CSS authoring, modification, tweaking
+Database experience with common platforms (installation, simple debugging, creating users, etc.)
+Application development concepts and exposure (building/deploying EAR/WAR files, source code management, etc.)
+
+
+Go to apply 
+

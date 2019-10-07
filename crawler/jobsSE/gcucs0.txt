@@ -1,0 +1,71 @@
+
+Ultimate Software is seeking a Performance Test Engineer who is passionate about building scalable systems that serve large numbers of concurrent users. Someone who is passionate about the core concepts of performance engineering and applies them in day to day interactions with the rest of the software development team while coming up with and executing tests and while debugging potential bottlenecks. The individual will work closely with software engineers, cloud engineers, and business analysts.
+
+Software testing at Ultimate Software- Top 20 Place to Work:
+
+Take a look at our company culture:
+
+Check out how we give our employees the chance to work on whatever project they want for 48 hours!
+
+Here at Ultimate Software, we truly put our people first. We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential. Ultimate is ranked #1 on Fortune's Best Places to Work in Technology for 2019 and #8 on the 100 Best Companies to Work For list in 2019. Ultimate is also ranked #1 on Fortune's 75 Best Workplaces for Women and #5 on its Best Workplaces for Diversity list.
+
+Essential Duties and Responsibilities: (other duties may be assigned)
+
+* Ensure quality for our customers by validating Performance, Scalability, and Resiliency in our software solutions by designing, developing and executing tests, frameworks, tools, stubs, mocks.
+
+* Participate in the constant improvement of our Performance Test Automation practices in CI/CD pipelines
+
+* Debug, troubleshoot, and work with team members to find and fix software defects/bottlenecks using application monitoring tools
+
+* Work with business and other stakeholders to determine and define non-functional requirements
+
+* Create reports that describe detected defects and possible causes
+
+Required Qualifications/Skills:
+
+* Ability and tenacity to take each performance issue as far as possible, often to the point of being able to suggest a fix
+
+* 3+ years' experience with Performance testing tools such as LoadRunner, JMeter, Artillery, Locust etc.
+
+* 1+ years' experience writing utilities/tools/frameworks in C#, Java, Golang, Python, JavaScript etc.
+
+* Strong analytical and problem-solving skills
+
+* Exposure to microservices architectures
+
+* Exposure to Google Cloud Platform Products and Amazon Web Services
+
+* Ability to lead and work in projects
+
+* Ability to communicate effectively (listening, presenting and questioning)
+
+Interpersonal Skills:
+
+* Team Player
+
+* Creative
+
+* Self-Motivated
+
+* Detail Oriented
+
+* Strong Decision-Making Skills
+
+* Ability to Multi-Task
+
+Education/Certification/License:
+
+* BS degree in Computer Science, or a related technical field involving coding or equivalent practical experience preferred.
+
+Travel Requirement:
+
+* Limited Travel upon request (less than 10%)
+
+This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
+
+Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company's online employment application, please contact .
+SDL2017
+
+
+Go to apply 
+

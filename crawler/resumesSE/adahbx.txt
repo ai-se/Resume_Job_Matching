@@ -1,0 +1,113 @@
+
+Danish Majid
+Riyadh, Saudi Arabia
+Mob : 009**-*********
+Email: adahbx@r.postjobfree.com
+
+Summary
+A determined, result oriented & performance-driven professional with experience enhancing operational efficiencies, developing solutions and directing IT initiatives to support business critical processes.
+
+Specialties:
+Performing Functional and Technical work mainly within the Oracle EBS R12 Supply Chain (Purchasing, Inventory, Order Management), Oracle EBS Financials (GL, AP, AR) modules.
+Expert in development of Forms, Reports and Interfaces in Oracle Applications R12 environment while maintaining Oracle Apps standards. (Oracle Forms 10g, Oracle Reports 10g, BI Publisher)
+SQL, PL/SQL, Data Loading through APIs/Interfaces
+Automate different Approval process using Oracle Workflow Builder / AME
+Personalization, Alert
+Worked Extensively on Oracle BI Administration Tool, Presentation Services, Answers, & Interactive Dashboards. (OBIEE 11G, Informatica 9, Weblogic)
+Custom Software Development using Visual Studio .Net, SharePoint implementation for Document Management
+
+Professional Experience
+1) Aug 2017 – Present
+Atheeb Intergraph Saudi Company (Riyadh - Saudi Arabia) as Oracle Ebs Techno-Functional Team Lead
+Setup and Configure Oracle R12 Supply Chain Management Modules (Purchasing, Inventory, Order Management) and provide Application consultancy for the daily challenges and change orders on the following Companies.
+1.Pannesma Company Ltd.
+2.Atheeb Intergraph Saudi Company
+My duties include Business Process Re-Engineering (Existing & To be Process Flowcharts), define PR/PO Authority Matrix approval through AME, Inventory Organization Setup, Item Templates(Expense, Asset, Inventory Items), KFF/DFF setups, Workflow Notification Mailer Setup, eBTax Setup for VAT, Forms Personalization, User Training, Documentation, Reconciliation between Oracle SCM and GL data and development of custom Reports based on user requirement etc.
+Automate Approval of AP Invoices/Purchase Requisitions/Purchase Orders using AME. Setup different Approval hierarchies using AME that depends on nature of PR/PO like Internal Requisition or Project Requisition, Item Category (IT, Non-IT) and PO Amount. Approvers are approving the Invoices/PR/PO through Outlook Emails without login to the system.
+Develop custom workflow using Oracle Workflow Builder to automate AP Payment Approval process.
+Supervise the development of Project Proposal System which is used to analyze Profit / Loss on each Bid based on Manpower Cost details and their financial information.
+Uploading Employees data, Jobs, Positions, Supervisors, Item Categories, Items, Assign Items to Org. using APIs and upload data in different value sets using API or through Data Loader.
+Developed customized reports for Oracle E-Business Suite R12.2 Financials Module (GL, AP, AR) in Atheeb Holding Group, Pannesma Company Ltd. and Atheeb Intergraph Saudi Company using Oracle Reports Builder and XML Publisher.
+VAT implementation using eBTax (define Item and supplier level Tax rules) and develop VAT return report.
+Develop different Management Reports for SCM Module like Progress Status Summary report which shows complete link from PR to Invoice level, Bid Abstract Report for Quotations Comparison from different supplier, PO Supplier Wise Status report, and Account wise Reconciliation report between GL-SCM etc. Also generate group level combined reports based on data on multiple servers using DBLink.
+Functional & Technical support to P2P and Financials Life cycles of ERP.
+Implementation and Administration of SharePoint Portal to store internal/project documents.
+Install & Configure Oracle Business Intelligence 12c in Windows Server 2012 R2 which includes Oracle Database 12.1, Weblogic / Oracle Fusion Middleware Infrastructure, Oracle BI Developer Client Tool, Oracle Data Integrator 12.2
+Create different Analysis & Dashboards for Payroll / Projects module using OBIEE. Develop Company / Project / Department level Dimensional Hierarchies based on Payroll Data using BI Admin Tool.
+Time Sheet Allocation: (Oracle Forms Developer/ Reports Builder/ XML Publisher)
+Employee will distribute their Daily Working Hours to different Companies/Projects/Cost centers. Department Manager can approve timesheet (Out-of-office Hours) for their Employees. At the end of the month, system calculates Employees allowances and provisions based on Timesheet allocation and post it to Oracle GL Interface.
+
+2) Feb 2008 – July 2017
+SAUDI BIN LADIN GROUP (Jeddah - Saudi Arabia) as Oracle Apps Technical Consultant
+Worked at Saudi Binladin Group on the following projects as Oracle Apps Technical resource:
+1. Public Buildings and Airport Division (PBAD), Jeddah, KSA
+2. King Abdullah Financial District (KAFD), Riyadh, KSA
+3. King Saud University, Riyadh, KSA
+4. Increasing Mataf Capacity, Makkah, KSA
+
+Developed Oracle E-Business Suite R12 customized reports for Purchasing/Inventory/Enterprise Asset Management/Human Resource/Finance/QAQC/Projects modules using Oracle Reports Builder and XML Publisher according to user requirement. Ex: (PO, INV, EAM, PER, PA, AP)
+Data uploading in HR, SCM modules through open Interfaces and APIs. Upload new Inventory Items, Assign Items to Org, change Item Status (Active/InActive), upload Item Stock balances, and uploading Employee Salary Increments through open Interfaces and APIs.
+Create Mappings using Informatica and load data from Oracle EBS into Oracle BI Data warehouse using DAC. Experience on OBIEE Admin Tool in creating Dimensional Hierarchies, Time Series functions, aggregation on BMM layer.
+Develop customized Dashboards using Oracle Business Intelligence. Also did Customization in BI Repository for displaying Organization base hierarchy / Employee Information / Salaries data. Building and Customizing Security Model in Web logic for OBIEE.
+Create different utilities to import data from legacy systems to customize applications.
+Performed some administrative work such as creating users, menus, adding forms and functions to menus, assigning responsibilities, creating MSR/PO Approval Hierarchies, creating Flex fields, Value sets, and Preparation of Setup guides etc.
+Consult with Oracle Support to resolve issues through Service Request.
+Develop custom Oracle Forms for Interim Payment Certificate (IPC) system, QA/QC system and Productivity systems.
+
+Experience on developing Microsoft Windows based applications as well as web based applications using Microsoft Visual Studio .NET
+Develop Tender Management System using VB.Net to monitor the progress of all Projects and its current Status.
+Develop Block Visa System using .NET to track Agent complete details including the Visa No Issue to that Agent, No. of Manpower required and how many Manpower arrived through that Agent, and details of each Manpower Profession. System also gives complete details of Employee including its Personal Info, Salary Info and Professional details.
+Developed Web services using VB.NET for Mobile applications (Android/iOS) to get data from oracle HR database to give users the facility to check their salaries, attendance, Personal Information from mobile device.
+Development and Administration of Saudi BinLadin Group SharePoint Portal 2013 which includes News/Events, Survey, Polls, Employee Address Book, Organization Chart, Subsites for Each department to store their Documents / attachments in a centralized location, Employee Dashboard, Community Discussion Board, Projects etc.
+
+3) March 2007 – Jan 2008
+Optimal Solutions Ltd. as a Senior Software Engineer
+Develop Commerce server 2007 desktop application for Broadlane–USA to manage the shopping cart.
+I have developed its Order and Profile System Admin Module using C#. The order module is categorized into New Orders, Submitted Orders and Confirmed Orders. Profile module is used to create Users along with its Vendors/Contracts details. Worked with Orders and Profiles Web Services to create and consume different web methods.
+
+4) Nov 2005 – Feb 2007
+First Women Bank Ltd. (Head Office, I.T Division) as an I.T. Coordinator
+
+Designed, Developed and Maintained a web based on-line Signature Card Verification application using ASP.NET and SQL Server that verify the digital signature of the account holder in a centralized environment. Branches can upload and search the Scanned Cards through the system.
+Provide Implementation, installation, training & technical Support to ECIB Data Capturing System all over the country at 38 branches, along with the Server at Head Office, Data Centre.
+
+5) Mar 2005 – Oct 2005
+Eastern Duty Free Services (Pvt.) Ltd. as a Software Engineer.
+Point of Sale Solution (VB.Net / SQL Server)
+Successfully Implemented, Designed, Developed & Maintain multi-user Point of Sale Software by using VB.NET as front-end and SQL-Server as Back-End for Eastern Duty Free Services Pvt. Ltd. It includes Point of Sale (Sales Invoice Transaction (Discount/Promotion), Payment Voucher/Receipt), Credit Card Processing, Barcode Scanning/Cash Drawer, Purchase Order, GRN (Receiving), Request Demand Note, Delivery Issue Note, Internal Receiving Note, Products, Inventory & different Management Reports.
+It provides payment in multiple currencies, manages multiple locations stock & sales, automatic change of Exchange rates using Windows Services.
+
+6) May 2004 – Mar 2005
+SysTech International as a Software Solution Analyst.
+Data Stream MP2 Enterprise Asset Management Software
+Implementing Data Stream MP2 Enterprise Asset Management Software in Dollar Industries and Latif Cotton Mill and develop different software programs & Reports using Visual Basic & Crystal Report, which are integrated with MP2. MP2 is an internationally recognized computerized Maintenance Management system, which is used to track Inventory, Equipment records, generates Task, Requests, Work Orders, Requisition, Quotation and Purchasing. My Duties include MP2 Software Installation, Business Process Re-Engineering (Existing & To be Process Flowcharts) using MS-Visio, Defining user Roles, Configuration, Training and Customization of MP2 Software.
+
+Technical Expertise
+Data Bases Oracle, Microsoft SQL Server, Access, SQL
+Development Tools Oracle Forms Developer, Visual Basic.Net, C#.Net, Visual Basic 6
+Business Intelligence Informatica, DAC, ODI, BI Administration Tool (OBIEE), BI Publisher
+Report Writing Oracle Reports Builder, XML Publisher, Data Loader, Crystal Report
+Tools PL/SQL Developer, Oracle Workflow Builder, Web logic, Sharepoint Designer, Infragistics Controls for .NET, Visio
+
+Academic Qualification
+Jan 2000 – Feb 2004 HAMDARD UNIVERSITY
+B.E (Computer Systems) Bachelor of Computer Engineering
+
+Certifications / Trainings
+MCTS: Microsoft SharePoint 2010, Configuring (Awarded: 2012)
+5 Days Training course of Oracle EBS R12 – Purchasing arranged by Oracle University.
+4 Days Training course of Oracle BI Analysis & Dashboards arranged by Oracle.
+4 Days Training course of Oracle PL/SQL arranged by Oracle University.
+4 Days Training course of Oracle HRMS Fast Formula arranged by Oracle University.
+5 Days Training course of Oracle Workflow by Trainer.
+5 Days Training course of Oracle DBA Administration arranged by Oracle University.
+5 Days Training course of Microsoft SharePoint Administration arranged by New Horizons.
+Internship in ThreeSixtyDegreez Pakistan (Pvt.) Ltd.
+
+Personal Information
+Date of Birth: 07-Feb-1982
+Nationality: Pakistani
+Iqama Profession: Computer Programmer
+Iqama Type: Transferrable
+
+Contact this candidate

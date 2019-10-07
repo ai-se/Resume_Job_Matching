@@ -1,0 +1,23 @@
+
+Title: Software Engineer/Developer
+Location: Mayfield, OH
+Duration: 6+ Months
+7+ Years Exp Required
+Responsibilities:
+Designs, develops, troubleshoots, debugs, and implements DCT Out of box SKIN and/or custom SKIN
+Integrates applications with backend databases, third party API s and other Data sources.
+Researches, tests, builds and coordinates the integration of new products and services per client requirements.
+Responsible for Designing solutions in core Duck Creek application components, e,g Example Server, Express, TransACT, Forms Engine, User Admin, Author etc.
+Work with Business and SMEs to gather and validate the requirements
+Provide guidance or mentorship to the team on Duck Creek solutions and skins solutions where applicable
+Skills Needed:
+Basic knowledge of XML, XSLT, Java script, Ext-JS, CSS,HTML & Schema
+Basic knowledge of SQL.
+Understands Inheritance & other OOPS concept
+Understanding of Duck Creek Policy Suite
+
+Permanent
+
+
+Go to apply 
+

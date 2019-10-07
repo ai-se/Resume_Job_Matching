@@ -1,0 +1,55 @@
+
+We currently have an exciting opportunity for an Automation Engineer (Ansible) to join our Infrastructure Operations team. The successful candidate would be providing exceptional service and uptime necessary to provide millions of end-users with any time, anywhere access to Q2's Online Banking application. As an Automation Engineer, you will help build tools for automation, analytics collection, provisioning and management of Servers, Storage, Network infrastructure and virtualization. You will develop tools for both on-premise and cloud-based infrastructure across a wide variety of platforms including Linux, Windows, VMware, AWS/GCP/Azure.
+
+Responsibilities:
+
+* Administration and Automation of a large IT Infrastructure using Ansible and other scripting tools which includes Server build, Configuration Management, Software installation configuration, OS Patching, Application Patching
+
+* Implement automation practices in infrastructure operations area
+
+* Serves as a Subject Matter Expert in the automation stack
+
+* Help develop automation skills across hosting team members
+
+* Identify and automate tasks based on trends and incoming work
+
+* Create and utilize automation for initializing and provisioning systems and facilitate larger IT department orchestrations
+
+* Systems alert automatic remediation and integration with ticketing system
+
+* Utilize tools like PowerShell, Python, Ansible, Docker to drive consistency of configured systems
+
+* Create and maintain technical documentation and utilize version control systems, such as Bitbucket
+
+* Improve customer satisfaction through effective automation
+
+* Track success of automation and labor reduction
+
+Experience and Knowledge:
+
+* 3+ years of experience in working with Ansible Automation and Ansible Tower
+
+* 5+ years of Linux experience Redhat/CentOs managing complex workloads
+
+* Deep experience in automation via Python, PowerShell, shell scripting, and Perl programming
+
+* Docker and Container experience is required
+
+* Experience in working with Load balancing technologies like F5, BigIP and networking concepts
+
+* Experience with Configuration Management and CI/CD pipelines
+
+* Desired Cloud exposure to AWS, AWS EC2, AWS S3, AWS Lambda and Azure
+
+* Hands-on experience in DevOps/Automation, designing reusable platforms, web infrastructure and Open Source using Ansible
+
+* Hands-on experience in AWS cloud automation and administration
+
+* Must have a sense of humor
+
+* Bachelor's degree in computer science, engineering, or related field expertise
+SDL2017
+
+
+Go to apply 
+

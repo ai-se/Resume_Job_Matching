@@ -1,0 +1,61 @@
+
+We are looking for a macOS/iOS Software Engineer to join our team to help us create, maintain and continually improve products that help our customers find success with the Apple platform.
+
+You participate in an agile delivery team that produces and delivers new features and adapts existing functionality with high quality and reliability. You are a key component in Jamf remaining the best of breed in endpoint management of Apple devices.
+
+Jamf is a fast-paced environment. Successful team members are adaptable to the change that is a part of software development. Our goal at Jamf is to ship the highest quality product to solve our customer's problems.
+
+Responsibilities:
+
+* Build a deep understanding of workflows that make a Jamf customer successful and apply that knowledge to build high-quality software
+
+* Agile Development experience, especially unit testing, continuous integration, refactoring, code reviews, meeting the overall project requirements
+
+* Understanding of and commitment to Agile development methods and practices
+
+* Contribute as a fully embedded member of an agile team, working directly with Software Engineers, Product Managers, Technical Writers, Software Architects, Visual and UX Designers, Product Owners, and others to define, plan, and execute work
+
+* Has ability to positively impact coworkers and teams in a highly collaborative environment
+
+* Create, improve and maintain software components utilizing appropriate software language(s) while applying the necessary engineering theory and logic to meet overall project requirements
+
+* Engage and collaborate with Software Engineers across teams to share and define best practices related to their area(s) of expertise
+
+* Performs all job responsibilities in alignment with the core values, mission and purpose of the organization
+
+* Adheres to the highest moral, ethical and legal standards to deliver an environment that promotes respect, innovation and creativity
+
+* Supports and promotes a positive, inclusive workplace one in which the talents and strengths of our increasingly diverse workforce are welcomed, further developed and manifested in our work.
+
+* Bachelor's Degree preferred
+
+* Experience and knowledge of the macOS and iOS Platform (Required)
+
+* 2-4 years' experience developing enterprise grade software with understanding of testing and quality assurance processes (Required)
+
+* 2-4 years' experience in Swift/Objective-C (Required)
+
+* Knowledge of Xcode and associated build and test tools
+
+* Technical aptitude and desire for continued learning of both Jamf, the latest in testing methods and technology, and the ever-changing world of Apple Software Development and products
+
+* Strong communication, analytical, and listening skills
+
+* Ability to interact effectively with co-workers in a results-driven culture
+
+* Strong written and oral English language skills
+
+Location: Minneapolis, MN or Eau Claire, WI
+
+Travel: Less than 10%
+
+Job Type: Full time
+
+Education: 4-year / Bachelor's Degree in Computer Science or related field (preferred)
+
+Supervisor: Manager, Software Engineering
+SDL2017
+
+
+Go to apply 
+

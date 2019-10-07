@@ -1,0 +1,53 @@
+
+Join the company ranked #1 on the list of Best Places to Work in Jacksonville and Northeast Florida. SS&C Advent, a leading provider of award-winning software and services for the global investment management industry, is seeking a Senior Software Engineer in Jacksonville. The Engineer must have excellent communication and analytical skills. They should possess the enthusiasm and entrepreneurial skills needed to grow with our company. Relocation assistance is available for this position.
+
+This role will work on our Black Diamond Performance Reporting™ solution for the wealth management process. The core product retrieves and reconciles investment accounting data and provides a feature-rich, Internet-based application to analyze performance. Black Diamond Performance Reporting™ helps wealth managers and their clients by providing unbiased, outsourced investment performance reporting.
+
+Job Responsibilities
+
+Ability to complete all phases of software development life cycle including analysis, design, functionality, testing, and support
+
+Developing modular front-end applications using HTML5, CSS/SASS, JavaScript(ES2015+/React/Redux), JSON, etc.
+
+Working closely with members of the product development team to achieve the best user experience while writing modular and scalable code
+
+Own features/pages beginning to end, from mockups & design documents/reviews to acceptance testing and deployment
+
+Communicating and brainstorming with other team members for solutions to client requests
+
+Qualifications Requirements
+
+Strong communications skills
+
+Solution-oriented
+
+Advanced skills with JavaScript utilizing the latest JavaScript features in ES2015+
+
+Experience in one or more JavaScript frameworks (React, Angular 4)
+
+Superior knowledge of and experience with Microsoft C# programming language
+
+Knowledge/Experience with third-party UI/charting controls preferred (e.g., D3)
+
+Superior knowledge of and experience with Microsoft SQL 2008/2012 and T-SQL
+
+Experience with modern front end tooling and development processes preferred
+
+Experience with .NET Core a plus
+
+Knowledge of MongoDB or Neo4j a plus
+
+Experience in wealth management or financial services a plus
+
+BS/BA from an accredited college or university preferred
+
+Salary based on experience. Relocation is available. Some Travel is Required.
+
+Advent Software is an equal opportunity employer, committed to a diverse workforce.
+
+Principals only please. NO AGENCY CANDIDATES WILL BE CONSIDERED. Please apply directly to Advent. No phone calls please.
+SDL2017
+
+
+Go to apply 
+

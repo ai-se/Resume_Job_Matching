@@ -1,0 +1,10 @@
+
+Network Engineer - Marlborough, MA Contract Length: 6 months to start Location: Marlborough, MA Interview: Phone Screen and Video Interview Skill Set: Network Engineer Education and Experience Requirements: A minimum of seven years working as a Network Engineer in a Cisco environment Must have NX-OS experience Must have experience working with dynamics routing protocols such as OSPF, EIGRP & BGP Must have deep skills in setting, configuring and auditing up firewalls (Cisco, Palo Alto, Fortinet) Excellent verbal and written communication skills.
+Bachelor s Degree is a requirement Preferred Skills Cisco Certifications Arista experience SIP experience Experience configuring and implementing an MPLS network Experience working with Software Defined Networking or SDWAN Client is seeking a senior level resource.
+Candidates must have completed a project in at least 3 of the 5 items listed below and must be able to explain them: Nexus Replacement Replace Nexus 7k with new Nexus chassis configuration, physical planning, and cutover Nexus Config Cleanup Review current production Nexus configurations and clean up any unused or erroneous networks, interfaces, etc.
+Firewall Config Cleanup Review current production configurations and cleanup unused objects, rules, etc.
+MPLS Configure new MPLS network and deploy Switch Decom Review current switch config and interfaces, migrate any connections to new switch to decomm current
+
+
+Go to apply 
+

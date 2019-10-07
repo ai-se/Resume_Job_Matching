@@ -1,0 +1,223 @@
+
+SREENIVASA RAO K
+: +919********* / +916********* : ac95l6@r.postjobfree.com
+
+Seeking assignments in Operations & Maintenance / Erection & Commissioning / Construction & Site Management with a growth oriented organization of repute in Power, Oil & Gas sector and petro chemicals and 10+ years of wide practical exposure seeks challenging role in Instrumentation Erection & Commissioning and Maintenance domain.
+
+EMPLOYMENT SCAN
+Organization
+Designation
+Association
+Exposure
+Premier Explosives Limited
+PEL, SDSC SHAR, Sriharikota
+Manager
+Since May 2019 to till
+Plant Maintenance.
+Execute the Daily Activities.
+Thirumalai Chemicals Ltd
+Thirumalai Chemicals Ltd., Vellore, Chennai.
+Senior Engineer
+Since January 2018 to May 2019
+Plant Maintenance.
+Project Execution
+Erection & Commissioning
+Reliance Industriesltd
+Reliance Industries ltd., Jamnagar.
+Maintenance Manager
+Since Nov - 2015 to Jan -18
+Project Execution
+Erection & Commissioning.
+Maintenance
+ANRAK ALUMINIUM Ltd.
+ANRAK ALUMINIUM ltd., Narsipatnam, Visakhapatnam.
+Engineer
+Since Sept – 2009 to Nov - 15
+Plant Maintenance
+Project Execution
+On-site Erection & Commissioning.
+VOLTECH ENGINEER Pvt Ltd.
+VOLTECH ENGINEER Pvt Ltd Chennai
+GET
+Since Aug – 2008 to Sept - 2009
+Documentation preparation.
+Field Instruments Calibration.
+SCHOLASTIC QUALIFICATIONS
+Course
+Institution
+Board/ University
+Year
+B.E. (Electronics & Instrumentation Engineering)
+Avanthi Institute of Engineering and Technology, Visakhapatnam
+JNT University
+2008
+Diploma(Electronics & Instrumentation Engineering)
+Sri Y.V.S.& B.R.M Polytechnic, Amalapuram
+S.B.T.E.T
+2005
+10th (SSC)
+S.K.S.P.V.R.N Govt. High School, Yanam.
+C.B.S.E.
+2000
+
+Project Management
+Managing activities right from the conceptualization stage to the execution, involving finalization of technical specifications, procurement, erection, testing & commissioning, site management, manpower planning
+Establishing project review, monitoring and status reporting procedures to accurately report progress of the project to the stakeholders and end user clients
+Installation & Commissioning
+Managing overall activities pertaining to installation and commissioning of a wide range of state of art technology PLC systems and other process plants on control systems
+Regulating inspection tests for selection of engineering material and development of automation software as well as determining the effectiveness of the equipment / plants
+Instrumentation & Control
+Executing process measurement, control instrumentation & services to monitor, record & optimize manufacturing processes, also configuring and programming various plant equipment
+Managing various interlocking schemes required for automation and analysing all drawings related to automation & control including electrical drawings
+Operations & Maintenance
+Identifying areas of obstruction/breakdowns and take steps to rectify the equipment through application of troubleshooting tools; scheduling and planning predictive, preventive maintenance for process plants, and root cause analysis including budgeting and cost control activities
+Implementing various modifications and checkpoints to reduce breakdown; executing customer centric operations by understanding user’s problem by providing troubleshooting and giving support towards maintenance of systems
+
+Highlights:
+Single-handedly managed instrument calibration & installation activities for Flow, Pressure, Level, Temperature, Valve Stroke Check and Hydro Test at workshop
+Internal Auditor for pre start-up safety review and Sight Acceptance Test for all Field and Control Room Equipments
+Hands-on experience in HART Instruments, Control Valve, Motor Operated Valves, Vibration Probes (Machine Conditioning & Monitoring System Bently Nevada 3300 and 3500)
+Planning of daily maintenance and preventive management actives in SAP. Knowledge on SAP permit creation and work order creation for maintenance activities.
+Implemented partial stroke for On/Off valve with new technology valve link software
+Troubleshoot issues such as Invensys (Foxboro), Honeywell Safety System, Yokogawa Centum VP
+Proficient in carrying out instrumentation activities and enhancing operational effectiveness of equipment.
+Adept in planning preventive & predictive maintenance schedules to enhance operational efficiency.
+An effective communicator with honed interpersonal, problem solving and analytical skills.
+
+PROJECT DETAILS
+Organization: PREMIER EXPLOSIVES Ltd., Sriharikota- Andhra Pradesh
+Designation: Manager (Maintenance) Instrumentation)
+Area of Working: SPP Manufacturing – Grinding,Mixing, off sites and Utilities Maintenance
+PLC: SIEMENS S7-400/ Win SCADA.
+Equipments: Grinders, Agitators, Compressors-Demag and Generators.
+Briefing of Plantt:
+It was a Solid Propellant Manufacturing plant, in which 6 facilities are available with 22 members’ strength. And It is Handling with HTPB, AP, DOA & TDI Chemicals. To realize the Instrumentation and Control system to modernize the solid chemical processing plant like involved in the PLC programming of SIEMENS S7 300/400, development of Wincc SCADA screens, Field Instrumentation.
+Maintenance Activities:
+Experience on Plant Maintenance and it’s plant over view including off sites and utilities.
+Experience on Documentation preparation and trouble shooting of mixing equipments, Weighbridge, Weighing scales, Load cells, Limit Switches, Level Sensors, Pressure Transmitter, etc.
+Experience on Pneumatic positioners, control valve stroke checking and trouble shooting.
+Hands on Experience in preparing Datasheets for different instruments in different applications.
+Preparing maintenance/services schedules for conducting regular calibrations to ensure the performance of equipment’s.
+Planning, estimation, orders required material spares and equipment tracking & implementation of shutdown job plans within budgets and deadlines and coordinating project for the set up facilities.
+Organizing and Active participation in technical discussions with vendors and their sub- vendors to sort out any technical issues and deviation during execution of the project.
+Organization: THIRUMALAI CHEMICALS Ltd., Ranipet- Chennai
+Designation: Sr.Engineer (Maintenance) Instrumentation
+Area of Working: PA – II& III, off sites and Utilities Maintenance
+DCS & PLC: YOKOGAWA Centum VP/ SIEMENS S7-400/ ALLENBROADLY – Rockwell Automation
+Equipments: Reactors, SBC, Gas Coolers, Scrubbers, Turbines-Murray and Compressors-Demag and Generators.
+Projects: a. Thermic Fluid Heater (6.6lacks lit.), - Thermo Tech Systems Limited, Ahmedabad.
+b. Diesel Generators (2X1.5 & 1X2.27MW) – Perkins & Swirling Systems and
+c. Boiler (32TPH, 360deg) – Thermodyne Technologies Pvt ltd.
+Briefing of project:
+It was an Expansion project; Vendors were entrusted with engineering responsibilities. The TFH project is to maintain the Diphyl Oil Temperature for further process of PA, and BOILER is for 5MW turbine.
+Maintenance Activities:
+Experience on Phthalic Anhydride process flow and it’s plant over view including off sites and utilities.
+Experience on Maintenance and trouble shooting of Bagging machine Controllers, Weighbridge, Weighing scales, Load cells, Multipoint thermocouple, Belt Sway Switch, Pull Cord, Level Sensors, Pressure Transmitter, etc.
+Experience on Pneumatic positioners, control valve stroke checking and trouble shooting.
+Hands on Experience in preparing Datasheets for different instruments in different applications.
+Preparing maintenance/services schedules for conducting regular calibrations to ensure the performance of equipment’s.
+To implement and test a wide range of I/O in HART and BRAIN communicators, control function, interlocks, sequences, operator interface and other control components on DCS.
+Monitoring maintenance records like Equipment warranty and failure history, drawing up gradation.
+Work closely with the purchasing, safety departments to ensure availability of the critical spares.
+Managed calibration, overhauling and preventive maintenance of control valves and its positioners
+
+Organization: Reliance Industries Ltd., Jamnagar
+Designation: Manager (Maintenance) Instrumentation
+Area of Working: CPP and Offsite & Utilities - J3 (SEZ & DTA) Expansion Project
+PLC and DCS: Siemens – Turloop-S7 and Schneider Electric- Invensys
+Equipments: Turbines- Siemens and Generators- TDPS
+Project: J3 Gasification Expansion Project
+Briefing of project:
+It was a green field and Expansion project, Siemens was entrusted with engineering responsibilities. CPP and off site & utilities Plant is to be built in the SEZ & DTA area of the refinery. These plants are use Full and Support to Gasification, ASU and Cooling Tower Plants and CPP (Steam) plant is designed to produce 150MW
+Maintenance Activities:
+Involved in DCS and PLC Logics programming and Logics & Graphics modification.
+Execute the Logic checking, testing & commissioning of wide range of automation systems along with carrying out instrumentation activities and enhancing operational effectiveness of equipment.
+Manage the engineers and Technician’s for planned, unplanned jobs, shift rotation and shutdown jobs.
+Attending daily meetings Production, Operation and Maintenance departments.
+Involved in incident investigation during the equipment shutdown.
+Participated in Factory Acceptance Test (FAT) and Sight Acceptance Test (SAT) for Control for Systems like PLC, DCS (Schneider Electric-Foxboro) and Field Equipments or Instruments.
+Experience of rotating equipment’s like Turbines and Compressor’s logic, sequence and field instruments checking.
+Witnessed for instrument calibrations, installations, loop check of instruments (HART ), valve stroke check, hydro-test and motor operated valves functional check
+Review of DCS/HMI graphics with operation department and PLC and DCS I/O allocation
+Studied & reviewed technical specifications & datasheets for various Field Instruments like Electronic Transmitters, Flow Elements, Control Valve, and ESD Valve. various types of Flow Meters & Level Instruments
+Supervised basic process of CPP with supporting documents PFD, PID, process materials & attended process training
+Attended daily & weekly meetings with the other disciplines to discuss field related problems
+F&G System–HIMA PLC, Fire Detection System – Detection India Instruments (Gas Detectors, heat & smoke detectors, Manual Call points, UV-IR Sensors)
+Scrutinized Valve Stroke Check and Calibration of Control Valve & On/Off Valves
+Organization: ANRAK Aluminium Ltd., (CGPP), Narsipatnam, Visakhapatnam
+Designation: Instrumentation Engineer (Maintenance).
+Area of Working: CGPP and Offsite & Utilities
+DCS: YOKOGAWA Centum VP.
+Equipments: Boilers (CFBC)-Thyssen Krupp, Turbines-BHEL and Compressors-Atlascopco and Generators.
+Project: GREEN FIELD Alumina (1.5MTA) Project
+Briefing of project:
+It was a Green field Alumina project with 225MW Co-Generation power Plant, ThyssenKrupp Industries ltd., was entrusted with engineering responsibilities.
+Maintenance Activities:
+Successively commissioned the 3x75MW Thermal Power plant with BOP from GREEN Field project.
+On line problem identification and trouble shooting of field instruments, DCS and PLC during plant operation with quick response to minimize the down time.
+Commissioned & troubleshot the process control instruments like maintenance, calibration & loop checking of pressure, temperature, flow, level, transmitters, switches and controllers
+Executed instrument construction like Erection and Commissioned activities on site
+Graphics Modification as per Operation Requirement and PID Tuning of Boiler’s Cascade control loops Three-Element Drum Level Control, Attemperator Temperature Control and Furnace Pressure Control.
+Experience on Machine condition monitoring system - Bentley Nevada-3500.
+Preparing the Daily and weekly reports as per required by O&M Department.
+Maintenance & troubleshooting of DCS & Relay Based Control Panels of Steam Turbines, Air Compressors and Machine Monitoring system, etc.
+Maintenance, Erection and Commissioning of Filed DM Plant/Boiler’s Analysers as per location drawings, having knowledge on following analysers Installation/Commissioning and Calibration like
+Co, O2 and CEMS related to boiler combustion system
+Ph. Conductivity and SWAS related to DM water quality
+Handling shift maintenance works on regular basis leading a team of junior engineers and technicians
+Coordinating various departments for individual and group trial of Equipments as per standard logic specified by consultant and process engineers.
+DCS Panels Erection and Charging and installation of all work stations as per document.
+Checking of drawings, documents, various PID and control loops schemes plant protection and interlocks, instrument data sheets etc. and their approvals.
+DCS Logic checking, Logic modification, Graphics Preparation and Trail runs taken for all LT & HT drives from DCS.
+Maintenance of documentation related to Field Instrument termination so as to ease troubleshooting.
+
+Organization: VOLTECH ENGINEERS Pvt Limited Chennai - India
+Designation : Instrumentation GET
+Duration : Aug -2008 to Sep-2009
+Maintenance Activities:
+Monitored Loop Checks & Logic Checks of instruments with HART & Field Communicators like Yokogawa, Emerson and ABB-375/475, Loop Calibrator, Pressure Calibrator & so on
+Studying of P&ID’s and resource planning as per consultant’s documents
+Calibration and Reports preparation for the corresponding Instruments.
+I/O testing and loop testing of field instruments, Valve Stroke Check and Calibration of Vibration Probes, Control Valve & On/Off Valves.
+Calibration – I am having Experience on the following Master Calibrators
+Universal Loop calibrator : Masibus, Yokogawa, Crystal, USA (handheld pump)
+Temperature baths : Nagman, Julabo, atop and Divya process.
+
+KNOWLEDGE PURVIEW
+Transmitters: SMART & Conventional Transmitters of Rosemount, Honeywell, Siemens, ABB, Yokogawa, E&H Magnetic Flow Meters, VEGA Ultrasonic Level Transmitters.
+Control Valves: Fisher, IL, MIL, Flow Serve, Rotex and
+Motorized Valves: Auma, Rotorque, ANTIRIEB, Bharat limitorque
+Variable Frequency/Speed Drives: ABB/ Voith coupling
+Testing Equipment& Field Communicators: HART 375, 475, BT-200, CA-71 Source, DP60 GE Pres. kit
+PERSONAL DETAILS
+Languages Known: English, Hindi, Telugu and Tamil
+Passport: N4649040 (Date of Expiry-04th Nov 2025)
+Address: Door No. 3-17, Kothakompalu vil., Pillanka P.O., Tallarevu Mondal East Godavari Dist.,
+Andhra Pradesh, Yanam-533464
+DECLARATION
+I hereby declare that the above mentioned information is true in best of my knowledge and belief.
+Date:
+Place: Sriharikota Sreenivasa Rao K
+
+A result driven professional with over 11 years of rich and valuable experience in Project Execution, operation & Maintenance and Instrumentation Engineering in Petrochemical, Oil & Gas industry.
+Proactive in identifying areas of obstruction and breakdowns for safe plant operations in any instrumentation side defects as well as taking steps to rectify the equipment through application of troubleshooting tools.
+Effective in ensuring zero / minimum breakdown as well as maximum availability of plant & machinery to increase up- time & equipment reliability
+A keen performer with expertise in DCS and PLC programming, Graphics and Logics Modification as per Operation requirement.
+Proficient in carrying out entire project execution with key focus project management involved Logic checking & testing & commissioning of wide range of automation systems along with carrying out instrumentation activities and enhancing operational effectiveness of equipment
+Proficient at handling erection & commissioning activities involving resource planning, in-process inspection, team building and co-ordination with internal / external departments
+Regulated calibration, installation testing and maintenance of vibration probes (Make: - Bentley Nevada).
+Conducted Tool Box Talks with the Maintenance Team regarding compliance to HSE procedures.
+CORE COMPETENCIES
+Instrumentation & Control
+Programming on DCS & PLC
+Client/Vendor Interaction
+Process Enhancements
+Pre-commissioning and Commissioning
+Project Management
+Project Execution
+Calibration of Field Inst.
+Trouble Shooting of Field Instruments
+Material Inspection and Clearances
+Spare Parts Management
+
+Contact this candidate

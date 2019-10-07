@@ -1,0 +1,250 @@
+
+CHARANJEET SINGH SANDHU
+
+SOLUTION SPECIALIST
+(VMware and cloud solutions for NetAct)
+
+OSS professional with 12+ years of experience in system integration, consulting and support in the field of IT and Telecommunication.
+
+CONTACT
+
+SKILLS
+Cloud Solutions (Open stack & VMware)
+VMware Virtualization vSphere 6.0
+OSS Installation and commissioning for new deployments (Nokia NetAct & Ericson OSSRC)
+Expertise in Disaster Recovery solution for Nokia NetAct.
+Software Upgrades and maintenance for OSS systems.
+Hardware - HP C7000 Blade enclosures, IBM mainframes, Oracle Enterprise servers.
+Red Hat Enterprise Linux release 6.x & 7
+Networking - (HP 5510 L2/L3 switches) Cisco 3020 series, HP Virtual Connect 10/10D, SAN Brocade switches.
+Windows server 2008 & 2012 System Administration.
+Citrix Administration for XenApp 6 & 7 release.
+Storages - (DELL/EMC VNX series & Unity)
+OSS Presales & costing for new services.
+Troubleshooting & Remote support.
+Team building / leadership.
+Excellent communications skills.
+Project management.
+Team management & client relations.
+On-call experience.
+Shell / Perl scripting
+Attention to detail and quality in work.
+PHONE:
+
+416-***-****
+
+EMAIL:
+
+adafzb@r.postjobfree.com
+
+LINKEDIN:
+
+https://linkedin.com/in/charanjeet-singh-sandhu
+
+Canadian Permanent Resident
+
+ADDRESS:
+
+38 Fandor Way,
+Brampton,
+Ontario
+ON,L7A2G9
+
+WORK EXPERIENCE
+
+TRAININGS
+
+NetAct Deployment on Open stack cloud.
+VMware vSphere 6.0 Administration.
+NetAct Administration.
+NetAct Installation and Commissioning.
+Traffica Administration NCSS.
+Ericsson OSSRC 14.0 Administration.
+ENIQ 14B troubleshooting.
+Microsoft windows server 2012 Administration.
+Symantec NetBackup Administration and Troubleshooting.
+Soft Skills training.
+(1-week classroom)
+Cloud Application Manager.
+
+NOKIA SOLUTIONS AND NETWORKS, Chennai, India
+Solution Specialist
+[Aug 2015 to Aug2019]
+
+Leading NetAct project activities for solution deployment and software upgrades for global customers. Also, provide technical support on urgent issues faced during project deliveries.
+Create technical solutions for customized project deliveries and act as a Solution Architect for preparing VMware/Cloud solutions for NetAct.
+Preparing system deployment/upgrade plan in accordance with the MOP. (Method of procedure)
+Prepare presales / high level document as per customer requirements for NetAct project deliveries.
+Prepare and implement NetAct migration plan using VMware vmotion, HCX and other tools.
+Experience in Installation and upgrades for NetAct 8, 15, 16, 17, 18, Cloud Application Manager and Network 360 solutions.
+Configure VMware vSphere, ESXi 5.1,6.1 VMware clustering (DRS, Vmotion) on existing NetAct solutions.
+Building team strength technically and motivating the team to provide quality support.
+Support Integration of various Network elements of 2G, 3G and LTE network (BSC, MSC, MGW, RNC, HLR, MSS, iOMS, MRBTS, MME) with NetAct.
+Troubleshooting problems related to Fault management, Configuration management, Performance management, Security management in NetAct.
+Work with R&D teams to provide customized solution for NetAct Disaster recovery on top of Open stack and VMware cloud environments.
+Configure NTP, DHCP, DNS server configuration on RedHat enterprise server.
+License installation (Run Time / Installation Time) and respective feature configuration & activation.
+Setup internal lab for testing of customized and standard solutions for NetAct Cloud that requires SDN (software defined networking) and SDS (software defined storage).
+Implement OSS major upgrades and hot fixes for NetAct Releases.
+Provide remote support for critical issues faced during upgrades, commissioning, and new integrations.
+Handling Fault management applications like Alarm Monitor and Alarm History.
+Manage an online database (oracle RMAN) and offline VDP backups for NetAct as per customer requirement.
+Conduct and supervise technical interviews for new recruitments in the team.
+Travel onsite (India & Abroad) for project deliveries.
+CERTIFICATIONS
+
+Nokia certified engineer for NetAct deployment on open stack cloud.
+VMware VCP 6.0 certified professional.
+Nokia certified Installation engineer for NetAct deployments.
+Nokia certified Administrator for NetAct solution.
+Traffica NCSS certified from Nokia.
+HP Blade X86 Certified from Ericsson.
+HP certified engineer for enterprise servers & storage.
+
+QUALIFICATIONS
+
+Bachelors:
+Electronics and Telecommunication Engineering from Bharti Vidyapeeth College of Engineering and Technology,
+Mumbai University – 2004 to 2007
+
+Diploma:
+Electronics Engineering from
+Vivekananda Polytechnic,
+Maharashtra State Board of Technical Education – 2001 to 2004
+
+Secondary School Certificate (SSC), Maharashtra State Board – 1999 to 2000
+
+PRESENTATIONS
+
+Conducted a session on NetAct storage Migration from VNX series to Unity series.
+Presented a session on IP requirements for NetAct Disaster Recovery solution on top of VMware Cloud.
+Presented Disaster Recovery NetAct solution session to local team as a part of Knowledge transfer.
+Conducted Internal training for VMware vSphere Troubleshooting.
+Trained colleagues & subordinates for enablement in NetAct Presales and costing.
+Conducted Internal sessions on NetAct solution to new recruits for enablement.
+Conducted training on Ericsson OSSRC / ENIQ solution for knowledge transfer to internal team.
+WORK EXPERIENCE
+
+ERICSSON INDIA PRIVATE LIMITED, Mumbai, India
+Senior Solution Integrator
+[July 2013 to Aug 2015]
+
+Led various product delivery projects for customers in and outside of India which formed a part of Service Delivery Management process delivering Ericsson OSSRC/ENIQ solution.
+Implemented technical changes required by the customer to be incorporated in the enhanced Ericsson solution.
+Deployed Ericsson OSS Related Solutions in customer environment which involved maiden installation of complete product or upgrade / enhancement of the product.
+Configured and integrated different nodes into customer EMS-NMS products.
+Resolved critical technical issues during the deployment phase.
+Prepared Solution Design & Analysis documents for OSSRC/ENIQ as per specifications.
+Conducted technical presentations of Ericsson OSS Products to the customer with respect to the product benefits, changes, features, usage, etc.
+Delivered Learning Services from the deployed Solutions.
+Conducted and supervised technical interviews for new recruitments in the team.
+Travelled onsite for project deliveries.
+
+TECHNOLOGY ASSOCIATES, Nairobi, Kenya
+Senior Enterprise Engineer
+[Aug 2012 to July 2013]
+
+Installation of Unix/windows/Linux servers and configure hardware, applications, services and storage in accordance with best practices and project/operational requirements.
+Participated in the operational projects and provided support to the customer as per the requirement.
+Configuration of IBM WebSphere & Oracle WebLogic applications for TA customers.
+Manage SAN environment & predict system capacity and load in accordance with the network.
+Oracle Database Administration 10G.
+Supervised firmware upgrades for HP and Oracle systems.
+Implemented Backup Strategy for the Production servers using HP data protector.
+Led a team of System engineers and prepare project plan in accordance with customer requirements.
+Created security policies for customers using RBAC (role-based access control) on production servers.
+Configured HP System Insight Manager & IRS for real time monitoring customer production systems.
+
+WORK EXPERIENCE
+
+PERSONAL INFO
+
+Date of Birth: 11 September 1984
+
+Nationality: Indian
+
+Religion: Sikh
+
+Marital Status: Married
+
+Languages Known:
+
+English, Hindi, Punjabi, Marathi
+ALCATEL LUCENT TECHNOLOGIES, Bangalore, India
+Senior Engineer
+[Feb 2011 to Aug 2012]
+
+System Administration on Ericsson OSSRC, Ericsson Multi Mediation, Ericsson Multi Activation, Ericsson Lawful Interception NMS, Ericsson DXX system, Alcatel 1353 NM /1354RM Products for SDH Transmission network including providing L2 support to the customer back office team 24*7.
+Preventive Maintenance for the above systems and routine Health checks.
+Ensured Backup and Recovery Procedures for the above mentioned systems and prepared a disaster recovery plan in case of emergency.
+System Installation and upgrade for the NMS/EMS systems in accordance to the project requirements.
+Worked onsite for customer, involving travels to customer location (Europe) and acquired handover for the project.
+Handled operational requests and implemented the tasks as per SLA.
+Organized team meetings and coordinated on technical issues with team members.
+Coordinated with product design teams for solving technical issues escalated for resolution.
+Conducted internal trainings and knowledge sharing sessions within the team to enhance competence and skill levels.
+Prepared shell scripts for preventive maintenance for multiple OSS systems.
+
+HOBBIES
+
+Traveling
+
+Sports -Walking, Exercise, Bicycling
+
+Volunteer work
+
+Music
+
+Socializing
+ERICSSON INDIA PRIVATE LIMITED, Gurgaon, India
+Support Engineer
+[Sep 2009 to Feb 2011]
+
+Worked as L2 Service Engineer and handled various issues for OSS/ENIQ system administration.
+CSR handling on technical issues for customers and resolve within SLA.
+New OSSRC/ENIQ implementations for various customers as per requirement from the project team.
+Implemented small and large OSSRC/ENIQ upgrades.
+Provided emergency support as per the requirement for OSSRC/ENIQ.
+Coordinated with customers on technical issues and implemented standard operating procedures.
+Prepared technical documents for ENIQ (Ericsson Network IQ) operation and maintenance.
+Conducted internal knowledge sharing sessions within team on OSS.
+New OSSRC/ENIQ installations for Vodafone Delhi and Idea Pune.
+Performed database migration as part of OSS upgrades.
+Installed and configured Sun Storagetek 3510,2540 storage arrays connected to OSS and ENIQ.
+Conducted acceptance test for the new features integrated in the customer OSS network.
+Implemented security policies for Vodafone Pune and Idea Pune.
+System monitoring and health check for OSS systems.
+
+WORK EXPERIENCE
+
+ACHIEVEMENTS
+
+Awarded for upgrading Network 360 solution on top of Stretched cluster in Oct 2018.
+Awarded as Leading engineer for NetAct emergency support May 2018.
+Awarded for excellent support in crisis during NetAct upgrade in Jan 2018.
+Awarded for resolving Citrix issues in customer Production NetAct in Jan 2018.
+Awarded Employee of the month in Sept 2017.
+Awarded for excellent customer ratings for NetAct project deliveries (CSS score 9/10) in June 2017.
+
+RELIANCE COMMUNICATIONS, Mumbai, India
+Engineer – Operations Planning and Support
+[Sep 2007 to Sep 2009]
+
+Managed and setup a complete telecom network consisting of numerous servers and performed system administration tasks to maintain the network.
+L2 operation and maintenance of HPUX, Solaris & windows servers.
+Installed and configured NMS/EMS systems for production.
+Package and Patch Management for Oracle and HPUX environments.
+Troubleshoot system issues and resolved them on priority.
+Installed third party software’s (Apache Webserver, IBM Installation Manager, Oracle Web logic, etc) on the Solaris/HPUX systems as per the customer requirement.
+Planned and implemented a backup strategy for mission critical servers.
+Backup and Recovery using ufsdump / ufsrestore, tar utilities.
+Server Installations & configuration through JumpStart, Flash installations.
+Prepared shell scripts to automate daily tasks.
+Configured disk RAID for data protection on production servers.
+Configuration and Administration of NFS, NIS, Servers.
+Implemented server and database migrations for NMS (Marconi) along with Ericsson team on production systems.
+REFERENCES
+
+Available upon request.
+
+Contact this candidate

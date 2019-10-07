@@ -1,0 +1,109 @@
+
+SRIKANTHA SOMASHEKAR REDDY
++1-781-***-**** adae95@r.postjobfree.com USA,Massachusetts 02188
+PROFESSIONAL SUMMARY
+Summary of Professional Experience: Energetic Project Leader with about 12+ year background in Mainframe Development and project leadership. Talented in coordinating internal resources for the flawless execution of detailed projects. Adept in monitoring performance by utilizing appropriate tools and techniques.
+
+Highly trained individual knowledgeable in Mainframe Modernization technologies and considered a talented leader.
+SKILLS
+Coding and modularization
+Project documentation
+Excellent communication skills
+Troubleshooting
+Certified Scrum Master
+Mainframe Digitization
+Mainframe DevOps - Automation
+Changeman, IBM Relational Team Concert, XML, SOA, Webservices
+Languages: COBOL, JCL, DB2, CICS, REXX, PL/I, Python
+Databases: VSAM, IBM DB2, MySQL
+SDLCs: Agile, Waterfall
+Modernization Tools: Jenkins, Ansible, Dockers, AWS
+
+SIGNIFICANT ACCOMPLISHMENTS
+Completed all projects successfully with no post install issues.
+Got experience in working on both Agile and Waterfall model SDLCs.
+Saved manual efforts by automating manual tasks using REXX and Python.
+Completed POCs using python, AWS, Jenkins and Dockers part of topcoder within Wipro.
+Digitized mainframe CICS screens into Python, Django and MySQL and improved customer experience and saved Mainframe CPU cost.
+Improved fund processing timelines using CICS, COBOL, DB2 and MQ and created on demand and asynchronous job submission.
+Implemented DevOps in mainframe world using Rexx and Cobol by automating manual activities.
+Worked as freelancer and completed Data processing assignments using Python modules.
+As part of technology transformation, gained proficiency in Python, Selenium and DevOPS tools.
+
+WORK HISTORY
+Oct 2011 - Current
+Quincy, MA
+Module Lead / Wipro Technologies
+For the client State street Corporation:
+
+Trained junior members of IT team regarding development cycle and application that we develop & maintain.
+Developed software functionalities, using COBOL, PL/1, DB2, CICS and JCL.
+Established compatibility with third party software products by developing program for modification and integration.
+Collaborated with clients to gather requirements and verify the test results.
+Analyzed and designed solutions for system bugs in MCH application using COBOL, PL/1.
+Improved the fund processing timelines by developing solutions using MQ, COBOL, CICS, DB2 and JCL to create on demand jobs.
+Created asynchronous job submission process using CICS, MQ and JCL.
+Saved business SLA and Mainframe processing cost by optimizing the trade enrichment process by redesigning the existing system using COBOL, PL1, CICS and DB2.
+Implemented technical feasibility solutions using COBOL and MQ for new functional designs and suggested options for performance improvement of technical objects.
+Digitized mainframe CICS screens using Python, Django and MySQL.
+Created Stored procedure to replace manual activities using Java based web applications.
+Created CICS screens using CICS, COBOL, PL1 and DB2.
+Provided continued maintenance and development of bug fixes and patch sets for existing mainframe-based applications.
+Independently designed and executed projects to implement the customer requirements effectively using COBOL, PL1 and DB2.
+Created webservices using CICS, COBOL, XML and DB2
+Developed work-flow charts and diagrams to ensure production team compliance with client deadlines.
+Designed strategic plan for component development practices to reduce production issues and to automate manual tasks, eventually saved business cost.
+Automated manual activities using REXX, and Python.
+Jun 2008 - Oct 2011
+Bengaluru, KA
+Senior Software Engineer / Attra
+For the client GE Capital on VisionPlus application
+
+Created new programs to facilitate system migration.
+Enhancing VisionPlus applications such as CMS, and FAS.
+Worked closely with customers to efficiently convert requirements into bug free software.
+Updated and fixed existing software and system applications.
+Improved system performance by making proactive adjustments and resolving bugs.
+Estimated work hours and tracked progress using TDD methodology.
+Created proofs of concept for innovative new solutions.
+Worked closely with other departmental peers to develop high availability solutions for mission-critical applications.
+Worked with project managers, developers, quality assurance and customers to resolve technical issues.
+Wrote test cases so that the application could be tested in a legitimate environment.
+Reviewed code and corrected errors.
+Consistently met deadlines and requirements for all production work orders.
+Jun 2007 - Jun 2008
+Bangalore, India, India
+Technical Support Representative / Greet Technologies Pvt Limited
+Enthusiastically participated in job related training.
+Resolved customer issues in a clear, courteous and straightforward manner.
+Reviewed technical documentation and procedures.
+Worked closely with team members to meet or exceed all customer service requirements.
+Led internal product training for Tally Shopper.
+Followed up with clients to ensure optimal customer satisfaction.
+Retained existing clients and developed new business by extending high quality and efficient service.
+Installed software, modified and repaired hardware and resolved technical issues.
+Assisted customers with order placing.
+Maintained and updated customer service database.
+
+EDUCATION
+2007
+India
+Bachelor of Engineering in Information Technology
+V.T.U University
+Graduated with 65.87% in the year 2007
+2003
+India
+10+2 in Pre-University College
+PRE-University, Board of State Education, Board of Secondary School
+Graduated with 73.12% during the year 2003
+
+PERSONAL INFORMATION
+Name : Srikantha Somashekar Reddy
+Father's Name : Somashekar Reddy
+Birth Day & Month : 31st July
+Marital Status : Married
+Visa : H1B
+Passport Number : P4763533
+Present Location : Quincy, Massachusetts
+
+Contact this candidate

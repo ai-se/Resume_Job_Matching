@@ -1,0 +1,49 @@
+
+Urgent direct client requirement for DevOps Engineer based in Princeton, NJ
+
+Iris's client, a large insurance company, is currently searching for a strong for a DevOps Engineer based in Princeton, NJ to join their team.
+
+Job title: DevOps Engineer
+Location: Princeton, NJ
+Duration: 24 months
+
+Job description:
+
+Description: Senior Build and Deployment Engineer:
+Unix, Linux and Windows operating and scripting skills (Shell, Perl and PowerShell),strong Unix/Linux shell scripting, developing batch jobs, AutoSys Jobs.,
+experience in GIT, Eclipse, ANT, Maven are necessary.
+2 3 years of experience in handling AWS Cloud InfraStructure
+2 3 Years of experience in Application Monitoring Dynatrace and Log monitoring SPLUNK.
+easoned UNIX/Linux Shell scripting with Korn/Bash/Csh shells, experienced user of vi.
+Good understanding of Jill and Auto Sys jobs.
+3-5 years of experiences with Apache and JBoss Application Server Platform, including setup, configuration and maintenance.
+5 year plus experiences with TCP/IP Network setup and troubleshoot;
+
+The candidate must have significant experience with technologies listed below:
+5 years plus of hands-on experiences with Red-Hat Linux systems, setting up and maintain programs on Linux platform.
+2 3 years of experience in handling AWS Cloud InfraStructure
+2 3 Years of experience in Application Monitoring Dynatrace and Log monitoring SPLUNK
+Seasoned UNIX/Linux Shell scripting with Korn/Bash/Csh shells, experienced user of vi.
+Good understanding of Jill and Auto Sys jobs.
+3-5 years of experiences with Apache and JBoss Application Server Platform, including setup, configuration and maintenance.
+5 year plus experiences with TCP/IP Network setup and troubleshoot;
+Understanding and experiences with setting up SSL certificates on both server and client side for Java applications;
+5 year plus experiences with Jenkins Continuous Integration Tool, including writing build scripts, pipeline jobs, system setup, configuration and maintenance.
+5 years of working experience with Maven and ANT tools.
+Experience (or extensive knowledge) with establishing Devops process is desirable.
+Experiences with Git usages.
+2 - 3 years of working Experiences with cloud platform, AWS experience is desirable.
+5 year plus Experiences with Oracle Database connections and PL/SQL execution and troubleshooting;
+Troubleshooting with large Java applications and debugging with Java log files;
+Setting up Java applications with Linux and Windows Startup scripts with Java specific options
+Extended Knowledge with Java programming and compiling of the Java applications, use of eclipse or JBoss IDE.
+Excellent communication skills with the DBA, Engineering and Support groups and Developers.
+The candidate must also have:
+Good interpersonal skills to interact with clients and other technical staff.
+Strong written and oral communication skills are essential.
+
+Contract
+
+
+Apply now
+

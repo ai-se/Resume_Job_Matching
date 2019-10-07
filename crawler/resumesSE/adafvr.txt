@@ -1,0 +1,275 @@
+
+adafvr@r.postjobfree.com
+Rings: +91-756*******
+: +91-889*******
+: +91-477-*******
+
+Career Objective:
+
+To perform better than the expectations and to increase the productivity/profits of the company to act as a source of inspiration for the people around me to associate myself with an organization which provides me to build up a challenging career, dynamic personality and enhance my skills and be a part of the team that excels in achieving the assigned tasks towards the growth of organization.
+
+Professional Summary:
+
+2 plus years of hardcore experience in Oracle D2K for Software Development/ Production Support/ Enhancement - using oracle 11g/10g/9i.
+Total 8 plus years of hardcore experience in Oracle D2K, PL/SQL for Software Development/ Production Support/ Enhancement - using oracle 11g/10g.
+1 Plus Years of Experience in Oracle BI.
+5 Plus Years of Experience in PL/SQL.
+Doing certification in HTML5 and Angular.
+Excellent coding skills in PL/SQL.
+Hands on experience in writing Procedures, Functions, Packages, Triggers, Cursors and advanced PL/SQL techniques like Collections, Ref Cursor etc.
+Experienced in Developer D2k, Development of various applications using Forms Builder, Reports Builder
+Excellent in designing/developing Forms/Reports, skilled in handling form triggers at various levels.
+Open to new technologies
+Having good analytical and problem solving skills. Good communication and presentation skills, self-motivated, hard working and quick learner.
+
+Employment Summary:
+
+Employer
+Position
+Period
+Wipro Technologies
+Senior Software Engineer
+June 2019 – Till Date
+Thinking Code Technologies PVT LTD, Cochin.
+Senior Software Engineer
+May 2014 – April 2019
+IGEFI Software India Pvt. LTD Trade as Mutlifonds, Bangalore
+Software Engineer
+Dec 2012 – April 2014
+iRely Softservice(P)Ltd(A concern of Harris Freeman Group, USA),
+Bangalore and Cochin.
+Senior Software Engineer
+Oct 2010 – Sept 2012
+Impact Integrated Info Systems (P) Ltd.
+Software Engineer - 6 Months Trainee in Medical Management System.
+Feb 2010 – Sept 2010
+
+Skill Profile:
+
+Databases
+Oracle 12c/11g/10g/9i
+Programming Languages
+SQL, PL/SQL
+Front-End (GUI)
+Oracle Form Builder (11g/10g,9i/6i)
+Reporting Tools
+Oracle Report Builder (10g,9i/6i), BI Publisher
+Other Tools& Utilities
+TOAD, PL/SQL Developer, VSS, Putty, SVN
+Operating Systems
+Windows, Linux
+
+Professional Projects Handled at Wipro Technologies:
+Project : Xerox
+Role : Senior Software Developer
+Team size : 3
+RDBMS : Oracle12c
+Technology : SQL, PL/SQL
+OS : Windows XP, Linux
+Duration : June 2019 to Till Date
+
+Major Project
+DDN Application.
+
+Responsibilities:
+Developing complex PL/SQL Packages/Procedures/Functions/Triggers etc.
+Functional Testing.
+
+Professional Projects Handled at Thinking Code Technologies Pvt Ltd.:
+Project : Tristar
+Role : Senior Software Developer
+Team size : 5
+RDBMS : Oracle11g
+Technology : SQL, PL/SQL
+OS : Windows XP
+Duration : May 2014 to April 2019
+
+Major Projects
+iTake, Intranet, iPacs, Disability, iCast, BI Reports etc.
+
+Description
+
+Tristar is an insurance provider company and the major projects I worked on are Dashboard, Reports, iTake, Intranet, iPacs, Disability, iCast and BI Reports.
+
+Responsibilities:
+Developing complex PL/SQL Packages/Procedures/Functions/Triggers etc.
+Creating New BI reports.
+Functional Testing.
+
+Professional Projects Handled at IGEFI Software India Pvt Ltd.:
+Project : Fund Accounting - Product
+Role : Software Developer
+Team size : 17
+RDBMS : Oracle11g
+Technology : SQL, PL/SQL, Forms11/10g, Reports11/10g
+OS : Windows XP
+Duration : Dec 2012 to Till Date
+
+Major Clients
+Citi Bank, ROBECO, BNP PARIBAS, GWL (Canada) etc.
+
+Description
+
+Multifonds, is a market leader in providing flexible single platform portfolio accounting, fund accounting, investor servicing and transfer agency software with provisions for all major fund structures and asset classes, comprehensive accounting and valuation methods. Workflow and exception based processing for efficiency.
+
+About projects
+
+Great West Life (Canada)
+
+GWL Canada Segregated Fund of Funds products purchase one or more mutual funds managed by external managers and administrators. FOF invest all unit holder cash flow in the Mutual fund securities. The mutual fund securities either settle through Fund SERVE (Canada’s mutual fund clearing house) or directly with the Mutual fund securities.
+
+GWL requires the functionality to manage mutual fund trade orders within the accounting system throughout the life cycle of every trade.
+
+My role in the project:
+
+Generate & transmit trade orders.
+Process all inbound and outbound files from FundSERV.
+Generate associated accounting transactions.
+Generate and transmit cash instructions to the custodians.
+
+My responsibilities were:
+
+Developing complex PL/SQL Packages/Procedures/Functions/Triggers etc.
+Design and Development of Forms and Reports using Forms11g and Reports11g.
+Customization of existing Forms/Reports.
+Functional Testing.
+Technical Documentation.
+
+NAV process group
+
+This is the complex development I did for the client CITI bank. Under this development existing different types of NAV process groups were grouped into one group, Process Group (PG) to execute multiple NAV processes using a simulation screen. For this development we did excellent PL/SQL and SQL tuning also.
+
+My role in the project:
+
+NAV process automation through the Process Group
+
+My responsibilities were:
+
+Developing complex PL/SQL Packages/Procedures/Functions/Triggers etc.
+Design and Development of Forms and Reports using Forms11g and Reports11g.
+Customization of existing Forms/Reports.
+Functional Testing.
+Technical Documentation.
+
+Noteworthy execution steps in this project:
+
+Improvement Lump Sum IP
+Effective Yield 2 Calculation etc.
+
+Professional Projects Handled at Irely:
+1.Project Title :ITrade-Product
+Role : Sr.Software Developer
+Team size : 9
+RDBMS : Oracle10g
+Technology : SQL, PL/SQL, Forms6i, Reports6i
+OS : Windows XP/2003 Server
+Duration : Jun 2009 to May 2010
+
+Major Clients :
+Blazer Trading - Switzerland
+Gabesco Italia - Italy
+Harris Freeman – USA
+Sucre, London
+J.Th.Douqué's koffie B.V, London
+Cevital
+
+Description:
+ITrade, a comprehensive software solution for commodity traders, exporters and importers. Its robust features and various modules like Contract management, Price Fixation, Traffic, Futures Trading, Sampling, Blending, Weight Claims, Risk Management, Inventory Management, Costing, Finance Management provides complete solution for the traders. Features like multi-company, multi-commodity, multi-currency and multi-lingual are some other specialties of iTrade.
+
+Responsibilities:
+Developing complex PL/SQL Packages/Procedures/Functions/Triggers etc
+Design and Development of Forms and Reports using Forms6i and Reportes6i
+Customization of existing Forms/Reports
+Performance Tuning
+Functional Testing
+
+Professional Projects Handled at Impact:
+
+2.Project Title : IMPACT (Muthoot Medical Centre)
+Role : Oracle Developer
+Team Size : 9
+Front End : D2K (Forms6i, Reports6i)
+Back End : Oracle 9i
+O/S : Red Hat Linux AS4
+
+Company Profile:
+
+The 300 bed Muthoot Hospital at Pathanamthitta, Kerala is one of the Largest and most well equipped Hospital in Central Kerala. It has over 40 specialist doctors and over 60 different support systems to help the doctors to provide the highest quality medical care.
+
+About the project:
+
+This Project includes various modules such as Front Office, Services, Pharmacy, Lab, IP Billing and Financial Accounts. Part played by me Development of user interface forms and reports as per client's requirements and writing oracle pl/sql procedures, functions and triggers.
+
+3.Project Title : IMPACT (Crescent Medical Center)
+Role : Oracle Developer
+Team Size : 9
+Front End : D2K (Forms6i, Reports6i)
+Back End : Oracle 9i
+O/S : Red Hat Linux AS4
+
+Company Profile:
+
+Crescent Hospital has grown up through years in to a full fledged Multispeciality Hospital with 300 beds capacity. Crescent Medical Centre Limited (CMC) is a public limited company registered under the Companies Act (1956), India. The primary aim of the company is to promote excellence in health care and improve health awareness and education among the people living in Alathur and its peripheral premises. The company was founded as a private limited company on 1993, by a group of natives of Alathur. It was converted to a public limited company in 2000.
+
+About the project:
+
+This Project includes various modules such as Front Office, Services, Pharmacy, Lab, IP Biling, Accounts. Part played by me Development of user interface forms and reports as per client's requirements and writing oracle pl/sql procedures, functions and triggers.
+
+Academic Credentials
+
+Course
+Year
+Degree/Diploma
+Univ/Inst
+%
+Major Subjects
+Graduation
+2004-07
+B-Com
+Kerala University, Alappuzha
+43%
+Accounting/Costing
+Pre-Dgree
+2002-04
+Commerce
+Bord of Higher Secondary Examination Kerala
+74%
+Accounting, Business Management, Economics
+SSLC
+2002
+SSLC
+Bord of Public Examination Kerala
+69%
+Maths, English, Hindi
+
+Tech Educational Credentials
+G-NIIT(Higher Diploma in Software Engineering) July 2008
+NIIT, Alappuzha
+Interests and Positive Traits
+.
+Interests Watching movies, Riding Bike, Melodious
+Music, Cricket
+Positives Hard/Smart-Working, Quick-Learning, Team Player.
+
+Personal Information:
+
+Name
+Harikumar.P
+Nationality, Date of Birth
+Indian, December 24, 1986
+Passport No
+G 8323693
+Pan No
+BKJPP5122L
+Languages Known
+Malayalam, English, Hindi
+Contact Address
+Sreebhavanam, Chathurthiakary PO, Alappuzha Dist. Kerala. Pin:688 511
+Permanent address
+Sreebhavanam, Chathurthiakary,PO, Alappuzha Dist. Kerala. Pin:688 511
+Phone
++91-889*******(Kerala) /+91-756*******(Kerala)
+E-Mail
+adafvr@r.postjobfree.com
+
+Contact this candidate

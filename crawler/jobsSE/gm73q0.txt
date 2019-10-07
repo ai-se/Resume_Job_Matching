@@ -1,0 +1,24 @@
+
+Role: Graphics Software Engineer(Customer Engineering)
+Location: San Jose, CA
+Duration:12+ Months
+Job Description:
+This is a very challenging position that requires the candidate to learn and internalize OpenGL ES/OpenVG/X11 graphics solution and its concept very quickly.
+The candidate will support a wide range of graphics issues, ranging from low level 3D graphics driver level debugging to high-level UI content optimizations.
+Strong communication skills - able to understand and explain highly technical information in a clear and concise manner.
+Strong interpersonal skills, Self starter, Strong initiative.
+Strong knowledge on the Khronos graphics standards such as OpenGL ES 1.1, 2.0 and OpenVG. Strong knowledge on the hardware accelerated 3D/2D graphics solutions and driver level performance profiling Strong knowledge on graphics systems level debugging and using logic analyzers for performance analysis.
+Strong C/C++ development and debugging skills required. Strong skill of software integration, optimization and debugging on embedded RTOS (real time operating systems).
+Good industry experience(minimum 3-4 years).
+Experience in the development of OpenGL ES/OpenVG applications on embedded systems.
+Thanks & Regards,
+Jagga Rao
+Senior Executive - International Consulting
+Innominds Software Inc.
+Email ID: innominds.com
+Direct: 408
+Desk: 408 6565
+
+
+Go to apply 
+

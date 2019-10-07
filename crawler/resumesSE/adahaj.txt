@@ -1,0 +1,277 @@
+
+ANTHONY ISO PORLAJE
+B* L** Maderan, GMA, Cavite 092******** adahaj@r.postjobfree.com
+
+PROFILE
+Have 11+ years experience in IT programming including 9+ years in Java and 2 years in COBOL mainframe. Assigned for numerous projects for various industries like healthcare insurance, telecommunications, product distribution, etc. Involved in every step of Software Development Life Cycle mainly design, coding, testing, and prod support. Have been part of a 3-6 man team utilizing Agile methodology.
+
+KEY SKILLS
+Java/J2EE, Grails, Javascript, JQuery, HTML, CSS, MySQL, PostgreSQL, Oracle DB, Oracle CCB.
+
+EXPERIENCE
+Jun 2018 – present
+GlobalNet Services Group Inc.(formerly Pacifica Software Group Inc.)
+(Online Casino Games Provider)
+Senior Java Developer
+Analyzes program/system flow and formulates program solutions to meet user and system requirements.
+Creates/updates new back-end/server programs for online table games.
+Creates test/simulation pages for online table games.
+
+Feb 2014 – May 2018(4Y3M)
+IBM Solutions Delivery Inc.
+(IT Business Solutions Provider)
+Application Programmer
+
+Sep 2017 – May 2018
+Automotive Insurance(Offshore)
+Windows desktop application used by customer service agents. In charge mostly of:
+Production defect fixes.
+Added new features based on requirements by client.
+Used Java Swing and socket programming.
+
+Jan 2017 – Sep 2017
+Automotive Insurance(Offshore)
+Backend web service application using both SOAP/REST technology. In charge mostly of:
+Created REST equivalent of existing SOAP web services.
+Configured Websphere Application Server for adding and maintaining WAS Servers.
+Used SOAP-UI and ARC for testing.
+
+Feb 2016 – Sep 2016
+Utility Provider in Australia
+Oracle Customer Care and Billing. In charge mostly of:
+Made code and config changes based on specifications given by client.
+Provided unit tests for changes made in code.
+Collaborated with designers and testers regarding specifics in QC issues.
+
+Jul 2014 – Feb 2016
+Research and Development
+App for various internal projects. In charge mostly of:
+Java Spring MVC Web App.
+Unix script calls.
+
+June 2010 – Feb 2014(3Y8M)
+Orange and Bronze Software Labs Inc.
+(Software Development Consulting Firm)
+Software Engineer
+
+Jul 2013 – Feb 2014
+Project Loan Financing Mobile App
+App for loan financing projects for small entrepreneurs using Android OS and Grails for backend server. MySQL for DB and Apache Tomcat as Web Server. In charge mostly of:
+Handling REST API calls from Android app to Grails server.
+Provide response to Android as JSON format.
+Handle new features/bug fixes on server side.
+
+Mar 2013 – Jun 2013
+Google Apps
+Various projects based on Google App Engine using:
+Google Provisioning API
+Datastore management
+
+May 2012 – Feb 2013
+Telco Company
+A web-based application that enables merchants and call center agents to perform merchant and consumer registrations, account maintenance, report generation, and user administration.
+updated XML Schema definitions for web service endpoints
+used Spring application context to integrate endpoints and services
+authored unit tests for Oracle PL/SQL db queries
+
+Mar 2011 – Mar 2012
+Motorcycle/Bicycle Supplier
+Web Application written on Groovy on Grails, MySQL as DB Solution and Apache Tomcat as Web Server. Munix serves as an internal application for a company in distribution industry. Core features include Sales, Purchases (Procurement), Materials Requirements Planning, Customer Ledger, Customer Payments, Supplier Payments, Delivery Logistics and Inventory Management.
+
+Handle financial/accounting transaction systems e.g. various kinds of payments, checks, etc.
+Provide electronic versions of clients business processes for different departments like Production, Warehouse, Purchasing, Sales, etc.
+Provide enhancement to current system from given specifications.
+Fix bugs and errors.
+Develop new modules from user specifications.
+
+June 2010 – Feb 2011
+Health Insurance Provider
+Create and modify current e-application for various health insurance carriers.
+Apply solutions to production problems.
+Provide enhancement to current system.
+
+Oct. 2009 – Feb. 2010(5M)
+Trend Micro Inc.
+(Antivirus Software Company)
+Anti-malware Engineer Trainee
+Undergone a 5-month training in Anti-malware engineering.
+Topics included are:
+oAssembly language
+oScripts
+oBasic programming
+oReverse engineering
+oDebugging and code analysis
+oMalware Analysis/ Reverse Engineering
+Viruses
+Trojans
+Rootkits
+Spywares
+Backdoors
+Etc.
+oPattern creation
+PE Scan/Clean
+Macro Viruses Scan/Clean
+Script Viruses Scan/Clean
+Smart Pattern (1-to-many detection)
+Used tools for training such as disassemblers, debuggers, hex editors, etc.
+oOllydebug
+oHiew
+oIdaPro
+oWireshark, TCPView, etc.
+
+Apr. 2007 – Jan. 2009(1Y9M)
+IT Managers, Inc.
+(IT Solutions Company)
+Consultant/Programmer
+For client: Rizal Commercial Banking Corporation
+(Banking/Finance Corporation)
+Analyzes program/system flow and formulates program solutions to meet user and system requirements.
+Creates, maintains, and updates reports generated by the system used for settlement.
+Investigates system problems and creates problem resolution within the soonest possible time.
+Conducts System Integration Testing (SIT), Unit Testing and support User Acceptance Testing (UAT) for batch programs to be implemented.
+Modifies Batch jobs based on production problem, company system enhancement, or user requirements.
+Creates input transactions based upon User-requirements and for process improvements.
+Prepares login documents, program listings, Technical Specifications Design(TSD), program flowcharts, test scripts and test run results for documentation purposes and references.
+Performs UATEASY and CICSTST1 Batch Run for program testing.
+Projects involved in:
+oCash Now Project
+Created hand-off file to ALS dept.
+- Evaluate if transaction from input (CASH NOW Project) is successfully posted or not.
+oE-woman, RECA Project
+Generates Ewoman Closed Accounts report.
+Generates Closed Accounts Report per Product Type.
+Generates List of Accounts Per Product Type report.
+Generates “Ewoman Accounts Opened Today” report.
+Extracts new accounts from IMLOGT.
+Creates hold input transaction for next days process.
+oRevision of Base24 Reports(Tandem Cobol)
+Summary of Other ATM Transaction Report
+Summary of Inter-bank Fund Transfer Report
+Summary of Inter-branch Fund Transfer Report
+Summary of Inter-bank ATM Withdrawals Report
+Base24 Transaction Journal by ATM
+oDisaster Recovery Program - DRP
+Reformats B24LOG into TRJ output file.
+oBANCNET-initiated Projects
+Addition of Bills Payment Institution in Bancnet Online.
+oI-Card Project
+Filtering of I-card transactions from-and-to accounts in various batch programs.
+oProduction Problem Correction
+Inconsistent posting of reversal transactions.
+Discrepancy of Recon reports.
+Teams assigned to:
+oIM – Easymatics – Current Accounts (Apr07 – Sept07)
+oATM (Oct07 – Jan09)
+
+Dec. 2006 – Feb. 2007(3M)
+IT Managers, Inc.
+(IT Solutions Company)
+COBOL Trainee
+Undergone a 2.5-month training in COBOL, CICS AND JCL.
+Actively participated in all exercises, discussions, oral and laboratory examinations.
+Finished within the top 15% of a class of 20.
+
+Nov. 2003 – Nov. 2006
+PCR – Porlaje Computer Rentals
+(Computer Rentals/Repairs, DSL Internet, LAN Gaming)
+Shop Manager
+In charge of the overall operation and productivity of the facility.
+Installed all the computer’s configuration (hardware and software) from the start of operation.
+Tends to customer needs and satisfaction.
+Provides solutions to hardware/software related problems.
+
+Jul – Oct 2003
+Principalia Management and Personnel Consultants, Inc.
+(Land-based Recruitment Firm)
+4th flr. MG Bldg. 150 Amorsolo st., Legaspi Village, Makati
+Documentation Clerk/Technical Support
+Provides solutions to workstation problems encountered including hardware/software specifically LAN, Operating System, email program, MicroSoft Office Programs, etc.
+In-charge of the documentation process of the company.
+
+EDUCATION
+1998 – 2002
+Eulogio ‘Amang’ Rodriguez Institute of Science and Technology
+Cavite Campus
+General Mariano Alvarez, Cavite
+Bachelor of Science in Computer Science
+
+1992 – 1996
+Philippine Christian University Dasmariñas Integrated Science School
+Dasmariñas, Cavite
+Secondary School Graduate
+
+1986 – 1992
+Philippine Christian University
+Dasmariñas, Cavite
+Primary School Graduate
+
+SKILLS
+
+Database Technologies
+MySQL, PL/SQL, Oracle DB
+Programming Languages
+Java/J2EE, Assembly, COBOL/CICS, C/C++
+Web Technologies
+HTML, JavaScript, Jquery, CSS
+Operating Systems
+Windows 98/2000/XP/Vista/7, Linux (Ubuntu)
+Test Frameworks
+JUnit, Selenium, Cobertura, Codenarc
+IDE
+Eclipse, SpringSource Tool Suite
+Version Control System
+Subversion, GIT
+Web Framework
+Grails, Spring/Hibernate
+Web Server
+Apache Tomcat, IBM Websphere Application Server
+
+PERSONAL INFO
+
+Age : 39
+Sex : Male
+Nationality : Filipino
+Birthdate : July 27, 1980
+Birthplace: San Gabriel, Carmona, Cavite
+Religion : Roman Catholic
+Organization affiliated : CFC Couples For Christ
+
+SEMINARS/TRAININGS ATTENDED
+
+Meralco Foundation Institute
+C/C++, Networking Essentials, HTML
+
+University of the Philippines Institute of Small-Scale Industries
+Basic Instrumentation and Process Control Engineering Design
+
+IT Managers, Inc.
+Cobol/CICS and JCL
+
+TPC Events Org.
+Basic Monitor Troubleshooting
+
+Ace IT Learning Center
+PC Hardware and Software Advance Troubleshooting
+
+REFERENCES
+Mr. Alfredo Galang Jr.
+Project Manager, ASD2 – ATM RCBC ITG
+2nd flr, Jaka Building
+6780 Ayala Avenue, Makati City
+894-9000 loc. 3532
+
+Ms. Bles Lomibao
+Marketing Officer
+IT Managers, Inc.
+Suite 99, 9/F Columbia Towers
+Wack-wack, Ortigas Avenue
+Mandaluyong City
+727-6901
+
+Mr. Floro S. Morales Jr.
+Computer Science Dept. Head
+EARIST Cavite Campus
+General Mariano Alvarez, Cavite
+091********
+
+Contact this candidate

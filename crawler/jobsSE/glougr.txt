@@ -1,0 +1,135 @@
+
+Who are we?
+
+Independent Software is a consulting, product, and solutions firm dedicated to the practical application of software and system engineering technologies to solve complex problems. We bring together world class engineers with proven engineering best practices, domain expertise, commercial technologies and proven agile management approaches to create high value solutions aimed at helping our customers meet their most critical business and mission objectives.
+
+Why Independent Software?
+
+We are focused on continual learning and evolution. We don't do things because "that's the way we've always done things"; we listen to our employees and adapt to the changing marketplace. We look at the big picture and encourage our engineers to get training and certifications in emerging technologies that will help shape our customer's mission.
+
+We've been profitable year after year. We're always on the lookout for great engineers to join the team and we recognize that our employees are the heart and soul of what we do. We focus on recruiting talented people, treating them right, and then allowing them to do what they do best. No red tape. No micromanagement. Smart people want to work with smart people, and we love people who are passionate about what they do, and finding ways to do it better.
+
+What you will be doing!
+
+The Senior Systems Engineer shall have at least the following experience:
+
+* At least fifteen (15) years performing and providing technical direction for the development, engineering, interfacing, integration, and testing of complex hardware/software systems to include requirements elicitation, analysis and functional allocation, conducting systems requirements reviews, developing concepts of operation and interface standards, developing system architectures, and performing technical/non-technical assessment and management as well as end-to-end flow analysis. A Bachelor's Degree in a technical field is highly desired and will be considered equivalent to four (4) years experience.
+
+* At least seven (7) years leading, providing technical supervision, and guiding mid-level engineering personnel; solving varied technical/scientific problems; and generating and reviewing designs for technical accuracy, completeness and appropriateness in light of objectives, budget, and schedule.
+
+* Developing documentation required to support a program's technical issues and training situations.
+
+* Experienced with Object Oriented and Structured development methodologies, networks, data storage, data modeling, data ontologies, security architectures and CASE tool selection and use.
+
+* Performing a variety of tasks related to knowledge/ technique dissemination to groups of analytic workforce and demonstrates an ability to convey new techniques and technologies to analytic workforce and facilitate transference of acquired knowledge from more experienced analysts to new analysts.
+
+* Experienced with system architectures in a service oriented and ESB environment.
+
+* Experienced in analytical environments/intelligence production organizations.
+
+* Applying agile and/or spiral development models.
+
+* Developing system performance, availability, scalability, manageability, and security requirements for mid-to-large-scale programs.
+
+* Integrating information systems into SOA or on to ESB architectures.
+
+* Experienced "wrapping" legacy systems or components as Web Services within a SOA framework.
+
+* Developing solutions integrating and extending COTS products.
+
+* Integrating FOSS, COTS and GOTS products from multiple vendors.
+
+* Implementing solutions with PKI-controlled access.
+
+* Developing and deploying integrated desktop applications.
+
+Additional Experience (Provided by Customer):
+
+* Experience interfacing between the logic tier and data-tier of a web-application using JDBC or similar technologies
+
+* Experience with Hibernate or other Object/Relational Mapping frameworks
+
+* Experience developing in Java or Adobe Flex
+
+* Familiar with the NSA and JWICS Network Architectures
+
+* Experience with understanding dataflows and multi-user LOE workflows and correlating those workflows to visualizations
+
+* Detail oriented – define and documents business rules
+
+* Familiar with creation of technical architectures (e.g. SOA)
+
+* Experience using and querying relational databases such as PostgreSQL or Oracle
+
+* Strong ability to collaborate across multiple teams and develop ideas, architectures and agreements to support the interfaces between products
+
+* Strong oral and written communication skills
+
+* Experience writing, documenting, and supporting REST services
+
+Role Tasking:
+
+* A Software Engineer (Java Developer) who is very comfortable with databases, or a Database Engineer who knows Java
+
+* Primarily responsible for managing and interfacing with the data storage system of the NSRP tool including DBA responsibilities and back-end software development
+
+* Working with National SIGINT Requirements Process (NSRP) tool for SIGINT Information Needs (IN) to manage customers' SIGINT INs from inception to satisfaction. Developing and vetting requirements and participating in development planning activities.
+
+* Documenting and streamline the NSRP architecture to provide customers the ability to author, promote, search for, and view INs and their corresponding Level of Efforts (LOE).
+
+* Defining solid process for completing tasks and rolling-out to Customer and Producer users.
+
+* Performing analysis of system to provide solutions to system processing speeds and creating other efficiencies with usability.
+
+* Assessing feasibility to integrate NSRP with other AMOD systems.
+
+* Reviewing legacy systems and supporting decommissioning plans for various systems.
+
+* Documenting and executing component, system, and end-to-end regression testing which includes having the ability to create database queries when necessary.
+
+* Providing Tier 1 and Tier 2 Help Desk Support (Mon – Fri from 8am – 5pm).
+
+Clearance: THIS POSITION REQUIRES A CURRENT TS/SCI WITH POLYGRAPH CLEARANCE!
+
+Top Reasons to Work at Independent Software:
+
+* Great people deserve even better benefits, from comprehensive healthcare coverage and generous leave time to discounts with all of our vendors.
+
+* You are not just a job title. That's why we tip the work-life balance scale in your favor. It's not about being billable, it's about being valuable.
+
+* Whether you're working on-site or in our offices, your role at Independent Software is just as critical to our success as your coworker's.
+
+* We're constantly researching and implementing the latest technology so you've always got the right tools at your disposal.
+
+* As we've grown, we've retained that small company feel. When we say we have an open door policy, we actually mean it.
+
+* Independent Software is comprised of wonderfully generous folks. We believe in supporting the causes our employees care about. Bring us an opportunity to help and we'll listen.
+
+* Teamwork got us where we are today. Our collaborative environment allows you to maximize your true potential.
+
+* The work we do is exciting, critical stuff. No matter your role at Independent Software, you're helping us keep the nation safe and secure.
+
+* We have a history of great achievement and, with each year, our company gets even bigger and better. As we grow, so does the opportunity for our employees.
+
+* We host a variety of fun employee and family events throughout the year to say thanks for all that you do to make Independent Software a technology leader as well as a phenomenal place to work.
+
+Benefits:
+
+* Competitive salary
+
+* Comprehensive health, dental, and vision insurance plans
+
+* 401(k) retirement plan with company paid match of gross salary
+
+* A generous Paid Time Off and Holiday package
+
+* Lots of paid training! We encourage all employees to seek out training opportunities like conferences, certification courses and seminars.
+
+* We truly believe the right work-life balance can exist, and it's here at Independent Software. Our work is extremely important, but your job is just a part of who you are. When you enjoy your life outside of our walls, you're at your best the next time you walk through our doors. We do all we can to assure that happens every day.
+
+Independent Software is an Equal Opportunity Employer EOE, M/F/D/V.
+SDL2017
+
+
+Go to apply 
+

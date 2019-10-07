@@ -1,0 +1,34 @@
+
+Dawit T. Jekamo
+**** ******** **** *********#*** Clarkston, GA 30021 404-***-**** ac99s5@r.postjobfree.com US Citizen https://djekamo3.wixsite.com/1234
+Objective
+5th year electrical engineering major seeking a full time position in electronic design and applications. Experience in electrical circuit design, assembling circuits, and testing microelectronic circuits. I am also interested on any positions that is related to electrical engineering.
+Education
+Georgia Institute of Technology Atlanta, GA August 2017-Present Bachelor of Science in Electrical Engineering, GPA 3.54 Expected Graduation, December 2019 Georgia State University Clarkston, GA August 2014 – May 2017 Transfer with 84 credit hours, GPA 4.00
+Skills
+Programming: Python, C++, MATLAB
+Platforms: Windows, Mac
+Hardware: Arduino, oscilloscope, logic analyzer, function generator, digital multimeter Organizations: MESA Scholarship (Mathematics Engineering Science Achievement), STEP Scholarship (Science, Technology, Engineering, and Mathematics Talent Expansion Program), PLSAMP Scholarship (Peach State Louis Stokes Alliance for Minority Participation Scholars Program), ENLISTEM Scholarship (Educate and Nurture Leadership in Science Technology, Engineering, and Mathematics)
+Software: AutoCAD, Altera Quartus II, NI LabView
+Communication: Technical Reports, Presentations, Technical Posters Languages: English (fluent), Amharic (native)
+Experience
+Georgia State University Clarkston, GA June 2013 -December 2018 Mathematics and Physics Tutor
+Tutoring center providing academic face-face tutoring services in mathematics, reading, writing, and science.
+• Instructed 10-25 students per semester in basic concepts such as algebraic manipulation, pattern recognition, and problem solving techniques, and improving students’ scores by half letter grade
+• Asked guiding questions to help students to develop critical thinking skills that would help them to perform well on assigned homework and exams
+Your DeKalb Farmers Market Decatur, GA February 2012 to July 2014 Machine operator and Forklift operator
+A 7,500 sq. ft produce stand that receives direct global shipments of fresh produce from 184 different countries. Employed full- time to finance college education and expenses.
+• Loaded and unloaded raw materials and finished goods using heavy commercial equipment in order to help the company maintain its reputation as a pioneer in fresh food distribution to the consumer.
+• Collaborated with supervisors and managers to maintain a safe and clean working environment while following the company rules
+Projects
+Homing DE2Bot, Georgia Tech – Atlanta, GA Fall 2018 A VHDL coding project whose aim was to enable a DE2 Amigobot to implement localization using its built-in sonar scanners.
+• Collaborated with 4 teammates to write VHDL code that enabled DE2Bot to navigate course within 2 minutes achieved a 75% success rate
+• Co-authored 10 page design report and a 10 minutes presentation, which described the design decisions that were taken to implement the DE2Bot obstacles avoidance system
+Simple Graphics (Game), Georgia Tech – Atlanta, GA Fall 2018 A c++ group project where the objective was to use coding leaned during the semester to transform incomplete code into a fully functional sprite game meeting the project requirements
+• Collaborated with 3 teammates to develop C++ code to create the animation for 2 sprite sheet cartoon games
+• Effectively with teammates, the combined codes was work successful and the 2 sprite sheet cartoons moves 100%
+Relevant Coursework
+Engineering Design: Well educated to design technical drawings in 3D and 2D by using AutoCAD Engineering Software design: Learned how to code c++ by applying some programming language Electrical and Electronic Circuits Laboratory: Designed circuits using basic electronic components Microelectronic circuits: Explained difference between BJT and JFET Senior Analog Electronics Laboratory: Challenged with discrete Feedback Amplifiers, current sources, voltage regulator, oscillators, and Op-Amp
+Electromagnetics: Determined frequency-domain parameters associated with a transmission line system, including input impedance, reflection coefficient, and SWR
+
+Contact this candidate

@@ -1,0 +1,77 @@
+
+.
+.
+RAIKHAN
+ABDIRAKHMANOVA
+SOFTWARE DEVELOPMENT ENGINEER IN TEST (SDET)
+adaint@r.postjobfree.com / 312-***-**** / Chicago, IL Authorized to work in USA for any employer without sponsorship. PROFESSIONAL SUMMARY
+A self-motivated and result oriented Software Automation Test Engineer with 5+ years of extensive experience in IT with emphasis on Quality Assurance through Automation and Functional Testing of software applications.
+Possess excellent skills in Manual Testing along with skills in Automation Testing using Selenium WebDriver, JUnit and TestNG.
+Experience in designing, developing and maintaining scripts, feature files in Gherkin language in Behavior Driven Development Framework applying Page Object Model pattern.
+Experience in analysis of Software Requirement Specifications and development of Test Plans, Test Scripts and Test Cases.
+Solid Knowledge in Automation Testing of API using POSTMAN/ REST Assured library and JAVA.
+Automated JSon format using Rest Assured and Jackson
+Performed back-end testing using JDBC libraries in Oracle SQL database by writing SQL queries.
+Experienced in working with continuous integration systems using Jenkins.
+Have experience in both Front-end and Back-end testing
+Experienced in working with code versioning and management system like Git,GitHub, Bitbucket.
+Expertise in overall Test Management, Defect Management including good skills in documenting defects with high level of accuracy, detail and informative recreation of steps using JIRA, while coordinating with development team members in resolving and closing them.
+Solid understanding in Software Development Life Cycle (SDLC), Agile and other QA Methodologies.
+Active participation in Agile ceremonies: Sprint planning, grooming, retrospective to plan user stories and provide estimates.
+Quick learner, strong work ethics and willingness to work hard to achieve employer objectives. Excellent interpersonal, communication skills and ready to take an independent or team challenge.
+.
+.
+SKILLS
+Methodologies: Agile/Scrum, Waterfall
+Testing Tools/Libraries: Cucumber, Selenium
+WebDriver, Rest Assured, Jenkins, Maven,
+JDBC, Apache POI, TestNG, JUnit
+Languages/Frameworks: Java, SQL, HTML,
+XML, Gherkin, Hybrid, Behavior, Data Driven
+Databases: Oracle, MySQL
+Version Control Tools: Git, GitHub, Bitbucket,
+Sourcetree.
+Operating Systems/IDE: Windows, MacOS,
+Eclipse, IntelliJ IDEA
+Defect Tracking Tools: Jira
+Testing Methods: Functional testing,
+Regression testing, Smoke testing
+WORK EXPERIENCE
+QA Automation Engineer / Ticketmaster - Chicago, Illinois 09/2017 - Current
+Involved in entire SDET (Software Development engineer testing), in Developing Test Plans and Test cases for various aspects of the User interface of the application and automated the test cases using Selenium WebDriver and JAVA in IntelliJ IDEA
+Used Maven for project building tool and manage framework dependency jar files
+Automated UI Testing with Selenium WebDriver, JUnit,Java and BDD with Cucumber framework
+Used POM (Page Object Model) design patterns on JUint which makes the code reusable, maintainable and more readable.
+Successfully performed to develop Cucumber Step Definitions, Features and Scenario based on Acceptance Criteria in Jira.
+Integrated with Continuous Integration tool Jenkins for running test cases automatically by scheduling Smoke and Regression tests.
+Developed custom Cucumber reports to improve the run result readability to business team and upper management
+Developed Rest API Test Automation using REST ASSURED library in Java and Cucumber for backend testing.
+Attended daily Scrum, sprint grooming, sprint planning and sprint retro meetings.
+Used JIRA for bug tracking, issue tracking and project management and GIT for version control.
+Reported periodic project status and updates to the QA Manager.
+Conducted weekly status meetings and defect review meetings with test team.
+Participated in mentoring sessions, assisted testers with knowledge transfer on market data. Software QA Engineer / MB Financial - Chicago, Illinois 02/2015 - 08/2017
+Performed Automation Testing and Manual Testing in an internal web-based application
+.
+.
+Helped to create Behavioral Data Driven automation testing framework from scratch by using Java, Maven and Cucumber with Gerkin language.
+Designed, developed and implemented BDD test automation framework using Java with Selenium WebDriver and JUnit.
+Performed API testing both in manual and automated ways by utilizing Postman and implementing REST Assured library.
+Executed manual and automated test cases that validate the functionalities, code quality and reports test results, following all formal test architectures and project processes.
+Raised defects and performed tracking using JIRA.
+Closely interacted with the development team to verify defect fixes, and update defect status.
+Extensively involved in Smoke, Functional, Regression and monitored the behavior of the applications during different phases of testing.
+Performed Back-end testing using Java, SQL and JDBC.
+Prepared test data to cover various positive and negative scenarios and wrote SQL scripts to verify the database interactions on Oracle database.
+Actively attended meetings with fellow and groups to evaluate the progress and performance of the application.
+Quality Assurance Analyst / Chicago Public Schools - Chicago, Illinois 02/2014 - 01/2015
+Analyzed user requirements for application enhancements and preparing testing specifications
+Developed automation test scripts using Selenium.
+Involved in gathering and anaIyzing the product requirements and develop clear test plans and test cases.
+Wrote Positive and Negative test cases for the business scenarios and executed test scripts.
+Manually verified the validity of the failed test cases, logged the defects and assigned them to development team.
+As a defect reporting and bug tracking tool used Jira.
+Conducted Data Validation Testing (Back-end) using SQL queries.
+Attending daily scrum, weekly test team, status report meetings.
+
+Contact this candidate

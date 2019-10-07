@@ -1,0 +1,183 @@
+
+Indira Chintala
+adagf7@r.postjobfree.com
+512-***-****
+Software Development Engineer in Test with Overall 8 years of extensive experience in software Automation Testing, White box Testing and Black Box Testing in analyzing, reviewing and understanding Business/Functional requirements and skilled in writing Test Plan, Test Scripts, Test Scenarios. Expertise in developing, documenting, and executing test cases manually as well as generating automated scripts using Selenium, Cucumber, Appium, SoapUI, Postman and Rest Assured while serving various domains such as Banking, Financial and Retail.
+PROFESSIONAL SUMMARY:
+Experienced and well- rounded with all phase of Software Development Life Cycle (SDLC) in requirements gathering, Analysis, Design, Development, Implementation and Testing.
+Extensive knowledge of all aspects of the Software Testing Life Cycle and Defect life cycle.
+Extensively worked with Selenium Server and Web Driver, Selenium Grid for testing web applications.
+Good knowledge of Java Development and proven experience in using Java for Automation.
+Designed and created Test Suites using different frameworks like Data driven, Keyword Driven, Page Object Model(POM) and Hybrid Framework for Java based applications.
+Worked Extensively with TestNG & JUnit Testing Frameworks. Has implemented cross browser testing and Data driven testing using @parameters and @DataProviders annotations.
+Implemented test automation for handling Popups windows and Alerts using WebDriver and Alert interface classes.
+Executed test scripts in headless browser like HtmlUnit driver and PhatomJS.
+Used Selenium and AutoIt tools in automation for Mouse movements, Keystrokes, Window control manipulations and pop-ups which is not possible by selenium WebDriver.
+Has ability to perform switch over to elements in iframes using WebDriver.
+Proficient in handling the SSL certificate error using Desired capabilities in all the web Browsers.
+Ability to perform Compatibility testing with different browsers like Firefox, Chrome, IE, Safari and with different operating systems like Windows, Android, Mac OS.
+Experienced in using Apache POI to read the data from external sources like Excel files in order to feed test data sets into the test scripts.
+Involved in Manual testing &Defect Management using JIRA.
+Extensively used SoapUI for testing SOAP, RESTful Web services. Used SoapUI assertions to verify the API response.
+Used Postman and Rest Assured for Restful API testing. Parsed JSON response and verified using JSON Path expressions and HamCrest Matchers.
+Created complete solution for continuous integration tool such as Jenkins from code checkout from Git Hub to regression report generation.
+Experienced in using Accessing Forms, tables, link, Keyboard Mouse Events, Uploading File using Selenium WebDriver
+Experienced in web user interface automation testing with Selenium WebDriver, Java, TestNG, Cucumber and TestNG frameworks.
+Experienced in BDD using Cucumber / Gherkin. Wrote Features, Scenarios and Scenario Outlines for Enterprise application Behaviour. Wrote Cucumber Runners to launch Automation Testing of Behavior.
+Wrote Mobile Test Scripts using Appium Client to test Native and Web Mobile applications. Tested Android Apps using Appium Desktop.
+Ability to connect with the Database to execute SQL statements for validating data in the data table (Database testing).
+Excellent understanding of full Software Development Life Cycle(SDLC).
+Expertise in writing Test Cases based on the Business Requirements and Functional Requirement
+Analyzed requirements documents and Use Cases to prepare the detailed Test Plans,Test Cases and developing Test scripts.
+Good experience in OOPs using Core Java and extensively used classes, objects, data structures, Inheritance, Polymorphism, Exception Handling, Packages, Collections and much more.
+Expertize in Integration, Functional, Regression, System testing and User Acceptance Testing.
+Quick learner and excellent team player.
+Experience with Database queries using TOAD.
+Experienced in all levels of Testing such as Positive testing, Negative testing, Integration Testing, Functional Testing, System Testing, Regression Testing and User Acceptance Testing (UAT), Black box testing, Browser testing.
+Expertise in Problem solving and Bug Tracking Reports using Bug tracking Tools.
+Strong Experience in Smoke, Functional, Regression, Performance for the highly structural and complex systems.
+Expertise in Test Case/Test Procedure Design, developing Requirement Traceability Matrix.
+Assist in User Acceptance Testing when necessary and recommend certification of software changes for use by location users in the field once the software meets the business requirements.
+Extensive experience in working on multiple projects concurrently.
+Excellent problem solving skills, experience in working group projects, desire and ability to learn new Technologies.
+Identified and measured severity, and document deficiencies in software functionality, and accurately reported deficiencies to programming agencies.
+
+TECHNICAL SKILLS:
+
+Test Approaches Waterfall, Agile/Scrum, SDLC, STLC, Bug Life Cycle
+Testing Tools Selenium WebDriver, Selenium Grid, TestNG, JUnit, Cucumber, Appium, SoapUI, Postman, Rest Assured
+Test Build& Integration Tools Maven, ANT, Jenkins, GIT
+Frameworks Keyword Driven, Data Driven, Hybrid, Page Object Model (POM)
+Programming&Markup Languages JAVA, JavaScript, Gherkin,C,HTML,XML,CSS Selector
+Databases MySQL, Oracle, SQL Server
+Browsers Internet Explorer, Mozilla Firefox, Google Chrome
+Operating Systems Windows 7/8/10, UNIX, LINUX
+Defect Tools HP Quality Center, JIRA,TFS
+MS Office Tools Outlook, Word, Excel, PowerPoint, MS Access
+Utilities Eclipse, GIT, Visual studio,AutoIT, Sikuli
+Web Debugging Tool XPath, Firepath, Firebug.
+Build Tool Maven,ANT
+
+Professional Experience
+Project1
+Client GM Financial
+Location Arlington,TX
+Duration Jul 2018- Present
+Role Software Development Engineer in Test
+
+Description:
+The company provides retail loan and lease programs through auto dealers for customers across the credit spectrum. They also offer commercial lending products, such as retail floor plan, construction and real estate loans, or insurance for car dealerships. Before its acquisition by GM, the company ranked at 768 on the Fortune 1000.
+ROLES AND RESPONSIBILITIES:
+
+Reviewed the Product Backlog, Functional Specifications Document and Technical Documentation. Used Agile Project Development Methodology.
+Implemented Hybrid automation test framework with Selenium WebDriver, Java, TestNG, KeyWord Driven, Data Driven and POM(Page Object Model) Frameworks.
+Used Apache POI to read data from external sources and provide them as parameters to the Test Methods, Locators in the test script.
+Used FireBug, FirePath to debug, edit and locate the objects based on ID, Name, XPath, CssSelector, Link, Partial Link, Attributes and Tags.
+Tested broken links and inter application links (page redirects to respective URL's) in development, test and production environments.
+Used Selenium WebDriver and TestNG to run parallel testing by Thread Count, Groups, and categorizing test cases.
+Performed Selenium Synchronization using Explicit & Implicit waits.
+Wrote test cases to handle Popup windows and Alerts using WebDriver and Alert interface class.
+Selected the Test Cases to be automated and performed functional testing of the front end using Selenium Web Driver& created Data Driven framework using TestNG.
+Performed Cross browser compatibility testing on Chrome, Firefox, IE browsers using TestNG suites.
+Worked on Capturing Screenshots on Failure or Pass to analyze the test failure reason. Coordinated with application team to ensure resolution of all issues and completion of work on time.
+Wrote XPATH expression for identifying dynamic object and handled Ajax requests using Synchronization.
+Created test reports generated out of TestNG and captured the error screenshots.
+Implemented BDD Cucumber by creating the Features and Step Definition in Gherkin Format to execute test scripts. Wrote Cucumber Runner classes.
+Used Jenkins tool for continuous integration of the builds.
+Implemented automation test scripts in SOAPUI for web service testing.
+Conducted backend testing using SQL queries to validate data for database and Used SQL queries for retrieving data from database for executing user specific test cases.
+Involved in Web services testing using SOAPUI Tool. Validated request and response XML. Added assertions to validate the XML in Web services SOAP and RESTFUL service.
+Performed mobile testing using Appium on Android devices.
+Used Real Devices and Emulators to carryout mobile testing on native and browser(Web) Mobile Apps.
+Schedule and prioritize work and plan a sequence of testing activities that accomplish the planned targets. Set priorities and provide reports to the management.
+
+ENVIRONMENT: Selenium Web Driver, Selenium GRID, TestNG, JUnit, Eclipse, SoapUI, Postman, Rest Assured, Oracle, HTML, XML, GIT, Jenkins, JIRA, Maven, Cucumber, Appium, Appium Desktop, Android iOS.
+Project2
+Client Capital One
+Location Virginia
+Duration Jun 2015- Jun 2018
+Role QA Automation Engineer
+
+Description:
+
+The intention of this project is to develop an online banking system. This system helps in processing different options for valid account holders of its various branches. This project contains various options like balance checking, online funds transfer and Login portal would enable credit card holders to check account balance, predict card bill, dispute a charge, add a travel notification, request a call back from the account manager, request fee waiver, and other related functionalities.
+
+ROLES AND RESPONSIBILITIES:
+
+Developed System Test Plans, Test Cases and Test Scripts based on Business requirements.
+Developed test cases and scripts for GUI testing, functionality testing and regression testing.
+Prepared Test cases for positive and negative test scenarios as referred in the user stories keeping in mind Boundary Value Limitations, Equivalence classes.
+Implemented Data driven framework and worked extensively with TestNG Testing Framework. Has implemented cross browser testing and Data driven testing using @parameters and @Dataproviders annotations.
+Used FireBug, FirePath to debug, edit and locate the objects based on ID, Name, XPath, CssSelector, Link, Partial Link, Attributes and Tags.
+Developing test and defect reports and also test scripts in Selenium Environment
+Implemented the selenium synchronization using the implicit and explicit wait methods.
+Responsible for Executing Test cases, Test Procedures and Records Defects.
+Performed Functional, System, Regression and user acceptance testing.
+Selected the Test Cases to be automated and performed functional testing of the front end using Selenium (IDE and Web Driver) & created Data Driven framework.
+Ability in handling Ajax calls using WebDriver methods waits like Implicit, Explicit, fluent waits and thread sleep.
+Ability in handling the SSL certificate error using Desired capabilities in all the web Browsers.
+Experience in Drag and Drop, Scroll Down, Synchronization, Double Click, CheckBoxes using Selenium Web Driver
+Used Selenium API for Mouse movements, Keystrokes, Window control manipulations and pop-ups.
+Ability to handle multiple windows using web drivers.
+Created test reports generated out of TestNG and captured the error screenshots.
+Performed BDD (Behavior Driven Development) using Cucumber Features, Scenarios and Step Definitions in Gherkins format.
+Configured Jenkins build job for continuous Integration and also for Regression Testing.
+Used Quality center to track defects and attended meetings with developers in resolving the same.
+Involved in Web services testing using SOAPUI Tool. Validated request and response XML. Added assertions to validate the XML in Web services SOAP and RESTFUL service.
+Conducted backend testing using SQL queries to validate data for database and Used SQL queries for retrieving data from database for executing user specific test cases.
+Participated in walkthroughs and technical reviews all through the testing phase.
+
+ENVIRONMENT: Selenium WebDriver, Selenium GRID, Oracle, Jenkins, SoapUI, Postman, HTML, XML, Quality center, JIRA, Microsoft Office, Cucumber, Eclipse, JUnit, Maven, TestNG, Agile.
+
+Project3
+Client Conway enterprises
+Location Portland,OR
+Duration Jan 2013- May 2015
+Role QA Analyst
+
+Description:
+Conway Enterprises Logistics for innovative solutions that help plan business strategies, improve customer service, accelerate order cycle times, and tighten control of the supply chain—all while reducing costs in transportation, inventory and order fulfillment.
+ROLES AND RESPONSIBILITIES:
+
+Involved in various SDLC Phases-Requirements Analysis, Test Case
+Development, System Testing, Regression and Conducted End to End and Black box testing.
+Actively involved in functional, system, integration, positive, negative, GUI testing of the application.
+Interacted with developers and business Users to communicate the defects and actively participated in replicating the bugs and performed regression testing using JIRA.
+Created Test Data using SQL and wrote SQL queries for back-end testing.
+Used Data Driven Framework and extracted data from external Excel files using Apache POI and loaded into the variables in the scripted code.
+Configured Test Cases to receive input Test Data Sets for the corresponding test cases using TestNG DataProvider Annotation.
+Performed BDD (Behaviour Driven Development), ATDD (Acceptance Test Driven Development) using Cucumber Features, Scenarios and Step Definitions.
+Used SoapUI to test the application web services.
+Used Maven Performed continuous integration of code and scripts using Jenkins. Configured and launched builds using Jenkins jobs and analyzed the Test Results from Jenkins UI.
+Worked on SQL queries to verify data integrity and validate updated data for the Test cases in different modules of the application.
+Involved in daily Defect Triage meetings with Project Managers and developers during System testing and UAT.
+Worked with developers to Create and update the defects, resolve and track their status using JIRA.
+
+Environment: Selenium WebDriver, JAVA, TestNG, Eclipse, Maven, Cucumber, HTML, SoapUI, SVN, Maven, Jenkins.
+Project4
+Client Cyient
+Location Hyderabad,India
+Duration Oct 2011- Dec 2012
+Role Software Engineer
+
+Description:
+Cyient is a leading company Headquartered at Hyderabad which keeps its strong presence in top 30 outsourcing companies in the world, having industry focus includes aerospace, defence, rail transportation, off-highway & industrial, power generation, mining, oil & gas, communications, utilities, geo-spatial, semiconductor and medical technology.
+
+ROLES AND RESPONSIBILITIES:
+
+Develop, test and implement new software programs.
+Participated in Design and Development as a Application Developer.Understanding software requirement and utilizing apposite technology to enunciate most apposite data flow between front end and backend technologies.
+Involved in development of an API using Rest Webservices.
+Involved in gathering business requirement, studying the application and collecting the information from developers and writing the test Scenarios.
+Reviewed test assignments, developed Test Scenarios and Test Cases, and conducted tests as assigned.
+Application was updated twice a week, so that all the Test Procedures created as Baseline can be played back to perform Regression Testing.
+Performed Functional Testing, Smoke Testing, System Testing, Regression Testing and End-to-End Testing.
+Wrote SQL Queries to retrieve the data from various Tables and to Test the Database.
+Preparation of test data for the negative and positive test cases.
+Documented Defects found during test and communicated the recorded problems to the responsible development personnel.
+Re-tested the application once the Defects were fixed.
+Participated in weekly walkthrough and inspection meetings, to verify the status of the testing.
+
+ENVIRONMENT:Microsoft Visual Studio,HP quality center, Excel, Internet Explorer HTML, JavaScript, Eclipse, Oracle,Vector Cast,Microsoft Word.
+
+Contact this candidate

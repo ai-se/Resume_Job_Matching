@@ -1,0 +1,72 @@
+
+RESUME
+Mohamed Thaqee. K E- Mail: adaf76@r.postjobfree.com
+Phone: +91-989*******
+SUMMARY:
+A Customer Support\System Administrator having 9 Years of experience in IT field, Skills in System & Network Management, LAN/WAN/Intranet/Internet and Server Management. Having experience in designing, installation and configuration, troubleshooting of Windows Server OS, Hardware configure /Software installation, maintenance and troubleshoot of Server, Desktops, Laptop, Printer and network oriented\E-mail issues & User management. An effective communicator with exceptional relationship management skill. PROFESSIONAL EXPERIENCE:
+Designed the AD Infrastructure & Deployed Windows Server 2012 R2 Domain Module
+Implemented File Server \ FSRM, DAC, IIS Role & Basic of Windows Authority Certificate Service
+Having Knowledge on Windows Work Folders
+G-Suite & Rediff Enterprise mail user creation\renaming, mailbox size allocation, Auto-forward configuration, domain whitelisting and other mail related things configures and troubleshoots.
+Implemented Internal Email Server with SQL DB for communicating amid company’s owned multiple domains.
+Implemented Microsoft Deployment Toolkit for Windows Client Automatic OS Deployment
+Handles Stack Up Virtual Servers & Lenovo Rack Mount Servers
+Symantec End Point Management & K7 – Anti Virus Server management
+Supports Junior Engineers
+Provide Hardware, Software, Network and Operating System support.
+Responsible for AD User Management, Group Policy management, File server, WSUS Server.
+QNAP - NAS Device User Data Backup Management
+Deployed WSUS server for centralized Windows patch management
+Responsible for AD troubleshooting (Windows server backup and restore)
+Knowledge on Microsoft Radius Server(NPS) setup using UniFi AP and HP L2 Switches
+Handles the issue related to Desktops and Laptops both at Application and hardware level
+Configuration\Troubleshooting of Email Clients like Outlook Express, MS outlook, Thunderbird, Windows Live Mail and other mail relevant issue.
+Troubleshoots system Virus related issues.
+Installing and troubleshooting of Server & Client Operating Systems like Win Server 2003, W in Server 2008, Win Server 2012 R2, Win XP, Win 7, Win 8, Win 8.1, Win 10, MAC OS.
+Provide Support in resolving network related issue and troubleshoots both LAN and WAN connectivity problem.
+Installation and configuration of printer devices like network printer, standalone printer and deploys AD Print Server for centralize configuration.
+Handles more than 480+ Branded & Customize PCs and Laptops.
+Cabling, Patching, and LAN troubleshooting.
+Supervise complaint through ticketing system and follow timely resolution of all work orders(SLA)
+Monitor Software licensing to insure compliance, encase of licensing issue communicate with Microsoft Helpdesk and acquire the Product Keys.
+Warranty PC and Laptop issue register the complaints with HP and Dell team for the replacement of faulty parts after the complete examination internally.
+Local vendor management like organising of system peripherals
+Handles the IT asset and stock management
+ADDITIONAL EXPERIENCE:
+Period Organization Designation
+21st Apr 2010 – 22nd Oct 2011 ASPL- Farida Group of Companies – Ambur System Engineer 01st Mar 2012 – 31 Oct 2013 Dynasty Leather Exporters – Ambur Desktop Support
+Engineer
+25-Nov-2013 to 26-Dec-2014 Trimax IT Infrastructure & Solutions - Bangalore FME – L2 25th Apr 2015 – 30th Apr 2018 Farida Shoes Pvt Ltd – Ambur System Administrator 07th May2018 - 18th Jul 2019 Mohib Shoes Pvt Ltd- Ambur Senior Executive PROJECT CONCERT:
+Performed Windows 2003 Server, Domain module in Farida Company Pvt Ltd for centralizing the authentication of all resources, user management and GPO manipulation, towards the objective based on their Integrated ERP Program feasibility for the duration of 4 months with delegated Network Team. Project Title :Windows Server– 2003 DC
+Duration : 5th–Nov--2011 to 4th --Feb-2012
+Prospective :Centralized Authentication, Roaming Profile,Software Deployed through GPO,EFS, FTP at LAN Site & batch cmd created for backup,Wallpaper & software installation etc
+SOFTWARE EXPOSURE:
+Operating System : Windows Server 2003, 2008, 2012 R2, Windows Family (XP, 7, 8.1, 10), MAC OS & Ubuntu. Security : Symantec End Point Management, K7 & Trend Micro Anti-Virus. EDUCATION & TRAINING:
+Bachelor in Computer Science (BSC CS) – During 2006 – 2009 Affiliated Under Thiruvalluvar University – Ambur MCSE – Windows 2003 Server (Centre Certified) – Sansbound The Networking School Chennai- 2011 ADDITIONAL SKILLS:
+DNS Server Configuration
+AD – Group Policy management.
+DHCP Server
+DNS Server
+Microsoft NPS – Radius Server
+WDS Concept & MDT -2013 LTI Deployment
+WSUS Server patch management
+Work Folder, FSRM, DAC, AD certificate service
+Windows System Centre Configuration Manager 2007
+AD Troubleshooting - Windows Server Backup and Restore.
+Ghosting of PC image & Restores.
+Access Point Configuration, Basics of HP Level 2 Switch Configuration
+Hiren Boot Tool
+Installs SQL Server (Basic Level)
+OTHER SKILL:
+Participated symposium conducted during the college.
+Participated in Quiz program & contributed IT related conference during the tenure. PERSONAL DETAILS:
+Father’s Name : K.Habeebur Rahman
+Date of Birth : 26.04.1987
+Gender : Male
+Marital Status : Married
+Languages Known : English, Urdu, Tamil & Hindi
+Declaration:
+I hereby declare that the above furnished information is loyal of my attitude. Date: Yours Faithfully,
+Place: (MOHAMED THAQEE. K)
+
+Contact this candidate

@@ -1,0 +1,39 @@
+
+Hi,
+I have an immediate role with my direct client in Montvale, NJ. Please send me the updated copy of your resume,
+
+Position: DevOps Engineer
+Duration: Long Term
+Location: Montvale, NJ
+Interview Process: Phone and Skype
+
+Must have strong experience with Azure.
+
+Job Description:
+Responsible for building CI-CD implementation using Azure DevOps as a tool on Azure cloud platform for designated projects.
+Responsibilities and Tasks
+Subject-matter expert in Release Management, Continuous Integration and Continuous Delivery.
+Responsible for Release Management lifecycle which includes scheduling, coordinating and the management of releases across the enterprise for multiple applications across various portfolios. The releases can be inclusive of application updates, security improvements, Projects and Programs.
+Responsible for providing tool awareness and services to help product management and project teams manage and deploy releases into production.
+Responsible for Implementing and managing release processes for code through development, test, and production environments Work collaboratively with all participants in software development projects and is supportive of developers and testers as they set up their build dev/test environments.
+Responsible for Liaising with project leads/managers/ScrumMasters, quality assurance, operations groups and other key stakeholders on the release and delivery progress, issues and improvements.
+Responsible for producing deployment run books and Implementation Plans Work with release engineers to understand impacts of branches and code merges
+Responsible for developing and delivering scripts and automation tools used to build, integrate, and deploy software releases to various platforms
+Responsible for all documentation including content for the department website on CI/CD (DevOps)
+Ensure solutions are built based on KPMG standards and that they can be deployed with the KPMG environment (whether in a global or member firm environment)
+Skills:
+Must have effective communication with excellent logic and problem solving skills and a drive to make a difference.
+Experience in development and supporting enterprise applications
+Good written and verbal communication skills with the ability to document and communicate technical information to IT professionals
+Five years of CI/CD, DevOps experience with good understanding on Software configuration Management
+Well versed with Azure DevOps (VSTS)
+Well versed with Azure offerings with work experience on the same like Web apps, ASE, ASP, function apps, SQL PaaS, Storage accounts
+In-depth knowledge of the Microsoft platform (IIS, .NET, Web Services, SQL Server, SharePoint, Windows Server, Clustering, Active Directory etc..)
+Education:
+Bachelor s degree or higher from an accredited college/university in Computer Science or related field
+
+Permanent
+
+
+Go to apply 
+

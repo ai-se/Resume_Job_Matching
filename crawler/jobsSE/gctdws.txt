@@ -1,0 +1,69 @@
+
+Senior Network Engineer
+Rochester, MI OneStream Software LLC
+
+Benefits Offered Vision, Medical, Life, Dental, 401K
+Employment Type Full-Time
+
+ABOUT THE JOB
+The Senior Network Engineer will be responsible for designing, deploying, and securing the network of our organization. The ideal candidate will ensure solutions and designs providing optimum infrastructure uptime and security. This role requires strong technical skills and hands-on experience ensuring network infrastructure is operating within the design specifications.
+
+Primary Duties and Responsibilities:
+Perform operational analysis of new technologies and recommend necessary changes for architecture and infrastructure design
+Design, plan and implement projects, as needed, to support the day-to-day production requirements
+Build foundation and define capabilities and processes to address network needs in tactical and strategic terms
+Evaluate existing internal environments and make recommendations for improving environment
+Develop, initiate, maintain, and revise policies and procedures for networking solutions, including routers, switches, firewalls, and other networking equipment
+Proactively monitor systems and perform preventative maintenance and updates to prevent performance impacts to systems and business functions
+Provide operational and technical support to ensure ongoing stability and optimization of the server environment
+Motivate and grow out the networking team to its next level of maturity, agility and scalability
+DESIRED SKILLS AND EXPERIENCE
+Formal Education and Certification
+BS/BA in Computer Science, Network Security, Engineering, or Technology related field
+
+Knowledge and Experience
+7-10 years of experience of hands-on network engineering/design and operation of large, high-availability, global enterprise environments
+Experience with overall network infrastructure including LAN, WAN, VLANs, routing, switching, load-balancing, monitoring
+Strong understanding of network security including firewalls, proxies, VPN
+Experience configuring and deploying Cisco firewalls, routers, and switches (Cisco Meraki preferred)
+Configuration of Port Security
+Layer 2/3 switching
+Network and application security device configuration and management (Cisco, Barracuda, Palo Alto, SonicWall)
+Cisco Certified Network Associate (CCNA) preferred
+Any certifications such as, Cisco Certified Network Professional (CCNP) and Information Technology Infrastructure Library (ITIL) Foundation are a plus
+Personal Attributes
+Results-driven.
+Detail-oriented.
+Strong presentation skills.
+Able to multi-task.
+Flexible and adaptable.
+Team player.
+Legally authorized to work for any company in the United States without sponsorship.
+WHO WE ARE
+OneStream Software is a privately held software company created by the same team that invented the leading financial solutions of the last decade. We provide a unified Corporate Performance Management (CPM) platform which enables the enterprise to simplify financial consolidation, reporting, budgeting and forecasting for complex organizations. Our powerful extensibility enables the enterprise to deliver additional analytic solutions without adding any technical complexity. By delivering multiple solutions in one application, we offer increased capabilities for financial reporting and analysis while reducing the risk, complexity and total cost of ownership for our customers. We are driven by our mission statement that every customer must be a reference and success.
+
+We are equally fanatical about our OneStream family members (formally known as employees). We are a team in every sense of the word. Everyone here is approachable and excited to pitch in and help. We work hard and play hard. The right candidate is someone who is easy to get along with, always willing to lend a hand, excited about coming to work, and happy to contribute to the team. We have a casual dress environment and modern office with onsite gym!
+
+WHY JOIN THE ONESTREAM TEAM
+Transparency around corporate structure, salary, and benefits
+Core value of customer success
+Variety of project work (not industry specific)
+Strong culture andcamaraderie
+Multiple training opportunities
+
+Benefits at OneStream Software OneStream employees are passionate, hardworking individuals who go above and beyond to keep our customers happy and follow through on our mission statement. They consistently deliver the best and in turn, we make every effort to keep them cared for and happy. A sample of the benefits we provide are:
+Excellent Medical Plan
+Dental & Vision Insurance
+Life Insurance
+Short & Long Term Disability
+Vacation Time
+Paid Holidays
+Professional Development
+Retirement Plan
+OneStream Software is an Equal Opportunity Employer.
+
+Job Posted by ApplicantPro
+
+
+Go to apply 
+

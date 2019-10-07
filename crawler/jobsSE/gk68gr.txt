@@ -1,0 +1,46 @@
+
+Software Technology Group DevOps Engineer
+Summary
+STG is looking for a DevOps Engineer who is passionate about automated provisioning, containers, and continuous deployment. This person needs to have the desire to improve, modernize and optimize software delivery utilizing the latest and greatest DevOps skills. This is a full-time salaried position with full benefits.
+Job Responsibilities
+Work on both the batch and the stream side of our Lambda Architecture.
+Implement a continuous integration and deployment (CICD) pipeline.
+Implement monitoring and alerting to increase uptime of our application.
+Assist in the implementation of network based security.
+Help develop our microservice strategy including overall design, technology decisions and implementation
+Improve our software development process by modernizing our technology stack and leading other developers in architectural designs and implementations required for success
+Conduct discussions, code reviews, design reviews and possible implementation demos
+Interface with development and IT teams Required Skills & Experience
+Experience with distributed applications
+Have a solid understanding of software defined networks
+Developing, debugging and deploying applications with Java, C#, or other similar languages
+Linux admin with both OS and application orchestration and automation
+Linux containers (Docker, Kubernetes, and Mesos)
+Building and working with a Continuous Integration (CI) framework
+Experience with Cloud platforms such as AWS, BlueMix, GAE, Azure, etc.
+Experience with infrastructure automation using Cloud Formations, Terraform, Puppet, or Ansible
+Experience with networking technologies, routers, switches, load balancing
+Experience building automation tools and code coverage tools like Jenkins and Clover
+KVM and/or VMWare virtualization
+Experience in Agile/Scrum environment
+Experience with Nutanix, OpenStack, or other hyper converged technologies is a plus Bonus Skills
+Saltstack, Ansible, Puppet, Chef
+Hadoop, DynamoDB
+Docker, WeaveWorks
+SMACK stack
+Education Requirements
+Bachelor of Science degree from an accredited university (Information Technology/Computer Science preferred) or equivalent experience
+About STG
+Since 1996, Software Technology Group has been employing top software developers along the Wasatch Front. Our business model makes us unique: most STG consultants are full-time employees, complete with benefits and paid time off. Positions with us combine the variety and excitement of contract work with the stability of permanent employment. A few of the things that set us apart
+Work-life balance We are a multi-year winner of the Alfred P. Sloan award for our outstanding accomplishments in workplace flexibility.
+Continuous learning We offer a mentoring program that pairs junior software consultants with our senior consultants. Software consultants at all levels benefit from our regular training programs and education reimbursement options.
+Quality people & Quality work STG s management and consultants are considered industry leaders, working together to develop advanced, innovative solutions for our clients.
+Employee value Without our employees, STG could not exist. We offer outstanding benefits, regular bonus opportunities, and above all, gratitude and appreciation for your contributions.
+Why work for us?
+Apply It is the policy of Software Technology Group, Inc. to ensure equal employment opportunity to its employees and applicants for employment by fitness and merit without regard to race, color, religion, sex, national origin, age, disability, or genetic information.
+
+Permanent
+
+
+Go to apply 
+

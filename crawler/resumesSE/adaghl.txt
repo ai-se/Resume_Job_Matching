@@ -1,0 +1,130 @@
+
+MENA WILLIAM
+641-***-**** adaghl@r.postjobfree.com Irving, Texas 75062
+www.linkedin.com/in/mena-william www.github.com/Mena-William
+
+FULL STACK WEB DEVELOPER
+
+Innovative developer with over 6 years of experience applying strong technical abilities and leadership skills to the creation of complex web-based applications. Expert knowledge of architecture design and solution development using modern SDLC methods and design patterns, and a proven history of successful product delivery ensured by thorough testing, optimization, and user training. Implemented multiple Angular and NodeJS projects; experienced working offshore with US-based clients.
+
+Web Applications System Architecture Modern SDLC Mobile Apps Team Leadership
+Multimedia Streaming API Integration Social Media Web Services Project Management
+Versioning Control Data Management Design Patterns Test Design & Troubleshooting
+
+Languages: C#, HTML5, CSS3, JavaScript/TypeScript, PHP 5
+Web: ASP .NET (Web Forms, Web APIs, MVC), ADO .NET, NodeJS, Angular, jQuery, jQuery UI, Wijmo, AJAX, Servlets.
+Technologies: Web services (Restful, SOAP), JSON, XML, TFS, SVN, Git, OAuth
+Databases: MySQL, MS SQL, MongoDB
+Tools: Visual Studio, VS Code, Eclipse, Photoshop, Workbench, SSMS, FileZilla, Terminal, MongoDB Compass, NPM, NuGet
+Frameworks: .NET, Express, Bootstrap, WPF, WCF, Entity framework, LINQ
+SDLC: Agile, Scrum
+Design Patterns: Singleton, Observer, Strategy, Template Method, Decorator, Iterator, Interpreter
+Platforms/Servers: Windows, Linux, Mac OS, IIS, Apache Tomcat, apache
+
+PROFESSIONAL EXPERIENCE
+
+CAREER NOTE: Completed on-campus studies and currently taking distance education courses to complete a master’s degree in Computer Science (Available for full-time, W-2 employment).
+
+NCR, Fort Worth, Texas USA APR-2019 Till now
+
+Full Stack Software Engineer:
+Develop high-quality software tasks using C# and angular.
+Identify, prioritize, integrate, test and execute tasks in the software development life cycle.
+Developed and implemented new reports for users by creating angular components and C#.
+Collaborate with internal teams to fix and improve products.
+Developing Restful APIs to provide one end point for many platforms.
+
+Technologies Used: C#, ASP .NET, Web APIs Visual Studio 2019, Angular 6/7/8, Windows 10.
+
+HITACHI CONSULTING, Toyota Motors North America Client, Plano Texas USA JAN-2019 To APR-2019
+
+Senior Front-end Developer
+Working on Lexus Drivers Next Generation website for best communication between dealers and clients.
+Using Sitecore with .net in backend and react in frontend.
+Developing efficient and quality code based on given specifications.
+Creating detailed design document/technical specifications for select projects.
+Participating in deployment activities like reviewing all deliverables as per the delivery or change request checklist, preparing/reviewing deployment document and testing all deliverables.
+Developing reusable components.
+Developing new user-facing features using React.js.
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
+Technologies Used: NodeJS, Sitecore, HTML5, CSS3, SCSS, Bootstrap, JavaScript, Typescript, AJAX, Angular 6/7, React, MySQL, VS Code, Windows 10.
+
+VERIZON, Irving, Texas USA OCT-2018 To JAN-2019
+
+Senior Software Engineer:
+Develop high-quality software design and architecture.
+Identify, prioritize and execute tasks in the software development life cycle.
+Collaborate with internal teams to fix and improve products.
+Supports and develops software engineers by providing advice, coaching and educational opportunities.
+Working with Angular 6/7 to deliver high front-end design.
+Implementing central Restful APIs to provide one end point for many platforms.
+
+Technologies Used: C#, ASP .NET Web APIs, NodeJS, HTML5, CSS3, Bootstrap, JavaScript, Typescript, AJAX, jQuery, Angular 7, MySQL, SQLite, Visual Studio 2013/2015/2017, VS Code, Windows 10.
+
+HELNIX TECHNOLOGY, Assiut, Egypt 2014-2017
+
+Senior Software Engineer / Team Leader / Senior Team Leader: Supervised team leaders, coordinating with advertising team, clients, and other companies to ensure company's success.
+
+Tasks Performed:
+Used SDLC techniques and design patterns for complete software development life cycle, including project definition, planning, coding, delivery, support, and upgrades.
+Supported team members in reviewing and resolving all coding problems and performance issues.
+Recruited project staff and assigned tasks to project team members.
+Achievements:
+Started as a Software Engineer at Helnix and moved up to Senior Team Lead.
+Started by identifying, prioritizing and executing tasks in the software development life cycle.
+Automated tasks through appropriate tools and scripting.
+Provided regular updates to upper management and developed a project plan.
+Designed and implemented Helnix, a web platform for live streaming,
+integrated with social media and including pay-per-view function, HTML5 media player, and Dropbox support. Bootstrap and Wijmo for the UI and ASP .NET Web Forms and Web APIs for the backend, some admin background processes using WPF, MySQL & 2012 SQL implementation for different privileges.
+Built powerful new features for existing applications and improved user experiences.
+Selected Projects:
+ArcSimulation: Desktop application for dealing with maps and spatial information and generating useful statistics ArcMap. C# Windows form application with 2008 MS SQL server.
+FileManage: Consists of two parts one website for data insertion and one desktop applications for synchronizing data in hard drive. ASP .NET Web Forms with bootstrap UI and C# Console app over schedule for background processing and data manipulation.
+Technologies Used: C#, ASP .NET (Web Forms, Web APIs), HTML5, CSS3, Bootstrap, JavaScript, AJAX, jQuery, Wijmo, MySQL, MS SQL, Visual Studio 2015/2017, AWS S3, WPF, ADO.NET, LINQ, Windows 10
+
+DISCOVERVIDEO, Remote 2013-2014
+
+Software Engineer: Coordinated with US team to implement front end, back end, and database connections of multimedia system for live streaming.
+Tasks Performed:
+Created user interface for customer data entry using ASP .NET, HTML5, CSS3, and jQuery.
+Wrote stored procedures and connected with database through ADO .NET.
+
+Achievements:
+Managed cultural, language, and time differences to work successfully with US-based team and increasing work productivity over many projects, achieving customer satisfaction.
+
+Selected Projects:
+Devos: Multimedia system that delivers live streams originating from Streamsie encoders with easy content publishing, signage ability and universal viewing. Two different bootstrap web portals first ASP.NET MVC for admins and second ASP .NET Web Forms for customers with MySQL DB and S3 integration for saving user contents
+Technologies Used: C#, ASP .NET (Web Forms, MVC, Web APIs), ADO.NET, HTML5, CSS3, Bootstrap, JavaScript, AJAX, jQuery, Wijmo, MySQL, Visual Studio 2013, Amazon Web Services (S3)
+
+INTERNATIONAL TURNKEY SYSTEMS, Assiut, Egypt 2012
+
+Software Tester: Generated test cases to locate and eliminate bugs, ensuring system is ready for delivery. Tracked known bugs and ensured resolution.
+ACADEMIC PROJECTS
+
+Library Management-System-Maharishi University of Management: Created a desktop app for borrowing, purchasing and tracking books for libraries.
+Technologies used: JavaFX for UI, java for backend and MySQL Database.
+eCommerce Framework-System-Maharishi University of Management: Built back-end framework in Java for supporting large scale ecommerce systems, and associated web application.
+Technologies used: Java Servlets, HTML5, CSS3, and jQuery. Integrated as underlayer for eCommerce systems.
+Native Chat System-System-Maharishi University of Management: Web application supporting chatting in multiple languages. Technologies used: NodeJS, Express for the backend and Angular 6 for the UI, MongoDB, SocketIO, Google Translate API, and JSON Web Tokens for security.
+Cycling Club-System-Maharishi University of Management: Web application for organizing cycling events by implementing user registration/login, show events information and register in events. Technologies used: Java Servlet, HTML5, CSS3, Bootstrap, JavaScript, AJAX, and jQuery.
+Video Modeling- Assiut University: Designed and implemented 2 mins video in 3DS Max application.
+FacebookLike-Assiut University: Created social media site like Facebook. Technologies used: PHP as backend, HTML5, CSS3, jQuery, and AJAX for UI.
+iOS App-Assiut University: Created app for iOS displaying contacts in customized manner. Technologies used: XCode, Cocoa touch.
+EDUCATION
+
+Master of Science in Computer Science
+(In progress via distance education; expected completion October 2020)
+Maharishi University of Management – Fairfield, Iowa
+
+Key Courses: Science of Creative Intelligence; Modern Programming Practices; Web Advanced Programming; Advanced Software Programming; Modern Web Applications; Algorithms
+
+Bachelor of Science in Computer Science (2012)
+Assiut University – Assiut, Egypt
+
+PROFESSIONAL DEVELOPMENT
+
+Cisco Certified Network Associate (CCNA) Programmable Logic Control (PLC)
+3Ds Max Modeling Adobe Dreamweaver & Photoshop for Web Design
+International Computer Driving License (ICDL)
+
+Contact this candidate

@@ -1,0 +1,33 @@
+
+Description QA Engineer - Syncova SS&C Advent (NASDAQ:ADVS), where highly skilled professionals power the market in automated solutions for investment professionals, is currently seeking a highly motivated Implementation Consultant at our office in London.
+Advent's quality software, data, services and tools enable financial professionals to improve service and communication to their clients, allowing them to grow their business while controlling costs.
+Advent is the only financial services software company to be awarded the Service Capability and Performance certification for being a world-class support and services organization.
+Syncova is a specialist provider of margin and financing software products and services to prime brokers and hedge funds and is the only independent provider in the market.
+We have a growing global client base and have worked with some of the largest prime brokers and hedge funds across the full spectrum of alternative investment and asset management.
+Our track record gives us a unique understanding of the funding and margin management needs of prime brokers and hedge funds and our aim is to develop and provide new and innovative solutions to the industry that no other vendor supplies.
+The requirement is for hands-on Test Analyst.
+This role includes the development of Test Plans & Scripts, executing tests and the consideration, design and implementation of test automation wherever possible.
+The successful candidate must have significant exposure to functional and non-functional testing (performance, stress, load, operational, etc) as well as various layers of integration testing.
+Applications are delivered on Windows platforms using .NET C#, MS SQL Server database and Web; therefore familiarity with these technologies is essential.
+The candidate will be expected to: * Assist in creation of the technical testing strategy and approach using design artefacts, specifications and input from other stakeholders and programme members.
+* Design Test Plans to deliver testing in a number of non-functional areas such as Performance, Stress and Load testing with clear scope, objectives, deliverables and risks.
+* Ensure testing is carried out in a timely, repeatable and effective fashion.
+* Track and report quantitative and qualitative testing results/metrics in an auditable form.
+* Liaise very closely with both development and deployment group * Carry out business analysis duties as required by the test definition role in order to maintain a focus on the client business needs.
+Deliverables are likely to include: * Technical test execution * Test plans * Test scripts or test packs * Test automation or improvement solutions * Test reports and support to evaluation activities The candidate will have the following experience & qualifications: * Knowledge of structured testing strategies and methods applied in a distributed, networked environment.
+* Knowledge of Windows environments, Servers and Virtual Machines.
+* Ability to take responsibility for areas of a test plan and work with others to execute that plan.
+* Ability to communicate effectively and liaise on a technical level with Analysts, Designers and Developers to gain required knowledge for the design and creation of testing plans, scripts and supporting documents * Track and report quantitative and qualitative test metrics * Familiarity with defect tracking/management tools (e.g.
+Jira). * Formal defect tracking, defect life cycles and release-to-test version control & management etc.
+* Experience of Testing mission critical Financial/Trading Systems and message based transactional systems - Highly desirable but not essential.
+* Experience and understanding of various development and test methodologies.
+* Experience of automation and test management tools (Test Complete, Selenium, SoapUI) * Experience with a Scripting language * Knowledge of working with any major relational database, writing SQL queries.
+Additionally, the following would be desirable: * Business experience in Investment Banking * Business experience in Prime Brokerage / Cross Margin What Advent Offers Advent EMEA's trademark is a positive, international and challenging working environment.
+At Advent you will meet a team-oriented and highly social group of people.
+We offer a competitive remuneration package, continuous training & development, and a lot of fun!
+Data Privacy Notice The provision of personal information through your job application will be processed in accordance with SS&C Data Privacy Notice for Candidates ( which the applicant hereby acknowledges having read and fully understood.
+SS&C is an Equal Opportunity Employer and as such does not discriminate against any applicant for employment or employee on the basis of race, color, religious creed, gender, age, marital status, sexual orientation, national origin, disability, veteran status or any other classification protected by applicable discrimination laws.
+
+
+Go to apply 
+

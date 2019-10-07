@@ -1,0 +1,120 @@
+
+Palvesha Hakim
+Designation: Manager- Software Development Email: adahig@r.postjobfree.com
+[Holding Valid USA B1 Visa] Mobile: +91 (971) 1149 – 581 https://www.linkedin.com/in/palvesha-hakim-587a4815 Skype ID: palvesha.hakim SUMMARY:
+A proven leader, Engineering Architect/Manager with 10+ years of experience in Software development, implementation, project management, client relationship, pre-sales and business development. I have been able to leverage my strong development, communication, analytical, presentation skills and critical thinking to find success throughout my career in information technology. I have expertise in ERP systems like Odoo, Microsoft Dynamics CRM and have also delivered ServiceNow solutions projects. Currently managing a team of 25 resources (developers and QA). EDUCATION:
+Master of Computer Applications (MCA) June’ 2009 from Gujarat University, India EXPERTISE:
+Development experience in Python, Javascript, XML, Odoo, Microsoft Dynamcis CRM, ServiceNow framework.
+Implemented/customized ERP modules like CRM, HRM, Project management, Financial management, Sale/Purchase management, POS, ITSM etc. for healthcare, IT, textile, educational, retail etc. domains.
+USA Onsite experience in 2018 with ZappRx Inc. with responsibilities ranging from project technical discussions, architecture and project planning.
+Cape Town (South Africa) Onsite experience with ZaPOP for requirement gathering.
+UAE Onsite experience with Masdar Institute of Science and Technology for UAT, user training, knowledge transfer, Go-Live.
+Excellent analytical, communication and interpersonal skills cultivated throughout my experience as a developer, team leader, tech expert and manager.
+Extensive experience in end to end software development cycle including requirement gathering/analysis, designing, development/implementation, testing and support.
+Excellent problem solving and troubleshooting skills. Self driven with out-of-the box thinking ability.
+Hands on experience of databases such as PostgreSQL, MYSQL.
+Vast knowledge of source control management technologies like GIT and SVN.
+Outstanding capabilities to Utilize JIRA to identify and document business requirements.
+Experience in writing scripts for automatic database backup, system deployment, mounting folders in linux.
+Expertise in utilizing Agile Development practices involving test driven development.
+As an influential member of the team, helped to create a positive learning culture and coached and counseled team members and helped them to develop in this domain.
+Expertise of creating user manuals, setting up production environment, installing applications.
+Experience in developing productive client relationships at different management levels and identifying and developing opportunities for new business.
+Efficient in project management/team management/people management. Page 1
+TECHNICAL SKILLS:
+Languages: Python, JavaScript, XML
+Framework: Microsoft Dynamics CRM, Odoo, ServiceNow DATABASE: PostgresSQL, MYSQL
+TOOL & UTILITIES: Eclipse, Net Beans, GIT, SVN, JIRA OPERATING SYSTEM: Ubuntu, Windows
+PROFESSIONAL EXPERIENCE:
+Since April’ 2012 to till date with QA InfoTech Pvt Ltd in Noida, India, currently working as Manager – Software Development.
+Project Experience:
+1. ZappRX for ZappRX Inc., United States
+Description: ZappRx is a digital health company offering a prescription & prior authorization platform. ZappRx involves a workflow of highly critical, confidential and segregated health related data conforming HIPAA standards. Programming Tool and Technology: Python, Django, Java, Maven, Git Database Server: MYSQL
+Role & Responsibility:
+Design and creation of integration services and system architecture.
+Design, implementation and setup of data analytics solutions using python libraries such as pandas and numpy for computational analyses on a SQL database.
+Build robust and scalable solutions for Rxforms.
+Participate in brainstorming sessions and contribute ideas to technical implementation of product.
+Collaborating with the product teams to understand end-user requirements, formulate use cases, and construct pragmatic and effective technical solutions.
+Design and drive integration services for functional collaboration with third-party entities.
+Help improve code quality through designing and unit tests.
+Provide technical and organizational leadership.
+Formulate efficient data modeling and reporting schemes focused towards trend analysis.
+Managing backend team, assigning task and planning allocation of resources.
+Mentoring team members and providing them technical guidance. 2. MS Dynamics CRM Customization for Penn Foster Career School, United States
+Description: Two Microsoft Dynamics CRM organizations implemented for Penn Foster: B2C and B2B. These allow several teams/business units throughout the organization to track several elements, including, but not limited to, leads, contacts, accounts, phone calls, emails, and sales throughout a set of user-defined pipeline phases. Both integrate with several separate business elements, along with 3rd party plug-ins. Programming Tool and Technology: C#, ASP.NET, JavaScript Database Server: SQL Server 2008
+Page 2
+Role & Responsibility:
+Customization and support of Dynamics CRM applications for B2B and B2C.
+Implementation of Workflows, tasks, alerts and field updates, page layouts.
+Implementation of HTML letterhead, email and quotes templates, complex reports.
+Provide technical guidance for end users related to configuration of software solutions.
+Provide client satisfaction services by continuous support to Microsoft Dynamics applications.
+3. ITSM and Invoicing system for QA InfoTech Pvt Ltd, India Description: ITSM system for automated workflows for logging, filtering, categorization, prioritization, assignment and lifecycle management of all tickets. Complete visibility into logged issues throughout their lifecycles with SLAs across lT teams and vendors. Invoicing system to create invoices, work orders, projects and customers. Tracking of payments, auto follow ups for outstanding invoices. Contract management for managing all legal contracts like MSA/SOW/NDA.
+Programming Tool and Technology: ServiceNow framework, JavaScript, Jelly scripting, AJAX, XML, JSON.
+Database Server: MySQL.
+Role & Responsibility:
+Defining project objectives, scope, plan, deliverables and time lines.
+Defining Service Level Agreements(SLAs), emails notifications, inbound actions, templates (creation of scheduled tasks like incident, task etc.) and reports.
+Defining ACLs and applying them to groups and users.
+Identify, track and resolve issues/bugs.
+Workflow implementation and change management.
+System administrator for general support, administration and maintenance of system.
+4. QAIT Invoicer for QA InfoTech Pvt Ltd, India
+Description: Invoicing system implemented to submit/track invoices of different projects throughout organization. This includes financial management, project management where automatic invoices are automatically submitted from task, automatic follow up emails are sent for outstanding invoices. Auditing of projects, invoices, several excel reports. Programming Tool and Technology: OpenERP (Odoo) framework, Python, RML, Eclipse. Database Server: PostgreSQL.
+Role & Responsibility:
+Defining project objectives, scope, plan, deliverables and time lines.
+Development of complete system.
+Identify, track and resolve issues.
+Creating Workflows, reports, processes.
+Technical support to end users.
+Page 3
+5.OpenERP modules for Life'n Style Asia Ltd., Hong Kong Description: Product management, sales management, invoicing modules were implemented for retail company Life’n Style Asia Ltd. Financial reports were and worfklows were created to meet the business needs.
+Programming Tool and Technology: OpenERP (Odoo) framework, Python, RML, Eclipse. Database Server: PostgreSQL.
+Role & Responsibility:
+Define project objectives, scope, plan, deliverables and time lines.
+Development of complete system.
+Identify, track and resolve issues.
+Creating Workflows, reports, processes.
+Technical support to end users.
+6.CAB Reservation system for Adobe Systems, India
+Description: CAB reservation system was implemented to book cabs where email notifications were send on each step/workflow like approval, arrival, cancellation. Reports were created for analyzing the data, ACL metrics were created for user specific rights. Programming Tool and Technology: OpenERP (Odoo) framework, Python, RML, Eclipse. Database Server: PostgreSQL.
+Role & Responsibility:
+Interaction with client for Business Process Analysis and Mapping, identification of requirements and priorities, understanding & coordinating with client ensuring adherence to delivery schedules.
+Development and implementation of complete system.
+Create user manuals.
+Provide user acceptance training.
+7.OpenERP Job Tracker for SAM IT Solutions, United States Description: A Job tracker system that automatically converts the quote to job, auto scheduling of activities based on pre defined templates, assignment of activities to different users. ACL metrics for different user rights.
+Programming Tool and Technology: OpenERP (Odoo) framework, Python, RML, Eclipse. Database Server: PostgreSQL.
+Role & Responsibility:
+Interaction with client for Business Process Analysis and Mapping, identification of requirements and priorities, understanding & coordinating with client ensuring adherence to delivery schedules.
+Development and implementation of complete system.
+Creating user manuals.
+Page 4
+From September’ 2010 to March’ 2012 with Samin Tekmindz Pvt Ltd in Noida, India as a Sr. Software Engineer.
+Project Experience:
+1. OpenERP Implementation for SuperHouse Textile Ltd., India Description: Manufacturing, purchase, sales, stock, product, financial management modules for textile industry.
+Programming Tool and Technology: OpenERP (Odoo) framework, Python, RML, Eclipse. Database Server: PostgreSQL.
+Role & Responsibility:
+Interaction with client for Business Process Analysis and Mapping, identification of requirements and priorities, understanding & coordinating with client ensuring adherence to delivery schedules.
+Defining project objectives- scope, plan and deliverable and set time lines and collaborate with project/ QA team to ensure quality deliverables.
+Development of system along with team.
+Task assignments to team members.
+Creating user manuals.
+Providing user acceptance training.
+From June’ 2009 to September’ 2010 with Pragmatic Technology Solutions as Software Engineer.
+Project Experience:
+1. HR/Payroll Module for Masdar Institute of Science and Technology, Abu Dhabi, UAE
+Description: HRM system for educational institute that included employee management, leave management and payroll system. Reports in Arabic and English language, audit reports. ACL metrics was implemented for different user rights. Programming Tool and Technology: OpenERP (Odoo) framework, Python, RML, Eclipse. Database Server: PostgreSQL.
+Role & Responsibility:
+Interaction with client for Business Process Analysis and Mapping, identification of requirements and priorities, understanding & coordinating with client ensuring adherence to delivery schedules.
+Managing business correspondence and building rapport with customers.
+Development of system along with team.
+Defining objectives, scope, plan and deliverables of the project.
+Creating user manuals.
+Providing user acceptance training.
+Special Achievements:
+Represented as Project Manager for CMMi level 3 external audits of Samin Tekmindz Pvt. Ltd.
+Page 5
+
+Contact this candidate

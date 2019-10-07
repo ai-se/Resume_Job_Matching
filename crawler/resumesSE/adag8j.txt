@@ -1,0 +1,127 @@
+
+OMAIR GILL
+**-** **** ****** *** floor New York, NY
+adag8j@r.postjobfree.com 929-***-****
+
+QUALIFICATIONS
+Highly skilled in creating and executing Test strategy, test cases, test scripts from Requirements documents, Functional specification/Detail Design Documents, wireframes, use cases and user stories.
+Strong Experience in Automating Web Application Testing using Selenium Webdriver with TestNG Framework.
+Strong Experience in Java Programming, Selenium WebDriver, Junit and TestNG.
+Well versed with Handling Elements in Selenium Webdriver.
+Writing Test Cases using Element locators, Webdriver method, Java Programming features and TestNG Annotations.
+Executing Selenium Test Cases and Reporting Defects.
+Full knowledge of SDLC and STLC from Verification to Validation.
+Experienced working in Agile/scrum and Waterfall environments.
+Experience in Data driven Testing, Cross browser testing and Parallel Test execution using Selenium WebDriver, TestNG.
+Strong Manual Testing skills including writing test cases and logging/tracking defects.
+Extensive experience with Financial/revenue management/CRM applications.
+Expert in analyzing requirement specifications and outlining appropriate approach for testing.
+Experienced in Smoke Testing, Black Box Testing, Functional Testing, UI Testing, Database Testing, Integration Testing, security Testing, Regression Testing, Browser Compatibility, Load, Performance Testing, and User Acceptance Testing.
+Proficient in using automated testing tools like HP UFT/QTP, Load Runner, and ALM/Quality Center, Selenium Tools.
+Expert at performing Database/Back-end Testing and data manipulation using SQL.
+Hands on experience in writing and executing automated Test Scripts, Tracking Defects and interacting with the development team in correcting the defects..
+Hardworking, Dedicated, Flexible and versatile to adapt any new environment and work on any project.
+Excellent communication and inter personnel skills and ability to quickly learn new technology.
+Have ‘can-do’ and ‘test to break’ attitude and great attention to details.
+
+Years of Experience: 6 Years
+
+WORK EXPERIENCES:
+Company: Capital One, Arlington, VA Position: Software Engineer
+Duration: Oct 2018 to Aug 2019
+
+Key Responsibilities:
+Developed the Automation Test Scripts in Selenium WebDriver using Java based on the design pattern Page Object Model for reusability.
+Prepared Test Cases using Data Driven, Hybrid, and Keyword Driven Framework in WebDriver.
+Prepared XML and Excel files for collection of data and Element Locators using object repository, used this in test suite with the help of APACHE POI library files.
+Created Maven Project using Maven build automation tool to create dependencies like wars, jars, using of plugines for invoking XML files.
+Triggered POM.XML files using Jenkins, Continuous Integration Tool to generate reports and to trigger periodically.
+Used Github, source code management tool for code re-usage, high portability extending scope of Automation Testing.
+Reviewing the Test Reports using TestNG framework.
+Project is under Agile Environment, I attend daily standup meeting, provided daily status on manual and automation test results, Attended sprint plan meetings to review the user stories and story points.
+Responsible for developing and executing of manual test plan and test cases for Web Services SOAP and Rest API testing.
+Added assertions in response xml to validate the output of web services call.
+Worked with the programmers to test the daily builds and reported bugs.
+Collaborated with development on test automation efforts to ensure that development supports the testing solutions.
+Performed functional, Compatibility testing on different browsers like IE, Firefox, and Chrome.
+Performed automation testing using MAVEN, Github and Jenkins.
+Worked with Developers and Quality Assurance associates to identify and implement test suites/test cases for diverse projects.
+Prepared and executed Test Cases as per System requirements and User Stories.
+Validated the Request and Response XML.
+Worked with Team members to develop Test Plan document.
+Prepared and execution of test suite using Selenium
+Participated manual testing on some required modules.
+Performed various black box testing, logged defects using JIRA tool and reported it to the developer.
+Developed and executed Test cases, Tracked the status of project using HP Quality Center Test management tool.
+
+Environment: JIRA, HP Quality Center/ALM, HP UFT, Jenkins, SQL, Oracle, DB2, SQL, Selenium Webdriver,, Postman, API, XML, JSON, Notepad++, Skype, Wiki,
+Frameworks: Maven, (TestNG) TDD, Cumcumber (BDD)
+
+Company: TD Bank, New York, NY Position: Software Tester
+Duration: Oct 2017 to Sept 2018
+Key Responsibilities:
+
+Attended daily standup meetings, provided daily status on manual and automation test results.
+Designed and Developed the Automation Test Scripts using Selenium WebDriver using Java.
+Reviewed the Test Reports using TestNG.
+Performed Functional Testing, Data Driven testing, and Cross Browser Compatibility Testing on different browsers like IE. Firefox & Chrome.
+Developed Test cases using Element Locators and Selenium WebDriver methods.
+Enhanced Test cases using Java Programming features and TestNG Annotations.
+Execution of Selenium test suite and developed reports and reported defects.
+Involved in Retesting and Regression Testing using Selenium WebDriver.
+Developed SQL queries and Joins to validate the reports.
+Automated the functionality and interface testing applications using QuickTestProfessional.
+Used checkpoints to check properties of various objects using QTP.
+Performed various black box testing methodologies like functional testing manual testing, Regression Testing, Smoke Testing, UAT.
+Prioritized the defects and the severity levels using Quality Center and discussed with the developers to resolve the issues.
+
+Environment: Java, JIRA, HP Quality Center/ALM, HP UFT, Jenkins, SQL, Oracle, DB2, SQL, Selenium Webdriver, Maven, Postman, API, XML, JSON, Notepad++, Skype, Wiki, MS Office,
+
+Company: TRG Tech Lahore, Punjab
+Position: QA AutomationTester
+Duration: April 2013 to Aug 2017
+Key Responsibilities:
+Was responsible for writing test cases, executing test cases and documenting bugs, and communicating with Development to get them fixed.
+Researched and analyzed the software requirements, workflows and designs to define detailed test suites, test cases, test data and procedures.
+Assist in development of software technical documentation
+Analyze, debugs and/or assists in problem solving
+Very good knowledge of unit test(e.g. Junit) and Test Driven Development(TDD)
+Created test plans and test cases from approved requirement and design documents and traced them to the relevant use cases.
+Reported and entered defects and issues in HP Quality Center/ALM.
+Performed Manual Functional testing to test the functionality of the application and modules.
+Validated test to check boundary conditions and error messages.
+Performed functional, GUI, regression testing, User Acceptance testing, and End-to-End
+testing.
+Developed SQL queries to perform backend testing of the database.
+Performed regression testing on all the phases of testing.
+Created progress reports to ensure appropriate test coverage and results.
+Created bug reports and test summary report and shared it with QA Manager and team
+Responsible for documenting work for quick references Guide utilizing MS WORD.
+
+Environment: Windows, UNIX, Mainframe, QC, QTP, Java, XML, JSP, SQL, Oracle, IE, Chrome, FF
+
+EDUCATION: Masters of Public Administration (MPA), Preston University, Lahore, Pakistan.
+
+TECHNICAL SKILL SETS
+
+Languages
+Java, VBScript, SQL
+Testing Skills
+Test Plan creation, Test Case Design, Test data preparation, Test execution, Defect management, Test reporting, Test Manager, Test Automation script writing, Black Box and White Box testing, GUI and API Testing
+RDBMS
+Oracle, SQLite, MS Access, MS-SQL Server, Data Stage
+Scripting Languages
+VB Script, Java
+Defects Tool
+Jira, Quality Center
+Testing Tools
+Selenium WebDriver, Quick Test Pro (QTP), Jbehave, Cucumber,
+Test Framework
+Junit, TestNG, Data Driven Framework
+Processes
+Agile-Scrum, Waterfall
+
+Cooper Union Albert Nerken School of Engineering, New York, NY Certification courses in: Software Quality Assurance (QA) – Manual Testing, 2016 Software Quality Assurance (QA) – Automated Testing 2016, Java Programming 2016
+Reference: Available on Request.
+
+Contact this candidate

@@ -1,0 +1,95 @@
+
+Sirisha Jampa
+603-***-**** • adagqc@r.postjobfree.com • https://www.linkedin.com/in/sirisha-jampa-167699190/
+Professional Summary
+* ***** ** ********** ** software Analysis, Design, Development and Software Testing (Manual and Automation) of Client Server and Web Applications.
+Excellent analytical & troubleshooting skills, as well as innovation and creativity combined with strong personality.
+Experience in Smoke Testing, Sanity Testing and Functional testing, end-to-end application testing.
+Solid understanding of software architecture technologies (HTML, XML, Java, Web Services, SOA, SOAP, Unix/Linux knowledge).
+Experience in Automating Web Application Testing using Selenium WebDriver.
+Proven ability to deliver products with highest quality and on time.
+Self-motivated, energetic and highly ethical in all work related assignments thus able to contribute to corporate goals and objects in time.
+Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports and Test Summary Report.
+Experienced in Software Development Life Cycle that includes methodologies like V -model and Agile.
+Experienced in various databases like Oracle and SQL Server and used various SQL commands and statements to test the applications.
+Experience in designing, preparing and executing test cases for Client Server and Web Applications using SDLC concepts.
+Experience in logging defects using JIRA, performed defect tracking and reporting
+Involved in the entire QA process, well acquainted with all phases of SDLC and STLC and had experience in testing very complicated applications.
+Experience in Web Based Applications Testing and Windows Based Applications Testing.
+Experience in understanding business requirements, preparing and supervising execution of test cases for system customizations/enhancements and Initiatives.
+Experience with QA Methodology and QA Validations to ensure the Quality Assurance Control.
+Experience with Object Oriented Programming, UML concepts, design patterns, and web Technologies.
+Quick learner with the ability to grasp and learn new technologies.
+Excellent team player having ability to finish the tight deadlines and work under pressure.
+Education
+Master of Science Degree in Information Technology: August 2019
+Southern New Hampshire University (Manchester, NH) GPA 3.6
+Bachelor of Science Degree in Computer Science May 2015
+Andhra University (India) GPA 3.3
+Technical Skills
+Programming Languages
+Selenium, Java, shell scripting, SQL, HTML, UNIX, MySQL
+Defect Tracking Tools
+JIRA, Bugzilla, HP Quality Center
+Test Management Tools
+TestRail, Jenkins
+Testing Knowledge
+Manual, Automated, Functional, Regression, Black box, White box
+Version Control:
+Tortoise SVN GitHub
+Web Technologies:
+HTML,CSS, JSP, Bootstrap
+DBMS:
+Oracle MySQL Microsoft SQL Server, MS-Access
+Operating Systems:
+Windows 7/10,MS-DOS, UNIX, Ubuntu Linux, VM Ware
+Had Knowledge on
+C,C++, C#, MS Test manager, Web Services Soap UI
+IDE Tools
+Eclipse IDE, NetBeans IDE
+Project Methodologies
+Agile, SDLC, Waterfall
+Other Tools
+PL/SQL developer, SQL developer, MS Visio, MS-Project, MS-Office, WAMP server, Putty
+Professional Summary
+Deccan Brakes Inc, Hyderabad, India
+Title: Software QA Engineer
+Roles & Responsibilities
+Involved in creating of the test cases, Test Scenarios and Test Data.
+Enhanced Test cases using Java programming features and TestNG Annotations.
+Execution of Selenium Test cases and Reporting defects.
+Responsible for GUI and Functional Testing, using Black box Testing Techniques.
+Experience working in an Agile (SCRUM, XP, Kanban) environment/team focusing on sprint-by-sprint deliveries.
+Experience with relational databases, Oracle and Microsoft SQL Server.
+Ability work closely with Developers and Product Owners to ensure features/bug fixes are shippable' by sprint end.
+Contribute to the automation using test automation environment leveraging virtualization, Java, Python, and third party tools.
+Prepared and execution of test suite using Selenium.
+Executed Linux commands, FTP commands to validate the log files while debugging the issues to find root cause analysis of the issue.
+Performed various black box testing methodologies like functional testing manual testing, Regression Testing, Smoke Testing, UAT.
+Prioritized the defects and the severity levels using Quality Center and discussed with the developers to resolve the issues.
+Developed SQL queries and Joins to validate the reports.
+Automated the functionality and interface testing of application using QuickTest Professional.
+Used checkpoints to check properties of various objects using QuickTest Professional.
+Created Object Model Reference to customize QTP.
+Generated Test Summary report after completion of every iteration.
+Involved in Black box testing and manual testing methodologies.
+Performed both the Functional and Regression Testing of the application to make sure the business process works as intended.
+Performed the Database Integrity Testing using SQL
+Performed Browser Capability testing includes testing of several major versions of browsers.
+Using Test Cases performed manual Testing like Positive Testing and Negative Testing.
+Tested the Import Data functionality, which involved importing the data from XML/Excel files and validating the correctness of the data in the back-end.
+Testing is focused on the overall functionality and HTML validation of website and reliability.
+Conducted functional testing, compatibility testing, database testing.
+Interacting with business analyst to make sure business workflow scenarios are tested.
+Responsible for updating and maintaining Quality Center for all the defects found during functional/regression testing.
+Follow up the bug life cycle, provides status and progress reports.
+Participated in Defect Review meetings and Daily Status meetings.
+Effective collaboration and communication with Business Analysts, Developers and Database Administrators throughout the project life cycle.
+Technologies/Tools Used: Eclipse, Selenium, Linux, JIRA, TestRail, SVN, Oracle Database, SQL, Toad, HP Quality Center, Putty, MS Office, MS SQL, .Net, Visio, Windows XP, 7, 8, HTML
+ACADEMIC PROJET
+Multiparty Access Control for Online Social Networks:
+Examining how the lack of multiparty access control (MPAC) for data sharing in OSNs can undermine the protection of user data. Some typical data sharing patterns with respect to multiparty authorization OSNs are identified. Based on these sharing patterns, an MPAC model was formulated to capture the core features of multiparty authorization requirements that have not been accommodated so far by existing access control systems and models for OSNs. Performed system, unit, performance, load, regression, stress and data interface testing. Provided client developer teams with detailed reports on quality metrics, identified bugs/flaws and recommended fixes
+Technologies/Tools Used: Windows XP, JAVA/J2EE JDK 1.6 &amp, MYSQL
+Testing Involved: Functional, Regression, Network, Black box and White box
+
+Contact this candidate

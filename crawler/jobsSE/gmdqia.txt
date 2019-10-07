@@ -1,0 +1,19 @@
+
+B.S Degree Required.
+Design, Test & Develop End-to-End (E2E) automation frameworks with Lab certifications.
+Strong knowledge in LTE/UMTS/IMS/EPC Network Architecture and their call flows
+Contribute to development of 5G Network with pre and post validations at customer premises.
+Working knowledge on IMS, SIP and VoLTE with detailed troubleshooting.
+Expertise in creating test plans for system level, subsystem level and feature level testing
+Hands on tools like: Aeroflex/Cobham, IRIS, Ixload, Landslide, QXDM/QCAD.
+Support customers on architectural nodes and interfaces of LTE/IMS i.e., P-CSCF, SGw/PGw, MME, PCRF, HSS, MSP, MME, DNS, eNB & UE device.
+Good at troubleshooting LTE/IMS logs at customer's Lab & production environment.
+Required written & verbal communication skills to fulfil stakeholders requirements.
+Coordinate with specific teams to meet the deliverables and responsible for Lab s availability.
+
+Contract
+12 Months
+
+
+Apply now
+

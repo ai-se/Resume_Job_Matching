@@ -1,0 +1,347 @@
+
+SUMMARY
+Experienced in full life cycle stages of Oracle Fusion Financials, General Ledger, Accounts Receivables, Accounts Payables, Fixed Assets, Cash Management, India Localization, SLA, eBusiness Tax, iExpense, iPayment and AME modules.
+Expertise in the setup & configuration, testing and implementation; ability to translate requirements into functional design documents; Able to work under pressure and meet deadlines.
+Experience in Generating reports using BI Publisher & FRC and Data Migration Templates (FBDI).
+Working knowledge on intra-module dependencies for - O2C, P2P, Q2C, R2R, A2R etc.
+Working knowledge on Personalization, Run-time/Design time Customization, Application extensions, Report with BI/OTBI and ESS jobs.
+Experience to guide/mentor delivery teams with artefacts/tools/accelerators & solution perform audits.
+Knowledgeable about the Oracle applications functionality, tools, templates and method and able to setup the system to meet the desired business process and requirements.
+EMPLOYEMENT SUMMARY
+Employer Name
+Duration (DD-MMM-YYYY)
+Post / Designation
+
+Start Date
+End Date
+
+Freelancers
+14-Aug-2016
+Till date
+Freelancing consultant
+JMR Infotech
+30 –Mar- 2015
+31st-Jul-2016
+Senior Consultant
+Softenger SG
+(Hand-China)
+12-Aug-2014
+31-Dec-2014
+India Tax Consultant
+Freelancers
+14-Dec-2011
+12-Aug-2014
+Freelancing consultant
+Capgemini Consulting India
+30-Jun-2011
+24-Dec-2011
+Senior consultant
+VESL Technologies Pvt. Ltd.
+18-Oct-2010
+23-May-2011
+Oracle APPS Financials consultant
+VERNATIS Infotech Pvt. Ltd.
+14-Sep-2005
+24-Sep-2009
+Oracle APPS Financials consultant
+Department of Mining Engineering
+11-Feb-2000
+14-Feb-2004
+Computer Operator
+Asia foundation & Constructions Ltd.
+14-Oct-1995
+21-Dec-1999
+A/c Officer
+
+EDUCTIONAL QUALIFICATIONS
+2005 MCA from P.G. Allahabad Agricultural Institute, Deemed University; Marks Secured- 72%
+1997 Dip. in Computer Science (PG Diploma) from Saurashtra University; Marks Secured- 47%
+1995 B.Com. From Saurashtra University; Marks Secured- 43%
+
+Personal Details
+Date of Birth : 12th January 1972
+Languages : English, Hindi, Gujarati
+Current Location : Bangalore, Karnataka, India
+Contact Information : adadpj@r.postjobfree.com/+91-990-***-****,
+Skype User ID : suresh.chandrashekhar.mishra
+Certification:
+Srno.
+Certification Name
+Date
+TYPE
+1.
+Oracle Financial Services Liquidity Risk Management Implementation Specialist
+14-Jul-16
+Implement
+2.
+Oracle Applications Cloud User Experience 2016 Implementation Specialist
+13-Jun-16
+Implement
+3.
+Oracle Applications Cloud Operations 2016 Implementation Specialist
+13-Jun-16
+Implement
+4.
+Oracle Applications Cloud Reporting 2016 Implementation Specialist
+01-Apr-16
+Implement
+5.
+Oracle Applications Cloud Security 2016 Implementation Specialist
+30-Mar-16
+Implement
+6.
+Oracle Applications Cloud Data 2016 Implementation Specialist
+30-Mar-16
+Implement
+7.
+Oracle Business Intelligence Cloud Service Specialist
+27-Dec-15
+Implement
+8.
+Oracle Enterprise Performance Reporting 2016 Cloud Service Specialist
+29-Oct-15
+Implement
+9.
+Oracle Planning and Budgeting Cloud Service Specialist
+27-Oct-15
+Implement
+10.
+Oracle Revenue Management and Billing Functional Implementation Specialist
+20-Aug-15
+Implement
+11.
+Oracle Fusion Applications 2014 User Experience Specialist
+20-May-15
+Implement
+12.
+General Product Support (v3.1)
+19-May-15
+Implement
+13.
+General Product Support (v4.0)
+18-May-15
+Implement
+14.
+Oracle Fusion Applications 2014 Security Specialist
+17-May-15
+Implement
+15.
+Oracle Fusion Financials 2014 Data Implementation Specialist
+16-May-15
+Implement
+16.
+Oracle Fusion Financials 2014 Reporting Implementation Specialist
+16-May-15
+Implement
+
+Aug. 2016 to Present, Freelancing Functional consultant
+I’ve been working since July 2016 as freelancer. During this period worked on Fusion Financials, BI reporting, R12.2 support projects with India Localization, PBCS integration with EBS R12, Oracle Lease management, iExpense. Mt last project with Athamas Tech was finished in Feb.19 and it was support project for manufacturing organization.
+Mar. 2015 to July2016, JMR Infotech Oracle Fusion Financial, R12 Financials Consultant
+
+# Project 3
+Project : Support within Oracle R12 EBS
+Environment : Windows +Linux, R12.1.3
+Client : Reserve bank of Malawi
+Duration : 2nd Feb. 2016 to 18th July 2016
+Role : Sr. consultant for Support & Analysis for FAH Implementation
+Responsibility : GL, AP, AR, SLA, FA, FAH
+Team up with functional team and customer’s staff and produce desirable results.
+Developing the core knowledge of subordinate team members (E.g. Junior and Functional ERP Consultants).
+Explain the process and Functionality of the application to the necessary people
+Setup and maintain the Tax, Codes, precedence and Thresholds in India Localization.
+Rectify the errors and bugs while end-user worked in AP, AR, PO, SLA, PO, INV, COST.
+Assisting the client with the raising to fixing up the SR Identify reporting and information Involved in the user acceptance testing of the modules.
+Fixed issues for Month end and Year end.
+# Project 2
+Project : PBCS + Oracle Fusion Financial Clouds Implementation
+Environment : Windows + Linux
+Client : Leading Bank of Mauritius
+Duration : 2nd Jul. 2015 to 18th Nov. 2015
+Role : Sr. consultant for Support
+Responsibility : PBCS, Fusion GL, Tax, FAH
+I assist in business process redesign and documentation, as needed for new initiatives; translate high level business requirements into functional specifications and manage changes to specifications.
+Managing a team for end to end implementation of Oracle Fusion Financials (GL, FAH modules) & PBCS.
+Overseeing the Implementation and support of Oracle Fusion GL, FAH, Tax and SLA Modules & PBCS, resolution of issues logged in by the end users; updating the online issue database.
+Team up with functional team and customer’s staff and produce desirable results.
+Developing the core knowledge of subordinate team members (E.g. Junior and Functional ERP Consultants).
+Explain the process and Functionality of the application to the necessary people
+
+# Project 1
+Project : Implementation of Fusion Fin + FAH +PBCS
+Environment : Windows +Linux
+Client : Leading Bank of Vietnam
+Duration : 3rd Apr. 2015 to 18th Jun 2015
+Role : Sr. consultant for Implementation
+Responsibility : PBCS, GL, FAH
+Assisting a team for end to end implementation of Oracle FAH & PBCS.
+Overseeing the Implementation and support of Oracle FAH & PBCS, resolution of issues logged in by the end users; updating the online issue database.
+Team up with functional team and customer’s staff and produce desirable results.
+Developing the core knowledge of subordinate team members (E.g. Junior and Functional ERP Consultants).
+Explain the process and Functionality of the application to the necessary people
+
+12th August 2014 to 31st December 2014, Softenger, Oracle Financial Functional Sr. Consultant
+Project : Oracle 11i Implementation with India Localization with ODM
+Environment : Windows +Linux, 11.5.10.7
+Client : Highly Electrical Appliances India (Shanghai-Hitachi)
+Duration : 12th Aug. 2014 to 21st Dec. 2014
+Role : Sr. consultant for Implementation
+Responsibility : India Local, GL, AP, AR, SLA, FA, PO, INV, COST, MRP, OM, WIP, BOM
+I ‘d been working as Oracle 11i Financials Functional consultant with specialization in India Localization. I am implementing India Local. My responsibilities are Scoping, Planning, Process Analysis, Requirements gathering, Map & Gap Analysis, and Solution design, Configuration, Testing, Deployment and Support Oracle 11i Financial with India Local with MRC.
+
+Freelancing
+# Project 5
+Project : Support within India Localization with ODM
+Environment : Windows +Linux, R12.1.3
+Client : International Aerospace Manufacturers Pvt. Ltd., Bangalore
+Duration : 2nd Jul. 2014 to 18th July 2014
+Role : Sr. consultant for Support
+Responsibility : India Local, GL, AP, AR, SLA, FA, PO, INV, COST, MRP, OM, WIP, BOM
+# Project 4
+Project : Support or Troubleshooting within India Localization with ODM
+Environment : Windows +Linux, R12.1.3
+Client : PEBS Pennar Buildings Construction Ltd.
+Duration : 10 Mar. 2014 to 2014
+Role : Sr. consultant for troubleshooting
+Responsibility : India Local, GL, AP, AR, SLA, PO, INV, COST.
+# Project 3
+Project : Upgradation
+Environment : Windows +Linux, Oracle 11.5.10.2, R12.1.3
+Client : Marsh India Reinsurance Brokers Pvt. Ltd.
+Duration : Nov. 2012 to May 2013
+Role : Oracle Financials Functional consultant for
+Responsibility : GL + MRC, AP, AR, India Local, eBT, SLA, FA
+# Project 2
+Project : Training cum support/rollout
+Environment : Windows +Linux, R12.1.3
+Client : Cummins India
+Duration : June. 2012 to Oct. 2012
+Role : Oracle Financials Functional/UPK consultant
+Responsibility : GL, AP, AR, AME, iExp, iPay, FA, Ce, HRMS, India Local
+# Project 1
+Project : Support cum Training
+Environment : Windows +Linux, Oracle 11.5.10.2
+Client : ADPL India Pvt. Ltd.
+Duration : Dec. 2011 to Mar. 2013
+Role : Oracle Financials Functional consultant for
+Responsibility : GL, AP, AR, India Local, eBT
+30 Jun 2011 to 25 December 2011, Capgemini, Oracle Financial Functional Sr. Consultant
+# Project 1
+Project Support -offshore
+Environment : Windows +Linux, Oracle R12.1.2
+Client : Gujarat Minerals Dev. Corp. Ltd.
+Duration : June. 2011 to Dec. 2011
+Role : Oracle Financials Functional consultant
+Responsibility : GL, AP, AR, FA, SLA, iPay, OM, PO, Cost, India Local, eBT
+Overseeing the Training and support of Oracle GL, AP, FA, CE & AR Modules, resolution of issues logged in by the end users; updating the online issue database.
+Developed customized solution for clients (MD.050).
+Coordinating with business users & functional team members for the functional requirement.
+Developing the following:
+oAd-hoc journal reports using FSG as per the end-user requirements.
+oModified SLA Definition as per client’s requirement and resolve problems with SLA.
+Managing a team for functional implementation of Oracle Financials (GL, AP, CM & FA modules with iExpense, iPayment, SLA and e-BT) with India Localization across the organization.
+Rendering complete support and maintaining Oracle R12 Financials India Modules.
+Team up with functional teams and customer’s staff and produce desirable results.
+Integrating the invoices and payments data from AP to general ledger.
+Approving as well as correcting the accounting entries transferred from Oracle Payables to cover receipt accruals, invoice distributions (expense, Work in Process), payables liability and disbursements.
+Defined the Autoinvoice in Accounts Receivable and confirmed the Auto applications.
+Oct. 2010 to May 2011, VESL Technologies Ltd. Oracle R12 Financials consultant.
+# Project 1
+Project : Implementation
+Environment : Windows +Linux, Oracle R12.1.1
+Client : Energy, Water & Sanitation Authority of Rwanda Ltd.
+Duration : Oct. 2010 to May 2011
+Role : Oracle Financials Functional consultant for
+Responsibility : GL, AP, AR, FA, Ce, iExp, SLA, eBT, EPB
+Managing a team for end to end implementation of Oracle Financials (GL, AP, AR, CM & FA modules).
+Overseeing the Implementation, Training and support of Oracle GL, AP, FA, CE, AR, iExpense and iPayment Modules, resolution of issues logged in by the end users; updating the online issue database.
+Developed Future Process Model (To-be) for clients (BP.080).
+Developed Analysis of documents (RD 20, RD 50), Solution Design documents (BR 30) and closed processes with Gap analysis (BR 10) then converted it to setup documents (BR.100).
+Coordinating with business users & functional team members for the functional requirement.
+Developing the following:
+oAd-hoc journal reports using FSG as per the end-user requirements.
+oStandard General Ledger reports and Oracle Payables reports such as Trial Balance, Payment Register and Invoice Register using FSG as per the functional specifications.
+Working in Oracle Cash Management Modules to load, import and auto-reconcile bank statement transaction against payments in Accounts Payable (AP)/ Accounts Receivable AR.
+Defined the Autoinvoice in Accounts Receivable and confirmed the Auto applications.
+Prepared the (BR.100) setting up the Setups of Oracle General Ledger, Oracle Payable, Oracle Fixed Asset, Accounts Receivable, Cash Management, iExpense, iPayment, SLA and e-BT.
+Defined the budget for the client.
+Defined the taxes in eBT.
+Configured & provided training of iExpense for the client.
+Configured iPayment as per requirement of disbursement and capture function for the client.
+Customize SLAM as per requirement of users in Payable.
+Provide solution of complex issues like pay groups and Operating Units through SLA.
+Setup FA fully, uploaded & purged the Assets data and prepared the reports.
+Setup AR as per requirement of the client with Auto Invoice, Autocash and revenue recognition -contingency features.
+Trained end-users with Oracle UPK for smooth business activities with Oracle financials in future.
+Sep. 2005 to Sep 2010, Vernatis Infotech Pvt. Ltd. Oracle11i Financials consultant.
+India Localization
+I’ve 18 months’ experience in implementation and support of India localization with 11i. I’ve implemented TDS, Service Tax and Excise.
+Identify current Tax structure, implemented India localizations as per specification.
+India Localization and defining the Organization structure of the client in OA.
+Explain the process and Functionality of the application to the necessary people
+Setup and maintain the Tax, Codes, precedence and Thresholds in India Localization.
+Interaction with Client on Regular basis and update the project details.
+Rectify the errors and bugs while end-user worked in AP, AR and FA.
+Assisting the client with the raising to fixing up the SR Identify reporting and information Involved in the user acceptance testing of the modules.
+Imparting extensive training to core team, business leaders and end users
+Managing a team for functional implementation of Oracle Financials (GL, AP, CM & FA modules) with India Localization across the organization.
+# Project 2
+Project : Implementation and Support
+Environment : Windows +Linux, Oracle 11.5.10.2
+Client : Spaze construction Pvt. Ltd.
+Duration : Oct 2007 to Aug 2008
+Role : Oracle Financials Functional consultant for
+Responsibility : GL, AP, AR, FA, India Local
+Job Role
+Implementation of Oracle 11i Financials modules including General Ledger, Accounts Payable, Accounts Receivables, Cash Management, Fixed Assets.
+Gathering all the required information and data from the client’s side in regard to the business cycle(s)
+Discussing details of the required deliverables with the key user(s) in accordance to the recommended solution.
+Delivering technical presentations / Demonstrations conducted by the senior consultant or the team leader to the key user(s) and end user(s) in regard to the provided solution.
+Assessing the customer's business requirements and mapping it to the application.
+Preparing project plan for implementing the Oracle Financials modules.
+Updates and involves the Project Manager and functional team leader on the progress of implementation of the assigned module and/or escalates issues faced during implementation to ensure prompt action.
+Acts as second line support to the customer.
+Conducts training to the end user on means of operating the implemented system.
+Uploading data sheets with Dataloader and ADI.
+Conducting end user training sessions for system users.
+Assists in obtaining the approved/signed “Final Acceptance Sheet” from the client on his/her own module(s) within the project.
+Developing the core knowledge of subordinate team members (E.g. Junior and Functional ERP Consultants).
+# Project 1
+Project : Implementation and Support
+Environment : Windows +Linux, Oracle 11.5.7
+Client : DSCL Construction Pvt. Ltd.
+Duration : May 2006 – Aug 2007
+Role : Oracle Financials Functional consultant
+Responsibility : GL, AP, FA, India Local, iExp
+Handling complete implementations & support; determining the data gathering requirements (BP.030) for Clients.
+Developing the following:
+oCurrent Process Model (As-is) for clients (BP.040).
+oFuture Process Model (To-be) for clients (BP.080).
+Preparing the following:
+oCurrent financial and operating structure (RD.010) which deliverable is COA.
+oDeveloped Future Process Model (To-be) for clients (BP.080).
+oDeveloped Analysis of documents (RD 20, RD50), solution design document (BR30) and closed the processes with Gap analysis (BR 10) then converted it to setup documents (BR.100).
+o (BR.100); establishing the set-up of the Oracle General Ledger, Oracle Payable, Oracle Fixed Asset and Cash Management with India Localization.
+o(MD.050) for Create Financials Applications Functional Design for Customization.
+Overseeing the execution of Oracle11i Apps Financials Project for company’s Domestic Clients.
+Develop User Training instances and Perform Oracle Financials product installations and used to Monitor systems and respond to technical issues.
+Adeptly established the set-ups of Oracle11i Apps General Ledger, Oracle Payable, Cash Management, Fixed Assets and Oracle Receivables with India localization.
+Acquired familiarly with Oracle11i Applications Purchasing and Order Management.
+Attained skills in business process designing, process modelling, and product mapping, building and testing.
+Instrumental in interacting with the end-users to provide the post implementation support.
+Skilfully coordinated the daily development activities among team members.
+Feb 2000 to Feb 2003, Dept. Min.Eng., IT, BHU Varanasi, UP, India, Computer Operator.
+Provided support for management of the IT setup for ‘Project: P- 3403, Investigation …… Valley Project, I.T., IMS, Central Office’.
+Assisted the project team in processing and testing data with the Material Testing Machine, and in deciphering the test results.
+Developed Forms for data entry, created users and generated reports.
+Managed the storage of data and took regular data backups
+
+Oct. 1995 to Dec. 1999, Asia Foundation & Constructions Ltd., A/c Asistant
+Responsible for the day to day functioning of the Accounts and Finance functions including MIS, Audit, Taxation, etc.
+Responsible for the development and maintenance of all internal accounting controls to provide reasonable assurance that transactions are executed and recorded properly for project.
+Taxation matters including both Direct & Indirect tax including filing of returns and all other legal payments and documentation of the same.
+Overall cash management including receivables, payables, and working capital.
+Furnish financial information to management on an ongoing basis, as required.
+Ensuring adherence of all clauses of various agreements entered with Vendors and Customers.
+Ensuring deduction and deposit of TDS, service tax and other statutory dues of the company.
+
+Contact this candidate

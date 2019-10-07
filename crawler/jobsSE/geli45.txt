@@ -1,0 +1,34 @@
+
+Software Test Engineer Responsibilities:
+• Own product verification activities in a highly regulated, medical environment
+• Develop automated testing for the assigned products, ensure consistent automation strategy
+• Closely work with system verification team to implement and monitor consistent and structured verification (manual and automated) strategies/methodologies
+• Coordinate with development lead to employ iterative development test strategies and tactics on assigned products and ensure full execution of the strategy
+• Create product verification plans, procedures and reports. Provide verification effort estimation on the assigned products
+• Participate in requirement review effort to ensure that requirements are actionable, measurable and testable
+• Lead test development and peer review activities with little supervision. Ensure complete and accurate test coverage. Create test to requirement traceability matrix
+• Report engineering issues and product defects by following the Defect Management SOP
+• Identifying, analyzing, owning and driving technical issues to resolution
+
+Required Qualifications:
+• 3+ years’ industry experience in software testing
+• Test automation experience including Python or similar scripting language
+• Excellent written and verbal communication skills
+• Strong analytical skills and proven ability to perform problem solving and troubleshooting
+• Strong attention to detail
+• Must be self-motivated and able to work in a fast paced, team-oriented environment
+• Ability to work with minimal guidance to make decisions and report progress
+• Experience with requirements management, configuration management, issue tracking tools, etc.
+
+Desired Skills:
+• C/C++ development experience
+• Worked in Agile(scrum) projects as scrum team tester
+• Optional: Experience in a medical device or other regulated industry
+• Optional: Experience with Test Management tools like HPQC and Defect management tools like JIRA, ClearQuest
+
+Contract
+6 Months
+
+
+Apply now
+

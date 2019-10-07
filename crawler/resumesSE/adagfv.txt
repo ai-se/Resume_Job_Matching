@@ -1,0 +1,63 @@
+
+DEAN H. WEBSTER
+* ****** ****
+Sandown, New Hampshire 03873
+adagfv@r.postjobfree.com
+603-***-****
+603-***-**** mobile
+
+TECHNICAL TOOLS: Reliance EtQ (EQRS, EPIQ), AutoCAD, LabVIEW, Minitab, Excel, SAP, Agile, IBM RTC, and Oracle.
+
+SUMMARY: I am an experienced professional with a combination of technical expertise, managerial experience, business leadership, and design and production support to solve problems, and execute Program Quality System responsibilities. I have demonstrated experience with optics, test equipment, instrumentation, Supplier Quality, reliability testing, calibration, quality systems, quality program management, and manufacturing.
+
+WORK EXPERIENCE:
+Recent since 11/2017
+Bodkin Design and Engineering, Newton MA (private agreement)
+
+• Legacy design consultation
+• Test design and execution
+• Report writing
+• Proposal assignments
+• Conceptual Development
+
+04/2017 to 11/2017; Staff Engineer, BDDC (Becton Dickinson), Andover MA. (Temporary Contract) Support Supplier Development (Purchase specs and planning), Failure Analysis, Manufacturing Work Instructions, and Inspection Plans in an R&D environment reporting to the Site Manager (General manager). BDDC develops therapies for diabetes care.
+
+03/2015 to 09/2016; Senior Supplier Quality Project Engineer, Integra Life Sciences, Burlington MA. (Temporary Contract) Support the function of Supplier Quality Engineer and test engineer, Quality V&V test support, ECOs, NCMRs, FAIs, Approved Supplier List, and receiving inspection supervision within the QMS of ISO 13485, ISO 9001, and FDA requirements. Review, write, and execute V&V test protocols, calibration procedures, and tool validation plans. Investigate failures and present the report and subsequent solutions to the project team. Review and approve test reports for accuracy and completion. Write V&V test reports for NPI (510(K) submission). Develop validation test protocols. Investigate and write failure analysis reports pursuant to V&V testing. Integra Burlington designs ultrasonic tissue ablation and electro-surgical systems.
+
+6/2014 to 9/2014; Senior Supplier Quality Engineer, St. Jude Medical, Westford MA. (Temporary contract) Support the function of the supplier quality group with processing NCMRs, SCARs, data analysis regarding Ppk, and Cpk, writing procedure change requests for streamlining the receiving inspection process. Investigate suppliers for approved supplier status. St. Jude is a medical device manufacturer under FDA 21 CFR Part 870 for disposable and capital system medical devices.
+
+3/2013 to 2/2014; Senior Quality Assurance Engineer, MKS Instruments Inc. Andover Massachusetts.
+(Temporary Contract) Responsible for the Quality Systems analysis and development regarding the development, rollout, and implementation of EtQ Reliance data base management enterprise software for quality management and reporting. This includes RMA, CAPA, SCAR, Audit, and Customer Complaint, and reporting modules. I designed and implemented quality coding for defects, and root cause, across four product groups. Developed and executed methodology to convert legacy data to the EtQ data base. In addition, support QIT and customer quality reporting and perform 8D, 5Y and report PRR’s for root cause analysis. MKS designs and manufactures process instrumentation for the semiconductor, medical, and other industries.
+
+3/2012 to 11/2012; Senior Quality Assurance Engineer, Elbit Systems of America, KMC Systems, Merrimack New Hampshire (Temporary Contract) Support the QMS (Quality management System) and internal audit activities in conformance to ISO 13485 and FDA 21 CFR Part 820. Investigate the QMS as it deals with ECOs, temporary deviations, NCMRs, Supplier Quality, and Corrective Actions (CAPA), and report to senior management customer satisfaction metrics and QSR (Quality System Regulation) conformance. I rolled up manufacturing and overall company quality data for reporting to senior corporate management in accordance with FDA requirements. I revised quality procedures as the process of the QMS changed and worked to closeout Corrective And Preventive Actions and NCMRs (Non-Conformance Material Reports). KMC proposes, develops, designs, and manufactures Medical devices for research and clinical diagnostic use in the analysis of human tissue for chemical, biological, and genetic characteristics.
+
+8/2009 to 2/2012; Consulting Engineer to Bodkin Design & Engineering, and R. D. Webb Co. For system testing, technical writing, quality program support, supplier quality regarding optics, software, test hardware, electronics, mechanical hardware, and catalog items; manufacturing, and process engineering support. I supported the development and test of a blood serum assay device, military and space optical sensors.
+
+7/2007 to 7/2009; Insight Technology Incorporated, Senior Quality Systems Engineer
+Responsible for product documentation and product quality regarding quality requirements. This entailed writing quality validation plans and test procedures based on MIL-STD-810G, ISO:9001, AS9100, referenced standards, and the Product Performance Specification. Performed product safety analysis and produced the
+Safety Assessment Report. I authored, reviewed, and approved manufacturing work instructions. Performed root cause failure analysis and directed corrective action for design and test discrepancies. I designed and wrote the test plans for periodic testing and reliability and directed the testing of LWIR (thermal) mounted and hand-held imagers. I specified and directed the design of alignment stations for stand-alone and clip-on sights. I was the principal quality engineer for the AN/PVS24A night vision (I2) imager. I developed a field alignment station for the Marines that will be used to maintain the AN/PVS24A. I worked with the manufacturing engineers to develop a production test to incorporate spatial noise and image uniformity testing to validate performance after production calibration of uncooled microbolometer imagers.
+
+I wrote the Product Assurance sections in the technical volume and SOW (Statement of Work) for proposals. I reviewed and revised internal product performance specifications used in the engineering development phases for new products. Manufacturing Engineering (ME) consulted with me in transitioning new products to the manufacturing floor (NPI) to achieve low touch labor rates (LEAN manufacturing) and high yield with low scrap rates. I performed defect analysis of optical and mechanical assemblies, and PCBA’s. Determined the
+root cause of defects using FMEA. Revised work instructions to mitigate and eliminate further quality and performance issues. Improved manufacturing process for an imaging system and performed materials hardness validation (environmental) testing using DOE.
+I worked closely with program managers, VP operations, manufacturing engineers, and the principal systems engineer to execute the program objectives.
+
+1/2002 to 7/2007; Consulting Engineer to Bodkin Design & Engineering, Trygon, Inc., and
+R. D. Webb Co. for CAD support, system testing and data reduction; technical writing, quality program support, and general design; manufacturing, and process engineering support. Bodkin designs and builds innovative optical systems with contracts from MDA and AFRL regarding missile defense systems, Trygon designs innovative x-ray detectors replacing film dosimeters, and Webb designs and builds laboratory vacuum furnaces.
+2/2001 to 12/2001; TyCom Ltd., Exeter, NH, High-Tech Component Engineer
+Responsible for Supplier Quality regarding the procurement and the introduction of fiber optic and microwave telecommunication components to the factory and supporting the product with respect to performance and quality. The responsibility included working with the system and technology designers to define the component specifications and identify appropriate suppliers. In addition, this effort entailed defining reliability and environmental requirements and the test methods to verify performance through the completion of validation testing.
+
+3/2000 to 2/2001; Mentis Sciences, Inc. Manchester, NH Senior Engineer/Program Engineer
+Develop materials, methods, and systems to fabricate innovative radome systems . Responsibilities include technical staff project leader, procurement of materials, contract management, and test systems development. I presented program progress reports to the customer on a regular basis and worked with the customer to meet program goals.
+
+10/94 - 3/2000; Ion Optics, Inc. Waltham, MA. Product Development Engineer
+Major responsibilities are manufacturing engineering and new product development relating to IR instruments including pulsed broadband IR emitters, NDIR and dispersive IR spectrometers, LWIR cameras, and circuits to drive precision-pulsed emitters. Accomplishments include the development of a patented pulsed IR emitter and associated electronics. I designed and engineered the filament encapsulation and related manufacturing processes. This included the design of semi-automated precision welding equipment, automated IR radiance and precision resistance test stations, and burn-in/life test stations. Wrote process operation instructions for manufacturing and quality assurance. Have developed a broad understanding in material surface modifications, coatings, spectroscopy, infrared detectors and associated circuits, and imaging. Lead the development of the vendor’s processes and manufactureability of one-of-a-kind infrared waveguides used in the Ion Optics spectrometer. During this development, I wrote the SOW and quality requirements related to this project. I engineered a proof of concept, in-situ, pulsed laser, film thickness monitor. Performed optical lab bench tests using filters, lasers, lenses, monochrometers, blackbodies, detectors, and thermal imagers to verify the performance of these custom optics. Have designed and prototyped many of the detector signal conditioner circuits used. Software used is AutoCAD, Daqview, Labview, Matlab, and Excel.
+
+2/92 to 10/94 R. D. Webb - Wellesley, MA Senior Product Engineer
+Managed material characterization of advanced high temperature coatings and substrates. Developed process for IBAD oxidation barrier coatings. Developed Carbon fiber/ Polyimide resin composite for a phase II SBIR. Developed equipment and methods to perform thermal processing. Performed contract material characterization using SEM and EDS.
+
+10/88 to 1/92 Armtec Industries (Meggitt)- Manchester, NH Supplier Quality Engineer Manager
+Manage Supplier Quality. Improved manufacturability for castings, weldments and machinings working with suppliers and designers to eliminate quality problems. Develop turnkey PCBA suppliers. Manage ship to stock and source inspection program. Perform pre-award surveys and supplier quality audits. Verify and report inspection findings with respect to threads, GD&T, and finish. Solve vendor related technical problems. Manage vendor corrective action. Managed RMA and customer return reporting. Apply SPC and participate in TQM to improve vendor/buyer performance. Establish new procedures to comply with ISO-9000 requirements. World-class manufacturing training (JIT).
+
+EDUCATION: BS University of New Hampshire, Durham, NH
+
+Contact this candidate

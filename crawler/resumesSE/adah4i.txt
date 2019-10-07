@@ -1,0 +1,158 @@
+
+Shyam Sundar Sinnu
+**** **** ** *** ****, Frisco, Texas - 75035
+adah4i@r.postjobfree.com • 424-***-****
+
+PROFESSIONAL SUMMARY
+
+** ***** ** ********** ** Object Oriented Design and Programming in Java.
+Experience in Agile Methodology.
+Extensively experienced in development of applications using Java, JDBC, JSP, Servlets, Oracle, Junit, HTML 5, CSS, XML, Webservice, Angular 7, BootStrap, Jquery, JavaScript.
+Excellent communication, team building and interpersonal skills.
+Have experience in Test Driven Development.
+Good Working Experience in Spring, Spring Boot and Hibernate frameworks.
+Expertise in implementation of SOAP and Restful Web services.
+Experienced in design patterns like MVC, Factory and DAO.
+Experience in IDEs such as RAD, RSA, Eclipse and NetBeans
+Experience with EJB – Session, Entity and Message Driven Beans, JMS.
+Experience with Oracle Coherence –CohQL language.
+Experience working in search engine like SOLR and NoSQL database like MongoDB.
+Have worked on Selenium and automation tool spritz.
+Experience in analyzing business requirements and preparation of Technical design Documents.
+Expertise in writing SQL queries, stored procedures, functions, sequences,
+Cursors, triggers, indexes in Oracle.
+Robustly Experienced in developing application based on XFIC framework.
+Experience in peer level design and code reviews.
+Experience in Multi-Threading.
+Mentored junior developers and new team members by providing them technical guidance, motivating them to meet the deadlines.
+High aptitude for mastering new technologies and adapting to existing infrastructures.
+Keen troubleshooting and analytical ability to identify, isolate, and resolve issues and defects in early stages.
+Have Knowledge on AWS & Mircoservices, Docker
+
+EDUCATION
+Anna University, Chennai-India.
+Bachelor of Engineering in Electronics and Communication.
+
+CERTIFICATION
+Certified Scrum Master by Scrum Alliance.
+Certified Full Stack Engineer in Java Stack
+Sun Certified Java Programmer (SCJP) 5.0
+
+TECHNICAL SKILLS
+
+Primary Skill category
+Java, JDBC, J2EE, Servlets, JSP, JAXB, Web services, XML, CohQL, Junit, JavaScript, Angular, BootStrap, Jquery,
+Databases
+Oracle, DB2, HiRDB, MySQL
+
+WebSphere 5.5/7.0, WebLogic 10.3, WPS, JBOSS, Tomcat 7.0
+Framework
+Struts, XFIC, Spring, Hibernate, BPEL
+Version Control
+BitBucket, GIT, CVS, SVN, Rational Clearcase, Microsoft Team Foundation server
+IDE
+Intellij, RAD, Eclipse, RSA, WID, NetBeans-5.0
+Tools
+Quality Center (QC), JIRA, Zephyr, HP QC, SOAP UI, Putty, Toad, SQL Developer, VISIO, Edit Plus, Beyond Compare, Maven, Jprofiler, Yourkit, Fiddler, Borland together, Redwood, Control-M
+Domain Skills
+Telecom, Retail, Storage, Manufacturing and Logistics
+Operating System
+Windows, UNIX
+
+WORK EXPERIENCE
+
+Technical Lead - May 2016 to till date, Cognizant Technology Solutions (USA)
+Client – Toyota Motor Sales
+Project- iPlus
+Role- Team Lead
+
+Project Description:
+
+iPlus has a web application which is used to create incentives for Customers and Dealers, and the incentives are exposed to external systems via webservice, which would be used in dealership in their desktop and mobile devices.
+
+Roles & Responsibilities:
+
+Responsible for requirement gathering, interaction with customers.
+Involved in designing use case, sequence, class diagrams using Rational Rose.
+Developed the iPlus application using spring and hibernate frameworks.
+Developed incentive service SOAP/Restful webservice using Test Driven Development.
+Involved in external interface integration design.
+Coordinated with the offshore team.
+Responsible for preparing JUNIT.
+Adhere to enterprise Sonar standards and fix all the Sonar issues.
+Adhere to enterprise Veracode standards.
+Create Automation scripts using spritz.
+Developed Maven scripts for build.
+Involved in defect fixes and supporting various test phases (ST, SIT, JIT).
+Lead a technical team of four and provide them technical guidance.
+
+Environment: Java 1.8, Coherence, SOAP/Restful Web Services, Spring, Hibernate, Spring JDBC, Spring batch, Redwood, JSP, Unix, JBOSS and Oracle 11g
+
+Technical Lead - Nov 2013 to Apr 2016, Cognizant Technology Solutions (India)
+Client – Toyota Motor Sales
+Project- iPlus
+Role- Technical Lead
+
+Project Description:
+
+iPlus has a web application which is used to create incentives for Customers and Dealers, and the incentives are exposed to external systems via webservice, which would be used in dealership in their desktop and mobile devices.
+
+Roles & Responsibilities:
+
+Responsible for technology leadership and mentorship of a team of 20 in design and development of various applications.
+Involved in Functional point and Work break down estimations for the new requirements/projects.
+Analyzing the requirements, designed and developed the Vendor ready for shipment, iPlus applications.
+Prepared Junit test case using mokito, and ensured Sonar and veracode violation fixes.
+Developed the iPlus application using spring and hibernate frameworks.
+Developed incentive service SOAP/Restful webservice pulling up data from coherence.
+Involved in defect fixes and supporting various test phases (ST, SIT, JIT).
+Finding performance issues in the existing application and fixing the code.
+Involved in build and deployment using automated Buildfarm in JBOSS/Weblogic server.
+Configuration of batch jobs in Redwood server.
+Responsible for timely delivery of the project.
+Involved in go-live preparation and support production go-live.
+
+Environment: Java 1.8, Coherence, SOAP/Restful Web Services, Spring, Hibernate, Spring JDBC, Spring batch, Redwood, JSP, JavaScript, Unix, JBOSS, JUNIT, Mokito, BuildFarm, MSTFS, Weblogic, and Oracle 11g
+
+Team Lead – Nov 2009 to Oct 2013, Hewlett Packard (India)
+Client – Telstra
+Project- Linx Online Ordering
+Role- Team Lead
+
+Project Description:
+
+This initiative aims to integrate LOLO to MSQ for copper & Telstra FTTP technologies, to maintain equivalence between Telstra Wholesale & Telstra Retail business units. Also to address the obligation on Telstra to prevent new connections of certain service types on existing Telstra networks, once the location is able to have equivalent NBN services.
+
+Roles & Responsibilities:
+
+Responsible for technology leadership and mentorship of a team of eight in design and development of various applications.
+Have closely worked with the customers in order to gather requirements.
+Closely worked with the interfacing team and responsible for interface integrity with various other subsystems.
+Have prepared the impact analysis document.
+Analyzed the existing application extensively and created application design document.
+Developed the application and played a key role in the project to meet the timelines.
+Mentored junior developers and new entrees by providing them technical guidance and motivating them to meet the tight deadlines.
+
+Environment: Java 1.5, Web Services, Struts, JSP, RAD, WID, BPEL, WebSphere 5.5 and Oracle 9i
+
+Senior Developer – June 2006 to Oct 2009, Polaris Software Lab Limited, Chennai, India
+Client – Hitachi
+Project- HiCommand NAS Manager GUI 6.3
+Role- Team Lead
+
+Project Description:
+A NAS (Network Attached Storage) environment created using NAS Heads connected with a disk array is called a NAS system. A NAS Head refers to single hardware device that acts as an interface between NAS and network clients. NAS allows more hard disk storage space to add in a network that already utilizes servers without shutting them down for maintenance and upgrades. HiCommand NAS Manager (HNASM or NAS Manager) is a program for efficiently managing the NAS system. A system administrator can use the NAS Manager to perform NAS system setup and management tasks, including creating shares and monitoring for errors. NAS Manager is designed to simplify administrative tasks and help save the administrator time through a range of robust features including the UI support. NAS Manager is comprised of two layers: View layer and Model layer. View layer receives inputs from clients, access Model layer to modify/refer the status of NAS system and makes output screens for the clients' Web browser according to the responses from Model layer.
+
+Roles & Responsibilities:
+
+Direct interaction with the customer and gather the requirements.
+Responsible for creating application design document.
+Responsible for coding and unit testing.
+System testing/UAT support and bug fixes.
+Achievement:
+Project delivered with zero P1 defects.
+Regionalized by the customer for introducing best practices in the project.
+
+Environment: Java 2, JSP, Servlets, Struts, JavaScript, XML, XSL on Apache – Tomcat, Borland Together Designer and HiRDB
+
+Contact this candidate

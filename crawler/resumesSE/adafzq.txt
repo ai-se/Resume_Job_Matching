@@ -1,0 +1,187 @@
+
+CURRICULUM VITAE
+
+Jowin Jose EmailId:adafzq@r.postjobfree.com
+`
+MOB: +974********
++974********
+
+To effectively utilize and improve my knowledge and skills, thereby assisting the growth and development of the organization.
+
+PROFILE SUMMARY
+A result oriented professional with above 5 years of experience in the field of Industrial Automation and Instrumentation.
+Gained experience in erection of various Instruments such as Electromagnetic Flow Meters, Pneumatic Control Valves, Level Transmitters, Conductivity Meters, Level Switch, PH Meters, Brix Transmitters, Solenoid Valves etc.
+Experience in study of PID control, interlock schemes and process graphics.
+Experience in loop checking of the control panel and carrying output and input checking of the modules through PROFINET, PROFIBUS and MODBUS TCP/IP as per FAT procedure.
+Gained experience in graphic designs of HMI, ipc station and SCADA
+Well versed SIEMENS WINCC SCADA and Factory Talk View Studio.
+Well versed in HMI software’s of SEIMENS, ALLEN BRADLEY and RENU HMI.
+
+Thorough knowledge on different industrial protocols such as HART, FIELDBUS and PROFIBUS.
+Experience in creating logic using control philosophy.
+
+RESPONSIBILITES
+
+Reviewing various documentation such as PID diagrams, loop drawings for new projects.
+Control logic development in Ladder.
+Design and development of complete SCADA and HMI application software.
+Preparing I/O list, cable schedules, includes creating Process trends, Control screens, Alarms, Datasheets, Graphics and Faceplates etc.
+Knowledge in wiring drawings, P&ID diagrams.
+Configuration of client/server and PLC system.
+Taking backup of application software storing and maintaining for future modification
+Requirements of the future customers.
+Providing annual service and maintenance for the PLC.
+Modification of the PLC program according to the client requirement.
+Testing and commissioning of various equipment like HVAC system, Fire fight alarms, Fire dampers, loop testing.
+
+Nov ’27 2018 till present working as Commissioning Engineer at Qatar Metro Rail under L&T Qatar.
+
+July’16 -Nov ’18 Active systems, Mumbai; designated as Automation engineer
+
+April’15 – June’16 with Creative automation, Pune; designated as Automation Engineer
+
+Projects.
+Title: BACS
+Organisation: Qatar Rail (Metro)
+System used: 1756 controller series 5570 plc [DCS Controller] with redundancy module.
+
+Key Result area:
+Logic testing and loop checking
+Doing required modification in logic and SCADA according to the client scope.
+SIT testing of the equipment’s.
+Testing of different equipment’s mainly AHU,VRV,CRACH, CRAC and FCU, Fire control
+Panel, Escalator, Travellators.
+Doing preventive and corrective maintenance of the panel according to the work order.
+Third party communication of flow meter and SCADA establishment of transferring data.
+
+Projects.
+Title: SFA SYSTEMS
+Plant: Reliance Industries, Pathalganga
+System used: ET 200s (im151-8) plc
+
+Key Result area:
+Logic development according to the client requirement.
+Loop checking, FAT testing of the control panel.
+Commissioning of the site.
+
+Projects.
+Title: RO-system
+Plant: Lupin India LTD, Bhopal
+Pvt: Aquasion PVT LTD.
+System used: Micro Logix 1500 PLC.
+Communication: Ethernet
+
+Key Result areas:
+
+Documentation and logic design implementation of the system.
+Control panel Io testing, loop checking. FAT testing.
+SAT of the project taken, site commissioning of the RO system in the presence of the client and providing logic modification. This is done according to the control philosophy
+Alarms configuration according to the system
+
+Previous Projects
+Title: Incinerator system
+Plant: Sajjan India LTD, Ankelashwar
+Pvt: Allied furnace.
+System used: Compact Logix 5000, SCADA Factory Talk view.
+Communication: Ethernet
+
+Key Results areas:
+SCADA development with P & ID given by the client.
+FAT, loop checking of the system with given io list.
+Logic development of the system according to the control philosophy.
+Commissioning of the incinerator system report of the SAT test is given.
+Loop checking with cold trial is taken.
+Alarms configuration in SCADA and alarm suppression.
+Software installation and providing licences to the client.
+Trends generation and report generation in MS access.
+
+Previous Projects
+Title: Four strand wire feeder system.
+Plant: Bhushan Steels, Orissa
+Pvt: Minex Metallurgical Ltd
+System used: Siemens S7-300, HMI Ktp 700, ABB ac 850
+Communication: Profibus.
+
+Key results area:
+Carrying out IO test of the panel in front the client
+FAT and loop checking of the logic with Machine.
+Alarm configuration in HMI.
+Drive commissioning with rated motor.
+Site commissioning of the system, data transfer to SCADA with help of dp-dp coupler.
+
+Previous Projects
+Title: Cane carrier system in Sugar mill.
+Plant: CCSM Sugar factory, Tamil Nadu
+Pvt: Versatile system.
+System used: Micro Logix 1400 PLC, Renu hmi.
+Communication: Ethernet.
+
+Key results area:
+FAT of the panel.
+Sequential wise logic checking is done with real load.
+Commissioning of the system with provided control philosophy,
+HMI modification of and Alarms generation.
+
+AFC projects.
+Title: Annual maintance of Evaporator, continuous pan.
+Plant: Fincha Sugar Plant, Ethiopia
+
+Other projects.
+Title: NUCLEAR FUEL COMPLEX, Hyderabad
+Plant: Uranium Oxide.
+
+Other projects.
+Title.kelloggs Pvt Ltd, Taloja
+Plant. Bio gas boiler.
+
+SOFTWARE PROFICIENCY
+
+PLC ALLEN BRADLEY RX LOGICS 500, 5000, SIEMENS STEP7, TI PROTAL
+ABB CODESYS, STATER V4.5.
+SCADA FACTORY TALK VIEW STUDIO, WINCC, IFIX SCADA,INTOUCH
+NETWORKING TOOLS TCP/IP,MODBUS,PROFIBUS,PROFINET
+VFD SIEMENS 120g, 120s, ABB 800,850DRIVE, ROCKWELL 750, DANFOSS 302, 360.
+HMI ROCKWELL PV SERIES, SIEMENS KP, KTP SERIES
+
+ACADEMIC CREDENTIALS
+2014
+Completed B.E –Electronics and Instrumentation from Karpagam College of Engineering,
+
+Coimbatore
+2010
+Passed 12th under CBSE from NirmalaMatha Central School Thrissur, Kerala
+2008
+Passed 10th under CBSE from NirmalaMatha Central School Thrissur, Kerala
+
+OTHER PROFESSIONAL QUALIFICATION
+Undergone 04 months Advanced Diploma in PLC, SCADA and DCS Engineering at NIELIT, Calicut, Kerala [Ministry of Electronics & Information Technology, Gov. of India, New Delhi]
+
+Undergone 01 week in plant Training in Petrochemical Division of FACT, Udhyogamandal, Kerala.
+
+Undergone on the job training at Sowparnika Thermistors [P] Ltd, Trichur, Kerala wherein NTC Thermistors being manufactured for all leading automobile companies in India and abroad as well.
+Undergone extensive and detailed 03 months training in PLC, SCADA at KRISH INFOTECH,PUNE
+
+PERSONAL DOSSIER
+Address
+Puthiri House(Jose villa)
+
+Arun gardens.
+Po kolazhy 680010
+Thrissur- Kerala
+
+Date of Birth
+: 26th December 1991
+Passport No
+: L9440023
+Linguistic Abilities
+: English, Malayalam, Hindi &Tamil.
+
+DECLARATION
+
+I hereby declare that all the details furnished above are true to the best of my knowledge.
+
+JOWIN JOSE
+
+WORK EXPEREINCE:
+
+Contact this candidate

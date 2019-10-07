@@ -1,0 +1,120 @@
+
+David D. Broncano
+# ** *** ***** ***., ******** Village Quebiawan,
+San Fernando City, Pampanga, Philippines
+Email: adadr2@r.postjobfree.com
+Contact: +639**-*******
+PROFESSIONAL EXPERIENCE
+Company Name : Cognizant Technology Solutions Philippines Inc. Company Address : 11th to 15th Flr. Hanston Square Bldg. No. 17 San Miguel Ave. Ortigas Center Pasig City
+Company Profile:
+Cognizant is one of the world’s leading professional services companies, transforming clients’ businesses, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Cognizant is ranked 195 on the Fortune 500 and is consistently listed among the most admired companies in the world. Period of Employment : June 2018 to May 2019
+Position : Senior Process Executive
+Account : Salesforce (Configuration Core Support)
+Type of Employment : Regular
+Status of Employment : Full-Time
+Job Summary:
+Communicate with proper verbal and written etiquette to account users while troubleshooting their product concerns in a fast paced environment. Give full attention (Active Listening) to what other people are saying; taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Use logic and reasoning (Critical Thinking) to pull important information from content provided and identify alternative solutions or approaches to problems. Communicate effectively as appropriate for the needs of the audience as well as maintaining detailed records of ticket information and daily production.Maintain up-to-date, comprehensive product knowledge in the ever changing technical field. Maintain composure in escalated situations. Ability to multitask and sit for long periods of time. The System Admin manages Salesforce security including roles, profiles, sharing rules, workflows and groups. Maintain and customize Sales Cloud and Service Cloud applications. Build custom workflows, process builder, validation and formula based on end users business requirements. Manage operational requests and troubleshoot issues. Maintain database for integrity and accuracy including cleansing and duplicate record management. Manage all sales related technical resources and migration of data into Salesforce. Provide How-to support and answer general questions related to configuration and standard use of SalesForce to end users. Evaluate new releases of Salesforce to determine functionality requirements and provide detailed information on how changes will apply to end users.
+Company Name : Acquire Asia Pacific
+Company Address : Lower Ground Floor, Worldwide Corporate Center Shaw Blvd., Mandaluyong City, Philippines
+Company Profile:
+Acquire Asia Pacific operates five state-of-the art contact centers in Manila, Philippines and Melbourne, Australia employing over 3500 full time staff. Acquire is a trusted business process outsourcing across a wide range of industries including telecommunications, banking financial services, insurance, media and operations, back-office functions, software development and marketing services which it provides to a range of private and publicly listed companies around the world. Acquire operates under strict compliance guidelines to ensure our clients’ brands are protected and their customer are highly satisfied. Period of Employment : Feb 2015 to Jan 05, 2018
+Position : Technical Support Supervisor -Team Lead Account : Dodo Technical Support
+Type of Employment : Regular
+Status of Employment : Full-Time
+Job Summary:
+Plan, organize, schedule and supervise the day to day technical support operation which encompasses all troubleshooting, customer service issues. Lead, manage, motivate, develop, train and review performance of staff, as required. Ensure all employee issues and concerns are addressed in a timely manner, encourage involvement from all staff and foster a positive team environment. Measure, monitor and maintain customer service and satisfaction. Foster good customer relations and service at all times. Manage and Schedule training and development of the technical support team i.e. new equipment, products and skills enhancement etc. Develop and maintain department policies, procedures and processes, as required Work with other departments on identifying and ensuring product design or any other issues are tackled and corrective action(s) is taken; ensuring the customer is satisfied with the outcome. Perform other duties assigned by management
+Period of Employment : May 27, 2013 to Feb 2015
+Position : Technical Support Specialist (Level 2 - Escalations) Account : Dodo/iPrimus Technical Support
+Type of Employment : Regular
+Status of Employment : Full-Time
+Job Summary:
+Provides Technical support for Telephony, Dial Up, Mobile Wireless, ADSL and ADSL2, Fiber Broadband Internet Services. Accepts Escalated call and response to customer inquiries regarding service, equipment, features, activations, and/or changes to account information. Asses, create technical report, and Log Faults to Supplier for further escalation, call supplier for inquiries and updates about the fault and updates customers about their technical issues. Informs customers about services available and assesses customer needs. Handles customer problems related to product function or the replacement of devices. Completes, processes, maintains and gathers information, resolves inquiries and logs customer calls. Strives to resolve customer issues on the first call without having to transfer callers. Follows escalation procedures as needed. Company Name : StarTek Philippines Inc.
+Company Address : Eton Cyberpod Corinthian Building Ortigas Ave. Cor. EDSA Quezon City, Philippines 1600
+Company Profile:
+StarTek is a Business Process Outsourcing (BPO) company dedicated to serving the needs of our clients. We help our clients manage the customer experience across the customer life cycle, resulting in enhanced customer retention and a higher return on customer investment. We call our employees, Brand Warriors because they are on the front line for our clients protecting and promoting their valued brands. Period of Employment : Oct. 09, 2012 to May 14, 2013 Position : Technical Support Representative II
+Account : Time Warner Cable – National Help Desk
+Type of Employment : Regular
+Status of Employment : Full-Time
+Job Summary:
+Responds to customer inquiries regarding service, billing, equipment, features, activations, and/or changes to account information taken via telephone, mailings, fax, or e-mail. Utilizes computer/on-line guidelines in responding to customer inquiries. Informs customers about services available and assesses customer needs. Handles customer problems related to product function or the replacement of defective parts. Completes, processes, and maintains applicable paperwork and records. Gathers information, researches/resolves inquiries and logs customer calls. Strives to resolve customer issues on the first call without having to transfer callers. Follows escalation procedures as needed.
+Company Name : J-Dialytika Computer Center
+Company Address : Don Tomas Ave. Mercedez Vill. San Vicente Quebiawan City of San Fernando, Pampanga, Philippines
+Company Profile:
+J-Dialytika Computer Center is a small business that provides good quality service/s and internet and computer access.
+Period of Employment : July 10, 2009 to Oct. 08, 2012 Position : Over-all Operations and Technician
+Department : N/A
+Type of Employment : Regular
+Status of Employment : Self-employed
+Job Summary:
+Performs Shop Management, Daily Auditing, Monthly Accounting, Payment of Bills and Bookkeeping Performs Operation of Time Renting, Printing, Data Encoding, Typing Jobs and all services offered by the shop. Responsible for setup Network/LAN; assemble each Workstation to perform the said qualification for such service; Install Software needed for services (OS, Office, Anti Virus, Games and so on); Maintains the connectivity to the LAN (other workstation) and to the internet; Troubleshoot and replace necessary parts that are not functioning on the workstation(PC).
+Company Name : Nidec Subic Philippines Corporation Company Address : Blk. B,Subic TechnoPark, Boton Area, Argonaut Highway, Subic Bay Freeport Zone (SBFZ), Philippines
+Company Profile:
+Nidec Corporation was established by Shigenobu Nagamori together with three colleagues in 1973, and it was 1979 when it became the first company in the world to successfully commercialize a direct drive spindle motor for HDD’s that used a brushless DC motor.
+Today, they make small to mid-size motors, fan motors, and pivot assemblies. These key components are widely used not only in IT products but also in a wide range of fields including home appliances, automobiles, office equipment, and industrial machinery.
+As they strive to become the world’s number 1 manufacturer of comprehensive drive Technology, the entire Nidec Group are joining forces to meet the needs and expectation of their worldwide customers. Period of Employment : November 10, 2008 to July 10, 2009 Position : Associate Engineer
+Department : Supplier Quality Engineer
+Type of Employment : Regular
+Status of Employment : Full-Time
+Immediate Superior : Mr. Edgar Allen Eclarinal
+Senior Supervisor
+Job Summary:
+Responsible for issuing Reports to supplier; Verifies actual defective parts; Analyzes disposition of defect materials; Performs Supplier Audit; Organizes Audit Preparations; Responsible for Qualification of new Supplier and material; and other related tasks that may be assigned by the Department/Section Manager; Period of Employment : April 23, 2008 to November 10, 2008 Position : Associate Engineer
+Department : Manufacturing Engineering
+Type of Employment : Regular
+Status of Employment : Full-Time
+Immediate Superior : Mr. Dante Dancel
+Engineer Level III, Supervisor
+Job Summary:
+Responsible for trial/preproduction preparation; Process design evaluation and verification; 4M change evaluation and application; Failure analysis of top defective items; Data acquisition and analysis; Functional/appearance related customer claim analysis, and other related tasks that may be assigned by the Department/Section Manager;
+Company Name : Poongsan Microtech Philippines Incorporated Company Address : Bldg. N2710 E. Quirino St.
+Clark Special Economic Zone,
+Clark Field Pampanga, Philippines
+Company Profile:
+Poongsan Microtech Corporation engages in electronic parts and die manufacturing primarily in South Korea. The company’s principal product line includes leadframe, a thin piece of copper alloy strip that serves as a mounting pad for the silicon chip and its internal connections used in semiconductor industry. Its leadframe product line comprises the high pin, the heat sink attached leadframe, and the LOC for memory semiconductors. The company also offers leadframe, motor-cores, and connector tools; and tool parts and jig/fixtures. In addition, it provides electronic pitch connectors; pre-mold products; Pd/Ni PPF leadframe; and precision contact parts. The company, formerly known as Poongsan Precision Corporation, was founded in 1978 and is headquartered in Busan, South Korea.
+Period of Employment : March 2007 to May 2007
+Position : Machine (CnC) Operator
+Department : Tooling Section
+Type of Employment : Probationary
+Status of Employment : Full-Time
+Immediate Superior : Mr. Ronald Gutierrez
+Head, Officer In-Charge
+Job Summary:
+Analyzes Profile Drawing of Punches and Dice; Maintains and Operates Computerized Numeric Control Machines; Creates inside Job Orders of Punches and Dice to be used in the stamping section; and follows any other work given by my superior.
+TRAININGS AND SEMINARS ATTENDED
+Title : CCBoot & PFSense Firewall Installation (Internet Cafe Setup) Place : NEXUS Education
+Date : July 22, 2017
+Title : Windows Server 2012 Automating Administration with Powershell Place : NEXUS Education
+Date : July 22, 2017
+Title : Statistical Process Control - SPC
+Place : Nidec Subic Philippines
+Date : June 24 and 27, 2008
+Title : Advance Leadership Training
+Place : Nidec Subic Philippines
+Date : June 8 to 10, 2008
+Title : Productivity Kaizen: “Aiming to become number 1” Place : Nidec Subic Philippines
+Date : May 27 to 29, 2008
+Title : Seven QC Tools
+Place : Nidec Subic Philippines
+Date : May 14 to 16, 2008
+EDUCATIONAL ATTAINMENT
+Tertiary (Graduate) : Bachelor of Science in Engineering and Architecture Major in Electronics and Communication Engineering Holy Angel University
+Sto. Rosario St. Balibago, Angeles City, Philippines June 2001 – May 2006
+COMPUTER SKILLS
+Cloud CRM
+Salesforce Classic, Salesforce Lightning Experience Assembly and Networking
+Computer Assembly, Basic Cisco CCNA v3.1.1, Mikrotik Setup, Hotspot Setup, MS Office
+Word, Excel, PowerPoint, Google Docs, Good Sheets, Open Office Writer, Open Office Calc. Graphics
+Paint, Flash Pro 8, Basic Html, Adobe Photoshop CS2, Basic Autocad Electronic Design
+Multisim, Protel DXP, Electronic Workbench, Niche PCB Designer, Microchip MPLab, PICALL Simulator Programming Languages
+Turbo C, Turbo C++, Assembly Language
+PERSONAL INFORMATION
+Birth date : September 05, 1984
+Age : 35
+Civil Status : Single
+Nationality : Filipino
+Religion : Catholic
+Languages : English, Filipino
+Height : 5’ 8”
+Weight : 180 lbs
+
+Contact this candidate

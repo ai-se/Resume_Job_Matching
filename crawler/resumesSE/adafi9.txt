@@ -1,0 +1,114 @@
+
+PREETI THUSOO
+
+Cell: +91-976*******; Email: adafi9@r.postjobfree.com
+OBJECTIVE
+To obtain a challenging position in an enterprise that will offer me an edge to work in a team and enhance my potential as an IT professional, thereby continuously growing and contributing to the main objectives of the organization as an integral part of it.
+
+Areas of Expertise
+5 Years of experience as a Production Support Software Engineer with multiple assignments, spanning complete life cycle of Software development processes including requirement analysis, development, testing and support.
+One Year of experience in ServiceNow Platform as developer and L3 Support analyst.
+In depth Knowledge of ITIL processes, performing, and Follow ITIL processes (Optimization of Performance and following standard practices).
+Perform the Business Improvement Programs like Incident reduction, Service Request Reduction, Problem ticket closure, Continuous Improvement Programs drives (implementing Alerts/Traps/Automated Monitoring) to meet service level agreements
+Experienced in interacting with clients with good written, telephonic and face-to-face communication.Leading the team during various deployment stages and releases within project. Good knowledge of Change, Release, Incident and Problem management.
+Demonstrate focus and commitment to Customer Service in all aspects of daily work
+EDUCATION
+Degree
+
+Branch
+Institute/University
+Percentage
+Year Of Passing
+B.E.
+
+Computers Engineering
+LDRP-ITR,Gandhinagar, Gujrat
+7.48 CPI
+2012
+12th
+
+PCM
+JKBOSE. Board
+70.5%
+2007
+10th
+
+All Subject
+JKBOSE Board
+88.2%
+2005
+
+TECHNICAL PROFICIENCIES
+SKILLS
+TOOLS
+PL\SQL
+Oracle 11g
+SQL
+Oracle 11g, Sybase
+OPERATING SYSTEM
+Windows XP / 2000,Unix,Linux
+Production Support
+SQL Developer, Unix shell scripting, Putty, Control M, HPSM, Service Now, BMC Discovery, ILMT, MS Visio 2010, Service Now.
+CERTIFICATION
+ITIL Foundation Certified.
+
+WORK EXPERIENCE:
+
+Technical Lead : Cognizant, India
+Systems Management - John Deere (July 2017- till Date)
+Working as Service Now Developer and as a part of support activity resolve incidents by provided with proper root cause investigation.
+Perform day to day administration of the Service-Now tool Maintain business services and configuration item relationships in Service-Now tool.
+Manages users, groups and roles and Managing client scripts, UI policies, UI actions.
+Develop and manage application code, user interface, and third-party integration components
+Manages data with Tables, the CMDB, Import Sets, and Update Sets.
+Working as an admin for HPSM Service manager for making changes in Script Library, operator addition, modification of in progress changes.
+Creates Workflow activities and approvals. Implement new workflows that use a variety of activities to understand how records are generated from workflows
+Performs migration activities Dev to QA, QA to Prod and Creating Change Tasks and Change requests as per business requirement on weekly or quarterly basis.
+Deployment of BMC ADDM versions to initiate network device, system and application discovery and providing periodic asset discovery reports.
+Uploaded and updated ADDM TKU’s And Generate custom ADDM Tideway files as required.
+Support Documentation: Creating Standard Operating Procedures for the servers maintained by our team. Publishing and updating the already existing documents as per user requests.
+Creating GIF and VSD Network schematics using MS Visio tool and deploying it in the development and production environment.
+
+Senior Systems Engineer : Cognizant, India
+Prime Services - UBS (Investment Banking) - September 2015- June 2017
+Weekly Incident Reporting and problem management calls
+Make sure that support team is getting adequate feedback from Development and other functional support groups on the escalated issues and Workedon various Service Now tickets and Change requests.
+•Worked as a trainer and L2 production support engineer.
+•Review regular updates and processing of data on client servers and fix the issues.
+•Troubleshoot and fix the AutoSys jobs failures and Perform health checks on critical applications.Responsible for cron job setups,XFB set up, ControlM scheduling etc.
+•Check database issues by executing queries on different database tools like SQL management studio, Toad, Sybase and take appropriate actions accordingly.
+
+Production support engineer : Tech Mahindra, India
+GOLDMINE -British Telecom (BT), - September 2013 – September 2015
+•E2E Understanding of the requirements of business and also identify and analyse client and customer requirements.
+•Liaise with Design, Development, on accounts to diagnose, investigate and resolve production issues.Expertise in Unix and sql, Plsql. Responsible for debugging and troubleshooting of issues. .
+•Responsible for cron job setups,XFB set up, ControlM scheduling etc.
+•Involved actively in deployment of various releases and resolving the issues related to the delivery.
+•To lead minor, major, monthly/90 Days deployment in respective areas like MAPs deployment, Job Scheduling through Control-M, deploying new interfaces.
+•Monitoring of production batch cycles for different clients, good knowledge on Control M jobs.
+•Making Production amendments and scheduling changes to meet the Service level agreement as documented.
+Awards and Recognition:
+
+•Received Client Appreciations for unix shell script of Disk usage in all production and development servers.
+•Client Rewards for Tool Migration and Post Migration Testing.
+•Praised with multiple BT reward from BT reward Central for excellence production support, maintenance and coordination during very crucial and High level escalations.
+•Client Appreciation for excellent commitment, rewarded in Customer Satisfaction (CSAT) rating of the Project by British Telecom Management.
+•Got SPOT award for automation in daily control UNIX script(FY2014)
+•Received PAT ON THE BACK for UNIX shell scripting and debugging the weekly failures script on one of the Applications(FY2014-Q4)
+
+PERSONAL PROFILE
+Name : Preeti Thusoo
+Date of Birth : 25th May 1990
+Nationality : Indian
+Gender : Female
+Passport No : J7526154
+Marital Status : Single
+Languages Known : English, Hindi, Gujarati, Kashmiri.
+Mobile : +91-976*******
+Email Address : adafi9@r.postjobfree.com
+
+I hereby declare that the information given above is true to the best of my knowledge and belief.
+
+Place: Kolkata (WB) Preeti Thusoo
+
+Contact this candidate

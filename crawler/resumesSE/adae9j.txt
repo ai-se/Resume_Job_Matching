@@ -1,0 +1,197 @@
+
+Sribala Kandiah
+**** **** ******
+Troy, MI *****
+Mobile: 248-***-****
+Email: adae9j@r.postjobfree.com
+
+Career Objective:
+
+A highly motivated, detail oriented, and talented Senior Software Quality Engineer with over fifteen plus years of experience is seeking a challenging opportunity in Software Quality Engineering, Verification and Validation Engineering, or a Leadership Role.
+
+Profile: “Hands On” Experience with the following but not limited to;
+
+Software Quality, Verification and Validation Engineering
+
+Experienced in Telecommunication, Transport Solution, Mobile, Enterprise Storage and Memory, Automobile, Mortgage industry and Web Technologies.
+Experienced in Software Design and Development, Quality Assurance (Compliance), Software Verification and Validation and Software Quality Engineering.
+Experience in Sanity, Regression, Functional Test, UI, Regression and, User Acceptance Test that includes Manual Test and Test Automation and Execution.
+experience in Smart Phone industry that includes Windows Mobile OS (5.0), Android, BlackBerry OS, BES/BIS/BAS (BlackBerry Enterprise/Internet Server, and BlackBerry Administration Services), BlackBerry Application Control Policies, IT Policies, BlackBerry Calendar Applications, PIM Sync, BlackBerry email Services and Smart Sync for different email platforms such as IBM Lotus Domino, Microsoft Exchange and Novell GroupWise.
+Automated/Manual Execution of existing and newly developed test-cases and test
+Experienced in Design, Develop, Maintain Test Plan, Test Cases, Test Scripts, writing Test Process and procedures and detail-oriented bug reporting and analysis.
+Experienced in Estimate, Plan and Implement QA schedules with Mangers/Teams.
+Troubleshoot customer issues, interface with product teams to find resolutions.
+Experienced as a Team Leader for various projects, supervised and coached junior staff members, and provided assistance to software designers and developers.
+Experienced in Prioritizing and pursuing problems reported in the bug tracking tools.
+
+Experienced Tools Software’s and Technologies:
+
+Selenium Web Driver Page Object Model, Appium, SPARK, HTML5, CI/CD, JSON, XML, Postman, SOAP, REST, Swagger, Microservices.
+C#, Java, Perl/Python, PHP/ SQL Basics, HTML5, and Shell Scripting.
+Embedded S/W development using C/C++ in VxWorks environment.
+Worked with Embedded microcontrollers such as MPC860, MPC8260
+SVN, GitHub/HAL-9000, Jenkins, Clear Quest, Product Studio, Clear Case, Source Depot, IBM DOORS, DDTS, MKS Integrity, Jira, HP Quality Centre/ALM, Visual Studio, Testrail, Confluence, and TFS.
+
+Special Skills:
+
+Genuine interest to come up with innovative ways to test/break the software before it reaches customers
+Experienced with IBM/Inspur/Supermicro/Inventec servers and Ubuntu Linux, Oracle Linux, SuSE Linux, Red Hat, CentOS.
+Experienced with Mobile First Responsive Web and Mobile Technologies.
+Working knowledge of windows PC, UNIX, and Linux technologies and basic network related concepts
+Excellent written and verbal communications skills and enthusiastic, creative, desire to learn self motivated strong team player with good attitude towards work
+The ability to learn from, analyze and understand the complex technical documentation and specifications.
+Prime person in various functional roles in various projects: System Analyst, System Integrations, Feature Integrations, Sustaining, Software Development and Verification, Automations, writing design documents and user guides.
+Good knowledge in Diverse Networks and technology protocols; HTTP, FTP, Telnet; TCP/IP, UDP, LAN, WAN, MAN, OSPF, IGRP, EIGRP and RIP
+Good knowledge in Troubleshoot /configure LAN/WAN network systems, Routers and Switches.
+Experienced with Multiple environments such as Windows/Unix and Linux.
+
+Educations:
+
+B.Eng., (Electrical Engineering), Carleton University, Ottawa, ON, Canada
+
+Work Experiences:
+
+System Validation Engineering Manager Feb 2019 – Current
+Guardhat Inc – Detroit, MI, 48226
+https://www.guardhat.com
+
+Work with hardware engineers and firmware developers to define relevant test requirements.
+Work on creating test plans based on the requirements for hardware and firmware and for the final product.
+Participate and lead full end to end System level Test and Validation from databus simulation to JSON file delivery.
+Support automating the firmware validation and the process including test case development and execution using bug tracking software, review and analysis, defect lifecycle, trouble-shooting software issues, defect logging, presentation of results.
+
+Senior Software Quality Engineer June 2018 – Jan 2019
+Quicken Loans – Detroit, MI, 48226
+https://www.quickenloans.com
+
+Designed, Developed, and managed test Automation Frameworks and Test Scripts for multiple Mortgage related, Responsive, Mobile First Web Applications utilizing C#, Selenium Webdriver, Page Object Model, Visual Studio, Applitool, XML, JSON, HTML5, GitHub in Agile, CI/CD Environment.
+Involved in Project Migrations and End to End Testing utilizing Web Services, RESTful API, SOAP UI, Splunk, POSTMAN, Swagger and Database Queries as needed.
+Test Cases, Test Plan and Document Management using Testrail, Team Foundation Server, JIRA, and Confluence.
+Responsible and Contributing to Sprint Planning, Story Reviews, Tracing Requirements, Functional/Regression Test Designs, Story and Test/Bug Analysis and Assignments.
+Planning Test activities, Test data collection, Test Environment setup, Defect Reporting and Defect Validation.
+
+Independent Test & Validation Lead Nov 2017 – May 2018
+Control-Tec, Allen Park, MI 48101
+https://www.control-tec.com
+
+Manage work backlog and assign tasks to available team resources locally and remote locations.
+Perform functional verification of hardware and software products, including embedded vehicle data acquisition software and hardware, and web-based engineering applications for Automotive domain.
+Develop and document detailed functional test plans and Test Cases.
+Track results of testing and generate result reports.
+Implement and reinforce best practices and processes for test documentation, project management and reporting
+Triage and Defect management for vairous projects.
+Meet timing commitments for verification testing and reporting to support overall product delivery timing.
+Provide documentation on new features and/or provide training to employees or customers.
+Designed and Developed Test Automation Framework and Scripts for Web Application Functional and Regression Test utilizing Java, Selenium Web Driver (POM) and CAN Messages.
+
+Senior Software Quality Engineer Mar 2013 – Oct 2017
+Diablo Technologies, Ottawa, Ontario
+http://www.diablo-technologies.com
+
+Diablo’s Memory1 and Memory Channel Storage products and accompanying Diablo Memory Expansion (DMX) software Testing in Agile Methodology.
+Testing MCS and Memory1 product with multiple flavors of Linux on Multiple OEM Severs, Virtual Machines and Dockers in Host and Guest environments.
+Big Data Testing on Supermicro® Memory1™, Inspur Memory1™ with Apache Spark™ workloads, Redis, Stream, MySQL, Memphis, and fio in Host and Guest Environments.
+Performed Diablo Memory Expansion (DMX) software, Software Licensing and CLI Testing that includes Sanity, Regression, Functional and Performance Testing in Manual and Automated environments.
+IBM MPX - GUI Testing for MCS on IBM Servers.
+Write/Maintain Test Automation: Java, Python, Jenkins.
+Selenium Webdriver, C#, Kendo UI Web Controls, and Gherkin
+Execute Sanity, Integration, Regression and Performance Test.
+
+Quality Assurance Engineer Nov 2011 – Mar 2013
+Messaging Architects, Montreal, QC
+www.messagingarchitects.com
+
+Write test cases from product functional specs or marketing product documents.
+Monitor the bug-tracking database, track all their bugs, and follow-up on progress of their completion. Review and validate all bugs for accuracy, completeness and consistency (Jira).
+Perform all aspects of product testing including functional, regression, performance, usability, and acceptance testing, following up with the responsible team members, and ensuring that the bugs are fixed in a timely fashion.
+Maintenance of the test automation infrastructure in a RQM/RTF/Python environment.
+Execute and integrate unit tests into the test automation harness.
+Working knowledge of SMTP, IMAP, POP, DNS, TCP/IP, mail servers, SPF, RBL
+
+Mobile Application Test Engineer Jun 2011 – Nov 2011
+Aircom International, Toronto, ONT
+www.aircominternational.com
+
+Execute Android Mobile Application Test
+Execute Vendor Acceptance Test
+Execute User Experience Test
+Execute and support Field Test
+
+Software Test Specialist Jun 2007 – Jun 2011
+Research In Motion, Waterloo, ONT
+https://www.blackberry.com
+
+Test Prime for Black Berry Calendar Application and its' New Features.
+Key Test Engineer for Black Berry Administration Services and Its' New Features
+Execute manual and automated test cases to ensure the quality of BES/BAS and Black Berry Smart phones.
+Triage and Defect management for vairous projects.
+Document all observations, test results and problem reports.
+Responsible for all day to day activities in verification and validation team which are included in my profile.
+
+Embedded Software Verification Engineer Lead Dec 2006 – Nov 2007
+Bookham Technologies, Ottawa, ONT
+
+Served as Test Lead for Metro Ethernet Networks OME Platform Line Subsystem Development Team and, tested Optical Multiservice Edge (OME 6500) and Optical Amplifiers (EDFA).
+Responsible for ensuring that the software products of the Line Subsystems Development group, robustly satisfy all of the documented requirements and customer expectations prior to product delivery to the customer.
+Prepare Test Plan, specific Test Cases, assemble test configurations and execute formal/informal Test Plan and Test Cases
+Acquire or develop the necessary test tools or test scripts.
+Execute robustness testing to understand design margins.
+Document all observations, test results and problem reports.
+Report progress and results of Verification / Validation exercise.
+Compile test statistics
+Manage Subsystems hardware / software lab operations.
+Quality Control, Process Improvement, Maintain ISO 9001 / TL-9000
+Advance the software verification techniques to improve effectiveness and efficiency.
+
+Software Quality Assurance Engineer - Transport Solution Jul 2005 – Dec 2006
+Alcatel Canada INC
+https://alcatel.com
+
+Managed the Quality Assurance activities on multiple projects from Notice to Proceed (NTP) to Product Acceptance by the customers.
+Create/Approve the contractual quality requirements submittals and ensure the integration of these requirements into the project documents.
+Determine the Quality objectives for each project, based on the project and customer requirements; monitor design, development and testing processes to ensure quality objectives are met requirements are implemented in designs.
+Conduct Test/In-process Audits on various development and testing activities and review test results for completeness, traceability and compliance with the test requirements and ensure corrective actions are completed in a timely manner and provide solutions for the elimination of adverse trends.
+Review and approve design procedures, design packages and design specifications, system software products, and participate in change control review board and change control process.
+Quality Control, Process Improvement, Internal/External ISO Auditing and CMMI
+Maintain ISO 9001 / TL-9000, CENELEC – EN50128 CL.11, Cl.12 compliant verification process.
+
+Software Design Engineer in Test Jan 2005 – Jun 2005
+Microsoft Windows Mobile, Redmond, WA
+https://www.microsoft.com
+
+Worked with OEM and Operator Response Team to run new smartphone and PDA devices through the Microsoft Logo Test Kit.
+Responsible for ensuring that new devices are able to pass the Logo Test Kit.
+Worked closely with Design Engineers and program Managers to resolve technical issues and produced detailed logs and debug information on failures so the Development team is able to debug and fix blocking issues quickly.
+Wrote Test Automation tools using C/C++ in Windows CE environment.
+Worked on Import/Export features for Logo Test Kit Access Database using C# and .NET Framework
+
+Software Engineer, OPTera Metro Solutions May 1999 – July 2004
+Nortel Networks, Ottawa, ONT
+https://www.nortelnetworks.com
+
+Designed, developed, tested, managed and maintained real-time embedded system software solutions to multi-level problems that include protection switching, fault management and connection management software for OPTera Metro DWDM telecommunications system, which may include issue lists and action registers.
+Creation of Future Specification, High Level Design, Detailed Designs documents, Unit and Integration Test Plans for Metro 5200.
+Responsible for Embedded S/W Dev using C/C++ with VxWorks, both UNIX host GNU tools/Win NT Tornado2 dev environments.
+Ensured the quality and robustness of existing software solutions through document reviews, code inspections and redesigned to avoid sub-par performance and involve in all testing activities.
+Conducted nit testing, integration testing, provisioning, commissioning, decommissioning, and installing telecommunication systems.
+Reproduced tracked and fixed problems according to internal and external customer Service Requests and re-verified.
+
+Testing/Verification Lead Tool Development May 1998 – May 1999
+Nortel Networks, Ottawa, ONT
+https://www.nortelnetworks.com
+
+Created architecture and framework for testing and automation. Developed and maintained tools for testing, automation, and load builds using OOP methods, C/C++, JAVA, PERL/CGI, SQL, HTTP, and HTML.
+Created and executed Unit, Integration and Regression Test Plans, Test Cases for various software and product releases.
+Conducted Performance Testing, Acceptance Testing and Field Testing with all external partners, and maintained integrated test environments.
+Reproduce customer escalated bugs in the lab, and visited customer sites, as needed, for faster resolutions of escalations.
+Developed test plan from design specification; Reviewed and approved High Level Documents (HLD’s) and Design Test Plan (DT’S);
+Worked very closely with designers, assisted designers to execute DT’s.
+Hired and managed/mentored up to five Co-op and intern students.
+Developed and maintained tools to supported and maintain lab resources.
+Involved in hardware, software migrations, web and database maintenance
+Led and conducted bug review weekly meeting, updated testing status, focused on current issues, coordinated testers and designers, and presented group test executions status to senior managers.
+Designed and developed various web-based tools and provided technical support for these tools to various overseas internal customers.
+
+References: Available Upon Request
+
+Contact this candidate

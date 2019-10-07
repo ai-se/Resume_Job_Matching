@@ -1,0 +1,54 @@
+
+The Technology Strategy & Architecture Organization is looking for a passionate Performance Engineer to help aggregate and implement performance measurements across the entire Development organization that reveal our Technology Health story. You will work with development teams to build architecture fitness functions ensuring measures are vetted against production environments. You will use data engineering techniques to create a data pipeline to enable analysis and insights on Tech Health measures. In our highly-collaborative environment, you will have the opportunity to continually grow as an engineer and quality professional, and even help mentor others get to your level.
+
+Are you ready to get started? Apply Today!
+
+Here at Ultimate Software, we truly put our people first. We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential. Ultimate is ranked #1 on Fortune's Best Places to Work in Technology for 2019 and #8 on the 100 Best Companies to Work For list in 2019. Ultimate is also ranked #1 on Fortune s 75 Best Workplaces for Women and #5 on its Best Workplaces for Diversity list.
+
+Primary/Essential Duties and Key Responsibilities:
+
+Design, implement, enhance, operate, and support Tech Health & Insights tooling
+
+Enterprise System Health Dashboard
+Integrations with supporting systems (e.g. Infrastructure & Cloud platforms, Quality static analysis tools)
+Tech Health Data pipeline
+AI models
+Continuously improve Tech Health definition and strategy
+Partner, collaborate, and pair with engineering teams to simplify adoption and onboarding of toolset and overall guidance
+Curate documentation in support of simplifying usage and operations of toolset.
+
+Required Qualifications:
+
+(Knowledge, Skills and Abilities)
+
+Software Development experience with Java, Go, NodeJS, C#
+Proficiency with source control technologies; specifically Git
+Understanding and experience with Docker
+Understanding and experience with Continuous Integration tools (e.g. Teamcity, Concourse, Jenkins)
+Understanding and experience with Cloud development infrastructure and platforms (e.g. GCP, AWS, PCF)
+
+(Experience, Education, Certification, License and Training)
+
+4+ years of relevant experience (e.g., Quality, Test, Performance, Data, or Software Engineer)
+
+Preferred Qualifications:
+
+Not required, but a Plus if you have experience with
+
+Data Engineering experience (e.g. data pipelines, analysis)
+Experience with AI concepts/modeling techniques
+Continuous Delivery tools (e.g. Spinnaker)
+Container management (e.g. Kubernetes, Pivotal Cloud Foundry)
+ELK Stack (Elastic, Logstash, Kibana)
+Metrics Dashboards (e.g. Grafana)
+Time series DB (e.g. InfluxDB)
+
+This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
+
+Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company s online employment application, please contact .
+
+Permanent
+
+
+Apply now
+

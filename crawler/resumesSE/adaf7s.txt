@@ -1,0 +1,128 @@
+
+Ramana Reddy
+Python, Hadoop and Spark (PySpark)
+
+E-mail: adaf7s@r.postjobfree.com Mobile: (+91) - 959*******
+
+Objective:
+
+To be a team player with an excellent career in IT Development, Support and Maintenance. Searching an industry that can provide me an opportunity to improve my skills and utilize my expertise and professional education to shoulder responsibilities, take initiatives & add value to the company
+
+Profile Summary:
+
+Graduate at Jawaharlal Nehru Technological University Anantapur (JNTUA).
+
+Qualified professional with 5+ years of professional experience with strong Python, Hadoop (Big Data) and PySpark Environment.
+
+Experience in developing software solutions using Object-oriented analysis & Design methodologies and preparing related formal documentation including technical design documents.
+
+Analysis, design, development, maintenance and support of developed application.
+
+Involved in Data analytics using Python Pandas, NumPy, Matplotlib and NLTK Modules
+
+Having knowledge on Data Science and Machine Learning Concepts.
+
+Having Debugging knowledge of PySpark applications through Amazon Web Services (AWS) cloud.
+
+Working experience in Safe Agile System and Scrum.
+
+Experience in writing SQL Queries in MySQL and SQL Server.
+
+Experience in loading and querying data into MongoDB using Python.
+
+Have strong ability to learn new technologies in a short span and implement software applications using the same.
+
+Hands on experience in debugging and fixing the bugs and very good with Unit Testing.
+
+Have an excellent communication skill and exceptional problem-solving capabilities.
+
+Professional Experience:
+
+Working as a Lead Engineer with HCL Technologies Pvt Ltd., Bangalore from April 2016 to till Date.
+
+Worked as a Software Engineer with Tata Consultancy services Pvt Ltd., Bangalore from April 2014 to April 2016.
+
+Technical Skills:
+
+Big Data Ecosystems
+Hadoop and Spark (PySpark)
+Programming Languages
+Python3.6/3.7 and R Language and Go Language
+Operating Systems
+Windows and Linux Family
+Data Science and Machine learning Concepts
+Data Analysis, Machine learning and Data Science
+Development tools
+PyCharm, Anaconda Navigator and Cloudera
+Relational Databases
+Oracle SQL Developer, MySQL and SAP Hana
+NoSQL Databases
+MongoDB
+Reporting Tools
+Qlik sense and Tibco Spotfire
+Data Analytics Packages
+Pandas, NumPy, Matplotlib, NLTK and Spacy
+Cloud Computing Platforms
+Amazon Web Services (AWS)
+
+Major Projects Handled Across The Tenure:
+
+HCL Technologies Pvt Ltd–Bangalore, Karnataka April-2016 to Present
+Project 1: Contact Master
+Role: Python with MongoDB Developer
+Client (Working at Client Location): NetApp.
+Roles and Responsibilities: -
+Responsible for code development and bug fixing.
+Involved in mastering data from different sources like csv files, txt files, sap hana, oracle tables to mongodb database.
+Involved in data ingestion, transformation between multiple databases like MondoDB, Oracle and SAP Hana Database using pyMongo, pyhdb and cx_Oracle modules of python.
+Involved in Unit Testing.
+Participating in the project status tracking call to update the status.
+Skills: Python, Python Modules (NumPy, Pandas and NLTK), MongoDB, Oracle Database and SAP Hana.
+Project 2: CASCADE (Clearance as Strategic Competitive Advantage Differentiated Experience)
+Role: Spark Developer
+Client: FedEx Inc.
+Roles and Responsibilities: -
+Involved in development of code using python and store data into HDFS in Hadoop.
+Implemented new features/modules based on client requirements.
+Working on required Transformations and actions of multiple Data Frames/Spark SQL using PySpark as per the business requirements.
+Handled tasks of identifying system deficiencies and implemented effective solutions.
+Process the python panda’s data using spark DataFrame into TextFile or HDFS.
+Helping the team members to track and get the issues resolved.
+Involved in creating tables using Hive.
+Participating in the project status tracking call to update the status.
+Skills: Python, Python Modules (NumPy, Pandas and NLTK), Hive, HDFS, cloudera and PySpark.
+
+Tata Consultancy services Pvt Ltd –Bangalore, Karnataka April-2014 to April-2016
+
+Project 1: eDashSchool Application
+Role: Python Developer
+Roles and Responsibilities: -
+Responsible for developing the code development in python.
+Responsible for able to solve issues.
+Responsible for coding and Bug fixing.
+Responsible for creating GUI application using python TKinter Module.
+Helping the team members to track and get the issues resolved.
+Participating in the project status tracking call to update the status.
+Involved in Unit Testing.
+
+Skills: Python, TKinter and MySQL.
+
+Project 2: Find Potential security flaws.
+Role: Python Developer
+Roles and Responsibilities: -
+Responsible for developing the code development in python.
+Responsible for able to solve issues.
+Responsible for coding and Bug fixing.
+Helping the team members to track and get the issues resolved.
+Participating in the project status tracking call to update the status.
+Involved in Unit Testing.
+Skills: Python.
+
+Declaration:
+
+I hereby declare that the details furnished above are true to the best of my knowledge and belief.
+
+Place: Bangalore
+Date: (Ramana Reddy)
+
+Contact this candidate

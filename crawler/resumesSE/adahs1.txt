@@ -1,0 +1,121 @@
+
+VINEEL PELLELLA
+
+Email ID: adahs1@r.postjobfree.com
+Contact: +91-998*******
+
+Professional Summary:
+3+ years of experience in Windows/Web based Software Application Testing.
+Good experience on Test Automation Tool, Selenium WebDriver using Java.
+Experience in unit testing frameworks JUnit & TestNG.
+Experience in various testing frameworks like Keyword Driven, Data Driven and Hybrid Frameworks.
+Experience in defect tracking tools JIRA for logging the bugs.
+Experience in Testing of domains like ERP
+Thorough hands-on experience with all the levels of testing including Sanity, Usability, Functional, Integration, Regression, Re-testing, User Acceptance and System Testing.
+Experience in creating, modifying and enhancing both manual test cases and test scripts created in Selenium WebDriver.
+Good experience in interacting with product manager, developers, customer support and help them in base line the requirement specifications.
+Good Communication and Interpersonal Skills. Excellent team player having ability to meet tight deadlines and work under pressure until work has been done.
+Skilled at working independently and multi-tasking. Able to develop ideas into workable plans.
+Expertise in end-to-end automation development and testing of web-based applications.
+Professional Experience:
+Working as an Associate QA Analyst with Infor Pvt Ltd, Hyderabad, since July 2016 to till date.
+
+Educational Qualifications:
+
+COURSE
+NAME OF INSTITUTION
+UNIVERSITY/ BOARD
+YEAR OF PASSING
+%
+
+B.Tech(Electronics & communication)
+Annamacharya Institute of Technology and Sciences
+JNTUA
+2016
+79.48
+Intermediate
+Sri Chaitanya Junior College
+BIE
+2012
+94
+Class 10th
+Sri Netaji Pilot High School
+SSC
+2010
+92.17
+
+Software Exposure:
+
+Test automation Tool : Selenium Robot Framework, ZAP Scan
+Programming Languages : Java, Xtend, XML, HTML
+Frameworks : Selenium
+Defect Tracking Tool : JIRA
+Version Control Tool : GitHub
+Project:
+Project #1
+Cloud Suite Financials & Supply Management (CSF & SM)
+Client
+Infor Product – Has many clients
+Duration
+January 2019 to Present
+Role
+Associate Quality Assurance Analyst
+Technologies Used
+ZAP Scan
+Description:
+OWASP ZAP (Zed Attack Proxy) is one of the world's most popular security tool which is used to run penetration testing using different URLs to explore different kinds of security vulnerabilities that can possibly occur in our application. As a part of this project we will run ZAP Scan for every monthly release.
+
+Project #2
+Cloud Suite Financials & Supply Management (CSF & SM)
+Client
+Infor Product – Has many clients
+Duration
+January 2018 to Present
+Role
+Associate Quality Assurance Analyst
+Technologies Used
+Selenium, Java, xtend, SQL Server, Selenium Robot Framework, Git.
+
+Description:
+Cloud Suite Financials & Supply Management (CSF & SM) is the core product of Infor which is a cloud application. This product will come as a suite of applications in the form of Cloud Suite. All the required applications will be integrated to CSF to provide as a cloud suite. As automation engineer we created and maintained test plans which will be running for regression and customer releases.
+Project 3#
+Cloud Suite Financials & Supply Management (CSF & SM)
+Client
+Infor Product – Has many clients
+Duration
+July 2016 to January 2018
+Role
+Associate Quality Assurance Analyst
+Technologies Used
+Selenium, Java, xtend, SQL Server, Selenium Robot Framework, Git.
+
+Description:
+Cloud Suite Financials & Supply Management (CSF & SM) will be integrated to other applications within the company which are rich in other functional domains. As part of these integrations CSF will transfer or receive data with other applications. As part of automation we are involved in writing and maintaining of the test cases to verify the functionality of these integrations for every regression and critical releases.
+Roles and Responsibilities:
+Understanding the requirements and gathering the project information.
+Performing Manual Testing on functionality of the application and Creating Test Scenarios, Test Cases, Test data for the application.
+Developing and executing the test scripts on the new build by using using Webdriver.
+Executing Test Cases and Generating Test summary Reports.
+Analyzing the test results and updating them accordingly to the Test Manager/Testing Team.
+Testing the Functionality of each feature.
+Testing activities included Sanity, Functional, GUI, Regression, Performance and System Testing.
+Identifying the test cases that need to be automated and updating the Test Cases based on any implementation changes.
+Responsible for product testing and functional testing at System level.
+
+Personal Details:
+
+1.Date of Birth: 26/03/1995
+2.Father’s Name: MuniRatam Pellella
+3.Mother’s Name: Parvathi Pellella
+4.Nationality: Indian
+5.Mother Tongue: Telugu
+6.Languages Known: Telugu, English and Hindi
+
+Declaration:
+I solemnly declare that all the above furnished information is free from error to the best of my knowledge and belief.
+
+Place: HYDERABAD
+Date:
+Vineel Pellella
+
+Contact this candidate

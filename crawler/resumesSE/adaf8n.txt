@@ -1,0 +1,106 @@
+
+Oisín Foley
+**** ******** **, *********, *.C., V*R 3J5
+778-***-****
+adaf8n@r.postjobfree.com
+https://linkedin.com/in/oisinfoley
+https://github.com/OisinFoley
+
+Profile / Qualification Highlights
+
+• 2.5 years of full-time experience as a full-stack developer, developing REST APIs, microservices & web apps.
+• During most recently held position, was entrusted with leading the development, testing and deployment of microservices, APIs and front-end components which have since been shipped to production. Also, supported teammates when freed up or whenever the need arose.
+• Comfortable working in small, crossborder teams where having a great deal of responsibility for delivery – and collaboration with remote teammates – is a daily occurrence. Happy to become part of a larger team too.
+• Previously worked within a mix of the .NET and JavaScript worlds, now displays a genuine interest in moving into React and NodeJS development in their next role after having spent the past year developing and testing a React/NodeJS-based app in their free-time. See “Personal Projects” section.
+• Developer with the ability to get work done, who’s always willing to help others out – even those in other teams – and never afraid to speak out when practices or approaches could be improved or need to be reconsidered – considered by peers to be an empathetic and sociable person.
+• Bachelor of Science in Software Development degree
+• Native English speaker, with prior experience in migrating and settling into a new country for work.
+
+Skills
+
+• JavaScript – Advanced
+• C#, Testing / Mocking, Cloud Computing, Npm, NuGet, SASS / CSS, Git – Intermediate
+• Build systems, CI Tools – Competent
+• Ubuntu / Windows services and command line – Competent
+• Written and Oral skills – Advanced
+
+Employment & Personal Projects
+
+Oct 17 – Aug 19
+Beijer Electronics (Malmö, Sweden) – Software Development Engineer
+
+At Beijer, our team had 2 core responsibilities as we developed our IioT platform: 1) Our dashboard product - a customizable web app for visualizing data transmitted though Azure from IoT devices on factory floors in remote locations. 2) The services, APIs and infrastructure to handle data transmission to/from Azure, licensing and user/device/data management.
+
+Tech Stack: .Net Core, EmberJs, Qunit, SASS, xUnit, NSubstitute, TeamCity, Azure Functions, Azure IoT Hub
+
+Specific Achievements:
+• Built microservices which allowed us to create and enforce licensing, and accept or reject telemetry data from factory devices based on the validity of a device’s license.
+• Developed a real-time, animated chart, which displayed live values for multiple data points received from Azure through a WebSocket connection. Featured smooth scrolling as the user-specified time interval elapsed.
+Was our most popular data-display graphic on the dashboard product during beta-testing, based on customer feedback.
+• Helped increase code coverage of the entire JavaScript code base from 40 to 70% during Summer 2018.
+• Collaborated with another teammate to create the Azure function apps to handle the processing of incoming telemetry data from IoT devices so that it could be stored in Azure Blob Storage, ready for later use whenever a dashboard project was loaded and subsequently requested the latest telemetry, or a historical record of past data.
+This allowed us to move away from mocking the main function or selling point of our product, and set it up legitimately so that it could now be monetized in production, with real customers.
+• Led the creation of a web API to manage dashboard projects on an organizational and user level. According to feedback from 20 surveyed beta-customers, this made them feel safer about using the product, as they no longer needed to bookmark links, and they were no longer worried that unauthorized users could access their dashboard if they obtained a link in dishonest circumstances..
+
+Sep 16 – May 17
+Fastcom Telecom (Sligo, Ireland) – Technical Support Engineer Fastcom provides network traffic monitoring for businesses and internet for residential customers.
+
+Tech Stack: JavaScript, Java
+
+Specific Achievements:
+• Developed a script which notified specified admin(s) whenever a device on a business’ network attempted to communicate outward to a known blacklisted IP address.
+• Through being proactive and regularly checking in with customers, was able to learn about and address customer issues before they became critical. 6 customers called or wrote to say that it was a key factor in them deciding to stay, saving the company $4000 in 2016-17.
+• 85% of 300 surveyed customers said they preferred dealing with our tech support team, than that of any other competitor they have previously been a customer with. It’s worth noting we were a 3-person team.
+
+Mar 15 – Aug 15
+Fastcom Telecom (Sligo, Ireland) – Web Developer Internship Tech Stack: Java, JavaScript, D3JS, CSS
+
+Specific Achievements:
+• Built a self-updating system of known blacklisted IP addresses.
+• Built a system which would connect to different remote towers via SSH, run shell commands to record various network-related info, then be used to create email alerts for business customers.
+• Built a system which analyses outgoing traffic to known blacklisted IPs and builds a graphic from that data to allow for easy identification of the most severe threats to the system. Proved useful for many of our business clients who we provided internal network monitoring to.
+• Created an email alert system so that admins and other relevant bodies were informed of blacklist hits on the network in a timely, effective manner.
+
+Projects
+2018-19
+DevConnector – A Social Network for Developers – https://developer-connector-mern.com
+
+• Full-stack JavaScript web app and REST API – built using React, Redux, Node, Express and Mongo
+– where logged in users can create a profile about themselves, learn about other devs and form discussions through threads and posts.
+• Tested with jest in the client, with mocha, chai and sinon used in the back-end.
+• Authentication handled by JSON Web Token, deployed to AWS, running on nginx.
+• Uses SASS, BEM naming, 7-1 architecture pattern and is atomically structured in parts.
+• https://github.com/OisinFoley/DevConnector-Social-Network
+
+2019
+Booking API Service – https://github.com/OisinFoley/dotnet-BookingService Flight API Service – https://github.com/OisinFoley/dotnet-FlightService
+
+• .NET Core REST API Microservices, used to perform CRUDs on flights and bookings for an airline.
+• Bookings service uses Singleton Pattern to initialize Service Bus connection to Azure, while both use the Repository Pattern and Unit of Work Pattern.
+• Flights Service subscribes to messages from the Bookings Service that’re received via Azure Service Bus, then updates properties for the given flight accordingly.
+• Tested with xUnit, running automatically in TeamCity upon new code check-in and integrates the changes with the relevant deployed app if all tests pass.
+• Both apps have Swagger available for easy API visualization.
+• https:// booking -service-api.azurewebsites.net/swagger
+• https://flight-service-api.azurewebsites.net/swagger
+
+Courses
+Sep 2018
+• Completed 16-hour MERN-stack course on Udemy.
+https://www.udemy.com/certificate/UC-XYQ8M82B/
+
+Education
+2016
+Supplemental Course – Institute of Technology, Sligo, Ireland
+• Artificial Intelligence (FOL, CNF, Prolog, Data Structures, Search Trees)
+• Mobile Development (UX Design Principles, Creation of an Android app in Xamarin)
+
+2012 – 2015 Institute of Technology, Sligo, Ireland BSc. in Software Development – Computer Science degree with software development focus
+• Maths (93%), Client-Side-Scripting (65%),
+• Database Development (67%) (SQL Server – Sprocs, Triggers, Isolation Levels),
+• Web Programming (61%)
+(ASP.NET MVC, Web API, EF, DI, Repository Pattern, Serialisation, Services, MDI)
+
+2006 – 2012 High School – Summerhill College, Sligo, Ireland
+• Physics (C+), English (B), Maths (B)
+
+Contact this candidate

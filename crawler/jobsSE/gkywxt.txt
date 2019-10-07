@@ -1,0 +1,31 @@
+
+Title: QA Automation Engineer
+Location: Greater Hartford CT (Windsor, CT or East Hartford, CT)
+Employment: Contract / Contract to hire
+Onsite Face to face is required after Skype discussions
+
+Required Skills:
+
+The qualified candidate will have proven experience in the following:
+Minimum 5 years of testing experience
+Minimum 3 year experience in test automation
+Hands on experience in creating automated scripts using leading automation tools like Protractor/Selenium
+Understand core Java concepts and using Java along with Selenium
+Thorough understanding in automation and performance concepts
+Hands on experience on with Test cycle management tools like JIRA/HP ALM
+Experience in testing SOAP / REST services / API Testing
+Strong DB skills with ability to write and understand complex SQL queries
+Team Player with strong communication and interpersonal skills
+Understanding agile concepts - Story points estimations, Fail Fast, Continuous Integration
+Understands the concepts of the BDD/TDD or ATDD
+
+Thanks,
+Mohammed Rayees
+Sr Talent Acquisition
+Software Technology, Inc.
+100 Overlook Center, Suite 200, Princeton, NJ 08540
+Direct:
+
+
+Apply now
+

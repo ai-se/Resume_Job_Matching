@@ -1,0 +1,191 @@
+
+Professional Summary
+
+Project Lead with **+ years of experience in Quality Assurance, Test design, Automation strategy, Test methodologies, project execution and talent management in Telecom OSS, Consumer Goods, HVAC domain. Worked on Agile and CMMi level 5 project processes.
+
+Snapshot
+Core competence
+Quality Assurance, ITIL, OSS Testing, Testing methodologies (Regression, Functional, Stress, Stability, Compatibility, Performance, Val grind, Migration, Active Sync), JSP, Servlet, MySQL, HVAC testing.
+
+Held positions with
+10+ years of experience with Wipro Technologies, Johnson Controls, Inc.
+
+Technical Skills
+Process
+Quality Assurance
+Tools
+Quality Center, Bugzilla, Clear Quest, Clear Case,TMS, CPEdit, LabRSS, RADIOCOMM, Active Sync, JAL, XFlash, iRemotePlus
+Scripting
+Java Script, Unix Shell, Perl, JIRA
+Languages
+JAVA, JSP and Servlet, Python, Selenium
+Operating Systems
+Linux, Unix (Solaris and HP-UX )
+Database
+MySQL
+Telecom standards
+GSM, GPRS,UMTS,iDEN
+Scripting
+Java Script, Unix Shell, Perl
+Web Server
+Tomcat and Apache
+
+Work Summary
+Effective in quality control and customer interaction.
+Deliverable milestone planning, delivery tracking, and resource mapping as per Process, and Risk mitigation planning.
+Extensive proficiency in OSS, Mobile applications, GSM, GPRS, iDEN Push To Talk, CDMA Networks, OSS and data centric wireless technologies like Bluetooth, IrDA, HVAC
+Experience of Testing methodologies (Regression, Functional, Stress, Stability, Compatibility, Performance, Val grind, Migration, Active Sync),Java, JSP, Servlet, JavaScript, Tomcat,Mysql
+Experience of writing Test Plan, Unit & Functional Test specifications, writing problem Reports in Bugs Tracking Tools and Peer review of test plans
+Known for raising more number of quality bugs and performance issues.
+Thrive in both independent and collaborative work environments. Quick learner, with an ability to rapidly achieve organizational integration, assimilates job requirements and employs new ideas, concepts, methods and technologies
+Proven ability to always multitask to accomplish multiple assignments at the same time.
+EDUCATION
+Course
+Institution
+Board
+Year of Passing
+Percentage/ CGPA
+Master of Science in Software Engineering
+BITS, Pilani
+Deemed University
+2008
+8.92/10 CGPA
+
+BIOGRAPHICAL DETAILS
+Name
+Umaya Kiruthika Balasubramaniam
+
+DOB
+02/05/1984
+
+Education
+Master of Science in Software Engineering ( 8.92/10 CGPA )
+
+Address
+Bollineni Hillside Township, Block 39-A 301,
+Nookampalayam, Sithalapakkam, Chennai, Tamil Nadu
+600126, India.
+
+Status
+Indian citizen
+
+EXPERIENCE
+Feb 2018- Current
+Johnson Controls, Inc.
+Project Lead
+Project: Project Lead (Feb’18 – Mar’19)
+Client: Johnson Controls, Inc.
+Johnson Controls, Inc. is expert in HVAC systems. Tested VRF (Variable Refrigerant Flow) Gateway which acts as a gateway between HVAC system to Building automation system (BAS)
+Role:
+Defined and ensured Process compliance by team in all process areas.
+Managed the daily stand-up, Sprint planning and Sprint Review
+Weekly synch up with Customer on deliverables and issues faced
+Tested and delivered Quality product to customer
+Raised quality defects
+Automated the test cases using Python and Selenium
+
+Sep 2004 – Feb 2018 Wipro Technologies
+Account Quality Manager
+Project: Account Quality Manager (Jul’14 – May’16)
+Client: British American Tobacco
+British American Tobacco used ITIL for maintaining their operations. Includes Incident, Change and Problem management.
+Role:
+Defined and ensured Process compliance by team in all process areas.
+Defined and documented new process and process changes as required.
+Ensured Quality Assurance of deliverables
+Conducted Internal Audits and Facilitate Customer/external audits
+SLA performance monitoring was done
+Reviewed Service Delivery Plan.
+Highlighted process issues, third party dependencies to customer that impact service in a timely manner.
+Developed process documentation and technical competency
+Ensured process adherence and create awareness on customer process/policy
+Reviewed all process changes and approve
+Acted as a Single point of contact for any process related issue/escalation
+Worked with Service Delivery Manager and Tower Leads to implement and drive consistency in process
+Implemented independent ticket audit for Incident management tickets
+Created PPM for improving total time to resolve incidents
+
+Senior Test Engineer, Test Lead, Project Manager
+Project: PLM ST Testing - Sun Solaris, Windows XP/2000, Java (Feb’09 – Jun’14)
+Client: ERICSSON
+Operations Support System for the Ericsson Radio and Core Network (OSS-RC) is used for centralized operation and maintenance of mobile networks. OSS RC can manage Radio - (GSM) and Core Network (GSM and WCDMA) nodes.
+Role:
+Currently leading the PLM Testing team
+Made deliveries on time without any delay and maintained team spirit.
+Involved in End to End System Testing, CR, TR verifications
+Responsible for Performance and Configuration management product testing.
+Groomed the new team members and helped them in solving the issues during execution.
+Responsible for system upgrade and maintenance
+
+Project Engineer
+Project: NSN OSS – OSS4, OSS5.1, OSS5.1CDSET1 JAVA/WINDOWS/LINUX (Jul’07 – Feb’09)
+Client: Nokia Siemens OSS
+OSS5.1 program is designed to deliver NetAct OSS software on the Linux operating system. In this program/project old OSS4 NetAct software is ported to Linux. Some additional features like Migration and compatibility are supported majorly.OSS5.1 CD program is designed to deliver service packs on top of OSS5.1 NetAct. In these service packs additional features are delivered.
+Role:
+Involved in the CD releases for OSS4 project.
+Involved in the migration of DB from OSS4 to OSS5.
+Involved in the implementation of the new CR (Change Request).
+Involved in Regression and functionality testing.
+Involved in bug fixing.
+Developed an assessment tool for maintaining the assessment repository and conduct assessments which is been currently used across the teams in the organization.
+Developed the resource management tool to maintain the resource details with the team.
+
+Test Engineer
+Project: Motorola Synergy based phones testing - Synergy Platform
+Open wave Browser, Java Apps, OTA Download (Apr’07 – Jun’07 )
+
+Client: Motorola
+Scope of this project was to test all these applications and validate them against Network Operators requirements.
+Role:
+Involved in Language testing (Spanish, Portuguese and French).
+Maintain the MIDlets and provide support for the execution team testing those MIDlets. Testing mobile applications on Live iDEN network(Phone registered on iDEN network through EBTS).
+Defect logging & tracking in Clear quest tool.
+Issues resolution with development team at onsite and coordinating with them to reproduce the issues.
+Coordinated with team for understanding the new areas like OTA DRM download using iFUN site, OTA Software update using iDAT.
+Groomed the new team members and helped them in solving the issues during execution
+
+Test Engineer
+Project: Motorola Mobile Application testing WinCE 5.0 Platform
+SMS, MMS, Browser, Media player, Camera, ActiveSync, Call Settings, Phone Settings, Bluetooth, Java apps, Games, Pocket Outlook, and Accessories (Aug ‘06–Mar ’07 )
+Client: Motorola
+Scope of the project is to test applications on Motorola 3G phone for US and European market
+Role:
+Responsible for test design, new test suite creation and documentation for applications to be tested in the Regression testing phase
+Responsible for enhancing existing test case documents.
+Involved in the Testing activities(functional testing, feature testing, non-functional testing, stress tests, memory tests, limit tests, stress tests, basic interaction testing)
+Analyzed the logs from the phone using RadioComm
+Assisted the technical lead in validating the issues reported by the team members and raising defects for the same.
+Groomed the new team members and helped them in solving the issues during execution.
+Maintained the inventory details in the tracking tool.
+Stress testing was appreciated by the client for raising more low memory issues
+
+Test Engineer
+Project: Motorola Smart PHONE and Synergy phone Testing
+MOSMS, MMS, Contacts, Datebook, Shortcuts, Voice record, Open wave Browser, Phone Settings, Java Apps, Profiles, Moto Talk, Camera, Multimedia Apps, Bluetooth, Private call, Group Call, SDGC(Selective Dynamic Group call, Push To View, Recent Calls, OTA Download DRM, Emergency calls, Language testing, Car Kit, Voice recognition, Accessories testing for PTT, Bluetooth, Car kit (Apr ‘05 – July ’06)
+Client: Motorola
+Scope of this project was to test all these applications and validate them against Network Operator’s requirements
+Role:
+Involved in the development of the Customer Supplied Material Tracking tool which was used by the team for Inventory tracking.
+Testing mobile applications on Live iDEN network(Phone registered on iDEN network through EBTS)and on iREMOTE(Remote testing of phones through iREMOTE tool)
+Performed feature and regression testing on areas like MMS,SMS,Pocket Outlook,SIM manager, PIE, Push to Talk, IrDA, Settings, Windows media player, Active Sync,Camcorder,Notifications,iDEN GSM mode switching, Security, DATA interaction, Trace mode.
+Performed Stress testing on MMS application, Pocket Outlook and Storage
+Defect logging & tracking in Clear quest tool.
+Contributed in reviewing test cases documents
+PR/CR Verifications
+Issues resolution with development team at onsite and coordinating with them to reproduce the issues.
+Maintained the inventory details in the tracking tool and tracked the details
+
+AWARDS & ACHIEVEMENTS
+Awarded the Feather In My Cap Award for Customer Supplier Tracking tool and raising more number of bugs
+Awarded Prodigy Award for 1.exceptional contributions and innovations in the project 2.showing unexpected performance in terms of learning and delivering above Group Average, technical ramp-up, being able to handle things Independently 3. initiatives/innovations/significant contributions made
+Awarded Titan award for team contribution
+Awarded the Feather In My Cap Award for valuable contribution in PLM testing team.
+Awarded Super Achiever’s award for team contribution and good CSAT rating.
+Inspiring performance award was given for attention to details, customer connect and stakeholders
+Mission Quality award was provided for meticulous reporting of the CSAT alerts and WHL for RCTG. These reports quality were top notch and were always delivered on Time
+Awarded Please to work with award from delivery team for establishing professional connect from Quality perspective
+Won Mission Quality has got Talent award
+ITIL foundation certified
+Awarded “Pat on the Back” for cracking a critical scenario faced in VRF systems at customer site
+
+Contact this candidate

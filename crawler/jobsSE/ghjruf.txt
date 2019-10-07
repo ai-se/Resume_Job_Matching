@@ -1,0 +1,30 @@
+
+Responsibilities:
+
+Assists with the High Level systems view of our product design (architecture and system requirements) and how it fits within a larger product portfolio, including ensuring proper allocation and ownership of requirements to the subsystem and component levels
+Derives requirements from high-level marketing requirements into product-level functional requirements
+Works hand in hand with the program manager, product manager, and cross-functional leads to ensure the overall product/solution system integrity from concept to end-of-life of the product, including meeting all expectations from major stakeholders like manufacturing, quality, regulatory bodies, and reliability in addition to customers and patients
+Provides internal and external customer interface to arbitrate key architecture conflicts
+Owns the safety risk management implementation and compliance
+Coordinates with User Interface, Engineering, Marketing, Procurement, Operations, and V&V teams
+Leads and participates in design reviews, including reviews of design inputs and outputs
+Advises on change requests for system and related products
+Provides technical leadership to ensure overall product development success
+
+Qualifications:
+
+BS in relevant engineering field (MS Degree preferred)
+Minimum of 8 years of experience in embedded hardware development, ideally in a regulated industry
+Experience with the following standards is preferred, but not required: ISO 14971, IEC 60601-1, IEC 62304, IEC 60601-2-4, and/or IEC 60601-1-2
+Has in-depth understanding of both hardware and software for integrated products
+Strong understanding of safety risk management, including FMEA, design mitigations, and compliance to risk management standards
+Working knowledge of tools and processes related to system configuration management from specifications development, traceability, version control, defect tracking, and field feedback
+Experience distilling requirements from the system level into lower-level electrical and mechanical requirements
+Understanding of digital signal processing and algorithm concepts
+Experience in designing and assessing compliance to national/international standards
+Experience with designing fault-tolerant systems
+Proven ability to communicate in both verbal and written form to technical and non-technical customers, stakeholders, and various levels of management
+
+
+Go to apply 
+

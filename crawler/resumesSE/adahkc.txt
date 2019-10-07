@@ -1,0 +1,94 @@
+
+Cristian Fuentes
+Mallalauquen ***, Quilicura, Santiago, Chile • +56-998****** • adahkc@r.postjobfree.com Software engineer with 20+ years of experience working in IT in different roles within the software development process (developer, analyst, project manager, software architect and more). The last six years working as developer and Software Architect in Big Data technologies. Possess impeccable communication skills, excellent interpersonal skills, good understanding about teamwork and fast learning.
+PROFESSIONAL EXPERIENCE
+SII (Servicio de impuestos
+internos – Government
+Taxes) Santiago, Chile
+Present – Oct 2013
+Eware Corp Ltda. Santiago,
+Chile
+Dic 2009 - Sept 2013
+Telecheque S.A
+Santiago, Chile
+Dec 2008 – Dec 2009
+SI CHILE Technologies
+Santiago, Chile
+Jul 2007 – Dec 2008
+ADIVITA S.A Technologies
+Santiago, Chile
+Dic 2004 – Jun 2007
+Big Data Software Engineer
+Planning and implementation of Big Data solutions.
+Software Architecture definitions (Hadoop – Cloudera)
+Software development Hadoop ecosystem (Pig, hive, Mapreduce java, sqoop, oozie, spark scala, flume, kafka, impala, kudu)
+Data Analysis (Analyst and Business intelligent department support)
+Cloudera administration tasks.
+Working in risk, financial, fraud and taxes administration areas. Project Manager (Software factory lead)
+Project manager, team leader
+New client software solutions proposals
+Planning software solutions projects
+Software Architecture definitions (Java, J2ee)
+Unix and Linux environment
+Working in telecom (Mobile and carrier) solutions. Software developer/architect
+Planning and implementation.
+Software Developer/Architecture definitions (Java, J2ee)
+Project manager
+Working in financial and fraud areas.
+Software developer
+Planning and implementation.
+Software Developer/Architecture definitions (Java, J2ee)
+Working in bank areas (Banco de Chile).
+Software developer
+Planning and implementation.
+Software Developer/Architecture definitions (Java, J2ee)
+Mostly working in bank areas (Banco Bice)
+BUILDERHOUSE LTDA
+Santiago, Chile
+Jun 2003 – Dec 2004
+ODEPA – MINISTERIO DE
+AGRICULTURE (Department
+of agriculture government)
+Santiago, Chile
+Jul 2001 – Jun 2003
+Software developer
+Software Developer (Java, J2ee)
+Working in different business areas and customers
+(Transportation, Agriculture, financial sector)
+Software developer
+Platforms support (windows, linux, unix)
+Software Developer (Java, J2ee, Centura, Web)
+EDUCATION
+Instituto Profesional La
+Araucana
+Santiago, Chile
+Jun 2003
+Ingeniero de ejecución en computación e Informática
+(Bachelor of Science in Computer Engineering)
+TRAINING -
+CONFERENCES
+2015 Workshop Cloudera Hadoop (By Excelerate Systems) 32 hrs.
+2017 Workshop Oracle Bigdata Appliance and Hadoop Cloudera Administration (by oracle) 32 hrs.
+2018 Strata Data Conference New York (Oreilly)
+2018 Strata Data Conference Kafka Spark Streaming Training
+(by Jesse Anderson Big Data Institute) 8 hrs.
+2019 Attend the Strata Data Conference New York (Oreilly) TECHNICAL SKILLS
+Hadoop, HDFS, Cloudera, sqoop, Hive, pig, oozie
+Impala, Mapreduce Java, flume, spark, kafka, kudu, scala, parquet, avro, Java J2ee, Javascript, Unix, Linux, Shell Script, PL/SQL, Transac SQL. Ansi C, C++
+Tools: Eclipse, Hue, Cloudera Manager, MS Project, Visio, Ant, Svn, Git, BMC Control-M
+Application servers: Jboss, tomcat, Weblogic.
+Databases: Oracle, Sybase, Sybase IQ, PostgreSQL TEST - POC’S
+Hbase, Streamsets, Python
+REFERENCES
+Loreto Navia: Project manager, IT Department. (SII - Government taxes) Phone Number: +569-********
+adahkc@r.postjobfree.com
+Johann Renck: Project manager, IT Department. (SII - Government taxes) Phone Number: +569-********
+adahkc@r.postjobfree.com
+Gustavo Jara: CEO EWARE LTDA.
+Phone Number: +569-********
+adahkc@r.postjobfree.com
+Cristian Hamuy: IT Manager TELECHEQUE S.A
+Phone Number: +569- 98020603
+adahkc@r.postjobfree.com
+
+Contact this candidate

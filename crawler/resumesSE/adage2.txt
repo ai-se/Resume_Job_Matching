@@ -1,0 +1,147 @@
+
+Sunayana Zagade
+
+Email: adage2@r.postjobfree.com Phone: 818-***-****
+
+Professional Summary:
+Over 7 plus years of diversified experience in Software Quality Assurance with expertise in Manual and Automated testing of various Web Pages and Web Services using both manual and automated testing tools and administration.
+Experience in testing applications in various industry domains like Home and Mortgage, Banking, Insurance, Finance, ecommerce and Healthcare.
+Understanding of complete Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and software methodologies like Waterfall and Agile.
+Well versed with the Windows, Mac and UNIX environments
+Extensive experience in reviewing and understanding Business requirements and writing detailed test plans, test cases, and test scripts.
+Immense experience in various testing methods like Functional, Regression and UAT testing.
+Well versed in using automation testing tools such as Selenium Webdriver 2, Quick Test Professional/UFT, Cucumber and SOAP UI.
+Excellent understanding and experience of Service Oriented Architecture (SOA) including SOAP and API testing tools like SoapUI and Postman.
+Good knowledge on Backend databases like Oracle, My SQL and MS Access.
+Extensively used PL SQL developer, SQL Server Management Studio and MS Access to execute Complex SQL queries to perform data validation.
+Extensively used Defect/Bug tracking system with the use of tools like ALM (Quality Center).
+Excellent Analytical, Decision-Making and Organizational Skills coupled with good co-Ordination, communication and interpersonal skills describing a committed Team Player with an ability to handle/Organize multiple projects simultaneously.
+
+Technical Skills:
+Languages
+Java, VB Script, HTML, XML, SQL
+OS
+Windows, MAC, Unix
+Design tools
+Microsoft Visio
+Databases
+Oracle, MySQL, MS Access
+QA Tools
+QC/ALM, Selenium Webdriver 2, QTP/UFT, SoapUI, Fiddler
+Other Tools & Packages
+Putty Connection Manager, Notepad ++, M.S. Office Suite, PLSQL Developer, Version One.
+
+Professional Experience:
+
+GreenSky Credit, Alpharetta, GA June 2017 to Present
+Sr QA Engineer
+GreenSky Credit provides consumer loans and credit plans extended by participating lenders to borrowers for the purchase of goods and/or services from participating merchants/providers. Currently working on testing consumer credit application process and decision engine.
+Developed and executed manual test cases using QC/ALM manager for user stories provided by business team.
+Involved in Sprint Estimation, Daily Stand Up, Demo, Retrospective meetings and strictly followed Agile Methodology.
+Used VersionOne tool for user story estimation, task creation, backlog grooming and defects logging.
+Involved in creating Page Object Model framework on Selenium Web-driver 3 using Eclipse IDE
+Developed automated test scripts based on manual test cases using Selenium Web-driver 3.
+Created Java test cases using Page Object Model framework in tandem with Selenium Webdriver 3.
+Created page objects using css, xpath, name, id, class and actions click, getText, getAttribute, sendKeys (webElement) etc.
+Created Selenium test cases using TestNG and executed locally by creating groups and .xml test suites.
+Used BDD framework based on Protractor and Cucumber for developing automation test cases for Angular application.
+Created cucumber test cases (feature files) using Gherkin language and using keywords like feature, scenario, given, when, And, then etc.
+Used step definition, page object and configuration files to develop and execute automation test cases.
+Used GitHub for creating push and pull requests, code reviews and merging branch to trunk.
+Used Selenium grid and Jenkins for cross browser automation execution on Chrome, Firefox, IE11 and Safari
+Performed API testing by creating Get, Post, Update, Delete requests using Postman
+Wrote and executed complex SQL queries including JOINS to find specific vehicle listing using MS SQL Server Management Studio.
+Performed lead activities such as Code Reviews, Defect Validation, Tech Debt
+Environment: ALM/QC, Protractor, Cucumber, Selenium Webdriver 3, Jira, GIT Lab, Postman, Jenkins
+
+Ernst & Yong (EY), Alpharetta, GA Feb 2016 to May 2017
+QA Engineer
+
+Ernst & Young is a global company which provides account teams with the support they need to help drive revenue growth. EY deliver services through one or more of four global service lines: Assurance, Tax, Transaction Advisory Services and Advisory. I am currently working on Audit Tool testing for GUI, API and Web Services automation.
+
+Created Test Plan and Test Scenario using BRS and SRS provided by BA.
+Created test cases, test steps and test data based on user stories.
+Responsible for test plan, test scenario and test cases approval from Project leads and QA Manager.
+Used Version One tool for writing test cases, defect tracking, tasks estimation and tracking tasks.
+Attended Sprint planning, Task Estimation, Demo and Retrospective meetings by strictly following Agile Methodology.
+Attended daily Agile Scrum stand up meeting and tracked estimated tasks.
+Created Page Object Selenium Web-driver framework using pom.xml.
+Developed automated test scripts based on manual test cases using Selenium Web-driver 2.
+Identified various objects on DOM by using By.id; By.name; By.cssSelector; By.class By.tagName, By.linkText
+Created various java methods using various actions click, getText, sendKeys (webElement) etc.
+Used GitLab for commit, pull, push and merge the code to the develop and Master branches.
+Created Selenium test cases using TestNG and executed them by creating groups and .xml test suites.
+Used browser stack and Selenium Grid for automated test execution on Chrome, FF, IE, Safari, iPad, iPhone and android devices.
+Used SQL Server Management Studio for backend testing and verification.
+Tested the various web services using SOAPUI in tandem with XMLSpy, Edit Plus and Ultra Edit.
+Extensive experience on XML scripting, XML validation, XML schema and XSLT.
+As a lead Responsible for the code review, defect validation, generating test execution reports and defects tracking.
+Environment: Selenium Web Driver 2, Win 7, MS SQL Server Management Studio, Version One.
+
+Cox Automotive (Autotrader), Atlanta GA Feb 2015 to Jan 2016
+QA Analyst
+
+AutoTrader.com is online solution for buying and selling new, certified and used cars. Its web application gives customer more control on buying and selling a vehicle easier than any other competitor web application. Worked on consumer web application, which helps customer to find their most preferable vehicle by selecting various specific filters
+Reviewed Business Rules Document (BRD), IT design document and prepared Test Plan.
+Wrote test scenarios and test cases for every business rules and performed smoke and functional testing.
+Added requirements and test cases in Quality Center and executed all manual test cases from Quality Center
+Defects were tracked and prioritized using Quality Center and analyzed the variation between expected result and actual result.
+Interacted with developers, users and various members of the team to discuss issues, resolve defects and set priorities.
+Built Page Object model framework and wrote automated test scripts based on manual test cases using Selenium Web-driver .
+Identified various objects on DOM by using By.id; By.name; By.cssSelector; By.class By.tagName, By.linkText.
+Created various java methods using various actions click, getText, sendKeys (webelement..) etc.
+Created Selenium test cases using TestNG and executed them by creating groups and .xml test suites.
+Used page object model for developing test scripts on Selenium Web-driver 2 and executed on cross browsers.
+Hands on experience on SVN Check In and Check Out in real time dev environment.
+Used Sauce Labs for automated test execution on Chrome, FF, IE, Safari, iPad, iPhone and android devices.
+Tested the various web services and API Rest Services using SOAP UI in tandem with Notepad ++.
+Extensive experience on XML scripting, XML validation, XML schema and XSLT.
+Automated manual Web services tests using SOAP UI in tandem with Edit Plus.
+Responsible for the defect validation, reporting defects and closing defects.
+Responsible for conducting Smoke testing, Regression testing and defect validation.
+Used PL SQL Developer loan conditioning, backend testing and verification.
+Used Putty.exe to access Unix box for tailing business rules and error logs.
+
+Environment: SQL, Quality Center, Selenium Webdriver, Soap UI, Linux, Win 7.
+
+Bank of America, Charlotte, NC Jan 2013 – Dec 2014
+Test Engineer
+Bank of America provides complete financial banking and brokerage services, asset management and innovative products for customers. I worked on Personal Online Finance module that had various features for Brokerage Services, Loans and Mortgages and Online Services for all customers. The customers could access their personal accounts, online bill pay and could apply for loans and mortgages.
+Reviewed Business Requirement Document (BRD), IT design document and prepared Test Plan and Test Cases.
+Involved in designing process/ methodology to identify the opportune areas for automation.
+Experienced in preparation of Manual test cases with in Data Driven Automation framework.
+Helped document Test Requirements and Test Plan using Test Director to track the stakeholders requested enhancements and changes.
+Closely interacted with software developers to understand application functionality and navigational flow for manual testing.
+Extensive experience in executing Manual Test tasks in backend testing.
+Tested the web pages manually as well as using automated tools like QTP for image positioning and display quality.
+Used Joins like Inner join, Outer joins while testing from multiple tables.
+Experienced to Functional, Integration, Smoke and Sanity testing with Backend testing.
+Extensively worked on backend testing and has very good knowledge of writing SQL quarries to verify the data.
+Defects were tracked, reviewed, analyzed compared using Quality Center.
+Extensive experience in Regression as well as System testing.
+Performed in User Acceptance Testing (UAT), once product was ready to release.
+Environment: HP Quality Center, XML, PL-SQL Developer, MS Office Suite
+
+Wells Fargo HM, Charlotte, NC March 2012 to Jan 2013
+QA Analyst
+
+Wells Fargo Bank provides complete solution to Home and Mortgages, Home Equity, Wells Fargo and Wachovia financial banking and innovative products for customers. The goal of this effort was to identify automated testing opportunities, where possible, to reduce manual testing, increase quality of deliverables and to improve the efficiency and effectiveness of the STRADA testing team. I also worked on LPS Web services, Wells Fargo Web services and Strada web service and Fidelity Flex account view web services testing. Apart from testing daily duties were web services testing, loan conditioning, defect tracking and morning checkouts, Arm Index.
+Created Test Plan and Test Scenario using BRS, SRS and User Stories provided by BA.
+Created test cases based on Test Scenario and generated required test data.
+Developed various test scripts by referring Test Scenarios and test cases.
+Responsible for test plan, test scenario, test cases approval from Project leads and QA Manager.
+Experienced in testing GUI, Desktop, Web-services and Rest applications built on .net and java
+Created various function and utility tools as cleaning cache, expanding and minimizing browser, and database connections on QTP / UFT and maintained under ALM Resource module.
+Added verifications and Report.report events which are similar to manual test cases.
+Added verification with warning if some part of application is not available on UI.
+Created common function library and associated with existing script using HP ALM resources.
+Created, maintained and associated object repository under Recourses module on HP ALM
+Used QC/ALM for creating and execution of manual and automated test cases.
+Automated manual tests under regression using SOAP UI for Webservices and functionality testing.
+Created XPath, XQuery, Contain, Schema Compliance, Non SOAP Fault assertions and for automation used properties, property transfer, and groovy scripts.
+Worked in truly Agile Methodology in a very compact sprints and tight schedules throughout the phases of project.
+Compared performance results with SOAP UI load tests and Performance Center.
+Responsible for logging, opening, assigning, prioritizing and closing defects on ALM11 (QC).
+Environment: ALM 11, SOAP UI 4.0, QTP/UFT 11, Linux
+
+Contact this candidate

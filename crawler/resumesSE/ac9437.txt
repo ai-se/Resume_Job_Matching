@@ -1,0 +1,177 @@
+
+V NIRMAL DEVAKUMAR ac9437@r.postjobfree.com
+Mobile No.: +974-********
+
+System Administrator/Network administrator
+Seeking a challenging and rewarding opportunity which recognizes my true potential and effectively utilizes / nurtures my analytical and technical skills
+
+CAREER OBJECTIVE:
+
+To become a part of result oriented and highly successful team especially in goal setting and target fixed in the Organization through the use of sound planning, strong determination and skills of persuasion. Seeking middle level managerial assignment in Server and Network Administration.
+
+TECHNICAL CERTIFICATION:
+
+Globally Certified in Cisco CCNA Routing & Switching & CCNA Security (Cisco ID: CSCO11710707). Completed Cisco Scholarship Programme in CCNA Cyber Security Ops.
+
+Globally Certified in Microsoft MCSA Server 2012, MCSA office 365, MCSE Cloud Platform & Productivity and also Globally Certified in Red Hat Linux RHCT & RHCE (Red Hat Version 5).
+
+Globally certified in Vmware VCP 5- Data Center Virtualization (VCP-DCV).
+
+EDUCATIONALCREDENTIALS:
+
+B.E., (Electronics and Communication Engineering): KLN College of Engineering, Madurai.
+
+12th, 2000: Schwartz Matriculation Higher Secondary School, Ramanathapuram.
+
+10th, 1998: Syed Ammal Higher Secondary School, Ramanathapuram.
+
+EXPERIENCE:
+
+Worked in Unimoni GBS (Formerly known as XM Software Solutions Private Ltd, LLC of
+UAE Exchange), Chennai as System Engineer from May 7th 2018 to Feb 13th 2019.
+
+Creation of AD logins, Password rest & unlock of organization accounts through Manage Engine AD manager Plus.
+Managing & monitoring client computers of organization through Symantec endpoint console for threats alerts, verifying client update & also installing Symantec endpoint security in all domain joined computers & laptop.
+Dispatching New Laptop & Desktop for users in the organization by installing Windows 7, 8, 10 & office related app such as office 365 pro plus, pencil, putty, Winscp, Power Designer etc. and also coordinate with vendors for laptop or desktop hardware failures.
+Supporting internal web application browser issue, proxy issue, Office App related issue remotely through Goverlan Remote Access Tool & Cisco Webex.
+Installing & configuring Microsoft SQL Server 2014 express for DB related projects.
+Monitoring the bandwidth utilization of computers in branch offices through PRTG Network monitoring tool & basic level troubleshooting of router and switch in case of network outrage.
+Installing & configuring Network Printers, USB Card Printer, Scanners, Card Reader for all branch office, CHQ & GHQ over remote access.
+Coordinating with internal teams for security incident event & following change management protocol.
+Process Flows & Call-Tracking Tools for resolution of IT Helpdesk tickets through Manage Engine Service Desk Plus ticketing tool
+
+Worked in Sutherland Global Services, Chennai as Associate in Symantec Rover Core wave from 10th Jan. 2018 to May 2nd 2018.
+
+Guiding the U.S. Customers to onboard the Norton Core Secure Wi-Fi Router.
+
+Trouble shooting in the Norton Core Router for connectivity issues.
+\Taking remote access of the customers PC/Mac/IOS/Android through Log me RDP tool for installing and trouble-shooting Norton Security suite products.
+Removing Virus/Malware/Spyware/Ransomware through Norton tools such as NPE/VRQ
+& resolving PC/Mac performance issue through Norton Computer Tune Up service.
+Process Flows & Call-Tracking Tools for customer resolution of Norton products are done through Sales force ticketing tools.
+
+Worked as System Engineer on contract basis under Impact Info Tech Pvt. Ltd., Pune in XM Software Solutions Pvt. Ltd. for UAE Exchange Centre LLC, Chennai from 3rd July 2017 - 6th Oct 2017.
+
+On-Boarding and Off-Boarding the mailboxes from Exchange Online Servers.
+Creating users and groups for domains in office 365 admin portal.
+Migrating the Shared, Resource and Room Mailboxes to cloud and from cloud to On-Premise.
+Installation and configuration of Office 365 at user end and attending trouble shooting giving support for global operations over remote access.
+Handling post migrated issues like permissions and password issues for the users.
+Administered and supported Office 365 and MS Exchange policies.
+Setting up the ActiveSync for the mobile messaging services.
+Managed MS Exchange servers, AD applications and public folders.
+Resolved tenancy technical issues and monitored Office 365 systems.
+
+Worked in Praxlinx, A Division of Metlinx, Chennai as Server Support Manager from 1.1.2015 (before promotion as Helpdesk Executive -- Server support as Team Leader/Manager from 14thAugust 2014 to 31stAugust 2015)
+
+Managing Server 2008 R2 and Server 2012 R2 Active Directory Infrastructure.
+Adding users, creating groups and policies in Active Directory
+Creating user mailbox using Exchange Server 2013 & managing office 365 subscription
+Server Monitoring- Monitoring the Status, Services, Disk space, Functions, patching, logs & Overall performance of the servers through Lab Tech Monitoring Software
+Monitoring Servers thro’ VM Ware VSphere Vcenter 5.5.
+Taking Backup of the servers through Unitrend Entreprise Backup & Veeam Backup Replication
+My Key Job role is to do Server monitoring, Backup Monitoring & documenting it and sending the report to HO on daily basis
+Diagnosing & reporting the faults in servers and Backup appliance and rising Ticket, escalating it to concern Team through mail & Connect wise Ticketing tool.
+Installing & configuring Cent OS 6.3 & Red Hat Linux 6 & 7
+Installing & configuring database/web application software & tools in Linux platform (centos 6.3,7 & Ubuntu) such as Xampp, Open EMR, Talend open studio. web2py, pycharm, i-mate 1.8.
+Creating Virtual Machines in ESXi host for testing and production environment.
+Monitoring VMs & ESX/ESXI servers (CPU, Memory, Disk, Network utilization).
+Acting as an escalation gate to resolve critical issues of the team members. Skills in conducting various training sessions for enhancing the performance and quality of service.
+
+Worked as I.T. Executive in Medi Assist TPA India, Chennai from Jan 2014 to July 2014:
+
+Installing & troubleshooting Windows XP & Win 7.
+Assigning Static IP and joining the computer in Domain.
+Installing and configuring Ms Outlook and windows live mail.
+Installing MS-office, open office 3.0, MacAfee Antivirus, Real VNC & all necessary Desktop software.
+Installing Forticlient VPN Software and configuring VPN for remote access to Laptop users
+Remote access using Real VNC, Team viewer and Ammyy admin.
+Installing, configuring and troubleshooting Network printer (HP Printer)
+D-Link DES-series Switch maintenance and LAN troubleshooting,
+MPLS-Link monitoring & complaint Ticket rising in case of Link down.
+Also additionally handled Office administration work duly coordinating with H.O., Bangalore.
+
+SKILL SET:
+[[[
+[
+Server Administration
+Knowledge of installing, configuring & managing Microsoft Windows Server 2008, 2012 R2 & 2016 - AD Infrastructure services such as AD CS, AD FS, AD LDS & AD RMS, Azure Active Directory, AD Sync Tools. Knowledge of creating cloud services, VM creation in MS Azure Portal & Amazon AWS (EC2). Knowledge of configuring & managing Azure Subscription, Resource Groups & Role-Based Access Control.
+Knowledge of configuring & managing AD site replication, Branch Cache, Failover Clustering, Network load Balancing(NLB), DFS, WSUS, File server resource manager(FSRM), RDP, WEB SERVER (IIS 8,10).
+Knowledge of configuring & managing AD users, Groups & Group policy objects & WDS for deploying Win OS
+Knowledge of configuring & managing Microsoft Exchange Server (2013, 2016) & Office 365 administration.
+Gained proficiency in installation, configuration and administration of REDHAT Linux Enterprise 5, 6 & 7.
+Ability to create and manage Disk partitions (LVM, RAID) & mounting NFS File system.
+Knowledge of Advanced User Administration (NIS, LDAP, ACLs, QOUTA) in Red Hat Linux 5, 6 & 7.
+Knowledge of implementing & configuring Networking Services (DNS, DHCP & NTP) in Red Hat Linux.
+Knowledge in Backup of VMs & cloud infra with Veeam Backup & Replication through Veeam Cloud Connect.
+
+Knowledge in ITIL process such as Incident Management, Change Management, Problem Management, etc.
+
+Virtualization Technology Administration
+
+Knowledge of configuring and managing MS HYPER- V& Microsoft System Center Configuration Manager.
+Knowledge of deploying applications & packages in SCCM 2012 R2 and Create & manage VMs through VMM.
+Knowledge of designing, installing, configuring & managing VMware vSphere 5.5, 6 & 6.5.
+Configure Virtual Networks in ESXi server by creating vSwitches (Vsphere Virtual switches).
+Knowledge of configuring and Managing Vmware infrastructure (HA, DRS, DPM, FT).
+Deploying Vcenter Server. Taking Virtual Machine Snapshots, Cloning, Creating Templates.
+Configure and manage User, Group, Permission, Role, Resource pool on Vmware Vcenter.
+Monitoring of servers for CPU Usages, Memory usages, Drive Storage, Backups etc via Vcenter server.
+Applying patches to ESXI Host through Vmware update manager and command line.
+
+Network Administration
+
+Knowledge of Installing, configuring & troubleshooting of Routers & Switches and Switching protocols such as VLAN, VXLAN, VTP, STP, RSTP,PVST+, MTP, ether channel (LACP & PAgP).
+Knowledge of implementing & troubleshooting LAN, WAN & VPN, Network Security- ACL, NAT & PAT.
+Knowledge & Understanding of Management, Control & Data planes in Cisco IPS/IDS.
+Moderate knowledge in implementing & configuring AAA (TACACS, Radius & ISE) on Cisco devices.
+Knowledge of implementing & configuring SSH, HTTPS, NTP, Site to site IP sec VPN & SSL VPN
+Knowledge of configuring Cisco Layer 3 Switches at Distribution Layer Active / Active & Active / Standby, Dynamic & Private VLAN Configuration, maintaining High Density Wireless APs in WLAN controller and monitoring & managing Network Traffic through Cisco Fire Power Threat Defense.
+Knowledge of configuring Cisco ASA Firewall & install, configure & manage Checkpoint SMS & Gateways.
+Configuration & troubleshooting Static & Dynamic Routing protocols (RIP, IGRP, EIGRP, OSPF, HSRP, VRRP, GLBP, BGP, SNMP, MPLS, MPLS-VPN, IPSEC-VPN, Route Redistribution & Ripng).
+Knowledge in VOIP and ability to configure IP phones, Remote management such as TELNET, SSH, CDP, ICMP.
+Knowledge & understanding of Checkpoint Security Architecture, Security Policy Layers & Managements.
+Knowledge & understanding of Checkpoint Log Analysis, User management & User authentication using IA
+Knowledge of configuring & managing Security policies through Checkpoint SmartConsole and ability to configure the Checkpoint Software Blades in Gateways for Policy Management, Monitoring Analysis, Operations & workflow and managing subscriptions & generating, detaching Licences through Smartupdate.
+Knowledge of configuring & managing NAT( Hide, Static), IPSEC VPN, Site to Site VPN, Remote Access VPN and ability to create VPN Communities(Mesh, Star & combined) & access control to VPN Connections, Monitoring Traffic in Tunnels, VPN Connections, N/W traffic through SmartView Monitor & SmartView Web and scheduling & managing Backups for SMS & Gateways through Cli, SmartConsole in Checkpoint FW
+Working knowledge of Cisco routers (1800, 2800), Cisco switches (2960, 3560) & Cisco Firewall ASA 5505.
+Basic knowledge in Network Monitoring tools such as Cisco Netflow & Stealthwatch, PRTG and Wireshark.
+
+Information Security
+
+Knowledge of testing Infrastructure & reporting the Vulnerabilities with tools such as Nessus,Nmap,Metasploit.
+
+Knowledge & understanding in Proofpoint Protection server for securing email management, IBM Qradar for monitoring the events & Log analysis, SIEM, Cyber Kill Chain, Diamond Model, Veris Schema, NIST 800-61r2.
+Knowledge of Common Security Thread & layer 2 attacks like STP Attacks, ARP spoofing, MAC Spoofing, CAM overflows, VLAN security.
+
+TRAINING ATTENDED:
+
+Course on Personality Development, English Fluency & Accent at Speech Masters India Pvt. Ltd, Madurai.
+Attended CCNA(R&S) Training course in HCL Career Development Centre, Madurai
+Attended Red Hat Linux in Winways Pvt Ltd., Madurai.
+Attended CCNA Security course for 1 month & Checkpoint CCSA R80 for 3 months in Junisys, Chennai.
+
+STRENGTH:
+
+Ability to work under pressure.
+Purpose driven, goal oriented and positive attitude.
+Hard working, reliable and friendly with everyone.
+Ability to grasp new ideas and concepts quickly.
+Ability to master new skills according to the needs.
+
+PERSONAL DETAILS:
+
+Date of birth : 10th May 1983
+Gender : Male
+Nationality : Indian
+Languages Known : English & Tamil
+Hobbies : Reading books, hearing music & playing musical keyboard.
+Address for communication : Flat No.707, Building EZDAN – M1B1, Zone 13,
+Al Mazrouaa Street, Musherib, DOHA, State of Qatar.
+DECLARATION:
+
+I hereby declare that all the statements cited above are true to the best of my knowledge & belief.
+
+Date: 24.09.2019 V. NIRMAL DEVAKUMAR
+
+Contact this candidate

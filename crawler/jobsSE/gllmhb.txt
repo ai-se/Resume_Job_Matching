@@ -1,0 +1,28 @@
+
+Software Engineer, Data Science (Optimization)
+at Marin Software
+San Francisco, CA
+Marin is the Advertising Management Platform of choice for global brands such as General Motors, American Express, Macy’s, REI, Sephora, Salesforce.com, and 500 other top consumer and B2B companies.
+Optimizing ad targeting and performance starts with having the right data, and the Big Data engineering team makes it happen. Combining thousands of reports from Google, Facebook, Bing, and other publishers, over 100M click events per day from our in house performance tracking system and customer reporting systems, and 5+ billion advertising campaign objects, we power our proprietary bidding systems and financial models to maximize value and return for our customers.
+Marin is rapidly building out our Big Data infrastructure. We’ve already built out a 100+ node, petabyte size cluster, and now is a great opportunity to join as a key member of the team and be at the center of the action. We are in an active search for a Data Science Engineer, Bidding to bring real world experience of data analysis and machine learning techniques on vast datasets. We enjoy intense mathematics and computer science challenges and approach these problems with creativity and teamwork. We believe Marin's explosive growth should not compromise its agility in responding to market trends. We are a company that believes in building a product for the long-term, and creating a company that can grow as the market matures.
+Responsibilities
+Challenging Machine Learning problems in Bid Prediction in the search advertising space.
+Analyze large datasets on Spark. Contribute to open source, work on mlib & Presto!
+Work on convex portfolio optimization techniques in the display advertising space.
+Matrix Factorization methods at scale comparable to the Netflix Challenge, to identify target audiences for product segments
+Requirements
+2+ years relevant work experience
+Experience with Scala, Spark, functional programming.
+Statistical Programming (Matlab, R, Python)
+Industry experience with data analytics projects involving machine learning/optimization in production
+Industry experience working with or developing distributed systems, especially distributed data stores a plus (Spark, HBase, Presto)
+BS/MS/Ph.D. in Computer Science/Mathematics/Statistics or other quantitative discipline
+Compensation
+This is an on-site, full time salaried position located in our San Francisco world headquarters office. Marin Software provides Equity participation, best in class comprehensive health plans including medical, vision and dental, in addition to flex time off and reimburses 50% of monthly commuting costs for parking and/or mass transit up to the IRS limitations. Marin Software’s world headquarters is located in the financial district of San Francisco, with remote offices in Chicago, New York, Austin, and Portland. European headquarters are located in London, with additional offices in Singapore, Paris, Hamburg, Sydney and Tokyo.
+About Marin Software
+Marin Software Incorporated’s (NYSE: MRIN) mission is to give advertisers the power to drive higher efficiency, effectiveness, and transparency in their paid marketing programs that run on the world’s largest publishers. Marin provides industry leading enterprise marketing software for advertisers and agencies to measure, manage, and optimize more than $7.8 billion in annualized ad spend across the web and mobile devices. Offering an integrated SaaS ad management platform for search, social, and display advertising, Marin helps digital marketers improve financial performance, save time, and make better decisions. Advertisers use Marin to create, target, and convert precise audiences based on recent buying signals from users’ search, social, and display interactions. Headquartered in San Francisco, with offices in eight countries, Marin’s technology powers marketing campaigns around the globe. For more information about Marin Software, please visit: marinsoftware.com.
+Marin Software embraces diversity and is proud to be an equal opportunity employer. As part of our commitment to diversifying our workforce, we do not discriminate on the basis of age, race, sex, gender, gender identity, color, religion, national origin, sexual orientation, marital status, citizenship, veteran status, or disability status, and we operate in compliance with the San Francisco Fair Chance Ordinance.
+
+
+Go to apply 
+

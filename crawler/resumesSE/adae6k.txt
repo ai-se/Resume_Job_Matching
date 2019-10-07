@@ -1,0 +1,53 @@
+
+KALAISELVAN K
+Contact: +918*********
+MailId:adae6k@r.postjobfree.com
+Dynamic Professional aiming for assignments in environment design, Detail engineer in Automation field and Control system Environment in the leading organization. Designation: Project engineer Current company: MISPL SYSTEMS Current Location: CHENNAI Nationality: Indian
+About 2 years and 6 monthsof experience as a Project Engineer in Automation,Instrumentation in detailedengineering, commissioning and development of control systems for industries Application Design, development, commissioning and startup of instruments and control systems. Preparation of Instrument Index using by reviewing P&ID Preparation of Instrument Specification Sheets.
+Preparation of Cable Schedule
+Vendor drawing review & coordination with other disciplines Updating P & ID as per as built information.
+Configuring and faults diagnosis ofPLC, SCADA, RTU, Profibus, Profinet, Modbus TCP/IP Communication and Control Loops.
+o PLC : Siemens simatic S7 200, 1200, 300 & S7 1500, mircologix 1400, compactlogix (L3). o Application Software tools: Simatic Manager v5.5 & TIA portal v15,rslogix500,studio 5000,Arudino o SCADA : SIMATIC WINCC EXPLORER v7.3,FactoryTalk V10.0 o HMI : SIMENS,AB
+Verification of finalization of control system, wiring drawings, panel design. Commissioning and testing of PLC&VFD panels
+Basic configuration of VFD's
+Screening Control system Testing (FAT & SAT)
+Verification and Validation of control system assembly, design and control logics functions. Installation and loop checking of the field instruments. Control Valves, Flow Meters, and Level & pressure transmitters.
+Designing, Implementing and Commissioning of new control loops as per site requirements.
+• Preparation ofcontrolphilosophy, Review of P&I diagrams, Preparing instruments & motor list,Instruments and motor i/o’s list and flow chart.
+Preparation of Grafcets and Interlocks as per Process Description. (Logics description documentation). Preparation of Engineering documents like JB termination details, field control wiring details, field instruments hook -up drawings, etc.
+Preparing data sheet for the field instrument
+taking care of panel building and support activities Training of customer personnel at site for system operation.
+• Technical Support for client’s instrumentation and control team. Experienced in the field instruments and control systems procurement activities. Excellent communication, interpersonal, troubleshooting and problem solving skills KNOWLEDGEPURVIEW
+PLC : SIEMENS SIMATIC S7 200,1200, 300, 400 & S7 1500, ALLEN BRADLEY ML1400,COMPACT LOGIX(AB)
+,CONTROL LOGIX(AB)
+APPLICATION SOFTWARE TOOLS : SIMATIC MANGER v5.5 & TIAPORTAL v13 & 14 &15, RSLOGIX 500, STUDIO5000,CCW,FACTORY TALK VIEW,AURDINO
+SCADA : SIMATIC WINCC EXPLORER v7.3,Factory Talk V10.0
+VFD :PARKER,ALLEN BRADLEY,ABB,MITSUBISHI
+HMI :SIEMENS AND ALLEN BREDLEY
+COMMUNICATIONS: PROFIBUS,MODBUS(TCP), PROFINET, Ethernet, MODBUS(RTU) ORGANISATIONAL EXPERIENCE
+• ONE year of Experience In “PROPELLER TECHNOLOGIES” as a “ROBOTICS ENGINEER”.
+• ONE years and 6 months of experience in “MISPL SYSTEMS PVT LTD” as a “Project Engineer”.
+PROJECTS HANDLED
+Project Title : Slitter Machine -M/s MRF TYRES Perambalur Responsibility : Logic and HMI Development, Testing and Commissioning Project Title : CHAFFER AND SLITTER MACHINE-M/S TYRES Arakonam Responsibility : Logic and HMI Development, Testing andCommissioning Project Title : TRENCH CONVEYOR -M/s APOLLO TYRES,ORAGADAM Responsibility : Logic and HMI Development, Testing and Commissioning Project Title : POWER FLEX 525-M/s MRF TYRES, Perambalur Responsibility : Testing and Programming and Commissioning Project Title : Extruder application-M/s MRF TYRES, Pondicherry Responsibility : Testing& site commissioning
+Project Title : 37KW Solar project with tracking system-M/s Empower solar, HYD Responsibility : Testing and Programming
+Project Title : Strength Text Fixture-L&T
+Responsibility : Configuring VFD Parameters and Communcation via Modbus and Testing Project Title : Conveyor Panel-M/s MRF-Pondicherry Responsibility : Testing andCommissioning
+Project Title : POWER FLEX 755-M/s CEAT TYRES-GUJARAT Responsibility : Logic and HMI Development, Testing andCommissioning Project Title : UT HANDLING -TPI AVADI
+Responsibility : Logic and HMI Development, Testing and Commissioning Project Title :TYRE CURING REDUCTION PROJECT-M/S MRF-MEDAK Responsibility : Commissioning of panels for tyre curing Project Title : REGENERATIVE SYNCHRONOUS MOTOR-M/S BHEL R&D-HYDERABAD Responsibility : Logic and SCADA Development, R&D and Commissioning Project Title : GRINDED TYRE DUST REMOVAL SYSTEM-M/S MRF-ANKENPALLY Responsibility : Logic and SCADA Development, R&D and Commissioning TRAININGATTENDED
+• PARKER – INDIA, TRAINING FOR INDUSTRY: TRAINED ON PARKER VFD AC 30 AND AC10, CODESYS&DSE LITE, PRODUCT SELECTION, AVAILABLE OPTION IN THE PRODUCT,UPDATING THE FIRMWARE,COMMISSIONG THE DRIVE
+• COMMUNICATION: MASTER – SLAVE, PROFIBUS MODBUS TCP, DRIVE to DRIVE COMMUNICATION OF AC30 WITH CODESYS& PDQ
+• ADVANCED TRAINING IN INDUSTRIAL AUTOMATION : TRAINED IN PLC, SCADA, DCS, VFD and Other Field Instruments for a period of 6 months.
+PERSONAL DETAILS
+Name : KALAISELVAN
+Father'sName : KRISHNAMOORTHY
+Mother'sName : BAMAVENI
+Date of birth : 11-05-1996
+Nationality : Indian
+Languageknown : Tamil, English, Hindi (Speak)
+Presentaddress : 33 WILLIAMS ROAD
+CANTONMENT
+TRICHY-620001
+Date- [ KALAISELVAN K ]
+Place – TRICHY, TAMILNADU
+
+Contact this candidate

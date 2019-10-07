@@ -1,0 +1,31 @@
+
+Looking for ETL/Big Data engineers mid level for multi year project.
+Duration - Multi year
+Data Engineers (ETL/Big Data)
+Responsibility
+Develop, construct, test and maintain flows/pipelines
+Data acquisition
+Develop data warehouse and data marts
+Use programming language and tools
+Develop semantic models
+Skillset
+
+Experience in years
+Overall IT experience in Data Warehouse/Big Data/BI tools and technologies
+6+
+Experience with ETL design using tools Informatica, Talend, etc.
+6+
+hands on Experience in developing code around Hadoop - Hive, Spark, Scala (must know fundamentals of Hive and Spark)
+2+
+Experience in working with JIRA/Git/Bitbucket/JUNIT and other code management toolsets
+2+
+Experience in languages like: Java, Scala, Python - any one is fine
+2+
+Healthcare Domain knowledge
+Preferred
+
+Permanent
+
+
+Go to apply 
+

@@ -1,0 +1,45 @@
+
+The Q2 Corporate IT Team seeks an Integration Engineer who will be responsible to work with internal business stakeholders and their development peers to come up with scalable integration architecture and deliver integration solutions.
+
+RESPONSIBILITIES:
+
+* Work with internal stakeholders from Sales Ops, Finance and HR (People & Culture) to identify necessary business data integrations
+
+* Develop a scalable, seamless data integration solutions between cloud applications and internal systems
+
+* Partner with Salesforce, NetSuite, and Workday technical teams to ensure successful delivery of integrations
+
+* Own the API management platforms and activities: Issue analysis, solution architecture and design, resource-based API modeling, management, and throttling.
+
+* Maintain knowledge of API design standards, patterns, and best practices
+
+* Collaborate with other functions to optimize API performance and governance processes
+
+* Show initiative and drive topics to resolution with a high level of quality, speed, reliability, and efficiency.
+
+* Excellent communications skills - ability to engage in deep technical discussions with peers
+
+* Responsible for ensuring all security, availability, confidentiality, and privacy policies are adhered to
+
+EXPERIENCE AND KNOWLEDGE:
+
+* 5+ years' minimum hands-on development experience implementing the integration solution
+
+* Demonstrated experience in implementing multiple technical integration projects using Agile or SDLC (Software Development Life Cycle) methodology
+
+* Experience in delivering integration solutions with products such as Dell Boomi, Microsoft SSIS, TIBCO, Progress Sonic, Apigee, Talend or Mulesoft (Dell Boomi experience a plus)
+
+* Experience in delivering enterprise integration solutions between Salesforce, NetSuite, Workday and other cloud and on-prem based applications
+
+* Experience with REST/SOAP API governance (standards, lifecycle management, monitoring)
+
+* Experience with REST/SOAP API platform (gateway, documentation, performance, limits)
+
+* Experience with REST/SOAP API technologies (JSON, Swagger, oAuth, etc)
+
+* Experience in completing technical design documentation and technical reference materials
+SDL2017
+
+
+Go to apply 
+

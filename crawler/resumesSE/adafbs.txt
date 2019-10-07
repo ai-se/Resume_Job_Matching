@@ -1,0 +1,136 @@
+
+Andrew DeFaria
+
+***** ***** **** ****** #****
+Phoenix, Arizona -6440
+Phone: 408-***-****
+Email: adafbs@r.postjobfree.com
+
+For the most up to date copy of this resume see http://defaria.com/resume
+
+Validation Number: 4Q2XDJDCK1EE1HC5
+
+Objective
+To work with state of the art operating systems and networks to insure the smooth running of an organization's information flow.
+
+Hardware
+Workstations and servers from Sun, HP as well as various other manufactures of Linux systems.
+
+Operating Systems
+Linux (Redhat, Centos, Ubuntu), Windows, Unix (Solaris, HP-UX), Cygwin
+
+Networking
+TCP/IP, Windows and Linux Networking, Active Directory/LDAP, Samba
+
+Software
+
+Version Control Systems
+Git, Perforce, Clearcase
+Issue Tracking
+JIRA, Clearquest, Bugzilla
+Languages
+Perl, Bash, PHP, C++, C, Ada, TCL
+Configuration Management
+Puppet, Ansible
+Middleware
+Apache, Tomcat, Samba, Winbind, LDAP, REST
+Web apps
+JIRA, Confluence, Swarm
+Databases
+MySQL, Oracle
+Continuous Integration
+Build Forge, Electric Commander, Jenkins
+Virtualization
+VMWare, VirtualBox
+Cloud Computing (Classroom Only)
+AWS: EC2, IAM, S3, Glacier, CloudFront, Route53, VPC
+
+Education
+A.A.S. in Computer Science from Union County College in Scotch Plains, New Jersey. Continued studies at Fairleigh Dickenson University, San Jose State University, Mission College and Chico State in pursuit of my degree.
+
+References
+Charles Clarke
+770-***-****
+adafbs@r.postjobfree.com
+Owner ABS Consulting
+Tom Connor
+512-***-****
+adafbs@r.postjobfree.com
+Coworker, Consultant
+James Chen
+408-***-****
+adafbs@r.postjobfree.com
+Consultant at Specware & @Opp, LLC
+Shivdutt Jha
+408-***-****
+adafbs@r.postjobfree.com
+Coworker, Consultant
+
+Clients
+
+https://www.wellsfargo.com/
+WellsFargo July 2019 - Present
+Working on Perl Dancer applications
+
+General Dynamics March 2018 – April 2019 (Contract)
+For this technology refresh of over a decade ago, I was instrumental in setting up and maintain dozens of Solaris 5.11 zone systems and served as the primary Solaris System Administrator. This includes setup of many services like NIS, DNS, NTP, SMTP, AutoFS as well as a standard set of tools.
+Introduced Puppet to the group and served as the Puppet Master.
+Created Windows based VMs for specific roles such as BuildForge Console, Application server, Domain Controllers, etc. These were managed under vCenter.
+Developed Perl scripts for validation testing of Clearcase and Clearquest. Developed a Clearcase enhanced monitoring tool to monitor servers, loadavg and filesystems as well as Clearcase objects like VOBs and views.
+
+Broadcom August 2016 – January 2018 (Contract)
+Converted an internal project from a Jenkins/Perforce build system to the Broadcom/Avago standard of Electric Commander/Git. Developed Perl scripts to sign of executables and remotely execute commands on Windows systems using Cygwin/ssh thus streamlining and standardizing remote building and signing of executables.
+
+ICANN May 2016 – July 2016 (Contract)
+Developed RDAP server for testing SLA compliance of various TLD registrars around the world.
+
+A Knowles Company
+Audience March 2014 – April 2016 (Contract)
+
+Initially wrote scripts to import data from Bugzilla and other sources to JIRA thus automating the migration of several projects. Also administered Linux (Centos/Ubuntu/Redhat Enterprise) managing VM images in Vsphere, Perforce, Swarm, Git Fusion.
+Added functionality to custom build system that utilized Perl/PHP/Apache/Linux/Windows servers to allow engineers in the field to remotely perform customized builds. Integrated Bugzilla and Perforce (P4DTG). Assisted with JIRA setup and integration of Salesforce with JIRA. Assisted in the migration for users to new Knowles domain.
+
+Axcient July 2013 - Dec 2013 (Contract)
+Worked as a Build and Release Engineer for AxOS. The Axcient product is a customized derivative of Ubuntu. The SCM system being used is git. Developed and standardized procedures for performing builds.
+
+Broadcom December 2011 – April 2013 (Contract)
+Clearquest Designer: Maintained Clearquest instances implementing functionality with Visual Basic. Using ClearSCM's Clearquest, Clearquest::Client and Clearquest::REST modules created Perforce and Git triggers to automate builds updating Clearquest in the process.
+Migrated a project from their unsupported build environment into the standard Electric Commander/Perforce based solution using Cygwin, bash and LSF to farm builds out to a pool of Windows servers to perform builds. Builds were done using Visual Studio 8.0, 9.0 and 10.0 Windows Servers triggered by Perforce triggers at code checkin.
+
+Tellabs March 2011 – December 2011 (Contract)
+Automated various informational systems using Perl/MySQL/Oracle and the web.
+Developed a command line debugger called RAID which provided a consistent interface with complete command history and variable substitution courtesy of a Perl module that I wrote called CmdLine.pm. This Perl process utilized Inline::C to interface to the developer libraries and provide a consistent interface for the various command line debuggers developed by various different groups.
+
+GE Healthcare January 2010 – October 2010 (Contract)
+Performed Clearcase/Clearquest UCM administration. Developed an Evil Twin Finder in Perl. Worked with Build Forge (IBM’s CI tool similar to Jenkins) jobs to automate work flow. Assisted in consultations with UCM concepts such as component/composite baselines and projects. Wrote Perl scripts for conversions of Clearquest data with other systems (Siebel).
+
+General Dynamics June 2007 – October 2009 (Contract)
+Clearcase/Clearquest Administrator, Build Release and Automation using Perl scripts. Updated C++/Qt application that integrates UCM/Clearquest integrated environment into one tool and ported it to Linux.
+Instrumental in establishment of Perl standards and introduction of Perl tools such as Perl::Critic and Perl::Tidy. Worked at promoting usage of CPAN modules.
+Developed an extensive test driver application in Perl to interface and drive tests using NetHawk EAST Simulators as well as interfacing to other simulators and external hardware. The system automates the running of regression tests, official testing before the customer, assists with validation of test results, collecting of log files, checking log files into Clearcase and records status into a MySQL database. Developed a PHP web page to present the data in various forms including graphs, reports, exporting to CSV files and emailing of reports. Implemented maintenance programs to scrub and keep the data clean. This system was instrumental in Functional Quality Testing for the MUOS program. This reduced the time it took to certify testing with the military several fold.
+Worked on many enhancements to the extensive Clearquest system in use at GD. Designed and developed the record set implementing node configurations. Implemented required forms and action hook code. Designed and developed Perl scripts to initially load data into the new records.
+Developed a server process (daemon) to process baseline records that were then tracked by Clearquest. Implemented scripts to create baseline records from other automated process such as Build Forge. Tied together baseline records with node configurations through action hook code.
+
+Texas Instruments October 2006 – June 2007 (Contract)
+
+Clearcase/Clearquest Administrator. Wrote a Perl/Oracle application to track information about projects worldwide. Automated Clearcase license usage reporting and load balancing of Clearquest web servers.
+
+Hewlett Packard February 2006 – October 2006 (Contract)
+Managed and executed day to day build and release duties. Served as Clearcase/Clearquest Administrator as well as overall support of systems. Assisted with creating UCM streams and handling of rebase and delivery issues for engineers and the build/release process. Wrote UCM triggers to notify users of deliveries from UCM development streams. Created baselines for official builds. Took over day to day build and release duties. Created a build script that united the various quick and dirty build scripts that were oriented per stream and per build option. This standardized the build process. Augmented this build script to be a daemon that continually builds software when deliveries are detected. Wrote a build status web page that tracks and monitors the continuous building. Created a dynamic web page to show Junit test history. Converted Windows build from bat files and scheduled tasks -> Cygwin and cron thus making the build script identical on both Linux and Windows.
+
+Wrote triggers to notify users of deliveries. Baselined official builds. Automated the build process to perform simple continuous integration. Created a dynamic web page to show Junit test history.
+
+https://defaria-status.blogspot.com/search/label/Broadcom
+Broadcom September 2005 – January 2006 (Contract)
+Served as Clearcase/Clearquest Administrator as well as overall support of systems. Developed several triggers as well as ported my mktriggers script which automates the maintenance of triggers.
+Developed a complex Perl script to merge two Clearquest databases to a new database with many schema changes. This script handled all aspects of the conversion including changing non US ASCII characters found in the data to their HTML equivalents, dynamic creation of dynamic lists, field renaming and dynamically creating new stateless records as needed.
+Developed a script to better handle merging from UCM deliveries and rebases by delaying any non automatic merges to the end of the process as well as handle binary element merge. This process, written in Perl, utilized PerlTk to present the user with a GUI dialog box to choose which version of the binary file to merge.
+Designed and developed another Clearquest database for the Mobile Multimedia group.
+Wrote several other scripts including one to interface CVS to IMS (a defect tracking system) recording the change set at commit time, a script to strip out MIME/HTML and attachments for defects submitted to GNATS (another defect tracking system). Also implemented several script to log Clearcase activity, check Clearcase's pulse and gather site and vob statistics. These scripts were the start for creation of a set Object Oriented Perl modules to encapsulate Clearcase in a Perl like manner (still in development).
+
+Copyright (GPL)
+This resume is freely available; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. This means that if you modify this resume you must include a copy of the original source or refer to its origin at http://defaria.com/resume.
+This resume is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this resume; if not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Contact this candidate

@@ -1,0 +1,25 @@
+
+Position Title:- AWS Cloud Engineer
+Job Location:- Irving, TX
+Joining Mode:- Long Term Contract
+
+Job Description:-
+AWS Architecture, Pitney Bowes Address data management,
+Strong AWS knowledge is must here
+Working experience with version control tools Git, SVN etc.
+Working with onsite, offshore teams
+Multiple technologies, changing priorities
+Systems and processes related to agile projects
+Working experiences in interfacing with SOAP / REST APIs / Web services
+Experience in Working in Agile methodologies
+Experience in working with Continuous Integration (CI) and Continuous delivery(CD) frameworks including Git, Stash, Jenkins, Maven etc
+Strong knowledge / working experience databases preferably PostgreSQL/Oracle
+Java, J2EE, Weblogic, AWS Architecture,
+Pitney Bowes Address data management,
+Scala / elastic search, PostGres database,
+Familiarity with master data and data quality projects,
+Familiarity with GIS data, location data will be an advantage
+
+
+Apply now
+

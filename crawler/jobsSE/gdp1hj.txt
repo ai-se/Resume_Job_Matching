@@ -1,0 +1,53 @@
+
+We're Progress – we offer the best platform for building and deploying tomorrow's applications quickly and easily. We are bold, forward-thinking innovators who build things that work and care about our customers. We invent and reinvent every day, work together as one, value and respect each other and cheer our wins. Join us as Senior Software Engineer for MOVEit in Madison, WI!
+
+Ipswitch, a Progress Company is a leading producer of award-winning and easy-to-use secure data file transfer and network management software, that helps solve complex IT problems with simple solutions. Our software is trusted by millions of people worldwide to transfer files between systems, business partners and customers; and to monitor networks, applications and servers. The goal of our File Transfer solution is to securely transfer sensitive data in compliance with SLAs, governance and data protection regulations. It is one of the fastest growing File Transfers in the B to B market. We do this by research, design, implementation and delivery as part of a fast-paced team.
+
+WHAT YOU'LL DO IN THIS ROLE:
+
+* Design and develop high quality secure server applications, services and APIs in the File Transfer domain
+
+* Work effectively within a cross-functional multi-site team
+
+* Define, develop and test production-ready features
+
+* Participate in planning, code reviews, design, and architecture discussions, etc.
+
+* Champion Java development best practices
+
+* Work with technical services to support released products and features
+
+TO BE SUCCESSFUL IN THIS ROLE, WE NEED SOMEONE WHO HAS:
+
+* BS or higher degree in Computer Science or commensurate industry experience
+
+* Solid experience developing Java applications with Spring
+
+* REST API and web socket development experience
+
+* Ability to demonstrate problem solving and debugging skills
+
+NICE TO HAVE, BUT NOT REQUIRED:
+
+* JavaScript, .NET or C++ development experience
+
+* Experience in Build and CI/CD tools (Maven, Jenkins, CircleCI
+
+* Experience in Source control and collaboration tools such as BitBucket or GitHub
+
+BENEFITS:
+
+Here at Progress, we truly care about your employee experience. It is important to us for our employees to balance their work and home life, obtain viable options for their health and wellness, grow their career, and plan for financial success.
+
+The Progress benefits package is designed to recognize the diverse needs of our work force. We offer a variety of benefits for your health care needs, including four medical plans that meet any need or budget. Take advantage of our financial benefits, including an Employee Stock Purchasing Plan and a 401(k) with a company match! In addition to a variety of options to continue your career growth, Progress offers a generous Tuition Reimbursement program.
+
+Progress provides flexibility to our employees through Flexible Vacation Time, Flexible Hours, and telecommuting options. Take time to bond with your newest family addition through our Parental Leave options. Or celebrate you by enjoying a birthday holiday! You can even give back to the community through our community service time off.
+
+Progress is proud to be an Equal Opportunity Employer!
+
+#LI-CP1
+SDL2017
+
+
+Go to apply 
+

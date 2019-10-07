@@ -1,0 +1,183 @@
+
+Kiran Jangay
+Mobile: 669-***-****
+Email: adabc3@r.postjobfree.com
+
+Professional Summary
+Over 9+ years of IT Experience in the analysis, design, development and Administration of software applications using object-oriented and distributed computing concepts.
+Performed several migrations of APM Products (CA APM, dynaTrace APM) on large scale enterprise wide solutions.
+Over 8+ years experience as a Middleware Administrator with ever increasing levels of responsibility and expertise in a wide range of IT disciplines specializing in IBM
+WebSphere Application Server, IBM WebSphere Portal server, WebSphere MQ and IBM IHS in all facets of Administration, Maintenance, Integration including Installation and Configuration.
+Over 2+ years experience as a Tomcat/TomEE Administrator specializing in Installing, Configuring, Application Deployment & Troubleshooting.
+Experience in middleware components IBM WebSphere Application Server8.X/7.0/6.1/6.0/5.1, WebSphere Portal Server 8.x, 7.x, 5.X, 6.x, Apache Tomcat, TomEE 7.X and Web Servers (IHS 8.0/7.0/ 6.0/6.1,Microsoft IIS 7.5, 7.0,6.0) on Linux,AIX,SunSolaris,Windows platforms.
+Expertise in J2EE Application Deployment, Installation, Configuration, Maintenance, Performance tuning, Troubleshooting, Migration,Upgrades, Security, Testing, Workload Management, backup and Disaster Recovery of WebSphere Application server and WebSphere Portal on multiplatform environments (Linux, Windows, and IBM, AIX and Sun Solaris environments).
+Expert in WebSphere cluster Management including horizontal and vertical scaling and creation of nodes to avoid single point of failure and distribute user load for maximum availability.
+Expertise in creating and configuring WebSphere ODRs.
+Involved in the architecture and design implementation of Middleware products.
+Installed and configured IBM WebSphere Application Server 8.x/7.x/6.x/5.x on AIX /Solaris /Linux and Windows Environments.
+5+ years of experience in Installation, Deployment and Administration of IBM Portal Server 7.0/6.0/5.1 on WebSphere Application Server 7.0/5.1.x/6.0.2.17.
+Configured scalable applications through Server Groups, Profiling (Cloning) and Clusters.
+Configured Cluster server groups for improved availability and fail over redundancy.
+Good Experience in UNIX Shell, JACL, Jython and Ant Scripting.
+Experience in applying fix packs/ refresh packs for WebSphere Product Family.
+Experience in working with large topologies, maintaining WebSphere farm and IHS farm.
+Expertise in Object Oriented Programming using Java and J2EE technologies: EJBs, Servlets, JSP, Java Beans, JMS and JNDI.
+Experience in requirement analysis, scope, design analysis, debugging, testing and documentation of the various phases in a software development life cycle.
+Expertise in working in all the major roles of software development life cycle like Development, Administration, Configuration Management, Deploy Technician, Testing support, Production support.
+Ability to communicate requirements effectively to team members and manage application development.
+Ability to rapidly learn new concepts together with excellent interpersonal skills.
+
+Education:
+Bachelors of Engineering in “Computer Science” – Visvesvaraya Technological University, India 2008
+Masters in “Computer Science”- Sanjose, USA
+Pursuing Professional MBA, Campbellsville University, Kentucky, USA
+Certification:
+IBM Certified Systems Administrator on WebSphere Application Server 7.0
+Trained on CA Application Performance Management 9.1
+Trained on Compuware APM dynaTrace 5.6
+
+Skills:
+Middleware: IBM Websphere Application Server 8.x/,7.0/6.1/6.0, Websphere Portal Server 8.x,7.x,5.X,6.x, IBM MQ Series 8.x/7.x,JBOSS AS 7.0, TomEE 7.X,CA Siteminder 10.x,11.x
+Operating Systems: IBM AIX 6.x, 5.x/4.x, Sun Solaris 8.0/7.x, Linux 8.0/7.x, HP-UX 11.x,Windows 95/98/NT/2K/2003 and 2008 R2
+Java/J2EE Tech: XML, XSL, Applets, AWT, J2EE 1.2/1.3, JDBC, Servlets, JSP, RMI, EJB, JNDI, JMS, SOAP
+Database: Oracle 11g,10g,9i/8i/7.x, DB2 UDB 7.x/6.x, SQL Server 2008, 2010, 2012
+Web Tech: HTML, JavaScript, JSP, XML, XSL and DTD
+Web Servers: Apache1.3.x, IIS 6.0, Tomcat 5.x/6.x./7.x, IBM HTTP Server.
+Scripting: Shell Script, Jacl, Perl, Jython and WSADMIN
+Languages: C, C++, SQL, Java
+Protocols: TCP/IP, HTTP, HTTPS, R RMI/IIOP and SOAP
+Tools: Tivoli Performance Viewer, Introscope APM, dynaTrace APM, Jenkins, GitHub, Splunk
+
+Professional Experience:
+
+MasterCard, ST.Louis, Missouri. June 2018 – Aug 2019
+Sr. Internet Support Engineer
+
+Resolved internet architectural and operational problems impacting infrastructure and product availability and performance globally.
+Provided Level 3 Internet Operations.
+Prompt response to escalations by level 2 (IP Soft), worked on several tickets for escalations.
+Assisted in several high priority production issues on TRT call.
+Installed and Configured APM Tools (CA APM Introscope, dynaTrace APM) for the enterprise wide 100’s of applications.
+Migrated CA APM Infrastructure from Version 8.X to 9.X and three major dynaTrace APM versions 4.X to 5.X and 5.X to 6.X, 6.X to 7.X which includes Collectors, Agents, WebServer Agents.
+Instrumented Agents for Application Performance on Application Servers (Java & .NET, Native Applications.
+Instrumented dynaTrace OneAgent for docker containers monitoring on linux hosts.
+Instrumented dynaTrace to do Pivotal Cloud Foundry platform monitoring.
+Created Alerts, Dashboards, Business Transactions, Incidents, sensors, measures, and Reporting templates.
+Involved and advised on numerous Load & Performance Test calls for many critical applications.
+Researched and evaluated new technology for deployment in MasterCard’s internet infrastructure.
+Acted as lead and total accountability for ongoing regional projects as assigned; including responsibility for planning; time and cost control; resource utilization and implementation.
+Implemented, managed and supported internet infrastructure components while leveraging current standards and best practices.
+Performed problem diagnosis; performance tuning; capacity planning and configuration management for MasterCard internet components.
+Worked with IBM to resolve any P1,P2 WebSphere issues.
+Provided technical troubleshooting assistance to level 1 and 2.
+Assured system stability and future compatibility by monitoring production execution of all relevant systems.
+Set up SSL between Web Server plug-in and Gateway using Self-signed Client-side Certificate.
+Transitioned into Internet Core Applications group and lead the team with certificate renewal process.
+Authored process documents and updated team’s confluence site.
+Supported change requests for middleware, F5, Webseal configurations changes.
+Lead change requests review and provide technical approvals for implementations.
+Documented all the process for the installation, configuration and troubleshooting.
+Provided 24/7 support for assigned applications.
+
+Environment: IBM WebSphere Application Server 8.0, 7.x, 6.1.x.x, 6.0.x.x, 5.1.x.x ND, JBoss, Tomcat, Oracle 11g, DB2, IBM HTTP Server 1.3.19/1.3.26, Linux, AIX5.3/6.0, Windows 2012 Server, Webseal (TAM), BigIP F5, .
+
+Verizon wireless, Irvine, CA Jan 2016 – May 2018
+Middleware/ Production Support
+Installed, configured, administered and supported WebSphere 8.5, Weblogic 12c application servers.
+Worked with multiple DevOps methodologies and tools Continuous Integration (CI) / Continuous Delivery tools (Jenkins) Infrastructure.
+Installed and Managed Jenkins for CI and Sharing Artifacts respectively within the company.
+Proactive Monitoring (24 X 7) of both Author & Publish Environments as well as activation/replication queues.
+Installed Fix packs, Cumulative Fixes and Refresh Packs on the Base and ND Versions.
+Configured CA Wily Introscope 9.x/10 for WAS, WebLogic, WCMS, JBOSS application servers
+Maintenance of the WebSphere Application Servers on disturbed platforms and setting up the development and testing and staging environment for the ongoing application development.
+Installed the Sun Access Manager Policy agents on the WebLogic servers, Involved in WCMS content management deployment and configuration.
+Creation, Building, Installing/Deploying new packages on AEM environments and automated deployment through release management tools.
+Installed the Sun Access Manager Policy agents on the Web logic servers.
+Installed and Configured J2EE Policy agents for WebLogic servers, deployed various WAR, JAR, EAR applications in clustered environment
+Configured and administered JDBC Connection Pools for JDBC Connections, on WebLogic 8.1 & 10.3.
+Involved in upgrading WebLogic Server 8.1 SP3 to Web logic Server 8.1 SP6 and WebLogic 10.3.5 and 12c.
+Involved in up-gradation of WebSphere from 7.0 to WebSphere 8.5 version.
+Deployed applications on multiple WebLogic Servers in a clustered environment and maintained Load balancing, high availability and Fail over functionality.
+Developed scripts for automatic startup and shutdown of Admin Server and Managed Servers.
+Configured Wily Introscope on the WebLogic servers during the startup of the servers to enable the Wily monitoring on the App servers.
+Installed Integrity Site minder Web agents 12.1 on the Sun one Webserver, IHS and apache.
+Responsible for Installation and Configuration of Oracle WebLogic servers, SUN Java Access Manager servers, Opens SSO AM policy agents, Sun one Web Servers.
+Involved in configuring the WebSphere load balancing utilizing WebSphere Workload Management (WLM) including horizontal scaling and vertical scaling.
+Package, build, integrate and deploy enterprise J2EE applications on WebSphere 6.1/7 that involves EAR, JAR, WAR files using AAT.
+Various system performance optimization, stability and scalability efforts in Adobe Platform including AEM Clustering, JVM Tuning, Application performance tuning, Network and Storage optimizations etc.
+Hands on experience in defining synchronized and persistent IBM MQ Series Queue/Topic Connection Factories, Queue/Topic Destinations to the Application Server.
+Managing cron jobs, batch processing and job scheduling.
+Debugged WebSphere Application Server connection pooling and connection manager with Oracle.
+Involved in load balancing of WebSphere and have to change the performance monitoring values at runtime.
+Creating the Problem Management Record (PMR) with the IBM if they are any unsolved bugs.
+Troubleshoot hardware and software problems, and interact with IT staff or vendors in performing complex testing, support and troubleshooting functions
+
+Environment: IBM WebSphere Application Server 8.0, 7.x, ND, Oracle SOA 11g, DB2, IBM HTTP Server 1.3.19/1.3.26, Linux 6.7, 7.3, IBM MQ v9.0, Tomcat v8.0, Weblogic 8.1, Siteminder Webagent v12.X, Windows 2012,2014 Server.
+
+Chubb Insurance - Warren, NJ Feb 2013 – Dec 2014
+WebSphere Admin/ Support Engineer
+Installed, configured and administered IBM's Web Content Management (WCM) component in WebSphere portal 6.1/7.0 on UNIX, Windows 2003 environments.
+• Installed Portal Clusters using horizontal & vertical clustering and deployed Portal Applications, Created Virtual Portals using separate Realms creation.
+Performed Tuning by implementing Workload Management (WLM) and setting up various parameters in Web server.
+Deployed WPS port lets pages and portal applications.
+Administered WebSphere Portal applications, which includes configuration, clustering, administration, performance tuning, deploying port lets/ pages, for portal applications.
+Involved in server log and domain log monitoring and application deployment of WebSphere Application server.
+• Installation and configuration of WebSphere Application Server V 5.x/6.x, BASE, ND on SUN Solaris platform. Fixing of configuration and installation problems.
+Installed, Configured, tuned Websphere Portal Server 6.0
+Installed fix packs to overcome WAS problems and installed SunOne WebServer Server.
+Hands on with setting up Environment for Application packaging and deploying Enterprise Application Archive (EAR), Web Application Archive (WAR), JSP’s, and Servlets in staging, production.
+Writing ANT scripts in XML to automate the builds process and good knowledge of WSADMIN scripts.
+Configuring of JDBC Providers, Data Source, Virtual Hosting, Global Security, SSL, LDAP.
+Problem Determination through the log files and rectified the problems or interacting with IBM support to solve problems.
+Design and test the build-in message-based Session Replication instead of the database based HTTP Session Persistence as HTTP Session Persistence Mechanism.
+Application support in testing with different testing tools (Load Runner, Rational Quantify), identifying issues and tracking bugs and solving the problems.
+Configuring WebSphere Application Server on multiple platforms for both horizontal and vertical scaling for Work Load Management.
+Collection of JVM statistics, garbage collection data for monitoring the heap and physical memory.
+Enabling Java Virtual Machine profiler Interface (JVMPI) for more comprehensive performance analysis.
+Update to new WebSphere security Model, includes role-based security model and Java2 security and JAAS.
+Implement Security using Administrative Security Subsystems (MONITOR, OPERATOR, CONFIGURATOR, and ADMINISTRATOR).
+Set up SSL between Web Server plug-in and Web Container using Self-signed Client-side Certificate.
+Assembled and deployed the application in staging, in productions, following change management practices and 24/7 support, worked in shifts.
+Analyzing Activity log files and diagnosing Application Server problems using Log Analyzer (wslogbr).
+Monitor and analyze and data with Resource Analyzer and Tivoli Performance Viewer (tperfviewer).
+Hands on with WebSphere Advanced Server on multiple platforms for both horizontal and vertical scaling.
+Workload management of EJBs and Servlets using Enterprise Java Services workload management.
+Good Knowledge of Edge Components Failover (Active/Standby), HTTP Server Failover (Active/Active), Web Container Failover, EJB Container failover, Session Affinity, Session Persistence.
+
+Environment: Websphere Application Server 5.x/6.x, Sun Solaris 8, Linux, Sun one Webserver 6.0, Oracle 10g, Windows 2000, J2EE1.3/1.2, Java2.0, JSP1.2, EJB2.0, JDBC2.0 and XML.
+
+T-Mobile - SanFrancisco, CA Apr 2012 – Jan 2013
+Middleware Web Administrator
+Installation and Configured WebSphere Application server version 6.1/6.0 ND.
+Administered, configured, tuned, and troubleshoot Websphere in a clustered environment on UNIX.
+Installation, configuration and administration of JBOSS Servers 4.3x/5.x/6.x.
+Installation and configuration of IBM Websphere Portal 5.1
+Involved in the migration of Websphere application servers from 4.x, 5.x to 6.1.
+Worked with security team on Tivoli Identity manager by creating security policies and deployed EAR on clustered environment.
+Mapped groups/roles in application server to have application level security and added simultaneously them in the LDAP.
+Enabled security and set Single Sign on.
+Involved in writing the jacl scripts for the automated deployment of applications on to the JVM’s.
+Deployed the Enterprise Applications in test and production environments
+Configured Virtual hosts and associated them with web modules
+Ran stress test to check the JVM and connection pools by Tivoli Performance Viewer.
+Tuned the JVM and Connection pool parameters on performance basis
+Created and managed the connection pools for Data sources of applications involving DB2, Oracle
+Troubleshoot the issues such as dead locks in connection pools
+Analyzed java cores and heap dumps.
+Applied Fix packs, efixes and upgraded WebSphere.
+
+Environment: IBM Websphere Application Server 4.0,5.1/6.0,6.1, WebSphere Portal Server 5.1, AIX 5.3, IBM HTTP SERVER v6.0, IBM Tivoli Identity Manager 4.6, Active Directory.
+
+Accent-e Technology – Bangalore, INDIA Mar 2010 – Mar 2012
+Java Programmer
+Extensively used ASP, HTML and SQL to create and design entire web sales reporting applications and database driven Financial Reporting System.
+Maintained the company’s e-Commerce web site and designed new web applications utilizing extensive knowledge of Java and web services.
+Prepared detailed design documents and program specifications for new and modified modules.
+Created several procedures, functions, packages and database triggers to implement the functionality in PL/SQL and Database Administration.
+Interacted with the DBA in creation of Indexes for query improvement.
+Maintained and supported existing and changed applications and database instances in production environment.
+Provided technical support as well as production support to the user community.
+
+Environment: Oracle7.x, SQL, j2ee, UNIX (Shell Programming).
+
+Contact this candidate

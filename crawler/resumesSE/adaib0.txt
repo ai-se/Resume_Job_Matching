@@ -1,0 +1,165 @@
+
+EXPERIENCE SUMMARY
+· Over ** years of product design experience including embedded system development. Extensive experience in testing and documentation of electronic systems utilizing microprocessors, digital and analog circuitry.
+· Performed as a Project Leader to define, develop new and existing products this included system/information collection, software requirements analysis, design, and code generation, testing and handling customer/installers problems.
+· Provided documentation of system functionality allowing installers to troubleshoot problems at the customer site.
+· Self-starter with exceptional skills in identifying problems, recommending and implementing solutions.
+· Designs have contained asynchronous and universal serial bus interfaces, Ethernet, digital I/O, J1939 CAN, A/D and D/A converters, Wi-Fi module interface and instrumentation circuitry.
+· Owned and operated Software Solutions Contract consulting firm since 1993
+EDUCATION
+Bachelor of Science Degree in Electrical Engineering: Ohio University (1977)
+BUSINESS SOLUTIONS SUMMARY
+· Cardiac Re-habilitation and remote cardiac monitor.
+· Radiation Monitoring Systems.
+· Commercial Vehicles.
+· Electronic Instrumentation and Metering systems.
+· Automatic bagging machines.
+· Automatic Guided Vehicles.
+· Underwater Vehicles including torpedo and noise making devices.
+· Autopilot and Fire control systems.
+· CNC torch cutting machines.
+
+TECHNICAL SKILLS SUMMARY
+LANGUAGES: C/C++and various ASSEMBLY LANGUAGE PROGRAMMING
+
+HARDWARE: Freescale/Motorola, MOTOROLA (68332, 68HC812, 6502, 6800),
+TI - MSP430, MicroChip, ATMEL PIC 16X family, INTEL (8051, 8051, 80186, 80188), ZILOG (Z80), TERN boards, Rabbit Z-world single board computer.
+
+REAL TIME OPERATING
+SYSTEMS: Vrtx
+
+DEVELOPMENT
+ENVIRONMENTS: Various IDE (Integrated development environments) including IAR
+
+EQUIPMENT
+TOOLS: Oscilloscopes, Logic Analyzers, In Circuit Emulators various debuggers, Vector CANalyzer.
+VERSON CONTROL: MKS(PTC), Perforce, Source Save and PVCS.
+
+PROFESSIONAL EXPERIENCE
+2018-2019
+Precise Biomedical
+Position: Software Engineer
+Wrote, modified software applications written in Visual Studio C++ for medical injectors.
+
+1993-2018
+Software Solutions Inc.
+Engineering Consulting Services
+Position: CEO/President
+Client: ScottCare a division of Scott Fetzer (www.scottcare.com/) Date: 9/1/02 to present
+Position: Contract, Project Leader.
+Develop a holter device for remote monitoring the electrical activity of the heart for up to 30 days including arrhythmias (Tachy, Brady, Pause and Afib).
+· Collected system requirements and analyze devices presently on the market.
+· Developed embedded system using Texas Instrument MSP430F2816 microprocessor, including user interface, data acquisition, real time clock, OLED, SD memory card, USB, serial interface and Wi-Fi interface.
+· PCB board design and layout.
+
+Total system responsibility for obtaining a solution for interfacing third party receiver/transmitter and printer to PC running client’s application. This system is presently being installed in cardiac rehabilitation centers around the country.
+· Collected system requirements from third party vendors including protocol interface.
+· Analyzed performance issues identifying potential problems prior to commitment.
+· Responsible for resolving manufacturing, testing and installation problems.
+· Wrote algorithms to handle incoming data from receiver and format it for acceptance by application for user interface.
+· Designed and wrote firmware using a Rabbit RCM3200 (zworld.com) including RS232 and Ethernet interface.
+· Used Atmel chips as master slave to collect and process incoming data from transmitters and send to Rabbit board.
+· Implemented version control using Source Save.
+· Placed two engineers at this client site writing Visual Basic applications.
+TECHNICAL ENVIRONMENT: ‘C’ and assembler, in circuit emulation using rabbit board from Z-world, debugging/troubleshooting hardware, software and third party equipment.
+
+Client: Bendix Elyria
+Date: 4/1/2007 – 8/15/2007
+Position: Contract Engineer
+
+Worked on Driver Display
+· Adding more modes of operation, processing CAN messages to control driver display including LED’s horn, distance to forward vehicle, following distance in seconds, cruise control on/off and active cruise control on/off.
+· CAPTURE event code has been developed which saves 10 triggered events saving vehicle speed and engine hours. Add ABS control event.
+· Developed J1939 CAN message to get capture event out of EEPROM
+· Code reviewed and checked into MKS
+
+Client: Bendix Elyria
+Date: 1/30/2012 – 9/30/2012
+Position: Contract Engineer
+
+Worked on DIU
+· Added Running hours to display.
+· Added displaying vehicle distance instead of engine hours.
+· Saving event history in EEPROM.
+· Completed the firmware for Lane Departure Warning including documentation.
+· Add Construction Zone Option to disable the Lane Departure Warning system momentarily.
+· Worked on Radar Alignment screens including processing CAN messages to indicate range of vehicle in front and alignment offset from Radar.
+· Code reviewed and checked into MKS
+
+Client: Automated Packaging Systems (http://www.autobag.com) Date: 3/1/02 to 9/1/02
+Position: Contract Engineer.
+Software development of keypad/display/rs232 device drivers for automatic bagging machines developed on custom board.
+· Analyzed hardware and software requirements.
+· Made suggestions regarding performance issues.
+· Designed display screens for user interface.
+· Wrote code to interface to keypad and display.
+· Installed a design that would allow conversion of text to different languages.
+· Provided software documentation for engineers.
+TECHNICAL ENVIRONMENT Written in ‘C’ and Motorola assembly language using a MC68HC812A4 processor debugging/troubleshooting hardware, software.
+
+Client: Thermo, formerly Bicron
+Date: 2/1/98 to 3/1/01
+Position: Contract, Lead Project Engineer.
+I worked on various projects for this client including systems which protect against illicit trafficking of nuclear materials and systems which allow networking of various radiation detectors. Analyzed technical requirements and developed a solution that satisfied the requirements.
+· Designed and developed code on TERN board (TERN.COM) written in C.
+· Provided code documentation to client including software design, database design document.
+· Won certification in ITRAP (Illicit Trafficking Radiation Assessment Program) conducted in Vienna Austria.
+· Development of radiation detection systems using RS485 network communication developed on TERN boards (tern.com).
+· Implemented software version control using PVCS.
+· Placed two other engineers at this location writing Visual Basic applications and embedded work and played a lead role in their work.
+TECHNICAL ENVIRONMENT Written in ‘C’ debug using in circuit emulator from tern.com. I implemented complex algorithms to differentiate background radiation from a true source to trigger an alarm condition.
+
+Client: CMC Cleveland Motion Controls
+Date: 1/1/96 to 2/1/98 (still presently doing projects for this client).
+Position: Contract, Systems Engineer.
+Software development of a CNC machine used to control torches for cutting steel.
+· Software requirements and functionality were evaluated and implemented into an existing object-oriented design using a real time operation system (Vrtx).
+· Worked with a team of six engineers.
+· Implemented on a Windows 3.x / Windows 95 platform for a 68332 target using Microtec Research toolset and Applied Microsystems emulators.
+· Used SourceSave as version control.
+TECHNICAL ENVIRONMENT: This product was developed on a Motorola 68332 using a real time operating system (VRTX) which included graphical user interface. Object oriented design written in C/C++ and Assembler debug using X-ray.
+
+Client: Fluke formally Victoreen
+Date: 11/23/93 to 12/31/95
+Position: Contract, Systems Engineer.
+I worked on a number of projects at this client site including area monitors, hand held radiation detect instruments and instruments to detect the integrity of X-Ray machines.
+
+NERO® mAx Victoreen® Model 8000 (http://www.imagingequipment.co.uk/index.htm)
+This product was designed and developed at the client site and is used to test the integrity of an X-ray machine. This instrument captures an X-ray image through a data acquisition system and displays the results. This system used an 80186 embedded controller.
+· Assisted in defining the specifications for the instrument.
+· Wrote device drivers for RS232, printer and real time clock (all interrupt driven).
+· Designed and wrote code for data acquisition, voltage to frequency measurements, and user interfaces.
+· Placed two other engineers at this location writing Visual Basic applications and embedded work and played a lead role in their work.
+TECHNICAL ENVIRONMENT: Code written in Borland C and Assembler on an 80186 custom board.
+
+Client: Scientific Columbus
+Date: 5/6/93 to 11/21/93.
+Position: Contract, Systems Engineer.
+Developed an electric meter used for power consumption measurements. This software was written in Borland C running on an Intel 80188 CPU.
+· Wrote test plans and developed code to test the integrity of the hardware.
+· Resulted in expediting the testing phase for production.
+TECHNICAL ENVIRONMENT: Code written in C and Assembler on an 80188 custom board.
+Analyst International Cooperation (AIC) 9/88 to 5/93
+This is a software consultant agency where I had two assignments. The following is a brief summary:
+
+Microprocessor-based instrumentation 4/90 to 12/92
+Software responsibilities included making modifications and or enhancements to existing software for a company, which manufactured microprocessor-based instrumentation.
+Portec - Automatic Guided Vehicle Program 9/88 to 2/90
+Responsibilities included software design, hardware/software troubleshooting and installation of an automatic guided vehicle project at General Motors CPC plant located in Parma, Ohio. This was a microprocessor based robotic system designed to deliver pallets of steel from a dock to a press.
+· Analyzed existing software scheme that controlled the vehicle during travel and station stops.
+· Customized instillation of existing system into automobile plant. Guide path was over one mile long with over thirty stations.
+· Resolved problems in the software algorithms which avoided costly hardware modifications to the facility.
+TECHNICAL ENVIRONMENT: Code written in ‘C’ and Assembler. I developed a table driven system for station stops allowing stations to be configured without code modification resulting in a solution that was easy to maintain.
+
+Permanent Position: Gould Ocean Systems.
+Date: 5/78 to 9/88.
+Position: Senior Staff Engineer.
+I was responsible for design and documentation of electronic assemblies for Self-Propelled Acoustic Target and EMATE.
+Responsible for software design (PLM and assembler) for an Acoustic Target.
+Designed Fire Control software for the Acoustic Target.
+Provided training, field service, and in-water demonstrations of the Target to U.S. and International customers.
+Wrote theory of operation, user, and operation and maintenance manuals.
+Worked on documentation and test equipment for the Mk 48 and ADCAP heavyweight torpedo.
+TECHNICAL ENVIRONMENT: Code written in Intel ‘C’ and Assembler. I had project responsibility for Fire Control. I wrote manuals and performed training and installation in Japan and Israel.
+
+Contact this candidate

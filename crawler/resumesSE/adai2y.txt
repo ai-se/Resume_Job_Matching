@@ -1,0 +1,118 @@
+
+ALIOU MAIGA
+917-***-****
+adai2y@r.postjobfree.com Skype ID : Aliou Maiga InfosecCybersec
+
+OBJECTIVE
+
+An employment opportunity in a Cyber Security Field.
+
+SUMMARY OF QUALIFICATIONS
+
+Well-versed and Cyber Team Player that can contribute to your company as a CYBER SECURITY ANALYST due to a proven record in building DEFENSIVE and PREVENTIVES strategies to effectively deal with any threat, incident response, intrusion detection, attacks analysis.
+
+PROFESSIONAL EXPERIENCE
+
+Cyber Security Consultant
+GSIA Technologies (CEO & Founder), Bamako, Mali, January 2014 to Present
+Planned and performed the global information system auditing for businesses and government’s services.
+Performed computer security incident response activities for the government’s services and businesses.
+Created or reinforced security policies, cybersecurity strategy plans, risk mitigation strategies for businesses and/or managed information systems risks.
+Operated black/white penetration testing during hours of operation to look for persistent threats using Nmap, Nessus, and Metasploit.
+Identified hostile activities or policy violation activities within Banks’ networks and vulnerabilities on their wireless ad-hoc networks.
+Solved false-positives and false-negatives alerts during network security penetration test using Wireshark and Event Tracker.
+Performed periodic and on-demand system audits and vulnerability assessments for the government’s services and businesses.
+Coached the identification of system confidentiality, integrity, and availability during training sessions with Banks’ employees and Hospitals’ IT professionals
+and innovated the way on how to classify data based on risks.
+Played a key role as a Consultant in the creation of a National CIRT (Computer Incidence Response Team) of Mali.
+Advised the Ministry of ICT (Information Commination and Technology), the Ministry of Defense, Banks’ Directors and employees, businesses, and graduate
+and undergraduate students over information security and cybersecurity projects.
+
+Our clients: Ministry of Defense and Veterans Affairs of Mali Headquarter, the direction of the Air Army, the direction of the Ground Army, the direction of the National Guard, the direction of the Secret Military, I-SEPT, SARL, CA.CO.GES, SARL, the Malian Police, the Youth Center of Mali, and TECHNOLAB-ISTA.
+Cyber Security Instructor
+Technolab-ISTA, IAM (Institute African of Management), ISC Business School, FAST (Faculty of Science and Technology) in Mali, September 2008 to November 2017
+
+Taught courses (Graduate and undergraduate students): Information Security Concepts and Admin, Ethical Hacking (Tools and Techniques), Security and Risk Management, Network Security and Website Security, Cyber Architecture /Cyber Kill Chain, Wireless Security, Application security, Cryptography, UNIX/Linux, Cyber Security Operations (Red Team), ISO 27001/ 27002 /27005/17799, NIST 800 30/32/37/53/55/80, Risk IT and Val IT, COBIT v5 and ITIL v3, and EBIOS.
+Courses Projects: Hacking website applications, cracking passwords, writing security policies, analyzing and reporting incident response and attack analyst
+using Packet Tracer, research USB Flash Drive Security, compare the following tools: NMAP, Wireshark, and Metasploit, exercises on Cryptography.
+
+Network Security Administrator
+The Peacekeeping School Alioune Blondin Beye (EMPBamako), Bamako, Mali, September 2009 to December 2013
+Designed and implemented network architectures enabling more network security, quick access to data and the internet by 60-percent.
+Customized security policy and implemented on the network which has decreased the system vulnerability by 20-percent.
+Evaluated Cisco pix-firewall change requests, assessed organizational risk, and applied proper security measure.
+Operated network vulnerability assessments and presented a weekly report to the Director of the Doctrine.
+Discovered potential cyber threats and mitigated them before any adverse impact on the information system.
+Investigated potential cybersecurity violation over the school’s network and reduced the impact of breaches.
+Administered identity and security access globally for all users (Militaries and Civilians) across multiples systems, servers, and applications.
+Managed EMPBamako’s IT infrastructure, network, and website (www.empbamako.org) daily to make it unique and effective.
+Advised the Director of the Doctrine over buying new technologies which decreased IT spending by 35-percent.
+Convinced IT Managers of Nigeria and Ghana to leverage investments and support common initiatives in the implementation of the new stand- by force
+database for three Peacekeeping Schools (EMPBamako of Mali, KAIPTC of Ghana, and NDC of Nigeria).
+
+IT Manager
+Agetic (Section Research & Development), Bamako – Mali, West Africa January 2007 to August 2009
+Led team of six (software engineers and developers) to assess government projects and provided on-site training and coaching, which has achieved a cost-
+reduction by 20%.
+Played a key role in Cyber Security and ICT Projects for the government by reducing additional costs over Internet services and new technologies.
+Advised on Physical Security Policy of the new Data Center, which has increased awareness by 15.
+Conducted researches, developments and implementations of government’s IT Projects and provided on-site training and coaching, which decreased a cost
+reduction by 20-percent.
+Evaluated cyber security projects to fit the given budget for new technologies.
+Upgraded physical security policy while building up the new data center, which has increased awareness by 15-percent.
+Coordinated on multi-dollars projects of the government such as: Universal Access of Telecommunications services (Consultant ICEA from France), Cadastre
+Software Application to manage Malians’ landscapes (Daleelteq from Tunisia), Software Application to manage the State employee (Daleelteq from Tunisia), Government sectors Indicators, Software Application to manage emails and others documents of the government (Made by CEFIB in Mali), and the government’ Intranet WebSphere.
+
+Network Technician
+Menlo Logistic/NCR, Suwanee - GA February 2001 to October 2002
+Installed and configured Cisco Router series: 800 / 1800 / 1900 /2800 / 2900 / 3800 / 7200/7600/ series, Cisco Catalyst 500 / 1900 / 2900/3500/6500,
+Cisco ASA5510-BUN-K9 Security Appliance, and Channel Bank.
+Tested and upgraded Cisco IOS for conformity which has decreased errors by 20%.
+Created a new configuration manual for the network team.
+
+EDUCATION AND CERTIFICATIONS
+
+Master of Science in Information Technology
+Kennesaw State University - Southern Polytechnic College of Engineering and Engineering Technology, Marietta, Georgia, 2006
+Bachelor of Science in Computer Science
+Kennesaw State University - Southern Polytechnic College of Engineering and Engineering Technology, Marietta, Georgia, 2003
+Training Certifications
+Silicon Valley, Norcross, GA 2003
+Completed Training in: Cisco Certification Network Administrator (CCNA), Microsoft Certified Systems Engineer (MCSE), A+ Core/Dos, and Network+.
+
+PROFESSIONAL SKILLS
+
+Audit and Compliance: ISO 27001/27002, NIST 800 series, Risk IT, Val IT, COBIT v5, ITIL v3, CSIRT, and SOC Tier 1. Basic knowledge on: CTI, STIX v2.0, TAXII, ATT&CK, CYBOX, and PCI/DSS (Compliance and Requirements).
+
+Information Security and Assurance /Cyber Defense: Security Policy, Risk Management, Security Audits, Vulnerability Assessment,, Security Architecture, Security Operations, Access Control, VLAN Security,, Security Policies (Social Phycology), Wireless Security, Web Security, Physical Security, Cloud Security, Cryptography, and ID Management.
+
+Security Tools (Working Experience and/or Knowledge): Splunk Enterprise Security, McAfee Enterprise Security Manager, IBM QRadar, LogRhythm Security Intelligence Platform, Micro Focus ArcSight ESM, Micro Focus ArcSight ESM, EventTracker, Snort, Core Impact, Kali Linux, Nessus, Metasploit, Wireshark, NMAP, Cisco PIX Firewall, Enterprise Antivirus MacAfee, IDS/IPS, TCP/IP, HTTP, IPv4/IPv6, Windows 2008 and 2012 servers, LOG Analysis (Kiwi Syslog Server, SolarWinds Log Analyzer, ManageEngine EventLog Analyzer), Active Directory, and ELASTICSEARCH & KIBANA.
+
+Programming: C++/C, Unix/Linux, Algorithm, PHP, MySQL, Perl, Python, JavaScript, Ajax, VB Script, Shell Scripting, HTML 5, CSS 3
+
+RESEARCH INTERESTS
+•Network Security
+•Cyber Security
+•System Security
+•Cloud Security
+•Artificial Intelligence
+•Cyber Physical System
+•Risk Management
+•Cryptography
+•Privacy
+•Data Mining
+•Digital Forensics
+•Assurance Data Driven Security Analytics
+
+HONORS
+Congratulated by six Ministries of the government in Mali during the annual conference organized by the International Union of Telecommunication (IUT) by being a guest speaker on Cybercrime & Cybersecurity for five years (11/2009 to 11/2012).
+
+ACTIVITIES
+Continuously Research on Cyber Security News and Events using some sources such as: www.govinfosecurity.com, www.healthinfosecurity.com, www.bankinfosecurity.com, www.infosec.gov, www.dhs.gov, www.us-cert.gov, www.nsa.gov, techtarget.com, and many more.
+Actively pursuing CISM, CISA, and CEH certifications training.
+
+REFERENCES
+
+Furnished upon request.
+
+Contact this candidate

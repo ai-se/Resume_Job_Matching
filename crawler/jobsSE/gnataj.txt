@@ -1,0 +1,20 @@
+
+WorkForce Software is looking for an experienced Software Engineer to join our collaborative Agile team.
+
+This role will involve designing and delivering new capabilities within our suite of smart scheduling solutions with quality as your prime focus.
+
+As a Software Engineer you will have experience designing large scale applications using PHP and have experience in enterprise software development.About usWe are a world leader in cloud-based smart scheduling that drive increased customer service and top line revenue.
+
+Our optimised scheduling provides visibility for leadership teams, empowers managers to make local decisions and engages with employees like never before.We are a global collaborative team who believe in having fun and being passionate about what we do.
+
+We treat our colleagues and customers with integrity.
+
+We focus on our customer needs to make sure we can deliver innovative products that they love, helping them find solutions that meet their business challenges.We want to work with colleagues who feel the same way and share these values.About youThe ideal candidate will have experience developing large scale SaaS applications using PHP, with an interest in or industry experience of modern JavaScript UIs preferably using ReactJS.On your first day, we’ll expect you to have:• In depth knowledge of developing software using PHP, MySQL, Apache, Linux, HTML, CSS, XML, RESTful, MVC and Git• Experience with automated test frameworks; PHPUnit, Behat, Jest, Enzyme, CucumberJs• Solid knowledge and experience of object-oriented programming principles, design patterns and open source frameworks, including MVC and REST, as well as a common open-source framework which implements them• Experience designing and developing large scale SaaS applications• Excellent problem-solving skills• Ability to identify and architect technical solutions to problems• Experience working within a microservices architecture• Experience working in a collaborative Agile engineering team• Experience coaching or mentoring less experienced engineers• Experience reviewing and giving feedback on code developed by peers • Experience proactively sharing knowledge and experience • Experience leading and driving initiatives • Passionto learn how individuals do their job and how software can Make Work Easy • Passion for expanding your engineering skillset and learning from/teaching others, as well as a drive for self-motivated learning and knowledge sharing • Excellent teamworking skills and ability to work as part of a cross functional team • At least 5 years relevant experience in a similar role • Good organisational skills and ability to manage own and others' workloads • Excellent written and verbal communication skills • Attention to detail and a high standard for quality • Ability to communicate technical concepts • Eligibility to work in the UK• Experience using ReactJS, TypeScript, Redux and ReduxThunk • Experience with CI/CD using Technolgies like Jenkins • Experience with Infrastructure as code using technologies like Chef, Docker • Experience leading successful delivery of software solutions • Experience in technical leadership; owning and communicating a technical solution• Batchelor’s or advanced degree in Software Engineering preferred or equivalent.As a Software Engineer, you will be joining a cross-functional team that deliver working software at a regular cadence.
+
+You’ll work closely with Product, Architecture, and Cloud Operations to deliver functionality as part of an enterprise-scale platform.
+
+We aim to leverage modern technologies to continually improve our products to meet our customer’s needs.
+
+
+Go to apply 
+

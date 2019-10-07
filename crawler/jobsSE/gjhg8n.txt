@@ -1,0 +1,34 @@
+
+We are looking to add to our team here with our partners in the Madison, WI region. You will be located at our URUS headquarters supporting both the VAS and AgSource teams.
+The Quality Assurance Engineer will be responsible to provide a consistent, standardized, best practice approach to performance testing across our products. This can be done using current tools and technology throughout our platform and products.
+Key Responsibilities
+Participate as a member of the Engineering team to build software applications.
+Work with the Product Lead and development team to understand user stories and transform them into high quality software applications and features.
+Work closely with Development to produce high quality software.
+Perform manual testing of the software platform to ensure the quality of delivered products.
+Identify and document issues/bugs/ and cases, communicate to other team members effectively.
+Direct User Acceptance Testing efforts among product stakeholders.
+Smoke test new environments, merged environments, production pushes as needed.
+Be/become a SME on usage of entire application suite, processes, workflows, etc.
+Perform manual testing on mobile devices.
+Help newer internal staff understand and use the system effectively.
+Research new test automation possibilities across all areas of the system.
+Provide recommendation on QA testing tools based on industry standards.
+Track quality assurance metrics, like test coverage, and defects.
+
+Position Requirements
+5+ years' experience working in quality assurance for a software development team
+Bachelor's/Master's in Computer Science, Engineering or related subject is a plus
+Strong knowledge of software QA methodologies, tools, and processes
+Experience in writing clear, concise and comprehensive test plans and test cases
+Hands-on experience with automated testing tools
+Hands-on experience with Jira and Confluence
+Solid knowledge of SQL and scripting
+Experience working in an Agile/Scrum development process
+Experience with performance and/or security testing is a plus
+Experience working within a remote working environment is a plus but not a must
+Experience with dairy related data is a big plus
+
+
+Go to apply 
+

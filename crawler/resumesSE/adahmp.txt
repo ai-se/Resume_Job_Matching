@@ -1,0 +1,39 @@
+
+Aswin Prabhakaran M: +91-701*******; adahmp@r.postjobfree.com
+EDUCATION
+B.E.(ECE) 76% K.S.R. College of Engineering,Tiruchengode 2018
+Intermediate 89% ST.Joseph’s. Mat. Hr. Sec. School, Tirupur 2014
+Matriculation 90% ST.Joseph’s. Mat. Hr. Sec. School, Tirupur 2012 ADDITIONAL INFORMATION & OTHER ACHIEVEMENTS
+Good knowledge of statistics and machine learning algorithms like Linear & Logistic Regression, Clustering Algorithms like KNN & K means Clustering, Decision Tree & Random Forest, NLP, PCA, Support Vector Machines & Recommender Systems, Data Visualization etc.
+Basic understanding of deep learning frameworks like TensorFlow and Keras.
+Certified by Udemy for completing “Python for Data Science and Machine Learning Boot camp” course.
+Participated in online “Hackathon” conducted by Kaggle.Com
+Undergone six months Project Readiness Program (PRP) training conducted by Wipro Technologies in campus.
+Participated in ten days immense training on Programming Fundamentals conducted by Infosys under Campus Connect.
+Trained and Certified by Oracle University on completing fundamentals of Unix, Linux and SQL CO- CURRICULAR PROFILE
+Won 3rd prize in Paper Presento on “E-Waste” held at Banari Amman Institute of Technology on 17th & 18th of March 2015.
+Participated in the Code Challenge conducted by K.S.R. College of Engineering, Tiruchengode in 2016.
+Won many prizes in competitions like Group Discussion, Spell bee, Oratorical & Debate conducted by English club of K.S.R. College of Engineering every year.
+Overall Coordinator of Placement Activities &Technical Symposium “BLOOM2K16” conducted by Department of Electronics and Communication Engineering in 2016. WORK EXPERIENCE
+Associate Data Scientist – Datakalp LLP, Bangalore, India June 2019 – Present I. NLP
+Developing Natural Language Interface for Relational Database aka Chabot where in a natural language question is parsed to frame SQL queries for RD using advanced Machine Learning framework like Rasa II. Computer Vision ( Video Analytics)
+Developing scripts for generating visualizations on the models predictions against the ground truth.
+Generating the input data from the recorded videos and performing preprocessing by classify the objects in the frames extracted from videos
+III. E-commerce Industry
+Provided analytical insights on the inventory data by performing visualizations and generating plots and graphs to address the business problem.
+Associate Software Engineer – Oracle Corporation, Bangalore, India 13th August 2018 – May 2019 I. Time Series Forecasting
+With the data-set of records of Daily Incidents received, Forecasted with a POC to the client on the amount of the Incidents that could be possibly expected to receive across different modules.
+Analyzed the pattern of Incidents received on individual modules and suggested the common cause and nature of incidents through Word Cloud
+II. Performed Data Visualization & Analysis on real time datasets using Python III. Worked in ERP, BRM (Billing and Revenue Management) and SQL. ACADEMIC PROJECTS
+Marine Alert System to Assist Fishermen Rescue Operation Using Raspberry-PI, Accelerometer, ZigBee & Gps
+User Validation (Sign-In & Sign-Up) Webpage using HTML, CSS, Bootstrap, Angular-JS, Sql. Website Link: http://aswinguviproject.000webhostapp.com
+Credit Card Bill Generator using Java.
+Practiced Linear Regression on E-Commerce Datasets and Logistic Regression on Titanic Dataset.
+Performed Clustering Operations using KNN Algorithm
+Practiced Data Visualization and Analysis on Data Capstone Projects on 911 calls dataset from Kaggle Personal Details:
+Name Aswin Prabhakaran
+DOB 25-10-1996
+Present Address 70, 34th dollar scheme, Madiwala, Bangalore Languages English, Tamil, Kannada
+(Aswin P)
+
+Contact this candidate

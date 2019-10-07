@@ -1,0 +1,22 @@
+
+Title: Senior Software Engineer Location: Milwaukee, WI Duration: 06-12+ Months.
+Interview: Phone and Skype.
+Only USC/GC.
+The ideal candidate has expert level knowledge and experience in writing testable Java code, constructing valuable unit tests and implementing all of the organization''s code quality standards and practices.
+By being embedded within application engineering teams this individual will get to perform hands-on feature development as well as contribute to efforts to develop a grassroots movement for sharing best practices around writing unit tests as well as testable code throughout the company.
+What To Expect: Within the first month - Begin learning and contributing to the project codebase to which you are assigned.
+Become an active individual contributor to the overall project s initiatives which includes Java/Maven for application development, gitlab for source code control, gitlab ci for continuous integration/continuous delivery and Docker/AWS/Kubernetes for deployment.
+You will start to handle minor bug fixes, develop features that support the project, and begin writing testable code with appropriate tests in place.
+Within two months -Full integration into the project where you are capable of developing features and demonstrate your ability to write highly testable code with all appropriate tests completed.
+Engage with other SDETs as well as project stakeholders to define and maintain the project s backlog and begin to take ownership of all aspects of the project s SDLC.
+Begin to mentor, guide and assign work to junior engineers to assist you in your endeavors Within three months Become a driving force in all aspects of the assigned project and contribute to the overall goals of the SDET organization.
+Take ownership of the project and work with other senior staff as well as senior leadership to deliver effective and efficient solutions by setting reasonable and achievable goals.
+Job Requirements: - Bachelor''s degree or Associate''s degree in Computer Science or a related field - 7+ years professional DEVELOPMENT experience in Java (Must have Dev experience, not just Java Testing experience) - White box testing experience REQUIRED - 5+ years writing and debugging multithreaded Java applications - 3+ years'' experience with REST / SOAP services and clients - Working knowledge of the Spring Framework - Working knowledge of JUnit testing - Experience with Github or Gitlab for source code management - Bachelor''s degree or Associate''s degree in Computer Science or a related field.
+Additional Requirements: - Proven results of delivering while working within an application engineering team.
+- Proven experience of mentoring team members.
+- Ability to take initiative and work with minimal supervision.
+We value autonomy here and want you to be the type that thrives in that environment.
+
+
+Go to apply 
+

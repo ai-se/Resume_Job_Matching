@@ -1,0 +1,31 @@
+
+Danny deLeon
+678-***-**** ● adaghd@r.postjobfree.com ● https://www.linkedin.com/in/danny-deleon/ ● Springville, UT 84663 PROFESSIONAL EXPERIENCE
+Special Projects @ Nihlo Sep 2018 - Pres
+• Create and manage dashboards and reports of finance data and number of products sold
+• Build and manage entire data organization of the company Senior Data Analyst II @ DealerSocket Aug 2015 – Mar 2019
+• Produced tools for department via SQL scripts, PowerShell scripts, and macro-spreadsheets
+• Identified process issues between Data and other departments; proposed and facilitated solutions
+• Trained 50+ co-workers and new hires, and accelerated productivity of new Data Analysts to be 100% faster
+• Solved high-priority tickets for key clients and system-wide issues frequently, and led Analysts as needed
+• Analyzed data by writing complex SQL queries and joins to identify root causes of issues, and devised intricate solutions to resolve these data-related issues
+• Communicated effectively with and trained clients, 3rd party vendors, and the Engineering and Support departments regarding integrations, software setup, escalated support issues, enhancements, and bug fixes Co-Founder @ Rentie Jul 2017 – Jan 2019
+• Designed and developed relational database of 15 tables for use by Rentie
+• Fostered business skills by completing tasks for all departments (Finance, Marketing, HR, Legal, etc.)
+• Corresponded with Product by carrying out QA testing to identify bugs and recommending feedback
+• Organized technical setup of the company by creating and managing 15-20 administrative accounts Database Engineer Intern @ Church of Jesus Christ of Latter-Day Saints Jan 2015 – Apr 2015
+• Improved efficiency of database refreshes by reducing multiple steps to a single step and correcting errors
+• Compiled and distributed management reports; updated reports to represent more relevant and current data
+• Increased department productivity by cleaning data, removing process errors, and making test environments Lab Assistant @ CIT Department, BYU-Idaho Apr 2014 – Dec 2014
+• Mentored 30+ students by improving concept knowledge and enhancing problem-solving abilities EDUCATION
+Brigham Young University – Idaho Jan 2013 - Jul 2015 B.S. Information Systems, 3.9/4.0
+• Minor: Latin American Languages (Spanish & Portuguese) / Emphasis: Accounting Information Systems
+• Completed 140 credits in 2.5 years and obtained full Academic Scholarship for 6 consecutive semesters Projects
+• Coded Excel (VBA) Financial Models, including: Mortgage Model, Refinancing Analysis, Stock Ratios Analysis, Bonds Model, Asset Allocation
+• Developed rexburgbooks.com, a web application enabling students to sell textbooks to their peers VOLUNTEER EXPERIENCE
+I-Rep Volunteer New Student Orientation, BYU-Idaho Sep 2014 Full-time Missionary – Rio de Janeiro, Brazil & Los Angeles, CA Oct 2010 – Oct 2012 SKILLS AND ACCOMPLISHMENTS
+• Technical Skills: Microsoft SQL, Java, C++, PHP, VBA, AngularJS, JavaScript, HTML5, CSS3, MySQL, Oracle PL/SQL, Access, JSON, XML, PowerShell, Linux, ADA, Pascal, NoSQL, Microsoft Office
+• Language Skills: English (native), Portuguese (fluent), Spanish (conversational)
+• Earned Eagle Scout Award (2009)
+
+Contact this candidate

@@ -1,0 +1,45 @@
+
+RESUME
+KALADI VENKATA SRINIVAS Mobile : +91-798*******
+Dr.no.5-13-046,Savithrinagar, E-mail : adaitl@r.postjobfree.com YANAM-533464
+Objective
+To work in an organization that will provide me an opportunity to utilize my skills in the contribution to organizational goals and aim at perfection through continuous development of professional skills.
+Professional Experience
+Currently working as a NETWORK OPERATIONS ASSOSIATE in NOKIA CHENNAI from JANUARY -2019
+Designation : NETWORK OPERATIONS ASSOSIATE.
+Project : VFI (Vodafone India).
+Project Type : Alarm Monitoring, Fault Management System. Skills : 2G, 3G &4G Network.
+Tools : RAS, AWE, Reflection, BMC Remedy, Net Act 16 AMS, Citrix. Roles and Responsibilities
+• Monitoring real time alarm window, work on Critical, Major and Minor alarms, Raising Trouble Tickets assign work order for those Alarms, taking necessary action on that alarm to clear the alarms 2G BTS & 3G NODEB’S &4G SRAN SITES & MRBTS SITES Alarms.
+• Monitoring the functionality of Vodafone Network of India 24*7 Standards.
+• Real time monitoring of BSS alarms, Fault analysis and Trouble shooting.
+• Alarm escalation and creating TT/Work Orders to Field Engineers and cluster manager using BMC Server software.
+• Close monitoring and minimizing of Equipment Related Alarms.
+• Escalation of the problems to higher level technical support center and regular follow up till 100% resolution.
+• Generating Outage and Network availability Reports
+• Traffic measurement and Analysis.
+• Escalation of faults and maintaining the records of the Analysis & troubleshooting the BTS, TRX’s and also call drop issues through MML commands.
+• Preparing of 24Hrs cell outage, Network outage reports and active alarms reports.
+• Supports end to end operations, coordinating with Circle team, Technical Support
+• Group (TSG),NSS and Transmission team for network related issues.Trouble Ticket Management through BMC Remedy and AWE (PT4) raising work orders.
+• Analyzing & rectifying BTS, WBTS & SBTS related alarm.
+• Raising the work orders/ Trouble tickets for resolution of Transmission related issues and suggesting the O&M Engineers for Rectification.
+• Follow up with the field team for Work order /Trouble ticket closure with in SLA Academic Profile
+B.Tech in Electronics &Communication Engineering GPA : 80% Sri Manakula Vinayagar Engineering College, Puducherry May2018 Diploma - Dr.B.R.Ambedkar polytechnic college, Yanam Percentage: 88% April-2015
+SSLC- M.G govt boys high School,Yanam Percentage: 72% March-2012
+Technical Skills
+Applications Tools : CCNA(NETWORKING),MS Excel,PowerPoint,MS Word Area of interest : Networking, Digital Circuits
+Academic Project
+Implementation Of Rf Energy Harversting And Management Using Chopper Circuit Description: This project deals with the harvesting of energy based on the RF source here the power is transfer from the antenna, there by using the impedance matching is done so that to gain more power from tower and the rectifier circuit convert an incoming RF signal to DC signal that is fed into battery an efficient rectification improves the output power. Personal Information
+Father’s Name : SURYANARAYANA KALADI
+Mother’s Name : NAGALAKSHMI KALADI
+Date of Birth : 04-09-1996
+Marital Status : Single
+Nationality : Indian
+Language : Telugu, English and Tamil(speak)
+Declaration
+I hereby declare that the information and facts stated above are true and correct to the best of my knowledge and belief.
+Place: Chennai
+(KALADI VENKATASRINIVAS)
+
+Contact this candidate

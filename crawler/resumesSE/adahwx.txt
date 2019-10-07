@@ -1,0 +1,93 @@
+
+PRASOON KUMAR
+Email – adahwx@r.postjobfree.com
+Mobile – 702-***-****, 861-***-****
+
+PROFILE SUMMARY
+
+3+years of professional experience in Functional and manual testing, test analysis, Test case design techniques. Easy collaborate with team members to accomplish milestones. Experience in multiple projects like Retail and Manufacturing.
+
+EXPERIENCE
+
+Apr 16–Apr 2018 : Software Trainee in Wankys Software Technologies (p) Ltd.
+Apr 2018-Till date :Test Engineer in Wankys Software Technologies (p) Ltd.
+
+CURRENT EMPLOYER
+
+Organization : Wankys Software Technologies Pvt Ltd
+Designation : Test Engineer
+Duration : Since Apr-2016.
+
+TECHNICAL EXPERIENCE
+
+Operating Systems : Windows 7, Windows 8, Windows 10
+Databases : Oracle Sql 10g
+Bug Tracking Tool : HP-ALM
+Test Management Tool : HP-ALM
+
+ROLE SUMMARY
+
+Hands on experience in Smoke, Functional, Integration, System, Compatibility, Regression, Usability, Adhoc, and Exploratory Testing.
+Understanding and contributing to Test Plan. (Tool used for defect tracking, Template used for writing Test case).
+Good knowledge of SDLC (Software Development Life Cycle).
+Experienced in STLC (Software Testing Life Cycle).
+Understanding the client requirements, preparation and review of Test Scenarios & Test cases for SRs and Projects.
+Professional software experience in Test Case Design Technique and Test case Preparing.
+Extensively worked on test management tool ALM.
+Worked in Agile, V testing model and Spiral testing model.
+Experience in writing SQL Queries for DDL, DML, TCL operations, SQL Joins, Sub Queries and query related to Functions
+
+PROJECTS HANDLED ACROSS TENURE
+
+Project 2 : White Iron
+Domain : Manufacturing
+Models Followed : Agile & Hybrid (Prototype +V)
+Tools Used : HP ALM
+Description : My client owns a manufacturing unit, where many departments where using different software. So it was very hectic task for them to retrieve the data from each and every department at once with accuracy. There are lots of data duplicity and data redundancy.
+
+ROLES & RESPONSIBILITIES
+
+Understanding the Customer Requirement Specification (CRS) and Prepare Test scenario.
+Reviewed Test Cases.
+Executing the Test cases and analyzes the Test Results.
+Experienced in non- functional Testing like Adhoc and exploratory testing.
+To send the Test report to the test lead on daily basis.
+Involved in defect status reporting, prepare Bug report and release note.
+Documented the mistakes and achievements related to the project.
+Actively involved in meetings like Brain Storming, Impact analysis and standup meetings.
+Actively involved in Agile like Daily scrum meeting, Sprint retrospective Meeting, Product Backlog meeting etc.
+
+Project 1 : Box Wish
+Domain : Retail
+Models Followed : Hybrid (Prototype +Spiral)
+Tools Used : HP ALM
+Description : My client was using spreadsheet to store customer’s details but as the business is growing the number of customer was also increasing so it become a hectic task to store such a huge data in spreadsheet. It was very tedious job to retrieve the data when required. There was not any follow up feature in spreadsheet because of this my client was not able to follow up the potential customer resulting in losing the customer. My client was also unable to keep the record of the activity of the potential lead and fails to give response.
+
+ROLES & RESPONSIBILITIES
+
+Understanding the Customer Requirement Specification (CRS) and Prepare Test scenario.
+Executing the Test Cases and analyze the Test results.
+Reviewing Test cases.
+Involved in meeting like Brain Storming, Impact analysis and standup meetings.
+
+EDUCATIONAL QUALIFICATION
+
+B.E – Aarupadai Veedu Institute of Technology, Chennai 2009-13
+
+PERSONAL INFORMATION
+
+Date of Birth : Oct-20-1991
+Languages : English and Hindi
+Nationality : Indian
+Address : Jealgora New Colony
+PO-Jealgora
+Dist. - Dhanbad (Jharkhand)
+
+DECLARATION
+
+I hereby declare that the details furnished above are true and complete to the best of my knowledge and belief.
+
+Place: - Bangalore.
+Date: - (Prasoon kumar)
+
+Contact this candidate

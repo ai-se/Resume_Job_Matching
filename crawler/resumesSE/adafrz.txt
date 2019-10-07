@@ -1,0 +1,127 @@
+
+RADHIKA GUNUGANTI Email: adafrz@r.postjobfree.com
+Phone: 972-***-****
+
+Professional Summary
+* ***** ** ********** ** Software Quality Assurance Testing on various platforms and development environments. Proven experience in testing methodologies and the entire Testing Life Cycle which included developing Test Plans, Test Strategy, and Test Scripts and executing the Test Scripts and analyzing the error logs.
+Strong understanding of the Software Development Life Cycle (SDLC) and QA Methodologies.
+Experienced with the Scrum method of Agile software development.
+Proficient in analyzing Business/ System Requirement Documents and Use Cases.
+Skilled in writing Test Plans, Test Cases, Test Procedures, and Test Scripts from requirements and Use Cases.
+Experienced in Software Analysis, Requirements Management, and Quality Assurance.
+Familiar with Mercury Testing tools (Test Director, QC and QTP).
+Experience in CRM system which Improve business relationships.
+Experience in working with Automation Testing tools like Selenium IDE, Selenium Web Driver, QTP/ Unified Functional Testing (UFT) and Win Runner.
+Having good experience in HP QC for Test Management and bug lifecycle.
+Expertise in developing Test Procedures, Test Scenarios, Test Conditions, and Test Cases.
+Proficient in different phases of Testing like Black Box Testing, White Box Testing, Functionality Testing, Unit Testing, Integration Testing, System Testing, Backend Testing, Load Testing, Regression Testing and User Acceptance testing.
+Expertise in Defect Reporting, Analyzing, Tracking, Closing, and Report Generation, using various Defect Tracking Tools like JIRA and Bugzilla.
+Experience in Black box testing with a complete QA cycle from testing, defect logging and verification of fixed bugs.
+Has good knowledge of web technologies like Web Services, SOAP, XML, HTML, JSON, JavaScript, Java, C and C++.
+Strong understanding of Database Management Systems (Oracle, SQL Server).
+Extensive working knowledge in UNIX and Windows platforms.
+Excellent interpersonal and customer relationship skills. Proven Communication, presentation skills and leadership qualities.
+Ability to work independently and as part of a team; Detail oriented and able to do multi-tasking.
+
+Visa Status:
+Permanent Residence (Green Card)
+
+Education / Certification
+
+University: Jawaharlal Nehru Technological University (JNTU), India
+Masters in Technology (Computer Science)
+
+University: Kakatiya University, India
+Bachelors of Science (Computer Science)
+
+Employment History
+Ansira, Dallas (June 2018 to Present)
+QA Specialist
+
+Digital email campaign and website testing for major Clients including Panera, Benihana, Purina, Baskin-Robbins, Avis, Sally Beauty, Nothing Bundt Cakes.
+Testing of client emails and website enhancements and advertisement pages including all back-end functions.
+User experience testing of data driven models (Emails, Websites).
+Data driven back end testing using SQL.
+Defect tracking using JIRA.
+Test case creation for client system testing including credit card and online pay systems.
+Project tracking and defect tracking using QMetry(test management tool), Mantis(bug tracker) and Jira.
+Mobile testing for both IOS and Android using Browser stack.
+Multiple applications, websites and emails for responsive/functional testing and OS compatibility using Safari, Firefox, IE, Chrome and the Android Browser. Used Litmus to emulate mobile phone OS's and devices for testing purposes.
+Environment: JIRA, MS Office, .Net, HTML, CSS, Browser Stack.
+
+Acosta – Mosaic, Dallas (December 2016 to Feb 2018)
+Quality Assurance Analyst
+
+Involved in testing various features of the Mosaic Application. This is a web-based application.
+Worked closely with authors of Use Cases and requirements to understand the purpose of new and changing systems/components.
+Wrote Test Cases, Test Scripts and Test Conditions using standard templates.
+Executed Test Cases and logged the results in a test management tool.
+Worked closely with Software Developers on specific software problems, as well as provided feedback on the overall software quality.
+Performed quality testing for websites, applications and reports.
+Automated test cases using Selenium WebDriver. Execution of test scripts using Selenium WebDriver.
+Wrote project specific Test Plans for assigned project work.
+Participated in estimation of effort for assigned project work.
+Worked directly with customer (B2B model) to understand the business problems and requirements of CRM strategy, which included presentations, demonstrations of the technology and meetings with the leaders of marketing and sales departments.
+Generated documentation of the customer requirements and project plan (functional specification, time management and coordination).
+Designed and developed CRM solutions with Dynamics CRM Microsoft and monitoring all the project stages.
+Attended daily status meetings to update the status of the work.
+Experience testing iOS and Android devices.
+Knowledge of Agile methodology for software development.
+Used TestRail to store Test Cases and JIRA to raise issues.
+Used SQL Server to run the scripts in backend and test.
+Environment: TestRail, JIRA, MS Office, Microsoft SQL Server Management Studio, .Net, CRM System
+
+Iridium Satellite, AZ (January 2016 to September 2016)
+QA Analyst
+
+Involved in testing (Customer Billing Software), Rating and Billing module. B/R was the core module of the application, which specifically contained Billing information and Rate Plan Configuration.
+Performed Manual and Web Service testing of the application. Web Service testing was done with Soap UI 5.1.2.
+Involved in loading and validating the WSDLS in SOAP UI and preparing the Request XMLs.
+Involved in API Testing-Postman rest client-xml, json.
+Worked on environments’ setup and maintained the test environments.
+Involved in Requirements meeting.
+Involved in Writing Test Plans and Test Cases based on Business Requirements.
+Working with an Agile Scrum methodology to ensure delivery of high-quality work.
+Performed Integration, System, Regression, and Smoke testing to test the application functionality.
+Performed End-to-End testing manually.
+Maintained the Selenium automation scripts.
+Performed Front-end and Back-end testing.
+Reported status of the project to the Manager on a weekly basis.
+Prepared the documents related to the testing activities.
+Participated and involved in Status meetings.
+Maintained defects in Bugzilla and participated in Defect Review meetings and GO/NO-GO meetings.
+Maintained test logs, test suites and reports.
+Provided complete project status transparency to keep everyone up to date.
+Effectively communicated back and forth between the Development team and Content team.
+Made sure that all the requirements were covered by the Test Cases and performed testing.
+Environment: Bugzilla, JIRA, Perl, Selenium, Soap UI, SQL Server, RAM (Revenue Assurance Manager), UNIX, Linux, MS Office
+
+The Boeing Company, Renton, WA (December 2011 to November 2015)
+QA Engineer
+
+As part of MES project, was involved in Manual Functional testing/ Regression testing of Boeing – Manufacturing Execution System (MES), namely NCM (Non-Conformance Management), SV (Shop view), CAPP (Computer Aided Process Planning), and MC (Mass Change). NCM was used to document and track quality issues in the manufacturing process. SV was used to print and view various shop orders and plans. CAPP was used to author work instruction for installations and assemblies. MC application was used to propagate changes to multiple plans. Scope of this project was to provide maintenance and enhancements to the systems and fix the problem reports identified for each release.
+Performed Manual testing for the 3 applications where 2 applications were web-based and Automation testing of one application.
+Worked on environments setup and maintained the test environments.
+Analyzed requirements, detailed design, and formulated the Test Plan for the Functional testing of the application.
+Experience working with Waterfall methodology.
+Documented Test Cases corresponding to business rules and other operating condition.
+Involved in developing Test Plans, Test Cases and Test Scripts.
+Used Quality Center for test script and test result management and bug tracking.
+Prepared scripts using QTP for Regression testing.
+Performed Cross Browser, Graphic User Interface, Functional Testing, Integration Testing, and System Testing Manually.
+Wrote SQL queries for back-end Test Cases.
+Executed SQL queries to verify the database updates, inserts and delete of the records, to extract data from target tables and validate reports.
+Coordinated between Offshore and On-Site teams and was responsible for the weekly status reports of the project.
+Logged the defects in a Defect tracking tool; verified and marked it as closed once the defect was resolved.
+Environment: TCL/TK, HP Quality Center/HP ALM, QTP, PL/SQL Developer, ClearCase, Eclipse, MS VSS (for source code control)
+
+Technical Summary
+Operating Systems: MS-DOS, UNIX, Linux, Windows
+Languages: C, Java, SQL, PL/SQL, UNIX Shell Scripting
+Databases: Oracle, MS SQL Server, MS Access
+Web Technologies: HTML, XML, JavaScript, Java Servlets, JSP, JSON, CSS
+Packages: MS Office (MS Access, MS Word, MS FrontPage, MS Excel), PowerPoint
+Application Servers: WebLogic 6.0, IIS, Apache Server, Tomcat, WebSphere
+Testing Tools: HP Quick Test Professional (QTP), HP Quality Center (QC)/HP ALM, Bugzilla, Win Runner, Selenium, Soap UI, JIRA, TestRail, Browser stack, Litmus
+
+Contact this candidate

@@ -1,0 +1,21 @@
+
+Job Description: Provide support for Station Controller (SC) and Shop Floor Control (SFC) software in factories from our Hillsboro, OR site.
+SC software is used to enforce business process, control processing on the manufacturing equipment & to collect data.
+
+Compressed Work Week Day shift position (shift 4). This req requires individuals to work 12 hour on-site shift. 9pm to 9am AZ time
+
+Job responsibilities are as follows:
+
+- Resolve Station Controller and SFC issues that are escalated from Level 1
+- Escalate issues requiring L3 support to the appropriate product owners and track closure to resolution.
+- Document incident details in ISMP
+- Participate in Automation Pre-Ops and report on incident details.
+- Maintain software applications in the production environment.
+- Train Manufacturing Technicians on software usage.
+- Create and maintain troubleshooting documentation.
+- Support software applications related to Station Controllers.
+- Complete Change Requests
+
+
+Go to apply 
+

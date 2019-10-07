@@ -1,0 +1,24 @@
+
+Description:
+The Software Build & Release Team oversees and develops the processes, and tools used for building, configuring, and deploying the Business Solutions platform of software products. The candidate will have knowledge working in a Continuous Integration/Delivery environment using a wide variety of tools to deliver consistent, successful software builds. Demonstration of the ability to automate and improve processes that will affect efficiency and effectiveness for the software release lifecycle is essentialEducation:
+Completion of a Bachelor' s Degree in Computer Science, Software Engineering, Computer Engineering, Information Science, Information Technology, or equivalent related program or experienceExperience:
+5 years experience as a release engineer, build engineer, or software developerRequired Technical Skills:
+Knowledge of Configuration and Release Management best practices
+Knowledge in the phases of the Software Development Lifecycle
+Experience implementing and automating CI/CD Processes for software deliveryDesired Technical Skills:
+Experience with Windows and the. NET Framework (C# and/or VB)
+Experience deploying JAVA Microservices
+Experience with build and deployment automation tools (such as TeamCity, Octopus, and Xebia XL)
+Experience working with source control management systems (specifically Team Foundation Server and Gitlab with Gitflow)
+Experience in one or more scripting languages (preferably PowerShell, Python, and Gradle)
+Experience with CloudFoundry and/or AWSDesired Skill Set:
+Ability to formulate creative solutions to difficult problems
+Ability to work independently and as a team
+Ability to multi-task both service-based and planned work assignments
+Ability to identify the root cause of process errors and provide recommendations and/or solutions for improvementKnowledge of Agile Development practices:
+Be a positive team member and eventual leader that can proactively coordinate with developers and managers to enforce the release management process and enhance effectiveness and efficiency
+Experience working in a healthcare systems or other highly regulated environment
+
+
+Go to apply 
+

@@ -1,0 +1,76 @@
+
+Curriculum Vitae
+H.No: ***, Street # ***, G-**/*, Islamabad, Pakistan.
+Cell: +92-303-*******, +974-********
+Email: adaiq4@r.postjobfree.com
+Skype: Muhammad.asad188
+Masters in Electronics, with a rich experience of more than Nine years in Network Operations, Communication Networks and Project Management. Extensive experience in planning, implementation and testing of Telecommunication Networks, IT Equipments and Satellite System. Experienced in Routing / Switching configuration, troubleshooting and Competent in handling and escalating problems. A real Proactive, Dynamic, Intelligent and Hardworking individual with excellent teamwork and Leadership spirit. TecLink (Telecom Solutions) - Pakistan:
+Position: Senior Technical Engineer January 2019 to Date I am working as a Senior Technical Engineer with a leading Telecom Solutions company TecLink. Working closely with Manager Projects to prepare comprehensive action plans, including Resources, Timeframes and Technical Support for different projects. Actively manage customer expectations in relation to support work taking place and planned work, and to provide resolution to customer issues. Major Responsibilities:
+• Lead a team of Technical Support Engineers and assist technical support team when necessary to resolve difficult issues.
+• Research reported issues to find resolution through log analysis, problem replication, knowledgebase searches, and peer collaboration.
+• Provide support to technical staff in operating and configuring major vendor’s network equipment such as switches and routers.
+• Build and maintain test environments/labs for troubleshooting and testing.
+• Coordinating with internal and external customers as well as remote team to provide tier I /tier II customer support.
+• Monitor project progress, handle critical issues that arise and follow-ups customer reported issues until resolved.
+• Understand and set issue priority based upon urgency and business impact.
+• Arrange meetings with the Account Managers as well as team members to ensure goals are achieved as per the requirements.
+• Act as the point of contact and communicate project status to all participants.
+• Manage an Access database to track discrepancy reporting. PROFESSIONAL EXPERIENCE:
+MUHAMMAD ASAD KHAN
+PROFILE
+Ministry Of Defense - Qatar:
+Position: Network Engineer February 2013 to November 2018 I was working with Ministry of Defense (Qatar) as a Network Engineer on their Es’hailSat Project. I was involved in designing, testing and deployment of Communication Network, IT Equipment and Satellite Operations. Engineering solutions for stable operation of IP supporting Telephone, Data Center managed and hosted services, upgrade and modification of network to satisfy services growth and expansion. Major Responsibilities:
+• Responsible for network equipments to verify operational status and to detect & report anomalous conditions that could adversely affect operation.
+• Responsible for IP Telephony network and video conferencing system installed on different sites within the country and outside of the country.
+• Conduct network modeling and analysis to construct a reliable, high-performance integrated network.
+• Design, recommend and implement new solutions to improve the resilience of network operations.
+• Program Routers, Switches and maintain firewalls and manage security related issues.
+• Executing scheduled commands on spacecraft and ground station according to procedure, operational note and daily activity schedule.
+• Operate regional control center equipment i-e Neo clients & Servers and Routers/Switches according to procedures, work practices or user guides.
+• Provide support to both external and in-house Hardware/Software support groups as required troubleshooting or testing the ground system.
+• Provide support to the spacecraft analyst group in writing network health and performance reports.
+• To assist spacecraft analyst staff in investigations and data gathering in response to routine anomalous or non- routine events on the satellite or ground station. This includes being part of an “incident team” during contingency operations.
+• Participate in regular training, simulation sessions and schedule updates & upgrades.
+• Provide support in writing and testing Ground Operation Procedures (GOP).
+• Coordinate with Technical Support team regarding UPS and generator’s issues & active alarms.
+• Monitoring all remote station UPS’s through NetMan204 and record all alarms history on daily basis.
+• Maintain an accurate record of all spacecraft and ground station activities in electronic log books.
+• Coordinate with the Network Operations Center (NOC) on all matters affecting network performance. Wateen Telecom (Abu Dhabi Group of Company) - Pakistan: Position: Network Support Engineer March 2010 to January 2013 Wateen is a company involved in Telecommunication Networks, System integration, System designing and installations. Their main areas are Cisco Routing & Switching, IP Telephony, Video Conferencing, VSAT/DVB and WiMAX. Being a part of Wateen solutions department, I was involved in different projects with GSM Operators and Satellite Media Vendors to ensure maximum possible network availability & performance, fault management and service provisioning. Major Responsibilities:
+• Deployment of Mobile Wireless Router (MWR) - 2941 for Optimization on Warid Telecom and CM-Pak
+(Zong) sites.
+• Integration and commissioning of GSM sites on RAN-O (Radio Access Network Optimization) backhaul and short haul Transmission for Huawei, Ericsson and Alcatel BTS.
+• GSM sites expansion and down gradation on RAN-O Backhaul Transmission.
+• Timeslot configuration for RAN-O Backhaul & short haul Transmission.
+• Coordination with Operator, media vendor and subcontractors regarding a technical issue on sites.
+• Visits to customer (Warid, Zong) on a weekly basis and also share logs & graph of MWR with them for better support services.
+• Being a member of the Wateen solution team, defining system requirements for different customers.
+• Responsible for Northern region RAN-O Technical support (24x7). VSAT NOC Responsibilities:
+• Monitoring and Control of the VSAT Hub.
+• Complaint Log Reporting and Analysis on daily basis.
+• DDF media patching for Ater, A-bis transmission via G.703 interface for Ericsson krone and Huawei tag-block
+• Timeslot configuration and Data rate configuration on satellite modem.
+• Spectrum Analyzer operation and usage.
+• Satellite modems firmware up-gradation.
+• Cisco routers 2600 / 2800 / 3600 / 3800 /7200 series
+• Cisco switches C2950 / C2960 / C3560 / C3750 / ME3400
+• VPNs – GRE / IPSec / DMVPN / SSL / MPLS
+• Servers: Spacecraft Servers (HP ProLiant Server), Database Servers, Training Servers, Storage Servers.
+• Remote Control & Monitoring System by Actia Sodielec.
+• Cortex Monitoring & Control Software by Zodiac Aerospace.
+• NEO software by GMV based on SCOS-2000 (Satellite Control and Operating System 2000).
+• CCNA
+CISCO ID: CSCO12019044
+• CCNP (In Progress)
+• MCSE
+CORVIT Islamabad
+Duration: 3-Month
+• M.Sc Electronics (University of Peshawar)
+Session: 2006-08
+• B.Sc Electronics (University of Peshawar)
+Session: 2004-06
+ACADEMICS:
+REFERENCE: Will be furnished on request.
+CERTIFICATES & TRAININGS:
+TECHNICAL SKILLS:
+
+Contact this candidate

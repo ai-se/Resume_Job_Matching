@@ -1,0 +1,50 @@
+
+Description:
+Under the supervision of the Cloud Software and Services Functional Manager, the incumbent will have overall responsibility for the technical designs on which functional and non-functional requirements (which reflect the medical device and healthcare business needs of the R&D;) can be met.
+Additionally, the incumbent will provide end to end cloud solutions for data capture and data integration with medical devices and healthcare applications, define the application components, interfaces, architectures based on multiple mobile platforms and cloud platforms.
+The incumbent will also work closely with the cloud and data service team to ensure that solutions are adhering to our long-term strategy and following best practices which must be documented and updated regularly.
+Responsibilities:
+Provide technical strength to development teams and collaborating with architects, development teams, and business teams to ensure solutions are developed with best practices.
+Work with Cloud teams in developing a DevOps strategy for the builds and deployment of software solutions including assisting in picking the right tools.
+Develop PowerShell scripts and ARM templates to automate the provisioning and deployment process
+Troubleshoot and identify performance, connectivity, security and other issues for the applications hosted in Azure platform
+Develop custom features in Visual Studio based on specifications and technical designs in a timely manner
+Design and implement MSMQ (Microsoft Messaging Queue) and AppFabric Cache.
+Design and develop client-server software modules and protocols/APIs to integrate devices and application systems, including Bluetooth enabled devices, mobile device applications and cloud enabled applications.
+Participate in the conceptual phases of identifying and solving business problems and initiatives, conducting design and development of feasibility prototypes of system features and technology, formulating an architectural vision to drive delivery
+Responsibility for mentoring and advising development teams, and other roles that interface with development, participate in the Production deployment process as needed
+Advise leadership about industry best practices, trends, and technology, analyze the current Cloud environment to detect critical deficiencies and recommend solutions for improvement
+Ensure functional requirement specifications and technical protocol API specifications are well documented and followed
+Work with business to coordinate Azure deployments, cutover, and go live per SILC and needs
+Audit access on a regular basis to ensure security has not been compromised
+Skills & Experience
+Bachelor of Science in Computer Engineering, Computer Science or Electrical Engineering, with 6 plus years of experience, or MS with 4 plus years of experience
+Design and implementation Experience using the OAuth 2.0 authorization framework for Authorization/Authentication services
+3+ years of hands-on development experience using .NET technologies (.Net, C#, WCF services and cloud design patterns).
+Strong programming experience including Object-Oriented Programming, Design Patterns, Web Services
+Demonstrated experience in Microsoft technologies including IIS, SSIS, SSRS, Entity Framework, WCF Framework, WPF (Windows Presentation Foundation)
+Deployed application with RESTful/SOAP services interfaces
+3+ years of working experience using SQL Server 2012 or higher, Azure SQL DB and/or NoSQL Databases.
+Advanced knowledge of SQL queries, stored procedures, triggers, indexes, data types, table structures, and database design principles.
+Create automation tasks and runbooks on all functions for future use
+3+ years of Azure Cloud working experience and cloud solution expertise ( Azure IaaS, PaaS, SaaS, FaaS)
+Expertise in hybrid cloud solutions with implementation experience of integrating public cloud into tradition/private hosting/cloud models
+Solid experience in Azure cloud migration (on premise to Cloud platforms), implementation and security management in all different levels
+Strong understanding of API-First application approach, experience in developing and deploying application solutions on Azure
+Experience with client-server transaction-level synchronization and back-end synchronization/replication.
+Proven record in full life cycle software development and delivery
+Experience with system performance problem analysis, triage, and solution activities. Able to untangle web of issues, prototype, and deliver recommendations to resolve tough system problems.
+Excellent oral/written communication skills (passionate, persuasive, and assertive)
+Self-motivated, self-starter, confident in working in multinational environments with onsite/offshore model.
+Preferred
+BS in Computer Engineering or Electrical Engineering with 8 plus years of experience or MS in Computer Engineering or Electrical Engineering with 6 plus years of experience
+Medical devices/regulated industry product development background preferred
+Design and implementation of security around Web Services and Relational database preferred.
+Experience with healthcare standards such as FHIR, HL7
+Microsoft Azure certifications a plus
+Agile/SCRUM certifications a plus
+Working with software development / requirements analysis tools preferred
+
+
+Go to apply 
+

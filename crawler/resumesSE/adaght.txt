@@ -1,0 +1,82 @@
+
+KELVIN COLLINS
+
+Objective
+Provide senior level Dev Ops, SCCM, SCOM 2012/2016 support for Microsoft application updates, security patching of servers, desktops and laptops. My experience includes principle Dev Ops engineering with AWS, Azure, and Google as an infrastructure tool. This includes NuGet, Team Foundation Server, Ansible, Puppet and other tools to create CI/CL environments. Great experience with SCSM 2012 tools to monitor issues and automate management within their networks. Utilize SCCM 2007/2012 for MSI application deployments and creation of virtual machines and Citrix applications using Install Shield and Admin Studio 2016. This includes writing complex scripts with Power Shell and VB script. I am also experienced with UNIX and Linux. Lastly, I am a tremendous people person with excellent written, oral skills, SAFE and ITIL foundation certified.
+
+Cell: (832) 488 – 3422
+Email: adaght@r.postjobfree.com
+
+SCCM / Dev Ops / Engineer
+P2 Energy Corporation
+02/2016 – present, Houston, Texas
+
+Implementing experience with primary Microsoft Azure, AWS services (EC2, ELB, RDS, Route53 & S3) implementation, and/or support of complex application architectures (i.e. having an architectural sense for connecting data sources, data visualization, structured and unstructured data, etc.
+Infrastructure automation through DevOps scripting (E.g. shell, Python, Ruby, PowerShell) and Management, Database architecture, Virtualization, IP Networking, Storage, IT Security, Linux.
+Responsible for the timely Window’s 7 to Windows 10 OS migration project while managing all SCCM 2007/2012 servers, software deployments, packaging and repackaging of all Windows based MSI packages for P2 Corporate Services thru-out the US and abroad. Using Admin Studio 2016 for application packaging, PowerShell and VB script for complex application packaging.
+Some experience with SCSM 2012 tools to monitor issues and automate management within their networks.
+Provide daily support for P2 Energy global Citrix environment using Citrix XenApp 6.5 & VMware ESXi.
+Operating system deployment leveraging SCCM 2007/2012 OSD Task Sequences, USMT 4.0, PXE-Boot Zero-Touch Installations. Administration of VMware 7.4, supporting (snapshots, building VM’s, cloning, capacity mgmt.) and support of Citrix servers.
+Managing a team of five 2nd level technical support who provide daily Window’s 7 & 10 OS issue support within the desktop and laptop environment for P2 Energy after being migrated from Window’s 7 to Windows 10 lockdown environment.
+Monitoring the health of our SCCM 2012/2016 and other application servers with SCOM 2012 Platform.
+Subject matter expert for internal/external software applications such as Microsoft Office 365, Cisco Jabber and Exchange server. This includes providing class instruction to our P2 Energy administrators and employees.
+Establish, maintain and monitor group policy changes, create new users and user permissions in Active Directory for P2 Energy Corporate Services.
+Create and maintain appropriate documentation concerning processes and procedures associated with the SCCM 2012, Window’s 7 image, MSI packages, desktop support problems and fixes.
+Solicit technical and provide analytical advice for P2 Energy as I serve as a liaison and mediator for business groups when working with the server and network team.
+
+Lead Applications/SCCM Engineer (Contract)
+Hess Oil Corporation
+01/2015 – 12/2015, Houston, Texas
+Primarily responsible for managing and supporting numerous Hess Oil Corporation Windows Server 2008/2012 Citrix 6.5 network environment, patch evaluation and deployment: SCCM 2012, SCOM 2012 and WSUS.
+Dedicated SME for providing advanced working knowledge of Microsoft Back office Products, including Systems Management Server (SMS), MS-SQL, ISA Server, and Internet Information Server (IIS).
+Manage and deploy server update software installs, license agreements, security updates, or patches to servers, individual laptops, desktops with SCCM 2012 and Citrix.
+Responsible for general 3rd level technical support, developing and using various methods techniques, diagnostic tools or various criteria to troubleshoot, diagnose and resolve complex software/ hardware installs of Landmark Suite, Procount and Well View 9.0, TOW and Schlumberger’s OFM.
+Active Directory administrator charged with group policy changes, creating, deleting new users and groups in addition to providing various levels of permissions for them in Active Directory.
+Creates and maintain appropriate documentation concerning processes and procedures associated with the Well View 9.0, application upgrades, network client packages, desktop/laptop support problems and fixes.
+Develops testing criteria, test plans, and test scripts, coordinate UAT among the various Upstream Oil & Gas groups.
+Researches technical and analytical documentation for Hess Oil Corporation with applications such as Procount, Well View 9.0, Landmark Suite and others. Serves as a liaison and mediator for the Engineering support group when working with the server, Citrix and network team.
+Guide and mentor less experienced desktop techs and IT analysts regarding 2nd level technical support and troubleshooting methods along with AspenTech - Hysis, Aries, Fekete Harmony Well View 9.0, and PipeSim packaging and SCCM 2012 deployments.
+
+Senior SCCM/Packaging Engineer (Contract)
+ExxonMobil Corporation
+10/2013 – 11/2014, Houston, Texas
+Primarily responsible for supporting Upstream Oil & Gas applications such as Well View 9.0 and Landmark Suite for all ExxonMobil facilities thru-out the US and abroad. Create network client Install Shield, create complex wrappers with PowerShell, VB, MSI application packages, provide input/output data support from SQL or Oracle databases.
+Manage and deploy new Well View 9.0 software installs, license agreements, security updates, or patches to individual laptops, desktops with SCCM 2007 and WMI tool.
+Responsible for general 3rd level technical support, developing and using methods, techniques, diagnostic tools or various criteria to troubleshoot, diagnose and resolve complex software/hardware installs of Well View 9.0.
+Active Directory administrator charged with group policy changes, creating, deleting new users and groups in addition to providing various levels of permissions for them in Active Directory.
+Creates and maintain appropriate documentation concerning processes and procedures associated with the Well View 9.0 application upgrades, network client packages, desktop/laptop support problems and fixes.
+Develops testing criteria, test plans, and test scripts, coordinate UAT among the various Upstream Oil & Gas groups.
+Researches technical and analytical documentation for ExxonMobil with companies such as Well View 9.0, Landmark Suite and others. Serves as a liaison and mediator for the Engineering support group when working with the server and network team.
+Guide and mentor less experienced desktop techs and IT analysts regarding 2nd level technical support and troubleshooting methods along with Well View 9.0 packaging and SCCM 2007 deployments.
+
+Lead SCCM Administrator
+Sava Senior Care
+03/2010 – 10/2013, Houston, Texas
+Primarily responsible for the timely XP to Window’s 7 OS migration, packaging and repackaging of all Windows based MSI packages for Sava Senior Care’s 379 senior care facilities thru-out the US. Sava Senior Care’s XP to Window’s 7 migration affected 34,000 HP workstations and over 9600 Lenovo laptops with the use of Install Shield 2012, Windows Scripting, VB and SCCM 2012.
+Responsible for general for 3rd level technical support, Spyware and virus removal with Trend Maker Anti-virus in-addition to any Window’s 7 OS issues within the desktop environment for Sava Senior Care after being migrated from XP to Window’s 7 lockdown environment.
+Establish and monitor group policy changes, create new users and user permissions in Active Directory. Deploy new applications to individuals or entire Sava Senior Care facilities thru SCCM 2007.
+Maintain the Support Request database with our desktop team to distribute and track Window’s 7 customer issues using Remedy, or our internal system called HEAT.
+Create and maintain appropriate documentation concerning processes and procedures associated with the desktop support core Window’s 7 image, MSI packages, desktop support problems and fixes.
+Requisition, receive inventories, configures issues, maintains upgrades, secures, and disposes of outdated HP workstations and Lenovo laptops.
+Administration of VMware 7.4, supporting (snapshots, building VM’s, cloning, capacity mgmt.)
+Subject matter expert for internal/external software applications such as Micro Soft Office 2010, People Soft 9.0 and Lotus Notes 8.5, this includes class instruction to our Sava Senior Care administrators and employees.
+Solicit technical and analytical advice for Sava Senior Care and served as a liaison and mediator for the desktop support group when working with the server and network team.
+
+Senior Applications Packager (Contract)
+American General Corp.
+01/2008 – 02/2010 Houston, Texas
+Responsible for packaging and repackaging Windows based MSI packages for various AG business units enterprise wide with a base 114k workstations using Wise Studio Package 5.5.
+Network Admin duties include distributing those new software packages in an Enterprise network environment using Novell Zen Works v 5.0, SCCM 12.0 and SMS 2.4.
+Extensive Windows scripting of various applications for remote and local manipulation of workstations thru-out a lock down and Active Directory environment with Citrix XenApp 5, JavaScript, VBScript, Win Batch and Windows Management Instrumentation.
+Produced complete and accurate daily documentation via SharePoint 2010 regarding any new Dell server or network patches, fixes and Dell desktop hardware software requirements.
+Provide system maintenance by installing hardware and software upgrades in existing XP, Windows 7 workstations, Windows Server 2008, and networks to ensure efficiency, performance and reliability.
+Troubleshoot, diagnose and solve Dell server and workstation hardware, software, and network issues related to American General global desktop networks.
+Subject matter expert for internal/external software applications such as SAP, BI, Oracle11g and IBM DB2, provide business analyst support to all American General Business units and provide technical team leadership.
+Primary 3rd level support, technical expertise and experience to create and solve VMware ESX 3.x/4.x problems related to all triage workstations over the phone and locally within the Desktop Environment for all of American General Business units.
+Conducted training for, and directed the efforts of, end users, outside vendors and less experienced staff within American General Corp.
+
+Education
+5/1987 I.T.T. Technical Institute, Indianapolis, Indiana
+Bachelor's Degree (B.S.), Electronic Engineering Technology
+
+Contact this candidate

@@ -1,0 +1,164 @@
+
+*
+K.A.S.P.KUMARA
+Naotunna-c,Rangiri Vihara Mw,Ambalantota. Sri Lanka.
+009****-****** • ac9zet@r.postjobfree.com
+PERSONAL INFORMATION:
+PROFESSIONAL PROFILE:
+An Engineering Professional who is keen to work reliably, trustworthy and enjoy working as a team member as well as independently. Demonstrated strength in quickly understanding and handling complex technical and operational issues. Highly confidence as a multi skill telecom field engineer through hand on experience in various wireless Technologies.
+WORK EXPERIENCE:
+From September 2006
+to present
+DIALOG TELEKOM AXIATA PLC - (LARGEST MOBILE OPERATOR IN SRI LANKA) Colombo-2, Sri Lanka
+DIALOG TELEKOM PLC Provides following services.
+• Mobile Communication (GSM, UMTS,4G)
+• Fixed wireless phones (CDMA2000)
+• Wireless Broadband (Wimax & Other Broadband technologies)
+• Transmission services
+Engineering executive
+Divisions:
+National O& M – Access Network Operations & Implementations Dialog network services
+Activities:
+Field Operations :
+Solid Experience in Troubleshooting, Installation, Commissioning, Routine Maintenance & Testing of GSM & CDMA BTS, UMTS NodeB, Wimax BS Wireless Broadband BS, Transmission, power, Air conditioner, Battery Bank,Auto matic transfer switch. Nationality: Sri Lankan
+Birth date: 10th June 1980
+Gender: Male
+Marital Status: Married
+Number of
+Dependants:
+2
+2
+Transmission
+• Harris startex(ECLIPS) Link installation
+• Eclipse link upgrade with DAC ES,DAC GE Ethernet card
+• NERA Evolution link installation operation & maintenance
+• NEC passolink link installation operation & maintenance
+• CISCO SWs and Router installation operation and maintenance
+• RAD BOXs Installation operation and maintenance
+• Alcatel MPR 9500 link installation and maintenance
+• Solid Experience on testing and troubleshooting in E1 path & data path Issues using E1 analyzer and Ethernet analyzer.
+BSS
+Venders :
+• Wimax:Alvarion-Brezemax3500 installation, commissioning, throughput test, performance checking, backhauling using L2 SW,L3SW,RAD box and trouble shooting
+• Wireless Broadband : Alvarion WalkAir3000 installation, commissioning, throughput test, performance checking, backhauling using L2 SW,L3SW,RAD box and trouble shooting
+• UMTS: Huawei – BTS3812E, DBS3800,DBS3900 installation, commissioning, trouble shooting and IUB over IP implementation(HSPA+)
+• GSM : Ericsson – RBS2202, RBS2206V1, RBS2206V2,RBS2216,RBS 2111,6601,5216
+• UMTS : Ericsson –RBS3206, RBS3418,RBS 3308,DUW 2001, DUW 4001,installation, commissioning, trouble shooting and HSPA upgrading
+• CDMA2000 : Huawei-BTS3606, BTS3606C installation, commissioning, trouble shooting
+• ZTE 3G installation, Commissioning, trouble shooting.
+• Solid Experience on testing and troubleshooting on antenna VSWR, cable loss, Distance to fault (DTF) Issues using Antrisu SITE-MASTER and Bird analyzer. BSC & RNC Operation :
+Solid Experience in Troubleshooting, Integration, Routine Maintenance.
+• Ericsson BSC operations & Integrations (APZ 212 30/54 APG-40, APZ 212 33/52 APG-40) –
+• Ericsson RNC Operations & Integrations (3810 – P5-R7AK ) NOC Operations :
+• Configuration Management of BSC and RNC.
+• Alarm Handling
+• Performance Measuring
+3
+Power System & A/C
+• Rectifier installation operation and maintenance(Delta,Powerware,Benning )
+• Solid Experience on troubleshooting in split type A/C(MISTSUBISHI,LG,PANASONIC,CARRIER)
+• Battery Bank installation ( Yuasa,Monolite,Orlikon,Hopeke,Haze)
+• Generator Installation & Maintenance ( FG Wilson, Tempest,Olimpian,Soar)
+• ATS( Automatic transfer switch) Installation, maintenance.
+• Power break down trouble shooting.
+From September
+2005 to September
+2006
+SUNTEL (PVT) LTD –
+Nawam Mawatha, Colombo-2, Sri Lanka
+Suntel (PVT) LTD Provides following services.
+• Fixed wireless phones (CDMA2000)
+• Wireless Broadband (Wipll, Air span & Other Broadband technologies)
+• Transmission services.
+Technical Officer
+Divisions:
+OMC(Operator Maintenance Center)
+Activities:
+Field Operations:
+Solid Experience in Troubleshooting, Installation, Commissioning, Routine Maintenance & Testing of CDMA BTS, Wireless Broadband BS, Transmission & power A/C .
+Transmission
+• NERA Evolution link installation operation & maintenance
+• Ericsson link installation operation & maintenance BSS
+Venders:
+• CDMA2000: Huawei-BTS3606, BTS3606C installation, commissioning, trouble shooting
+• Solid Experience on testing and troubleshooting on antenna VSWR, cable loss, Distance to fault (DTF) Issues using Antrisu SITE-MASTER and Bird analyzer. 4
+From December 2004 to
+September 2005
+From September 2000 to
+September 2001
+PROFESSIONAL QUALIFICATIONS
+DATA MANAGEMENT SYSTEM LTD –
+159, Dharmapala mawatha, Colombo 07, Sri Lanks
+DMS LTD Provides following services.
+• Network solution
+• Data back up solution
+• Bank ATM sale, Installation & Maintanace.
+Associated Field Engineer Technician
+Division:
+ATM Group
+Activities:
+Solid Experience in Troubleshooting, Installation, Commissioning, Routine Maintenance & Testing of DIEBOLD ATM Machine .
+OASIS HOTEL
+Sisilasagama, Hambantota.
+Trainee Account Clerk
+From 2002 to 2005
+NATIONAL DIPLOMA IN TECHNOLOGY, University of Moratuwa,Srilanka. NATIONAL DIPLOMA IN TECHNOLOGY (NDT)
+Electronic & Telecommunication Engineering.
+(Two year Diploma including two years Academic & one year industrial Training).
+, have under gone two training sessions in Sri Lanka Telecom Limited and DMS Electronic (PVT) Limited.
+1. DMS Electronic (PVT) LTD.
+I have successfully completed six month In-plant training at DMS Electronic (PVT) Ltd.Colombo – 07. I have covered the following area’s
+• Trouble shooting PC’s and Notebooks
+• Installation of Operating System (Windows NT/Server 2000/Advance Server 2000) and soft ware’s to PC’s and Servers.
+• Experience with LAN, WAN.
+• Experience with configuring DNS, Installation and trouble shooting hp/Compaq Servers.
+5
+• Experience in network administration in windows environment Sri Lanka Telecom Limited
+This was the 2nd in plant training of the course and under gone following Sections
+• Switching
+• Transmission
+• OTS (Overseas Transmission Section)
+• OSP (Out Side Plant) networks
+• IT Division
+OTHER QUALIFICATIONS:
+Computer Skills:
+Successfully completed the Diploma in Computer Software Engineering.
+. conducted by LONDON TEC INTERNATIONAL, MATARA. (Affiliate Education .
+. Member of British Computer Society, United Kingdom). 2000/2001 TRAINING
+I have successfully completed following training courses.
+• Ericsson CPP Node Features & Functions. Conducted by Ericsson Education Malayasiya
+• Ericssion WCDMA RAN Operation. Conducted by Ericsson Education Malayasiya
+• Ericssion WCDMA RAN Node B Commissioning. Conducted by Ericsson Education Malayasiya.
+• Ericsson WCDMA System Overview. Conducted by Ericsson Education Malayasiya
+• Ericssion RBS 2216 Installation and Commissioning. Conducted by Ericssion Education Center,India.
+AWARDS
+• 14th May 2005 - Being a member of 1st runners-up team in inter location cricket teamat DMS Recreation Club.
+• 31st May 2005 - Outstanding group performance award for engineering support for the ATM support group for providing outstanding maintenance, support to all ATM customers Srilanka.
+• 6th March 2006 - Award to in recognition of the contribution towards speedy CDMA rollout, in Suntel Pvt Ltd.
+• 06th August 2006 - Award to runner’s up plate championship at Suntel Cricket carnival.
+6
+• Gold award 2011 – for being a part of the “Region of the year overall” at Dialog Awards
+• Bronze award 2011 – member of the “Regional engineering team of the year” at Dialog awards
+• Bronze award 2012 - for being a part of the “Region of the year” at Dialog awards
+• Gold award 2012 – member of the “Network full Turnkey project” at Dialog awards
+• Silver award 2012 – member of the “Regional engineering team of the year” at Dialog awards
+• Bronze award 2013 - member of the “Regional engineering team of the year” at Dialog awards
+• Silver award 2014 – team member of the “Engineering project team of the year” (Microwave link network management system IP rearrangement project) at Dialog awards
+• Gold award 2016 – member of the “Engineering project of the year”
+(Implementation of full-IP network with the transport network modernization at Dialog awards
+REFERENCES
+01. Name : Mr.Nalin Chanaka Manorathna
+Position : Regional Manager – Southern Region
+Dialog Network Services
+Address : Dialog Telekom PLC
+Colombo -02.
+Telephone : (94-077*-***-***
+Email : ac9zet@r.postjobfree.com
+02. Name : Mr.Gamini Nanayakkara.
+Position : Senior lecture Institute of technology, university of moratuwa
+Address : Katubedda, Moratuwa
+Srilanka
+Telephone : (94-011*-***-***
+Email : ac9zet@r.postjobfree.com
+
+Contact this candidate

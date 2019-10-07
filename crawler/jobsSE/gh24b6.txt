@@ -1,0 +1,83 @@
+
+The Information Security Engineer position is responsible for monitoring and assessing the security of Jamf, its customer-facing products, and any internal and external services and infrastructure provided by or in use by JAMF Software. This individual is responsible for overseeing the critical security processes that monitor for, detect, respond and recover from security incidents. In addition, the position is responsible for providing guidance and technical expertise both during the planning, development and maintenance lifecycle of corporate products, processes and policies. Finally, the position is also responsible for responding to and managing issues in the Security Response queue.
+
+Responsibilities
+
+* Oversee security technologies, processes and procedures to effectively identify threats and manage response activities
+
+* Perform incident investigations, determining the cause of security incidents, as well as ensuring incidents are handed in a manner that is consistent with policy and procedure. Coordinate the resolution of these issues.
+
+* Serve as an escalation point for InfoSec, coordinating with IT, Development, Legal, and others to provide expertise and support timely and effective decision making across the organization
+
+* Create and drive action plans to address recurring or ongoing information security issues and provide guidance for the removal or remediation of vulnerabilities to products and hosted infrastructure
+
+* Research new threats, risks, and attack vectors to JAMF infrastructure and software
+
+* Performs security assessments on both internal and external applications/infrastructure
+
+* Drive continuous improvement of processes and procedures to improve analysis of events, event handling activities, continuously develop security operations support and overall Cyber Security services
+
+* Help the Jamf InfoSec team automate current manual processes, integrate tools together, and develop mechanisms to improve data collection, detection, analysis, and monitoring efforts
+
+* Other duties and special projects as assigned
+
+* Performs all job responsibilities in alignment with the core values, mission and purpose of the organization.
+
+* Adheres to the highest moral, ethical and legal standards to deliver an environment that promotes respect, innovation and creativity
+
+* Supports and promotes a positive, inclusive workplace one in which the talents and strengths of our increasingly diverse workforce are welcomed, further developed and manifested in our work
+
+* A minimum of five years of IT security experience in roles with increasing responsibility in the technical fields of information security including security operations, incident response, investigations or related fields (Required)
+
+* Experience with advanced concepts regarding security information event monitoring tools and methodologies (alert abstraction, data normalization, workflow, scripting, and tuning) (Required)
+
+* Demonstrated understanding of security related technologies and practices, including authentication and authorization systems, endpoint protection, encryption, cryptographic certificates, vulnerability management, secure remote access, and fire walls. (Required)
+
+* An understanding of specialized information security technologies related to the cloud including data protection mechanisms, encryption methods and mechanisms to implement them, and understanding of secure internet protocols, and a working knowledge of cloud security services and features (Preferred).
+
+* General experience knowledge and experience with Jamf software, Apple devices, or device management (Preferred)
+
+* Strong Communication Skills
+
+* Excellent Organizational Skills
+
+* Proven Analytical Skills
+
+* Read / Comprehend Written Instructions
+
+* Follow Verbal Instructions
+
+* Ability to communicate complex technical terms in an easy to understand, non-technical manner
+
+* Ability to interact effectively with co-workers in a results driven culture
+
+* Self-starter, energetic multi-tasker, highly motivated and team player
+
+* Effective and efficient project planning and time management skills
+
+* Ability to critically analyze issues and use good judgement to make decisions
+
+* Trustworthy with sensitive information and access to systems containing sensitive data
+
+* Bachelor's Degree in Computer Science, Information Systems, Computer Engineering or related field (Preferred, a combination of relevant experience and education may be considered)
+
+* Preferred Certifications/Licensures:
+
+* AWS Certified Security - Specialty.
+
+* CEH - Certified Ethical Hacker
+
+* CISSP - Certified Information Systems Security Professional
+
+* CISA - Certified Information Security Manager
+
+* GIAC Security Essentials
+
+Location: Minneapolis, MN
+
+Travel:
+SDL2017
+
+
+Go to apply 
+

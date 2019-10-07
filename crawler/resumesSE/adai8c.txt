@@ -1,0 +1,83 @@
+
+ARUNKUMAR.P
+Email: adai8c@r.postjobfree.com
+Mobile:875-***-****
+
+OBJECTIVE
+
+To attain pinnacle of glory, where I can apply my knowledge and acquire new skills and contribute constructively to the Organization.
+
+PROFESSIONAL EXPERIENCE
+I have 1 year experience in PCB Assembly Division as quality analyst in Avalon Technologies Pvt Ltd.Tambaram(2017-18)
+Currently working as Associate Engineer in MBIT Wireless Pvt Ltd., Chennai from November 2018 to till date.,
+JOB RESPONISIBILITY
+Creation and Review analysis of Schematic, Bill of Materials, Layout and Gerber
+Preparation of design documents &design of the board as per the requirement.
+Creation of PCB Footprint, OrCAD Schematic Library Files, and Schematic Symbols.,
+Component selection, schematic design, provides guidance for the PCB Placements and routing, BOM generation, Board development, assembly and testing.
+Final designing and Fault finding in PCB
+Debugging FPGA, ASIC and Development Boards
+Validation and analysis of 4G LTE Transmitter and Receiver 3GPP Test cases
+Engaged in RF Calibration & Tuning to improve RF Characteristics
+Performing Power Measurement for various boards using Power Monitor Tool
+EQUIPMENT AND SOFTWARE HANDLED
+Laboratory Instruments: CMW500, Aero flex 7100, Oscilloscope, Spectrum Analyzer, Network Analyzer, Multimeter
+Software Tools: OrCAD Capture, OrCAD PSpice, Allegro PCB Editor.
+
+PROJECT EXPERIENCE
+1. CAT M Evaluation Board (In Progress)
+Designed CATM Evaluation Board for validated all power supply rails and peripherals available in the Mbit CATM chip.
+Design Involved :
+LDO, USB, PSRAM Selection and analysis. Involved in Power Analysis, Schematic circuit design and board validation.
+2 . 4G LTE based Hotspot
+Provided support in Developing 4G LTE based Hotspot with IEEE 802.11 b/g/n/ac compatible
+Involved in Review analysis of Schematic, Bill of Materials, Layout & Gerber
+Validated and analyzed 4G LTE Transmitter and Receiver 3GPP Test cases
+Engaged in RF Tuning to improve RF Characteristics
+Involved in Performing Power measurement for Hotspot Module.
+
+Design Involved
+BBIC, RFIC, PMIC, WIFI Module, Power Amplifier, Flash Memory, RF Front end Components
+
+3. LGA Carrier board
+Engaged in RF Tuning to improve RF Characteristics.
+Provided support in component assembly.
+4. MBIT Development Boards
+Provided support in Developing MBIT based ASIC & FPGA Development Boards
+Involved in Review analysis of Schematic, Bill of Materials, Layout & Gerber
+Design Involved
+FPGA, BBIC, RFIC, PMIC, Flash Memory, DDR, NAND..
+PROFESISIONAL SKILLS
+Experience with protocols such as I2C, SPI, USB, UART, RFFE, RBDP, SDIO, NAND, NOR, PSRAM, DDR, eMMC, I2S, PCM/TDM etc,.
+Experience in working with DCDC Converters and Low Drop out Regulators.
+Knowledge in Interfaces like MIPI CSI, DSI, UFS, Ethernet, I3C etc.,
+Knowledge in Hardware Concepts and RF Circuit design.
+Knowledge on designing RF (Power Amplifier, Limiters, LNA, Filters, Attenuators, Mixer) circuits.
+Knowledge on designing Analog and power supply (Op-Amp, ADC, LDO) circuits.
+Knowledge in analysis of signal integrity& issue analysis and team support.
+Knowledge in LTE Carrier Aggregation, IEEE 802.11 & Bluetooth standards, LTE CAT M/NBIoT.,
+Experience in PCB assembly industries and soldering.
+
+PERSONAL TRAITS
+Self Confidence
+Smart and Dedicate to work
+Time Management Skill
+
+PERSONAL INFORMATION
+
+Father’s name : Mr. S.PitchaiMuthu
+Mother’s name : Mrs. P.Manjula
+Gender : Male
+Date of birth : 06-07-1994
+Languages known : Tamil and English (To Speak, Read and Write)
+Nationality : Indian
+Hobbies : Playing Chess,Surfing Net.
+Address : 1/145,Konakkarai,Swamimalai(Po),Kumbakonam(Tk),
+Thanjavur(Dt)-612302
+
+DECLARATION
+I hereby declare that the above information furnished above is true to the best of my knowledge and belief. If given a chance I will work with all my effort for the growth of the organization.
+PLACE : Chennai yours faithfully,
+DATE : (ARUNKUMAR.P)
+
+Contact this candidate

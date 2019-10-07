@@ -1,0 +1,35 @@
+
+YOU LL ENJOY:
+Using your design experience with IP designs, in a multi-tenant and multi-data center environment with fail-over & high available capabilities. Using your experience with IP designs, NAT, IP routing protocols (EIGRP & BGP), Cisco products, Cisco IOS and similar operating systems.
+Working with server load-balancing systems, such as F5 LTM/GTM, Citrix Netscaler or similar products.
+Working with Cisco IOS and Nexus line of products.
+Working with Cisco Nexus switching products.
+Using your experience with layer 2 technologies.
+Using your experience with establishing vendor and/or service selection criteria to make product and other technology related selections and document the entire process as well as present the selection to a committee of peers.
+Testing features in a lab and development environments.
+Working in a structured environment that requires change control processes in accordance with company policies, for execution of implementations and changes to the network environment, as it relates to the installation of the data center network.
+Creating, updating and coordinating the implementation plan for all network related items.
+Providing connectivity to systems from one data center to another, involving IP design, NAT scheme, routing scheme and overall architecture.
+Working with firewall technology.
+Using your experience with data center networking in a virtualized server environment (VMWare) is a plus.
+Using MS Visio to document network designs.
+Using your experience with networking virtualized server systems in a large data center environment is a plus.
+Being a part of a passionate environment to stay ahead of with industry standards, new technologies and standard methodologies through attending extensive training and performing research.
+Using your strong ability to document designs and test plans a plus.
+
+QUALIFICATIONS FOR CONSIDERATION:
+Education Required
+Bachelor s degree or high school diploma with equivalent work experience.
+Minimum 5 years experience in support of a complex mission critical facility and the associated team.
+
+Preferred Qualifications for Consideration:
+Cisco Certified Network Professional (CCNP) and/or Cisco Certified Design Professional (CCDP) certifications are a plus.
+
+Travel:
+Up to 10 percent travel required
+
+Permanent
+
+
+Go to apply 
+

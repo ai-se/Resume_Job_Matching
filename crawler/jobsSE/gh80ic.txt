@@ -1,0 +1,37 @@
+
+Integrated Intel Solutions has a full funded and immediate position available. The primary focus of this position is the engineering and maintenance of production and pre-production technology systems in a hybrid cloud/datacenter environment. This position will serve to provide the engineering support and technical guidance to design operating system baselines to support the Windows hosting strategy, using virtual and cloud automated technologies. The candidate must demonstrate on-the-job competencies and in-depth Windows experience working and integrating both VMWare and AWS/C2S technologies. The candidate will need to have a diverse IT background, strong hands-on technical experience, organizational and interpersonal skills working as part of a team and at times in a highly autonomous manner, mentoring others as needed.
+
+Responsibilities include, but are not limited to:
+
+* administrating appropriate configuration baseline operating systems
+
+* integrating security compliance working with monitoring tools
+
+* experience with Active Directory
+
+Mandatory Skills:
+
+* 7+ years of system administration experience with Windows Server 2008, 2012, and 2016 operating systems.
+
+* 4 years of experience supporting SAN and NAS enterprise-level storage solutions (e.g. NetApp, Hitachi Fiber Channel).
+
+* 3 years of experience with PowerShell, ESXcli, Python, or Perl scripting.
+
+* Demonstrated experience with of networking technologies (FCIP, FCOE, DCOE, LAN, WAN, VLAN, Routing, Firewalls, etc.)
+
+* Detailed knowledge of Active Directory, including experience building and maintaining group policies.
+
+Desired Skills:
+
+* Ability to design and document complex workflows.
+
+* Experience as a team player - proven ability to resolve problems professionally and systematically.
+
+* Demonstrated communication skills, both written and verbal, flexibility in concepts and action, able to handle aggressive mission critical deadlines.
+
+* Microsoft and/or VMWare Certification.
+SDL2017
+
+
+Go to apply 
+

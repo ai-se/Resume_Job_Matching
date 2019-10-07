@@ -1,0 +1,87 @@
+
+MOHAMMED ZIA
+Email Address: adahxp@r.postjobfree.com
+Contact No: +965-********
+
+Career Objective
+To obtain a challenging position in the area of IT System Support Engineer and strive for excellence with dedication, proactive approach, positive attitude and passion towards the work that will fully utilize my logical and reasoning abilities in the best possible way for the fulfillment of personal and organizational goals.
+
+Technical Skills
+Expertise in Installation, Administration & Troubleshooting of Networks consisting of:
+HP Switches [HP 2910, 2920 and 2930 series]:
+Wi-Fi: Cisco & Aruba Wireless LAN Controller & Access Points.
+IP Telephony: CUCM Cisco Call Manager, Unity, Prime & IP Avaya
+
+Expertise in Administrator of Windows Servers:
+Windows Servers– AD, DC, DNS, DHCP, Windows Exchange Server
+
+Personal Strengths
+Proficient in IT team, projects & service management.
+Experienced in handling different IT projects, proven strength in problem solving and coordination, demonstrated responsiveness & time management abilities to meet the deadlines.
+Proficient in customer service skills & professional behavior.
+Ability to train end users of different levels, on latest technologies.
+Excellent interpersonal, communication, analytical & documentation skills.
+
+Professional Experience
+IT Technology Specialist Aug’2018 – Present
+American United School of Kuwait www.aus.edu.kw
+
+Administrating & Troubleshooting Windows Server DC Active Directory, DNS, DHCP.
+Handling MS Exchange Server – creating new emails, groups, contacts & handling exchange related user requests like delegation, additional mailbox access, increase mailbox quota etc
+Handling DZINE Digital Signage System, NEDAP AEOS Access Door Systems, IP Cameras System – [Avigilon Server & 120+ IP Cameras].
+Handling Manage Engine Service Desk Plus Helpdesk Server.
+Handling Print Server consisting of 40 Xerox MFPs & Printers
+Handling Antivirus [TrendMicro] Server.
+Efficient Technical Support to AUS Community – Teachers, Staff & Students consisting of 1500+ Lenovo PCs & Laptops, Acer & Lenovo Chromebooks & MAC products [iMACs & iPADs]
+
+American Creativity Academy Sep 2013- July’18
+Job Role: IT Technical Support Engineer
+Administrating & Troubleshooting Windows Server [DC Active Directory, DNS, DHCP].
+Responsible File server administration and assignment for the shared and security permissions for network folder
+Installation, Configuration and Administration of Print Server on Windows 2008 / 2012 R2
+HP switch’s configuration and VLAN Troubleshoot.
+Managing DHCP reservations for the client computers for different Vlans and also manually assigning the ports on switches.
+Configuring & Troubleshooting problems related to IP cameras (NVR).
+Maintaining and configuring IP telephony system, PBX configuration.
+Imaging Pc, and laptop using Symantec Ghost & Acronic True Image 2016 tools.
+Performed data recovery and destruction
+Configuring and managing wireless router and troubleshoot the Network related issues, Backup and Restore the users profile data
+Installing, updating of Business application (Microsoft Dynamics AX 2012)
+Troubleshooting problems related to the any kind of the Projectors such as EPSON, SONY, HITACHI, and configuration of their interactive features as well.
+Manage configuration of all software on site, including applying updates and security patches under the direction of the customer network operations center.
+Configuration of the IOS devices using the apple configurator and deploying the profiles and restriction while preparing the iPad devices and managing them centrally via console.
+
+August 2010- 2012: Microchip Technologies-India
+Job Role: IT Technical Support
+Installation, Configuration and Administration of Windows Servers.
+Attended users requests related to IT services such as email, mailbox, shared drives, storage & backup.
+User and group management, Access restrictions, Security, Shared folder and permissions
+Installation of the print server management “paper cut” and providing the access and restricting the pages per user and the policy
+Installation & troubleshooting Local & Network Printers.
+Troubleshoot LAN/WAN connectivity problems.
+Efficient Technical Support to End Users.
+Monitor Service Desk for tickets assigned to the order and process First-in first-out based on priority.
+Educational Qualifications:
+MSc (Master of Computer Science) From Barkatullah University, India.
+Bachelor of Computers From Osmania University, India.
+Intermediated In CSE (Computer Science & Engineering)
+From Board of Intermediated Education, India
+SSC (Board of Secondary Educations), India.
+
+Technical Skills:
+Certifications:
+
+Microsoft Certified System Engineer (MCSE),
+Microsoft Certified Professional (MCP).
+Microsoft ID: 878116
+ITIL Certification
+CCNA R/S (CSCO ID - CSCO13408221)
+
+Personal Information
+Name : Mohammed Zia
+Date of Birth : 11th May, 1989
+Nationality : Indian
+Language Known : English, & Hindi
+Visa Status : Article 18 Transferable
+
+Contact this candidate

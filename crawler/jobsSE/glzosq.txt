@@ -1,0 +1,30 @@
+
+Role : Devops Engineer
+Location: Phoenix, AZ
+12 months
+
+Job Description:
+
+* Experience in DEVOPS - setting up CI/CD pipeline, XLR integration, Jenkins automation, Continuous Testing (CT) implementation.
+* Strong core java experience (development or testing).
+* Experience in integrating and working on test automation tools for products with UI / Portal.
+* Scripting experience on Shell, Python etc.
+* Able to do some manual testing.
+Need candidate with some selenium experience as well.
+
+Regards
+
+Ria Simpson
+Sr Talent Acquisition
+
+Software Technology, Inc.
+100 Overlook Center, Suite 200, Princeton, NJ 08540
+Direct:
+
+- provided by Dice
+
+Contractor
+
+
+Go to apply 
+

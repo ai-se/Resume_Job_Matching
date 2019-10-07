@@ -1,0 +1,38 @@
+
+Direct Client
+
+Job Title: Senior QA Automation Engineer
+Location: Duluth, GA
+Job Type: Contract to Hire
+
+Please send your resume to or call me on x 110
+Job Description:
+Develop test automation scripts using Java based automation tools Selenium Webdriver, RESTAssured & JMeter.
+Interpret requirements and specifications to develop test plans, test cases and test documentation.
+Conduct functional-level testing including both GUI and API/back-end tests
+Be involved with Agile iterative software development process, continuous integration, continuous testing, rapid automation to efficiently build the best industry software
+Enhance/Build automation frameworks for applications and services.
+Evaluate product functionality and create test strategies and test cases to assess product quality.
+Write SQL queries needed for backend validations.
+Good understanding of REST and cloud architecture
+Experience with BrowserStack, SauceLabs, or other tools to test on multiple platforms such as desktop and mobile
+Think from a customer perspective, and creatively solve real user problems
+Develop, improve and implement the automation solutions to be used across our technology stacks and lines of business.
+Our Tech stacks
+Azure Devops/VSTS, Jenkins, Docker, Kubernetes
+Selenium Webdriver, RESTAssured, JMeter, Appium, Applitools, SauceLabs
+Cucumber/BDD, Java, Springboot, Mulesoft
+Required Skills:
+Bachelor's degree in Computer Science or similar.
+A minimum of 6 years of software development or test framework development experience
+5+ years of expertise in an object-oriented programming language.
+Automation architecture development and/or maintenance experience.
+Ability to programmatically test any software product and develop automation for it.
+Unrivaled attention to detail.
+Documenting, tracking and escalating issues as appropriate with the ability to build effective relationships through partnering and collaboration
+
+Permanent
+
+
+Go to apply 
+

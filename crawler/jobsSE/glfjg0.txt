@@ -1,0 +1,30 @@
+
+Senior Technical Support Engineer Reston US The Senior Technical Support Engineer is responsible for delivering quality software support to Software AG engineers/customers and partners, in accordance with departmental goals and objectives for quality, response and resolution times, and customer satisfaction.
+The Senior Technical Support Engineer routinely acts independently while researching and developing solutions to customer issues and assists others in problem solving with his/her specialty knowledge.
+ABOUT THE JOB * Essential Job Functions Provide technical support for assigned complex system level software products.
+This includes prioritization, analysis, and resolution of problems of diverse scope requiring an evaluation of identifiable factors.
+* Effectively manage customer escalations associated with complex problems reported in software AG products to ensure that end result is high level of customer satisfaction.
+Independently define and drive analysis and research of more difficult technical customer problems.
+Involve appropriate resources in a manner that conserves staff time and yet provides resolution and consistent customer communication in a timely manner.
+* Root cause analyzes technical issues reported by customers by analyzing the diagnostics available depending on the assigned Software AG product line such as the product logs, application code, Java thread dump, heap dump, network log & garbage collection logs to provide root cause analysis and solutions for issues related to system memory management, clustering, SMTP, TCP/IP, SNMP, HTTP and HTTPs.
+* Validate product bug fixes to ensure regression-free solution and product functioning per specifications.
+* Have a documented troubleshooting plan in place for each request and communicate progress against the plan to the customer via frequent and regular status updates.
+Plans should include Service Request Tracking System notes documenting environment, problem description, analysis, next steps (with task owners and dates), and a comprehensive solution description.
+* Develop and maintain specialized test environments to facilitate the reproduction and verification of solutions to technical problems.
+* Oversee and report on installation testing as these products move through the product release cycle.
+* Collaborate with R & D and other internal stakeholders during product problem resolution cycle.
+* Define and report on product supportability and readiness issue during the product life cycle.
+* Assist in the scheduling of team resources.
+Identify continuous improvement activities that will enable effective and efficient technical support to our customers.
+Provide after-hours coverage as needed.
+Lead in team training for new products or product releases and develop technical papers.
+* Provide consulting services to peers.
+* Ensure that any solutions that were not found are recommended for publishing to the knowledgebase.
+* Demonstrate initiative in acquiring expertise in two or more product families within or across product lines on multiple platforms, along with supporting technologies.
+Develop product experience by installing, testing and using software AG products and attending formal and informal classes ABOUT YOU EDUCATION: Bachelor's Degree or higher in fields such as Computer Science, Computer Engineering or equivalent experience EXPERIENCE: Typically 3-7 years of relevant experience ADDITIONAL KNOWLEDGE: * Strong coding experience, preferably in Java, knowledge of SQL and relational databases, experience with diverse operating systems, unix preferred * Strong communication skills * Aptitude for complex technical problem solving WHAT YOU CAN EXPECT * An opportunity to work with and learn from a team of smart and highly knowledgeable colleagues * An atmosphere where quality and innovation are prized and everyone has the opportunity to help shape both design decisions and the agile development process we follow * Health Insurance starts your first day on the job * Three weeks paid vacation & three weeks paid sick leave * 9 paid holidays (including a floating holiday and a community service day) * 401(k) Plan with up to 5% employer match * Business Casual office * Competitive salary and bonus opportunity Software AG is an equal opportunity/affirmative action employer.
+All qualified applicants will receive consideration without regard to race, age, religion, color, marital status, national origin, gender, gender identity or expression, sexual orientation, disability, or veteran status.
+Click on the link to view the full EEO statement WHAT YOU GET WHAT WE DO WHO WE ARE Nearest Major Market: Washington DC Job Segment: Technical Support, Engineer, Consulting, Java, Technology, Engineering, Research
+
+
+Go to apply 
+

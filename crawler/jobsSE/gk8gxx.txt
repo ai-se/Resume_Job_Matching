@@ -1,0 +1,41 @@
+
+The Software Engineer, Back End will engineer interfaces for Engineer.ais customer-facing applications and backend data solutions that support large-scale data transport. This person is responsible for maximizing reusability and testability of the software. This person will also be a critical member of a highly efficient and cohesive engineering team that is focused on the customers needs and requirements.
+
+Why We Need This Role
+We are looking for a software engineer, back end to help us develop our Builder Product and Enterprise Management systems visions and enable us to continue turning clients ideas into a fully functioning software at a massive scale. The industry is in a constant state of flux; tools and frameworks change by the month and so we are looking for someone who is not afraid to learn on the job, and who can take the initiative to identify and implement novel solutions.
+
+Why You Should Join
+This is a challenging and diverse role that requires you to build both, an organization and new generation of Builder product, nearly from the ground up. Only join this role if you are craving rapid growth, able to create a path in uncharted territory, and comfortable with trying, failing and course-correcting fast.
+
+First Six Month Deliverables
+Collaborate with designers, product managers, and other software developers to deliver compelling user-facing products or enterprise wide integrations
+As a part of the engineering scrum team, contribute to the architecture of efficient and reusable components that drive complex applications across the stack
+Create integration and unit testing tools and hooks that enable availability and scalability
+Identify and resolve functional, performance and scalability issues
+Requirements
+Passionate about loosely held values and ideas. We want someone who has experience but is not blinded by the path already taken.
+6 plus years solid experience in back end technologies, including at least 3- 5 years in Ruby and Ruby on Rails.
+Working knowledge of standard CS fundamentals (data structures, algorithms, complexity analysis)
+At least 2 years in large scale platform environment
+CS degree required or equivalent work experience
+Outstanding communication skills, both written and oral
+Expert understanding of React or Angular frameworks
+Strong understanding of and experience with testing practices
+Strong automation and CI / CD experience
+Pivotal Tracker or Jira, GitHub tools experience, some would say you are a master
+
+Preferred:
+Some experience working with AWS or Azure
+Experience in data-driven design environments
+Benefits
+Health and Wellness benefits including competitive medical, dental, and vision plans
+Performance-based bonuses and stock options
+Generous vacation and time off benefits including paid holidays
+Generally flexible working hours
+Working in a beautiful office space the heart of Silicon Beach in Playa Vista
+A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
+Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

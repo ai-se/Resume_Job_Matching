@@ -1,0 +1,10 @@
+
+Sundial Software is currently recruiting for a VMWare Engineer for a one year minimum contract with annual renewal.
+Technical Architect II (16236) Description
+We are seeking an enthusiastic and motivated candidate who thrives in a fast-paced environment to join our team as a VMWare engineer with a proven track record supporting Enterprise storage and backup solutions. Design, implement, and maintain the organization's application systems and/or IT infrastructure. Provide an architectural framework for information system development, maintenance, and enhancement efforts. Understand client and stakeholder needs and deliver a coherent technology vision to meet and exceed their respective expectations. Work closely with developers and engineers to develop road maps for applications, align development plans, and to ensure effective integration among information systems and the IT infrastructure. Monitor technological advancements to ensure that solutions are continuously improved, supported, and aligned with industry and company standards as well as emerging business requirements. Understand the interactions between systems, applications, and services within the environment, and evaluate the impact of changes or additions.
+
+Analyze systems and perform usability testing to ensure performance and reliability, enhance scalability, and meet security requirements. Career-Development position within field. Requires moderate skill sets and developing proficiency within discipline. Candidates must have the ability to prioritize operations, support and projects tasks. Works with moderate supervision with some latitude for independent judgment. Typically requires four to five years experience or equivalent education.
+
+
+Go to apply 
+

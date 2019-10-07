@@ -1,0 +1,22 @@
+
+Description:
+The Electrical Engineer is responsible for developing the Senior Living Alert System, PERS/wearable medical devices across sensors, microprocessor, Wi-Fi, GPS and Cell module and other RF components. This engineer may also be evaluating third party medical devices and IOT devices and integrating solutions into the Senior Living system and PERS service system of Age & Caregiving
+The successful candidate will have hands-on experience in analog and digital circuit design, embedded systems and familiar with wireless technologies. The candidate shall have experience leading and/or working with teams to develop wireless, low-power consumer health and medical products. The Electrical Engineer will also develop test fixtures and support product manufacturingRole and Responsibilities:
+Specify Electrical Design Requirement to meet product requirements and commercial requirements for the to-be-developed devices/systems Design, develop, and test circuitries to help create the devices/systems
+Work with cross functional team to launch new products, including testers
+Specify test requirements and provide technical support on the manufacturing issues
+Evaluate third party medical devices and IOT devices, and find solutions of integrating them into the PERS service system of Lifeline
+Provide technical support to complaint investigationQualifications / Requirements:
+BS or MS Degree in Electrical Engineering
+10+ years of circuitry development and experience with ultra-low power systems. Hands-on schematics design and circuit debugging
+Experience with microprocessors (MSP430, STM151), sensors (accelerometer, pressure), TI radio transceivers, Nordic nRF series, etc.
+Good at documentation, from design/test specifications to investigation reports and white papers
+Good system mentality, to pursue the best design for the overall success of the delivered product and ultimately to the business
+Entrepreneurial attitude. Desire to work in fast paced, dynamic setting with proven record to generate results
+Self-driven and strong leadership ability and proven track record of excelling in a multidisciplinary team environment
+Strong knowledge of WiFi/GPS/Cell/Bluetooth wireless protocols a plus RF design experience a plus
+Embedded design experience is another plus
+
+
+Go to apply 
+

@@ -1,0 +1,224 @@
+
+Warrick White
+**** ******* **** **** 202-***-****
+Camp Springs, MD 20746 adaifh@r.postjobfree.com
+
+Sr. IT Specialist
+
+Summary of Qualifications
+
+Thorough understanding of MS Operating Systems (Windows NT, 2000, XP, 2003, Vista, Windows 7, Win 10).
+Strong customer support skills and troubleshooting abilities.
+Extensive experience with networking Protocols: TCP/IP, DHCP, WINS, SNMP and DNS.
+Excel in analyzing technical needs of clients and implementing appropriate business strategies.
+Strong analytical skills in managing IT assets in a corporate environment in order to reduce the TCO.
+Expert in printing cost recovery solutions implementation and maintenance for A&E and legal markets.
+
+Technical Background
+
+Office Software: Office Suites, Adobe, Photoshop, Paint Shop Pro. Outlook 365, Skype for Business, One Drive, Office 365
+Software:
+Veritas NetBackup Professional and Backup Exec. Ghost, Bromium, USMT, Prism Deploy, Norton Antivirus Corporate, Equitrac Office and Professional, Sepialine Argos, Reprodesk, OCE Client Tools. Trak It, Paper Port Mobile Apps for Blackberry, Powershare Voice Biometrics, Microsoft 2007 and 2010. SharePoint, Remedy.
+OS:
+Windows Server 2000, 2003 and 2008, Windows 2000, XP, Vista and Windows 7, windows 10 Windows NT 4 (workstation and server), MacOS,
+Languages:
+HTML, SQL, DOS Batch.
+Networking:
+Exchange, DNS, DHCP, Wins, VPN, TCP/IP, SSL, Network Troubleshooting, SNMP Monitoring, Wireless LAN, Cisco Switches and Routers.
+Hardware:
+Cisco Router and Switches, HP, Compaq, IBM servers and workstations; HP Printers and Plotters; BackUp Technologies: DAT, DLT, AIT Libraries, I Phone, I Pad, Samsung Galaxy, Palm, Blackberry and PocketPC Handhelds. ClassNet machines, Thin client.
+Printing:
+
+HP, KIP, OCE, Ricoh, Konica, Xerox and Canon.
+Clearance: Secret 09/15 - Present
+Professional Experience
+
+DigitalSpec LLC / Department of State OIG (Office of Inspector General) Arlington, VA / Contractor 10/18- /Present
+Sr. IT Specialist
+
+Provided tier II and III support to the Inspector General, front office personal to include, lawyers, federal agents, auditors, inspectors, investigator’s, and interns.
+On boarded new employees, creating accounts in Active Directory, setting up outlook for windows10, Skype for business, One drive, and Office 365 online.
+Imaged and deployed Microsoft Surfaces, administered security training for all personnel. Printed and configured OIG State badges for all employees.
+Deployed, setup and moved thin clients and ClassNet machines.
+Provided support for ClassNet network connectivity issues as well as ClassNet printers and scanners.
+Installed, configured and troubleshot hardware including but not limited to desktops, laptops, desk phones and peripherals.
+Setup VTC conference rooms, networks, projectors and Skype meetings.
+Monitored, opened and closed tickets using Remedy assuring all matters were resolved according to SLA agreements.
+Configured RSA tokens and provided support with login and password issues.
+Cleared network ports that periodically were blocked by 4scout.
+Configured, and deployed IPhones for all user’s.
+Configured MFP network copiers, plotters and printers. Was responsible for maintaining service records for all MFP’s and meeting with and working closely with technicians to resolved customer complainants with printers.
+Provided technical support to SharePoint users and admins.
+Provided Adhoc training on software upgrades and applications.
+Off boarded employee’s making sure all assigned equipment was returned and accounted for.
+Supported user’s abroad and assisted with account transfers when transitioning from post to post.
+Treated all user’s regardless of title or role as VIP’s.
+
+Stafford Consulting LLC / Department of Commerce BIS (Bureau of Industry and Security) Washington, DC / Contractor 06/17- /10/18
+IT Specialist
+
+Provided technical support to customers with hardware and software issues via direct contact or through remote support.
+Provided Tier-III support and all sorts of System troubleshooting for Department of Commerce local administrator around the World.
+Monitor user access to the network via RSA token usage and assist help desk personnel in unlocking accounts that have been disabled for security reasons
+Install, configure and troubleshoot software packages, operating systems, and company designed applications.
+Install, configure and troubleshoot hardware including but not limited to desktops, laptops, desk phones and peripherals.
+Assist in the account creation and maintenance in Active Directory
+Provide timely updates to management regarding high priority issues
+McAfee Endpoint Encryption specialist - Encryption, recovery, deployment, monitoring by user ID and Machine ID
+RSA Key Fob Manager for 400 users - symmetrical Windows AD caching with RSA tokens for local and remote access to secured networks
+Checkpoint Endpoint security configurations VPN and monitored switches
+Successfully maintained current Standard Operating Procedure documents for troubleshooting, upgrades, Microsoft User creations, Microsoft Exchange email accounts, script execution
+Deploying Laptops and desk tops imaged using PXE Boot, Hard disk cloning machine – manual and GP Policy to update and secure system BIOS settings. O/S Windows all versions
+Blackberry and IPhone configuration and deployments- working with Server application device manager and data and phone provider
+VNC Remote desktop support access for 500 plus local and nationwide field offices for MS Office 2003, 2010 Pro, and Adobe Suites Pro. Citrix Application support – desktop printing support -
+Analytical and understand protocols including TCP IP V4, V6, subnets, IPX/SPX NetBEUI, DNS
+Provided Adhoc and classroom training on software and application packages and upgrades.
+
+CRI / Department of State Bureau of Diplomatic Security Alexandria, VA / Contractor 11/16- 05/17
+Software Developer/Software Support Analyst
+
+•Developed client software SPARTA for deployment at U.S Embassies
+•Collected and installed 2D and 3D media files
+•Setup GIS locations/configured site screen UI layouts
+•Configured and commissioned site specific devices to include camera and security devices plotting on 2D/3D maps Remotely Installed client software
+•Thorough understanding of Microsoft OS, SQL server backend, basic system administration and SQL programming
+•Worked independently on projects, maintained concurrent deployment activities in a test and production environment Supported up to 3-4 unique site deployments per week
+•Verified connectivity of deployed sites. Troubleshooting installation issue daily to include providing tier III support to tier II support analyst
+
+GovTact/ Department of State Bureau of Consular Affairs Washington, DC/ Contractor 02/15- 11/16
+Systems Deployment Specialist II & Technical Trainer
+
+•Provided deployment, installation, training and support on Consular computer systems, hardware & software onsite for U.S. Embassy employees and local foreign staff.
+•Provided system maintenance support including troubleshooting, problem analyses and assessments for hardware, software systems and assigned projects.
+•Trained end users on using hardware and software to process visa’s, passports and other consular services for American citizens abroad and foreign nationals
+•Assured proper, clear, concise technical guidance for use by deployment installers and technical trainers.
+•Worked independently and in small teams to support various software and system related tasks.
+•Provided software development support, testing and building images for deployment.
+•Provided daily status reports to management while on deployment to include documentation.
+•Software Development Support: Provided support to the software development lifecycle through requirements gathering/documentation, software design, software testing and end-user documentation including online or hardcopy documentation. Performed software testing as necessary, and document testing results in the software testing plans.
+Worked with end users, developers and other parties to support software products throughout the product’s lifecycle.
+•Workstation Hardware/Software Installation Support: Assisted with the installation and support of workstation hardware in both central and field locations, including QA testing, piloting and configuration. Emphasis focused on using Windows XP/7, and peripheral device management.
+•Conducted technical training on Consular systems deployment procedures to client technical staff. Conducted technical training on Consular software applications to client end user.
+•Prepared and reviewed systems documentation (e.g., installation manuals, training manuals, trip reports, etc.)
+
+Artech Information Systems. Washington, DC/ Contractor 04/13-03/14 Sr. Desktop Support Engineer
+•Performed break/fix on dell computer hardware to include replacing parts on desktop and laptop computers.
+•Completed advance level diagnosis of operating system and software problems.
+•Installed and configured windows 7, Power share 2011 and modified software as required for installation and upgrades.
+•Diagnosed windows 7 problems at the registry level and applied proper edits or corrections to resolve the problem.
+•Troubleshot network connectivity issues to include NIC.
+•Deployed desktop and laptop systems with customer standard windows OS image, performed system moves of dell computers, peripherals and hp printers per work orders.
+•Deployed hp printers, scanners and other peripherals.
+•Wiped old workstations and post install work station testing.
+•Installed Paper Port on newly imaged workstations
+•Updated tickets and provided proper documentation of resolution to include closing tickets.
+•Produced and edited written materials, including manuals on special software and hardware installations. Trained new desktop support engineers.
+
+APWU American Postal Workers Union. Washington, DC 10/12-12/12
+Sr. Systems Support Analyst
+
+•Provide Tier II and Tier III technical support to end user in H/Q and National offices stateside. Troubleshoot connectivity issue desk side or via remote using LogMeIn.
+•Troubleshoot printing issue’s desk side or via remote using LogMeIn.
+•Provide technical assistance and expertise to end users concerning Microsoft Outlook issues and office applications.
+•Provided technical support with Adobe printing and formatting issues to end users
+•Installed Paper Port on workstations, provided technical assistance and expertise to end users concerning Paper Port issues.
+•Installed and built desktops, laptops, to include the initial setup of I Phones, Samsung Galaxy III and installation of Mobile Apps, Voice Biometrics.
+•Installed and Networked printers, switches and projection equipment.
+•Setup server’s daily and weekly backups and monitored backups for potential issues.
+•Worked directly with the President, VP. And department Directors to insure speedy resolution of any issues they experienced.
+•Monitored Track It ticketing application for incoming tickets.
+
+Verigent LLC. Washington, DC/ Contractor Wells Fargo 06/11- 07/11
+Cisco Systems Engineer
+•Deployed Cisco branch routers and switches to bank locations.
+•Configured Cisco branch routers and switches.
+•Configured port settings.
+•Installed Cisco branch routers and switches.
+•Decommissioned SB Cisco routers and switches.
+•Verified Atm’s, Alarm system, Dvr, and network devices were online.
+
+Artech Information Systems Washington, DC / Contractor 06/10-09/10
+Tier II Desktop Support Technician
+•Support LAN/WAN system using TCP/IP including connectivity to mainframes.
+•Coordinate and performed workstation installations.
+•Provided technical and software support to end-users.
+•Installed, maintained and upgraded workstations and software.
+•Verified data on current XP-based laptops
+•Managed storage are networks using IBM and Dell storage technology.
+•Installed windows 7 OS
+•Migrated previous data from old XP folders to windows 7 using USMT 4.0
+•Backed up user’s files and folders.
+•Verified and tested new OS had been installed correctly and data has been transferred correctly.
+•Provided technical assistance and training to end users.
+•Evaluated computer hardware and software.
+•Assisted client in solving computer-related and network issues.
+•Maintained and repaired computers and peripherals.
+•Installed, configured, diagnosed, repaired and upgraded hardware and equipment while ensuring its optimal performance.
+
+ABC Imaging, LLC. Washington, DC 10/07–06/09
+Systems Engineer
+•Manage a team of IT professionals at client sites. Supervise the installation of Hardware and Software. This includes the installation of servers, server operating systems, SQL, Equitrac, Sepialine, Xerox, Canon, Hp, Oce, Oce software and other hardware and software systems as required by client installs.
+•Installed, configured Xerox, Hp, Oce, Ricoh, Canon B/W /MFP and Wide format Plotters.
+•Created print queues and login scripts. Updated drivers and driver settings.
+•Clearly explain systems in presentations and training sessions. Train client IT department on functionality of systems installed by ABC.
+•Research and Evaluate new software and hardware solutions and make decisions based on criteria such as cost, functionality and business needs.
+•Resolved user issues remotely using LogMeIn, RDP and Dane ware.
+•Provide software, hardware, printing support for more than 100 Clients Nationwide.
+•Configured port settings and installed Cisco Branch Routers and Switches.
+•Resolve or assist with Level 3 Technical support questions and issues.
+•Administer, configure or update client systems as required included patches, fixes and software updates.
+•Troubleshoot client network issues as it pertains to ABC Imaging equipment and systems. Created a virtual environment using VMware workstation on 64 bit computers.
+
+NEW Inc. Sterling, VA 01/07–10/07
+IT Service Desk Technician
+•Responsible for directing information flow between users and administrators, and administrative teams, including notifications regarding major system outages and similar issues.
+•Responsible for system security with regard to creating and administering user accounts, including controlling passwords, levels of network access, and system permissions across multiple platforms on a network.
+•Setup users for remote access and troubleshoot remotely using remote desktop, Dane ware and Citrix.
+•Responsible for taking possession of user and system issues, directing the issues to the proper personnel, and following through to ensure the issues have been resolved.
+•Created user accounts and mailboxes in AD 2000/2003, Avaya Phone systems and Witness.
+•Configured email, MS Outlook 2003
+•Responsible for monitoring remedy ticket queue.
+•Installed and troubleshoot 2800, 2900, 3800 and 3900 series Cisco branch routers and switches.
+•Responsible for backup and restoration of system data, and monitoring the welfare of the data warehousing.
+•Responsible for sending downtime notifications to users and system administrators.
+•Performed other duties assigned to include termination of user accounts.
+
+Comcast Cable Tinley Park, IL 11/03–09/06
+Network System Administrator
+•Served as system administrator providing support for over 200 users as well as servers using Linux and Windows NT.
+•Provided software, hardware and email support for Windows users (NT4/2000/XP/95/98).
+•Detected and fixed numerous software and hardware defects during QA testing phases.
+•Analyzed and resolved end user hardware and software problems in a timely fashion.
+•Provided 2nd and 3rd tier support to helpdesk Infrastructure when required.
+•Performed software patches, driver updates reimaging workstations and workstation deployment.
+•Monitored network using Spectrum, HP Open View and Cisco Works.
+•Familiar using Cisco Call Center and VM Ware.
+•Installed and configured Cisco branch routers and switches, 2800, 2900 series.
+•Monitored and configured Checkpoint firewall, Juniper Net screen firewall.
+•Resolved virus and spyware tickets.
+•Identified and resolved end-user issues for server and website configuration.
+•Performed system maintenance and backups on several servers including Windows 2000, SQL Server, Apache, MySQL and Real Server software.
+
+United States Marine Corps Camp Lejeune, NC 06/88 – 12/91
+Armor Crewman/Communications Technician
+Disabled Veteran of Foreign Wars
+
+Education
+UMUC Online Information Systems & Cyber Security
+02/2015- Present
+ITT Technical Institute of Technology Richmond, VA
+B.S. Computer/Network Engineering 1999-2003 Strayer University Online
+Networking and Microsoft Classes. 06/08-12/08
+
+Certifications
+Microsoft Windows XP, Windows 2000 server and Network Infrastructure certified – 2003
+MCSE 70-298 NT4 Certification (Option TCP/IP and IIS4) – 2000
+
+World Institute for Security Enhancement/Sponsored by Pentagon-HQDA- DOD 4/2007
+Dignitary Protection & Operational Planning (Certification)
+Antiterrorism Force Protection (Certification)
+Operational Security (OPSEC) (Certification)
+Shoot don’t shoot weapons simulation (Certification)
+Curriculum: Counter Terrorist Operation, Counter Surveillance, Contingency Planning, Air Risk Assessment/ Celestial Navigation and Ambush-Explosive Ordinance Detection IEDS and VBIEDS.
+
+Contact this candidate

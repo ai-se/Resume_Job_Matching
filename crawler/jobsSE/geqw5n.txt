@@ -1,0 +1,49 @@
+
+HOTB Software Solutions is seeking looking for a highly motivated DevOps Engineer with experience automating high-availability, secure infrastructure. In this role, you will be a close collaborator with our application engineers and a part of the software-development lifecycle. Our ideal candidate is willing to cross layer boundaries and dive deep to resolve production issues. We're a hard working, energetic team that is passionate about our customers and believes that to be successful we should never stop learning.
+
+Responsibilities:
+
+Setup, manage and maintain our CI/CD processes
+Comprehensive experience architecting, designing and maintaining applications in AWS Cloud Environment
+
+Improving security, reliability, and performance
+
+Administer, monitor, and deploy cloud-based services
+Familiar with Agile methodologies
+Experience with designing highly available systems (ELB, Route53, etc)
+
+Collaborating with application engineers to design robust systems
+Qualifications:
+
+5+ Years of related experience
+
+3+ Years of AWS DevOps experience
+
+Experience with Linux and Windows instances.
+
+Experience with Mac OS a plus.
+
+Experience with scripting and automation.
+
+AWS Certifications are a plus
+
+Application Architecture knowledge/experience
+MUST WORK ONSITE AT OUR CORPORATE OFFICES IN IRVINE, CA
+Desired Skills:
+
+Familiarity with Docker or any other containerization product
+AWS Services: EC2, ELB, IAM, Route 53, S3, etc.
+Amazon Certifications a plus
+SSL Certificate Process (openssl, CSR, etc)
+
+Managing high-availability, multi-AZ environments
+
+Software Development experience
+
+Logging/Monitoring tools
+
+NGINX, IIS, and other web servers
+
+
+Go to apply 
+

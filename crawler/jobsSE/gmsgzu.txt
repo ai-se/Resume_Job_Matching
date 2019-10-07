@@ -1,0 +1,42 @@
+
+Lead / Senior -- DevOps Engineer - Full-Time-Employee
+Quintessence is a premier provider of Financial IT services to major Wall Street firms. Quintessence provides on-site, off-site and off-shore Financial IT Services.
+Our Direct Client, a major financial firm in NYC, requires a Senior / Lead -- DevOps Engineering with strong hands-on experience in Build Systems (CI/CD), Configuration Management, Git, Jira, Docker, Kubernetes, AWS and Python scripting. Leading small DevOps teams is a PLUS.
+The Lead / Senior DevOps Engineer of Financial Trading Systems will lead a small team (2 to 3 members) of DevOps engineers in the design, development, implementation and support of software build systems and automate the existing build, test, and deployment process. He / She will:
+Lead a small (2 to 3 engineers) DevOps teams
+
+Integrate automated Financial Trading System builds and build artifacts into test environments, unit test harnesses, and code analysis tools
+
+Maintain and enhance external interfaces to build systems and information
+
+Provide design and implementation guidance and train team members in best practices, tool use, and quality assurance
+
+Develop build scripts and tools for builds, using most appropriate languages and technologies
+
+Implement SCM strategies and security
+
+Minimum Experience Required:
+8+ years of Application Management, Configuration, Deployment of experience.
+
+Major Plus: Leading small teams of DevOps engineers
+2 years of experience at major Investment Banks, Brokerages, Wealth Management Firms
+4 years of experience with Docker, Kubernetes and AWS
+
+Strong experience with scripting technologies including Python, Perl
+
+Experience with administration of Source Code Management tools like GIT for code branching strategy and check in
+
+Demonstrated a solid project where they designed and implemented a cross platform build framework
+
+Familiar with OOP with either C#, Java or C++
+
+Strong knowledge of Configuration Management concepts, build framework design and architecture
+
+Linux, Unix and Windows experience required
+
+The compensation includes a very competitive base salary, a performance bonus and excellent benefits.
+For more information, please call Quintessence at +1-516
+
+
+Go to apply 
+

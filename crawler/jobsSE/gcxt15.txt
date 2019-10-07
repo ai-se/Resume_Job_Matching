@@ -1,0 +1,18 @@
+
+Sundial Software is currently recruiting a Server Engineer for a direct hire position for one of a rapidly growing IT service related customers.
+Senior Systems Engineer
+The ideal candidate will:
+• Design and implement VMware and Hyper-V virtualized environments
+• Configure single and multi-site Windows Active Directory domains
+• Understand the difference between vCenter, vMotion, & vSphere and when to use them
+• Understand how and when to create GPO and GPP and when to use them, how FSMO roles should be configured, and how AD sites are used
+• Be able to configure and support Office 365
+• Need to be able to create and follow procedures, processes, and documentation
+• Be a go-to technical engineer for first and second level engineers
+• Identify, troubleshoot, and resolve hardware, software, and network problems
+• Have experience using PSA and RMM tools
+Must have a minimum of three years of experience in a technical, customer service position, be self-motivated, ambitious, intelligent, detail-oriented, and want to be part of a fun, hard-working team.
+
+
+Go to apply 
+

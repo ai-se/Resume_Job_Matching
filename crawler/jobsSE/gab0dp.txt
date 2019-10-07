@@ -1,0 +1,71 @@
+
+Software Engineer
+
+Rochester, Michigan - OneStream Software LLC
+
+Employment Type: Full-Time
+
+ABOUT THE JOB
+We are looking for a Software Engineer to join our OneStream Marketplace Development team. The OneStream Marketplace is similar to an "App Store," where our customers are able to use our Corporate Performance Management solutions. Our product is designed for high-end deployments at customer facilities or in the Microsoft Azure cloud. The core engine contains complex OLAP, multi-dimensional, multi-server, multi-threading, web, and SQL technologies and is specifically designed to solve problems for the Office of Finance at large corporations.
+
+RESPONSIBILITIES
+Design, build, and maintain efficient, reusable, and reliable code.
+Integrate data storage solutions.
+Ensure the best possible performance, quality, and responsiveness of applications.
+Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues.
+Help maintain code quality, organization, and automatization.
+
+QUALITIES OF A SUCCESSFUL CANDIDATE
+Formal Education and/or certifications
+Bachelor's degree in a technology-related field.
+Knowledge and Experience
+5+ years programming experience.
+Recent Microsoft technology focus.
+Experience with the following technologies:
+VB .Net, C#, Visual Basic and SQL Server
+Visual Studio, TFS, and GIT.
+Strong understanding of object-oriented programming
+Data Modelling Skills
+Skill for writing reusable libraries
+Familiar with various design and architectural patterns
+Experience with Agile/Scrum Development Methodologies
+Ability to analyze and communicate technical issues, lead discussions, and influence decisions.
+Excellent written, verbal, and interpersonal skills.
+Personal Attributes
+Ethical.
+Credible.
+Professional.
+Results-driven.
+Detail-oriented.
+Able to multi-task.
+Flexible and adaptable.
+Team player.
+Legally authorized to work for any company in the United States without sponsorship.
+
+WHO WE ARE
+OneStream Software is a privately held software company created by the same team that invented the leading financial solutions of the last decade. We provide a unified Corporate Performance Management (CPM) platform which enables the enterprise to simplify financial consolidation, reporting, budgeting, and forecasting for complex organizations. Our powerful extensibility enables the enterprise to deliver additional analytic solutions without adding any technical complexity. By delivering multiple solutions in one application, we offer increased capabilities for financial reporting and analysis while reducing the risk, complexity, and total cost of ownership for our customers. We are driven by our mission statement that every customer must be a reference and success.
+We are equally fanatical about our OneStream family members (formally known as employees). We are a team in every sense of the word. Everyone here is approachable and excited to pitch in and help. We work hard and play hard. The right candidate is easy to get along with, always willing to lend a hand, excited about coming to work, and happy to contribute to the team. We have a casual dress environment and modern office with an onsite gym!
+
+WHY JOIN THE ONESTREAM TEAM
+Transparency around corporate structure, salary, and benefits.
+Core value of customer success.
+Variety of project work (not industry specific).
+Strong culture and camaraderie.
+Multiple training opportunities.
+Benefits at OneStream Software
+OneStream employees are passionate, hardworking individuals who go above and beyond to keep our customers happy and follow through on our mission statement. They consistently deliver the best and, in turn, we make every effort to keep them cared for and happy. A sample of the benefits we provide are:
+Excellent Medical Plan.
+Dental & Vision Insurance.
+Life Insurance.
+Short & Long-Term Disability.
+Vacation Time.
+Paid Holidays.
+Professional Development.
+Retirement Plan.
+OneStream Software is an Equal Opportunity Employer.
+
+Job Posted by ApplicantPro
+
+
+Go to apply 
+

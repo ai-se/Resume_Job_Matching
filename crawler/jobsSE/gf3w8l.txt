@@ -1,0 +1,46 @@
+
+Company Description
+
+Catalogic Software, Inc. provides data management software that helps data centers and organizations to catalog, protect, and manage their data. It offers Copy Data Management (CDM), an IT solution to manage the creation, use, distribution, retention, and clean-up of copies of production data/copy data on enterprise storage systems. The company also provides an intelligent data protection software for backup, rapid recovery, cloud integration, tape or tape replacement, bare metal recovery, and remote office backup applications. Catalogic Software, Inc. was founded in 2013 and is based in Woodcliff Lake, New Jersey. It has subsidiaries in the United Kingdom, Poland, Germany, Singapore; and support centers in the United States and the Netherlands.Job Description
+
+We are looking for a Python Developer to work on a Quality Assurance team to participate in creating test automation scripts and extending an existing QA automation infrastructure. Position will assist with manual QA operations that are not or cannot be automated.
+The candidate will be a member of our QA team and will have the opportunity to grow and learn new skills from senior QA and developer staff.
+This is an entry-level position
+We are not sponsoring visas for this position.Qualifications
+
+We are looking for:
+- 1+ years Python programming calling REST API's and manipulating JSON
+- Strong written and verbal communication skills,
+- Familiar with Linux and bash
+- Familiar with Windows
+- An eager and helpful personality, curious, continuous learner, team player
+- 4 year degree in computer related field with programming related coursework desired
+Nice to have:
+- Python test and other framework knowledge would be a plus
+- Fundamentals of Git & version control
+- Networking and routing
+- Virtualization
+- SAN storage, and tape devices
+
+Additional Information
+
+What tools we use:
+- JIRA for issue and project management
+- GitLab for code Versioning
+- Confluence for documentation
+- GitLab and Jenkins for builds and CI/CD
+- Docker/Docker Swarm
+- AWS
+What we are offering:
+- work with latest technologies on a enterprise product
+- opportunity to follow multiple career paths in the future in our organization
+- Access to may types of software, platforms, hardware
+- Full-time work, health benefits, 401k
+- office provided coffee, snacks, Friday bagels
+We are not sponsoring visa for this position.
+Currently we do not offer relocation package, relocation is on your own expense.
+We may schedule an online Python proficiency test to ensure desired skills
+
+
+Go to apply 
+

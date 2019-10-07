@@ -1,0 +1,39 @@
+
+Responsibilities:
+
+Key Technologies C#,. NET, MVC, SQL Server, REST
+Experience level
+Senior (7+ years)
+Do you thrive on creating software that matters? Are you passionate about your craft and enjoy working with others who feel the same?
+As an innovator in the operation of family entertainment centers, we are looking for experienced full-stack developers who would love to create cloud-based apps and APIs to power our software systems of the future.
+In this role, you will design and develop solutions as part of a ground-up re-engineering of our software applications using the latest .Net and Web technologies...allowing you the freedom to let your technical capabilities shine.
+Requirements & Skills
+Experience with C#, ASP.NET MVC
+Experience consuming REST API's and JSON
+Experience with unit testing frameworks
+Experience with Agile development processes, methodologies, and tools
+Experience using source control, preferably Git
+Bonus: prior experience using VB.NET
+Bonus: prior experience with CI/CD tools -- Jenkins, Bamboo, Spinnaker, etc.
+Bonus: prior experience with WIX Toolset
+Bonus: prior experience with .Net Core, Docker and Kubernetes.
+Qualifications
+Minimum of 7 years' experience designing and implementing C# .NET based software systems.
+Sound knowledge of modern development trends, technologies, and design patterns.
+Authorized to work in the U.S. without a visa requiring sponsorship.
+Cultural Fit
+You have a passion for writing great code with the desire to achieve and exceed goals.
+You are personally accountable for your work and love creating value for your users.
+You have a desire for the team to succeed above personal preferences.
+You are extremely technical, but also have a passion to constantly learn and develop new skills.
+This position offers the opportunity to work remotely up to 80% of the time, but candidates MUST reside within a reasonable drive of our business location in Roxboro, NC.
+Important
+Applicants may be interviewed and hired prior to the closing date of this ad.
+Must be authorized to work in the United States; candidates requiring Visa sponsorship WILL NOT be considered.
+Must be willing to undergo a pre-employment background check and drug screen, in accordance with local law/regulations.
+CenterEdge is proud to be an Equal Opportunity Employer
+
+
+
+Go to apply 
+

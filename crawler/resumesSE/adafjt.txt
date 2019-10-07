@@ -1,0 +1,45 @@
+
+SUMMARY
+SKILLS
+EXPERIENCE
+Maria Scutaru
+(H) 609-***-**** adafjt@r.postjobfree.com 457 Acalanes Dr, apt 15, Sunnyvale, CA 94086 Experienced QA Lead, knowledgeable in full automation frameworks, software release and manual testing processes with excellent analytical product development skills. Extensive in depth expertise of Google Maps Platform products with 1 billion monthly active users and 99% of world coverage.
+Embedded Automotive
+Android InfoSystems
+OEM release and testing
+QA Tools
+Testing and results analysis
+Continuous Integration
+XCTest
+Swift
+Jenkins
+Charles Proxy
+Postman
+Rest Api Testing
+QA Lead, Google, June 2017-Current
+Mountain View, CA
+QA Lead on multiple Google Geo software projects:
+- Android Automotive OS with Embedded Maps and Android Auto
+- Google Maps Platform: Mobile (iOS and Android), Web Google Maps, Maps on Wear.
+- Maps Api that include all Maps related Api's and SDK's: Ride sharing Api's, Maps SDK, Routes and Directions Api's, Navigation SDK, Geocoding and Geolocation, Places SDK. Lead the testing efforts for launching into production the Android Automotive OS and Maps integration - Google's embedded infotainment system that will debut being built in into the Polestar 2, the all-electric luxury performance vehicles from Volvo, first cars ever to officially get Android Automotive OS.
+Manage a team of 12 members to ensure product quality, design optimization, thorough regression testing, implementation and support of new features. Work closely with UX researchers on driver distraction test plans in order to pass the user safety requirements using cutting edge software to simulate driving experience environments. Took the ownership to design and review Android Automotive OS and Services Product Documentation for partners and management. Worked side by side with our senior technical writer to ensure consistency and accuracy of our product description that is used to promote our software on a global scale.
+Responsible for weekly Automation and Manual Testing results reports summary using Data Studio.
+EDUCATION AND TRAINING
+SQA Engineer, Road Hunter, December 2016-May 2017
+New York, NY
+Created detailed, comprehensive and well-structured regression test plans. Participated in regular project team meetings to discuss development and testing processes, business requirements, and assignments.
+Analyzed test results to discover/report defects, bugs, errors or configuration issues, and reported them into the bug tracking system.
+Worked alongside developers and other project stakeholders to understand function, features and testing needs of the product.
+Math Tutor, Wyzant Tutoring Teaching & Coaching, August 2015-May 2017 New York, NY
+Designed study programs based on school curriculums and students needs to help each excel in studying for and taking examinations
+Coached students through challenging material with positive reinforcement and encouragement.
+Communicated with parents and teachers about student progress in individual and group sessions using student feedback and assessments.
+Monitored students' math skills using progress assessment tools. Bachelor of Science
+Financial Mathematics, CUNY Brooklyn College, New York NY 2 years towards studying quantitative mathematics implemented in modeling financial markets using statistics and probability theory.
+Associate of Science
+Mathematics, LaGuardia Community College of The City University of New York, Long Island City NY
+Continuous Professional Studies
+IOS Test Automation, QA CodeFitness, San Francisco, CA March 2018 Swift Development Fellowship
+IOS Development, C4Q, Long Island City, NY
+
+Contact this candidate

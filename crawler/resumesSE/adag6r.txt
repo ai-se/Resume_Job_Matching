@@ -1,0 +1,61 @@
+
+ASHWINI PATTAR
+Email:adag6r@r.postjobfree.com Contact no: +91-988*******
+Career Objective:
+Worked as a "Software Engineer” for 11 months in software developing in an esteemed organization that provides endless opportunity in Python, NLP technology. Profession Profile:
+Worked for “Intkonsys Technologies” as a software developer from 11th august 2018 to 28th june 2019
+Worked for Aroha Technologies, Bengaluru for 1.5 months as a SQL developer
+(Trainee) in 2018
+Technical Skills:
+Knowledge in understanding client requirements and designing Python and NLP Solutions.
+Have deep knowledge in Python basics, Input/Output,Variables,Operators, Control flow, functions.
+Have deep knowledge in OOPS, Exception Handling.
+Have complete Knowledge in GUI- Tkinter.
+Worked on Numpy, Pandas, Matplotlib, Minecart, PyPDF2, pdfminer3k, NLTK, scikit Learn,modules.
+Have deep knowledge in NLP [Natural Language Processing].
+Have deep knowledge in Text preprocessing, Text to Features, Entities Extraction, NLP Libraries.
+Build Project on Python,Tkinter and NLP
+Handled errors diligently using Try-Catch statements.
+Have Knowledge in Flask web development
+Operating system Windows,Linux
+Programming Languages C,C++,Python
+Database My SQL, M S SQL,MongoDB
+Web Development HTML,CSS,PHP
+Tools SQL Server 2012,Pycharm,Anaconda
+Academic Profile:
+Graduated in Computer Science Engineering from S.G.BIT College of Engineering Belgaum (2011-2016).
+College Project Details:
+Project Name: I CITIZEN SMART CARD
+Project Description: I CITIZEN SMART CARD Application is an android application that retrieves and displays the cloud data using internet. A smart card with a unique QR code printed on it is scanned by the android application which in turn displays all the documents which belongs to an individual.
+The main motivation for carrying this project is to reduce the burden of carrying documents that is all the documents are integrated in a single smart card. This is done with help of QR code. By just scanning the commuters QR code all the documents can be accessed at finger tips.
+Project Members: Four members.
+Platform: Android and Windows
+Languages used: Java and PHP
+Tools used:
+1. Eclipse: ADT (Android Development Tools)
+2. Xamp server
+3. Joomla
+Professional Projects Profile:
+Company: Intkonsys Techonologies Pvt Ltd
+1. Project: Documentation Parsing
+Title : Documentation Parsing
+Team Size : 2
+Duration : March 2019 to June 28th
+Project Description: Documentation Parsing is Application is an Python,NLP
+.Application that extracts text and images from PDF files stores separately and displays on GUI and also does Text pre-processing using NLP module NLTK Roles and Responsibilities:
+1. Worked on some features which are mentioned above on both Backend and Frontend.
+2. Worked on extracting text and images from PDF files and storing. 3. Involved in enhancing the test cases and defect reporting. 4. Debugging the defects and support issues.
+5. Worked on GUI using Tkinter.
+6. Worked on Text pre processing using NLP
+Personal Profile:
+Name : ASHWINI PATTAR
+Address : # CCB no:45, Second cross
+Mahadwar Road, Belgaum
+Belgaum: 590001.
+Date of Birth : 18-june-1991
+PAN Number : CWDPP7529J
+Declaration:
+I hereby declare that the information furnished above is true to the best of my knowledge. Date:
+Place: (Ashwini Pattar)
+
+Contact this candidate

@@ -1,0 +1,173 @@
+
+DEREK J. JABBOUR
+EXPERIENCE:
+**/** –current CIOX HEALTH – Storage Architect
+NetApp/VMware Consultant -
+NCDA (7-mode/Clustered ONTAP)
+NCIE SAN & Virtualization certified
+NASAP- NetApp Accredited Storage Architect Professional
+• Responsible for remediating level III issues with NetApp products/implement best practice.
+• Snapmirror/Snapvault for Prod and Colo sites (ATT Irving TX, QTS Atlanta GA)
+• VMware ESXi 5.0 – 6.7 (Cisco UCS/Dell Platforms/HCI NetApp/HP Synergy)
+• OnCommand Insight, Snap Drive/SMO/SM SQL
+• CDOT migrations- 7Mode transition tool, completed over 100 Migrations (some over 2PB)
+• ONTAP cloud – snapmirror target for on prem, spun off to Azure Blob and AWS S3
+• Over 4000 mounts NFS, CIFS, ISCSI (VMware ESXi luns) FCP for SQL and Exchange
+• AFF8080/A700s/A300 – All series FAS NetApp arrays ONTAP 7.36 – 9.4
+• Clients include Wolters Kluwer, Sony, Anthem
+11/13 –11/16 Continental Resources, Inc. – VAR CONSULTANT NetApp/VMware/Brocade Consultant – Harvard Publishing, Global Partners LP, Rutgers University
+NCDA (7-mode/Clustered ONTAP)
+NCIE SAN & Virtualization certified
+NCIE Backup & Recovery certified
+NASAP- NetApp Accredited Storage Architect Professional NAIP – NetApp Accredited Installation Professional
+• Responsible for remediating issues select clients with NetApp products/implement best practice.
+• Snapmirror/Snapvault (Filer/OSSV) issues
+• VMware ESXi (Dell 12 Gen line), ONTAP Edge 7-mode product installs/CDOT migrations for VMware (Global Partners)
+• OnCommand Core, OnCommand Report
+• Installs including include entire FAS/Vseries hardware lines/OnCommand Monitoring/Insight Balance
+8/13 –11/16 CDI Corp (Contractor for IBM Global Services) – CONSULTANT NetApp/VMware/Brocade Consultant – Wolters Kluwer (CCH) NCDA (7-mode/Clustered ONTAP)
+NCIE SAN & Virtualization certified
+NCIE Backup & Recovery certified
+NASAP- NetApp Accredited Storage Architect Professional NAIP – NetApp Accredited Installation Professional
+• Installed and maintained N-Series N7950T (NetApp 6290) stretch MetroCluster (tiebreaker driven) and QTY (4) N6270 HA Pairs for production and nonproduction environments, broken out into 2 datacenters
+• FC switches – managed by IBM Network Advisor 12.1.3 (Brocade’s Data Fabric Manager) o QTY (4) IBM 768B (Brocade DCX) - CORE
+o QTY (4)IBM 40B-4 (Brocade 5100) - EDGE
+o QTY (4) IBM 24B-4 (Brocade Silkworm 300) - EDGE
+• Installed and Maintained OnCommand Core, OnCommand Report, OnCommand Insight Balance Derek Jabbour
+402 Martin Falls Manor
+Canton, GA 30114
+774-***-**** ac9zta@r.postjobfree.com
+www.jbfederal.com
+DEREK J. JABBOUR
+PAGE 2
+• Heavily firewalled environment splitting N7950T’s and (2) N6270’s IP addresses (VLANs over VIFs.)
+• Snapmirrors (VSC driven)/snapvaults over to BUR (Backup and Recovery N6270) then to NDMP to TSM library.
+• Mix of Tier 1 SAN storage (FC LUNS built on Hybrid Aggrs for MS 2012 SQL Clusters/FSW ), Tier 2 NFS storage (10G VIFs, SAS 15K for Application/middleware servers), and Tier 3 CIFS (10G VIFs, SATA 7200K, tied into W2K8 domains for encrypted document storage.) 11/10 – 1/14 NetApp Professional Services – FULL TIME EMPLOYEE Professional Services Consultant II
+NCDA (7-mode/Clustered ONTAP)
+NCIE SAN & Virtualization certified
+NCIE Backup & Recovery certified
+• Responsible for all NetApp product installs on customer sites (CONUS)
+• Installs including include entire FAS/Vseries hardware lines/OnCommand Software Suite
+• Flexpod/MetroCluster builds – VMWARE VSphere 4/5.0 intergrated with NetApp’s VSC: Provisioning and Cloning/Backup and Recovery/Cisco 9148 MDS switches/Brocade 300
+• Monitoring with Performance Advisor/Solar Winds/SanScreen /Insight Balance
+• Built and responsible for 40 different Symantec VCS Clustering configurations - both failover and CFS (shared write) clusters on Sun/AIX/RH to include ORACLE/UDB. NetApp VCS agents also assigned as resources.
+• Resident onsite PS MITRE – built out Citrix XenCenter 5x/6x for cloud project, 1000VMs
+• Resident onsite PS MITRE - Flexpod Hybrid Cloud build – 3500VMs VMware/NetApp/Cisco blended environment. Vfilers/multistore secure IP space separation for multiple tenants. NetApp VSC-backup and recovery tool performing backup and recovery for VMs within the cloud. Rapid provisioning and cloning.
+11/09 – 11/14 Liberty Mutual - CONTRACTOR
+IBM AIX/Redhat/Sun UNIX OS Administrator, Midrange Storage- Level III Engineering Support
+• Responsible UNIX OS installs, patching, and security management for 3400 UNIX nodes
+• Hitachi Storage Migration Project (Tier I, Tier II – 2PetaBytes) Technical Lead– Migrating from IBM8100/AMS1000 series to AMS2500/USPV series storage for all 3400 UNIX nodes to include VCS clusters on SUN/AIX/REDHAT (Active/Active, Active/Passive), VIOs, and LPARs (direct SAN attached and VIO served).
+• Responsible for IBM 8100 (2107 Series) Shark storage for Prod SAS environment -Currently 60TB.
+• Hitachi Dynamic Link Manager Upgrade Project Technical Lead– Upgrading from faulty HDLM version to stable version.
+• Responsible for non-disruptive upgrades on all VIO servers (PowerVM P770) – Currently 2.2.1.4
+• Responsible for TL upgrades for all 4500 AIX 5.3/6.1 LPAR/physical nodes
+• Korn shell scripting for management of all OS tweaks
+• Responsible for upgrading VxDMP, MPIO, and HDLM disk pathing software on all P570, VIO servers, and LPARs.
+• Responsible for OS/ SAN layout for VCS SAS 9.1 cluster - Data Warehouse project.
+• Responsible for Redhat RHEL4/5/6 VMs. (Vsphere Client)
+• Recovered SAS 9.1 12 node VCS Clustered shared file system environment after disaster.
+• Rational DOORs requirement spec writing for documenting change control proceedures Tools used: VERITAS VCS/Storage Foundation, IBM HACMP, BMC Bladelogic, Tivoli TSM, IBM HMC for VIO and LPAR management, Autosys job control, BMC Patrol, NetApp SanScreen 4/09 – 10/09 General Dynamics - FULL TIME CONTRACTOR DEREK J. JABBOUR
+PAGE 3
+Contractor – DIRECT MSG/AIT Messaging Project
+MSG/AIT technical requirements writer
+• Responsible for all phases of system design rewrite of classified defense messaging product.
+• Currently extracting ACP128/JANAP128 system requirements for new system. Rational DOORS technical requirement software to document system builds requirements. Sun architecture, custom clustered configuration for Nuclear Command Control Authority. 2/09 – 4/09 Citizen’s Bank, East Providence - FULL TIME Senior Sun UNIX Administrator
+• Responsible for all UNIX operations and ticket queues. 700+ Unix Server farm. AIX, Redhat
+(VMware), Sun - VERITAS Cluster Server 4.1, Sun Cluster 3.1, Netapp metrocluster Tools used: Centrify and BoKS server controls. BMC’s Bladelogic for server management. Symantec ESM, Qualys, Retina scanning tools. CA autosys
+3/99 – 1/09 Portsmouth Naval Shipyard, Unites States Navy, Portsmouth NH, - FULL TIME CONTRACTOR Senior IBM SAN Architect-Sun Systems Administrator-Unix Security JB Federal Systems GSA Contract Award - R1DC1705001
+(3 follow-on contracts)
+• Architected and implemented Portsmouth Naval Shipyard’s SAN and Disaster Recovery Site back in 2001. Implemented all changes (hardware migrations for disk/tape/fibre channel) during maintenance and growth phases.
+• Installed and supported entire Sun environment, custom jumpstart, patching, break/fix, hardening for 10 years.
+• Lead team of 4 subcontractors to JB Federal on this contract. The other disciplines were Windows support, Citrix support, and Exchange support. In total, a team of 11 to include our Cold Fusion and web programmers on a separate contract, but all were directly reporting.
+• Migrated every shipyard application/SUN ORACLE database system ranging in OS from Solaris 2.4 through Solaris 10 since 1999
+• Setup a DR plan for failover to DR site using VERITAS mirroring and snapshots, importing/deporting disk groups for server portability.
+• Responsible for running Retina and DISA SRR/STIG/DoD 8500.1 scripts on our all Sun UNIX machines. Prepared tool reporting and remediated high-med-low hit findings for SSAA network accreditation package and weekly monitoring.
+• Responsible for Tivoli Storage Manager 5.4 on IBM AIX 5.3, 6F1, H80, and 6E3 hardware running on two IBM 3584 expanded libraries in both production and DR site
+• Installed and maintained three separate Red Hat Linux Vericept View filters for policing web traffic.
+• Installed and maintained 5 BIND DNS Solaris x86 machines for name services. Base hardware equipment:
+• IBM Shark 2105 (Series 800s,F20 Storage) (54TB total)
+• Sun V490, V480, V440, V240, 6800/M3x/M5x series ORACLE servers (prod, test, dev)
+• NetApp (all series FAS) Metrocluster environments, HA pairs (all protocols)
+• IBM AIX 5.3 (6F1, H80, 6E3 P570/770 series)
+• 3584 IBM Tape robotic libraries
+• Fibre Channel McData/BROCADE Silkworm/ED6064 Directors and Sphereon 4500
+• Red Hat Linux Vericept View filters (Web traffic policing control) Software:
+• Solaris Operating System 2.4-10
+• NetApp 7.x – 8.1.1 (7Mode/ClusterMode)
+• Veritas Foundation Suite 3.5 – 5.0
+• IBM AIX 5.x/6.x/7.x
+• IBM VIO 1.3 – 2.2.1.x (P
+• Tivoli Storage Manager 5.1 - 5.4
+• IBM flashcopy scripting for Veritas volumes for snapshots. DEREK J. JABBOUR
+PAGE 4
+• Custom Korn shell scripts.
+• Mcdata (BROCADE) OS 7 - 9.6
+• IBM Rational products (Telelogic)
+2008 University Of Phoenix – PART TIME
+Faculty Instructor
+Approved courses
+• CIS205 - Management Information Systems
+• CIS319 - Computers And Information Processing
+• CMGT411 - Project Planning Management
+• MGT344 - Organizational Behavior And Ethical Responsibility 3/01 – 3/04 325th Military Intelligence BN, Fort Devens, MA – PART TIME SGT, US Army Reserve, CounterIntelligence Special Agent
+• 97B Counterintelligence investigator on special duty assignment.
+• Trained also as a 97 E Interrogator.
+• Later assigned to North East Information Operations Command, Fort Devens.
+• Honorably discharged.
+3/00 – 6/00
+Oasis Systems Inc. – PART TIME
+UNIX Engineer (contract)
+• Installation of an offsite E3500 machine with one A1000 disk array.
+• Scripted backup scheduler, installed Paradyne OpenLane, and HP Openview for network management purposes.
+• Worked directly with Mr. Chelliah.
+6/00 – 9/00 JB Federal Systems/Summit Systems, BAE Systems, Sanders-Lockheed Martin, Pope Technical Park, Hudson, NH – PART TIME
+Unix Systems Engineer (contract)
+• In support of Information Dominance Systems division Unix workstations for classified and unclassified projects to include HP-UX, SunOS, and Solaris.
+• Maintain E3500 Sun Server with A1000 array with RAID 0 in NIS environment. Install workstations with custom jumpstart configurations and troubleshoot general OS, NIS, and NFS problems.
+• Utilize AR System (Remedy) to handle incoming service requests and problem tickets as generated via Sanders' help desks.
+1/99 – 3/99 Aerotek Corporation, TBMCS Project Electronic Systems Center, CUBE, (Command and Control Unified Battlespace Environment), United States Air Force – FULL TIME Senior TBMCS Engineer
+• Worked the Theatre Battle Management Core Systems Project for Lockeed-Martin. Contracted by Aerotek Consultants to the Averstar Corporation, a sub-contractor for Lockeed-Martin.
+• Installed and maintained Cisco routers (4000 and 2500 series), Unix ISSE guard and one-way fiber guard, entire Netscape suite of products, proxies, firewalls (Cyberguard and Sidewinder), and IRE SafeNet LAN encryption boxes for the Perimeter Security System. (TBMCS/PSS)
+• Maintained all Unix Sun Solaris laptops and Cisco Catalyst switches for the test lab and Siprnet at the CUBE.
+• Readied deployment of systems by the Air Force-April '99. 1998 – 1999 Hanscom AFB, Electronic Systems Center, Dekatron Corporation – FULL TIME Senior Systems Engineer, Unclassified network, MISTS II Contract
+• Maintain all Unix servers (Sun), routers (Bay Networks, Cisco 2500 and 4000 series), and switches for the unclassified Hanscom AFB class B network.
+DEREK J. JABBOUR
+PAGE 5
+• Maintenance of all firewall and DNS servers.
+• Migrated from FDDI architecture to ATM backbone design, to include installation and maintenance of FORE Systems ASX/1000 switches.
+• Installation and maintenance of WAN circuits and software upgrades.
+• Also installation and maintenance of all Bay Network C-100 (Centillion) switches. 1997 – 1998 United States Air Force – FULL TIME
+Senior Airman, Electronic Systems Center, CUBE, (Command and Control Unified Battlespace Environment)
+Network Administrator, SIPRnet classified network
+• Maintained all Unix servers, routers, and concentrators for all communications on and off base, for all classified and unclassified traffic, including the Airborne Command Post, Speckled Trout.
+• Installed and maintained Windows NT 4.0 HP server for unit.
+• Responsible for account and system maintenance.
+• Participated in ATM Fore System migration, including installation of WAN circuits and software upgrades.
+• Telephone maintenance and installation of new circuits. 1995 – 1997 United States Air Force – FULL TIME
+Unix Systems Administration, Internet Systems Group Airman First Class, 66 Support Group, Communications Squadron
+• Maintained accounts for all Sun UNIX systems including web, proxy, and firewall servers.
+• Monitored the proxy server on a daily basis to provide security auditing of entire base network.
+• Maintained firewall rules, logging and main UNIX server running Remedy System application. EDUCATION:
+2019 Louisiana State University, Shreveport, LA
+Master of Business Administration, concentration in Data Analytics
+(expected graduation 7/2020)
+University of Phoenix, Phoenix, AZ
+2004 Associate of Arts, General Studies
+1999 Master of Science, Computer Information Systems 1998 Bachelor of Science, Business Information Systems 1992 Bristol Community College, Fall River, MA
+• Associate of Arts, Pre-Professional Program
+CERTIFICATIONS:
+2012 NetApp NCIE – NetApp Certified Implementation Engineer-Backup and Recovery specialty 2011 NetApp NCIE – NetApp Certified Implementation Engineer-SAN and Virtualization specialty 2010 NetApp NCDA- NetApp Certified Data Administrator (7Mode/ClusterMode) 2008 SYMANTEC/VERITAS Storage Foundation 5.0 Certification 2001 Sun Microsystems, Solaris 8 System Administrator Certification 2000 Sun Microsystems, Solaris 7 System Administrator Certification DEREK J. JABBOUR
+PAGE 6
+DEREK J. JABBOUR
+PAGE 7
+TECHNICAL EDUCATION:
+2002 Sun Microsystems, Veritas Volume Manager - August 2002 – completed 2002 IBM Learning Services- Implementing ESS Shark 2105 San Storage for Open Systems- May 15 2002- completed
+2002 IBM Learning Services- Implementing ESS Copy Services for Open Systems - May 20, 2002- completed 2002 Sun Microsystems, Systems Management using Sun Management Center - May 31, 2002 – completed 2002 Sun Microsystems, Sun Fire 15K Server Administration - August 30 2002 – completed 2001 Sun Microsystems, Solaris 8 System Administrator Certification - June 12, 2001 – Completed 2000 Sun Microsystems, Solaris 7 System Administrator Certification - December 20, 2000 - completed 1997 – 1998 Introduction to Cisco Router Configuration, American Research Group, Arlington, VA 1997 – 1998 Implementing TCP/IP with Windows NT 4.0 American Research Group, Arlington, VA 1995 – 1996 United States Air Force technical school, Keesler AFB, Biloxi, MS Computer Communications Systems Operator Course, 24 credit hours 1996 United States Air Force, training school, Wright-Patterson AFB, Dayton, OH Unix Systems Administration course, 8 hours
+1996 United States Air Force, training school, Wright-Patterson AFB, Dayton, OH Solaris Administration I course, 12 hours
+1997 United States Air Force training school, Wright-Patterson AFB, Dayton, OH Solaris Administration II course, 12 hours
+2000 United States Army, Counterintelligence Agent Course (MOS 97B) Army School of Professional Development
+Graduated - 79 credit hours
+2000 United States Army, Interrogator Course (MOS 97E) Army School of Professional Development
+Graduated - 108 credit hours
+
+Contact this candidate

@@ -1,0 +1,39 @@
+
+IB-Services (Stearns Roger Group) is a multi-disciplinary engineering group that provides maintenance, upgrade and design support for existing and new equipment at nuclear power facilities throughout the world. Our group specializes in the design and maintenance of fuel handling equipment for both BWR and PWR markets.
+The IB-Services engineering group providing custom products for use by our own operations organization and for our utility customers to preserve the financial, safety, and environmental benefits of nuclear power, thus promoting the Framatome vision of providing access to cleaner, safer, and more economical energy to as many people as possible. This is accomplished through the talents of a mechanical, electrical, and software engineering team.
+Position Description
+Under broad supervision, performs more complex engineering assignments requiring originality, ingenuity and the development of new methods or resolution of conflicting objectives. Provides advanced technical support and guides and reviews the work of other team members. Typically leads the engineering design or investigates new designs for a project. Provides engineering expertise in a narrow specialty. Reviews progress and updates management, as needed.
+Candidate must have a desire to work within a product development group developing advanced, custom software and hardware solutions for use in the nuclear service industry. The successful candidate will integrate into a multi-discipline team of engineers including mechanical, electrical, and software engineers. Activities range from development of new processes to maintenance of existing systems.
+The successful candidate possesses exceptional technical writing skills and mastery of the English language.
+The successful candidate will be self-motivated with the ability to work independently. The candidate will demonstrate adaptability to different development tools as introduced.
+The successful candidate thrives in an environment that is fast paced and very much “hands on”.
+Job Responsibilities
+Performs a variety of more complex engineering assignments typically in areas of design, development, analysis, evaluation, testing, preparation of specifications, execution of field tasks and resolution of field problems.
+Receives minimal assistance and instruction on most assignments and solutions.
+Ensures compliance with government, organization and customer engineering standards.
+Independently evaluates, selects and applies a variety of technical techniques, procedures, and criteria using judgement in making more complex adaptations and modifications.
+Develops new or adapted products, methods, systems or models to provide added value solutions to customers.
+Researches and assesses best practices, proposing methods and improvements.
+Works on special projects, as directed.
+Performs other related duties and tasks, as required.
+Domestic travel is, at times, required. Foreign travel may, at times, be required.
+Education and Experience
+Engineer IV: BS in EE or CpE. plus 5-7 years of engineering experience. An advanced degree may be substituted for related exp. (MS 1-2 yrs. or PhD 1-3 yrs.). In applicable states a PE license will be accepted in lieu of 4 yr engineering degree
+Principal Engineer: BS in EE or CpE. plus 7-10 years of engineering experience. An advanced degree may be substituted for related exp. (MS 1-2 yrs. or PhD 1-3 yrs.). In applicable states a PE license will be accepted in lieu of a 4 yr. engineering degree.
+Ability to communicate clearly and precisely in oral and written forms.
+Skills and Knowledge
+Control design experience.
+PLC design experience; both system design (PLC) and programming (HMI).
+Motion controller / drive tuning.
+Troubleshooting / field experience.
+Familiarity with inter-disciplinary control system (analog and digital) design combining mechanical, pneumatic, hydraulic, electronics, electrical, software, etc.
+Familiarity with C#, WinCC, WPF, PLC programming, and SQL database management.
+Software architect
+Software Verification and Validation.
+Software requirements management.
+Framatome is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+RSRFRAM
+
+
+Apply now
+

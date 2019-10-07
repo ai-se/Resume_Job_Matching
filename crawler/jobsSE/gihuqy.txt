@@ -1,0 +1,47 @@
+
+WHO ARE YOU?
+You are a cloud engineer who has previously overseen technical design, planning, implementation, performance tuning, support and recovery procedures for all corporate, private and public cloud systems, with emphasis on AWS. You will be one of our technical experts with the administration of complex systems and services and deliver world-class solutions to Procares internal and external customers. Additionally, you will contribute to architectural design of our AWS environments, ensuring scalability, stability, operational efficiency and sustainability.
+To succeed in the role, you must be passionate and energetic to ensure our customers continuously experience top-notch performance while utilizing highly available, secure products. This role is best suited for a highly organized engineer with experience in a fast-paced, growing and agile corporation.
+WHAT YOU OFFER
+Our ideal candidates will have experience with:
+Administering, troubleshooting, resolving problems, monitoring, and conducting performance management and reporting. Including architectural design, end point scanning and protection, capacity management, system upgrades and system monitoring for AWS.
+Supporting DevOps initiatives including, but not limited to, building pipeline support, testing environment containerization support and site reliability knowledge.
+Continually improving and being proactive to ensure effectiveness and efficiency of system performance using qualitative and quantitative measures.
+Detecting, isolating and resolving system issues encountered during operations. Additionally, provide documentation, new standards or procedures and communication on any lessons learned post incident.
+Acting as a senior member of the Operations team, sharing knowledge and best practices.
+Participating in after-hours call coverage shared by team.
+Building and maintaining strong working relationships across all stakeholder groups. Advising, influencing and supporting all teams to achieve goals.
+Supporting the implementation, testing and documentation of Disaster Recovery/Business Continuity initiatives.
+Working within the established and documented process for change management to build, test and implement approved changes.
+Energy, passion, and imagination. You will be challenged, and have an opportunity to make a difference for children, families, and early childhood educators.
+Architecting and designing complex infrastructures.
+Working knowledge of Amazon Web Services (AWS), PowerShell programming, Active Directory, load balancing, HA/DR and DNS.
+AWS cloud platform technologies such as API Gateway, Lambda, RDS, DynamoDB, SQS, SES, S3, Cognito, Cloud Front, Cloud Watch, etc
+Providing appropriate, relevant written guidance to stakeholder groups ranging from developers to executives
+Working knowledge of and experience with Agile and ITIL
+Multi-tasking in a very dynamic environment with changing priorities.
+Driving accountability for deadlines across departments and organization structures
+Committing time and energy required to meet project schedules and objectives
+Attention to detail, and ability to clearly articulate the status of multiple efforts at any time
+Problem solving and adjusting as challenges arise or risks are uncovered
+Qualifications and Skills
+Minimum 5-7 years of System Administration experience in a cloud computing environment
+3+ years of AWS technology experience
+AWS Certified SysOps Administrator highly desired
+'Make-it-happen' attitude, the innate capacity for ownership and timely delivery of results in a fast-paced environment
+Experience with High Availability/DR environments
+Experience with Hyper-V a plus
+Experience with Microsoft Windows Server 2008R2-2016 a plus
+Experience with Linux a plus
+Understanding of web browser APIs and behavior
+Excellent technical communication skills
+Competent in design/implementation/support for reliability, availability, scalability and performance
+Demonstrable track record as an owner: someone who can take a concept and make it real
+Experience working with or in support of Agile development teams
+Ability to monitor and troubleshoot a very large complex system of services
+Knowledge of IP networking, VPN's, DNS, load balancing and firewalling
+Participate in 24x7x365 rotation as needed, to ensure availability of environments. Monitor performance to ensure that requirements are met.
+
+
+Go to apply 
+

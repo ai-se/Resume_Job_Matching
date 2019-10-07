@@ -1,0 +1,80 @@
+
+SATHYA PRIYA SUBRAMANIAN
+Toronto, Canada
+Mobile: +1-416-***-**** E-Mail: adaghr@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/sathya-subramanian-95716128 Skype Id: sathya1290 SUMMARY
+Technically competent accomplished consultant with over seven years of experience in SQL and PL/SQL technical background and project management activities
+Hands-on experience in writing SQL queries, writing business logics for Insurance/Banking domain with strong expertise in PL/SQL
+Proven track record in designing and developing utility programs to understand customer data, thus enabling better service to end customers
+Leverage technology knowledge as well as policies, procedures, and processes to improve operations and building strong relationship with clients resulting in impeccable references and repeat business
+Adapted to manage multiple projects in accordance with customer priorities in the fast-paced environments
+Provided hands-on design, development, and execution of software test plans and test protocols in accordance with defined procedures in preparation for product validation and verification
+Skilled in managing all aspects of project development from initial feature scoping, through strategic and fiscal planning (feature delivery) to developing, final testing and delivery SKILL SET
+Project Planning & Management
+Identity Management
+Risk Management
+Data Management
+Strategic Project Planning
+Access Management
+Change Management
+Mitigation Planning
+Fiscal Planning & Budgeting
+Designing & Implementation
+Client Coordination & Relationship
+Business Process Improvement
+ACHIEVEMENTS
+Appreciated by the client on numerous occasions for high quality work delivered
+Received appreciation and good comments from management for including image pop ups in functional modules instead of existing JSP alert messages
+EXPERIENCE
+Infosys Technologies Feb 2015 – Feb 2019
+Technology Analyst
+Handled Agile team, PLSQL Development, Unit Testing, Deployment and maintaining GIT version control system.
+Extensively worked on developing stored procedures and materialized view for various business logics using PLSQL. Bajaj Allianz General Insurance Sep 2011 – Dec 2014 Senior Software Engineer
+Worked in development and support team for coding of packages, procedures and views.
+Developed JSP page using HTML 5, CSS 3, JavaScript, Ajax and Struts Framework
+Coding of overnight job schedulers using PL/SQL, fixing bugs, unit testing, testcase preparation, testing support and deployment support
+EDUCATION
+Master of Business Administration in Human Resource Management from Bharathiar University, Coimbatore, India
+(2014)
+Bachelor of Engineering in Electronics and Communication Engineering from Anna University, Coimbatore, India
+(2011)
+CERTIFICATION
+Global Agile Certification from Infosys Oct 2018
+PLSQL Developer Certification from Infosys 2015
+PROJECT
+Project TTI Modernization and Legacy
+Organization Infosys Limited, Chennai
+Team Size 8
+Client TTI (Tex-Tronics Inc.)
+Technology Oracle 12C, PLSQL
+Role Technology Analyst
+Description Existing Mainframe database used by TTI is to be replaced with Oracle Database. Data from mainframe flat files is migrated to oracle tables and all business logics for fetching and processing data is being developed using PLSQL technology. The biggest challenge is processing of raw input data from Mainframe CICS screen and converting the data in EBCIDIC format which oracle database reads from its tables. And I worked as a part of Database Technical Team in the project.
+Responsibilities • As a part of Database Technical Team working on data Migration from mainframe flat files into Oracle tables
+• Evaluation of Data Migration Quality and building a Relational Database using Oracle PLSQL
+• Development of stored Procedures and Materialized Views for various business logics
+• Performance Tuning and Evaluation of code performance Project Bajaj Allianz Pincode Module
+Organization Bajaj Allianz Life/General insurance co. ltd., India Team Size 1
+Client Bajaj Allianz Life/General insurance co. ltd Technology Oracle 11g, JSP, Struts
+Role Programmer Analyst
+Description The project was about developing an interface for internal users to add, modify and delete pin code details. Being a general insurance provider the biggest challenge is maintaining a proper database of all states and cities in the country. Auto population of state, city and locality based on the pin-code details provided by user. This module facilitated premium calculation in backend by providing basic details like the city comes under tier1 or tier2 range.
+Responsibilities • Developing an interface for saving a new pin code
+• Developing an interface for searching the existing pin code details from database
+• Developing an interface to modify /delete the existing pin code details
+• Moving modified /deleted pin code details to another history table for future reference
+• Provided application maintenance support
+• Documenting Unit test cases and SOP
+Project Printing of Booklets for 2 wheeler policies Organization Bajaj Allianz General insurance co ltd., India Team Size 1
+Client Bajaj Allianz General insurance co ltd
+Technology Oracle 10g, PLSQL
+Role Junior Programmer
+Description The objective of this project is to print a booklet copy of all 2 wheeler policies which are issued on the same day. A materialized view was created and refreshed on daily basis. A job scheduler was coded to automate the functionality of refreshing materialized view. Auto mailer functionality was also included to monitor data refresh activity and data quality.
+Responsibilities • Designing logic in PL/SQL to collect policies details
+• Coding of Materialized View and job scheduler based on design requirement
+• Performance tuning the application and Queries
+• Documenting Test cases and SOP
+• Provided application maintenance support
+TECHNICAL SKILLS
+Languages PL/SQL, JSP, Java Script, SQL, HTML 5, CSS 3, Shell scripting Operating Systems WINDOWS, Mac OS, UNIX
+Databases Oracle Database Enterprise/ Express Edition 12c Utilities & Tools TOAD, SQL Developer, Eclipse, Bootstrap, Notepad++, JIRA, GIT Bash Version Control Tools GIT, IBM Rational Clearcase
+
+Contact this candidate

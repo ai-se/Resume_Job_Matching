@@ -1,0 +1,122 @@
+
+Joseph M. Acosta Delivering Innovation
+Olathe, Kansas 66062 and Business Transformation
+adahs2@r.postjobfree.com 913-***-**** at all Levels of the Organization
+
+Chief information officer
+CHIEF INFORMATION SECURITY OFFICER
+Strategic Vision Organizational Leadership Solutions Delivery Business Transformation Healthcare Innovation Industry Compliance Information Security
+
+Highly accomplished executive leader of IT organizations and operations with a proven track record in innovation to meet or exceed business needs while improving organizational productivity and driving innovation. A leader of large organizations examining business performance, design innovative solutions to improve business outcomes. Driving cost reductions and managing multi-million dollar asset budgets. A driven leader and excellent communicator; motivates staff in mission-critical environments to reach or exceed business expectations.
+Core Competencies
+EDI
+Analytics
+Process Automation
+IT Operations
+CRM
+Information Security
+ERP
+Iterative Development Methods
+Business Transformation
+
+OPNAV Deputy CIO Oct 2018 to Present
+Enabling the Chief of Naval Personnel to transform the way we staff and train our sailors through BPR and technology
+
+Proven leader in driving transformation to the Navy’s Personnel Command. Collapsing 55 systems to one family of systems across all Chief of Naval Personnel Echelons in pay, benefits, recruiting and training. Driving the move to cloud first approaches to our personnel systems capabilities. Collapsed 12 data warehouse’s into one Authorities Data Environment providing more accurate, accessible and meaningful analytics to Navy leadership. Created a data management organization, led by a CDO, to be stewards of the data to cleanse and standardization all data assets across the enterprise. Collapsed organizational leadership to a centralized enterprise structured from a decentralized model, gaining key insight and spending synergy for the enterprise. Managed budget of 200 million dollars and a geographically distributed team of 800 IT personnel with 5 direct reports. Created an IT Governance group to manage the spend of system change requests to IT from the business. Creating balance and relationship building with the business stakeholders in regards to delivering innovation with budget constraints. Working with stakeholders built out Agile SDLC operation. Moved organization from legacy development approach to a modern Agile/Devops approach to delivery, just in time delivery. Delivering the vision of the Chief of Naval Personnel by transforming process with technology.
+Asset consolidation across the enterprise.
+Organizational restructuring to reduce cost
+Application development modernization to increase through put and build Business partnership and innovation
+Data Governance development
+IT and spending Governance build out
+
+State of Maine Chief Information Security Officer (Contract) July 2018 to Present
+Providing key products and services to the citizens of Maine to better their lives through people process and technology
+
+Proven cyber security expert and executive leader. Recruited by the State CIO and Governor to transform Security for the State of Maine. Built from the ground up a Cyber Security Organization for the State. Driving compliance across multiple swim lanes for regulation CJIS, IRS, HIPAA, etc… Working closely with business units, assessed IS current maturity and provided 1 and 3 year plans of action and milestones to move the State forward. Working with customer and business units maintained a distributed and Mainframe environment for State functions. Operating 30 stakeholder agencies systems of record including Public safety through and including Health and Human Services requirements. Procured and maintained technology refresh across operational infrastructure products for the State. Product spans infrastructure, application and security related requirements. Created structure/approach for application development to participate in the cyber security framework within the SDLC increasing security and compliance with State and Federal requirements. 15 million dollar budget, 4 direct reports and a total team of 20 resources. Over all State employs 20000
+Built Information Security Agency for the State. Governance, audit and Compliance
+Technology refresh: Infrastructure, application and security products.
+Developed Cyber Intelligence capability through Department of Homeland Security
+Integrated the SDLC within the Cybersecurity Life Cycle
+
+State of Kansas Chief Information Security Officer March 2015 to July 2018
+Providing key products and services to the citizens of Kansas to better their lives through people process and technology
+
+Proven cyber security expert and executive leader. Recruited by the Governors team to transform IT for the State of Kansas. Innovation and cost reductions, collapsing the IT footprint from 60 IT organizations to a single enterprise IT organization while providing a more mature business vision through technology and mobile driven approaches and cloud first. Driving compliance across multiple swim lanes for regulation, IRS, HIPAA, CJIS etc… 20 million dollar budget, 4 direct reports with a total team of 30 resources. Over all State employees 30000 Working with customer and business units maintained a distributed and Mainframe environment for State functions. Worked to off load mainframe operations to as a service 3rd party. Saved State 5 million annual in hardware and licensing costs. Maintaining 30 stakeholder agencies systems of record including Public safety through and including Health and Human Services requirements. Bridging business needs with budget and governance implementing robust governance process within the State
+Driving innovation: IT operations and Information Security consolidation across 60 agencies and boards into a centralized IT organization for the State of Kansas.
+Building out and working Cyber Intelligence for the State of Kansas through a broader Fusion Center with Homeland Security
+Built from the ground up a multi-million dollar Information Security Office for the State through State Legislation, a complex process.
+While migrating existing Mainframe operation to a 3rd party driving to move to distributed cloud products.
+Bridging business requirement with fiscal availability through governance.
+
+GEHA – Chief Information Officer Feb 2012 to Mar 2015
+GEHA is a 3.3 billion dollar health insurance company servicing 2 million lives
+
+Chief Information Officer of Government Employees Health Association GEHA an 1800 employee company with an IT staff of 180 with 4 direct reports. Forging strong partnerships with all business units in the implementation of the IT vision. Business innovation is the key effort of IT. Providing vision and leadership for developing and implementing information technology initiatives that drive GEHA business innovation. Key driver in the planning and implementation of enterprise IT systems in support of business operations in order to improve cost effectiveness, service quality, and business transformation. Maintaining a robust Mainframe operation while migrating to a distributed architecture. Managing an IT spend of 30 million dollars. SaaS, PaaS innovation, ERP, and CRM implementation. Always cloud first approach
+
+Claims processing application architecture and product innovation. While maintaining a high quality mainframe operation, moved from mainframe application to Facets a distributed system product including integration of multiple 3rd party products. Retired the mainframe saving 2 million a year in licensing and labor.
+Technology refresh: Complete overhaul of data center infrastructure including moving to 98% virtualized. System uptime went from 90% to 99.99%. Application performance up 10 fold in multiple areas. Operation costs reduced 20%.
+Licensing cost savings. Completed total audit of all hardware and software licensing to ensure optimal usage and compliance. Realized over 2 million dollar savings.
+Drove ACA compliance changes to ensure alignment for future growth including Exchange entry and new Federal Reporting requirements.
+Lead ICD10 compliance effort. 100% success
+Driving web innovation to the business including mobile variants.
+Defined and executed technology strategies across business units including virtualization, SaaS offerings and other pragmatic business technology implementations. Cloud first approach
+Defined, matured and implemented business intelligence platform to drive business decision capability to a new level.
+Developed governance structure to prioritize IT spend with board of directors to ensure maximum ROE for company spend.
+Development methodology: Restructured IT and business organizations to work within the Agile framework. Development in a Bi-modal fashion. Increased through put of iterations.
+Stewardship of Health data. Ensuring protection of member data and full compliance with ACA requirements. Built organization to drive data intelligence to maximize health outcomes through data and process. Using organizational data as a catalyst is key to innovation
+Developed Strategic approach for EDI within the industry
+
+USDA/Farm Service Agency – Chief Technology Officer Aug 2010 Feb 2012
+Working with congress provide needed assistance to farmers and ranchers. Develop and maintain automated programs in the form of subsidies, disaster claims, farm loans and market assistance initiatives .
+
+As the Technology Officer providing strategic leadership in the delivery, planning, coordination, evaluation and implementation of Agency-wide Information Technology (IT) programs and modernization initiatives. Working closely with business units to understand needs and outcomes of the Agency. Overseeing Research and Development (R&D) activities, and formulating long-term visions and strategies at the Farm Service Agency. Transforming capital, intellectual, or political, into technology to further the objectives of the Agency. Driving cost savings through technology and process realignment. Driver for business intelligence integration and maturing. Key driver in SAP implementation for Department and Agency requirements.
+Key Achievements:
+Matured Business intelligence and Analytics platform. Implemented analytics platform to predict crop yields for USDA to drive Farm Bill subsidies program. Cost savings achieved by ensuring just in time outlays.
+SAP multiple module customization and implementation
+Retired 20 applications off the mainframe, providing increased functionality as well as cost reductions on distributed systems.
+
+Farm Service Agency (FSA) US Department of Agriculture – Kansas City, MO Aug 2002–Aug 2010
+Working with congress provide needed assistance to farmers and ranchers. Develop and maintain automated programs in the form of subsidies, disaster claims, farm loans and market assistance initiatives .
+Director of Information Technology Operations and Testing
+Direct daily operations and management of over 100 IT systems providing on-demand solutions to 2500 enterprise field offices with over 20000 employees; lead Information Technology organization to coordinate resources across departments to reach department goals in support of Agency. IT staff of 1000 with 4 direct reports. Architecture spans mainframe, web and AS400/S36. Manage $50M in physical assets and resources within the Agency to support operational functions.
+Key Achievements:
+For Farm Service Agency lead multiple Finical Audits centered around Information Security General Computer Controls as well as audit trial and separation of duties assessment.
+Maintained a robust mainframe operation while driving the organization to more modern distributed platforms.
+Cloud: Drove the organization to the early version of O365 producing 30% cost savings.
+Championed RDBMS consolidation. Moved from an environment containing seven RDBMS implementations down to two. Reduced licensing cost by 20%; increased DBA skill pool
+Business Intelligence: Executive sponsor of initiative to re-engineer our business intelligence function. (30 million dollar initiative) Complex project migrating from Hyperion/Informix to Oracle based Suite
+Championed server asset consolidation: Aggressive schedule in consolidating applications on physical and virtual machines more efficiently utilizing Agency resources. Reduced hosting cost 35%
+Instituted Agile development: increased through put of development organization working with stakeholders
+ACCENTURE – Overland Park, Kansas 2000–2002
+Global company focusing on management consulting and technology services outsourcing, to accelerate clients to become high-performing organizations.
+Director of Testing Sprint PCS
+Oversaw test planning, management, and delivery of complex systems for Sprint PCS. Managed and directed a team of 50 analysts and consultants with 3 direct reports at Sprint PCS to identify and plan functional Web testing requirements, organize website test strategies, data strategies and enhance testing processes within the Information Technology organization for Sprint PCS. Working closely with both Accenture and Sprint employees drove process to efficiently and effectively test across all nationwide PCS network elements, billing applications customer care applications and 3G products. Identified opportunities for new business areas and developed proposals for executive management.
+Key Achievements:
+Innovation - Spearheaded pilot of testing automation in PCS testing: Increased testing through put 30%
+Implemented multiple Key billing systems and database changes
+Military Experience
+Naval Reserves, Commanding Officer NR Space and Naval Warfare Command 1020 Dec 2017 to Present
+Captain and Commanding Officer of Reserve/Active Duty integrated unit charged with Consulting Engineering RD and Systems development and support to the US Navy Fleet. Providing resources to multiple programs that directly impact Fleet readiness and delivers increasing Cyber capability to the war fighter.
+Naval Reserves, Commanding Officer NR NETWARCOM and NCDOC Dec 2009 to Nov 2013
+Captain and Commanding Officer of Reserve/Active Duty integrated unit charged with Information Security, monitoring and responding to global network threats to the Department of Navy infrastructure. Monitor global information grid (GIG) for threats. Provide real time tracking and response assessment to higher echelon commands and coordinate threat axis responses with other Intelligence Agencies.
+Naval Reserves, Deputy J6 (CIO) Joint Task Force Horn of Africa (HOA) 2006-2008 – Djibouti Africa
+Directed data center operations for Horn of Africa IT operations. During this assignment performed extensive work in the area of Satellite Communications on the continent of Africa as well as extensive wiring plant infrastructure upgrades for Camp Lemonier Djibouti. Responsible for the planning and operational aspects of all IT tasking.
+Key Achievements:
+Developed and Published IT Strategic Plan for CJTF HOA
+Collaborative effort with our coalition Global Counter Terrorism Force (GCTF) partners in the region as well as the State Department in forging new capabilities and strong international relationships
+Implementation of new network enclave into the Embassy infrastructure in seven Embassies on the Continent: providing greater partner communications.
+
+UNITED STATES NAVY, Naval Aviator 1991-2000 Patrol Squadron Ten Brunswick, ME – Naval Station Rota Spain IT Department
+Naval Aviator: flew combat missions into Bosnia, flew reconnaissance missions in the Persian Gulf; performed Counter-Narcotics missions in Central and South American. Lead IT Department Naval Station Rota Spain
+
+Bachelor of Science in Economics
+University of Kansas, 1991
+Masters of Science Management Information Systems
+University of Maryland Bowie State 2000
+Security Clearance Active
+TS/SCI – current in JPAS
+Professional Memberships
+Tabular Data Warehouse Institute, Member
+Naval Reserve Officer Association, Member
+
+Contact this candidate

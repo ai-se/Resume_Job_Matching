@@ -1,0 +1,29 @@
+
+Layla(Sixi) Ye
+adafum@r.postjobfree.com 404-***-**** Perimeter 31, ATLANTA, GA
+EDUCATION & CERTIFICATIONS
+Georgia State University - Atlanta, GA 08/2016 - 12/2018 Master of Science in Bioinformatics GPA: 3.2/4.0 Relevant Coursework: Probability and Statistics, Data Mining with Python, Machine Learning Biostatistics, Database Management Systems, Data Structure and Fundamentals of Computing, Predictive Data Analytics, etc.
+Southwest Jiaotong University - Chengdu, China i09/2011 - 06/2015 Bachelor of Engineering in Biological Engineering GPA: 3.5/4.0 Certification: Tableau Desktop Certified Associate (Expires 2021) IBM Data Science Professional Certificate, Databases and SQL for Data Science SKILLS
+Core Technologies: Python (numpy, pandas, matplotlib, scipy, seaborn, sklearn), R, SQL, TensorFlow Tools: Tableau (Certified), Google Cloud Platform, MS Office Suite, Jupyter Notebook, Google Colab, SAS Machine Learning: Supervised Learning (linear regression, logistic regression, decision tree, Bayes’ theorem, random forest, etc), Unsupervised Learning (clustering, PCA, etc), Deep Learning (NLP and ii textimining), Recommendation System, Ensembling Methods (XGBoost, LightGBM, etc) Analysis Techniques: A/B Testing, Hypothesis Testing, ETL (extract, transform, load), Data Cleaning, Feature Engineering, Interactive Dashboards
+PROJECTS
+NYC Taxi Trip Duration Prediction 06/2019 - 09/2019
+• Loaded 1.5 million taxi data on Google Cloud Platform and visualized the datasets by Folium map to facilitate data cleaning and feature engineering process.
+• Generated new features: categorized pick-up and drop-off locations into 15 districts through K-means clustering; created categorical features based on pick-up datetimes.
+• Incorporated additional features through National Weather Service and Open Source Routing Machine API.
+• Eliminated outliers based on latitude and longitude, then selected critical features through PCA techniques.
+• Built the trip duration prediction model with RMSLE of 0.213 by using LightGBM. Energy Prediction 03/2019 – 05/2019
+• Retrieved the energy usage data from New York Independent System Operator and combined with the weather data from Dark Sky API to discover influential factors of the energy usage.
+• Reorganized the weather datasets as five-minute time segmentation to match the energy usage datasets for generating date-time based features.
+• Applied recursive feature elimination (RFE) technique to avoid overfitting and reduce the training time.
+• Achieved 88% accuracy of the energy usage prediction based on a machine learning model, using random forests and linear regression algorithms. Quora Insincere Questions Classification 09/2018 - 12/2018
+• Regularized Quora questions through removing non-representative words in Natural Language Toolkit, and then defined the keywords from the processed questions.
+• Tokenized the above results into word vectors and applied neural language processing techniques to classify insincere questions.
+• Built filters based on the user preference to further reduce irrelevant texts to improve the user experience. EXPERIENCE
+Data Analyst Intern Industrial and Commercial Bank of China - Online i03/2019 - 06/2019
+• Carried out researches and composed industry research reports of consumer loan market.
+• Checked data and composed monthly tracking reports for credit card fraud detection.
+• Created interactive Tableau dashboard to help production team and engineer team get better understanding about current feedbacks from customers and backlogs of the system. Teaching Assistant Georgia State University - Atlanta, GA i01/2018 - 05/2018
+• Provided ready access to all experimental materials for the professor.
+• Supervised undergraduate students working on the research project and assignment completion.
+
+Contact this candidate

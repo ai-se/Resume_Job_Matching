@@ -1,0 +1,82 @@
+
+VIJESH V Contact No: +91-812*******
+Email ID: adagiz@r.postjobfree.com
+SUMMARY
+MSSQL Database Developer with 7+ years of experience, concentrating on Database
+Intelligence programming and Business
+Excellent understanding of Database programming(MSSQL), Optimization, Analysis ETL and data migration from different sources(such as Oracle, MS Access, Excel etc.)
+Banking Good working experience in Performance Tuning of high Transactional Databases (
+Domain)
+Integration Good Working skills with SQL Server Reporting Services(SSRS) and SQL Server
+Services (SSIS-ETL)
+Good Command over RDBMS like MS SQL Server
+Advanced knowledge in programming with various versions of MS SQL databases (2000-
+2016).
+Expertise in Banking Domain
+Excellent Logical Skills, efficient and confident working styles with proper commitments.
+Skilled at managing complete life cycle of multiple project teams including release plan, maintaining deliverable, creating status reports, managing development teams and
+documentations from design to development(Agile Planning).
+A versatile team player with an adept at building strong working relationships with the team and management.
+TECHNICAL EXPERTISE
+RDBMS : MS SQL Server 2016/2014/2008R2/2008/2005/2000 Reporting Tools : Microsoft SQL Server Reporting Services (SSRS), Crystal Reports, Report Builder, Power BI Report Server
+Operating Systems : Windows XP/Vista/7/8/10, Windows 2005/2012/2014 Server Source Control : TFS, Visual Source Safe, Jira
+Specialized Tools : MS Office, SQL Profile, Adobe Tools Knowledge Base : SSIS, SSAS, SQL Server Agent
+Basic Knowledge : C#, Power BI, Tableau, Mongo DB
+Front End Tools : Visual Studio 2015/2013/2008 (Beginner) PROFESSIONAL EXPERIENCE
+Project: FastLane – SANDAG/WSDOT Toll
+Position: Sr. Software Engineer
+Description:
+FastLane is basically designed for collecting tolls automatically for Washington DC and Santiago. This application is developed for automate toll collection and we can avoid long queues in Toll booths. Automation process and toll deduction is done by scanning transponder image which we already given to the vehicles owner.
+Responsibilities:
+Design SSRS reports based on informations provided by BA’s.
+Have to create procedures/views for achieving report
+Optimize procedures for getting report within a short time period
+Used source tree for committing reports into production
+Power BI Report Server is used to deploy reports. Environment:
+SQL Server 2017, T-SQL, SSRS, Report Builder, Windows XP/7/Server OS 2005+ Project: BeaconPro – Web based core banking Suit
+Position: Sr. Software Engineer – Team Lead
+Description:
+BeaconPro is a web based banking solution. This application is developed for automatic banks in cooperative sector. Running on ASP.NET and IIS. This application allows banks to smoothly conduct its business by equipping the staff with effective internal management tools. Responsibilities:
+Designed database structure and objects
+Created DB Scripts and objects
+scripts Optimized database and tuned SQL
+Used Enterprise Manager, Query Analyzer for writing procedures, triggers, UDF in SQL
+Server
+issues Used SQL Profiler for testing the .NET application for database
+Used SSRS to generate module reports
+Used Microsoft VSS and Team Foundation Server for Version Control
+components Involved in Documentation of the
+Involved in Code Review and Unit Testing for ensuring the Quality
+Met quality objectives of version release as a part of ISO certification Environment:
+SQL Server 2008 R2/2012/2014, T-SQL, SSRS, TFS, VSS, SSIS, SQL Server Agent, Windows XP/7/Server OS 2005
+Project: Beacon – Core banking Suit/Payroll
+Position: Software Service Engineer/Junior Software Engineer Description:
+Beacon is a Desktop TBA/Core banking application. Both Beacon and BeaconPro is used to automate banking processes. Payroll is an application to manage bank employee’s details and salary processing. Responsibilities:
+Install and host software at client machines
+client Prepare required configurations to customize software for
+Study existing software modules and prepare module study document
+team Train software functionalities to EDP
+system Prepare GAP report between existing system and proposed
+Prepare and submit Acceptance Test Report(ATR)
+Import existing data to SQL using import wizard
+report Study existing software data and prepare data study
+Prepare migration query using enterprise manager, Query analyzer – Writing procedures, triggers and functions in SQL Server.
+software Migrate existing software data to new
+Conduct parallel run for software to make software online
+Make software running at clients and submit online Certificate
+Collect and submit completion certificate
+Support client staffs for smoothen their working Environment:
+SQL Server 2000/2005/2008/R2/2012/2014, T-SQL, SSRS, SSIS, Windows XP/7/8/Server OS 2005+ EDUCATION
+3 Year Diploma in Computer Engineering, 2011 @ Kerala Govt. Poly Technic College, Thrikkaripur, Kasaragod, Kerala, India
+EMPLOYMENT HISTORY
+Designation : Senior Software Engineer
+Location : Cochin, Kerala, India
+Duration : Jan 2019 to till date
+Role : Database Developer
+Company Profile : Datafloat Technologies Pvt Ltd
+Designation : Senior Software Engineer - Team Lead Location : Cochin, Kerala, India
+Duration : May 2011 to Dec 2018
+Role : Database Programmer
+Company Profile : SESAME Software Solutions Pvt Ltd – A Speridian Company
+
+Contact this candidate

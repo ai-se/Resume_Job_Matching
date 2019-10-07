@@ -1,0 +1,26 @@
+
+At Labelmaster, we help businesses take the complexity out of hazmat transportation to make the world a safer place.
+We develop really cool software that all kinds of businesses need to keep their stuff moving across the globe.
+We’ve been around for 50 years and our software is in nearly all Fortune 100 manufacturing, healthcare, automotive, transportation and other businesses that need to move hazmat (or Dangerous Goods). But we aren’t Fortune 500 – we aren’t even close.
+We develop software for an industry that not too many people know about…but it is really cool, particularly in the software development space where we continue to re-invent ourselves and lead our industry.
+We are located in Seattle and Chicago but are open to having this position be remote.
+We are looking for a few special people who: Do not want to work in Corporate America Want to make an immediate difference in making the world a safer place Have a life outside of work Some Cool Parts Of Your Job Propose and implement system enhancements (software and hardware updates) that will improve the performance and reliability of the infrastructure.
+Optimization for high availability and disaster recovery Responsible for design, development, and hands-on implementation of Cloud solutions.
+Will be the resident Cloud security expert.
+Work closely with Development counterparts on requirements, issue identification and resolution, problem solving and planning related to production issues and software releases.
+Design documents, and Release and Implementation plans and develop and maintain internal documentation.
+Identify security and performance issues at multiple layers of deployment for applications.
+Provide proactive engineering and release deliverables, resulting in products and services with more efficiency, lower risk, and reduced customer impact.
+Design best practices for build and release processes.
+Writing and maintaining clear documentation about system architecture.
+Troubleshooting and fixing production issues Developing monitoring solutions Ownership of build infrastructure Support and maintain our cloud servers for both the customer facing and internal business tools Experience And Attributes We’d Like You To Have 5 yrs Dev OPS experience Familiarity with Teamcity Proven experience with configuring and managing Azure App Service, SQL Database and Virtual Machines Azure Architecture / AWS Architecture experience ideally with the appropriate vendor certification Should be very familiar with web development.
+Ability to code and script.
+Passion and enthusiasm for resolving challenging or complex problems.
+Must be able to maintain a calm and professional composure at all times.
+Ability to apply creative problem solving techniques to situations using sound business judgment.
+Proven ability to apply attention to detail, role-related accuracy and task follow-through.
+Employment Type: Full Time Years Experience: 5 - 10 years
+
+
+Go to apply 
+

@@ -1,0 +1,65 @@
+
+Innovative thinking
+Quick problem solving
+capability
+Team player
+Inquisitive
+Fast learner
+Adaptability
+Sagar V
+Contact: +91-994*******
+E-mail: adafga@r.postjobfree.com
+Passionate fresh electronic engineer possessing good knowledge in electrical and electronic designing & development, ambitious to be a part of an organization of high repute Area of interest: Electric vehicle, EV Chargers, PCB Design Industry Preference: IT / Manufacturing / Research & Development Location Preference: Open
+PROFILE SNAPSHOT
+Bachelor of Engineering in electrical & electronics from Vidyavardhaka College of Engineering, Mysore
+Internship at Circutor Energy Management, Bengaluru & Rennova solutions Bengaluru on industrial product research & development
+Completed four Engineering projects in college viz., Automatic Solar Grass Cutter with Collector, Areca nut Tree Climber & Cutter, Arduino based Home automation & Mini Hydro Project
+Completed two developmental projects during internship viz., PLC Programming for Spring Endurance Machine & Capacitance Fluid level measurement SIGNIFICANT ACCOMPLISHMENTS
+Training on APFC panel designing at Circutor Energy Management, Bengaluru
+Course on Switchgears & their applications
+Conducted workshop for juniors, created a development board for building circuits and Soldering at Vidyavardhaka College Of Engineering
+Training on Graphical programming on LABVIEW on Vidyavardhaka College of Engineering PROJECTS
+Automatic solar grass cutter with collector:
+An automated robot that cuts and collects grass simultaneously with the solar energy as the primary source. Arduino uno is used to control all the action of the robot. The model is turned on using bluetooth mobile app, the mode of operation like automatic or manual is selected. If automatic is selected model works on its own, if manual is selected the operator can control the action of the robot.
+Areca nut tree climber & cutter:
+Developed a prototype of areca nut tree climber and cutter at Silicon RD two day hackathon. A robot which climbs the areca nut tree and cuts the areca nut. The operation is controlled using RF controller. This robot is mainly intended to eliminate man power as frequent deaths have been noted in this field. The model can be operated by unskilled person and requires less maintenance.
+Spring endurance test(PLC Programming):
+Developed a PLC program for spring endurance test machine on FESTO PLC at Rennova Solutions internship. Spring endurance machine is used to detect the plasticity of the spring by providing various conditions. The program generates a trapezoidal waveform which is fed into the motor.
+Capacitance fluid level measurement:
+Worked in a research and development department to develop a capacitance sensor at Rennova solutions internship. A capacitor fluid level measurement is used to measure the level of the fluid in industries. These are used over conventional methods due to its simple construction.
+PARALEARN(Workshop):
+Conducted a workshop on mini projects hands on experience for the engineering students at Vidyavardhaka College of Engineering. Developed a development board which helps to practice various circuits on the board. Trained the juniors how to build circuits and soldering.
+Arduino based home automation:
+A project to control the loads using a simple bluetooth application. This project mainly focuses on providing interaction of humans to loads without the physical interaction with the switches. The loads can be turned on and off using the application.
+Mini hydro project:
+In agriculture field water is the main source which is pumped daily to the field. In this project a dynamo is connected to the pumped water this converts the kinetic energy into electrical energy and is stored in the battery. The water is then fed back to the field.
+ACADEMIC DETAILS
+Bachelor of Engineering in Electrical & Electronics from Vidyavardhaka College of Engineering, VTU in 2019: 7.14 CGPA
+Diploma in Electrical & Electronics from JSS Polytechnic, BTE in 2016: 78.67%
+SSLC from S.V.E.I, Mysore, Karnataka Secondary Education Examination Board in 2013: 86.08% TRAINING ATTENDED
+APFC panel designing at Circutor Energy Management
+Introduction on EV Chargers
+INTERNSHIP
+Rennova Solutions(Jul-2018):
+Developed plc program for spring endurance machine, a machine used to test the plasticity of the spring. The program generates a trapezoidal waveform which is fed to the motor.
+Worked in capacitor and inductor fluid level measurement research and development at Vendor Company under circutor, fluid level measurement device is used in industries in order to measure the level of fluid.
+Assigned with TITAN lens tester for testing and increasing the efficiency by creating various test setup, a TITAN lens tester is a device helps to find out the properties of lens and spectacles.
+Circutor Energy Management(Aug-2018):
+Worked as market and product analyst for the VAF meter at circutor. A VAF meter measures voltage, current & frequency mainly used in industries.
+APFC panel designing to increase the power factor by reducing the reactive power, to achieve this capacitors are used parallel the requirement of capacitor is based on the how much it is lagging.
+Training on types of EV chargers.
+CERTIFICATIONS
+Course on switch gear and their applications
+Graphical programming on LABVIEW
+IT SKILLS
+Operating Systems: Windows, MAC, UBUNTU
+Office Tools: MS-Office
+Design Tools: Eagle, Proteus, OrCAD, AutoCAD, PLC
+EXTRACURRICULAR ACTIVITIES
+Learning new concepts.
+A member of PARALEARN workshop at Vidyavardhaka College Of Engineering. PERSONAL DETAILS
+Date of Birth: 8th March 1997
+Languages Known: English, Kannada, Hindi
+Mailing Address: No.2568, 5th A cross, Snake sham road, 17th main, Vijayanagar 2nd stage, Mysore – 570 017
+
+Contact this candidate

@@ -1,0 +1,20 @@
+
+About RedRock Software: RedRock Software is headquartered in Las Vegas, NV.
+The system was created by hospitality technology experts providing a modern and integrated supply chain management (SCM) software system.
+RedRock Software’s revolutionary product is a web-based, enterprise management system, providing full "source to pay" for hospitality operators.
+The SCM tool provides Strategic Sourcing and E-procurement, Materials Management, Supplier Relationship Management, and Food Cost Analysis, all in a single integrated supply chain management solution.
+RedRock Software offers a competitive salary, medical benefits and paid time off.
+Technical Support Engineer Overview: Technical Support Engineers are responsible for supporting our Customer Service Manager with customer calls and emails, initial triage, root cause analysis, as well as responding to service requests.
+They are expected to fully understand RedRock Software’s products, answer customer questions, diagnose system issues, and escalate defects to the appropriate team members to ensure a quality customer experience.
+Duties and ResponsibilitiesDevelop and maintain an in-depth working knowledge of RedRock Software products.Work with the Customer Service Manager and end users to collect information about potential defects, as well as lead the user through diagnostic procedures to determine the source of an issue.Recommend or perform actions to resolve customer issues.Reproduce customer errors in lab environment, document defects and known limitations (using JIRA & ZenDesk) and communicate to Development and/or QA teams.
+.Refer customers to appropriate information sources for experienced problems, including knowledge base articles or product documentation.Monitor the customer support queue, respond to customer inquiries, keep customers informed of their issue status, and ensure RedRock Software meets its Service Level Agreements (SLAs).Expected to take the initiative regarding self-education, anticipating customer needs, problem solving, and using sound judgment for escalating issues to ensure customer satisfaction.Participate in QA and test releases when neededOccasional travel may be required to support the Project Implementation Team.
+Less than 30% domestically.
+Qualifications and RequirementsBachelor’s Degree in Computer Science, Information Technology, Information Systems, or similar.
+2 years experience in product/customer support is preferred.
+Demonstrated problem solving and troubleshooting experience/abilities.Experience in a software company that implemented and sold software products in a competitive marketplace.Thorough understanding of web-based technologies, mobile applications and Windows.Ability to work independently and in a team environment.
+Strong written and verbal communication skills.Must be able to work from a dedicated home office/work space with minimal supervisionExperience with Microsoft Exchange, O365 and Active Directory (AD) configuration and administration a plusKnowledge of AD schema and objectsFamiliarity with DNS, Networking and security.Advanced SQL Experience Preferred but not requiredMicrosoft Exchange/Active Directory certifications is a plusOffice365 CertificationsJIRA experience a plusExperience with system upgrades.
+Role LocationCandidate is preferably located in the Las Vegas, Nevada Area.
+
+
+Go to apply 
+

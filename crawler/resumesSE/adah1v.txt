@@ -1,0 +1,147 @@
+
+KARIM A. JESSANI
+905-***-**** / adah1v@r.postjobfree.com
+Security Clearance: Top Secret
+
+OBJECTIVE
+To manage and lead the organization's capacity to develop insights through data. Creating policies and controls for appropriate protection of information assets through a defined information lifecycle, from acquisition or creation to and end of live destruction and disposal. Establishing an enterprise-wide data architecture practice that ensures a OneView vision for Enterprise Data that can be diligently executed upon. Define and implement an enterprise data management vision, strategy, and management process.
+SUMMARY OF QUALIFICATIONS
+Proven track record of career success in positioning companies to achieve accelerated growth and competitive advantages through start-up ventures, new technology development/commercialization, and market diversification. Complete expertise in system integration, data consolidation and data migration between vendor’s and client’s legacy applications Created, managed and facilitated a data governance process to identify and understand the critical data issues in terms of business impact/risk/opportunity and ensure data policy enforcement and compliance. Applied expertise in systems integration techniques (including SOA, EAI, Cloud methods) to advise and assist practice technicians in architecting then developing seamless solutions for clients. Developed the data strategy and solution design to guide and accelerate the development of complex ingestion pipelines that can scale to meet the growing demand for real-time data and analytics.
+
+TECHNICAL PROFICIENCY
+Programming Experience with: C/Pro*C/C++, MQ SERIES, PL/SQL, Java, XML, Python, COBOL.
+Databases: DB2, Oracle, SQL Server, Hadoop, MS Access, MySQL, IMS DB/DC, and VSAM
+Platforms: Google Cloud Platform, Azure, AWS, UNIX (AIX, HP-UX, Sun OS), Windows, IBM TSO/MVS, AS400
+Misc. Technology: Client/Server, N-Tier, On-Line Transaction Processing, Batch Processing, EDI, Zachman, DAMA
+Other Tools: Docker, Kubernetes, Jira, Confluence, MS CRM, MS Project, O365, SAP Power Designer, SPARX EA, Informatica, SAP BI Platform, Rational Application Developer, Clear Case, Clear Quest, Cognos BI Suite, Visual Studio, HP QC, Curam, Tableau, WordPress, Kafka, Big Query, OpenText, Information Governance Catalog, FSDM, IBM Data Architect, Erwin.
+
+PROFESSIONAL EXPERIENCE
+Principal Data / Cloud Architect (Director Level) Aug 2018 – Present
+Scotia Bank
+Responsible for Enterprise Data Architecture, Hadoop, Big data, data and BI requirements and assessing the strategy, technical architecture, implementation plan, management and delivery of medium and high-risk Data applications and solutions.
+Provided technical thought leadership on the Cloud Data strategy, adoption, architecture and design, as well as data engineering and modeling
+Designed and deployed enterprise-wide dynamically scalable, highly available, fault-tolerant, secure and reliable applications on GCP and Azure’s full-stack
+Assessed and recommended the best of breed GCP technology solutions to address the client needs
+Coordinated with the CDO, SVP of Data Analytics, VP of Enterprise Technology and other technology leaders to identify and prioritize key systems initiatives related to Data.
+Contributed to aligning data and BI activities to both the overall IT strategy and the broader corporate strategy.
+Setting direction and establishing enterprise data governance for global initiatives.
+Defining the enterprise architecture principles, standards, and guidelines regarding the proper use and deployment of business applications, data, and technology within the Bank
+Supported and Influenced projects/initiatives and drove decisions related to data acquisition, processing and utilization through the Cloud Data Platform
+Defined all Enterprise Data Architecture standards, best practices and was the Lead in governance activities during all Data related initiatives.
+Established processes and KPI’s to mitigate operational risk and increase the overall efficiency of underlying systems and infrastructure across the businesses to align with EA standards and to mitigate loss from inadequate or failed internal processes and/or systems.
+Collaborated with VP’s and Directors from Canadian and Global banking to ensure that strategic data capture and analytics services are well designed and effectively integrated into Operations processes and applications.
+Effectively articulated reasoning for data model design decisions and strategically incorporated team member feedback to produce the highest quality data models to enable a 360 view of the customer.
+Architected, Managed and developed big data solutions on both Azure and the GCP cloud platforms
+Led the definition of the strategy for Business Intelligence and Analytics to ensure that data is treated as an asset and the operational processes are enabled to be data-driven. Accountable for all tactical Customer information management initiatives from an enterprise risk compliance perspective.
+Worked with the CDO to establish a standard approach to data governance, lineage and the use of data tools for the Enterprise.
+Lead Architect Feb 2015 – June 2018
+Ministry of Community Services
+Served as a point of escalation for governance, data quality, protection issues and worked closely with Business/Functional areas leadership to improve the quality and value of core data assets, responded to regulatory protection requirements as well as supported the strategic requirements of the Organization.
+Primarily responsible for leading the build of BI solutions, managing the team roadmap and backlog, and delivering actionable data insights to sales, product, marketing, and senior leadership
+Oversaw, Managed and Supported the design, development, and implementation of data warehousing, reporting and analytics solutions that deliver information efficiently, with the end goal to solve business challenges and achieve business objectives leveraging both AWS and Azure cloud platforms.
+Managed data-governance related initiatives from inception to completion and maintenance, including collecting business requirements and translation into Data Solutions Specifications.
+Created the customer segmentation schemes, including segment definition data mining, segment performance reporting, measurement and analysis
+Oversaw the strategic data management operations, and ensured that standardized data governance tools (including data requirements documents, data lineage workflows, metadata repositories, data models, etc.) are used across the enterprise by all relevant stakeholders.
+Spearheaded a Data Governance initiative: established to develop new data standards and governance to support cross-functional business groups such as Sales, and other internal groups; obtained executive buy-in and approval and later became the Primary of the Enterprise Data Governance committee.
+Provided directional leadership/Architectural design to the Microsoft BI Projects for the Ministry of Education account teams and clients for environment optimization. Conducted systems design, feasibility and cost studies, to recommend cost-effective cloud (Private and Public) solutions. Provided optimal architecture design of the IT environment of server virtualization, consolidations, automation, orchestrations, high availability and disaster recovery.
+Partnered with stakeholders to identify business problems and develop state-of-the-art solutions aligned with business objectives. Provided data warehouse & BI technology vision, roadmaps and blueprints and project plans.
+Formulated and executed corporate roadmaps to ensure compliance with SOX and corporate governance criteria.
+As a member of the executive Change Control Board, I developed and refined the repeatable framework/processes. Consolidated BI reporting technologies to increase project/program value proposition.
+Saved $1.7 million annually by consolidating servers/databases and leveraging enterprise licensing agreements.
+Worked strategically with Executive management to define and communicate the strategic Data Migration plan and provide cost-effective solutions that supported the client’s overall business objectives. Planned and oversaw development, configuration and implementation of Informatica Data Migration Suite installation currently on site.
+Created the Business Case, Negotiated the terms, and procured the SAP BI Platform (Lumira, Business Objects). Architected the creation of the analytical responsive dashboards (Mobile, Tablet, and Desktop) using SAP Lumira.
+Established Enterprise Data Architecture Review Board (DARB) to encourage collaboration across technical and business decision-makers. The DARB was able to uncover duplicative and redundant applications which once consolidated saved the Ministry millions of dollars. Created supporting content, processes, and policies. Assisted with identifying, developing, and enabling architectural decisions for initiatives including proof-of-concept, prototypes, and minimal viable products and solutions.
+Defined Road Map / Vision to architect and delivery a data-driven technology platform that integrated data process flows that spanned across different clusters including the onboarding of various business clients.
+Established data architecture and BI best practices, standards and data models; recommended data warehouse and reporting performance-tuning techniques. Mobilized and directed BI professionals and offshore development team of 30+.
+Generated 80%+ performance gain for enterprise BI systems and by strengthening OLAP database systems.
+Modeling activities for technology architecture based on overall project strategy, including options analysis and evaluations, traceability and alignments across architecture layers and domains, and architecture checkpoint process.
+
+Lead Architect June 2014 – Jan 2015
+Service Ontario
+The primary point of contact between the Data Governance team and assigned functional business stakeholders for data quality, data security, data privacy, standardization, data dictionary, metadata management, and business glossary need.
+Created business requirements documents including the scope of work (SOW), request for proposal (RFP), vendor vetting profile, and service level agreement (SLA) processes for a full life-cycle, application modernization upgrade to MS CRM
+Led the implementation architecture effort for a large scale, multi-year client data integration Hub project spanning multiple business units. Successfully created the reference architecture, the implementation architecture, services APIs, and data models, leveraging IBM/DWL Customer Model. Managed Architects/Engineers from multiple business units
+Led the architecture and data modeling effort for Business Intelligence solutions for the Ministry to include Internet Banking. Created conformed dimensions and measures. The solution was leveraging a cloud-hosted environment.
+Defined roles and responsibilities related to data governance and ensure clear accountability. In addition, it played a key role in guiding and influencing various stakeholders across the organization to achieve the goals defined in the enterprise data governance and enterprise data management strategies.
+Led migration of IT infrastructures from two legacy data centers into a single facility, delivered on schedule
+Hired as part of an organizational restructuring initiative to design and implement the Data Architecture piece of the Strategy and Architecture team.
+Project Lead Jan 2014 – May 2014
+Ontario Power Generation
+Presented proof-of-concept and ROI projections to senior management to win approval; managed the full project lifecycle across scope estimation, resource planning, solution modeling/simulation/design, programming, testing, and implementation.
+Facilitated development of enterprise system data security policy. Coordinated with application vendors and the user community to establish best practices for user data access.
+Proposed solutions to integrate data extraction agents for data sources ranging from traditional RDBMS repositories to real-time social-media and machine-generated feeds for use in Cloud-scale, hybrid Big-Data, and DW/DM environments.
+Led the IT strategic and operational planning to achieve business goals by fostering innovation, prioritizing IT initiatives and coordinating the evaluation, deployment, and management of current and future IT systems across the organization.
+Managed the discovery and documentation of current state processes, profiling data, understanding data relationships, harmonizing data elements across global systems, creating metrics and reports and participating in enterprise data governance
+
+Lead Enterprise Architect Oct 2012 – Dec 2013
+Ministry of Community Services
+Lead in the discovery and documentation of current state processes, profiling data, understanding data relationships, harmonizing data elements across global systems, creating metrics and reports and participating in enterprise-wide data governance efforts.
+Interacted with Business Owners / IT SME of the existing Applications and material master maintenance systems to prepare the Functional Design document which mapped legacy functions to the target modules.
+Reduced database operating costs by $250,000 a year by redesigning the database server farm. Utilized VMware, EMC, and Blades to realize a reduction in the total number of servers from 110 to 22.
+Achieved an additional 30% reduction in licensing costs over original prices by renegotiating DB licenses and support contracts.
+Led the $3 million delivery of an enterprise data warehouse using ERwin, HP/UNIX, Oracle, Informatica, and Business Objects.
+Created and monitored project phase deliverables (Privacy and Security architecture – TRA – PIA and other associated deliverables) and funding/next phase gates with respect to the privacy and security solution architecture
+
+Technical Lead Jan 2012 – Oct 2012
+Ontario Lottery and Gaming
+Liaised with client’s Technology Architecture and Information Security groups, domain experts, to socialize design recommendations and solution patterns, ensured corporate alignment, confirmed the viability of proposed specifications, secured executive management approvals and assured effective knowledge transfer to client’s resources
+Managed the contribution of business and IT stewards in building and compiling business glossary and metadata repository leveraging Data Governance software suite with a focus on increasing efficiency by making it easier to access data meaning and context
+Developed a comprehensive logical design specification that described the required portfolio of business platforms, applications, security and/or services required to enable client’s future state business and operational models.
+
+Lead Architect Jan 2009 – Dec 2011
+Ministry of Children and Youth Services
+Implemented an Accessibility Application that used a multi-tiered physical architecture aligned with the OPS application and infrastructure usage patterns leveraging common services. This application enabled obligated organizations in the private sector to use a secured, fully accessible online I&IT system to report compliance to the AODA – CYSSC - (Accessibility Directorate of Ontario).
+Reviewed existing warehousing models and architecture leading to new development that improved existing warehouse loading by 22% and reporting system loading by 25%
+Managed, architected and implemented the data integration and data warehousing solution. This involved the analysis of a 360-degree view of the customer, compliance information and product information.
+
+Project Lead Jan 2007 – Dec 2008
+Ministry of Community and Social Services
+Collaborated with key stakeholders and internal teams to define enterprise architecture principles, standards, and guidelines.
+Leading the client’s overall database and data migration strategy. Acted as chief architect and designer for the main MS SQL data warehouses. This included; analyzing and designing various Legacy systems, defining Extract Transform and Load (ETL) strategies, defining procedures for software development, database administration and general Windows system development
+Helped define and implement a strategy for offloading the production database for reporting purposes. This involved designing the process of extracting the appropriate data from the production database (IMS and VSAM) with the least amount of overhead to the business transaction, transforming and transporting it for reporting purposes to the reporting database.
+Led Advancements in Self Service Analytics enabling insights to be used in operations at a faster pace
+Created and Led the Data Council to provide governance to Data Management initiatives ensuring optimal technology investments
+
+Lead Architect Jan 2003 – Jan 2007
+Ministry of Justice
+Took the client from RFI, POCs (Informatica, MS SQL, and Windows) to tool selection and cluster-wide implementation.
+Defined, designed, configured, and implemented a suitable architecture for data integration from multiple, disparate data sources (including legacy systems, relational databases, flat files, message queues, spreadsheets) to a Microsoft Platform.
+Primary tasks included the design of the conversion architecture, supervision, and direction of the conversion development team, reporting of status to executive project management, development of the overall conversion work plan, the detailed implementation playbook, and the creation of all conversion deliverables.
+Responsible for oversight and design for converting data from the client's multiple (55) legacy mainframe systems (IMS, VSAM) and a variety of de-centralized sources into the new application’s Microsoft environment
+
+Architect Jan 2001 – Jan 2003
+Management Government Services
+Developed, Maintained, and Supported projects that involved the design and implementation of enterprise application integration infrastructures on multiple platforms.
+Designed, implemented, tested, and deployed a reusable, configurable, distributed framework for application integration, comprised of a workflow server, distributed messaging server, and database server.
+Administered three operating systems which included clearing queues, modifying object attributes, starting and restarting queue managers, restarting channels, and supporting application development by helping resolve programming problems with MQ
+
+Lead Engineer Oct 2000 – Jan 2001
+McDonald’s Restaurants of Canada
+Designed and Supported Oracle Database programs to work from specifications to extract data leveraging MQ Series.
+Worked with business partners to define data elements, transformation rules, and business logic.
+Administered multidimensional structures for OLAP Services. Administer OLAP Cubes to support Business decisions. Analyze user requirements and implement the best method to retrieve data from a SQL database.
+
+Lead Engineer Feb 2000- Oct 2000
+The Canadian Depository for Securities Limited
+Migrated SEDAR to use MQ Series, DB2 and embedded C from an INTERRA messaging system on an RS/6000 Server
+Lead activities to create and implement automated test scripts for functional level verification and system-level testing.
+Provided analysis, reports and status of all products in test, including the final QA recommendation of the product's shipping viability.
+
+Enterprise Application Integrator Aug 1998 - Jan 2000
+Resource Information Systems (Canadian Pacific Railway)
+Charged with re-writing aging but mission-critical Purchase Order Management processing system. The new design increased throughput 10-fold while increasing reliability and decreasing user intervention by using MQ Series as its Data Transfer system.
+Formulated and executed corporate roadmaps to ensure compliance with corporate governance criteria.
+Converted a 3270 Messaging Process (from an OS 390 Platform written in COBOL) into MQ Series, Windows, AIX, and Oracle
+
+Programmer Analyst, Credit Risk Application & Processing May 1997 - July 1998
+TD Bank
+Wrote, tested and implemented several online and batch IMS DB/DC programs that were part of the VISA, CMHC, Mortgages, Line of Credit, and Loans subsystems.
+Identified, researched and resolved issues and trends that assured data integrity/accessibility, eliminated analytical and data inconsistencies, and reduced workload.
+
+EDUCATION
+Google Cloud Platform (Boot Camp) 2019
+Google Cloud Platform for Azure Professionals 2019
+Show Case Ontario – Presented “A Complete Strategy on Data Migration / Integration 2008
+B Sc. - Comp Science Memorial University Newfoundland 1997
+
+Contact this candidate

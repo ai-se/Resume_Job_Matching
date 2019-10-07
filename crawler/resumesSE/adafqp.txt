@@ -1,0 +1,288 @@
+
+ROLES
+
+Manager / Architect
+Technical Lead
+Product Lead
+Sr. Software Engineer
+
+TOOLS/METHODS
+
+Project Life Cycle Management
+Waterfall / Agile
+Iterative Development using RUP
+Statement of Work (Sow)
+Service Level Agreements (SLA)
+Visio
+Microsoft Project
+Clarity
+
+INDUSTRY APPLICATION
+
+Financial Services
+Health
+Semiconductor
+Telecom
+Manufacturing
+Logistics
+
+EDUCATION
+Bachelors in Computer Science.
+Walchand Institute of Technology, Maharashtra, India
+
+CERTIFICATIONS
+
+-Completed SAP Hybris Commerce cloud Sales Executive Qualification
+-Presales Consultant Qualification
+
+TRAINING
+- Completed Demandware
+- Completed Hybris Commerce Cloud
+- Completed Hybris CPQ Solution Model Env
+- Completed SAP customer Data Cloud (Gigya)
+- Salesforce Commerce Cloud In Progress
+
+EXPERIENCE IN
+Project Estimation and Resource Planning
+Issue/Risk mitigation
+System Analysis and Design
+Users/Client Interaction
+Onsite-Offshore Coordination
+Production Support
+Development
+
+EXPERIENCE SUMMARY
+Accomplished professional around 19+ years of IT experience.
+Delivering various stakeholder projects utilizing global delivery teams.
+Functional/Technical proficiency with 8+ full life cycle SAP ecommerce implemented with S/4 HANA, Cloud.
+An effective IT professional with experience in integrating complex business and technology solutions.
+Able to lead collaborative cross-functional teams working in a matrix environment.
+Includes a diverse technology and application, ecommerce background in different industries.
+Have in-depth understanding of software systems environments, development platforms and Software Development Life Cycle.
+My work has shown to be a dynamic, flexible and resourceful.
+Have been appreciated for my technological skills and by leadership for management skills.
+A goal-oriented, high energy and customer focused team player putting the needs of the stakeholder first.
+
+SKILL INVENTORY
+
+Project / Program Management:
+Project Planning & Management (Agile, Waterfall)
+Service Level Agreement
+Strategic Planning & Development / Alliances / Partnership
+Risk / Change / Communication Management
+Scope Development and Management
+Organizational Design & Resource Management
+Release, Transition & Knowledge Management
+Application Development, Implementation/Deployment (Legacy & Distributed Apps)
+
+Analysis/Design Skills:
+Languages: Java, VB, SAP-ABAP, PL/SQL, C, C++, PHP, Centura, ASP.
+Scripting Languages: Java Script, VB Script, DOJO, Ajax
+Server: Documentum, Filenet, Tuxedo Service, IIS, Weblogic, JBoss, Websphere, Tomcat, Oracle Application Server
+Database & Data warehousing: MySql, Oracle, DB2, SQL Server, Sybase, AbInitio ETL, Informatica
+Web Technologies: HTML, DHTML, XML, JSP, Servlets, ASP, JSF
+Ecommerce: Magento, Demandware, Websphere Commerce, Hybris and Hybris CPQ, Salesforce
+Productivity Tools: Rapid SQL, TOAD, PL/SQL Developer, WSAD, RAD, Eclipse, PL/SQL Developer, Embarcadero, SQR, Crystal Reports, Jasper Reports, JEXCEL, POI, SAP-BI, Intellij, Swagger
+Open Framework: Spring, Struts, Hibernate, Open Symphony, SOA, Gem Fire
+Defect/task tracking: Team view, JIRA, Confluence, TFS
+Release management: Maven, Jenkins and Bamboo
+Design Patterns: Post redirect get, Prototype, Singleton, Adapter, MVC, Factory, Façade, Singleton, Data Access Objects, Service Locator, Front Controller
+Middleware: Mule ESB, Data Power, Websphere Message Broker and MQ
+Webservice: Jax-ws SOAP, Jax-rs REST
+Repository Tools: CVS, RCS, VSS, SVN, bit bucket
+Testing Tools: Winrunner, Silk Test
+Operating System: Unix, IBM Mainframes, Windows Platforms
+APM: Wily, Dynatrace, AppDynamics
+Code Review: SonarQube, SonarLint
+Project Management Tools: JIRA, Microsoft Project, TFS, SharePoint, Visio, Office Suite, Confluence, Workday
+
+SUMMARY OF EXPERIENCE
+
+Employer: Loopintegration, USA. Sep 2017 to Till Date
+Role: Techno Functional Architect / Manager
+Client: ColgatePalmolive, TourTrek(GoBe), Chamberlain, Bell Helicopter, TREK, SAP LMP(SuccessFactors), Royal Caribbean Cruise, Southwire
+Lead projects (and/or multiple sub projects of a program) of various sizes, complexity and Collaborate with offshore, onsite team, SAP team and
+vendor partners to achieve desired results.
+Evaluates emerging technologies and provides thought leadership and perspective for adoption where appropriate.
+Manage cross functional execution of A/B and multi variate testing on all aspects of a customer journey.
+Defines, organizes and plans project schedules to meet required project/program timeframes.
+Responsible for the development of effort estimations utilized in new work proposals.
+Setting up the AWS private cloud space for multiple commerce projects and cloned instances based on the client requirement.
+Developed project schedules and determines resource needs, works closely with resource managers to ensure proper resource allocation to the
+Program.
+Experience on integration with salesforce cloud and bi-directional customer data migration based on business rules.
+Actively involved with testing team to make sure all the functionalities are meeting the expected results before product owner perform the UAT.
+Establishing and maintaining strong relationships with business and IT partners that includes third party vendors.
+Lead technical discovery sessions with the product owner/client to develop a comprehensive understanding of the technical requirements and
+integrations interfaces for new commerce solutions.
+Understanding the Clients b2b requirements and proposed solution by integrating with third party systems, changes around existing hybris environments.
+Worked on upgrade project hybris 5.7 to hybris 6.6, resolved technical challenges came across during this upgrade process, actively involved
+with SAP Cloud support team to make sure the risks are tracked and resolved on time.
+Chamberlain b2c (SAP Retail) project requires nice look and feel front end so was closely working with the vendor to explain
+the capabilities of hybris 6.5 OOTB and estimated the effort, resource to execute the delivery.
+
+Employer: Lennox international, USA. May 2016 to May 2017
+Role: Lead Architect – Sr. Manager
+Creation of documentation of formal requirements, use cases, user stories and models that fulfill business, customer, technical needs.
+Used tools and methodologies to create RAID logs (Risk, Action, Issue and Decision)
+Prepare meeting agendas meeting minutes, distribute meeting documentation, and maintain and monitor action item listings are necessary
+Collaborates with other cross-functional teams from all domains throughout the lifecycle of solution delivery
+Due to project B2b and B2c (SAP Retail) complexity was actively involved on architecture of this project, this project involves Hybris CPQ 6.3
+Managed project schedule, budget and escalated risks, issues to the management / business owners on need basis.
+Prepared steering committee slides about the project status on weekly basis and present to stake holders and executives.
+Project team followed agile methodology and sprint was planned for 3 weeks.
+Review and modified the scope/statement of work, estimates, schedule, assumptions, acceptance for the vendors.
+Prepared NFR, architecture diagrams, was active decision maker on all technical decisions, evaluated existing
+Webservices JCO calls and recommended the modification, cut over activity and Go Live checklist.
+Closely worked with SAP vendor for understanding the Hybris roadmap and plan our project phases accordingly.
+Was responsible for hire, fire, employee evaluation, Prepare the New Hire 90 day’s plan and meet the management
+business objectives.
+Closely worked with Infrastructure team for accessing webservice end points, SAR, F5 load balancer and DBA team.
+Managed two vendors, our internal offshore team and onsite teams, was leading the end to end project.
+
+Employer: Chamberlain, Liftmaster., USA. May 2015 to Mar 2016
+Role: Delivery Architect - Sr. Manager
+Collaboration application developers, designers and architects to ensure shared understanding of the business model and detail requirements.
+Managing the vendor project manager’s and their respective tasks, leading the IT track (i.e. includes Pay metrics, Vertex, PKMS, Hyrbris-DataHub, SAP, infrastructure track leads).
+Prepared steering committee slides about the project status on weekly basis and present to stake holders and track leads. Manage the KPI’s related to all the projects.
+Track project against its schedule, budget and reporting status to management on a regular basis.
+Was part of the Capital project request, recommended some changes around capital vs expenses and hybris 5.7
+license negotiation.
+Proposed new work flow to execute the tasks, defects, bugs, enhancements in JIRA confluence,
+Prepared and reviewed RACI chart with each track leads and evaluated expected deliverables from the vendor.
+Was leading the cutover activity, CAB process while implementing the project for soft/hard launch.
+Prepared capacity work sheet to measure the effort each individual and made sure to achieve the sprint goal.
+Review the scope/statement of work, estimates, schedule, assumptions, acceptance for the vendors,
+recommended if any changes required and validated with internal legal department.
+Was part of the Go-NoGo decision, Disaster Recovery exercise, SAP/Hybris refresh on different landscapes.
+Involved in phase 2 project, integrating with Widen DAM, Decommissioning legacy sites.
+
+Employer: Lyons Consulting Group., USA. May 2014 to Apr 2015
+Role: Architect Lead
+Client: Litle, Invodo, AgilOne, Jonathan Adler, PowaTag. Sailthru, GoPro, Guthy-Renker, Smartling.
+Organized and facilitated project planning, daily scrum stand-up meetings, sprint and release planning and other agile development related activities.
+Collaborate with customers, vendors, industry consultants, and senior company management to define service levels. Integrate activities with business units and other IT departments to ensure the successful implementation and support of project efforts for B2b and B2c (SAP Retail and other platforms).
+Track project against its schedule, budget and reporting status to management and client on a regular basis.
+Interacting with the client and development team to maintain the priorities, if needed negotiate the timeline.
+Recommended new processes where needed to improve quality, cost efficiency, or on time delivery and maintained awareness of new, emerging technologies.
+Work closely with marketing teams to develop and implement a customer relationship & customer experience management roadmap.
+Was responsible to guide a team with cross function areas including Demandware developer, Hybris developer,
+architects and testing
+Partners in with the business in solution identification and requirements definition and ensures continuity of understanding throughout the development cycle.
+Developed risk assessment, risk mitigation, documentation of issues, assigning issues and tracking issues closure, escalates the issues if needed.
+Preparing the scope/statement of work, estimates, schedule, assumptions and acceptance for the client.
+Worked closely with customers and pre-sales teams to manage customer trials, propose technical solution with options.
+Got an opportunity to work on end to end implementation using Demandware and Hybris product.
+
+Employer: HTC Global Services., USA. Aug 2012 to Dec 2013
+Role: Architect
+Client: State Farm Insurance.
+Integrated customer platform (ICP) is the organizational level initiative started by State Farm to come up with an online
+integrated platform available for customers and agents that will provide enhanced user experience.
+Prepared ADS, ADD for architectural changes based on the need and also explained pros and cons.
+Participated in mobile and web application architecture planning, Project Schedule, Framework design to determine
+optimal solution architecture, efficiency, maintainability and scalability.
+As the project was implemented with SOA architecture was fully engaged with different development centers to resolve
+the dependencies, issues, risks and make sure to meet project deadline.
+Was familiar with clients entire solution landscape and help leverage and extend that landscape to meet biz needs.
+Conducting project risk issue meetings and interacting with architecture team, technical team, business team based on
+the needs. Update the weekly project status to the stakeholders and act accordingly.
+Communicate strategies across IT teams and fosters collaboration in IT and business area.
+Plan, organize, control and lead subordinate functions within established budgetary and manpower plans.
+Utilize a mix of offshore and onshore development organizations to deliver efficient and quality software applications.
+Was keeping track of the vendor deliverables as such data management, system test plans, ensure software quality assurance state farm standards are achieved and validate that business goals are accomplished.
+
+Employer: Quadratics Solutions Inc., USA. Mar 2011 to Jul 2012
+Role: Application Architect
+Client: Constellation Brands.
+Identifying and articulating needs, determining project scope, creating a plan, estimating project costs, effort, duration
+Evaluated the feasibility of the architecture and technologies related to a business changed.
+Presented the tactical and strategic benefits of adopting a consistent architectural approach within the context of the
+client’s business to help the client to justify his investments.
+Assist in prioritizing and preparing data architecture and recommend data management solutions, methodologies.
+Researching and implementing skill gaps and new skill required meeting changing technology and business needs.
+Identified the risk impact of architectural changes on the business, application relationships and data flow.
+Provided buy/hold/sunset recommendations for B2b, B2c application.
+Client: Northern Trust Corporation.
+Implemented different projects of Data direct (CLA, SLA, Contribution, Policy tree) and were fully responsible for SDLC.
+Defined standard methods and processes for system integration and ensure adoption and use of those standards.
+Developed project plan, Project Schedule, gathering requirements from business users and deal with production issues.
+Suggested some technology changes based on the business requirement and traffic while accessing the application.
+Assist in developing business test cases with respect to the need of the application before business user starts testing.
+Preparing High Level and detailed System design, Data flow diagrams for the project based on need.
+Assisted with web Services and make sure that the connectivity of consumer and providers are working fine.
+
+Employer: Advent Global Solutions Inc., USA. Jul 2007 to Mar 2011
+Role: Application Architect
+Client: Walgreens Co.
+Implemented different projects as AARP Credit Card Program, Vitality Eligibility Program, Ecommerce, Rx Compliance
+Advisor and was fully responsible for SDLC.
+Engage with stakeholders, Develop project plan, Project Schedule and deal with operational issues.
+Was fully involved in implementing and integrating vendor software with current architecture, risk analysis and CR’s.
+Responsible for the creation of IT business case & detailed project plans in Clarity
+Responsible for creating artifacts necessary for application development using Requisite Pro and Clear Case.
+Responsible for the financial and communication plans for the program.
+Analyze and assess risks, assumptions and develop corresponding program charter and execution plans.
+Assist in developing logical / physical data models and Web Architecture intended for the Incentive management
+system being managed under Agile Methodology
+Provided technical assistance with Tuxedo Service, Production Reporting / Interactive reporting architecture.
+Client: Northern Trust Corporation.
+Manage / Implement application development methodologies such as Waterfall, Agile, and Iterative development using global delivery teams.
+Facilitate project meetings, JADs, Scrum and other necessary due diligence for the successful implementation of ongoing projects
+Establish ongoing lines of communication with the project team with continuous monitoring and management of IT Application risks
+Negotiate and resolve issues as they arise across areas of the project and where they impact on other activities, systems and projects.
+Weekly Senior Management status reporting using Swim Lanes.
+Active business liaison for requirements scope, SOW, Risk & Change management. Implemented project data and communication management through Microsoft® SharePoint™.
+Responsible for driving business & technical requirements and successful implementation of this project.
+
+Employer: eNucleus Pte. Ltd., Singapore. Jul 2006 to May 2007
+Role: Solution Architect
+Client: Energy Market Authority.
+Responsible for leading and providing architectural standards to the project and also shared the knowledge among the team to have a consistency on the system design and analysis.
+Responsible for the architectural solutions of RDIS system leveraging client server technologies and Sybase database capabilities.
+Responsible for developing solutions designed at participant self-servicing contact information and other RDIS data.
+Responsible for Database design as well as object and data modeling for various transactional activities aimed at storing on-line transactions.
+Was involved to configure RDIS web project to the Filenet content management system to display documents on fly.
+Analyzed applications to identify bottlenecks in performance and opportunities for improvements to the workflow.
+Teamed with other developers and architects to determine optimal solution architecture, efficiency, maintainability, and scalability of a vended solution for retirement services.
+
+Employer: ISG Novasoft Pte. Ltd., Singapore. Dec 2005 to Jul 2006
+Role: Technical Lead
+Client: Jurong Port Pte. Ltd., Singapore Telecommunication Ltd. (Singtel)
+Organize steering committee meeting, including ensuring those minutes will be taken.
+Review the code base and the standards before goes to UAT, PROD deployment.
+Develop and Implement a road map for outsourcing Application Development and Maintenance with a goal of creating Centers of Excellence (COE) for key technologies and departments.
+Develop a sourcing playbook for the various offshore models while socializing Global Delivery Model (GDM) application amongst various departments.
+Responsible for leading and providing architectural support for strategic projects designed to achieve operational efficiencies not only for IT but also generating significant process improvements for the business partners.
+Prepare project status reports and project change requests for the steering committee.
+Responsible for the architectural solutions of retirement services system leveraging client server technologies and mainframe database capabilities.
+Responsible for the project estimates, resource allocation, time line, budget review technical specifications and various design documents depending on the project needs.
+Involved in configuring Documentum content management system to download the tunes from the Singtel online web site.
+
+Employer: Anzagain Sdn. Bhd., Malaysia. Jan 2004 to Nov 2005
+Role: Product/Project Lead
+Client: Solectron Technologies, Telekom Malaysia, Comline Systems Sdn. Bhd.
+Working experience J2EE Design Patterns (MVC, Factory, Façade, Singleton, Data Access Objects, Service Locator and
+Front Controller etc.)
+Leading a team of 12 members and managing by assigning tasks based on issue priority level.
+Hands on experience in configuring bi-directional SSO (SingleSignOn) between different applications.
+Knowledge of OOAD Techniques, developing Use Cases, Interaction Diagrams (Sequence diagram, Activity diagrams
+and Class diagrams) using Rational Rose, MS-Visio Tools with the use of UML (Unified Modeling Language).
+Determine product specifications and document in product requirement document (PRD)
+Initiate and prioritize modules within developers, track the product development, develop product launch plans.
+Extensive experience in integration, debugging, design, analysis, and implementation.
+Loading the data from different flat files to database tables and vice versa using UNIX shell scripting.
+
+Employer: DPS Technologies Pvt. Ltd., India. Nov 1999 to Dec 2003
+Role: Sr. Software Engineer/Developer
+Client: Wimco, Britania, Kolkata Stock Exchange, Haldia Petro Chemicals, Coal India Ltd.
+Application developer working on various outsourcing projects and in-house projects.
+Extensively worked on N-tier architecture systems with application system development using ASP.NET, VB, Java, J2EE,
+EJB, JSP, Servlets, Scripts and build script using Ant, generated reports using SAP-ABAP.
+Experience in Database Designing, SQL Queries, PL/SQL packages with procedures, triggers, views, functions & cursors.
+Having experience in loading the data from different application database to central database using ETL.
+Technical leadership for source control branching, merging, environment planning and daily builds.
+Triage/defect call participation and guidance. Post release support, active troubleshooting for production support.
+Work with other java software professionals to create high level j2ee designs and technical documentation/specs.
+
+Contact this candidate

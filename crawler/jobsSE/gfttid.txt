@@ -1,0 +1,46 @@
+
+Were looking for humble, but ambitious, razor-sharp Engineering Leader who can teach us a thing or two. We promise to return the favor. Like us, you take product development, API, Analytics and ML or AI platform engineering seriously; youre passionate about technology and, even more so, about leadership. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. We are currently seeking an Engineering Leader to drive technical vision and provide leadership for multiple teams of engineers and other creators in an innovative and fast paced environment. Our selection process will emphasize technical and architectural skills as well as leadership/management/SDLC process/organizational skills equally. The ideal candidate must be a master of their domain. Furthermore, the ideal candidate must be able to inspire, champion and teach when the need arises. We are looking for someone whos is equally comfortable leading by influence or authority. Lastly, we are looking for a rare mix of intelligence, integrity, domain knowledge, verbal agility, and diplomacy which allows you to rapidly earn the trust of technically astute engineers and product astute product management leaders.
+
+Why We Need This Role
+We are looking for a leader to help us build out a portal of tools, services and workflows that our Capacity Partners will leverage as they establish and manage their respective partnerships with us and help us turn clients ideas into a fully functioning software. This includes everything from partner client contract execution to dashboards as well as creator assessment and onboarding tools and tools that allow partners to manage rates or availability of their respective creators. We want to do this to enable our partners to leapfrog their fiscal and operational efficiency as well as their stickiness with us.
+
+Why You Should Join
+This is a challenging and diverse role that requires you to build both, an organization and new generation of Builder product, nearly from the ground up. Only join this role if you are craving rapid growth, able to create a path in unchartered territory, and comfortable with trying, failing and course-correcting fast.
+
+First Six Month Deliverables
+Develop and execute strategy for horizontally scalable development of Shared Services
+Transform Shared Services into modularized application which can be maintained and grown semi-autonomously
+Grow / transform Shared Services team to be capable of parallelized (a minimum of 3 largely autonomous teams) development efforts
+Complete POC and MVP rollouts of NayaOS
+Significantly streamline data sharing between CRM, Marketing Portal and Product platforms
+Achieve greater level of quality and fault tolerance through the implementation of hard enforced CI/CD and QA automation
+Requirements
+Strong technical leadership experience in globally geo distributed environments
+Solid experience in ERP platforms and Internet Infrastructure
+CS degree required or equivalent work experience
+5 plus years of relevant experience managing fast-paced and dynamic software engineering teams
+A proven track record of managing successful high-capacity, large-scale product / ERP integration tools/architectures
+Capable of technical deep-dives, yet verbally and cognitively agile enough to hold their own in a strategy discussion with senior technical or executive leadership
+Comfortable recruiting and leading technical leads and a global team of very bright, experienced engineers capable of working on projects and at scale unlike any other they've encountered
+Very experienced with Agile / Scrum methodologies
+Outstanding communication skills, both written and oral
+Expert understanding of object oriented and procedural Software Engineering, Data Engineering and cloud computing fundamentals
+Expert understanding of Ruby
+Expert understanding of SQL and NoSQL database architecture, strong understanding of RDS and data streaming services
+Strong understanding of and experience with testing practices including unit testing, integration testing, acceptance, and load testing
+Strong automation and CI / CD experience
+Strong software and data security expertise
+Pivotal Tracker or Jira, GitHub, CD/CI tools experience, some would say you are a master.
+If I asked your previous team members about you, they would say you were a great leader and they would very much welcome an opportunity to work for you once again.
+Benefits
+Health and Wellness benefits including competitive medical, dental, and vision plans
+Performance-based bonuses and stock options
+Generous vacation and time off benefits including paid holidays
+Generally flexible working hours
+Working in a beautiful office space the heart of Silicon Beach in Playa Vista
+A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
+Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

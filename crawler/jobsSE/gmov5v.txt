@@ -1,0 +1,70 @@
+
+Cloud Support Engineer
+Rochester, Michigan - OneStream Software LLC
+Employment Type:Full-Time
+Summary
+OneStream Software is a Microsoft Gold Partner: Cloud Platform and hosts customer environments in Microsoft Azure. Our proprietary software is installed in the customer's hosted cloud environment and managed by us. This position will primarily involve implementing and supporting customer environments to include gathering customer specific configurations, building the environment for go-live, and responding to customer support tickets. This vital role within Cloud Services requires knowledge and experience designing, implementing, and monitoring scalable and secure cloud services. The employee will be expected to work well in a small team and willing to share responsibilities with other team members as needed. He or she will interact with internal staff, managers, and customers to implement and maintain IT operations. A passion for technology and learning, and the ability to grow others are vital for success in this role.
+Primary responsibilities:
+Customer environment implementation and software configuration.
+Perform environment updates and software upgrades.
+Provide excellent customer service and support.
+Monitor customer environments through Azure alerts and Operations Management Suite.
+Identify opportunities for automation and process improvement.
+Troubleshoot production issues and perform on-call duties.
+Secondary responsibilities:
+Participate in architectural discussions to ensure solutions are designed for successful deployment in the cloud.
+Architect, design and implement solutions with Azure Resource Manager (ARM).
+Update technical documentation, workflows, and knowledge-based articles.
+Identify opportunities for security and improvement.
+Implement changes for compliance certification as needed.
+Support internal infrastructure projects as needed.
+Competencies
+Affinity for customer service.
+Strong problem-solving skills.
+Ability to multitask a variety of projects.
+Passion for technology and learning.
+Self-motivated, self-starter.
+Ethical.
+Professional.
+Team player.
+Excellent written, verbal, and interpersonal skills.
+Required Education and Experience
+BS/BA in Computer Science, Engineering, or related field.
+3 - 5+ years network engineering and infrastructure experience.
+2+ years' experience as help desk / customer service technician.
+Experience with two or more of the following technologies, tools, and concepts:
+MicrosoftAzureor Amazon Web Services (AWS) preferred but not required.
+Microsoft Windows 10, Windows Server 2012 R2/2016, IIS, Microsoft SQL Server, Active Directory.
+Automating processes usingPowerShell, Azure PowerShell Modules, REST APIs, JSON orARM Templates.
+Identity management using Azure AD, Okta, OpenID Connect, SAML.
+Working knowledge of various cryptographic algorithms and protocols (IPSec, TLS, SSH, AES).
+Network and application security device configuration and management (Cisco, Barracuda, Palo Alto, SonicWall).
+Preferred Education and Experience
+Experience working for a cloud service provider (CSP) or managed service provider (MSP).
+Any certifications such as Information Technology Infrastructure Library (ITIL) Foundation, Microsoft Certified Professional (MCP), CompTIA Security+, Cisco Certified Network Associate (CCNA) Cloud Platform: Microsoft Certified Solutions Associate, or Cloud Platform: Microsoft Certified Solutions Expert is a plus.
+WHO WE ARE
+OneStream Software is a privately held software company created by the same team that invented the leading financial solutions of the last decade. We provide a unified Corporate Performance Management (CPM) platform which enables the enterprise to simplify financial consolidation, reporting, budgeting and forecasting for complex organizations. Our powerful extensibility enables the enterprise to deliver additional analytic solutions without adding any technical complexity. By delivering multiple solutions in one application, we offer increased capabilities for financial reporting and analysis while reducing the risk, complexity and total cost of ownership for our customers. We are driven by our mission statement that every customer must be a reference and success.
+We are equally fanatical about our OneStream family members (formally known as employees).We are a team in every sense of the word.Everyone here is approachable and excited to pitch in and help.We work hard and play hard.The right candidate is easy to get along with, always willing to lend a hand, excited about coming to work, and happy to contribute to the team.We have a casual dress environment and modern office with waterfront views of the Long Island Sound.
+WHY JOIN THE ONESTREAM TEAM
+Transparency around corporate structure, salary, and benefits.
+Core value of customer success.
+Variety of project work (not industry specific).
+Strong culture andcamaraderie.
+Multiple training opportunities.
+Benefits at OneStream Software
+OneStream employees are passionate, hardworking individuals who go above and beyond to keep our customers happy and follow through on our mission statement. They consistently deliver the best and in turn, we make every effort to keep them cared for and happy. A sample of the benefits we provide are:
+Excellent Medical Plan.
+Dental & Vision Insurance.
+Life Insurance.
+Short- & Long-Term Disability.
+Vacation Time.
+Paid Holidays.
+Professional Development.
+Retirement Plan.
+OneStream Software is an Equal Opportunity Employer.
+
+Job Posted by ApplicantPro
+
+
+Go to apply 
+

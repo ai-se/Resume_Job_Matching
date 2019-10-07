@@ -1,0 +1,58 @@
+
+DARSHAN J
+Data Scientist
+PROFILE
+Data scientist professional with an
+experience of 2 years in the field of
+decision science providing Descriptive,
+Inferential, Diagnostic and Predictive
+solutions.
+SKILLS
+Machine Learning
+Deep Learning
+Python
+R
+SQL
+Informatica
+CONTACT
+PHONE:
+990-***-****
+WEBSITE:
+https://www.linkedin.com/in/darshan-
+jayanna/
+https://github.com/darshanja/
+EMAIL:
+adahft@r.postjobfree.com
+CERTIFICATE
+Machine Learning
+Python
+R
+EDUCATION
+DAYANANDA SAGAR COLLEGE OF ENGINERING, BENGALURU
+B.E (74%)
+2013 - 2017
+WORK EXPERIENCE 2 YEARS
+ACCENTURE (Associate Software Engineer)
+2017– Present
+Projects
+Recommendation Engine for Magento Platform
+Built a recommendation engine using K-means clustering and Apriori models for an e-commerce website in which I’m working for building the collaborative filter model to get the recommendations.
+Sentiment Analysis on Reviews data
+We built an external plugin to segment the new reviews or comments into different classes (VG,G,AVG,B,VB), in which I worked on text mining and built classification model in Python.
+Image Stitching & cropping and Merging
+Developing an application to stitch different images into single image using SIFT model. And also using RESNET model identifying the mask of an image & merging it with a background image to get a desired final image
+Data Quality using PYSPARK.
+Developing Python scripts to load the fixed length/json/parquet/xml files into hadoop through pyspark with maintaining Audits Kaggle Projects
+Fraud Detection from customer transactions
+I submitted a kernel with XGBoost model with EDA for customer transaction fraud detection.
+Credit Loan Default Imbalanced classification
+Cleaned the data, imputed the missing data using MICE technique and build a classification model after
+Oversampling the data using SMOTE
+Chabot using Cornell movie dataset
+Built a Chabot using Cornell movie dialogs corpus
+dataset.
+Facial Expression detection.
+Made a CNN model using Keras to find the facial
+expressions.
+
+Contact this candidate

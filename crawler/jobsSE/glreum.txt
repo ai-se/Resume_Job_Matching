@@ -1,0 +1,36 @@
+
+Job Title: Development Engineer Salary: Competitive Location: Leeds About the Company: IRIS is a leading provider of cloud and software services to the UK SME, accountancy, education and payroll sectors.
+We deliver secure, scalable and innovative software solutions to over 1 million regular users of our hosted and cloud services.
+As part of the Group Engineering function, the Service Operations department is responsible for the full lifecycle of the group’s web-delivered software products, from tooling, CI/CD and deployment, through to capacity planning, management, optimisation and securing of the various delivery platforms.
+Reporting to the Development Engineering Manager, the Development Engineer is responsible for the proactive management and maintenance of various public and private cloud infrastructures, ensuring security, uptime and optimal performance are all at the highest levels.
+The person in this role will be an experienced web/infrastructure engineer with experience of running large scale, web-delivered applications.
+Experience with working with multiple cloud infrastructure providers, distributed systems and full-stack monitoring is a must.
+Job Summary: As the successful candidate, you will be using your experience to build, maintain and automate the development tooling, including the CI/CD system, testing infrastructure and the resulting instrumentation to ensure the development teams can deliver high-quality production code with the minimum of effort and problems.
+As well as maintaining best practice, you will work with key stakeholders to ensure security, business continuity and customers are always the prime focus.
+You will work with senior members of the team to look for tooling, infrastructure and process improvements, increase performance, lower costs, improve stability or drive efficiencies.
+You should be entirely vendor and product agnostic, and always seek to use best-of-breed technologies, regardless of personal preference.
+Main Responsibilities · Operational maintenance of all CI/CD platforms and services, responding to monitoring and developer issues as required on a business-as-usual basis.
+· To maintain the integrity and security of all customer data.
+· Collaborating and communicating effectively with team members, department colleagues and the wider organisation.
+· Driving the regular delivery of updating the latest software builds to the production environment.
+· Maintaining and improving the tooling and architecture of the development environments to provide optimal development performance, and an awareness of the effect of agile change management on the nature of the platforms.
+· Build resilient, secure and cost effective applications and services.
+· Assisting with ad-hoc project work as directed by Senior Development Engineers and the Development Engineering Manager.
+· Managing and collaborating with external partners to maintain an innovative, best-of-breed set of tools by which to deliver cloud products.
+· Cultivating relationships with IT management and technical teams across IRIS.
+· Maintaining and automating the infrastructure configuration management system through the extensive use of scripts and tooling.
+· To maintain an in-depth knowledge of the organisation's applications, their architecture and configuration.
+· Maintaining constant awareness of industry trends and improvements, ensuring you brief colleagues on potential tooling improvement opportunities through personal R&D projects.
+Qualifications · Degree qualified in a computer science, math or engineering discipline or equivalent industry experience.
+Experience Required: · Have experience of maintaining continuous integration and continuous deployment systems like Jenkins, Hudson, Bamboo or TeamCity.
+· System and network administration experience on Windows Server and Linux operating systems.
+· Have scripting knowledge of either Python, PowerShell or Bourne shell.
+· Good TCP/IP knowledge and associated protocols such as DNS, HTTP, SMTP, etc Beneficial: · Build and configuration management systems using Puppet, Chef, SaltStack, Ansible, etc.
+· Experience with operations system build and definition tools such as Terraform and Packer.
+· Working in an Internet software delivery environment (e.g.
+SaaS, eCommerce, managed services). · Working in an Agile software environment with CI/CD and associated systems (Bamboo, Hudson, Jenkins, etc.). · Relational (SQL) and NoSQL Databases.
+What You Can Expect From Us ? · 26 days holiday · Holiday buy and sell · Generous pension · 3 paid volunteering days per year · Cycle to Work scheme · Private medical insurance · Healthcare cash plan · Life assurance · Season ticket loan · Child care voucher scheme · Additional discount schemes (gym membership, Tastecard etc)
+
+
+Go to apply 
+

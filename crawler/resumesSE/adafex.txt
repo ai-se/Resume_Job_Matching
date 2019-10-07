@@ -1,0 +1,43 @@
+
+Infosys Technologies – Senior System Engineer ** months
+Square Yards Ltd – Software Developer 16 months
+Parul Mathur
+4+ year in Software Development, Certified .Net Developer, Masters in Business Analytics ACADEMIC QUALIFICATIONS
+DISCIPLINE YEAR UNIVERSITY/BOARD INSTITUTION
+Post Graduate,
+Business Analytics & BI
+2019
+GLIM
+(IIT Stuart Business of School,
+Chicago, Illinois)
+Great Lakes,
+Institute of Management
+B.E. (Computer Science) 2015 Punjabi University, India University College of Engineering Investment Portfolio Skills: C#, MVC, SQL Server, Oracle, JS, HTML Project Description
+Supported Mercer Wealth’s businesses to manage investment portfolio & accrual services for $60M+ accounts
+Automated creation & management of HR investment and retirement dashboard for 10+ clients helping 120K+ employees
+My Responsibilities:
+Responsible for End to End Development - Analysis, Design, Coding, Unit Testing for Mercer Wealth Australia
+Solution delivery for HR based applications specifically in Benefits and Investment domain for Global Clients Achievements:
+Created a new toolkit & playbook on ASP.Net which reformed the entire structure & contributed to all SDLC
+Mentored and supported two new Mercer employees and ensured ramp up on critical projects Enterprise Resource Planning Modules Skills: C#, MVC, JS, JQuery, Angular JS,VB, MySQL Project Description
+Multiple applications developed in ASP.Net which help users to purchase order, communicate HR processes attendance, employee recruitment & exit, track sales target & appraisals, list properties. My Responsibilities:
+Gathering business requirements, providing solutions, design new enterprise processes, employee training
+Contributed actively in different stages of SDLC life cycle Achievements: Procurement: End to End purchase order process. HR Process: Employee Confirmation & exit process
+Created software solutions for Purchase Order which formed the backbone for all >$300 purchases for the company. Total purchase orders > $ XXM in a year following through the process. Automated Planned & Predictive Cost Estimation
+Skills: ASP.Net, C#, Sql Server, JS, SSIS, Oracle, HTML
+Project Description: L3 Communications
+Create dashboards to validate savings forecasts, mitigate risks, & enabled 20% in controlling expenditure with optimizations My Responsibilities:
+Single headedly worked on version control, status accounting, audit & review as configuration controller
+Provided deep analysis on defect cause & proactively deployed preventive techniques to avoid downtime Achievements:
+Awarded with “Infosys Insta Award” and “Excellence Award” – ECSADM for stellar performance.
+Accurately predict estimates with 99.99% accuracy, the cost incurred for each active circuit by Level3 Software Skills & Activities
+Skills
+Microsoft Certified in C#: programming in C# (exam no: 070-483)
+Expert in BI Tools - SSIS, SSRS, Power BI, tableau, R; Development Tools – Visual Studio
+Scripting – JavaScript; jQuery, VBA Third party Tools- Telerik controls Extra-
+Curricular
+Elected House Captain at school. Co-ordinated and collaborated to organize various calendar activities
+Core Committee member of Punjabi University Technical Club – “TEDA”
+Head Hospitality Team: Conceptualized activities and Coordinated with 20+ event managers. Contact me: adafex@r.postjobfree.com /+1-440-***-**** Address: 450 Oak Grove Drive, Apt 307 Santa Clara, California 95054 Mercer Consulting Ltd – Senior Software Developer 6 months
+
+Contact this candidate

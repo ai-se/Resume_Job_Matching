@@ -1,0 +1,92 @@
+
+Professional Services Engineer
+
+**Tracking Code**
+
+1915\-509
+
+**Job Description**
+
+Thousands of companies around the world depend on Rocket to solve their most challenging business problems by helping them run their critical infrastructure, business processes, and data, as well as extending the value of these assets to take advantage of cloud and mobile computing, advanced analytics, and other future innovations\. From the clothes we wear to the cars we drive, Rocket solutions power the back\-end systems that thousands of brands we interact with every day\. At Rocket, software has always been about people \- not just ones and zeroes\. We're people solving problems for other people, and we strive to treat our customers, partners, and fellow Rocketeers with humanity\. Founded in 1990, Rocket Software is headquartered in Waltham, Massachusetts with 31 offices around the world\.
+
+The **Professional Services Engineer** provides a wide range of services that are based on Rocket products, from implementation and training to consulting on industry best practices for enterprise level customers\. _Professional Services Engineers_ are expected to represent Rocket Software in the highest professional manner as a product expert and trusted advisor\. Desired work locations for this role include: Waltham, MA; Atlanta, GA; or Denver, CO\.
+
+**Essential Duties and Responsibilities**
+
++ Provide services to customers \(50%\)
+
+- Contributes to the established techniques used for the project and delivers implementation services that allow for successful deployment of purchased products\.
+- Guides client in the set up and configuration of Rocket products and trains customers in administration and use of the products\.
+- Communicates technical details to technical and non\-technical audiences, establishes credibility as a Rocket product expert with all audience levels\.
+- Mentors and teaches other consultants on product and implementation strategies\.
+- Engages other Rocket resources in addressing customer objections and anticipates challenges based on experience and information available at the time of project initiation\.
+
+* Answers questions quickly and coherently; deals with challenges assertively and persuasively\.
+- Self\-manages assignments, project budgets, and administrative tasks, managing multiple projects simultaneously from start to finish\.
+- Identifies opportunities for additional/longer\-term services revenue and advise customers on the value of additional services\.
+
++ Team Leadership \(40%\)
+
+- Ultimately accountable for Technical solution implementation for project\.
+- Leads a team and communicates project status and risks to all project stakeholders on behalf of the team\.
+- Use technical experience to give customer sound technical advice\.
+- Responsible for knowing the architecture, versions, and requirements\.
+- Responsible for determining appropriate technical resource requirements for project completion\. Works with PM to request resources\.
+- Coordinating with PM on technical communication to customer, any new requirements or changes in scope and impacts to delivering the technical solution\.
+- Determine if change is a product defect or enhancement before communicating to customer\.
+- Responsible for estimating new requirements of Project and gaining Architect or Manager approval\.
+- Conducting or assigning code reviews\.
+
++ Develop and maintain product expertise \(10%\)
+
+- Develops in\-depth conceptual and technical knowledge of the designated Rocket product line including new releases, new products and interfaces\.
+- Demonstrates an understanding of practical application of the products in a variety of customer environments\.
+- Provides input to Lab on new features based on customer feedback\.
+
+**Required Skills**
+
++ Bachelor's Degree, or equivalent experience
++ Experience required
+
+- 10\+ years in related Information Technology position
+
+* previous experience in team lead position
+* previous experience in development, application lifecycle or change management
+- Senior level skills in at least two of the following
+
+* Enterprise application development methodology \(e\.g\. Java, \.NET, Web\)
+* IBM i application development methodology
+* Database technologies \(e\.g\. Oracle, MS SQL, DB2\)
+* i5/OS, Windows and/or Linux OS
+- Proven critical thinking, analytical and troubleshooting skills
+- Excellent interpersonal, relationship management and communication skills\.
+- Excellent time management skills
+- Previous consulting experience
+- Previous travel oriented position held
+
+**Additional Preferred Qualifications**
+
++ Previous experience working for software company
++ Previous experience working for consulting company
+
+**Travel Requirements**
+
++ 25\-50%
+
+\#LI\-GS1
+
+Rocket Software Inc\. is committed to creating a diverse environment and is proud to be an equal opportunity employer\. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status\. Rocket Software Inc\. is also committed to compliance with all fair employment practices regarding citizenship and immigration status\.
+
+Rocket is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities\. If you need special assistance or an accommodation while seeking employment, please call: 781\-577\-4321 or send an email to hr@rocketsoftware\.com\. We will make a determination on your request for reasonable accommodation on a case\-by\-case basis\.
+
+**Job Location**
+
+Waltham, Massachusetts, United States
+
+**Position Type**
+
+Full\-Time/Regular
+
+
+Go to apply 
+

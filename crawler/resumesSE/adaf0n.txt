@@ -1,0 +1,230 @@
+
+SHRAWAN NATH JHA (adaf0n@r.postjobfree.com) Mobile: 858-***-****
+Location: Cupertino, CA, USA
+Summary
+Extensive experience in Wireless QA and Certification, scoping new test and SQA activities for New Features (TLF), Test Coverage planning, filling coverage holes, Test Plan development, Automation and other technical aspects of the test/SQA team.
+Support key customers (Cisco, ATT, Facebook, Google, Apple, Samsung) and Wifi-Aliance Forum for wireless domain QA and system test activities. Extensive experience in driving large cross-functional efforts, fostering partnerships, presenting product related new features, providing trainings and gathering feedbacks to pass to Eng dev team.
+Extensive end to end experience in setting up state of art Wireless Labs with developing Automation framework for multiple Initiatives (e.g Apple iPhone and iPad product line, Broadcom wireless connectivity combo-chip, Amazon Fire Phone and Kindles (with WAN modem), Broadcom LTE UE (21880, 21890, 21892, 21896 series modem chip)) with Network simulator test equipment (Anritsu RTD 8430, Anite, RnS cmw500, Spirent systems), Packet Sniffer (WL, BT and COEX), fader, combiner, programmable attenuators, Power measurement etc.
+Extensive Development, Test & Automation experience in wireless protocol stack (4G LTE / LTE-A, LTE-LAA), connectivity (Wi-Fi, Bluetooth), Co-Existence (two and three ways, LTE-BT-WiFi), WiFi Standards (including 802.11ax and WiFi-6) and BT standards (classic, LE, LEA, DPLE and LE2M).
+Expert in the field of Protocol stack development, Tool development, Log Analysis, maintenance, verification, Carrier Acceptance Test (ATT 10776 document understanding), test automation, third party Certification and IOT at various levels form software Developer to System Manager.
+Sound experience of building, managing and training wireless test teams.
+Sound knowledge of various SDLC processes – Requirements Analysis, Estimations, Resource Planning, Design and Development, reviews and Agile development process.
+
+Skills
+
+Type of Tools / Devices
+Name of Tools / Devices
+Domain Specific
+LTE-BT-WiFi Co-Existence (WCI-2 and IOVAR), Telecom Wireless – LTE Co-Ex, LTE (3GPP LTE – RRC, RLC, PDCP, MAC and L1C Layer), LTE-Advanced, 3GPP, ATT 10776, BT (A2DP, eSCO, LE, LEA, DPLE, LE2M, BT-Diversity), WIFI coex(AWDL, NAN), LTE- LAA (Licensed Assisted Access ) LTE on 5GHz ISM band, WiFi-6, 802.11ax
+Language
+Expert in C, C# and python. Currently also learning core Java, JavaScript, HTML, web development.
+Operating Systems
+Linux Internals, Windows, MACOS, iOS, android, chromeOS, OAL, HAL, BSP, RTOS (WindowsCE 5.00)
+Job Functions
+Requirement Analysis, Design, Coding, Reviews, Release and Integration, System Testing (Functional test, Carrier Acceptance test, regression test, load test, performance test), Test Planning and design, Log analysis and triage, Automation, Test Framework, GIT setup, Peer and external reviews, Documentation and Maintenance and team building.
+
+Tools and Devices
+
+Type of Tools / Devices
+Name of Tools / Devices
+Wireless Equipment and Network Simulators
+Broadcom wireless connectivity combo-chip used in all premium phone
+Amazon Fire Phone and Kindles (with WAN modem),
+Broadcom LTE UE (21880, 21890, 21892, 21896 series modem chip)
+Qualcomm LTE UE (User Equipment) 9200 and 9600 series modems,
+Anritsu LTE Network Simulator (MD 8430A, 8480C,8475),
+Aeroflex Network Simulator (7100 Digital Radio Test Set)
+RnS CMW500 Network Simulator
+Debugging Tools
+Frontline and Elisys sniffers, Wireshark, GDB Linux Debugger(x86_64-redhat-linux-gnu), QXDM (Qualcomm eXtensible Diagnostic Monitor), BMTT (Broadcom Mobile Trace Tool), ADB (Android Debug Bridge), Iperf
+Version Control tools
+GIT, Perforce, CVS
+Development
+understanding C, cscope, Source Insight, GCOV, EFENCE
+
+Education
+Bachelor of Engineering in Electronics, Nagpur University, 2004, India
+
+Achievements
+Scrum Master and implement agile methodology in my system test team
+White Paper Published: “Access Service Network Gateway in WiMAX” in August 2009.
+job training on Embedded System Design at MS Ramaiah School of Advanced Studies, Bangalore, India.
+
+Professional Profile
+
+Company: OctoScope, CA, USA Mar 2019 to Present
+
+Project: Pal (wifi station/AP/sniffer simulator) test and support
+Project location: Sunnyvale, CA, USA
+Role: Lead, Systems Test Engineering (PAL test and support)
+Responsibilities:
+Leading Systems test and QA engineering team for PAL development.
+Support key customers (cisco, ATT, Facebook, Google, Apple) and Wifi-Aliance Forum QA with system test activities
+Practice agile methodology and is a Scrum master
+Work with internal test, developers and customer for scoping test coverage, reports and capability, along with providing test leadership. Defining the testing process and setting the test team up for continued success.
+Enforcing Quality across all test disciplines, providing guidance, feedback, and suggestions to improve quality practices across org level test team.
+Automation of lab equipment (Sniffer, log analyzer, attenuator, network components and simulators), lab equipment and license procurement, vendor selection and lab maintenance.
+Manage offshore India team for reporting, coverage and capability perspective.
+Providing the team members training on test process, Automation and GIT usage.
+
+Environment: n/w simulator, C/C++, WiFi sniffer, BT sniffer, python, JavaScript
+
+Company: Broadcom Company, CA, USA Sep 2016 to March 2019
+
+Project: LTE Coexistence with WiFi and Bluetooth on Apple (iOS) product line
+Project location: Sunnyvale, CA, USA
+Role: Senior Staff Engineer (Test & Automation) -- LTE Coexistence Test Team
+Responsibilities:
+Leading COEX Test Activities including infrastructure, scoping new test activities for Top Line Features (TLF) upcoming product and features, Test Coverage planning, filling coverage holes and Test Plan development and other technical aspects of test team.
+Work with internal test, developers and customer for scoping test coverage, reports and capability, along with providing test leadership. Defining the testing process and setting the test team up for continued success.
+Enforcing Quality across all test disciplines, providing guidance, feedback, and suggestions to improve quality practices across test team.
+Automation of lab equipment (Sniffer, log analyzer, attenuator, network components and simulators), lab equipment and license procurement, vendor selection and lab maintenance.
+Test execution and reporting for different Apple device type (iPhone, iPad, AppleTV, Watch) programs for combo chip 4350, 4355C0/C5, 4357, 4377 series.
+Debugging and analyzing the test cases as well as raising issues related with bugs found during test and rerunning them on newer builds to verify the fixes.
+Providing the team members training on test process, Automation and GIT usage.
+
+Environment: R&S n/w simulator, C/C++, Apple tool chain, Broadcom Tool chain, WiFi sniffer, BT sniffer, IOVAR, xCode, python
+
+Company: Google Inc., CA, USA May 2015 to Sep 2016
+
+Project: Google Chrome OS platform Test and Automation
+Project location: Google, Googleplex, Mountain View, CA, USA
+Role: Lead SQA in OS platform Test
+Responsibilities:
+Automation of lab equipment and handheld cellular devices (Chrome devices)
+Creating Test Plan document with estimation for different phases and test coverage.
+Automation of various test setups with developed test cases
+Test Execution, monitoring and maintenance
+Debugging, Analyzing and Post Processing Test logs with different tools
+Raising issues related with bugs found during test runs and verify the fixes.
+Validation of chromebox I/Os (USB, HDMI, DisplayPort etc), crash, recovery and feedback mechanism, input device validation (capacitive touch, keyboard, mice etc). Also test related with Build Qualifications.
+Support Build Qualification activities for Multi-stage chromeOS release process.
+Peer and external reviewing the test plans, automation plan.
+Test team mentoring and technical guidance
+
+Environment: Google proprietary tools chains, chrome OS internals, android tool chain, and C++/C #/Python
+
+Company: Lab126 (Amazon.com, Inc.), CA, USA Dec 2013 to May 2015
+
+Project: Wireless Device Development – FIRE phone
+Project location: Cupertino, CA, USA
+Role: Software Development Engineer in Wireless test
+Responsibilities:
+Automation of lab equipment (Anritsu RTD 8430, Anite, RnS cmw500, Spirent systems) and handheld cellular devices (kindle product line and Amazon fire phone)
+Debugging, Analyzing and Post processing logs with different third party tools (QXDM, vendor tools, wireshark, adb tools and in house developed tools).
+Creating Test Plan document with estimation for different phases and test coverage.
+Automation of various test setups with developed test cases.
+Test Execution and monitoring: ATT Verification Lab test based on 10776 documents and other vendor provided test suits.
+Monitoring: Sanity test, Carrier Stability test and Power Measurement Activities.
+Supporting IOT and third party certification activities.
+Raising issues related with bugs found during test runs and verify the fixes.
+
+Environment: Anritsu MD8430, 8475, 8480 etc., Anite, R&S, Agilent n/w simulator, C/C#/python, visual basic, Source Insight, Qualcomm tool set, Clear Quest tool, Jira, ADB (Android Debug Bridge).
+
+Company: Broadcom Company, CA, USA Oct 2012 to Dec 2013
+
+Project: LTE New Feature System Test Development
+Project location: Sunnyvale, CA, USA
+Role: Staff Engineer, LTE New Feature System Test Team
+Responsibilities:
+Automation of lab equipment (Anritsu RTD 8430, Anite, RnS cmw500, Spirent systems) and reference handheld cellular devices (modem from Broadcom)
+Analyzing LTE New Feature Test requirements and device specific requirements (features including Connected and Idle Mode Mobility).
+Analyzing the 3GPP spec which covers the particular features for test requirements.
+Creating Test Plan document and prototype based on test requirements.
+Peer and external reviewing the test plans.
+New Test Implementation for new features of Broadcom LTE DUT devices.
+Analyzing and Post processing logs with different comparing graphs, BMTT tools.
+Debugging and analyzing the test cases by analyzing the LTE logs at the network components using PCAP and wireshark tool.
+Raising issues related with bugs found during test and rerunning them on newer builds to verify the fixes.
+Convening meetings to collect status for LTE new feature test plan development, implementation and execution.
+Automation of various test setups with developed test cases.
+Support IOT and CAT activity
+Environment: RTD MD8430 firmware version 4.5.0 to 4.12.0, R&S n/w simulator, C/C++, Source Insight, BMTT, ADB (Android Debug Bridge).
+
+Company: Anritsu Company, Texas, USA Oct 2011 to Oct 2012
+
+Project: AT&T LTE Feature and Carrier Acceptance Test Development
+Project location: Richardson, TX, USA
+Role: Software Engineer in AT&T- LTE Product Engineering
+Responsibilities:
+Analyzing LTE Test requirements and device specific requirements.
+Analyzing the 3GPP spec which covers the particular features for test requirements.
+Creating test design document and prototype based on test requirements.
+New Test Implementation, module integration with various LTE DUT devices.
+Analyzing both side (UE and N/W) logs and verifying the Test cases.
+Debugging and analyzing the test cases by analyzing the LTE logs at the network components, UE and modem.
+Creating Automation enabled test suits.
+
+Environment: RTD MD8430 firmware version 4.5.0 to 4.10.0, C/C++, Source Insight, QXDM, JIRA bug tracking tool.
+
+Company: Tata Consultancy Limited, Bangalore, India Jun 2008 to June 2011
+
+Project: Qualcomm LTE UE Modem (call Processing)
+Project Duration: April 2010 to Jun 2011 Project location: Qualcomm, San Diego, CA, USA
+Role: Senior Software Engineer in LTE System Integration Team
+Responsibilities
+Developed LTE data performance and throughput test cases using Qualcomm’s Proprietary Tools and Anritsu MD8430 network simulator.
+Analyzing and Debugging the L2/ L3 LTE Protocol process (Call Processing).
+Test result log post analysis and also verifying the fixed changes.
+Worked for Feature testing and conformance testing using Anritsu Network Simulator.
+Automated data performance and throughput test cases for overnight run.
+
+Environment: C/C++, Anritsu MD8430 Network Simulator, QXDM, QCAT, QPST tools, ATM, Perforce
+
+Project: LTE (eNodeB Stack Development)
+Project Duration: Dec 2008 to April, 2010 Project location: Bangalore, India
+Role: Module owner (RRC) in LTE eNB development
+Responsibilities
+Gathering requirement from the RRC specification.
+Designing State Machine and made for HLD and LLD.
+Creating Framework for different module.
+Implementation (coding), module integration and developing the test plan.
+Integrated the RRC Module in the eNB Protocol Stack.
+Developed OSAL layer to abstract the underlying OS
+Multi-thread environment debugging effort.
+Involved in unit testing, module and system testing.
+Reporting and resolving the issue with issue tracker
+Review at different levels of deliverables.
+Managed team of six engineers and provided technical trainings.
+
+Environment: Linux (Fedora core-6), C/C++, gdb, gcov, Electric Fence
+
+Project: WiMAX (R6 interface between ASN-GW and BS)
+Project Duration: June 2008 to Nov 2008 Project location: Bangalore, India
+Role: Module owner
+Responsibilities
+Understanding the requirements of Service flow management.
+Designing (with state diagrams, HLD and LLD) of the Service flow management Module.
+Implementation (coding) of the Service flow management.
+Developed OSAL layer to abstract the underlying OS
+Unit, module and system level Testing & debugging.
+
+Environment: Linux (Fedora core-6), C/C++, gdb, gcov, Electric Fence
+
+Company: Tata Elxsi Limited, Bangalore, India Feb 2005 to Dec 2007
+
+Project: WiMAX (BS-MAC mobility features implementation)
+Project Duration: Sept 2006 to Dec 2007 Project location: Bangalore, India
+Role: Module owner for Power Saving Module
+Responsibilities:
+Understanding the requirements of Power Saving Mode from the client.
+Designing (with state diagrams, HLD and LLD) of the Power saving Module.
+Implementation (coding) of the Power Saving module in Base Station MAC
+Unit and peer level Testing & debugging.
+Multi-thread environment debugging effort.
+Reporting the issue with issue tracker
+Resolving any issues or developing new implications of newly released spec.
+Environment: Linux (Fedora core-4), C/C++, gdb, gcov, Electric Fence
+
+Project: Wi-Fi Phone with Bluetooth connectivity
+Project Duration: Feb 2005 to Aug 2006 Project location: Bangalore, India
+Role: System engineer in System Integration Team
+Responsibilities:
+Understanding the requirements of Bluetooth Module.
+Worked on OAL, HAL, and BSP to enable the Bluetooth Module.
+Porting the build on the embedded board
+Integrating the Bluetooth Module with the Wi-Fi phone.
+Testing & debugging for the voice and data transfer on the Bluetooth stack from Wi-Fi phone.
+Environment: Wince 5.0, C/C++, Windows CE Platform Builder
+
+Contact this candidate

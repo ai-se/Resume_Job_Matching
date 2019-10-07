@@ -1,0 +1,9 @@
+
+Duration:0-12 month(s)
+
+Description/Comment:This position is for an experienced systems engineer eager to play an integral role on the Systems Engineering team for the Walt Disney Company. Primary responsibilities include designing, building, and supporting web application systems for a large scale enterprise production environment that hosts a variety of online properties for The Walt Disney Company. The Senior Systems Engineer is expected to have expert level systems administration skills on both the Linux and Windows server platforms, and must have extensive experience with Apache, IIS, and Tomcat. This position will focus on systems and application stability, security, performance, and capacity management, as well as documentation. The role requires participating in an on-call support rotation. This position works closely with various business Engineering and Production teams to gather requirements, troubleshoot issues, and provide stellar customer support. The role requires someone who is creative, proactive, constructive, and highly motivated. The Senior SE must be prepared to work in an extremely collaborative and high-energy environment.
+" Understand how to install and configure operating systems, specifically with expertise in Linux " Proficient in web or server technologies: Tomcat, IIS, Apache (Client), WAS, WCS, MySQL, Oracle, MSSQL, etc., including being able to perform basic setup, configuration, and troubleshooting " Experienced with at least one web server and application server technology, including setup, configuration, performance monitoring, tuning, clustering, and debugging (e.g. JConsole)
+
+
+Go to apply 
+

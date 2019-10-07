@@ -1,0 +1,73 @@
+
+The Business Operations Test Engineer I is an integral part of the Business Operations team, building, maintaining, and improving the quality of integrations between core systems at tools at Jamf. The Business Operations Test Engineer works closely with the engineers and systems administrators to ensure all changes adhere to our standard of quality and scalability.
+
+Jamf maintains multiple systems and tools to support each business unit, with teams focusing on integrating those systems. We're increasing engineering effort, moving toward a continuous delivery pipeline, and increasing the number of integrations. The success of those efforts depends on a culture of high quality, driven by the Test Engineers on the team.
+
+Responsibilities:
+
+* Maintain a working knowledge of core business systems at Jamf including Salesforce and the packages within
+
+* Maintain an understanding of the Jamf product line and the market fit of each product
+
+* Maintain an understanding of the business processes, especially those within Sales, Customer Experience, and Finance
+
+* Assist in the development of an automated test environment
+
+* Create, execute, and record results of manual test cases
+
+* Develop test plans for changes made to the systems
+
+* Assist in the development of an automated test environment
+
+* Assist in the creation and maintenance of stage environments for testing deployments
+
+* Assist in building documentation and reference materials on the relationship of the systems and objects used
+
+* Participate and contribute to team meetings
+
+* Support the overall direction and growth of the Business Operations team
+
+* Performs all job responsibilities in alignment with the core values, mission and purpose of the organization
+
+* Adheres to the highest moral, ethical and legal standards to deliver an environment that promotes respect, innovation and creativity
+
+* Supports and promotes a positive, inclusive workplace one in which the talents and strengths of our increasingly diverse workforce are welcomed, further developed and manifested in our work
+
+* 2 years experience in Test Engineering or similar role
+
+* Experience designing, building, and executing on effective testing strategies
+
+* Working knowledge of the Salesforce platform (Preferred)
+
+* Experience in database languages, specifically SQL (Preferred)
+
+* Experience in Apex and Visualforce (Preferred)
+
+* Strong Communication Skills
+
+* Proven Analytical Skills
+
+* Ability to interact effectively with co-workers in a results driven culture
+
+* Highly detail oriented, with a tendency toward action
+
+* Proactive problem solving, anticipating and solving problems
+
+* Good Listening Skills
+
+* Ability to engage with and establish trust and rapport with all levels of customers and employees
+
+* Solution focused ability working collaboratively in a fast paced environment
+
+Location: Eau Claire, WI or Minneapolis, MN
+
+Travel: 5%
+
+Education: Bachelor of Science (preferred); a combination of relevant experience and education may be considered
+
+Manager: Director, Business Operations
+SDL2017
+
+
+Go to apply 
+

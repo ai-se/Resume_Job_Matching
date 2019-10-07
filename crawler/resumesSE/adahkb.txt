@@ -1,0 +1,175 @@
+
+Abhimanyu Subhadran
+About Me
+* ***** * ****** **********
+September 17, 1993
+marthandam, Tamil Nadu
++91.948-***-****
+adahkb@r.postjobfree.com
+Mechanical Design Engineer
+I am Experienced in prototyping, simulating, and testing power machinery . Education
+Bachelor of Engineering / Bachelor of Technology, Mechanical And Automation Engineering Mahendra Engineering College
+Anna university
+salem, Tamil Nadu
+Graduated, June 2016
+6.22 [CGPA]
+High School, computer science
+christuraja matriculation and Higher Secondary
+School
+state board
+Marthandam, Tamil Nadu
+Graduated, May 2012
+65%
+Work Experience
+January 2017 - Current
+Mechanical Design Engineer
+Verifygn Consulting Pvt Ltd
+Thiruvananthapuram, Kerala
+● Developed CAD drawings to support prototype designs.
+● Research, design, evaluate, install, operate, and maintain mechanical products, equipment, systems and processes to meet requirements, applying knowledge of engineering principles.
+● Assigned to The Tasks of Selection of Bearings, Pneumatic Components, Electrical Components, Sensors, PLCs, LM Guide Ways, Gears, Motors, Hydraulic Components, Etc
+● Geometric Dimensioning and Tolerance (GD&T),Tolerance Stack up Analysis
+● CFD analysis using Ansys.
+● Works with project team to provides overall FEA analysis for an entire product using Ansys and hyper works.
+● image processing.
+Internship
+August 2015 - August 2015
+trainee
+Goodwin motors
+Chennai, Tamil Nadu
+● Two-stroke engine and Four-stroke engine assembly,
+● Troubleshooting the Refrigerant System,
+● Troubleshooting an Air Conditioning system
+Skills
+● solidworks,Unigraphics NX
+● hyperwork,ansys
+● C/C++,python,plc programing
+● Proteus,OrCAD
+● MATLAB
+Languages
+● English
+● Hindi
+● Malayalam
+● Tamil
+● german
+Career Highlights
+worked in latest technology and software
+Interests
+● Machine design
+● Automation
+● Embedded system
+Extra Curricular Activities
+Teaching CAD and CAE
+Projects
+Project 1
+Period:
+Pilot plant automation using ABB plc & NI LabVIEW
+March 2016 - April 2016
+Project Summary
+The objective of the project is to maintain the temperature and volume of the open tank at the desired set point. This is achieved using feedback strategy. In the project we used ABB AC500 PM581 series PLC as controller and SCADA using LabVIEW
+Project 2
+Period:
+CFD
+January 2017 - February 2017
+Project Summary
+Enhancing the aerodynamic eﬃciency of Missile with altered grid ﬁns in subsonic ﬂow conditions using ANSYS Workbench
+Project 3
+Period:
+Rubber cutting machine
+March 2017 - May 2017
+Project Summary
+its a cutting machine for a automobile component which is made with rubber material. Project 4
+Period:
+IMAGE PROCESSING
+May 2017 - July 2017
+Project Summary
+mesh number calculation for ﬁlter, Timing gear cover sealant inspection Project 5
+Period:
+soap conveyor
+August 2017 - September 2017
+Project Summary
+its a conveyor to split single path by two
+Project 6
+Period:
+Profilometer
+October 2017 - November 2017
+Project Summary
+Proﬁlometer is a kind of scanning machine with laser Project 7
+Period:
+Railway Device
+December 2017 - Current
+Project Summary
+for measure distance of electric cable from rail
+Project 8
+Period:
+automatic car wash machine
+January 2018 - February 2018
+Project Summary
+designed car washing machine
+Project 9
+Period:
+x-ray machine
+March 2018 - June 2018
+Project Summary
+designed x-ray machine and did linear static analysis for patient stretcher trolley. Project 10
+Period:
+Egg cracker
+June 2018 - July 2018
+Project Summary
+it’s a small product to separate egg from its shell in safe mode. we did nonlinear analysis in handle of egg cracker.
+Project 11
+Period:
+Clutch testing Fixture
+August 2018 - October 2018
+Project Summary
+its a testing fixture to test small clutch .,Vibration analysis is done with the gear of clutch to its mode for different frequency
+Project 12
+Period:
+Cartridge Sealing Machine
+September 2018 - November 2018
+Project Summary
+its a machine to seal the cartridge which is a blood testing setup.it has a heating process in one part here we did Thermal analysis to find temperature gradient. Project 13
+Period:
+Two Wheeler Wheel Oﬀset Measuring Machine
+December 2018 - March 2019
+Project Summary
+It is made to find offset of two wheeler's wheel and to find the angle of its handle Project 14
+Period:
+Double axis robot
+April 2019 - May 2019
+Project Summary
+its a two axis robot runs with Pneumatic cylinder
+Project 15
+Period:
+Manhole Cleaning Machine
+June 2019 - July 2019
+Project Summary
+it’s a hand controlled man hole cleaning setup
+Project 16
+Period:
+2d bot
+July 2019 - present
+Project Summary
+It is used for supervision of flux pasting in engine case Personal
+Father’s Name:
+Birthday:
+Gender:
+Mr. Subhadran
+September 17, 1993
+Male
+Marital Status:
+Nationality:
+Passport No.
+Single
+India
+P1794179, Expires 08/01/26
+Address: kaliakkavilai
+Kanyakumari
+marthandam - 629153
+Tamil Nadu
+Declaration
+I, Abhimanyu Subhadran, hereby declare that the information contained herein is true and correct to the best of my knowledge and belief.
+Abhimanyu Subhadran
+marthandam, Tamil Nadu
+
+Contact this candidate

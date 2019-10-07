@@ -1,0 +1,54 @@
+
+cFocus Software seeks a Cloud Engineer in Silver Spring, MD for a 3 year contract (from 2019-2021) with NOAA.
+
+Required Qualifications Include:
+Bachelor's degree or equivalent
+Professional-level Cloud Certification (i.e. MCSD: Cloud Platform, Azure Developer Certification, or Azure Solutions Architect Expert)
+Windows and/or Linux Administration Experience
+10+ years of IT experience with 5+ years implementing cloud services
+Ability to identify and troubleshoot issues with little oversight.
+Desired Qualifications Include:
+FedRAMP Experience
+NOAA Experience
+Completed NOAA Background Investigation
+Responsibilities Include:
+Plans, designs, development, tests, edits, maintains, and documents web programs and applications.
+Ensures a seamless integration between on-premises infrastructure operations and optimal, efficient, and secure consolidated operations for cloud services.
+Develops and implements a role-based access control strategy integrated with on-premises Active Directory services. Manages Cloud providers’ applications, infrastructure, and systems.
+Develops, implements, and enforces standard procedures to provision and manage Cloud-based network, storage and infrastructure constructs; standard procedures to provision and manage virtual assets, services, and databases.
+Ensures resilience, sizing and capacity requirements are met; monitors SLAs and burn rates.
+Work with NOS enterprise-wide IT and security staff to ensure a seamless integration between on-premises infrastructure operations and optimal, efficient, and secure consolidated operations for cloud services.
+The level of work in this Activity will vary, depending on the services provided.
+Successful completion of this Activity will require coordination with Contractor Onsite Management Services and collaboration NOS-wide for mission needs and objectives.
+Shall serve as the consolidated center of NOS provisioning and operations for cloud services, working closely with Contractor Cloud Program Management and NOS offices to ensure mission needs and objectives are addressed and met.
+Advise Contractor labor resources and NOS staff on the technological aspects of meeting NOS requirements in the cloud. Maintain collaboration with NOS Cloud Change Control Board (NOS Cloud CCB) and NOS Cloud ConOps Group and implement processes and checklists.
+Assist NOS Offices with migration to the enterprise ADFS environment.
+Lead the design of the comprehensive set of enterprise management processes, administration processes, tools, integrations, procedures, and best practices to ensure cloud systems are securely and efficiently managed. Coordinate with NOS IT staff and NOS IT governance boards and working groups to develop standard secure baselines for provisioned cloud resources and applications.
+Develop, configure, and administer automation strategies to simplify configuration management, deliver reliable/efficient services, and minimize/eliminate inconsistencies.
+Understand and be able to assist with and apply Cloud provider management practices and standards.
+Work with Contractor Cloud Program Management staff and NOS organizations to implement the determined FISMA strategy and controls.
+As needed, assist with development of security documents, control inheritance documentation, risk analyses, and full or partial security packages.
+Maintain ongoing communication of business processes across boundaries as Cloud services proliferate.
+Maintain a working knowledge of new cloud offerings as they are developed and offered by various vendors (such as HPC, AI, Machine Learning, Cognitive Services ).
+Additional activities as required, especially as new technology and opportunities are developed, to ensure secure and robust cloud operations for NOS.
+Understand the role and requirements of FedRAMP as well as associated Federal, Commerce, and NOAA policies related to FedRAMP certification.
+Maintain current knowledge of FedRAMP status of existing and new cloud services and service providers.
+Develop and implement a role-based access control strategy integrated with on-premises Active Directory services.
+Manage Cloud providers’ applications, infrastructure, and systems. Closely align with IT operations within the organization.
+Develop, implement, and enforce standard procedures to provision and manage Cloud-based network and infrastructure constructs such as site-to-site and point-to-site VPN tunnels, Virtual Networks, ExpressRoutes, Network Security Groups, Firewalls, Resource Groups, Blob, Table, and File Storage options, Load-balancing infrastructure, and Active Directory Federated Services.
+Develop, implement, and enforce standard procedures to provision and manage (or assist with) Virtual Machines (Windows, Linux), Web Services and Applications (IIS, Apache; .Net, other), Databases (SQL, MySQL, Oracle), etc.
+Ensure the requirements defined by the Contractor Cloud Program Management labor resources and the customer are met; e.g., resilience requirements (“five-nines”), sizing and capacity, and any technical agreement provisions under NOS control.
+Implement and administer the technologies and processes needed for monitoring and technical management, provisioning, rules-based access, quotas, billing, reporting, and other administrative processes in the NOS cloud environment(s).
+Monitor the IMO and/or NOS cloud environment to ensure all security controls and best practices that are the responsibility of NOAA are being performed. This includes evaluating ongoing use of technology refresh, patching, scanning, and other monitoring. Where they have been embraced as Enterprise services, configure and manage cloud-services monitoring and alerting systems, perform security scans, and support enterprise audit log forwarding. Where they are not Enterprise services, alert the responsible party of any lapses and recommend mitigation methods to prevent future lapses. Recommend (other) services for Enterprise management.
+At cFocus Software, we take good care of our employees! We offer a generous benefits package including:
+3 weeks of paid leave
+401(k) with 4% employer match
+Medical/Dental/Vision insurance coverage
+Life/Long Term/Short Term Disability Insurance
+Annual training
+Spot bonuses, generous Xmas party gifts
+iUsUevW2XI
+
+
+Go to apply 
+

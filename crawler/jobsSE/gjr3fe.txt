@@ -1,0 +1,77 @@
+
+Ultimate Software is seeking a Part Time Cloud Engineer to work in our Network Operations Center (NOC) department. Ultimate Software's NOC provides world-class monitoring and front line problem analysis and remediation for infrastructure and application platforms, leveraging industry-standard system and application monitoring tools and utilities. Primary responsibilities of this role include troubleshooting environmental issues, analyzing infrastructure and application alerts, executing tasks via scripting, performing post change quality assurance testing, and providing immediate response for incidents in a 24/7/365 atmosphere. Platforms include Microsoft Windows operating systems, Linux, Microsoft SQL Server, IIS, VMWare, Openstack, SolidFire, NetApp, Juniper, F5, Dell, and Java-based systems. This position is demanding and plays an integral role in the success of our organization.
+
+Here at Ultimate Software, we truly put our people first. We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential. Ultimate is ranked #1 on Fortune's Best Places to Work in Technology for 2019 and #8 on the 100 Best Companies to Work For list in 2019. Ultimate is also ranked #1 on Fortune's 75 Best Workplaces for Women and #5 on its Best Workplaces for Diversity list.
+
+Required Qualifications
+
+* Ideal candidate will possess experience working in an enterprise environment of a least 100 servers, with 3+ years in a technical support position.
+
+* Minimum of 3 years' experience working with Windows 2008 Server or higher as well as Active Directory.
+
+* Experience working with Microsoft Internet Information Server a plus.
+
+* 2+ years' working with Microsoft SQL Server 2005 or higher preferred
+
+* 2+ years' experience working with VMWare or another virtualization platform.
+
+* Experienced in supporting browser-based applications.
+
+* 2+ years' experience working with enterprise network monitoring tools (Solarwinds Orion, Microsoft SCCM/SCOM, Nagios).
+
+* 2+ years' working with scripting languages (VB Script, Powershell, Python).
+
+* Ability to multitask and adapt quickly to emerging technologies.
+
+* 2+ years' experience working with Linux operating systems; ex, Ubuntu.
+
+* Process and Procedure driven.
+
+* Must have excellent skills in problem analysis and troubleshooting complex technical issues.
+
+* Ability to work flexible hours including weekends.
+
+* Proactive monitoring of production and development systems with a sense of urgency when issues arise; environment consists of several thousand production systems and nodes.
+
+* Issue-driven communication to ensure active engagement by escalation staff and timely and effective updates to management.
+
+* Build reports and perform trend analysis of system and application events.
+
+* Provide customer support and escalation for our client base.
+
+* Perform post-change product functionality testing.
+
+* Troubleshoot application and infrastructure related incidents.
+
+* Regularly interface with Tier 2 and Tier 3 support personnel.
+
+* Execute planned changes.
+
+* Execute automated tasks via scripting; including remediation and testing.
+
+* Problem analysis and remediation.
+
+* Position requires after hours work and weekends (flexible schedule).
+
+* Works under minimal supervision.
+
+Preferred Qualifications:
+
+* Experience working with SQL Management Studio is a plus.
+
+* Experience troubleshooting issues with and supporting Juniper network devices as well as working with SAN-based technologies is a plus.
+
+* Experience working with enterprise Network Load-Balancers, e.g., F5 and Cisco is a plus.
+
+* Bachelor's degree in Engineering, Computer Science, MIS, or related Technology Degree preferred.
+
+* Preferred Microsoft certifications: MCP, MCSE, or MCDBA.
+
+This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
+
+Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company's online employment application, please contact .
+SDL2017
+
+
+Go to apply 
+

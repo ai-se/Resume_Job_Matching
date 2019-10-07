@@ -1,0 +1,42 @@
+
+Overview
+JDA is looking for a Technical Analyst/Engineer to join our Customer Success group in our Dallas, TX office, to support JDA’s cutting edge SaaS based product Luminate Control Tower. The candidate will have opportunity to work with top talents in the industry, supporting and troubleshooting a multi-tenant software suite running in Microsoft Azure system, with ML & AI technology.
+Responsibilities
+Strong domain knowledge in JDA Supply Chain solutions to understand how the JDA solutions can be configured and delivered to better facilitate customer business processes.
+Takes ownership of JDA’s Luminate Control Tower solution and understand how the JDA solutions solve the customer’s business problem and generate maximum value for customers.
+Supports the development and execution of SaaS based product LCT, and related technologies (Mulesoft, SQL, GIT, Kafka, Kubernetes, Ignite, 4Kites and etc) on Azure platform to ensure JDA software consistently meets the customer's business objectives.
+Use customer service, communication and problem-solving skills to solve inquiries from JDA customers.
+Ability to log and respond to customer support requests via phone, e-mail, and web interface.
+Exhibit a commitment to customer service while building customer partnerships.
+Successfully understand and triage customer issues, conducting any necessary technical research (code review, database queries, traces, debug, etc) or team collaboration.
+Provide updates and case status to customers and management.
+Ensures knowledge transfer is conducted with key customer project team.
+Act as product technical liaison between support and development teams.
+Follow operational guidelines for interacting with other associates.
+Ability to work flexible hours, alternate shifts and the ability to carry a pager or cell phone as required by support team.
+Qualifications
+Bachelor's degree (or equivalent) in Computer Science or Engineering or other relevant discipline
+3+ years of experience in Supply Chain with a high level of demonstrated performance
+In-depth knowledge of Supply Chain software solutions and technical architectures
+Knowledge of business processes in Supply Chain industry
+SaaS/Cloud/Azure experience a plus
+Expert in Java and familiar with client and server architecture
+Familiar with SQL query development, database architecture, and query tuning techniques (SQLServer / Oracle)
+Familiar with scripting language, Python for example
+Experience in Mulesoft integration
+Power BI report experience is a plus
+Ability to develop and maintain strong, productive relationships with customers, partners and consultants
+Highly developed analytical and problem solving skills
+Ability to effectively and proactively work independently
+Experienced in defining problems, collecting data, establishing facts, and drawing valid conclusions
+Teamwork mentality
+Creativity and out of the box thinking approach while simultaneously adhering to scope and schedule
+*LI-LN1
+Our Values
+
+If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
+Check out JDA's blog - Supply Chain Nation - the platform for supply chain trends and innovations.
+
+
+Go to apply 
+

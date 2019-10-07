@@ -1,0 +1,89 @@
+
+Senior Principal Software Engineer
+
+Reston
+
+US
+
+ABOUT THE JOB
+
+Software AG is seeking a Senior Principal Software Engineer to help take our industry-leading webMethods Integration Server to the next level. Join our team of experts to build out our cloud-enabled hybrid integration platform with standards-based and leading-edge capabilities. Work with your team and teams across the webMethods suite to architect, design and deliver easy-to-use solutions to complex problems. If you thrive in a challenging, innovative, leading-edge environment, this is the place for you.
+
+Tasks and Responsibilities:
+
+From day one you'll join one of our scrum teams and begin using lean methodologies to steadily deliver customer value. You'll engage in the full agile lifecycle, from feature definition, to architecture and design, to implementation and delivery of quality well-documented features. You and your team will be challenged to continuously improve our methodologies and accelerate the value stream.
+
+Academic Degree: BS or MS in Computer Science, or equivalent
+
+Professional Experience in year(s): 8
+
+Special Knowledge:
+
+As a leader, you may take a rotation as Scrum Master or as liaison between Scrum teams for cross-product features. As a team member, you'll assist our sales engineers and consultants with customer engagements, as well as back up our sustaining engineers to maintain a high level of customer satisfaction. As a full-fledged contributor in a team-directed, relaxed and flexible environment, you'll have plenty of opportunity to make a difference, both in your team and across the organization.
+
+IT Skills:
+
+The ideal candidate will have the following skills:
+
+* Track record of building high performance, scalable, reliable, supportable, usable and secure solutions
+
+* Strong troubleshooting skills and willingness to put the customer first
+
+* Solid verbal and written communication skills
+
+* Thoroughgoing attention to detail and commitment to quality
+
+* Readiness to take on new challenges as the business relentlessly pursues the highest value opportunities for industry leadership and success
+
+Languages:
+
+* Expert-level server-side Java, multi-threaded usage a must
+
+* Client-side JS, other scripting languages (e.g. Python, Groovy)
+
+* Dominant Standards: e.g. XML, HTML, HTTP, JMS, REST/JSON
+
+* Familiarity with Build Tools and CI/CD: Ant, Maven, Jenkins
+
+Additional Requirements/ Soft Skills:
+
+* Experience in product development strongly preferred. Must be a strong designer, able to efficiently reuse and extend existing code or open source or third-party libraries. Experience with databases, security, web applications desirable. Experience with browser-based clients helpful.
+
+* Leadership abilities and good judgment based on experience, analytic skills and business domain knowledge; decisive yet pragmatic. Collaborative working style, familiarity with Agile development methodologies.
+
+WHAT YOU CAN EXPECT
+
+* The employees are smart, friendly and welcoming
+
+* Free underground parking – never get wet or shovel snow
+
+* Health Insurance starts your first day on the job
+
+* Three weeks paid vacation & three weeks paid sick leave
+
+* 10 paid holidays (including a floating holiday and a community service day)
+
+* 401(k) Plan with up to 5% employer match
+
+* Business Casual office
+
+* Kitchen on every floor with cable TV – also, subsidized snacks & cold drinks
+
+Software AG is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration without regard to race, age, religion, color, marital status, national origin, gender, gender identity or expression, sexual orientation, disability, or veteran status.
+
+Click on the link to view the full EEO statement
+
+WHAT YOU GET
+
+WHAT WE DO
+
+WHO WE ARE
+
+Nearest Major Market: Washington DC
+
+Job Segment: Developer, Software Engineer, Engineer, Product Development, Java, Technology, Engineering, Research
+SDL2017
+
+
+Go to apply 
+

@@ -1,0 +1,71 @@
+
+Position: Software Engineer
+
+Location: Paris, France
+
+What do Marin Software Developers do?
+
+In the position of Software Engineer, you will be an integral part in the development of our award winning advertising optimization platform. You will work on our Social+Search Advertising SaaS mode platform, improving the performance, speed, and scalability.The work involves management of large statistical data using exciting new technologies including PHP, Angular, NodeJS, ELK, Presto, MySQL, Kafka, Scala, and/or Java...
+
+You will join the Paris technical team of 10 people under the responsibility of the Technical Director in an innovative and responsive environment matching our start-up spirit.
+
+What skills do I need?
+
+* At least 2 years of experience as a Software Engineer.
+
+* Technical background in Algorithms and Software Architecture.
+
+* Good control of Web development Framework (for example, PHP Symfony), REST APIs, Automated Testing, and Versioning.
+
+* Experience in the following technologies would put you to the front of the queue: Javascript (AngularJS, Node.js, jQuery), NoSQL, System (Ansible/Docker).
+
+* Other pluses:
+
+* Prior work in Agile environment
+
+* Experience with any advertising API such as Facebook
+
+* Experience with Java or Scala
+
+* You are technically inquisitive, you know the latest trends in the tech world and want to share the information around. We are looking for talented coders who are collaborative and passionate!
+
+What will I do?
+
+You will be sharing the following responsibilities with the rest of the engineering team:
+
+* Write technical design based on functional specifications
+
+* Implement reliable and maintainable software solutions
+
+* Write Unit tests and end-to-end tests
+
+* Troubleshoot and fix bugs
+
+* Write documentation for new features
+
+* You will interact in English with the Product team, Customer Success team and other Engineering teams
+
+Who are Marin Software and what do they do?
+
+Marin Software Incorporated's (NYSE: MRIN) mission is to give advertisers the power to drive higher efficiency, effectiveness, and transparency in their paid marketing programs that run on the world's largest publishers. Marin provides industry leading enterprise marketing software for advertisers and agencies to measure, manage, and optimize more than $4 billion in annualized ad spend across the web and mobile devices. Offering an integrated SaaS ad management platform for search, social, and display advertising, Marin helps digital marketers improve financial performance, save time, and make better decisions. Advertisers use Marin to create, target, and convert precise audiences based on recent buying signals from users' search, social, and display interactions. Headquartered in San Francisco, with offices in five countries, Marin's technology powers marketing campaigns around the globe. For more information about Marin Software, please visit marinsoftware.com.
+
+Benefits
+
+* Holidays and RTT days
+
+* Healthcare (100%employer) and Optional additional cover (employee)
+
+* Pension (per CBA)
+
+* Life and Disability cover (per CBA)
+
+* Lunch voucher
+
+* Kitchen
+
+* Central Paris location
+SDL2017
+
+
+Go to apply 
+

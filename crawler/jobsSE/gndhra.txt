@@ -1,0 +1,30 @@
+
+Responsibilities:
+The ideal candidate must be self-motivated with a proven record of accomplishment in relevant vendor software sales or encompass knowledge of similar technologies. You must be comfortable in a dynamic atmosphere of a technical organization with a rapidly expanding customer base. You must possess strong presentation skills. You must be organized and analytical, able to eliminate sales obstacles through creative and adaptive approaches.
+The essential duties of the Solutions Engineer shall be in offering CyberArk s product solutions to customers and prospects, including:
+Technical pre-sales support
+Proactively seek out new sales opportunities by developing new and existing technical relationships within prospective accounts and current active customers
+Present CyberArk s technical value proposition to customers and partners effectively
+Able to respond to functional and technical elements of RFIs/RFPs
+Conduct and Ensure success of customer proof-of-concepts (POCs)
+Documentation of client feature requests and issues in CRM system
+Support CyberArk and partner seminars and industry trade shows
+Able to convey customer requirements to Product Management teams
+Develop technical knowledge of CyberArk and associated technologies
+Assume the role of a mentor to other system engineers when appropriate
+Create training content for the SE organization when appropriate
+Requirements:
+MIS/Computer Science Degree or equivalent experience required
+Strong experience with Windows/Active Directory administration and operations with some knowledge of UNIX/Linux
+Strong presentation skills as well as the ability to build and present high quality product demonstrations to both technical and executive audiences
+Superior communication and interpersonal skills; ability to build relationships at multiple levels to work cross organizationally toward solutions; excellent leadership and consensus building skills
+An understanding of security concepts and the development of security roles within organizations that meet functional, technical and regulatory requirements
+Prior experience with CyberArk Software solutions is preferred or relevant experience with enterprise applications, security management, systems management, identity management, and/or policy management solutions preferred especially in the IAM and SIEM space
+Operational experience with LDAP Directories, and LDAP Authentication methods
+Enterprise application authentication experience a plus (ie,. NET, Java, CLI)
+Scripting knowledge a plus
+CISSP or SANS certification preferred
+
+
+Go to apply 
+

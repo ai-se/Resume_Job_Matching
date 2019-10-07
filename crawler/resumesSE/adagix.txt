@@ -1,0 +1,37 @@
+
+Harsh Bharat Kakashaniya
++1-202-***-**** adagix@r.postjobfree.com 8125, 48th Avenue, 422, College Park, MD, 20740 https://linkedin.com/in/harsh-kakashaniya https://github.com/harshkakashaniya EDUCATION
+University of Maryland, College Park, MD Expected May 2020 Master of Engineering, Robotics (GPA 3.88)
+MIT College of Engineering, Pune, India June 2016
+Bachelor of Engineering, Mechanical Engineering (First Class with Distinction) TECHNICAL SKILLS
+Programming:Python, C++, Linux, ROS (Robot Operating System), Gazebo, Rviz, PCL, OpenCV, TensorFlow, Keras Software:Pro-E, SolidEdge, SolidWorks, Geogebra, MATLAB, Ansys, LabView Engineering:Advanced Machining Process, Surface treatment, GD&T, Dynamics of Machine, Sensors, Mechanism analysis. WORK EXPERIENCE
+Robotics Intern, ARCBEST technologies May’19 - Present
+● Successful Bidirectional Path planning algorithms implementation on vehicle for dynamic environment.
+● Worked on localization in known environment using Aruco Tags and odometry using Kalman filter.
+● Implemented Pose estimation technique of attachment in order to attach autonomously.
+● Simulation of complete warehouse scenario and navigation using ROS and Movebase package. Research Assistant, Maryland Robotics Center Sep’18 - Apr’19
+● Design and implementation of autonomous Hydroponic system (Cultivation without Substrate) with monitoring of plant health and yield along with cultivation using Robotic End Effectors. Design Engineer, ACG Worldwide Jul’16-Aug’18
+● Developed “Robotic Pick-and-Place” (3D SCARA of RRP type) resulting in a market revolution; we were the first company in India to have a robotic transfer system. The company showcased this work at ‘P-Mech Exhibition 2018’
+● Launched a Special Biscuit transfer attachment for packing 110 biscuits per minute which led to opening of completely new business avenue for ACG in the FMCG market.
+● Led ‘Value addition and Value Engineering’ in the Design department which caused a high reduction in overall costs due to the design optimizations.
+● Improved o/p efficiency by 15% yielding a record break in the total number of machines produced by the company in Sep’16. GRAD. PROJECTS
+Implementation of path planning algorithms on normal and differential constraints using turtle bot - (OpenCV,Python,ROS)
+● Simulated and implemented path planning algorithms like A*, dijkstra, BFS on turtle bot in known obstacle space. Design and simulation of a controller for Gantry Crane System -(MATLAB)
+● Derived mathematical Non-linear System and linearized it around Equilibrium point.
+● Designed LQR and LQG controller to stabilize crane pendulums with controlled cart motion. The project provided hands on experience for designing of Controller with feedback. Design of Algorithm for Traffic Lane Detection -(OpenCV,Python)
+● Video Processing along with implementation of Homography and Perspective Transform to detect and mark lanes on roads. Detection and Tracking of AR tags - (OpenCV,Python)
+● Detection and decoding of AR tag with homography transformation and feature detection.
+● Superimposition of images and virtual 3D objects on AR Tags in video using Pose Estimation. House price prediction using machine learning techniques. - (Python)
+● Received a rank in the top 25% on Kaggle. Used linear regression with LASSO and Neural network for house price prediction. Frontier Exploration -(ROS)
+● Used ROS turtle-bot to explore unknown map with assistance of Gazebo, PCL, Rviz, Kinnect sensor. Color segmentation using Gaussian Mixture Models and Expectation Maximization Techniques - (OpenCV,Python)
+● Specific object detection underwater with color segmentation using GMM instead of hard thresholding of colour spaces.
+● This technique can be substituted to color thresholding for difficult colour sampling problems. Zoomba Roomba Robot - (ROS, Gazebo)
+● Designed and simulated obstacle avoiding robot algorithm in virtual environment with Gazabo and Rviz.
+● ROS turtle-bot was deployed with Kinnect sensor for point cloud data acquisition. Modelling of fruit picking robot - (MATLAB, Solidworks)
+● Formulated 6 DOF robot with its modelling in SolidWorks.
+● Implemented Forward Kinematics and Inverse Kinematics for simulation of system using MATLAB and Simulink. Object detection using YOLO algorithm.
+● Used 5 anchors points and 80 classes with 19 X 19 windows on an image. LEADERSHIP EXPERIENCE
+● Co-founder at vtweak.in (2015-17), a company which delivered customized gifts created using advanced manufacturing processes and modern design tools.
+● Mechanical Team Lead for college in the competition named Robocon (Team of 40). Was responsible for finalizing Robot design and Competition strategy. We secured 15th rank out of 90+ college teams all over India.
+
+Contact this candidate

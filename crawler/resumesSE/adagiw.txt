@@ -1,0 +1,33 @@
+
+Adam Ash
+**** ******** ******, ********, ** *****
+adagiw@r.postjobfree.com 818-***-****
+Education
+University of California Berkeley -Cumulative GPA: 3.66, Major GPA: 3.94 Berkeley, CA
+● Electrical Engineering and Computer Science Major, College of Engineering Expected Graduation: May 2021
+● Relevant Coursework: Algorithms, Data Structures, Computer Architecture, Structure and Interpretation of Computer Programs, Foundations of Data Science, Discrete Mathematics and Probability Theory de Toledo High School -Cumulative GPA: 4.4, ACT Score: 35 Graduated June 2017 Professional Experience and Leadership
+Berkeley Renewable and Appropriate Energy Lab Berkeley, CA Coolclimate Project Energy Team Leader September 2018 – May 2019
+● Led a data analysis team of five students to develop an interactive energy usage model of the entire country
+● Collected and analyzed data in order to find positive correlations between selected social demographics and carbon emissions
+● Used RStudio, matrix math, and econometric methods to create linear regressions and visual models of data Camp Ramah in California Ojai, CA
+Senior Camp Counselor Summer 2016 – Summer 2019
+● Worked for four consecutive summers as a counselor for 12, 13, and 15-year-olds at a Jewish sleep-away summer camp
+● Became a mentor to campers and addressed issues they had with anxiety and social problems
+● Planned daily activities revolving around themes of social justice, athletics, self-reflection, leadership, spirituality, and pure fun Alpha Epsilon Pi Fraternity Berkeley, CA
+Philanthropy Event Coordinator January 2018 – Present
+● Organized and ran a philanthropy event benefiting the community attended by hundreds of people
+● Helped raise over $2000 for the Berkeley Fire Department “Every Bear Goes Home” initiative Projects
+Climate Stabilization Wedge Modeling Spring 2018
+● Partnered with three students to create an interactive application modeling Climate Stabilization Wedges and global temperatures
+● Used MATLAB for modeling and data analysis of real-world entities such as atmospheric air flow and changes in land use Bear Maps Spring 2019
+● Used locational data from the OpenStreetMap project in order to serve routing information to users of the web app
+● Adapted the A* algorithm to enable users to find the optimal route between two locations within the city Pseudorandom Maze Generator Spring 2019
+● Developed a model Randomizer class that generates dimensions, coordinates, and random objects for a particular maze based on a user-inputted seed number
+● Used a 2D-tile rendering engine that converted these random objects, hallways, and rooms into a graphical user interface Pokedex iOS Application Spring 2019
+● Used Xcode to create an iOS application in which the user is able to view Pokemon by grid or list as well as search by attribute
+● Designed a data storage system enabling the user to store Pokemon as favorites that persist after the app is closed and reopened
+● Implemented an informational page for each Pokemon in which a summary, picture, and link to more information is displayed
+● Parsed a JSON file to obtain all of the necessary information about each Pokemon to be used by the app OTHER
+Computer Skills:C, Java, Python, R, SQL, Swift/Xcode, Matlab, Microsoft Office Suite, Adobe Photoshop Interests:Hiking and backpacking, reading non-fiction, MLB baseball, new culinary experiences, traveling Awards: National Merit Scholar Finalist, AP Scholar with Distinction Award, named to 2017 All-Liberty League baseball team
+
+Contact this candidate

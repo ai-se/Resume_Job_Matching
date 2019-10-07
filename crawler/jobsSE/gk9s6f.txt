@@ -1,0 +1,32 @@
+
+Role: QA Engineer
+Location : Sunnyvale, CA
+Duration:12+Months
+Job Description
+Understanding how all elements of the system software ecosystem work together and developing QA approaches that fit the overall strategy.
+Developing test strategies and creating appropriate test harnesses as well as pragmatic testing approaches.
+Driving testing methodology and tools to support agile development lifecycles.
+Development and execution of test plans and monitoring and reporting on test execution.
+Development and execution of automated tests for UI, web services, mobile app
+Integration of automated test runs with CI/CD
+Required Skill Set
+3 4 years of hands on experience with Java and Javascript
+Test automation Selenium, Restful web services and UI
+Must know how to write SQL queries and good understanding of CI/CD
+Should have hands on experience writing test plan, Test strategy and test cases
+Should be able to create tools and mock services needed for testing
+
+Thanks & Regards
+Sai Krishna
+Senior Technical Recruiter
+Direct:
+Email:
+sai(at)paramountsoft(dot)net
+Paramount Software Solutions, Inc
+
+Contract
+1 Years
+
+
+Apply now
+

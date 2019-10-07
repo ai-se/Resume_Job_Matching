@@ -1,0 +1,38 @@
+
+Description and Requirements BMC helps customers run and reinvent their businesses in the digital age by tackling their IT management challenges, championing their innovation, and celebrating their success.Every BMC employee has the potential to have a tremendous impact on customer successâand when customers thrive, we all do.BMC offers bold and fearless career-seekers like you the opportunity to expand your skills, your network, and your horizons as you work to enable customer growth and innovation every day.
+
+You will be surrounded by peers who inspire you, drive you, support you, and make you laugh out loud, in an environment that fosters individuality, respect, and personal ambition.BMC Software helps leading companies around the world put technology at the forefront of business transformation, improving the delivery and consumption of digital services.
+
+From mainframe to cloud to mobile, BMC delivers innovative IT management solutions that have enabled more than 15,000 customers to leverage complex technology into extraordinary business performance
+- increasing their agility and exceeding anything they previously thought possible.
+
+Development team: We are a small R&D team within BMC Software, based in Victoria in London.
+
+The team consists of 7 QA engineers and 15 Developers.
+
+We are passionate about the product we build and place quality and customer satisfaction as our top priorities.
+
+We also believe that working in the team should be enjoyable and to this end we have an excellent working environment a relaxed atmosphere and we have regular âinnovation daysâ where everyone works on side projects.
+
+We believe a happy team is a productive team.
+
+Youâll be responsible for: Learning the purpose, features and use cases of the product to be tested.
+
+Design test plans and strategies for functional and non-functional validation.
+
+Work with Developers and other Quality Assurance team members for validation of product functionality, via manual or automated execution of test cases Write test automation scripts using automation framework for regression testing.
+
+We are targeting as much as possible automation of test cases so that testing becomes repeatable and the QA Engineer can focus on maintaining and evolving the test suite and the scripts associated Track all discovered issues and defects, and validate fixes provided by developers Document test results Contribute to product and process improvements and refinement of QA practices
+- Interact with a global development team and collaborate with other teams in USA, Europe, Asia Youâll need skills in: Selenium Automation in Python or proven experience and competency in a similar and contemporary testing environment Revision control systems (pretty much any will do e.g.
+
+GIT, SVN, PERFORCE) Basic Linux system administration (OS configuration & maintenance) Basic Windows OS administration (Services, permission schemes, troubleshooting) Definite advantages: Virtual infrastructure management (VMware, Xen, Docker, OpenStack, anything in those areas.
+
+Itâs about concepts.) Understanding of the wider enterprise software space and its users Network technologies Graph databases Desirable: Experience of systems integration involving data mapping â i.e.
+
+how enterprise systems talk to each other and transform data between systems It is the policy of BMC Software to afford equal opportunity for employment to all individuals regardless of race, color, age, national origin, physical or mental disability, history of disability, ancestry, citizenship status, political affiliation, religion, gender, transgender, gender identity, gender expression, marital status, status as a parent, sexual orientation, veteran status, genetic information or other factors prohibited by law, and to prohibit harassment or retaliation based on any of these factors.
+
+If you need a reasonable accommodation for any part of the application and hiring process, visit the accommodation request page.
+
+
+Go to apply 
+

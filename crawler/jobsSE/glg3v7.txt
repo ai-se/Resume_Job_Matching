@@ -1,0 +1,42 @@
+
+Title: Embedded Test Engineer
+Location : DeerPark, IL
+Duration : 12+ Months of Contract
+
+Education Qualification: Bachelor's Degree in Computer Science, Information Technology (IT), or closely related field. Master s in Computer Science or related degree
+
+Job Description
+Execute Product Software Testing activities in an Agile/SAFe environment.
+Develop and run test cases for telematic products
+Support SW team in debug and reproducing issue
+Create end to end system testcases
+Studying and analysis of requirement and specification documents as well as architecture and design documentation of complex Telematics Systems
+Create test cases based on system documents and flow charts to ensure that the entire system is validated; this includes the execution of Happy Path user flow as well as discovering edge cases and potential error scenarios
+Document the execution of test cases and maintain a Requirements Traceability Matrix
+Analyze component, vehicle, telecom network, and back-end network logs to confirm system performance using proprietary logging or common network/telecom tools
+Bachelor s Degree in Engineering.
+Excellent written and verbal communication skills.
+Knowledge and working experience with git, gerrit, jenkins, JIRA and Confluence.
+Experience conducting automotive HMI, feature, system, Bluetooth, cellular, telematics, infotainment, or component communication testing
+Understanding of Cellular Communications (GSM, CDMA, LTE, etc.)
+Knowledge of simulation tools such as MATLAB, CANoe, LabVIEW or dspace
+Experience with Qualcomm tools such as QXDM, QCAT, and QPST
+Significant aptitude or interest in complex testing processes
+Software and/or hardware testing knowledge
+Knowledge of Automotive CAN and Ethernet a plus
+Experience with Vector tools.
+Automotive test experience preferred.
+Travel will be required (mostly domestic travel)
+Valid driver s license.
+Contact Details:
+Name: Harishkumar
+Email ID:
+Phone number:
+
+Reliable Software is an Equal Opportunity Employer. Reliable Software does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.
+
+Contract
+
+
+Apply now
+
