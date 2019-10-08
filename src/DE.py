@@ -155,7 +155,10 @@ def best_LDA():
     best_dec, best_obj = differential_evolution()
     x = Optimizee()
     x.setdec(best_dec)
+
     print(x.getobj())
+    print("Parameters: ")
+    print(best_dec)
 
 
 if __name__ == "__main__":
