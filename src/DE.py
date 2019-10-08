@@ -133,10 +133,10 @@ def differential_evolution():
 
     import multiprocessing as mp
     # nb = mp.cpu_count()
-    nb = 8
+    nb = 10
     pool = mp.Pool(nb)
 
-    maxtries=12
+    maxtries=10
     f=0.75
     cr=0.3
     candidates=[Optimizee() for i in range(nb)]
