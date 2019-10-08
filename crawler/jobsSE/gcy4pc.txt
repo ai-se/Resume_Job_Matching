@@ -1,0 +1,65 @@
+
+Full Stack Software Engineer
+
+at Marin Software
+
+Portland, OR
+
+Marin Software is looking for talented, passionate, full stack engineers to join our team! We are passionate about building scalable, high quality user experiences with the latest browser-based technologies to solve large data analysis problems.
+
+The candidates will collaborate with product owners, designers, and other engineering teams to architect solutions, build or modify features, and support deployment with unit tests and automation hooks.
+
+Responsibilities
+
+* Primarily develop features for and maintain JavaScript applications
+
+* Light work to enhance, maintain, and create microservices in Java
+
+* Design, build, and unit test software in a collaborative environment
+
+* Write clear, efficient, scalable, and maintainable code
+
+* Participate in design and code reviews
+
+* Participate regularly in an Agile team environment and schedule
+
+* Collaborate with UI/UX designers, Product managers, and other front end developers to create user friendly features and applications
+
+Requirements
+
+* 3+ years experience in Full Stack Development
+
+* Proficient in JavaScript Programming (ES6, Typescript)
+
+* Experience with Java Programming
+
+* Experience with JavaScript application frameworks (AngularJS, Node.js)
+
+* Experience with JavaScript unit testing (Mocha, Jasmine)
+
+* Experience with HTML best practices
+
+* Experience with CSS processors
+
+* Experience with Agile/ Scrum and Test Driven Development practices
+
+* Experience with version control (Git, SVN)
+
+* Experience with microservice development (Node.js, Java)
+
+* Educational background in Computer Science or equivalent degree preferred
+
+Compensation
+
+This is an on-site, full-time salaried position located in our Portland office. Compensation depends on prior experience. Marin pays market-leading compensation and provides Equity participation, best in class comprehensive health plans including medical, vision and dental, in addition to generous PTO Marin reimburses 50% of monthly commuting costs for parking and/or mass transit up to the IRS limitations. Marin Software's world headquarters is located in the financial district of San Francisco, with remote offices in Chicago, New York, Austin, and Portland. European headquarters are located in Dublin, with additional offices in London, Singapore, Paris, Hamburg, Sydney, Shanghai and Tokyo. This is a great opportunity to really make a big impact on a business, which is highly ambitious and going through a highly exciting stage of our growth!
+
+About Marin Software
+
+Marin Software Incorporated (NYSE: MRIN) mission is to give advertisers the power to drive higher efficiency, effectiveness, and transparency in their paid marketing programs that run on the world's largest publishers. Marin provides industry leading enterprise marketing software for advertisers and agencies to measure, manage, and optimize more than $7.8 billion in annualized ad spend across the web and mobile devices. Offering an integrated SaaS ad management platform for search, social, and display advertising, Marin helps digital marketers improve financial performance, save time, and make better decisions. Advertisers use Marin to create, target, and convert precise audiences based on recent buying signals from users' search, social, and display interactions. Headquartered in San Francisco, with offices in eight countries, Marin's technology powers marketing campaigns around the globe. For more information about Marin Software, please visit:
+
+Marin Software embraces diversity and is proud to be an equal opportunity employer. As part of our commitment to diversifying our workforce, we do not discriminate on the basis of age, race, sex, gender, gender identity, color, religion, national origin, sexual orientation, marital status, citizenship, veteran status, or disability status, and we operate in compliance with the San Francisco Fair Chance Ordinance.
+SDL2017
+
+
+Go to apply 
+

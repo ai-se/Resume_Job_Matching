@@ -1,0 +1,59 @@
+
+Coupa Software (NASDAQ: COUP), a leader in business spend management (BSM), has been certified as a "Great Place to Work" by the Great Place to Work organization. We deliver "Value as a Service" by helping our customers maximize their spend under management, achieve significant cost savings and drive profitability. Coupa provides a unified, cloud-based spend management platform that connects hundreds of organizations representing the Americas, EMEA, and APAC with millions of suppliers globally. The Coupa platform provides greater visibility into and control over how companies spend money. Customers – small, medium and large – have used the Coupa platform to bring billions of dollars in cumulative spend under management. Learn more at Read more on the Coupa Blog or follow @Coupa on Twitter.
+
+Do you want to work for Coupa Software, the world's leading provider of cloud-based spend management solutions? We're a company that had a successful IPO in October 2016 (NASDAQ: COUP) to fuel our innovation and growth. At Coupa, we're building a great company that is laser focused on three core values:
+
+1. Ensure Customer Success – Obsessive and unwavering commitment to making customers successful.
+
+2. Focus On Results – Relentless focus on delivering results through innovation and a bias for action.
+
+3. Strive For Excellence – Commitment to a collaborative environment infused with professionalism, integrity, passion, and accountability.
+
+Responsibilities:
+
+* Implement new features for Coupa's mobile applications using Objective-C and React Native
+
+* Work closely with product managers, UX designers & QA engineers to build out functionality in an iterative manner.
+
+* Continually look for opportunities to improve our platform, process and business.
+
+* Work with the engineering team to enhance and extend our APIs.
+
+Requirements:
+
+* Bachelors degree or higher, with 5+ years experience building mobile apps.
+
+* Experience with frameworks such as Core Data and AFNetworking on the iOS platform.
+
+* Experience building apps that communicate with a server via REST web services.
+
+* Development experience with React Native,
+
+* Great understanding of object-oriented designs and principles.
+
+* Excellent communication skills.
+
+* Familiarity with agile development processes.
+
+Advantageous:
+
+* A GitHub account showcasing your work, along with apps in the App Store.
+
+* Ruby on Rails experience is a strong plus.
+
+* Experience with continuous integration frameworks like Jenkins, Teamcity, Travis CI, etc..
+
+* Experience with mobile testing frameworks such as Appium, Calabash, or Robotium.
+
+At Coupa, we have a strong and innovative team dedicated to improving the spend management processes of today's dynamic businesses. It's our people who make it happen, and we strive to attract and retain the best in every discipline.
+
+We take care of our employees every way we can, with competitive compensation packages, as well as restricted stock units, an Employee Stock Purchase Program (ESPP), comprehensive health benefits for employees and their families, a 401(k) match, a flexible work environment, no limit vacations for exempt employees, non-exempt employees are on an accrual basis for PTO, catered lunches…And much more!
+
+As part of our dedication to the diversity of our workforce, Coupa is committed to Equal Employment Opportunity without regard for race, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity or religion.
+
+Please be advised, inquiries or resumes from recruiters will not be accepted.
+SDL2017
+
+
+Go to apply 
+

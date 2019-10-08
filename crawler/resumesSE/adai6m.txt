@@ -1,0 +1,175 @@
+
+A result driven career of over ** years specializing in implementation, upgrade, migrate and support projects in SAP Business Planning and Consolidation (BPC) space with expertise in Budgeting, Forecasting, Financial Consolidation and Financial Reporting.
+Experience with several functional and technical facets including evaluating Business requirements, custom-designing solutions, build and development and gain considerable experience in Consulting environment.
+
+Client
+Role
+Duration
+MMG Limited
+BPC Process Consultant
+Sep 13 – Current
+IBM Canada
+BPC Consultant
+Jul 11 – Jul 13
+IBM India
+Senior Software Engineer
+Apr 07 – Jul 11
+PATNI India
+Software Engineer
+Apr 05 – Apr 07
+
+Planning and Consolidation
+SAP BPC NW 10.1 Standard, SAP BPC 7.5 NW/MS, SAP BPC 5.0 MS
+Analytics
+SAP Analytics Cloud
+Datawarehouse
+SAP BW 7.4 on HANA
+Database
+MS SQL 2000, Sybase
+Programming Language
+Delphi 5, VB Scripting
+
+BPC 310 & BPC 320 SAP BPC (MS) certification
+BPC 450 – SAP BPC 11 Embedded Model Certification
+1Z0-007 Fundamentals of SQL Certification
+AHM 250 – Academy for HealthCare Management
+
+Bachelors of Electronics and Telecommunication Mumbai University, India
+Diploma in Electronics and Video Engineering
+
+Client
+- MMG Limited
+Sep 13 – Current
+
+Role
+- SAP BPC Process Consultant
+Melbourne, Australia
+
+MMG Limited is a global resources company that mines, explores and develops metal projects.
+
+Project: iBP Planning and MMG Consolidation (BAU support) (Jan 18 – Current)
+This program of work involves day-to-day support, incidents management and work orders. It involves liaising with several key stakeholders in Corporate/Financial Planning team.
+
+Responsibility:
+Liaise with key stakeholders - Corporate/ Financial Planning team for gathering requirement and making necessary development/enhancements.
+Handle and drive projects in SAP BPC 10 in areas of Planning and Consolidation
+Own the design and review process for new solutions as well as administer SAP BPC.
+Provide Day-to-day support, managing tickets, incidents, work orders.
+Achievements
+Facilitated requirement gathering workshops to understand planning processes and driver-based planning scenarios. Developed process efficiencies to automate annual budget reports as well as identified areas in BAU process for optimisation.
+Designed data interface for SAP modules from (PCP, PPM, ECC, LOIS i.e.) to BPC.
+Perform BW, HANA, EPM, Windows 10/Office 365, AO2.5 Upgrade testing to ensure that there is no impact on BPC system.
+Worked on a complex project of physical alignment of mining and processing physicals entered in iBP all the way to R2M system and to the BW reporting.
+
+Project: MMG Consolidation (Jan 17 –Dec 17)
+This project implemented SAP BPC 10.1 consolidation application which would consolidate plan and actual financial information and replace the existing legacy consolidation solutions comprising of BPC 7.5 for planning consolidation and SAP ERP EC-CS for actuals consolidation.
+
+Responsibility:
+Provide input during scoping sessions to explain the legacy system capabilities and also provide feedback on capabilities of the new product.
+Facilitate sessions for external vendor project team to provide information about the ‘As-Is’ CONSOL system in BPC 7.5 system and helped the team in reconciling data between old and new CONSOL systems.
+Provided feedback/help in developing Statutory and Management Financial statements.
+
+Achievements:
+Created an input schedule to update monthly journals to a year-to-date consolidation module, this helped users to save cost on calculating the YTD figures separately.
+Created a reconciliation report that compared data between source and destination before Consolidation process ran which reduced consolidation turnaround time.
+Accommodated organisational structural changes within the Consolidation Model.
+
+Project: Integrated Business Planning (iBP) (Jan 15 –Dec 17)
+This project introduced a new BPC 10.1 planning solution in MMG’s enterprise system landscape that would replace the legacy SAP BPC 7.5 planning application. Sites would progressively go-live with SAP BPC 10.1, with phased decommission of SAP BPC 7.5.
+
+Responsibility:
+Gain insights on the new system and provide information about legacy BPC 7.5 system and functionality whenever required.
+Achievements:
+Volunteered to accompany project teams for UAT at mining site locations.
+Implemented end to end Treasury model in BPC 10.1 and created a newly acquired Operating Site in the BPC 10.1 system.
+Analysed the BPC 7.5 Operation’s model calcs and built logic to bring data from BPC 10 to BPC 7.5 in the similar format so that legacy EPD Financial reports remain unaffected.
+Managed “ZERO” downtime for BPC BAU and iBM application as the site moved to IBP (BPC 10.1) suite.
+
+Project: Cost planning Application (iBM) (Jan 15 – Dec 15)
+This was a major project for moving legal entities to Company code on the Profit Center (Line of Business). As a result, CostCenter by Cost Element based planning (COSTS) application in BPC 7.5 was introduced in addition to existing Operational Planning.
+
+Responsibility:
+Understand the new application in iBM space and execute tests to get an verify data flows and user queries.
+Demonstrate reliability /dependability and proves as a GO-TO person for any BPC issue.
+
+Achievements:
+Lead handover sessions of cost application in BPC from external implementation agency.
+Understood the new system better by executing user test cases on the new application to get an idea on the data flows, user queries which also involved testing new Cost model (Site on Site basis) and logging issues in ALM.
+Tested integration of SAP BPC with PPM and also ensured that the PPM Capex and depreciation results that were captured in BPC post deployment solution were intact and accurate.
+Implemented a Change Process for BPC users which helped to simplify engagement process with business leads to clearly identify risks, issues and remediation.
+
+Project: MMG Operational Planning (Sep 13 – Dec 14)
+MMG Operational planning has been designed in SAP BPC 7.5 and the calculation logic has been designed in MDX language to integrate the PPM data to BPC, Copy Opening Balance, calculate carry forward etc.
+
+Responsibilities:
+Deliver changes in the solution & consider integration with other sap modules such as, Business Warehouse (BW), ECCS, Projects and portfolio management (SAP PPM), and FI/CO
+
+Achievements:
+Lead set up of SAP BPC Security and Master data configurations.
+Monitored trends in support incidents, working closely with the P2M Lead, to recommend and implement process improvements.
+Ensured that system changes resulting from support activities, work orders, and projects were made to adhere to architectural standards and operational guidelines.
+
+Client
+- Canadian Pacific Railway (IBM Canada)
+Jul 11 – Jun 13
+Role
+- SAP BPC Process Consultant
+Calgary, Canada
+
+Canadian Pacific is a transcontinental railway in Canada and Unite States with direct link to major ports on the west and west coasts.
+
+Responsibilities:
+Understand business requirements and translate that understanding into a form that leads to the creation and or composition of better process and/or technology solutions in the SAP Planning Finance space, including cost benefit analysis and risk impact analysis.
+Support and enhance moderately complex information systems as well as develop adequate error management functionality within assigned applications in SAP BPC module. Also review ticket backlog, prioritize issues and solve.
+Achievements:
+Reduced issue resolution time to 2 days from 4 days by developing a triage framework for SAP BPC application.
+Contributed to migration from SAP BPC 7.5 to SAP EPM 10.0.
+
+Client
+- Vodafone Portugal (IBM India Pvt Ltd)
+Apr 07 – Jun 11
+Role
+- SAP BPC Consultant, Outlooksoft CPM SSAS, SSIS
+Bangalore, India
+
+The following highlights tasks that were executed across several projects that I had worked on.
+
+Responsibilities:
+Develop Logical and physical data models and map data into database objects.
+Create process flows and use case documents for enhancements and new development.
+Develop, Test and Deploy SAP BPC data load scripts and reports.
+Create reports using Crystal reports XI for analysis purposes.
+
+Achievements:
+Created MS OLAP cubes for scheduled reporting along with technical documentation (reading the metadata of the cube) using OLAP documentation tool.
+Leveraged Job Visualization tool to schedule the process of the cube.
+Implemented a Facet’s Data Dictionary to easily use vb.net 2003 as a front end and MS Access as a back end to ease understanding of Facets Data modules.
+
+Client
+- Rooms Solution (Patni (IGATE) India)
+Apr 05 – Apr 07
+Role
+- Software Engineer
+Mumbai, India
+
+The following highlights tasks executed across several projects that I had worked on.
+
+Responsibilities:
+Gather requirements and develop SQL scripts using Embarcadero Rapid SQL.
+Generate and maintain reports using Crystal Report XI and XLS within Health Insurance Facilities domain.
+Prepare test plans as well as train offshore resources for handling report issues.
+Achievements:
+Developed automated UAT test case workflow for ROOMS a (London Insurance Market product).
+
+Zeenat Siddique
+SAP BPC Process Consultant
+linkedin.com/in/zeenatsiddique
++61-416-***-*** /adai6m@r.postjobfree.com
+Professional Summary
+Employment History
+Technical Skills
+Training &Certifications
+Education Background
+Client Engagements
+
+Contact this candidate

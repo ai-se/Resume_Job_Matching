@@ -1,0 +1,146 @@
+
+Summary
+**+ years of industry experience in SAP encompassing a wide range of skill sets, roles and industry verticals.
+SAP S/4 HANA expert.
+SAP Solution Architect/Senior Manager - with an expertise in reviewing proposals, managing projects, providing estimates, defining the project scope, developing project plans, identifying and mitigating risks, creating status reports, recommending the best product solutions, and offering solutions to project issues.
+Possess a unique combination of analytical and leadership skills, with solid communication and prioritization abilities.
+Experienced in leading and managing diverse team of global resources, including employees, contractors, partners, consultants, and offshore teams
+Highly effective communication skills, including written, verbal, and non-verbal cues.
+People developer fostering individual professional development and team growth.
+
+Practice Director – Senior Manager – Business Development, Solution Architect, Pre-Sales Presentations, Product Demonstrations, Solutions Design, Proposal Development
+Broad leadership and advisory experience across new customer acquisition including Estimation, Proposal, Development of contract with client, Budget Management, Project Plan, Weekly Reporting to the various C-Level stakeholders and Delivery teams.
+Participated in sales strategy planning, presented the pre-sales demo and solution to the customer
+Experienced in negotiating prices and terms of sales for Enterprise Solutions
+Managed all activities from the solution blueprint till the successful delivery and support
+Provided governance and oversight in managing client expectations and directly contributing to improve customer satisfaction scores across the account.
+
+SAP S4HANA – Project Highlights
+SAP S4HANA 1709 SPS2 Net-New Implementation
+Industry: Leading provider of rapid entry security devices - variety of products for over 14,000 departments and governmental agencies throughout the US
+Solution: SAP Finance, Sales, Procurement, Manufacturing
+SAP S4HANA 1709 SPS2 Net-New Implementation
+Industry: Professional Services
+Solution: SAP Finance, HCM, Project Systems
+SAP S4HANA 1709 SPS1 Conversion
+Industry: Sporting-goods Retailer – over 9 stores, rental stores, online rentals
+Solution: SAP Retail, Finance, Procurement, Inventory Management, Sales.
+SAP S4HANA 1709 Net-New Implementation
+Industry: Entertainment Complex – attractions including museum, restaurants, games, live entertainment
+Solution: SAP Finance, Procurement, Project Systems, SuccessFactors.
+SAP S4HANA 1511 SPS1 Greenfield Implementation
+Industry: Travel and Hospitality – over 65 properties, totaling more than 22,000 rooms in 30 different destinations, all-inclusive vacation packages, award-winning hotel management and marketing services, over 2 million passengers per year, 48 Companies, 5 Countries
+Solution: SAP Finance, Procurement, Project Systems
+SAP S4HANA 1503 Net-New Implementation
+Industry: Cinema – 16 theatres, over 10 million customers served per year, over 9.5 million transactions per month, 100+ users.
+Solution: SAP Retail, Finance, Procurement, Inventory Management, Sales.
+
+Responsibilities:
+Participated in sales strategy planning, pre-sales planning, demonstrated the product to the customer
+Engaged with decision makers throughout the sales process
+Responsible for – Estimation, Proposal, Development of contract with client, Budget Management, Project Plan, Weekly Reporting to the various stakeholders and Delivery.
+Performed effort and cost estimation for the project
+Part of the team to negotiate prices and terms of sales
+Responsible for – Performing project controls, accountable for generating reports, responding to data requests and developing/maintaining/supporting project schedules, project forecasting and review of expenditures.
+Developed the product road maps and migration strategies with the account executive, build the right solution team to support the deal, and execute the overall deal
+Managed project budget and tracked actual costs and variance to approved budget
+Provided status reports to project stakeholders and managed project stakeholder expectations of project scope and schedule.
+Preparation of SOW, Project Change request, reporting Project financials, resource planning, obtaining necessary approvals from clients, submission of deliverable acceptance documents, billing / invoicing to the client.
+Successfully measured and managed project plans, budget to actual variances, issues, and risks for all customer deliveries.
+Managed all activities from the solution blueprint till the successful delivery and support
+Prepared and presented Business Scenario Recommendations, conducted Readiness Check for SAP S/4HANA
+Managed all activities of the conversion process
+Managed diverse team of global resources, including employees, contractors, partners, consultants, and offshore teams
+Provided governance and oversight in managing client expectations and directly contributing to improve customer satisfaction scores across the account.
+Worked with SAP RIG team on multiple S4 projects.
+Participated as Presenter at ASUG sessions.
+
+Professional Experience
+Director SAP S/4 04/2014 - Present
+Savantis Solutions
+Responsible for overall SAP S/4 product management, project management, leading research on new products and evaluating specific requirements of customers, offering pre-sales support to sales team, conducting pre-sales presentations and demos, negotiating prices and terms of sales, associating with marketing and sales professionals to develop and implement effective marketing plans, developing and redesigning product to meet goals and objectives of customers, building product road maps and migration strategies for SAP S/4 projects.
+Responsible for managing the design, build, test, and deployment of the SAP software
+Leveraged the SAP Activate methodology for implementation using Solution Manager 7.2
+Build, develop, and grow professional relationships with key decision makers to strategically negotiate and execute proposals.
+Conducted business meetings, workshops to understand the AS-IS system and design the To-Be System.
+Conducted GAP analysis, documented the findings, assessed scope of studies and suggested solutions through SAP for implementation and customizations.
+Conducted scoping meetings and blueprinting sessions for gathering requirements to identify all GAP's/RICEFW's needed by the business and IT.
+Supported all team leads on critical issues for functional and technical deliverables.
+Worked on strategy plan, risk mitigation plan, project plan, resource hiring strategy plan.
+Lead the steering committee on process change management activities.
+Responsible for driving value leveraging strategic partners and managing third party vendors.
+Monitored and managed daily requests and issues from end-users, to ensure smooth delivery and implementation of solutions.
+Maintaining good relationships with internal and external business partners.
+Developed and delivered effective client presentations concerning case studies, methodology, solution determination, team staffing, and emergency support.
+
+Project Manager / FICO Analyst 07/2009 – 03/2014
+IBM
+Assisted delivery project executive for proposal, preparation of project plans, played a key role in the process to evaluate, estimate and validate the project durations.
+Allocated task to resources and reviewed the deliverables, monitored utilization of resources and take relevant actions. Evaluate man power requirement for project escalations.
+Conducted both technical and functional interviews and worked closely with project executive in resource planning.
+Worked with the onsite and offshore team to provide solutions to help support the integration of sales, purchasing, inventory management, quality management, manufacturing, distribution and management, financial accounting and after sale processes.
+Gathered requirements for the Finance, Controlling and Project Systems to understand the scope of the project.
+Created Company codes, assigned chart of Accounts, defined Account Groups, defined Retained Earnings Accounts, defined Field Status Variants, defined Tolerance groups, maintained Exchange Rate settings between different currencies, configured – GL Automatic Clearing, Created and maintained Balance Sheet and Profit & Loss accounts and defined the Financial Statement Versions for reporting
+Configured Accounts Payable – Vendor Master setup and management; deployed Invoice/Credit Memo Processing both manual and through use of an in-house Image Reading Tool; Configured the Logistic Invoice Verification with its tolerances, release blocked invoices, invoice workflow.
+Facilitated Procure to Pay process through MM-FI Integration
+Configured Outgoing Payment Processing in AP for Check and Wire Transfers across different countries, manual payment processing with and without printing forms, automatic payment processing, check processing and check management transactions
+Configured Special GL Transactions in Accounts Payable – Down Payments, Entering Noted items
+Configured Accounts Receivable – Customer Account Groups and Customer Master setup, configured payment terms and deployed and trained users on FI based Customer Invoices and Credit Memos
+Facilitated Order to Cash Cycle through SD-FI Integration
+Configured House bank and check management, configured automatic payment program, Terms of payment, and Interest calculation
+Configured Lock Box and Electronic Bank Statement
+Set up other Correspondence Forms and Files such as Debit Vouchers, Chargebacks, Customer Statements, Customer Invoices, Positive Pay File and Incoming Cashed Check Files.
+Deployed and conducted business training on GL, AR, AP.
+Worked on SAP Workflow to develop an end to end AP Automation implementation, where invoices were scanned though IBM Datacap and then used SAP ArchiveLink to generate archive documents by creating work items in the SAP workflow.
+Developed a Factura Manager tool, which facilitates to send Facturas from SAP system and receive confirmation. Factura are invoices required for Mexico rollout.
+SAP FICO reports like Customer Statements, Reports like FIFO MYMP1 and Goods Receipt Report, calculate Purchase Price Variance (PPV), Price Change Record which gives the recent price and the effect on yearly turnover.
+
+Project Lead / Technical Analyst 07/2006 – 07/2009
+Accenture
+Project Lead of the onsite project team in Netherlands.
+Involved in production support, worked on non-standard changes and defect fixing as per the requirements. Analyzed incidents and production issues to provide effective solutions.
+End to end development of a time reporting tool in SAP for the entire team which provides various status and detailed reports on time management, ticket details, priorities, complexity, backlog, ageing etc. Reports derived from this tool served as inputs to various matrix reports maintained for the team. This tool was later adopted by other SAP project teams within Accenture to maintain and produce matrix reports.
+Prepared weekly status metrics reports required by the project management team.
+Actively involved in the added responsibility of collating the time booking reports for the team members on the fortnightly basis, reviewing the same, checking the utilization percentages and consolidating the time reports sheets for the entire project team and then submitting project weekly status reports.
+Project Lead in Support Pack upgrade from 4.7 to ECC 6.0 closely working with project team for up gradation.
+Engaged in the process of code review to check for program optimization, correctness and performance.
+Expert in Variant Configuration customization and programming, develop a rebuild function module that takes a catalog number as input and returns the configurable material and determines default characteristics, checks the configuration consistency and dependencies.
+Extensive work on RF ID programs. Translated the RF programming flows and documents in a diagrammatic representation which was very much appreciated by the senior management and was acknowledged by having the same posted in the Accenture Knowledge Exchange portal.
+Inbound and Outbound EDI IDoc customizing and enhancements.
+Worked on many upload programs using BDC, BAPI, IDoc, LSMW like customer and material master uploads, upload GL balances, AR and AP uploads, bank statement uploads, etc.
+Rewards and Recognitions received in Accenture
+Received the ‘Accenture Celebrates Excellence’ team award.
+Received Shining Star Award for delivering beyond client expectations and Accenture standards
+Awarded Celebrating Performance Points every quarter
+Certification completed in Accenture
+Completed the ASDA (Accenture Solutions Delivery Academy) Certified Application Designer program, developed with the support of the Massachusetts Institute of Technology.
+
+Senior Software Engineer 04/2005 – 07/2006
+Quinnox
+Worked extensively on SAP Foreign Trade and SAP AFS implementations. Involved in production support, worked on interface programs, change requests, defect fixing and modifications as per the requirements.
+
+Advanced Analyst 02/2002 – 03/2005
+Ernst & Young
+Area Team Coordinator - Managed a team of five members on US taxation project for the Global Mobility division which is widely recognized for the depth and breadth of its knowledge in all areas of International Assignment and Tax Services.
+Leading the team for developing a local office program having facilities and features relevant to the company processes. Worked extensible on the project design, development and testing.
+
+Associate Software Engineer 02/2001 – 01/2002
+Netkraft
+Worked on many detail and summary ALV reports, like reports to display shipment details; sales orders by customer details, order status reports etc. Worked extensively on legacy data conversions, BDC and LSMW for FICO, MM and SD modules. Worked on file interface programs like process inbound files to update material details, file deletion program etc.
+
+Education
+Master in Computer Applications (MCA)
+Master in Financial Management (MFM)
+Bachelor of Commerce with Honors in Accounting, Auditing, Income Tax and Business Law (BCom(Hons))
+
+Training and Certification
+Artificial Intelligence: Implications for Business Strategy from MIT Sloan Executive Education
+Project Management Certificate Program from Penn State Great Valley
+Certified in ‘10Steps2S4’, a conversion program to SAP S/4 HANA
+SAP Certified Associate - Business Process Integration with SAP ERP 6.0 EhP6 2014
+SAP NetWeaver ABAP certified 2005
+SAP NetWeaver ABAP Workbench, Sapient College, Siemens, Bangalore – SAP ACADEMY – R/3 ABAP 6.2 Training
+Advance Computing Course from C-DAC (Center for Development of Advance Computing) Bangalore ACTS
+Certificate in Computing from C-DAC and NIIT
+
+Contact this candidate

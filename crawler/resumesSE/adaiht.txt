@@ -1,0 +1,335 @@
+
+Senthil Kumar Thangarasu
+
+No.** B, ‘Adithya illam’, Rajarajeswari Nagar,
+3rd Main Road, Perungalathur, Chennai – 600063.
+
+E-Mail : adaiht@r.postjobfree.com Skype : senthil_kts
+Mobil #: +91-998-***-****.
+
+Education
+
+Master of Computer Applications (MCA) - June 1994 – May 1997.
+Thanthai Hans Roever College, Bharathidasan University, Trichy.
+
+Bachelor of Science (B.Sc) – Computer Science - June 1989 – May 1992.
+Khadir Mohideen College, Bharathidasan University, Trichy.
+
+Experience Summary
+17 + years of total IT experience, out of that 15 years experience in various Telecom OSS/BSS COTS products. Worked as technical role, End-to-End solution Architect.
+Oracle ASAP migration and version upgrade 7.3.2
+Trained on the following COTS product.
+Metasolv ASAP Cartridge development (Network Service Activation)
+Oracle Order and Service Management (Oracle OSM - CRM), Inventory solution (UIM)
+Oracle Communication ASAP Service Request Translation (SRT) Cartridge
+Metasolv OBJECTEL (Network Inventory), Metasolv Mediation (Network Mediation).
+Telcordia MARCH (Network Service Activation)
+Hands on experience in Telecom OSS components implementation and Application development for Service activation, Provisioning & network inventory applications.
+Hands on experience in Telecom BSS components Roaming, Interconnect billing solution applications.
+Experienced in Unix scripting and Oracle PL/SQL
+Good working knowledge in C++/VC++
+Have been worked on various telecom service providers environment at onsite & India.
+Cable & Wireless, UK.
+Telstra, Australia.
+Metasolv, Canada.
+Vodafone, India. Aircel, India
+Etisalat – UAE.
+Etisalat – UAE - Aug 2013 – Till Date
+WIPRO Technologies - Oct 2007 – Jul 2013
+Accenture Services (P) Ltd - Jul 2006 – Aug 2007
+India Comnet International (P) Ltd - Jan 2003 – Jun 2006
+TATA Consultancy Service - Nov 2000 – Dec 2002
+MIC Software Technologies - Dec 1997 - Oct 2000 (IT Training Division)
+
+Skill Set
+Language : C, C++, VC++, Java, J2EE
+RDBMS : Oracle 10g, DB2.
+Operating System : Winodow-NT, Linux/Unix, OS/390, DOS.
+Tools : Rational Clear Case, Rational Clear Quest, Visual Source Safe.
+Career Profile
+2013 Onwards : Etisalat UAE.,
+
+Title : Etisalat Service Fulfillment & Transformation.
+
+Period : Aug 2013 – Till Date
+
+Position : Service Fulfillment – Tech Lead.
+
+Roles & Responsibilities : Worked as a Tech Lead for Oracle ASAP Service Activation,
+Oracle Mediation, Oracle Order and Service Management. And Technical solution architect for Transformation Projects.
+
+The Project : Oracle Communications ASAP Application
+Etisalat UAE has installed and configured ORACLE ASAP later in 2012.Initially ASAP was configured in order to process mobile traffic and later ISP also. Basically, ASAP replaces the functionality of activation gateway which is currently carried out by in-house developed system called “CMDS” [Corporate Mediation Device System]. I am very closely working with the vendor “Accenture-UAE” during all the phases of transformation.
+
+Oracle Communications ASAP – Database Archiving and Purging
+This is an ongoing project of Etisalat. Main objective of the project was initiated to acquire or regain the disk space occupied by successfully processed data which is more than one month old. I have prepared the project plan and supported in deriving the archiving and purging policy according to Etisalat standards, analysis and development of necessary program logic to archive and delete data. Currently team works on automating the archiving process.
+
+Oracle Communications ASAP – Application performance tuning
+Main objective of the project was to enhance the performance of the ASAP application. It was suggested necessary program modifications have to be done to reduce number of Network Element Processors [currently 78 NEPs are deployed in production environment] by clubbing them based on the functionality rather than physical network elements. Team is currently involving in requirement analysis and feasibility study
+
+Oracle ASAP migration and version upgrade in production environment.
+
+Operating System : Sun Solaris
+
+Relational Database : Oracle.
+
+Special Software : Oracle ASAP 7.0.2, Oracle ASAP 7.3.2
+Oracle OSM, Oracle Mediation, Weblogic 9.2 SP2, Core Java, XML.
+
+Work Location(s) : Abu Dhabi, Dubai - UAE.
+
+Career Profile
+2010 Onwards : WIPRO Technologies,
+
+Title : Expresso Telecom O&M, Transformation – Ghana & Nigeria.
+
+Client : Expresso Telecom – Ghana & Nigeria.
+
+Period : Sep 2010 – Aug 2013
+
+Position : Metasolv ASAP - Project Manager.
+
+Roles & Responsibilities : Worked as a Project Manager for Oracle ASAP Service Activation,
+Oracle Mediation, Oracle Order and Service Management. And Technical solution architect for Transformation Projects.
+
+The Project : OSS Service Activation using Oracle ASAP cots product
+
+Expresso Telecom Group (ETG), Dubai is a leading provider of basic CDMA Wireless & WiMax services to its customers across Africa (Ghana, Nigeria, Senegal and Mauritania). ETG plans to expand their service offering across Ghana to provide enhanced customer experience, and thereby gain market share against competition.
+
+ETG decided to use the Oracle ASAP as the Service Activation product and the North bound interface is TCP/IP over Socket communication. Service Request Translation (SRT) component uses for the upstream input request transformation into ASAP understandable service command. ASAP was equipped with ZTE network element such as HLR, AAA, PTT and VMS switches. Metasolv Mediation provides the solution to filter & validate the CDR details. Configure the billing system and revenue assurance system to send the CDR files periodically.
+
+Operating System : Sun Solaris
+
+Relational Database : Oracle.
+
+Special Software : Oracle ASAP 5.2.4, Service Request Translation (SRT) Cartridge,
+Oracle OSM, Oracle Mediation, Weblogic 9.2 SP2, Core Java, XSLT
+& XML.
+
+Work Location(s) : Bangalore - India.
+Career Profile
+2009 Onwards : WIPRO Infotech,
+
+Title : AIRCEL-FUSION.
+
+Client : Aircel, India.
+
+Period : Mar 2009 – Sep 2010
+
+Position : Project Manager.
+
+Responsibilities : Worked as a Project Manger for IUC and Roaming team.
+
+The Project : Interconnect Billing Systems & Solutions
+
+Aircel uses the Roamware interconnect billing system product for their ICB. RBS tools provide the comprehensive collection, guiding, rating, billing, invoicing and reporting module. Flexible rating configuration for their individual operator rate master table. Mediation and Event Collection – manage the various types of interaction with the different network element (NE’s) in order to collect the relevant events information. Rating Engine – advanced rating engine to support the flexible definitions of the different rating method defined in the product management. Financial Management – manage and report all account receivable and payable financial transaction which result from the partner activities. Invoicing – This module compiles, generates, and summarizes all the elements that are to appear on the consolidated invoice, declaration or partner statements.
+
+Aircel Roaming
+
+Aircel extending service connectivity to their entire parner network operator and provide the usage records through the MACH cleaning house. Call usage records will be rated with the retail billing system BSCS and generate the TAP files based on the operator commercial terms agreement between both the parties.
+
+Key activity:
+TAP file creation
+Roamware aggregation for the other circle commercial files into Chennai Notification
+To ensure apply and receive the correct IOT rates
+Re-rated based on the commercial agreement between the operators.
+Provide the Revenue Assurance reports and samples for RA.
+
+Operating System : Sun Solaris
+
+Relational Database : Oracle.
+
+Special Software : Roamware tools, BSCS Telecom retail billing system.
+
+Work Location(s) : Chennai, Gurgoan-India.
+Career Profile
+2007 Onwards : WIPRO Technologies,
+
+Title : WAD Tactical Solutions.
+
+Client : Cable & Wireless, UK.
+
+Period : Oct 2007 – Mar 2009
+
+Position : Solution Architect.
+
+Responsibilities : Analysis, design, implementation and unit testing.
+
+The Project : The WAD Tactical solution is a short-term solution developed by
+Cable and Wireless to implement a cut down version of the WAD system before the strategic version goes live. The Clarify and P6 components of the strategic system are replaced with an application developed using Web Methods that implements a subset of the overall functionality. Only SMPF and basic MPF services are supported, there is no support for fixed IP or additional voice services. Future enhancements may involve the adding of IP TV functionality. There are two modules to be supported under this application ASAP and Bespoke inventory and there are three interfaces in this application one is the interface between Webmethods and ASAP, second one is the interface between ASAP and LDAP and the third one is the interface between Webmethods and Bespoke Inventory. In the context of Cable and Wireless Business scenario ASAP is one of the components used for service activation in the Wholesale Access Delivery (WAD) Tactical solution. ASAP has Webmethods as the northbound interface and LDAP (network element) is the southbound interface. The Bespoke inventory contains all the network resource information required. Webmethods interacts with Bespoke inventory using xml data to update and query the bespoke inventory. Inventory Data Management GUI is used to interact with Bespoke inventory for DSALM management, phone number management, port swapping, port allocation, IP address management, phone number swap, phone number allocation, phone number bulk load and bulk loading of MGCP routing numbers..
+Operating System : Sun Solaris
+
+Relational Database : Oracle
+
+Languages : Core Java, XSLT & XML.
+
+Special Software : PVCS, Metasolv ASAP, Metasolv Service Creation Environment.
+
+Work Location(s) : Banglore, London, UK.
+
+Career Profile
+2006 Onwards : ACCENTURE SERVICES (P) LTD.,
+
+Title : MARCH Development.
+
+Client : Telcordia Inc., USA.,
+
+Period : Jul 2006 – Sep 2007
+
+Position : Sr.Software Engineer
+
+Responsibilities : Analysis, design, implementation and unit testing.
+
+The Project : MARCH (Memory Administration Recent Change History) is a
+Bellcore produced software system used by telephone companies to modify switch translations based on customer service order requests. The system provides flow through for the majority of service orders, as well as providing manual operation capabilities for exceptions. Also, MARCH enables users to check the status of service orders in the switch and track the switch provisioning process. The UNIX based system is deployed on several different hardware platforms. In simpler terms, MARCH programs the central office switch so that it provides the capabilities that the customer has ordered. It does this by translating codes on the service order image into switch positioning messages that can be interpreted by the central office switch.
+
+Operating System : Windows XP, Unix (AIX, HP-UX, Sun Solaris)
+
+Relational Database : Oracle 10i.
+
+Languages : C++
+
+Special Software : OnTrac (SCCS)
+
+Work Location(s) : Shollinganallur - Chennai.
+
+Career Profile
+2003 Onwards : INDIA COMNET INTERNATIONAL
+
+Title : ASAP Cartridge Development
+
+Client : Metasolv Inc., USA.,
+
+Period : Nov 2003 – Jun 2006
+
+Position : Sr.Software Engineer
+
+Responsibilities : Analysis, design, implementation and testing ASAP Cartridge development.
+
+The Project : ASAP cartridges are discrete software components that are developed
+for the ASAP product. An ASAP cartridge provides specific domain
+behavior on top of the core OSS product ASAP software, and
+productizes a set of services on an NE. An ASAP cartridge is not a
+stand-alone component, but operates in conjunction with the ASAP
+core OSS product. In general, an ASAP cartridge Supports a particular
+set of services on an NE. These services are independent of customer-
+specific service definitions. Extensions to the Cartridge are developed
+by Professional Services or systems integrators to support customer-
+specific requirements. ASAP will support the Socket X2X, Telnet,
+LDAP kind of connections between the NE and ASAP.
+
+i)Lucent 5ESS, AnyPath, SCP – 2000 (Service Control Point)
+ii)ACME
+iii)Ericsson AXE10, AUC, FNR
+(ISDN, ISDN PBX, PSTN, PSTN PBX, SCCP Services)
+iv)Openwave LDAP VMS Cartridge
+v)Motorola PTT R 5.0
+
+Operating System : Windows 2000, Linux/Unix (HP-UX, Sun Solaris)
+
+Relational Database : Oracle 9i.
+
+Languages : C++, Core Java & XML
+
+Special Software : Project 2000, Rational clear quest, Rational clear case.
+
+Work Location(s) : MEPZ – Chennai.
+
+Career Profile
+2003 Onwards : INDIA COMNET INTERNATIONAL
+
+Title : OBJECTEL
+
+Client : Metasolv Inc., USA.,
+
+Period : Jan 2003 – Nov 2003
+
+Position : Sr.Software Engineer
+
+Responsibilities : Analysis, design, construction and testing Objectel development.
+
+The Project : Objectel is an inventory tracking application designed to
+assist telecommunication service provider and network engineers to document the equipment used in providing data and voice communications and in creating facilities and assigning customer circuits.
+
+Operating System : Windows 2000, HP-UX,Sun Solaris, WIN2K.
+
+Relational Database : Oracle 9i.
+
+Languages : VC++, MFC
+
+Special Software : Project 2000, Rational clear quest, Rational clear case.
+
+Work Location(s) : MEPZ – Chennai.
+
+Career Profile
+2000 Onwards : TATA CONSULTANCY SERVICES
+
+Title : USAA Policy Administration System – New
+Member Quote
+
+Client : United Service Automobile Association
+
+Period : June 2001 – Dec 2002
+
+Position : Analysist Programmer
+
+Responsibilities : Party and Agreement component analysis, design,
+Construction and Testing.
+
+The Project : The Policy deals with the issue of a USAA Quote/Policy for the fresh member. Party component development involves collection of the details of a party who is involved in the Quote/Policy. The personal details, discount details and driving history details of a party are collected from the user and stored into Database.
+
+Operating System : OS 390, Windows NT, Unix
+
+Languages : C++, Q++
+
+Special Software : Master Craft, DB2.
+
+Work Location(s) : TCS – Ambattur.
+
+Career Profile
+2000 Onwards : TATA CONSULTANCY SERVICES
+
+Title : Target – Guest Database
+
+Client : Target Corporation Inc., USA
+
+Period : Nov 2000 – May 2001
+
+Position : Programmer
+
+Responsibilities : Development, Test plan, Implementation,
+And documentation.
+
+The Project : Target Corporation holds a tremendous amount of information about one of its largest assets – its guests – in many fragmented structures. The Guest Database project will integrate these databases to enable rapid deployment of guest-centric business initiatives in marketing, brand management, E-commerce, guest service, merchandising, credit risk management, and asset protection. This proposed solution also provides the tools required to effectively comply with privacy laws and to enforce our enterprise opt-in/opt-out policy across all operating companies and channels.
+
+As a part of this, we have implemented Gift Registry to extract and load the customer data. This includes the life event detail, items and quantities registered for, status of registry, items purchased to date. This data is available from Target and the Department Stores
+
+Hardware : PentiumPro PC, Tandem
+
+Operating System : Windows NT, Unix
+
+Languages : C++, Pro C
+
+Work Location(s) : Minneapolis, MN-USA.
+
+PERSONAL DETAILS
+
+Date of Birth : July 09th 1972
+
+Sex : Male
+
+Nationality : Indian
+
+Marital Status : Married
+
+PASSPORT DETAILS
+
+Passport No. : F 0667196
+
+Issued At : Trichy
+
+Issued on : 24-09-2004
+
+Valid Upto : 23-09-2014
+
+Contact this candidate

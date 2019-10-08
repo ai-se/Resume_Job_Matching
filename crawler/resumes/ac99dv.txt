@@ -1,0 +1,134 @@
+
+Developer / Analyst / Software Engineer
+
+Experienced programmer, committed to maintaining cutting edge technical skills and up-to-date industry knowledge.
+
+COMPUTER SKILLS
+Languages:
+COBOL, JCL, ECL, IDCAMS, IEBGENER, EASYTRIEVE, INFORMATION EXPERT (IE), CICS, C#, ASP.NET, ADO.NET, PL/SQL, SQL SERVER, IMS, CLIPPER 5, BASIC, JAVASCRIPT, FILE-AID,ZEKE
+
+DBMS:
+VSAM, SYSTEM 2000 (S2K), ORACLE (10g), PL/SQL, SQL SERVER (2008 R2), DB2(v10)
+
+Operating Systems:
+DOS, WINDOWS, OS390, z/OS, EXEC-8, WWMCCS (GCOS-8)
+
+Software:
+GEAC (formerly DUNN & BRADSTREET): MARS/G (E-Series)
+MICROSOFT: OFFICE SUITE 2007/2010, VISUAL STUDIO (2005/2008/2010), SQL SERVER MANAGEMENT STUDIO (2008 R2)
+
+Hardware:
+IBM: PC, 360/30, 360/40, 3081, 4341, 370, OS390, Enterprise Server
+Sperry: Univac -1100
+Honeywell: DAS-6
+
+EXPERIENCE
+
+Software Developer, Staff
+FISERV
+Dublin, OH
+Dec 2015 – Feb 2019
+Provide analysis, research, design and development of enhancements to the Fiserv Payment processing platform.
+Work with the Development Architect during the technical analysis, design, and build process.
+Write technical specification documents and develop code to create software that meets the requirements of the Technical Design documents.
+Ensure timely delivery of programming requirements based on project schedules.
+Work directly with SQA (Software Quality Assurance) teams to provide support and defect resolution.
+Respond to and resolve any defects found during testing, in an efficient and timely manner.
+Provide off hours coverage to support production of assigned systems solving system and application problems in an on-call rotation.
+Platform: OS390
+Skills used: COBOL, CICS, TSO, DB2, SQL,CA ENDEVOR
+
+Software Engineer/Contractor
+JS2 System Solutions
+Columbus, OH
+Apr 2012 – Sep 2015
+Primary responsibilities include: development of a proprietary inventory asset tracking and management system software, (JS2scan), for RADIO FREQUENCY IDENTIFIER (RFID) tags and/or BAR CODE labels, for MOTOROLA MC9090 and MC9190 scanners.
+Assisted in the installation and training of new customers in the use of the JS2scan software.
+Also began development of a proprietary job safety and compliance management software, (SCMS).
+(Worked as contractor from Jul 2015 – Sep 2015, after having been laid off due to lack of funds.)
+Platform: PC
+Skills used: C#, VISUAL STUDIO 2008/2010, ASP.NET, ADO.NET, SQL SERVER, OFFICE SUITE
+
+Contractor
+Harris, Mackessy & Brennan (HMB), INC.
+Columbus, OH
+Jun 2011 – Mar 2012
+Primary responsibilities include: maintenance and assisting in enhancing the DISTRIBUTION INFORMATION SYSTEM (DIS), for COLUMBIA GAS, by adding/removing, cities/states, to/from processing within the system, as needed.
+Assisted in the modification and testing the WORK MANAGEMENT SYSTEM (WMS) and WORK LABOR SYSTEM (WLS), by introducing MASSACHUSETTS as a client and duplicating the IMS processes using DB2.
+Platform: IBM 370
+Skills used: COBOL, IMS, DB2, VSAM, IDCAMS, IEBGENER, FILE-AID, XPEDITER
+
+Senior Programmer Analyst
+Pima County Treasurer’s Office
+Tucson, AZ
+Apr 2005 – Mar 2010
+Primary responsibilities include: assisting in the design and development of the TREASURER'S CASH MANAGEMENT SYSTEM (TCMS), a WEB-based banking transaction system.
+Performed extraction, validation and transformation of COUNTY CHECK data, from ENTERPRISE SERVER, in preparation for input to the TCMS.
+Act as liaison between FINANCE and TREASURER departments, for MAINFRAME-to-PC platform data interfaces/processes—and problem resolution.
+Perform testing of WEB applications, both new and existing, for functionality and validity of data.
+Provided 24-hour on-call support of batch jobs belonging to the PIMA COUNTY TREASURER'S department.
+Platforms: PC, ENTERPRISE SERVER
+Skills used: C#, VISUAL STUDIO 2005, ASP.NET, ADO.NET, PL/SQL, ORACLE, TOAD, COBOL, JCL, VSAM, IDCAMS, IEBGENER, EASYTRIEVE
+
+Senior Programmer Analyst
+Pima County Finance Office
+Tucson, AZ
+Feb 1996 – Apr 2005
+Primary responsibilities include: maintenance and support of county's vendor-supplied financial management system (FMS) software, MARS/G E-Series, to include testing and implementing required system upgrades.
+Developed, enhanced and tested existing finance programs to incorporate Y2K.
+Developed ad hoc report programs to assist the finance accountants in balancing daily, monthly and/or yearly totals.
+Provided 24-hour on-call support of batch jobs belonging to the FINANCE department.
+Provide guidance to junior programmers in working with the FMS.
+Implemented yearly tax updates to finance programs—for printing 1099 forms.
+Platforms: IBM 3081/4341/Enterprise Server
+Skills used: COBOL, JCL, VSAM, IDCAMS, IEBGENER, INFORMATION EXPERT (IE), CICS, EASYTRIEVE
+
+Programmer
+Pima Health
+Tucson, AZ
+Oct 1995 – Feb 1996
+Created OB-GYN client tracking program, for tracking clients' personal data, replacing manual tracking processes.
+Assisted in the design, and creation of the Early Periodic Screening, Diagnosis, and Treatment (EPSDT) system used to track child immunization data.
+Platform: PC
+Skills used: Clipper 5.x
+
+Computer Operator
+Pima County
+Tucson, AZ
+Sep 1994 – Oct 1995
+Operated mainframes and peripheral equipment to process business, scientific, engineering, and other data, according to operating instructions.
+Observed peripheral equipment and error messages displayed on monitor of terminal to detect faulty output or machine stoppage.
+Cleared equipment at end of operating run and reviewed schedule to determine next assignment.
+Recorded problems which occurred, such as down time, and actions taken.
+
+Software Analyst
+U.S. Army
+Brunssum, Netherlands
+Nov 1988 – Sep 1992
+Developed the GEOGRAPHICAL MAPS INVENTORY SYSTEM (GEOSYS), used for reporting top-secret data, pertaining to strategic war-time geographic map reserves.
+Designed and implemented an automated system to calculate body weight-to-body fat ratio, to determine if a soldier met organization's standards--thereby replacing the existing manual system, resulting in faster and more accurate computations. Received official recognition for skill and initiative.
+Platforms: PC, HONEYWELL DAS-6
+Skills used: BASIC, dBase IV, COBOL, ECL
+
+Programmer Analyst
+U.S. Army
+Fort Sheridan, IL
+Jul 1983 – Nov 1988
+Designed and created the RECRUITER STRENGTH system, for assessing the number and type of recruiters on-hand--versus those authorized.
+Designed and created the confidential RECRUITER IMPROPRIETY system, for tracking the type improprieties of those recruiters who use less-than-honorable methods of recruiting.
+Converted and redesigned the in-house employee workload tracking system from BASIC-- to COBOL.
+Trained four computer interns in structured COBOL programming development.
+Platform: Sperry UNIVAC 1100
+Skills used: COBOL, EXECUTIVE CONTROL LANGUAGE (ECL), SYSTEM 2000 (S2K)
+
+EDUCATION
+
+Programmer Analyst Course
+Ft Benjamin Harrison, IN
+(Army ) Certification - Structured COBOL Programming
+
+Computer Machine Operator Course
+Ft Benjamin Harrison, IN
+(Army) Certification - IBM Computer Operations
+
+Contact this candidate

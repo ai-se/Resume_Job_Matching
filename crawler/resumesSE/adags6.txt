@@ -1,0 +1,358 @@
+
+David Masamitsu, MS.
+***** ** **** ** #*** Lake Forest, CA 92630 818-***-**** adags6@r.postjobfree.com
+https://www.linkedin.com/in/davidmasamitsu
+
+Proven leadership of IT strategy, development and infrastructure Departments, Professional Services PMO departments, enterprise initiatives, programs and projects. Extensive experience in the high tech industry as a product marketing manager, technology evangelist, developer relations, strategic partnership and alliance manager.
+
+Summary:
+Master of Science and Bachelor of Arts degrees from UCLA
+Six Certifications in Program Management, including Agile, Six Sigma and Lean Methodologies
+Over 25 years of professional leadership experience.
+Experienced Consulting Professional Services Department, Engagement and PMO Manager
+Experienced IT Software Development & Emerging Technologies Department Manager
+Experienced IT Infrastructure Department Manager
+Experienced IT Business Relationship Sector Manager
+Experienced High Tech Industry Technology, Partnership, Evangelism and Alliance Manager
+Experienced IT and Professional Services Senior Program Manager and Senior Project Manager
+
+Core Competencies:
+Program Management Office creation & excellence
+eCommerce, supplier/dealer/provider/customer portal systems
+Agile & other SDLC Project Management Methodologies
+IT Business Relationship Management
+IT Governance, Data Governance and IT Transformation
+Enterprise IT rollouts
+Compliant and Standardized Electronic Medical, Health & Manufacturing Records Systems and Processes
+IT and Professional Services Engagement and Delivery Management
+IT/PMO/Business Process Improvement and COE
+Corporate Technology Partnership and Alliance Management
+Cloud Computing, Business Process Optimization, Business Process Outsourcing and Change Management
+Due Diligence and IT Transition projects for mergers, acquisitions and divestitures
+Master Data Management (MDM) and EMPI
+Call Center Projects
+Manufacturing Execution Systems (MES)
+Loan Origination Systems (LOS)
+
+Professional Experience
+
+SENIOR PROGRAM MANAGER (CONTRACT)
+2011
+PRESENT
+(Client List Below)
+
+CLIENT LIST
+
+Prospect Health
+2019
+Current
+Endologix
+2018
+
+Western Digital
+2016
+2017
+Edwards LifeSciences
+2015
+
+First American Financial
+2013
+2014
+Blue Mountain Labs - St Joseph Health
+2012
+2013
+Kaiser Permanente
+2011
+2012
+
+Full lifecycle Agile, Iterative, Six Sigma/Lean, Waterfall, CMMI. Oracle AIM 3.X and 1200 VC project management. Estimate, scope, propose, plan, direct and manage implementation, migration, integration, standardization, decommission, upgrade, data governance, process governance, unification and harmonization projects. Manage business SMEs, developers, vendors, architects, analysts, QA and technical teams performing development, integration, cloud integration, implementation and harmonization of systems and processes for these types of projects: ERP systems, Manufacturing Execution Systems (MES), enterprise Master Data Management (MDM), product engineering version and release control, SalesForce/CRM, data warehouse integration, BI, OLAP Analytics, HRIS/HCM, Admissions/Clinical/Electronic Medical Records (EMR), LMS, SOA integration, High Performance Computing (HPC), legacy and SaaS/PaaS cloud systems using the Amazon Web Services (AWS), Microsoft Azure, Cycle Computing, Oracle Fusion, Oracle Cloud, Oracle JD Edwards Enterprise One, QAD, Ceridian, Informatica and other vendors.
+
+(Client) Prospect Health (Through R4 Solutions)
+2019
+
+Lead Strategy Advisor: Enterprise Master Data Management and Data Governance Initiative
+Lead Strategy Advisor: Enterprise Master Patient Index (EMPI) and Data Governance Initiative
+Lead Project Advisor: Cerner HealtheIntent MDM/Master People Management Technical Review
+Lead Project Advisor: Hart Platform EMR and Migrations for Cerner HealtheIntent Project
+IT Strategy and BPI: February and March 2019 IT Reorganizations at Prospect
+IT Strategy and BPI: March and April 2019 IT Development Operations and Agile Scrum Methodologies Assessment
+IT Strategy and BPI: 2019 IT Process Improvements and Standard Agreements for Managing Service Vendors
+PM for Enterprise Payroll, Timekeeping, Benefits Integration Project with the Oracle Cloud ERP Program
+PM and Advisor: Enterprise EDI, SFTP and Managed File Transfer Initiative
+
+Technologies: Windows 10 Allscripts suite, Allscripts Paragon, ADL Data Optimum, Cerner Millennium, HealtheIntent, Cerner/GE Unity, Cerner/Siemens MedSeries4, Oracle Cloud, Ceridian HPW, DayForce, Kronos suite, Hart Platform, Occam eMPI, Gaine Solutions, Nextgate, NextGen MIRTH Connect, IDX, eClinicalworks, API suite, ADP suite, PeopleSoft 9.x.x, Sage MAS. Microsoft Azure DEVOPS, Visual Studio Team Services, Team Foundation Server (TFS), PowerBI, Office 365, SQL Server 2000-2016, MS Project 2016/Online, IBM Storage Area Network, OpenText+ Liaison. Methodologies: Waterfall, Scrum, ITIL V2/V3 and Lean Six Sigma.
+
+(Client) Endologix (Through Square-1)
+2018
+
+PM for One QAD (ERP Unification) Program
+One QAD – Product Order Form (POF) SalesForce Integration
+One QAD – Warehouse Management System (WMS) Integration
+One QAD – Item Master Harmonization
+One QAD – Manufacturing Execution System (MES) Integration
+One QAD – Sunset QAD 2009 (decommissioning)
+One QAD – QAD Upgrade
+PM for Next Generation MES Project
+PMO Process Excellence Projects
+IT Strategy and BPI: PMO Lessons Learned Standard Methods
+IT Strategy and BPI: IT and Engineering Documentation Standard Processes
+IT Strategy and BPI: PMO Steering Committee Project Health Reporting Standards
+
+Technologies: Windows 7 ENTERPRISE SP1, QAD 2009 Enterprise Edition, QAD 2011 Enterprise Edition,
+Progress replication services for QAD, SALESFORCE.COM (SFDC) CRM Classic, Boomi ETL, Pervasive ETL, Microsoft Office 365, Microsoft Office Professional 2013, Microsoft Project Professional 2013, Microsoft Visio Professional 2013, Microsoft Skype for Business 2015, Microsoft SharePoint Server 2013 Enterprise, MasterControl 11.x, Endologix Internal MES, Crestron AirMedia, iCIMS, ULTIPRO, SAP CONCUR travel, expenses/invoices, COUPA procure to pay, Trackwise, Apple IOS 10.X/11.X. Methodologies: Waterfall, Iterative and Lean Six Sigma.
+
+(Client) Western Digital (Through Catena Talent)
+2016
+2017
+
+Full lifecycle waterfall and Agile project management for Engineering Version and Revision Control migration project for the Secure Software Development Factory (SSDF) Initiative, SNOWBIRD product engineering support and several Windows and LinUX based High Performance Computing (HPC) projects using the Amazon Web Services (AWS) cloud and Cycle Computing.
+
+PM for ACCUREV Migration and SSDF Project
+PM for SNOWBIRD Support Project
+PM for RSECC Deployment to AWS Project
+PM for SNOW-PY AWS HPC PoC Project
+PM for AWS High Performance Computing (HPC) Projects
+
+Technologies: MS Project 2016, Atlassian Jira Data Center, Confluence Data Center, BitBucket/GIT Data Center, MS Office 2016, MS Office 365, Visio Professional 2016, FireFox, Safari, Chrome, Adobe Acrobat DC 2016, Windows 8.1 Enterprise, Windows 10, Amazon Web Services (AWS) HPC, Cloudability, MicroFocus ACCUREV, Box, Box Tools, Box Sync, Connect, Red Hat LinUX 6.5/6.8, Network Computer (NC), HP Enterprise Proliant DL360 Gen 9 and Cisco UCS data center servers and storage systems, Apache SubVersion 1.9.5, Cisco AnyWhere, Cisco Connect, Cisco Jabber, VIP Access, Exceed OnDemand, Quest Authentication Services QAS/VAS. Methodologies: Waterfall and Agile Scrum, WD internal product engineering methodologies.
+
+(Client) Edwards Lifesciences (Through Outsource Technical)
+2015
+
+Full lifecycle waterfall and Agile project management for the Edwards Finance Forward 2017 Enterprise Data Governance project.
+
+PM for Enterprise Data Governance Project
+PM for Master Data Management (MDM) Project
+
+Technologies: MS Project 2010, MS Project OnLine, Atlassian Jira, Confluence, PPMLite Roadmap, MS Office 2007, MS Office 365, Visio 2010, Internet Explorer 9, Adobe Acrobat 9, Windows Server 2000-2012, SQL Server 2005-2012, Office Communicator 2007, JD Edwards Enterprise One V.9.X, SAP Business One V8.8X, Oracle 8i, Oracle 9i, Oracle 10g, Oracle 11g, Oracle Clinical V4.6, Oracle Datamart Suite, Cognos, QlikView, SharePoint 2010, MS SSAR, MS SSRS, Informatica 8.6, Oracle HFM 11.1.1.2, SAP BPC V.7.5 (Everest), DataFlux, SAS V9.X, Windows 7, Windows 8.X, Visual Studio 2008 Pro, IOS, Apple iPad, Minitab V16.X, Kronos, Kronos DR, Everest BPC 4.X-7.X, LanDesk PeopleSoft, PeopleTools, SalesForce, SABA 5.5 LMS, SumTotal LMS, Loftware 7.X-9.X. Methodologies: Waterfall and Agile SAFe.
+
+(Client) First American Financial (Through Prelude Systems)
+2013
+2014
+
+Full lifecycle project management. Estimate, scope, propose, plan, direct and manage implementation projects and technical teams performing development and implementation of an enterprise master data management, data governance. Projects represented the 2013, 2014 and 2015 rollouts of Oracle MDM for the Direct, Mortgage Services, NPS, NCS and RLA national Divisions and Regions, plus a separate project for MDM data warehouse hierarchy implementation. Deployments to 20,000 users.
+
+Technologies: Oracle 11g, Oracle 12c, Oracle Fusion R3-R8, Fusion MDM, Fusion Procurement, Fusion Financials, Oracle EBS Financials, Oracle e-Business Suite Enterprise Service Bus (EBS SOA), Fusion Middleware 11.X, Fusion MDM, Fusion Governance and Compliance, Oracle CRM Sales Cloud, Oracle HCM, Oracle OnDemand Cloud Services, Informatica ETL, Informatica DQ 9.X, SQL Server 2008, MS Project Professional 2010, MS Project Server 2010, .NET, Microsoft Office Professional 2010, Internet Explorer 8, SharePoint Workspace 2010, Windows 7, Windows 8.1, Apple IOS and Android mobile clients, Microsoft Team Foundation Server 2013 for Agile and CMMI, STAT, Cisco VoIP, Microsoft Lync 2010, Captaris RightFax 9.X. Methodologies: Waterfall, CMMI, 120 VC, Oracle AIM 3.X, ITIL V2 and Agile Scrum.
+
+(Client) Blue Mountain Labs –St Joseph Health (Through Core IT Medical)
+2012
+2013
+
+Full lifecycle project management. Estimate, scope, propose, plan, direct and manage implementation projects and technical teams performing development and implementation of an enterprise master patient index, master data management, data governance, of patient. Projects were part of the Data Driven Initiative (DDI) for St Joseph Health – a project to (a) standardize the medical records platforms and reduce 3rd party applications variability in SJH, (b) implement enterprise master data management, data governance and an enterprise master patient index, (c) migrate to cloud computing, implement PaaS, SOA technologies and (d) position for application independence and big data. Deployments to 8,000 users.
+
+PM for Enterprise Master Patient Index (EMPI) / Master Data Management (MDM) Project.
+PM for BML support of SJH Initiate Implementation Project
+PM for BML Analytical Support for MediTech Standardization Project
+PM for BML Analytical Support for Admissions, Revenue Cycle, Medical Records Process Standardization
+
+Technologies: Microsoft .NET, Windows 2003/2008/2012 Server, MediTech Magic – MediTech 5.6.6, Intersystems HealthShare Foundation/Community, Intersystems Ensemble, IBM Initiate 9.5, MS SQL Server 2008, Active Directory, Microsoft Amalga, IDX Systems, Red Hat Enterprise LinUX 6.2, AllScripts, Explorys, Hadoop Big Data, Patient and Provider portal systems for meaningful use (MU), health information exchange (HIE), Tomcat V7, CSS3, HTML5. Methodologies: Waterfall, Lean, Agile XP and Agile Scrum.
+
+(Client) Kaiser Permanente (Through Rose International)
+2011
+2012
+
+Full lifecycle program management. Estimate, scope, propose, plan, direct and manage implementation projects and technical teams performing development and update to the data warehouse projects for Pharmacy, Medical Care and Finance Portfolios. Deployments to 168,000 employees.
+
+PM for ICD-10 data warehouse projects for CMS/HHS mandates, HASP and SOX Compliance.
+PM for Care Delivery Portal rearchitecture project
+oIncluding rollout and support for Windows 7, Windows XP, iPad and Citrix support.
+PM for Complex Case Management System
+PM for CarePOINT – ROCS (multi-regional)
+PM for Care Management Tracking System (CMTS)
+PM for Care Management Institute - CMI ElderCare, High Risk RX and other CMI applications
+
+Technologies: Microsoft .NET, Windows 2003 Server, LinUX 2.6.18-194.e15.05, Oracle 11.2.0.2, Oracle Real Application Cluster (RAC), Java, JBOSS, Teradata, CA Niku Open Workbench/RPM, CA Clarity, WebLogic, EPIC, HP Quality Central, CaliberRM, various ETL tools. Methodologies: Waterfall, CMMI, Six Sigma, Agile Scrum.
+
+SENIOR PROGRAM MANAGER
+2008
+2011
+Apriso Corporation
+Long Beach, CA
+
+Senior Program Manager – Apriso Americas Professional Services Division. Full lifecycle program management. Estimate, scope, propose, plan, direct and manage Apriso professional services implementation projects and technical teams performing development, implementation and configuration of the FlexNet Manufacturing Execution System (MES) for Apriso’s Fortune 500 clients, especially Pharmaceutical, Medical Device Manufacturing and Aerospace & Defense Clients with 21 CFR 11/820, Sarbanes-Oxley, SAS and other compliance and audit requirements. Act as engagement manager. Author proposals, develop and critique requirements and designs. Select project team, direct and manage development. Manage relationships with customer. Establish and manage project change control process. Contribute to Apriso internal process improvement through the creation of tools and standard operational processes. Manage development and implementation teams integrating with Oracle ERP, PeopleSoft ERP, SAP and JDE ERP systems, MRP, financial and PLM systems enabling real-time eCommerce, supplier and dealer portal integration, ERP update, JIT supply chain and standard enforced workflows. Deployments included support for rollouts and validations under Windows 7, Windows XP, Windows 2000 and Windows CE clients. Managed internal staged international rollout of Windows 7 at Apriso.
+
+Developed a professional services estimation tool for project scope, timeline, charge and cost estimation for use by presales solution engineers, allowing a solutions engineer do in minutes what used to require a week of team meetings.
+oEstimated average cost savings of $14,750 per estimation ($737,500/year) and estimated average recovery of lost billable time of $30,400/estimate ($1,520,000/year).
+oTool demonstrated an average accuracy of +5% from historical project actuals.
+PMO Department Creation and Excellence
+oDeveloped and delivered MS Project training for PMs and Technical Leads
+oDeveloped other standard automated tools and Standard Operational Practices:
+Presales tool for standard Training quotations
+Standard Labor Plan with margin and travel estimation
+Standard Project Status Report
+Standard Leadership reporting charts (quad, burn rate, etc)
+Managed first Apriso projects using Agile methodology, and first mentored client engagements.
+
+Technologies: Apriso FlexNet 9.4 – 9.X. XML, Javascript, integration using SAP Business Connector 4.7, SAP PI, SAP XI, SAP NetWeaver ECC 5/6, SAP R/3 4.7, Microsoft BizTalk + MSMQ, IBM MQ, Apriso SAP Adapter (Business Integrator), Oracle Fusion, Software AG (WebMethods), IDOCs, BAPIs, RFCs, SOAP, Oracle 10g, Oracle 11g, Microsoft .NET 3.5 SP1, Windows Server 2003/2008, Microsoft SQL Server 2005, 2008. SharePoint Server 2008. Windows CE 5.0/6.0, Windows Mobile 5/6/6.1, Windows XP/Vista/7, VMWare Infrastructure 3, VMWare vSphere 4, Service Oriented Architecture (SOA), cloud computing, offshore resourcing, business process management, Software as a Service (SaaS), business process outsourcing. PL/SQL, ANSI SQL, SQL*Plus, Citrix Zen and Thin Clients. Methodologies: Apriso FAST, Accelerated SAP (ASAP), Waterfall, CMMI, Agile XP, Six Sigma and Spiral Design iterative.
+
+TECHNOLOGY PROGRAM, PROJECT & PRODUCT MANAGER (CONTRACT)
+2002
+2008
+(Client List Below)
+
+CLIENT LIST
+
+Northrop Grumman Corporate
+2007
+2008
+New Century Mortgage/Home 123
+2004
+2007
+Northrop Grumman Space Technology Division (Aerospace Systems)
+2003
+2004
+Microsoft Corporation
+2003
+
+Arrowhead Lake Association
+2002
+
+Outdoor Adventure River Specialists (O.A.R.S.) Companies
+2002
+
+(Client) Northrop-Grumman (through AMARX Search)
+Jul 2007
+2008
+
+Project Manager – Real Estate Management System (REMS): COTS deployment with extensive customizations by vendor. Rescue corporate sector project left behind by two other PMs who were dismissed. Manage vendors and multisector participants. Rebaseline and rebudget project. Deployment planning for Windows XP and Windows 2000 validation.
+
+Technologies: XML, J2EE and JDBC integration using WebSphere Java Application Server, SOAP, Oracle 9i and Oracle 10g, TRIRIGA Integrated Workplace Management System (IWMS) 9, Momentum. Methodologies: CMMI, Waterfall, Agile XP..
+
+(Client) New Century Mortgage/Home 123
+Mar 2004
+Jul 2007
+
+Project Manager – Empower! Loan Origination System (LOS) – Phase I Project (Wholesale, Correspondent with EAI/SOA) and Phase II Project (Retail with EAI/SOA), Server Consolidation Project, and VoIP Technology Assessment Project/Technology Section - Call Center Transformation Strategic Initiatives. Program Manager and Technology Advisor to New Century Finance / New Century Mortgage. Manage projects full lifecycle and rescue other projects. Also insure projects pass Sarbanes-Oxley 202 and 404 and internal audits. Work extensively with Data Warehouse, Business Intelligence, Finance and HR on technical requirements, deployment and integration between outsourced systems. Empower deployments were national rollouts for 7000+ users with Windows XP, Windows 2000 workstation and laptop clients and Citrix thin clients.
+
+Technologies: Fidelity Nationwide Finance/Eastern Software Empower! 27.03.03. MS SQL Server 2000-2005 with DTS, Visio 2002/2003, Red Hat LinUX 7, XML, J2EE/Java2, Windows 2000/2003 Advanced Server/IIS, Windows XP/2000 Professional, Rational Unified process (RUP) and Rapid Application Development (RAD) Methodologies. EMC SAN Symmetrix, Clariion. HP StorageWorks MSAs. HP DL-3xx and 5xx G3, G4, servers. HP Avaya & Cisco VoIP solutions. Ascential/IBM WebSphere Information Integration ETL. Oracle Apps and Oracle 10g data warehouses, VMWare ESX and GSX, VMWare VirtualCenter, PlateSpin, ESX Ranger. NSI DoubleTake. Wyse, HP & Neoware thin client PCs. Verizon wireless networking Epicor Enterprise 7.3.X and Workbench 7.3, Active Directory. Spectrum HRIS. Ceridian. Ariba. Aravo. Emptoris. Cognos., PL/SQL and ANSI SQL. Methodologies: Waterfall, CMMI.
+
+(Client) Northrop-Grumman (through AMARX Search)
+Oct 2003
+Mar 2004
+
+Project Manager – Enterprise Application Integration: eRoom/eMatrix Integration Project. Northrop-Grumman Space Technology. Rescue project transitioned from another PM who left the company. XML, J2EE and JDBC integration using WebSphere ICS XML Hub with CrossWorlds/ICS JDBC adapters to provide credentialed, secure, validated single sign on capability between Documentum eRoom and Matrix One eMatrix collaboration and product lifecycle management systems.
+
+Technologies: WebSphere ICS 4.2, Documentum eRoom, MatrixOne eMatrix, Apache Web Server, MS SQL Server 7 and 2000, Oracle 10g, mySQL, Windows 2000 Advanced Server/IIS. XML, JDBC, J2EE/Java2. Methodologies: Waterfall, Capability Maturity Model (CMM), Rational Unified Process.
+
+(Client) Arrowhead Lake Association
+Jun 2003
+Jul 2003
+
+Technical Consultant for Live Disaster Recovery effort for Arrowhead Lake Association. Conducted comprehensive Strategic IT operations, policies, inventory and systems review for the Board of Directors, Arrowhead Lake Association. Conducted eCommerce critique with phased directional plan for B2B and B2C eCommerce, eBusiness, email, internet/intranet development.
+
+Technologies: Visio 2002, Windows XP/2000 Professional, AS/400 eServer. Various disaster recovery tools, utilities, and data recovery services.
+
+(Client) Microsoft Corporation (through Interop Systems, Inc)
+Jan 2003
+May 2003
+
+Technical Product Marketing Management consultant to Microsoft Corporation from Interop Systems. Authored and created technical product marketing, briefing and training demo materials for Microsoft Windows Services for UNIX 3.0 and Windows Server 2003 High Performance Option.
+
+Technologies: Apache Web Server, MS SQL Server 7 and 2000, Visio 2002, Red Hat LinUX, AIX, Advanced Server/IIS, Windows Services for UNIX 3.0, Windows XP/2000 Professional, AS/400 eServer. Microsoft internal product engineering methodology.
+
+(Client) Outdoor Adventure River Specialists (O.A.R.S. Cos, Inc)
+Jul 2002
+Dec 2002
+
+Comprehensive Strategic, Tactical and Operations, Information Technology, Marketing, eBusiness, consulting. Web presence critique for OARS, Inc. Managed Phase I legacy reservation systems replacement and enhanced B2C and new B2B eCommerce presence for customer facing systems.
+
+Technologies: MS SQL Server 7 and 2000, mySQL, IBM Series/1, Cypher Systems HBX, OmniGraffle, Visio 2002, Red Hat LinUX, Windows 2000 Advanced Server/IIS, FileMaker Server 5, Windows XP/2000 Professional. TourTech Systems TourTools Reservation Systems. Dell Power Edge Servers.
+
+IT MANAGER – eBUSINESS & EMERGING TECHNOLOGIES DEPT
+2002
+
+Pioneer Electronics
+Long Beach, CA
+
+Manager of eBusiness/Emerging Technologies department. Direct multiplatform development teams for B2B and B2C eCommerce, EDI, Intranet and Extranet systems development and mySAP.com web integration. Manage project change process. Member of strategic committee on IT finance and chargeback options. Manage development of dealer portal to SAP and Oracle sales and distribution systems.
+
+Technologies: SAP V.4.5b and 4.6c, mySAP.com SAP Internet Transaction Server, C++, JavaScript, MS Front Page 2002, LDAP & Active Directory, Oracle 9i, Oracle Application Server, SQL Server, Vignette V.5.5.2 / 6, GENTRAN, Visio 2000 & MS Project 2000. NT, AIX, Windows 2000 Server, Windows 2000 Advanced Server/IIS, Windows XP and Windows 2000 Professional. Methodologies: Waterfall, Accelerated SAP (ASAP) and Rational Unified Process (RUP).
+
+MANAGING CONSULTANT – PROJECT AND ENGAGEMENT MANAGER
+2000
+2001
+Xpedior, Inc (also known as MetaMor Worldwide, Sage IT Partners)
+El Segundo, CA
+
+Project Manager for B2B / B2C eBusiness, and ecommerce development projects for Fortune 500 and DOT COM clients. Act as engagement manager on initial customer meetings, author proposals, develop and critique requirements and designs. Select project team, direct and manage development. Manage relationships with Delano Technologies and alliance partners. Manage project change process.
+
+Technologies: BroadVision, IBM WebSphere Commerce Suite, C++, J2EE JavaBeans, JavaScript, Genuity Black Rocket, Blue Martini, iPlanet, XML & Enterprise Component Platform with Xpediorites, Rational Rose. Oracle, SQL Server, Sybase and IBM Database2. Visio 2000 & MS Project. NT, AIX, Solaris, Windows 98 and Windows 2000. OPRA & Harbinger EDI. Methodologies: Xpedior Way/MetaMor & Rational Unified Process (RUP) and Waterfall.
+
+IT BUSINESS RELATIONSHIP PROGRAM MANAGER (CONTRACT)
+1998
+2000
+(Client) DIRECTV (through Volt Technical Consulting)
+El Segundo, CA
+
+Provide strategic and tactical project management of joint venture and advanced development projects, including B2B and B2C internet, extranet, eBusiness, VPN and intranet technology projects. Author and critique vision, requirements, concept and design documents and briefing materials. Hold management briefings. BRG Program & Relationship Manager for Sales, Distribution and Legal (Corporate Affairs) departments. Direct and manage multiple development teams. Assess ROI, perform gap analysis and evaluate projects. Work with SAP team.
+
+Technologies: Netscape Enterprise Server & Commerce Server, MS IIS, Sun NetDynamics, Cold Fusion, ASP, C++, JavaScript, J2EE JavaBeans, Sun Java Web Server, Rational Rose, Oracle 7, 8 and 8I, SAP R4, Access 3 through 2000, MS Visual BASIC, PowerBuilder, Visio 5 Technical and MS Project. NT, Solaris, DEC Alpha UNIX, HP/UX, OS/2, Novell Netware & IntraNetware and various mail server systems including MS Exchange Server. Methodologies: Waterfall, Andersen Method One Methodology, Spiral Design & Rational Unified Process.
+
+TECHNOLOGY EVANGELIST – DESKTOP SYSTEMS HARDWARE
+1991
+1998
+Apple Computer, Inc
+Cupertino, CA
+
+Inbound, outbound and external technology product marketing manager and developer relations manager for all desktop systems hardware and desktop technologies. Brief managers, developers, partners and customers on product technology roadmaps, and develop plans to insure that new technologies are leveraged with concomitant developer products and solutions for enterprise, education, consumer, creative and SOHO markets. Part of engineering and marketing teams. Develop marketing collateral, review PPs, MRDs and ERs, and author EPs.
+
+Technologies: Too many projects and technologies to list. RISC and CISC microprocessors, USB, IEEE-1394, multiprocessing APIs, ASICs, FPGAs, OS/Source Licensing, DVD, mass storage, Fiber-Optic and Wireless. Apple internal product engineering methodology and XP (Pre-Agile Manifesto)
+
+NETWORK CONSULTANT
+1990
+1991
+Ditto Data Consulting
+Palos Verdes, CA
+
+Lead technical consultant for wide area and local area networking and systems integration projects. Responsible for all technical aspects of the project, and serve as project manager-on-site. Work in a presales capacity as a technical advisor during customer qualification. Architect solutions. Author technical portion of project proposals and SOWs.
+
+Technologies: Novell Netware, Banyan Systems Streetalk, 3COM and IBM LAN Manager and LAN Workplace, Cisco, Bay, IBM and Wellfleet Bridge and Router Technologies, Codenoll and Emulex Fiber technologies, others. Waterfall methodology.
+
+NETWORK SYSTEMS MANAGER/MIS WAN SPECIALIST
+1988
+1990
+McDonnell-Douglas Electronic Systems Company
+Monrovia, CA
+
+Systems Manager for wide area and metropolitan area networking infrastructure and systems integration. Responsible for all technical aspects of system development, support and enhancement. Develop information systems plan, standards and growth plan for my systems. Plan, budget, IFB/RFQ, procure and implement. Interview, select and hire personnel. Manage development and system integration teams. Develop integrated data and voice service plan and schedule for buildouts and moves. Tone, BERT and sniff data and voice circuits. Act as primary technical advisor to CTO. Assess ROI, perform gap analysis and evaluate enterprise processes, products and projects. Manage project change process.
+
+Technologies: Oracle 6, Novell Netware, Banyan Systems Streetalk, 3COM and IBM LAN Manager and LAN Workplace, IBM HyperChannel Wireless, SNA/SDLC, VitaLink and Cisco bridge and router technologies. Nortel (Northern Telecom) Voice. Sniffer, Fireberd, LANalyzer. Cameleon, Codenoll Fiber technologies with fusion bonding. Applications written in C++, Assembler, Clipper, many others. Waterfall and SDDS methodologies.
+
+SENIOR AUTOMATION SYSTEMS ANALYST, SPECIALIST
+1985
+1988
+Northrop Corporation – Aircraft Division - Engineering Support Systems
+Hawthorne, CA
+
+Manage development and system integration teams. Evaluate needs, potential solutions and products. Architect solutions. Design projects, write proposals, develop automation systems plans and budgets, and select personnel for engineering and manufacturing engineering automation projects. Lead project automation and development teams. Create and test design logic for simulation software. Write & document code, develop & implement system test plans. Assess ROI, perform gap analysis and evaluate enterprise processes, products and projects. Manage project change process.
+
+Technologies: Oracle 4, Oracle 5, IBM Database 2, Novell Netware, Banyan Systems Streetalk, 3COM and IBM LAN Manager and LAN Workplace, IBM HyperChannel Wireless, SNA/SDLC, VitaLink and Cisco bridge and router technologies. Applications written in C/C++, Assembler, PL/I, FORTRAN, COBOL, many others. Methodologies: Waterfall and Horizon SDSS, Spiral Design and FP iterative.
+
+INDEPENDENT CONSULTANT (CONTRACT)
+1984
+1985
+User Support Services, Inc
+Mission Hills, CA
+
+Lead project technical consultant for systems integration customers. Responsible for all technical and implementation aspects of the project, write and document code, and implement integration test plans. Work in a presales capacity as a technical advisor during customer qualification. Architect solutions. Author technical portion of project proposals and SOWs.
+
+CONSULTANT SYSTEMS AND POLICY ANALYST
+1983
+1984
+Arkansas Department of Health
+Little Rock, AR
+RESEARCH ASSOCIATE (Faculty Position – Concurrent With Above)
+
+University of Arkansas, Little Rock - Graduate Program in Health Administration
+Little Rock, AR
+
+Technical Consultant to various agencies and segments of the Arkansas State Government, including the Office of the Governor. Assess capabilities, plans and infrastructure to maximize agency missions and projects success rates. Analyze ISPs, project proposals, projects, IFBs/RFPs and directions. Teaching responsibilities at UALR Graduate School and UAMS Medical School.
+
+PROJECT ASSISTANT III
+1980
+1982
+UCLA Institute for Social Science Research
+Los Angeles, CA
+
+Project Lead Analyst for Evaluation Unit – Survey Research Center. Design and create simulation software, computer assisted RDD survey research software, and database reporting and analytical software. Also attached to Robert Wood Johnson Foundation National
+
+Contact this candidate

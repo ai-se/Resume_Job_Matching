@@ -1,0 +1,212 @@
+
+Resume of Md.Suhail Anwar Page *
+MOHAMMAD SUHAIL ANWAR
+adageq@r.postjobfree.com linkedin.com/in/mohammad-suhail-anwar 203-***-****
+• Over 16 years of work experience of which 14 years of ERP experience in Oracle JD Edwards and SAP, as Supply Chain & Finance Architect and Senior Consultant.
+• Around 3 years of work experience in SAP MM Module. Accomplish successful rollout in one of the region for Revlon. Build JDE & SAP interfacing for complete supply chain.
+• Support and Maintenance of SAP MM
+• Interface Development & Maintenance between SAP & JDE in the area of supply chain.
+• JD Edwards Functional Experience includes Implementations, Upgrade, Support & Maintenance, Customization, Menu setups, Global Rollout, etc., in the following modules Manufacturing, Sales & Distribution, EDI, Planning, Costing, Purchasing and Integration with other advancing planning, Plant & Equipment Maintenance, Inventory, Purchase and Finance. Interfaces with SAP and other packages.
+• End to End Managing Supply Chain Global process involving different ERPs, demand and forecasting packages and reporting packages Like JDA,Demantra,Insight.etc.
+• Strong domain knowledge and experience in manufacturing, C&IP industry, Process industry,Having experience of working in different countries/geographies, both onsite and offshore, support and implementation, also coordinating & managing offshore and onsite team along with customer coordination & Leading the team.
+• Worked extensively on global support, maitenance and improvement of JD Edward system from Xe to 9.1 as internal employee and as well as consultant in the area of Supply Chain.
+• Involved in 4 full life cycle JDE implementation, with experience starting from analysis of the requirements to JDE modules and providing appropriate solutions after Gap Analysis; implementing the same as per TO BE documentation and process model and providing the work around solutions.
+• Imparting training to the end users and training the trainers and creation of different user guides(super-user, end-user), for new objects doing the requirement gathering, preparing functional specifications, testing the objects developed by developers, etc.
+• Involved in preparation of RFP’s (Implementation and Upgrade to 9.0 & 9.1).
+• Good team player with business maturity, an effective leader with strong communication, analytical, relationship management and coordination skills.
+• JD Edwards Enterprise One 9 Manufacturing Certified Implementation Specialist.
+And OPN Certified On:
+PROFESSIONAL SUMMARY
+Resume of Md.Suhail Anwar Page 2
+Oracle JD Edwards Enterprise One-Supply Chain Management-Distribution Implementation Consultant.
+Oracle JD Edwards Enterprise One-Supply Chain Management-Manufacturing Implementation Consultant.
+• Having bachelor of engineering degree in mechanical with distinction. And worked as a production engineer in an automobile industry.
+• JDEdwards Xe to 9.1, EDI, Z Process, Interfaces.etc.
+• SAP MM, SAP Soloman
+• JDA-Manugistics
+• BI- Insight
+• Sharepoints
+• SQL-Toad
+• Interspec, Agile, DSI
+Work/Project : Support, Maintenance & Improvement-JDEdward 9.1 And SAP- Supply Chain
+Role : Architect BSA- Global Supply Chain & Finance Duration : May 2015 – Till Dates
+Environment : JD Edwards E1 9.1, SAP, SQL, BI, Manugistic-JDA, Sharepoint.etc.
+Project Scope & Responsibilities :
+Current Employer is a multinational cosmetic company, it is recognized worldwide for innovative beauty products, technology driven skin care, trendsetting makeup and distinctive perfumes.
+Role: Manufacturing, Supply Chain & Finance Architect BSA. Taking Care of smooth running of all day to day process in global supply chain area. Performing continuous improvement in system based on process improvement in area of supply chain such as MDM, PDM, SFC, Manufacturing Costing & Accounting, Planning, and Procure to Pay, Inter and Intra company activities, Sales, All AR and AP postings. GL reconciliation. And Integration with SAP & JDE.
+Key responsibilities:
+PROFESSIONAL EXPERIENCE
+Employer: Revlon Inc.(Elizabeth Arden Inc.)
+Date From: 05/01/2015
+Date To: Present
+Technical Skills/ Packages
+Resume of Md.Suhail Anwar Page 3
+• Make Sure of smooth running of JD Edward system in the area of supply chain.
+• Last 3 years working extensively in SAP MM Module. Accomplish successful rollout in one of the region for Revlon. Build JDE & SAP interfacing for complete supply chain.
+• Make sure the production, procuring, inventory, quality interfaces between JDE & SAP works fine. And develop any new business changes incorporated in the existing interface design.
+• Fixing any issue user faces in JD Edward system in supply chain area either by training the user (if User error) and fixing data either through front end or back end with SQL process.
+• Create SQL scripts for fixing the data and reporting purposes.
+• Conduct Business Meeting to gather requirements need to fix root cause in the system and also to gather new requirement from Business.
+• Perform fit gap analysis, Validation of business requirement, suggestion to Business how system can help to improve the business process in supply chain area.
+• Conversion of validate requirements into projects, performing full project management from kick of project to implementation of it and support the change.
+• Steps like Approval of project, Writing & approval of functional specification, working with developer, Unit testing to User acceptance testing, Creation of any training documents, User manual updating. Etc. And Make sure the availability of changes in production.
+• Prepare the Functional specification document’s as per process design need and new reports needed to be developed
+• As it is a highly customize JD Edward system and complexity of process. One of the very important responsibilities is to make sure the change is well integrated with existing process without impacting any other integration.
+• Creation of SQL Scripts for reporting purposes (Case to Case basis) and also fixing the Data.
+• Making Sure to have proper integration of JD Edward with other supply chain related systems like Manugistic, BI.etc. And if any problem occurs find the root Cause and fix it.
+• Helping the Manugistic Team, BI Team to get any changes needed by them for process improvement or reporting purposes.
+• Any projects or changes should be followed as per the Internal IT Process to have proper documentation.
+• All Accounting activities related to AP, AR and GL done perfectly. Like Procure to Pay, voucher matching (VMA), Sales update, revenue recognition, Controlling account reconciliation, DMAAI & AAI configuration control for new changes.
+Project 1 : Implementation of JDE E1 9.1
+Employer: DELOITTE CONSULTING LLP (USA)
+Date From: 05/23/2014
+Date To: 04/30/2015
+Resume of Md.Suhail Anwar Page 4
+Elizabeth Arden (Global)
+Role : Senior Specialist
+Duration : May 2014 – April 2015
+Environment : JBA (Legacy systems) to JD Edwards E1 9.1
+Project Scope & Responsibilities :
+Client is a multinational cosmetic company; it is recognized worldwide for innovative beauty products, technology driven skin care, trendsetting makeup and distinctive perfumes. It deals with high end cosmetic products across the globe. Implementation and Upgrade of JD Edward Enterprise One 8.12 to 9.1 and replacing legacy system (JBA).
+Role: Manufacturing and Supply Chain Senior Functional Consultant. Taking Care from design to Implementation in areas of supply chain such as MDM, PDM, SFC, Manufacturing Costing & Accounting, Planning, and Procure to Pay. Key responsibilities:
+• Understand the business requirements and conduct the AS IS analysis and understanding the required Model.
+• Preparation of TO BE Process, and GAP Analysis and fitment of the GAP. Based on their existing JD Edward systems and also their legacy systems used across the globe.
+• Prepare the List of FRICEE elements based on above details.
+• Work on eshare for project works from project docs, design docs, fricee, change request, defects, testing, and training. etc.
+• Prepare the Functional specification document’s as per process design need and new reports needed to be developed
+• Implementation of modules like Manufacturing from PDM, SFC, Planning, integration, Procure to pay and especially costing and accounting.
+• Interact with the business users on the process and imparting training and preparing the test cases.
+• Preparation of project documents and to provide go-live support. Project 1 : JDE E1 Rollout and Support
+Life Technologies. (Global)
+Role : Senior Specialist, Deloitte
+Duration : May 2013 – May 2014
+Environment : JD Edwards E1 8.11 and 9.0
+Project Scope & Responsibilities :
+Employer: DELOITTE CONSULTING INDIA PVT LTD
+Date From: 05/06/2013
+Date To: 05/22/2014
+Resume of Md.Suhail Anwar Page 5
+Client was a multinational pharmaceutical, biologics, vaccines and consumer healthcare company, It also has a large consumer healthcare division which produces and markets oral healthcare and nutritional products and over-the-counter medicines.
+Implementation and support of JD Edward Enterprise One 8.11 Role: Manufacturing and Supply Chain Functional Consultant - Working from offshore.
+Taking Care of Production support (Globally). Working on Upgrade project from E1 8.11 to E1 9.0.
+Key responsibilities:
+• Responsible for analyzing, fixing and testing production issues.
+• Implementing the solutions following the complete process of change management.
+• Responsible for functional spec designing, testing and implementing the changes.
+• In Upgrade Project: Unit testing, SIT, UAT.
+• Working on defects to fix the issues. Bugs.etc.
+Project 1 : JDE Upgrade from One world to 8.12
+Baxter. (US-Canada) & EMEA
+Role : Sr. Functional Consultant, Wipro Technologies Duration : Nov 2011 – April 2013
+Environment : JD Edwards (8.12)
+Project Scope & Responsibilities :
+• Now Leading the Team for supporting entire region of EMEA under JDE SCM modules.
+• Join the Bridge team (3
+rd
+party implementation Consultants, SME’s and Wipro
+team).
+• Get KT and prepare the SMTD –Logistic & EDI’s.
+• Work with the team to test the solutions, and prepare for Go-Live and provide the post go-live support.
+• Mean time prepares the docs and process to take over from implementation team and pass it over to ARO-Support team (US and Offshore-India). Employer: WIPRO TECHNOLOGIES, INDIA
+Date From: 05/02/2007
+Date To: 04/19/2013
+Resume of Md.Suhail Anwar Page 6
+Project 2 : JDE Enhancement-Full Product Costing-
+ArjoWiggins Fine Papers. (UK-France-Scotland)
+Project 3 : JDE Implementation in Spain.
+Role : Functional Consultant, Wipro Technologies
+Duration : Feb 2009 – Nov 2011
+Environment : JD Edwards (OneWorld Xe)
+Project Scope & Responsibilities - Project 2:
+• Investigate and evaluate full product costing for both manufactured and converted products at Fine Papers Mills and Conversion Plants, Investigate & Analyze there Current Business Processes, PDM, SFS, Costing, Manufacturing Accounting, Inventory Valuation, Shop floor control Interfaces (As they use 3 rd
+Party
+Software-MES-Specific for Mills for their shop floor operations).
+• Requirement Gathering.
+• Prepare Project Definition Statement (PDS) to include project organization, work estimates, project plan and resource plan.
+• Prepare Product Costing Review Report plus Presentation for Finance Practice Group Workshop to consider proposals
+• Setup, Data Migration, Configuration, and perform the full implementation procedure to achieve the requirements like:
+o Full Product Costing through out Fine Paper Mills, Converters and Warehouses.
+o Month End Revision of standard Costing through out the company. o Improve the robustness performance of Shop floor Interfaces, and Incorporate Super backflush Functionality through the interface. o Design and deliver new reports critical to the business with offshore JDE- technical team.
+• Prepare Operating Procedure manual for set-up and maintenance of full products costing for both manufactured and converted goods.
+• Prepare Operating Procedures manual for month end Revision of Standard Costs and Copy Cost process for both manufactured and converted goods.
+• User Acceptance Test Plan to train and test the new full product costing process, to include set-up and maintenance processes for both manufactured and converted goods.
+• Created Functional specification for the developer.
+• And Provide Go Live Support.
+Project Scope & Responsibilities - Project 3:
+• Responsible to Implement- Mfg. and Controlling Solution in newly acquired mill in Spain as per Group Policy with Local requirements taking into consideration.
+• Perform End to End Implementation. From Requirement Gathering, Gap analysis, As-is – To be Process, freezing the scope of work, sign off, training, unit testing, Resume of Md.Suhail Anwar Page 7
+integration and rigorous testing of the solutions and developments. Training, making user manuals. Cut – Over plan. Data uploading Go-live. Etc. Post Go- Live support and maintenance.
+Project 4 : JDE Implementation–AlNaboodah Construction Group LLC. Role : Functional Consultant, Wipro Technologies
+Duration : March 2008 – December 2008
+Environment : JD Edwards (Enterprise One 8.12)
+Project Scope & Responsibilities
+• The objective of this project is to implement Standard JD Edwards Enterprise One 8.12 in all the companies of Al Naboodah Construction Group. We implemented the following modules GL, AR, AP, FA, Procurement, Inventory, Sales, Plant & Equipment Maintenance. Among which I have the responsibility to implement Procurement and Plant & Equipment Maintenance.
+• We helped the ANCG team in making the business analysis, and in which areas system can help the business more efficiently and how to achieve it.
+• Mapped the system, utilizing most of the features of JDE.
+• Setup the complete system for procurement and plant & equipment maintenance as per the requirement.
+• For Additional reports, created Functional specification for the developer.
+• Prepare Documents like System “As Is”, “To Be”, “User acceptance test script”,
+“User Manual”, and helped the ANCG team to prepare “E Learning kit” for the End Users.
+• Business Data Upload from the legacy system with the help of Technical member of my team.
+• ANCG had a legacy system JD Edwards World Soft.
+• Providing Training to the Key Users.
+• Providing a week support for every Go Live companies.
+• Currently working on the Rollout to other companies of ANCG. Project 5 : JDE AO Support Project
+Role : Consultant (Manufacturing), Wipro Technologies Duration : May 2007 – Feb 2008
+Environment : JD Edwards (OneWorld Xe)
+Project Scope & Responsibilities
+• The objective of this project is to give support to JDI’s existing applications i.e. by resolving issues faced by the user who make the transactions in JD Edwards if any manufacturing application does not perform as expected.
+• This would be worked upon using the magic service desk (later on would be taken Resume of Md.Suhail Anwar Page 8
+over by the remedy system of Wipro) wherein the user logs in a ticket describing the issue that he is facing with the appropriate urgency.
+• Also, Taking care of daily & weekly critical robot jobs running in AS400 related to manufacturing planning, and also validating the end result before it used by the client.
+• Also, write functional specification to develop new interactive and batch applications or perform enhancements to the existing one’s in order to provide more features required by business. This would be taken care of as the GER i.e. Global Enhancement Request as per the user requirement & it requires business approval.
+• For Recurring issues we conduct RCA (Root cause analysis) and provide permanent solution to the customer and provide necessary training or help to implement the changes.
+• On weekly basis we have to provide the condition of manufacturing module & level of customer satisfaction. And come up with some ideas which could help the business to improve.
+• Client – JohnsonDiversey Inc is into business of making varieties of products example: - cleaning products.
+Work/Project : Amiantit Oman Co. S.A.O.C (Omzest Group) Role : Application Analyst (Manufacturing)
+Duration : March 2006 – April 2007
+Environment : JD Edwards (OneWorld Xe)
+Project Scope & Responsibilities
+• Scope of the work involves following implementation stages - Business Analysis, Study & Documentation of the setup & processes, GAP Analysis, Move from customized processes to standard processes, Implementation of new concepts based on business need
+& Provide Trainings & Support for better performance of system and business.
+• Company – Amiantit Co. (Gross sales turnover Rs.350 Crore) is into business of Manufacturing HDPE, FC, PVC, GRP – Pipes, Mainholes, Wehollite tanks, Roto tanks, GRP boats, cabins, and GRC products.etc.
+• Conducted Business Analysis & provide controlled processes as per requirement in following areas. Manufacturing – SFC, PDM, QC, Product Costing, Manufacturing Accounting & Material & Capacity Planning.
+• Providing Functional Specifications for new & old reports. Employer: AMIANTIT OMAN Co. S.A.O.C, Sultanate of Oman Date From: 03/04/2006
+Date To: 04/07/2007
+Resume of Md.Suhail Anwar Page 9
+Project : IAL Group – Pune
+Role : Core Team Member (Manufacturing)
+Duration : September 2004 – February 2006
+Environment : JD Edwards EnterpriseOne 8.10
+Project Scope & Responsibilities
+• Scope of the work involves following implementation stages - Business Analysis, Training, CRP & Gap Analysis & Customizations if required, Integrated CRP, Go Live and Post Go Live support.
+• Company – IAL group (Gross sales turnover Rs.300 Crore) is into business of Manufacturing auto assemblies & aggregates for OEM’s. (Machined parts, Sheet metal & Excavator assemblies, Gears, Propeller shafts & Axles etc.)
+• Conducted Business Analysis of the existing business processes(Production Planning, Shop floor Control, Product Development, Quality Management & Product Costing / Manufacturing Accounting), With the consultant.
+• Trained on various Standard Features & Functionalities available in PeopleSoft Enterprise 8.10.viz. Sub modules: Product Data Management, Shopfloor Management, Material Planning, Resource & Capacity Planning, Quality Management, Product Costing
+& Manufacturing Accounting.
+• CRP conducted to map standard business practices with existing ones, and gaps Which are identified in Business Analysis is dealt with workaround & Customizations (if necessary).
+• Providing Functional specifications of Applications and Reports to be customized. INDUSTRY EXPERINCE:-
+Organization : RSB Transmissions (I) Ltd.
+Role : Asst. Production Engineer.
+Duration : August 2003 – September 2004
+Production planning & Management
+• Responsible for Productivity & Performance of Gear section, Machining Section, And Propeller shaft assembly Lines.
+• Responsible for Shop-floor scheduling, Capacity Leveling and Production control in the Areas mentioned above.
+• Worked on Cellular (Lean) Manufacturing concept and establishment with respective Layout Planning & implemented the concept to improve the supply chain & improve business bottom line.
+Employer: RSB TRANSMISSION INDIA LTD
+Date From: 08/01/2003
+Date To: 03/01/2006
+Resume of Md.Suhail Anwar Page 10
+• Worked on Overall Equipment Effectiveness & an Active member in SMED (Single Minute Exchange of Dies).
+Quality Management
+• Worked on Defect control activities for Process Standardization.
+• Bachelor’s in Engineering (Mechanical) with Distinction Golden Valley Institute of Technology (G.V.I.T),
+Visveswariah Technical University (V.T.U)
+• JD Edwards Enterprise One 9 Manufacturing Certified Implementation Specialist.
+And OPN Certified On:
+Oracle JD Edwards Enterprise One-Supply Chain Management-Distribution Implementation Consultant.
+Oracle JD Edwards Enterprise One-Supply Chain Management-Manufacturing Implementation Consultant.
+• Having bachelor of engineering degree in mechanical with distinction. And worked as a production engineer in an automobile industry. EDUCATION
+CERTIFICATIONS
+
+Contact this candidate

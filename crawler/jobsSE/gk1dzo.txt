@@ -1,0 +1,20 @@
+
+Our client is looking for a Network Engineer to join a team building out DevOps principles to manage an on-prem network environment and public cloud environments.
+The position will be responsible for design, analysis, documentation, maintenance, and security requiring a high level of stability, reliability, and availability of the production network environment, consistent with established change control policies and prescribed procedures.
+This individual will be an essential member of the incident response team, and is be expected to work anytime that the need arises.
+Essential Duties and Responsibilities Architect high performance, reliable and fault-tolerant network environments.
+Design and document network and security environments, the processes and procedures required functionality.
+Serve as subject matter expert in one or more areas of network engineering specialties.
+Provide detailed engineering support and consultation to other departments.
+Support 7x24-365 operations.
+Support new product deployments with installation, integration, testing, documentation, and training develop methods and procedures for troubleshooting.
+Develop network element technical specifications.
+Make specific recommendations and assists in implementation of plans that enhance technical operation, compliance with rules and regulations, and permits the deployment of new technology.
+Design, implement, maintain, and troubleshoot network infrastructure including routersswitches, load balancers, firewalls, IDSIPS, and other security related products.
+Maintain network security including research, design, and implementation of security policies and products monitor overall network health and security posture.
+Work with other team member and group to implement and troubleshoot network solutions.
+Education, Experience, Certification Requirements Bachelor Degree (preferably in Information Systems, Computer Science or related field) or equivalent experience 10 years hands-on experience with Cisco routers and switches, Juniper routers and firewalls, and Network Diagnostics (sniffers, etc.) Five Years hands-on experience with Multicast video distribution, Load Balancers, BGP, OSPF, SNMP, and firewalls Experience in high-availability high transaction infrastructure Experience working with HP switches, Cisco ASI, Cisco Nexus, AWS (network, security, direct connect), and worked on a DevOps team a big plus Knowledge, Skills and Abilities Scripting in at least one language (python, korn, perl, etc.) High comfort level with Linux OS Must be willing to be on-call Excellent WrittenVerbal communication skills
+
+
+Go to apply 
+

@@ -1,0 +1,127 @@
+
+Ultimate Software is looking to hire a Senior Full Stack Software Developer to join our extremely talented Product Development team! As one of our Senior Software Engineers, you will be part of the continued improvement and growth of our HR and Payroll Software Solution.
+
+As a Senior Full stack Software Engineer at Ultimate, you'll be embedded on a development team where you can work on the next generation of internet software. You'll get to work directly with other Developers, Software Testers, Business Analysts, Product Managers, and Directors, all of whom make up the team. In this highly-collaborative environment, you will have the opportunity to grow as a software engineer, and even help mentor others.
+
+The Senior Software Developer position requires excellent Object-Oriented programming and Design Pattern skills. The Senior developer engineer will be involved in the deployment of our enterprise software solution to the cloud. The job requires you to be able to design, develop, troubleshoot, and debug complex software application at the enterprise level. We are looking for a Software Engineer who is passionate about programming, quality, and truly enjoys what they do. The qualified candidate for the Software Engineer position is someone who has a can-do attitude and is an innovative thinker.
+
+Ultimate Software works in an agile environment where there are daily standups and code reviews, and constant communication within each self-managed cross-functional team. The ability to communicate effectively with Product Analysts and QA's, as well as work closely and well with other team members are key components for success in this position.
+
+Here at Ultimate Software, we truly put our people first. We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential. Ultimate is ranked #1 on Fortune's Best Places to Work in Technology for 2019 and #8 on the 100 Best Companies to Work For list in 2019. Ultimate is also ranked #1 on Fortune's 75 Best Workplaces for Women and #5 on its Best Workplaces for Diversity list.
+
+Essential Duties and Responsibilities: (other duties may be assigned)
+
+The engineer will be primarily responsible for developing an Integration Platform following CQRS patterns to supports our product offerings along with other services and deployment code written in many languages. Additional duties would include educating and evangelizing to the rest of the team best practices around the Java Spring framework, performance, and reliability.
+
+* Collaborate with members of the team to solve challenging engineering tasks on time and with high quality.
+
+* Engage in code reviews and training of team members.
+
+* Support continuous deployment pipeline code.
+
+* Situationally troubleshoot production issues alongside the support team.
+
+* Continually research and recommend product improvements.
+
+* Create and integrate features for our enterprise software solution using the latest Java, Java Spring, Mongo, RabbitMQ, Kafka technologies
+
+* Write web services, business objects, and other middle-tier framework using Java, Java Spring, and Mongo technologies
+
+* Actively communicate with team members to clarify requirements and overcome obstacles to meet the team goals
+
+* Leverage open source and other technologies and languages outside of the Java framework should the need arise, and autonomously be able to make use of those decisions
+
+* Develop cutting edge solutions to maximize the performance, scalability, and distributed processing capabilities of the system
+
+* Provide troubleshooting and root cause analysis for production issues that are escalated to the engineering team
+
+* Work with development teams in an agile context as it relates to software development, including test driven development, automated unit testing and test fixtures, and pair programming
+
+* Actively participate in daily code reviews with talented software engineers and architects
+
+Required Qualifications/Skills:
+
+* 5 or more years' experience as a key developer on enterprise projects
+
+* Software development experience including: OOP, concurrency programming, design patterns, RESTful service implementation, Service Oriented Architecture, Test-Driven Development, Acceptance Testing.
+
+* Experience creating tools to automate the deployment of an enterprise software solution to the cloud
+
+* Strong object-oriented design and development experience
+
+* Knowledge of design patterns and their implementation
+
+* Multi-tier application design and development
+
+* Multi-threaded design and development
+
+* Excellent problem solving and communication skills
+
+Knowledge, Skills and Abilities:
+
+* Java Spring
+
+* CQRS
+
+* Event Sourcing
+
+* Event Oriented Architectures
+
+* MongoDB/NoSQL
+
+* RabbitMQ
+
+* Kafka
+
+* Kubernetes
+
+* Docker
+
+* Distributed Systems and Concurrency Programming
+
+* DevOps
+
+* OAuth
+
+(Experience, Education, Certification, License and Training)
+
+* SaaS software design principles. You understand engineering enterprise-scale software that is deployed using cloud technologies like OpenStack and Cloud Foundry.
+
+* RESTful APIs. You have experience designing and implementing APIs at scale.
+
+* Object-oriented Java skills. You are a rock-solid Java developer and use it regularly. You know how to apply best practices in Java. (3+ years in Java Spring preferred)
+
+* You have experience writing and implementing automated unit, system, and integration tests. Skilled at troubleshooting and performing root cause analysis for production issues escalated to the team.
+
+* Proactive problem solving. You are self-driven, love to learn and contribute not just to your primary area but across boundaries.
+
+* Multiple years of experience in web technologies utilizing SOA patterns and REST
+
+* Willingness to learn new technologies
+
+* Teamwork is a must
+
+Preferred Qualifications
+
+* Strong use of source code repositories. Proficiency with tools including: Git, TeamCity, Concourse
+
+* Experience using automation testing tools (Selenium, xUnit, mocking frameworks)
+
+* Experience with Docker and Kubernetes
+
+Education/Certification/License:
+
+* We prefer you have a bachelor's degree or equivalent experience in computer science or engineering.
+
+Travel Requirements:
+
+* 10 %
+
+This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
+
+Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company's online employment application, please contact .
+SDL2017
+
+
+Go to apply 
+

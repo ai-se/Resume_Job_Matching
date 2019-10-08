@@ -1,0 +1,26 @@
+
+What you ll be doing
+We re looking for a very experienced Senior Software Engineer, who is comfortable with either front end, or back end, or both design and programming.
+Before you apply for the position, ask yourself the following questions.
+Do you love the idea of driving the overall user experience of one of the most disruptive business intelligence products in the industry?
+Are you excited about having a delightful impact on customers every time we ship a product?
+If your answer is yes on both of them, then go ahead because you re exactly whom we need for Collaboration team the engineer, who shares our passion and belief in building the best product and customer experience.
+Collaboration team is building new ways for users to share, discuss and understand data. We provide our customers richer insights and help them see the facts that they will never be able to discover without us.
+Who you are
+As a Senior Software Engineer, you will play a key role in the delivery of our next generation collaboration platform.
+General requirements:
+At least BS degree in Computer Science
+7+ years of experience in backend and/or frontend design and development
+Excellent problem solving and software design skills
+Knowledge of different quality improvement practices
+Advanced verbal and written communications skills
+You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world
+If you re a frontend engineer, then we expect proficiency in C#, JavaScript, TypeScript and React or Angular
+If you re a backend engineer, then we expect proficiency in Java EE, Spring, AWS tools and Apache ActiveMQ.
+#LI-NF1
+Tableau Software is an Equal Opportunity Employer.
+Tableau Software is a company on a mission. We help people see and understand their data. After a highly successful IPO in 2013, Tableau has become a market-defining company in the business intelligence industry. Our culture is casual and high-energy. We are passionate about our product and our mission and we are loyal to each other and our company. We value work/life balance, efficiency, simplicity, freakishly friendly customer service, and making a difference in the world!
+
+
+Go to apply 
+

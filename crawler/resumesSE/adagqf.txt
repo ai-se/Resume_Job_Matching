@@ -1,0 +1,293 @@
+
+RESUME
+MD. FAISAL AHMAD
+R.Address: Qatar
+
+M. No : +974-********
+Email : adagqf@r.postjobfree.com
+
+CARRIER OBJECTIVE:
+
+My career goal is to excel in the life by working day in and out in a healthy working environment and
+Coordinating with the team to the best of my ability and to the satisfaction of my superiors thus
+Creating my mark therein. Would like to work in an active and challenging environment, Where there
+Is scope for upgrading my skill and knowledge, and where I can take active part in the growth of the
+Organization.
+EXPERIENCE : Total IT Experience: 13+ Years
+
+Summary of Skills & Experience
+
+Total 13+ years of experience in IT Infrastructure Management. Support more than 2000 servers
+In Qatar Steel. I have industry Certifications like MCSA, MCP, MCTS, VMware & ITIL Foundation.
+
+Professional Certifications/ Trainings
+MCTS (Microsoft Certified Technology Specialist)
+Windows server 2016 (70-740)
+Windows server 2008 Network Infrastructure (70-642)
+Exchange Server 2007(70-236)
+Windows 7, configuring (70-680)
+
+MCP (Microsoft Certified Professional)
+Windows 2003 Server (70-290).
+Windows Active Directory Infrastructure (70-294).
+
+VMware certified Professional (VCP 6.5)
+ITIL Foundation certified
+
+Preparing for Devops Certified Professional certification
+
+IT Operations, Administration and Management
+
+·Provides answers to customer inquiries concerning system software and applications.
+·Applies company policies and procedures to resolve variety of issues.
+·Develop IT Operations consistence plan for Infrastructure, Assets, Installation and Implementation, Support and Troubleshooting, Migration, Upgradation, Administration of Server-Clients, Security, Peripherals and Network Infrastructure.
+·Monitor and Analysis the IT process for ensuring Systems Report and SLA deliverable.
+·Licensing and metering, reporting of usage, product compliance, working on queries, Inventory collection and control.
+·Managing Issues and Escalations addressing performance bottlenecks and ensuring maximum uptime.
+·Conducting Periodic reviews on IT services and their trends to take Proactive measures. Audits, Quality and Performance Improvement.
+·Backup Strategy for scheduled/Unscheduled Backups as per Backup plan and Restoration.
+·Leading the Team of Technical Professionals for service and Support deliveries.
+·Involvement in IT Budgeting & reporting for the Organization.
+·Relation and Manpower management with Team, External clients and Vendors.
+
+Technical Support and Troubleshooting
+·Advanced Technical Troubleshooting support for Organization and Team members for critical problems.
+·Configuring Redundancy, Fault tolerance, Security management, Optimization and Performance, Testing.
+·Plan Control and Direct Implementation for various IT activities.
+·Creative problem solver, able to think logically and pay close attention to detail. Good communicator, proficient at gathering user requirements and customizing database solutions as per need.
+·Responsible for Reliability and Scalability of the support applications for their functional area.
+·Define & Manage Overall Service Roadmap e.g. Expand and Decide roadmap Priorities & Approvals, make key decisions Practices e.g. create process, Service Blue Prints, Incorporate and Plan continuous Improvement – Impacts.
+
+WORKED WITH:
+
+ØCOMPANY : Ali Bin Ali Technology Services
+ØClient : Qatar Steel
+ØDesignation : Sr. System Administrator
+ØPERIOD : Nov 2018 – Present
+
+JOB RESPONSIBILITIES
+
+vInstallation, Configuration and administration of VMware ESXi 6.7 server. Managing Virtual server using VSphere client and VCenter. Managing ESX Boxes and maintaining VM inventory using VCenter. Deploying new VMs from the template, taking snapshots, cloning as per the client request through Change.
+vHyper-V & VMware Failover Cluster Management.
+Worked on Microsoft clustering in both physical and virtual environments.
+vInstallation, configuration & administration of Servers 2012 & 2016 Domain Controller, Additional Domain Controller, DNS, DHCP. File server.
+vInstallation, configuration & administration of Exchange 2010. Responsible to upgrade exchange mailing system to Exchange 2016 also managing VPN and Domains.
+vMigration and Upgradation of windows server 2008 to 2012 R2 & 2016.
+vAdministrating Active Directory users and groups, Group Policy, Replication and site & services management.
+vManaging Windows Azure & Office 365 environment.
+vResponsible to provide support for projects, which is providing administration system, services on Microsoft Windows 2012 & 2016 servers and Hyper-V Virtualization.
+vServer maintenance tasks like monitoring and managing disk space utilization, memory utilization and other server resources.
+vTroubleshoot and debug environment and infrastructure problems found in the production and non-production environments.
+vMaintenance, Support, trouble shooting and Performance monitoring of all Servers, storage and tape library at both Primary and DR sites.
+vResponsible for scheduling and monitoring of backups through veritas Symantec backup.
+vVendor co-ordination related to Hardware and Software Issues
+vPlan and coordinate implementation of changes, upgrades, patches and new versions, through proper change control processes.
+vDelivering service by following ITIL processes that have been adopted by Industry.
+vForce Point (Websense) email gateway. Daily monitoring Inbound & Outbound mail flow White list & Black list domain as per the user request. Spam email report to force point Lab team analyze.
+vManaging FireEye-EX-3400 System for email Malware Protection
+vHandling Patch Management System for Patching Workstations & Servers
+OS hardening, Vulnerability points closed troubleshoot issues.
+System performance tuning.
+vHandling Kaspersky, Sophos & ESET Antivirus Administration.
+Configuring & installing of Antivirus. Daily & Weekly administration and scheduling scan for desktop, laptop, and servers
+vManaging Print Management plus Server.
+Assigning users permission to print through as per the department.
+Maintaining Monthly usage reports as per user or department.
+vManaging & Maintaining IAM (Integrated Access Management System)
+For user’s access request workflow, creating 3rd party user account through IAM system.
+Maintaining Policy as per the User grade and the related membership.
+Centralized password policy for Windows, ERP & Oracle account.
+Automated permission and responsibility provision as per the users Grade.
+vManaging RADAR Service SOC & SIEM for Analysis logs of various source of the
+Network (Servers Vulnerability, Policy Violence, Network anomalies, Network Device and Firewall Application.
+vPatching the Servers as per the Radar Vulnerability Finding and closing the Incidents.
+vTacking Policy violence and forwarding the findings to I.T Security Team.
+vIvanti, Manage Engine for ticketing portal. Based on the requirement Creating incident, Change Request, Task and assigning to Service Desk
+vManaging Service Owner and Approval status.
+vBarracuda Archive One System for Email Archiving, creating policy for Users mailbox quota, archive email if the user mailbox limit exit 80% run everyday
+Created Auto archive policy for every one month.
+Creating repository folder for archive emails, adding new users to the quota policy.
+Daily monitoring system/repository health.
+vCreate required reports for management reviews.
+vEnsure all issues are addressed and escalated to Concerned
+vEnsure that the Hardware and Software’s are up running 24x7 to support business.
+vEvaluate and deploy new hardware, software and technology solutions for business needs and technology upgradation.
+vPrepare RFP’s, issue/evaluate them and make purchase recommendation to the Head of ERP and IT.
+v
+
+ØCOMPANY : Larson & Toubro InfoTech
+ØClient : International Monetary Fund, USA
+Solar Decom, Denmark
+ØDesignation : Sr. System Administrator
+ØPERIOD : June 2017 – Oct 2018
+
+JOB RESPONSIBILITIES
+
+vInstallation, Configuration and administration of VMware ESXi 5.5 server. Managing Virtual server using VSphere client and VCenter. Managing ESX Boxes and maintaining VM inventory using VCenter. Deploying new VMs from the template, taking snapshots, cloning as per the client request through Change Management Process. Upgrading Servers hardware versions, upgrade resources of VMs. ESX patch through update manager. VMware cluster technologies: HA, DRS, and Fault Tolerance. Adding VMs into Resource Pools. Extend size of Datastore in vCenter and increase size of disk resources on VM. Capacity report and planning.
+vInstallation, configuration & administration of Servers 2012, Domain Controller, Additional Domain Controller, DNS, DHCP. File server.
+vMigration and Upgradation of windows server NT, 2000, 2003, 2008 to 2012 R2 & 2016.
+vAdministrating Active Directory users and groups, Group Policy, Replication and site & services management.
+vResponsible to provide support for projects which is providing administration system services on Microsoft Windows 2008 & 2012R2 servers and Virtualization.
+vConfiguring Raid-0, 1 & Raid-5 for fault tolerance.
+vDesign and configure the High Availability environment using MSCS or other cluster solutions with knowledge/experience on Storage Devices (SAN, NAS, DAS)
+vFirmware and PSP Upgradation. Create the patch policy, Installation and updates of Security patches, Windows update on the servers.
+vServer maintenance tasks like monitoring and managing disk space utilization, memory utilization and other server resources.
+vServer hardware provisioning including configuration and deployment.
+vTroubleshoot and debug environment and infrastructure problems found in the production and non-production environments.
+vVendor co-ordination related to Hardware and Software Issues
+vAdministration of SCCM 2012 server.
+vAdministration of SEPM.
+vPlan and coordinate implementation of changes, upgrades, patches and new versions, through proper change control processes.
+vAGPM to administrating group policy management. Men & Mice tools to use to DNS & DHCP management.
+vOrion, Netcool and SiteScope are the three different tools used to monitor ESXi and Windows Servers.
+vDelivering service by following ITIL processes that have been adopted by Industry.
+vCreated required reports for management reviews.
+vGood communication and customer interaction skills
+vEnsured all issues are address and escalated to Concerned.
+vVendor co-ordination related to Hardware and Software Issues
+
+ØCOMPANY : Al Madina Development and supply LLC
+ØClient : Royal Oman Police
+ØDesignation : Wintel Lead Administrator
+ØPROJECT NAME : E-Police
+ØPERIOD : Oct 2013 – Nov 2015
+
+JOB RESPONSIBILITIES
+
+vInstallation, Configuration and administration of VMware Esxi 5.0 & 5.5 server. Managing Virtual server using VSphere client and Vcenter. Managing ESX Boxes and maintaining VM inventory using VCenter. Deploying new VMs from the template, taking snapshots, cloning as per the client request through Change Management Process. Upgrading Servers hardware versions, upgrade resources of VMs. ESX patch through update manager. VMware cluster technologies: HA, DRS, and Fault Tolerance. Adding VMs into Resource Pools. Extend size of Datastore in vCenter and increase size of disk resources on VM. Capacity report and planning.
+vInstallation, configuration & administration of Servers 2008 & 2012, Domain Controller, Additional Domain Controller, DNS, DHCP. File server, Wsus Server.
+vMigration and Upgradation of windows server 2008, 2008R2 to 2012 R2.Also did Domain migration.
+vAdministrating Active Directory users and groups, Group Policy, Replication and site & services management.
+vResponsible to provide support for various projects which is providing administration system services on Microsoft Windows 2003/2008 &2012R2 servers and Virtualization.
+vConfiguring Raid-0, 1 & Raid-5 for fault tolerance.
+vCluster configuration and Monitoring cluster services for fail over issue.
+vFirmware and PSP Upgradation. Create the patch policy, Installation and updates of Security patches, Windows update on the servers.
+vServer maintenance tasks like monitoring and managing disk space utilization, memory utilization and other server resources.
+vServer hardware provisioning including configuration and deployment.
+vTroubleshoot and debug environment and infrastructure problems found in the production and non-production environments.
+vVendor co-ordination related to Hardware and Software Issues
+vInstallation, configuration & administration of SCCM 2012 server. Operating system image creation and deploy them to computers. Manage operating system installation packages and images, task sequences, drivers, boot images, and state migration settings. Perform both the Application Deployment Manager role and the Application Author role. Also manage applications, packages. Manage the Asset Intelligence Synchronization Point, Asset Intelligence reporting classes, software inventory, hardware inventory, and metering rules.
+vManaging and checking the overall servers health and functionality.
+vSupporting network load balancing needs and ensuring its correct operation (NLB)
+Regular review of the events and logs.
+vIdentify problems and suggest solutions and escalate to vendors if needed.
+vPlan and coordinate implementation of changes, upgrades, patches and new versions, through proper change control processes.
+vMonitor and maintain required interfaces between systems in database level.
+vOrganize and administer training assistance when needed for IT staff as well as end users.
+vHandling Dell power edge R710-series & T410, T420 series, HP Proclaim DL 320,380 G4, G5, & G7, Sun Microsystems v240, v480, and EMC2 and IBM X-Series servers.
+vDelivering service by following ITIL processes that have been adopted by Industry.
+vCreate required reports for management reviews.
+vEnsure all issues are addressed and escalated to Concerned.
+
+ØCOMPANY : Reliance communication pvt ltd
+ØDesignation : Sr. System Administrator
+ØPROJECT NAME : IDC Operation
+ØPERIOD : June 2011 – Oct 2013
+
+This project involves IT infrastructure management & Datacenter management of Windows Servers 24*7.
+
+JOB RESPONSIBILITIES
+
+vManagement, Installation and Maintenance for Servers Domain Controller, Additional Domain Controller, Application, DHCP, Windows Update Service Server (WSUS), VMware, File, Exchange Mail, Symantec Antivirus, Database.
+vResponsible to provide support for various projects which is providing Remote Administration system services on Microsoft Windows 2000/2003/2008 & 2012 servers.
+vManaging Active Directory users and groups, Group Policy, Replication management.
+vInstallation and Managing Virtual server using Hyper-V and Vsphereclient. Also knowledge's like convert Physical to virtual, V to V, Template and snapshot etc.
+vInstallation and configuration of Hyper V role in windows 2008 & 2012 R2 also using SCVMM for managing VM server.
+vInstallation, configuration and administration of SharePoint 2010 server. Managing form, site and also taking backup of Farm and content of SharePoint server.
+vProvides database and SharePoint administration and system support for SQL database environments to include performance of the following related tasks: software installation, patch installation, upgrades, query writing, configuration, database creation, security, system monitoring and tuning, disaster recovery planning, implementation and backup and recovery.
+vConfiguring Raid-0, 1 & Raid-5 for fault tolerance.
+vFirmware and PSP Upgradation. Create the patch policy, Installation and updates of Security patches, Windows update on the servers.
+vServer maintenance tasks like monitoring and managing disk space utilization, memory utilization and other server resources through HP OVA, HP ILO2 & WUG.
+vServer hardware provisioning including configuration and deployment.
+vTroubleshoot and debug environment and infrastructure problems found in the production and non-production environments.
+vHandling Dell power edge R710-series &T420, 410, HP Proclaim DL 320,380 G4, G5, & G7, Sun Microsystems v240, v480 and IBM X-Series servers.
+vCluster configuration and Monitoring cluster services for fail over issue.
+vDelivering service by following ITIL processes that have been adopted by Industry.
+vFile Server management, Web server, DNS & DHCP.
+vCreate required reports for management reviews.
+vEnsure all issues are addressed and escalated to Concerned.
+vVendor co-ordination related to Hardware and Software Issues.
+
+ØCOMPANY : IT SOURCE PVT.LTD
+ØDesignation : System Administrator
+ØClient : Reliance Industries Limited.
+ØPROJECT NAME : IDC Operation
+ØPERIOD : MAY 2009 – Jun 2011
+
+JOB RESPONSIBILITIES
+
+vMember of technical support team which is responsible for infrastructure services on Microsoft Windows technology.
+vResponsible to provide support for various projects which is providing system administration services on Microsoft Windows 2000/2003/2008 server.
+vConfiguring Raid-0, 1 & Raid-5 for fault tolerance.
+vServer maintenance tasks like monitoring and managing disk space utilization, memory utilization and other server resources through HP OVA, HP ILO2 & WUG.
+vAssists in managing the systems in a Data Center environment and deploy servers and other related devices in data center.
+vAutomate systems monitoring tasks using standard monitoring tools.
+vServer hardware provisioning including configuration and deployment.
+vCluster configuration and Monitoring cluster services for fail over issue.
+vData backup management, scheduling and reporting of data Center Systems.
+vCreating standard backup policies and taking back-up of the servers. Restoring the data as per the customer request. Backup tools used VERITAS Net backup.
+vCreate the patch policy, Installation and updates of Security patches on the servers through third party tools.
+vMonitoring and troubleshooting of first level of SAR (Storage Array Replication),
+Business continuity Volume & Disaster Recovery
+vTroubleshoot and debug environment and infrastructure problems found in the production and non-production environments.
+vHandling Dell power edge R710-series, HP Proclaim DL 320,380 G4, G5, & G7, Sun Microsystems v240, v480 and IBM X-Series servers.
+vDelivering service by following ITIL processes that have been adopted by Industry.
+vTroubleshooting Active Directory replication problems.
+vCreating standard process for group policy deployment
+vActive Directory users and groups management.
+vFile Server management, DNS & DHCP.
+vCreate required reports for management reviews.
+vEnsure all issues are addressed and escalated to Concerned.
+vVendor co-ordination related to Hardware and Software Issues
+
+ØCOMPANY : Embee Software Pvt. Ltd
+ØDesignation : System Administrator
+ØClient : Citi Financial
+ØPERIOD : Aug 2007 – May 2009
+
+JOB RESPONSIBILITIES
+
+vDaily backup of file Server and database Servers by using NT backup.
+vAttending daily desktop call including installation & configuration of client software like Finnacle,FinnOne, Talisma, Eware, Avaya, Unify Desktop, Quality Call & MS-Office.
+vInstalling & Maintaining Windows client O/S like Windows XP, 2000 professional.
+vMaintaining & Configuring of Microsoft Outlook.
+vHardening of Desktops.
+vMaintaining & supporting more than 900 desktops.
+vInstallation of Oracle 8i, SQL Server.
+vHelpdesk Support.
+
+ØCOMPANY : NEXUS COMPUTERS PVT LTD
+ØDesignation : Customer Support Engineer
+ØClient : Maharashtra State Power Genco Co. Ltd.
+ØPERIOD : Jan 2004-Jul 2007
+
+JOB RESPONSIBILITIES
+
+vInstallation & Configuration of Windows 2000 / 2003 Server.
+vInstallation and configuration of network printer and Lan .
+vDaily Backup of file server by using NT Backup.
+vInstallation & Configuration of client O/S like Windows 98, XP, 2000,
+vInstallation & Configuration of Microsoft product Office 97, 2000 & XP.
+vTaking care of Norton Antivirus corporate Edition 9.0 Virus related issues and configuration of MS Outlook for mail.
+vTrouble Shooting, Configuration and maintenance of Desktops
+vAssembling and testing of Desktop & Networking Parts and Peripherals.
+vInstallation & Configuration of Others Software Adobe PageMaker, Photoshop & Corel Draw.
+vHardware Trouble shooting.
+vMaintaining & supporting more than 200 users.
+vAttending Daily Desktop call.
+vHardware Trouble shooting.
+
+Educational Details
+ØMBA in IT from NIBM(Chennai)
+ØMIT (Master of IT) from MAHE (Manipal University)
+ØB.SC (PHY) from Magadh University (BODHGAYA).
+ØI.SC from B.I.E.C
+Ø10Th from B.S.E.B
+Personal Details
+Date of Birth : 26 Jan 1977
+Passport Details : S0529473
+Date of Issue : 21/03/2018
+Date of Expiry : 20/03/2028
+Driving License : Oman & India
+
+Contact this candidate

@@ -1,0 +1,18 @@
+
+Big Data Engineer to design, build and implement end to end engineering of data
+solutions
+Responsible for designing and building new Big Data applications for analyzing data into
+actionable insights
+Skills Required
+Java for REST API / Scala / Python (Anyone)
+Flume 1.x
+Real-time streaming & Batch processing frameworks and patterns
+High speed messaging framework Kafka (KStream and Kafka Connect)
+Spark 2.x
+Lucene based enterprise search tools (Elasticsearch, Solr)
+NoSQL Database – HBase / Cassandra
+Understanding of JSON, AVRO, Parquet, XML etc
+
+
+Go to apply 
+

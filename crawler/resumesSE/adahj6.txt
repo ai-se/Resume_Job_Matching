@@ -1,0 +1,253 @@
+
+Name : Shree Jaya Palaniswamy
+
+Phone : +1-925-***-****
+
+mail Address : adahj6@r.postjobfree.com
+
+Summary
+
+10+ years of experience as a quality analyst in Manual and Automation Testing.
+Extensive experience in Requirement Analysis, Test Planning, Test Execution and Result Analysis
+Proficient in all phases of Test Life Cycle from test planning to defect tracking and managing defect lifecycle
+Experienced in Bug Tracking and Reporting using tools like HP QualityCenter, Doors, Change Synergy, Jira and TFS.
+Detailed understanding of QA methodology (Agile, Waterfall) to ensure quality control.
+Conducted User acceptance testing at clients’ location in National Health Service (UK).
+Experienced in various domains such as healthcare, marine, retail and aviation.
+Experienced in developing automation framework using Selenium IDE, Selenium Webdriver, Junit and Java.
+Experienced in creating and running test cases using C# and Nunit framework in page object model.
+Good knowledge in API testing using SOAPUI
+Able to train, lead and motivate functional teams.
+Excellent personal and communication skills.
+
+Education
+
+Master of science (Engineering management) - 2015
+oInternational Technological University – San Jose, CA, USA
+
+Bachelor of Engineering (CSC) - 2003
+oRajalakshmi Engineering college - Madras University, Chennai India
+
+Technical Skills
+
+Languages : C, C++, VB 6.0, Java
+RDBMS : SQL Server 2008, Oracle 11g
+Testing tools : Selenium IDE, Selenium Webdriver, Junit & Java.
+Management tool : Quality Center, Change synergy, Doors, Jira
+
+Job Engagements
+
+Senior Quality Analyst
+Apex Systems
+oClient – Mitchell International, Austin, TX – Mar 2018 to Sep 2018
+Senior Software Quality Assurance Engineer
+Silicus
+oEmerson, Austin, TX – Oct 2017 to Jan 2018
+IT Analyst
+Apex Systems
+oClient - 3M, Austin, TX – Dec 2016 to Oct 2017
+Senior Quality Analyst
+Atri Softech Inc
+oClient - PG&E, San Ramon, CA – Nov 2015 to Dec 2016
+Senior Quality Analyst
+Fynbosys Inc
+oClient – GE, San Ramon, CA – Jan 2014 to Jan 2015
+Senior Quality Engineer
+iSoft R&D Private Limited, a CSC Company - Chennai India – Mar 2008 to May 2013
+Test Engineer
+TeleData Informatics Ltd - Chennai India – Dec 2005 to Feb 2008
+
+Engagement Overview
+
+Apex Systems
+Designation: Senior Quality Analyst From Mar 2018 to Sep 2018
+
+Client : Mitchell International, Austin Tx
+Application : ReviewStat
+Environment : .Net, SQL server, C#
+Software testing Resource: Selenium webdriver, TFS
+Mitchell ReviewStat solution for tracking and processing worker compensation and medical management. It facilitates and monitors the progress of cases for utilization review, peer review and case management. ReviewStat works to drive efficiencies and eliminate manual administrative tasks by streamlining multiple processes, automating decisions and speeding up communications between the various stakeholders involved in the medical management life-cycle
+
+Roles and responsibilities:
+Created manual test cases from using the user manuals, Help files and developed a testing process
+Derived at a regression test suite by analysing the exiting bugs and production issues reported by customers.
+Automated the regression test suite using Protractor automation framework.
+Used various types of locator such as Xpath, Css, By ID, Repeater, Model and Class name to locate the UI elements in web page for automation.
+Prepared automation test plan, reviewing test cases for manual and automated testing.
+Worked with product managers to understand requirements, review various QA, and release acceptance criteria.
+Prepared RTM Document to ensure that all the requirements had sufficient coverage for through testing and identified the requirements and test cases to be automated.
+Ensured the data fetched from the DB is in correct Json format and the APIs status are correct using assertions.
+Triage with developers to resolve technical issues and investigated software faults.
+Defect tracking, reviewing, analysing and reporting using TFS.
+Maintaining the traceability of test scripts to test cases and requirements.
+Using SQL queries to perform Back End Testing.
+
+Silicus
+Designation: Senior Quality Analyst From Oct 2017 to Jan 2018
+
+Client : Emerson, Austin Tx
+Application : Delta V
+Environment : Delta V
+Software testing Resource: MTM, VSS,
+DeltaV is a distributed control system that helps improve your operations by harnessing today's predictive technologies in an easy, intuitive, and interoperable way by connecting your people, processes, and production.
+
+Roles and responsibilities:
+Develop and execute comprehensive, structured, detailed test plans and cases
+Take ownership of product quality, understand end user quality concerns and incorporate into test runtimes
+Identify gaps in test coverage, and prioritize those gaps
+Management of all bug tracking, testing progress, coverage and metrics; prepare and communicate reports as needed
+Mentor the QA team and ensure the team performs at an effective and consistent high level of performance
+Participate in various stages of SDLC, interpret and report testing results; be a vocal proponent for quality in every phase of the development process
+Work with the team to identify test automation and develop and implement scripts for effective test automation
+Apex Systems
+Designation: Senior Quality Analyst From Dec 2016 to Oct 2017
+
+Client : 3M, Austin Tx
+Application : Performance matrix – Data Intake
+Environment : Java, MySql, Soap UI, Groovy scripting, Extent reports
+Software testing Resource: Soap UI, Groovy Scripting, TFS
+Performance matrix project is a data analytics project done for the Health care industry. It analyses the Patient records, insurance details and the medical information to make conclusions on how the treatment can be made better for the patients and the processes made better for the care providers. It also finds the gaps in the health care data flow by applying certain set of rules on the data.
+
+Roles and responsibilities:
+Created an entire UI automation frame work from the scratch using Protractor and Jasmine framework.
+Created Test suites with options of running selected test cases for a regression suite.
+Used various types of locator such as Xpath, Css, By ID, Repeater, Model and Class name to locate the UI elements in web page for automation.
+Created code for generating allure and HTML reports and used these reports to send status report through mail automatically to the team members.
+Used Jenkins to do CI of the automation code with the build and deployment.
+Prepared automation test plan, reviewing test cases for manual and automated testing.
+Worked with product managers to understand requirements, review various QA, and release acceptance criteria.
+Prepared RTM Document to ensure that all the requirements had sufficient coverage for through testing and identified the requirements and test cases to be automated.
+Created an automation framework with SOAP UI for testing the Rest APIs Using Groovy scripting. Created a Driver script that run the entire test suite and generate the results using HTML reports.
+Ensured the data fetched from the DB is in correct Json format and the APIs status are correct using assertions.
+Developed utility functions to retrieve/update data from different data sources (Databases, MS Excel, CSV, Text files and Test Management tools) using JDBC, File System Objects.
+Triage with developers to resolve technical issues and investigated software faults.
+Defect tracking, reviewing, analysing and reporting using TFS.
+Maintaining the traceability of test scripts to test cases and requirements.
+Using SQL queries to perform Back End Testing.
+
+Atri Softech Inc
+Designation: Senior Quality Analyst From Nov 2015 to Dec 2016
+
+Client : PG&E (Pacific Gas & Electric company), San Ramon, CA
+Application : Rental Management System
+Environment : .NET,C#, Oracle
+Software testing Resource: Selenium webdriver, TFS
+The Pacific Gas and Electric Company, commonly known as PG&E, is an investor-owned utility that provides natural gas and electricity to most of the northern two-thirds of California, from Bakersfield almost to the Oregon border. It is the leading subsidiary of the PG&E Corporation. PG&E requires vehicles, different kinds of equipment, Construction material and many other things. The RMS(Rental Management system) is an online tool that manages the entire renting process, starting from a requestor placing an order to billing and turning in of the rented item.
+
+Roles and responsibilities:
+Prepared and executed Test Cases according to the functional requirement specification, Technical Specification, Functional Design and Use Case documents, identifying applications functionality, test requirements and coverage.
+Created a Key Regression suite that is used to ensure the quality of each build.
+Prepared RTM Document to ensure that all the requirements had sufficient coverage for through testing and identified the requirements and test cases to be automated.
+Created around 200+ automation scripts using Selenium webdriver, C# and Nunit to have a Regression test suite.
+Automated the manual test cases using Page Object model framework.
+Run the automation test cases against each build and verify the results and compare the results to manual test cases execution.
+Created bugs in TFS and tracked the bugs to closure and did Regression and Retesting for each bug.
+Defect tracking, reviewing, analysing and reporting using TFS.
+Created an automation framework using selenium web driver.
+Use SQL queries to perform Back End Testing.
+
+Fynbosys Inc
+Designation: Senior Quality Analyst From Jan 2014 to Jan 2015
+
+Client : GE, San Ramon, CA
+Application : Water wash effectiveness tool
+Environment : Java, Javascripts, Oracle, Teradata
+Software Resource: Selenium webdriver, Jira
+GE is a manufacturer of engines for aviation industry. Water wash effectiveness tool is a web application that helps measure, improve and control customer water wash practices. It uses the water wash details that are available on the numerous GE engines and analyses the performance of the engine before and after water washes. Improving the water wash practices increases the time on wing and reduces fuel consumption. The tool allows for evaluation of wash effectiveness across fleet of engines.
+
+Roles and responsibilities:
+Prepared and executed Test Cases according to the BRD, Technical Specification, Functional Design and Use Case documents, identifying applications functionality, test requirements and coverage.
+Prepared RTM Document to ensure that all the requirements had sufficient coverage for through testing and identified the requirements and test cases to be automated.
+Created automation scripts using Selenium webdriver to perform regression testing.
+Created new keywords to the existing keyword driven framework to automate all the testcases in the test suite.
+Performed API testing using SOAPUI and Postman tools. Ensured the status of the APIs are correct and the data fetched is as per the requests to the database.
+Interfaced with developers to resolve technical issues and investigated software faults.
+Analyzed the functional specifications and helped team members to achieve test goal.
+Defects were tracked, reviewed, analyzed and reported using Quality Centre.
+Involved in the updating automation frame work using selenium web driver.
+Wrote SQL queries and used them to perform Back End Testing.
+Wrote test summery reports and test evaluation reports.
+
+iSoft R&D Private Limited, a CSC Company
+Designation: Senior Quality Engineer From Mar 2008 to May 2013
+
+Client : NHS UK
+Application : Lorenzo Regional Care LE 3.5
+Environment : C#, .Net Frame work and SQL Server 2008
+Software Resource: Quality center, Share point, Change Synergy
+
+LORENZO Regional Care is a singular modular application for the health care domain having rich clinical functionality. It provides a wide range of functionalities for the clinical administration, health care providers and the patient data. It also supports online booking of appointments for patients which helps the patients book their appointments faster and easier. The patient data are saved globally which makes the sharing between the trusts easier. This helps in tracking the history of the patient details easily. The data regarding the hospitals, Service points, health care providers are maintained accurately. The areas of Outpatients, Inpatients, Referral management, Identity management, Death management, Contact management are the main functional areas of the application
+
+Jan 2011 May 2013
+Module lead
+Release 1.9
+Module name: Daycare Management
+Lorenzo day care management functionality provides support for the managers of day care services to manage access to day care services, schedule patient attendances at centres and individual sessions and record actual patient attendances.
+
+Roles and responsibilities:
+Build tracking, status reporting for the number of issues tested, pass%, fail% based on issue severity, category, number of new issues raised including regression.
+Test case management and execution. Managed reviews for test cases and functional documents.
+Issue triaging with development, Business analyst and SME teams.
+Co-Ordinate with the SMEs and the BAs to avoid and clear functional gaps.
+Co-Ordinate meetings with customers to demonstrate the functionalities and discuss on future enhancements.
+Prioritise issues based on the business requirements and co-ordinate between the teams to get the issues fixed.
+Generating test execution status reports in QC.
+Worked in Scrum methodology (Agile).
+Train the new employees on the procedures followed and the business domain.
+
+March 2008 till Dec 2010
+Module lead
+Release 1.9
+Module Name: Outpatient
+The outpatient module deals with service points in the hospital where in the patients are offered clinical services only during the day. The outpatient services have a definitive start and end time of the day. Normally the outpatient services are offered from the “Clinics”.
+
+Outpatient-Reports
+This module facilitates the generation of reports based on activities in outpatient module. Reports are system defined for providing screen printing and list printing from the Lorenzo Main Application interface
+Roles and responsibilities:
+
+Preparation of test cases as per functional requirement specification
+Peer Review
+Showing demos online to the clients
+Regression testing
+Allocation of the test cases to the team members and ensure all the team members follow the quality process
+Have been a part of the acceptance testing at the client’s place.
+Worked in Scrum methodology for a major enhancement
+
+Teledata informatics Limited
+Designation: Test Engineer From Dec 2005 To Feb 2008
+
+May 2006 to Feb 2008
+Test engineer
+Clients : Multiple
+Application : ShipManager
+Environment: Asp.net, SQL Server 2000
+ShipManager, is a range of integrated ship maintenance and management software designed to streamline the management of vessels. This comprehensive solution is made up of individual modules that provide seamless information and integration between ship and shore for planned maintenance, inventory management, paperless requisition and purchasing, fleet personnel management, safety and security administration, dry dock management, voyage performance, fleet monitoring, Budget and accounts and document management.
+
+Roles and responsibilities:
+Identifying test requirements based on business requirements of the application.
+Developed Test cases.
+Design spread sheet for reports.
+Peer Review.
+Test Cases Management and Execution.
+Reporting and prioritizing bugs in conjunction with development Team.
+Involved in executing test cases by logging into Defect Control Form
+Regression testing.
+Preparing Traceability Matrix
+Handling Releases and E-Mail support to clients.
+Updating the User Manuals and Work Flow documents.
+
+Dec 2005 to May 2006
+Test engineer
+Clients : Multiple
+Application : Light house
+Environment: Asp.net, SQL Server 2000
+
+Lighthouse is a comprehensive web application that helps in compiling information and optimizing valuable resources for the training and education sectors. Lighthouse handles tasks associated with the operation, management and maintenance of training institutes. Integration of these activities assists the management in effective decision-making and planning. All the activities are linked and monitored thus enabling the institution to function more efficiently. The users of this website are the Training institutes’ administrators, staff and the students.
+
+Roles and responsibilities:
+Preparation of test cases as per functional requirement specification.
+Test case preparation and updates
+Configuring test data and setting up test Environment to simulate real time business scenarios
+Test execution and test Results analysis
+
+Contact this candidate

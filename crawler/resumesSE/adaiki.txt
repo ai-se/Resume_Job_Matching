@@ -1,0 +1,83 @@
+
+Brampton, Ontario•L*X *G*• CELL (***) *** - **** • E-MAIL adaiki@r.postjobfree.com
+RACHITA JINJUVADIA
+Brampton, ON, CA
++1-647-***-**** adaiki@r.postjobfree.com www.linkedin.com/in/rachitajinjuvadia PROFILE SUMMARY
+QA Automation Engineer with over 3+ years of progressive experience in web based applications using both manual and automated techniques. Worked in different segments like in E-commerce, Banking and Retail domains.
+TECHNICAL SKILLS
+• Diversified experience in Automation and Manual testing serving various domains.
+• Comprehensive experience in handling Quality Assurance on all phases of Software Development Life Cycle (SDLC), its methodologies such as Agile-Scrum and Waterfall Model.
+• Extensive involvement in writing test documents: Test Design Techniques, Requirement Traceability Matrix, Test Cases/Scenarios.
+• Maintain automated Regression suites to be compliant with changing requirements and features.
+• Proficient in Functional testing, System Integration testing, GUI testing, Cross browser testing, Regression testing, re-testing and Database testing.
+• Hands-on experience in the following tools: MS Office, HP Quality Center, JIRA, Jenkins, GitHub, Eclipse IDE, Selenium, Cucumber.
+• Expertise in Java and OOPS concept required for Selenium framework.
+• Proficient in writing automation scripts in JAVA programming language using Maven, Cucumber.
+• Strong experience in using and building Selenium Automation Framework like TestNG, POM, Data Driven and Behavior-Driven Development (BDD).
+• Sound knowledge on SOAP UI for testing and various web services used in the application.
+• Wrote several advanced SQL queries for Retrieving and Validating test data from Database.
+• Ability in managing and working with multiple projects and focus on deadlines and deliverables.
+• Extremely keen and flexible to learn and adopt the organizational and departmental culture.
+• Excellent Analyzing, Problem solving, and negotiation skills as well as fast learner with good people skills
+• Experience with handling of teams in different geographical locations Brampton, Ontario•L6X 1G9• CELL (647) 779 - 5599 • E-MAIL adaiki@r.postjobfree.com TECHNOLOGY SUMMARY
+Languages Java, SQL, XML
+Automation Tools Selenium WebDriver, Cucumber, HP-Quality Center, JIRA
+Automation Frameworks TestNG, Data Driven, Page Object Model, BDD Build Tools Maven
+Databases SQL Server, Oracle, MySQL
+Methodologies Agile-Scrum, Waterfall
+Continuous Integration Tool Jenkins
+Defect Management Tools Jira
+Packages/Tools MS Office, Windows 7/8/10, Eclipse IDE WORK EXPERIENCE
+Client: Hudson’s Bay Company, Toronto, ON July 2018 – Present Role: QA Automation Engineer
+Project: E-Commerce Application
+The project is to test the Order Management System which is a part of the e-commerce application that was being developed for company’s retail website.
+Responsibilities:
+• Involved in testing the application utilizing the Agile-Scrum methodology.
+• Participated in understanding and grooming of user stories, test cases and test data for boundary value analysis, positive testing and negative testing etc. according to the need.
+• Reused the existing design pattern Page Object Model to develop the Automation Test Scripts in Selenium WebDriver using Java, TestNG, Maven for integrated test scenarios.
+• Responsible for writing and maintaining Selenium WebDriver scripts for Regression and Functional testing using TestNG and Data Driven framework using Apache POI API.
+• Created Test Scripts using Element locators and Selenium WebDriver methods.
+• Executed Functional, Sanity, System Integration, Cross-browser (IE and Chrome), Regression, Ad-hoc, retesting and End- to-End Testing.
+• Participated in identifying the Test Cases to be automated and add them to the Automation Suite. Brampton, Ontario•L6X 1G9• CELL (647) 779 - 5599 • E-MAIL adaiki@r.postjobfree.com
+• Maintained Requirement Traceability Matrix to track the requirements to the test cases to ensure complete test coverage in JIRA.
+• Used JIRA tool with Zephyr to write test cases, also used JIRA for defect tracking and reporting.
+• Used Jenkins for Continuous Integration tool to schedule and run the automated test scripts.
+• Reviewed the Test Reports using TestNG framework and maintained Code versions through GIT.
+• Used SQL Queries to verify the data from the Oracle database.
+• Actively participated in daily Scrum meetings and involved in bi-weekly Sprint releases.
+• Validated the scripts to make sure they have been executed correctly and meets the scenario description.
+Environment: Selenium WebDriver, TestNG, Maven, JIRA, Eclipse IDE, Oracle, Windows, GitHub Client: Meridian Credit Union, ON May 2017 – July 2018 Role: QA Automation Tester
+Project: Online Web Application
+Meridian Credit Union is a financial institution offering savings, loans/mortgages and Investment services and has started Online banking services. Project was to upgrade the credit platform to Equifax Beacon9 and enhance the bank’s mortgage loan application processing and its approval. Responsibilities:
+• Employed agile methodologies, especially SCRUM, to ensure rapid iterative software development.
+• Developed an effective automated test script design with objectives of maximizing the reusability and their maintainability using Page Object Model.
+• Generated Test Scripts using Selenium Element locators and WebDriver Methods
+• Created positive and negative tests also created Test Data and wrote test cases to cover all the possible scenario of testing.
+• Involved in the enhancement of automation framework in Selenium WebDriver using BDD approach in Cucumber framework.
+• Created test automation framework using Gherkin languages to write features and scenario with Cucumber and Selenium WebDriver.
+• Used Cucumber for Functional testing with Selenium as a primary tool to the test Scenarios, test cases and test conditions identified.
+• Defect Tracking and Reporting; logged defects using JIRA tool.
+• Used Maven for building the WebDriver project. Integrated with Continuous Integration tools Jenkins for running test on nightly basis automatically.
+• Maintained the Selenium & JAVA automation code and resources in source controls like GitHub over the time for improvements and new features.
+• Wrote and executed SQL queries to verify the data updates to various tables and ensure data integrity.
+• Achieved 70% cumulative time savings through automation testing compared to manual testing.
+Brampton, Ontario•L6X 1G9• CELL (647) 779 - 5599 • E-MAIL adaiki@r.postjobfree.com
+• Facilitated and fulfilled tasks using agile practices (includes peer reviews, daily stand up meetings, weekly status meetings etc.) which were focused on making the application more effective.
+• Prepare Status Reports Every Week which includes Revision History, Test case status, metrics, QA Issues and Defects.
+Environment Selenium WebDriver, Eclipse, BDD, Cucumber, Gherkin, Maven, TestNG, JIRA, GitHub, Jenkins, MySQL
+Client: Reliance Telecommunications Ltd, India June 2014 – July 2015 Role: Software Tester
+Project: Online Account and Order Management
+The Online application was a crucial part of the whole business. It was being developed for customers to facilitate in order processing and billing /payments of the various products. Customers can maintain their account for existing /new services and billing /payments. Project was developed using Waterfall methodology.
+Responsibilities:
+• Worked with development team to understand technical design and architecture for test planning.
+• Updated Test Scenarios and Test Cases periodically to manage changes in requirements.
+• Executed approved test cases manually and recorded snapshots for each execution.
+• Performed regression testing of existing test cases in case of new changes affecting old functionality.
+• Used Quality Center for Test management and Identified, tracked and reported defects to the developers with proper priorities and severities.
+• Prepared traceability matrix to ensure the adequate coverage of the test cases.
+• Wrote SQL queries and used them to perform Back End Testing. Environment: Quality Center 10.0, SQL Server, Windows, MS Office EDUCATION
+Post-Graduation – Mobile Application Development September 2015 - May 2017 Lambton College North York, ON, CAN
+Master of Science in Information Technology August 2012 - June 2014 CHARUSAT University, Changa, Anand, IND
+Bachelor of Computer Application August 2009 - May 2012 Dharamsinh Desai University Nadiad, GUJ, IND
+
+Contact this candidate

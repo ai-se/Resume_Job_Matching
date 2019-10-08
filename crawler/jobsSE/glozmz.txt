@@ -1,0 +1,25 @@
+
+Senior Software Engineer (ASP.NET, C#, AJAX)
+
+We think great process leads to great products. We love upfront design, paper prototyping, and UML. We take pride in writing code that sparkles, and can't stand it when we encounter a broken window. We think unit tests are as fundamental as compiling. We think that a small team of experienced developers, who focus on quality and creativity, can out-shine companies a hundred times our size. We like sand volleyball as much as the next guy, but we've yet to find an office park that doesn't bore us to tears, so we're located on the San Francisco waterfront. And although we're a start-up, we think it makes sense that every company should be judged on the basis of old-fashioned things like customers and revenue. So far, we have quite a bit of both.We're looking for this very specific individual. Someone who loves the balance between creativity and process -- who, in short, just loves software. You've shipped commercial software, probably multiple times, and so you know what it takes to deliver from start to finish. You've worked for a start-up in the past. Of all the code in your current company's codebase, yours is probably the cleanest, sharpest, and most elegant. You've worked in a few different languages over your career. You tend to think in design patterns, but you're a coder at heart. You're a great communicator, both in writing and speaking. You think writing a spec is a Pretty Good Idea, and you've likely been writing unit tests for your own code despite whatever corporate culture you've been working in. Does this describe you? If so, send us your resume in PDF format, along with a few paragraphs about why you think this could be a good fit. Give us a bit of background, what you've been doing, and why it's time for you to join us. Take your time. It won't be some HR person reading your submission, it will be us -- folks who've been writing software for quite a while. If you have some examples of your work, a link to an app you've written, or anything you'd like to show off, send it over. We like checking that sort of thing out. If you're still on the fence as to whether this is a good fit for you, here are a few things we think you'd likely have:
+
+* BS/MS in Computer Science
+
+* Minimum 7 years' experience developing commercial-grade software
+
+* Experience shipping products, probably multiple times.
+
+* Several years' experience in UML
+
+* Several years' experience building unit tests
+
+* ASP.Net, C#, SQL Server, AJAX
+
+* Outstanding communication skills
+
+During the interview process, we'll want to see an example of a spec you wrote, of code you've created, and unit tests you've written. The more you can tell us about your own development methodology upfront, the more we'd like to hear from you.
+SDL2017
+
+
+Go to apply 
+

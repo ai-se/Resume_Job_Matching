@@ -1,0 +1,134 @@
+
+CURRICULAM VITAE
+
+RIYAS AHAMED M
+SYSTEM ADMINISTRATOR
+
+Email : adagxq@r.postjobfree.com
+Skype : rismab1827
+Kuwait No.: +965-********, +965-********
+WhatsApp No.:+918*********
+
+CAREER OBJECTIVE
+
+Seeking a position to join a team of ambitious intellectuals, where I can apply my talents and timeless dedication to invoke my existing and acquired skills on innovative ideas. Be self-reliant in converting them into new concepts to reach the pinnacle of success that offers professional growth while being resourceful and flexible.
+
+SUMMARY
+
+A confident and reliable working with computers and resolving any support issues that are raised to the service desk.
+In depth knowledge of Windows server operating system and configuring various windows Roles and Services such as Active Directory, DHCP, Group Policy, File And Printer Management.
+
+ROLES AND RESPONSIBILITIES:
+
+Install and Configure and Maintain Active Directory, Working with Active Directory Users and Computers, Active Directory Sites and Services, Active Directory Domains and Trusts
+Implementing specific Group Policies for each department based on management needs.
+Install and configure DFS, FSMO, RODC-Migration from 2003 to 2008,RDP, RDP Gateway, WSUS Upstream and Downstream Server, NAP,
+WDS Hyper-V, DRMS and Certificate Services
+Install and Configure Site to Client VPN I & II, Site to Site VPN.
+Configure and Maintain DNS, DHCP, NetBIOS, NAT, Packet Filtering
+Disk management, File Permission, Profiles, Disk Quota, Shadow Copy, Backup & Restore
+Network troubleshooting and testing with tools PING, TRACERT, TELNET, IP Config.
+Configuring Outlook IMAP/POP
+Execute basic to advanced systems administration tasks, including Active Directory Management, Storage Management, NTFS and File share permissions, Server Installation, Operation, Maintenance, etc.,
+Install/load hardware & software for client/ server/storage/network devices, mobile devices, printers, digital senders, video teleconferences, VOIPs, and other standard office equipment and provide problem isolation, identification, diagnosis and resolution to HW & SW issues on all assigned equipment
+Configuring and Troubleshooting Desktop / Notebook PCs, Printers, Scanner, Projectors
+Manage IT system infrastructure and any related processes; complete infrastructure work as directed (running cable (fiber and copper), cable management desk side, in comms closets, and in server rooms, etc)
+Getting assistance from seniors when problem for unresolved problems.
+Help System Administrator in implementing Operating System & security patches across the desktops.
+Development, documentation and promotion of best practice maintenance, troubleshooting procedures with respect to resolving incidents and problems user environment.
+Troubleshoots computer and printer problems and coordinates with supervisor to get external support, if necessary.
+Remote support of on-site engineers and end users during installation.
+Remote troubleshooting and fault finding if issues occur upon initial installation.
+Participate in or lead special projects and day to day operations as needed or assigned by the site lead, including surging to alternate locations for customer requirements
+Document all work, incident status and solutions in incident database tools such as Remedy as directed, ensures completeness and accuracy of tickets, and escalate issues as need
+Teach, train, mentor junior team members through sharing of technical expertise and/or experience.
+
+WORKING EXPERIENCE:
+
+Desktop Support Engineer and Windows Server Administrator in
+Perwira Setia Technologies – Tamil Nadu, India from July 2016 to November 2018.
+
+IT Support Engineer in Abdul Samad Marafi Sons General Trading & Shipping Co.-
+Shuwaikh, Kuwait, from February 2019 to Present.
+
+EDUCATION:
+
+M.C.A from Mohamed Sathak College of Arts & Science,
+Madras University, Chennai-119 with 71.75%
+
+B.sc with (Information Technology) from Jamal Mohamed College,
+Bharathidasan University, Trichy-20 with 62%
+CERTIFICATION:
+
+Microsoft Certification ID: 12942508
+Microsoft Certified Solution Associate: (MCSA)
+
+Certification Number: F600-0815 Achievement Date: Mar 03, 2016
+Certification/Version: Windows Server 2012
+
+Microsoft Certified Professional: (MCP)
+
+Certification Number: F596-2569 Achievement Date: Feb 23, 2016
+Certification/Version: Windows Server 2012
+
+Completed in MCSE Course
+
+Diploma Certification:
+
+Diploma Computer Application
+Diploma Hardware and Networking
+
+TECHNICAL SKILLS:
+
+Computer Skill
+Microsoft office complete package, Broad Knowledge of Internet and its application, Browsers,
+Operating System
+Windows XP, Vista, 7, 8, 8.1 and 10
+Windows Server 2008, Windows Server 2012 R2.
+Designing
+Adobe Photoshop, Corel Visual Studio.
+
+EXTRA CURRICULAR ACTIVITIES:
+
+Skipper of School and College Foot Ball, Cricket Team.
+NSS Member in School Level
+YRC Member in College Level
+JAMCROP Activities
+
+PERSONAL:
+
+Name
+Sex
+: RIYAS AHAMED M
+: Male
+Marital Status
+D.O.B
+Visa Type
+Civil ID
+
+Nationality
+: Single
+: 18th October 1991
+: 18 (Transferable)
+: 291*********
+Date of Expiry : 15th January 2020
+: Indian
+Passport Number
+: Z3107538
+Date of Issue : 09th March, 2015
+Date of Expiry : 08th March, 2025
+Religion
+: Islam
+Language
+Address
+: English, Tamil Native, Learning Arabic, Hindi.,
+: Block 10, Street 10, Jabriya, Kuwait.
+
+DECLARATION
+
+I hereby declare that the information furnished above is true to the best of my knowledge and belief.
+
+AUTHENTICALLY,
+RIYAS AHAMED
+
+Contact this candidate

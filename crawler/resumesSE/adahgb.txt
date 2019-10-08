@@ -1,0 +1,65 @@
+
+PROFESSIONAL SUMMARY:
+
+Worked as Controls Engineer developing PLC projects for Water Treatment Plant Management using Allen Bradley RSLogix5000 in numerous Locations.
+Developed ME files for HMI’s using FactoryTalk View studio creating Runtime Applications using Ethernet, RS485 and USB protocols.
+Configuring Powerflex VFD’s 750 and 525 Series by setting up Trends, IP, parameters using BOOT-P and Connected Components Workbench softwares.
+Training sessions from CBT on Advanced PLC programming of RSLogix5000.
+Designed Control Panel Terminal Block Wiring Drawings using AUTOCAD includes 480VAC, 240VAC and 24VDC following UL508a and NEMA12 Standards.
+Developed ME files for HMI’s using FactoryTalk View studio creating Runtime Applications.
+Familiar with products of Manufactures like Schneider, EATON, Automation Direct, Allen Bradley.
+Knowledge on Troubleshooting with IDEC, Weidmuller, Automation Direct Programming softwares.
+
+EDUCATION
+Master’s in Electrical Engineering, Wright State University, (GPA 3.3/4.0)
+Ohio, (2017 -2018)
+Bachelor of Technology in Electronics and Communication Engineering (GPA 7.2/10)
+JNTU India, (2012-2016)
+
+TECHNICAL SKILLS
+Programming Languages
+Ladder Logic, Functional Block Diagrams, C language
+PLC’s & HMI Software
+Allen-Bradley RSLogix5000 & RSLogix500, IDEC, Automation Direct, Weidmuller
+Tools
+RSLogix5000 (Studio 5000, RSlinx, Compact Logix), AUTOCAD, Factory Talk View Studio (ME Edition), CADENCE (Designing of Microcontrollers)
+Protocols
+TCP/IP (Ethernet), USB, RS232, RS485
+Computer Skills
+MS Office, MS Excel, Microsoft Outlook, Command Prompt
+
+PROFESSIONAL EXPERIENCE
+
+ADGO Inc, Cincinnati March 2019 – September 2019 Controls Engineer
+Developed Ladder logic for PLC’s Compactlogix5000, ControlLogix5000, SLC500 using RSlogix5000, RSlogix500 and Studio5000.
+Designed Wiring Drawings using AUTOCAD for BUSCH, Texarkana Air filteration system and created Calibration among the Dampers for inlet and outlet air.
+Assisted our Senior PLC Developer on GE Aviation Wash cart projects in configuring the PLC and VFD’s using the GE Proficy Machine Editon software.
+Worked with our Project lead for the Conveyor system of Batching process for Mixers with Fertilizers for Harbison Walker International (HWI).
+Developed HMI Program for Hardin County, Kentucky Wastewater management plant for 480VAC series 8000 Pumps with capacity of 2000wd.
+Assisted in Creating Communication Links with new radios installed at the Pump towers of Springboro Water Treatment to SCADA of the Water plant.
+Knowledge of single and 3-phase AC-DC motors, transformers, Fuses, Relays, Circuit breakers, Valves, Solenoids and Power Generating systems.
+
+PepsiCo Holdings Pvt Ltd, India March 2016 - October 2016
+PLC Programmer and Material Handling Engineer
+Troubleshooting Ladder Logic programs for Micro800 and SLC500 series Controllers using RSLogix500.
+Responsible for Improving line flow and increasing production capabilities with minimal Fault in production line.
+Troubleshooting using RSLogix 500 for maintenance on equipment along with spot discovery repairs.
+Supervision for Case Packaging and cartoning for the 12oz Plastic bottles for shipment.
+Hands on Experience with Fanuc 200 Robot series jogging along the Teach pendant.
+Preventative maintenance on equipment along with spot discovery repairs.
+
+Bharat Heavy Electricals limited, Hyderabad, India June 2015 - November 2015
+Controls Engineer Intern
+Verify, Edit and develop AutoCAD schematics control circuit drawing, safety circuit drawings, control panel layout and detailed control panel schematics will all devices and bill of material.
+Programming PLC & HMI devices based on functional specification. Assisted senior engineer in programming Allen Bradly ControlLogix, compact Logix and micro Logix controllers using 500/5000 platform.
+Worked with Siemens SLC PLC and implemented it using STEP7 software and SCHIMATIC manager.
+Developed PLC and DCS programming based on customer specification.
+
+Academic Projects
+Automatic Liquid Filling Process Using PLC
+Created and developed low cost automatic-control Liquid filling process using MicroLogix 500 and Factory Talk view Software.
+Practiced Volumetric filling method besides Gravitational filling method.
+Used Stepper, AC and DC motors for the piston movement and conveyor belt.
+Different sensors like Liquid filling sensors, Bottle position sensors, Syringe empty Sensors are used for the equipment safety.
+
+Contact this candidate

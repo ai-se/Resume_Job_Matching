@@ -1,0 +1,49 @@
+
+Are you looking for an opportunity to accelerate your career and work with a team of friendly, creative people? Upland Software offers a collaborative work environment full of smart, positive, and passionate people who are respected for their unique talents and empowered to do their jobs well. As a member of this close-knit team, you are encouraged to take good ideas and run with them, pursuing the best outcome for our customers while having fun along the way. If these things are important to you and you're driven by delighting customers, we want to talk with you!
+
+Primary Responsibilities:
+
+We are a small team that moves fast, so you will be given significant responsibility. We work in multidisciplinary product teams with engineers, product managers, and designers. We maintain a healthy mix of senior engineers and exceptional junior engineers.
+
+In this role you will be responsible for building delightful interfaces for our four client facing applications. In addition to the individual applications you will be helping to craft our shared open and closed source libraries used across our frontend infrastructure.
+
+Requirements:
+
+* Creatively solve business challenges using React & Redux.
+
+* Deliver high-quality, scalable Javascript and SCSS.
+
+* Work closely with product and design teams to design simple, powerful, innovative user experiences (web and mobile)
+
+* Collaborate with other engineers to hone software engineering skills.
+
+* Work with product and design to understand and implement new features.
+
+* Building out automated frontend tests, to allow us to move quickly with confidence.
+
+* Work in a fast-paced, exciting startup environment.
+
+About You
+
+* You care about the details and take ownership over what you're involved in.
+
+* You value simplicity and user experience.
+
+* You're a good person.
+
+* You're a stickler for loading performance
+
+* You have experience developing software using React & Redux (and ideally Ruby)
+
+Desired Skills:
+
+BS or MS in computer Science
+
+Upland Software (Nasdaq: UPLD) is a leader in cloud-based enterprise work management software. Upland provides seven enterprise cloud solution suites that enable more than one million users at over 9,000 accounts to win and engage customers, automate business operations, manage projects and IT costs, and share knowledge throughout the enterprise. All of Upland's solutions are backed by a 100 percent customer success commitment and the UplandOne platform, which puts customers at the center of everything we do. To learn more, visit uplandsoftware.com.
+
+Upland Software is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, disability, veteran status or other legally protected status.
+SDL2017
+
+
+Go to apply 
+

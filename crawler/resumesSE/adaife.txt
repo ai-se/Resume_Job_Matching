@@ -1,0 +1,131 @@
+
+Jason B. Carpenter
+**** ********* ****** **** ***** TX 76107 254-***-****
+
+adaife@r.postjobfree.com
+
+INFORMATION TECHNOLOGY MANAGER
+Objective
+Obtain a challenging leadership position where diligence, ingenuity, and the desire to learn and advance are recognized and rewarded.
+Expertise in:
+
+●Enterprise Security and Risk Management
+●Cyber Security Operations
+●Windows Systems Management and Design
+●Network Analysis, Implementation, and Configuration
+●Enterprise Technical Support and Troubleshooting
+●Certified and Experienced Instructor of Information Technology
+●DoD TS/SCI Security Clearance (Lapsed)
+
+Key Skills and Attributes
+Leadership Credibility Integrity Enthusiasm Collaboration Innovation Communication Strategic Planning Transparency Customer Service Change Agent SLAs SaaS IaaS SDLC Integration Enterprise Architecture Technology Engagement Program Management Project Management Thought Leadership Software Development Best Practices ITIL Policy Development IT Security HIPAA PCI/DSS EHR EMR IAM Solution Architecture Organizational Development Cyber Security Risk Assessment LAN/WAN Design Public Speaking Staff Development Requirements Analysis Vendor Management Contract Management Healthcare Government
+
+Professional Profile
+
+A dynamic, entrepreneurial, and seasoned IT executive with over 25 years of diverse operations and leadership experience including healthcare, health insurance, research, and Federal government. Achieves success by developing strategies and solutions that support the mission, building strong relationships with stakeholders, communicating effectively in non-technical terms, and maintaining focus on outstanding customer service. Thrives in complex and/or ambiguous environments by channeling passion and enthusiasm into the problem solving process and partnering with stakeholders to find the best solution that is sustainable, cost-effective, secure and aligned with the organization strategic plan.
+
+●Extensive experience in design, management, and implementation of network systems.
+●Recognized expert in the development and implementation of scripting enterprise solutions for information systems administration in a Windows Enterprise.
+●13 broad years of experience in windows systems administration
+●12 Years of Focused Information Security Management, Cyber Security Architecture, and Strategic support of Cyber operations.
+
+Professional Experience
+
+Cook Children’s Healthcare System Security Manager of Identity and Access Management October 2016-April 2019
+●Planned $3M 3 year effort for transition from Core Security Account Automation to Sailpoint IAM suite.
+●Built stable automation system that allows 1500% increase over average per capita manual case work completion by technician as compared to other information service members allowing a single technician to complete more than 1400 cases in a month.
+●Implemented Electronic Prescribing of Controlled Substances (EPCS) System and integrated with EPIC EHR workflow.
+
+Cook Children’s Healthcare System Manager of Security Administration June 2010-October 2016
+●Led a team of 7 security analysts in cyber operations and IAM account operations.
+●Progressive design and implementation of IAM Account automation system with Courion now called Core Security.
+●Progressive development of Single Sign On infrastructure in the enterprise to provide single identity system.
+●Oversaw implementation of Antivirus systems, Data Leak Protection System, and Security Incident and alert system with McAfee SIEM and Intel Security Product Suites.
+●Comprehensive Design of Disaster Recovery systems for all Enterprise networks to include offsite data center with failover testing.
+●Acting change manager for the organization built change automation system and workflow for oversight using existing salesforce system.
+
+Cook Children’s Healthcare System Interim Manager Sept. 2009-June 2010
+●Implemented Intrusion Detection and prevention system tuning event alerting to block 56% of all inbound packet traffic based on rule set prior to firewall evaluation.
+
+Cook Children’s Healthcare System Security Analyst July 2008-Sept. 2009
+●Grew McAfee Anti-virus infrastructure to encompass enterprise AV solution. Grew from 2 servers to 14 servers.
+●Implemented Imprivata Single Sign On for consolidated secure login.
+●Designed proxy rules and transitioned organization to new proxy server. Moved corporate proxy from Bluecoat to Websense proxy transition services for CCHCS to Right sized proxy services.
+
+General Dynamics GDIT Systems Engineer/Technician CONUS-Deployable June 2005-July 2008
+Al Udeid Air Base, Qatar
+●Windows NT/2000/2003 Enterprise Systems Administrator: Administer all core services and support core and functional servers for NIPR, SIPR, CSD, CENTRIXS and JWICS networks on a local and Enterprise basis. Core services include Exchange, file shares, anti-virus (SAV), system backups, DNS services, Enterprise SMS Management Patch design testing and implementation, SQL Servers, and Special Access Servers and applications.
+●Provide support of the following platforms MS Exchange, 2003/Active Directory, Veritas backup executive software, Network Appliance storage device SAN/NAS and Systems Management Server (SMS 2003) to include package development and deployment.
+●Provide on-site system administration support on an as-needed basis to field sites within the US Central Command Area of Operation (AOR).
+
+Instructor of Information Systems Technology Sept. 2003-June 2005
+Goodfellow Air Force Base, San Angelo TX
+●Design, develop and instruct information technology courses to familiarize our newest members and challenge our oldest experts to better our network operation.
+●Senior technical advisor, project leader and Non-commissioned officer in charge
+●Special Projects team leader, continually tasked with the most difficult assignments due to my ability to get the job done.
+
+Defense Collaborative Tools Suite Systems Administrator Jan. 2003-Aug. 2003
+Special Operations Central Command Camp As Sayliya, Qatar
+●Full spectrum management of four networks for over 300 worldwide nodes maintaining a 99.7 percent uptime of critical servers and circuits in support of Operation Iraqi Freedom and Operation Enduring Freedom counter terrorist operations.
+●Controlled, secured and monitored traffic for secure communications for commanding general, component commanders, and Joint Chiefs of Staff over H.323 and T.120 protocol connections.
+●Configured theater component firewalls during military operations to enable SEAL team forces and Naval Special Warfare Commanders real time voice, video, and data communications on the battlefield using Defense Collaborative Tools Suite applications over point to point and satellite uplink connections.
+
+Help Desk Non Commissioned Officer in Charge July 2002 – Jan. 2003
+Goodfellow Air Force Base, San Angelo TX
+●Supervised team of thirty two technicians in support of Goodfellow Air Force Base networks.
+●Provided network support for over 3,500 users 3,000+ network devices and a transient students body of 25,000 across three classifications of DoD networks
+
+Help Desk Team Leader Nov. 2001 – July 2002
+Goodfellow Air Force Base, San Angelo TX
+●Lead and trained a team of eight computer support technician in support of Goodfellow Air Force Base unclassified networks.
+●Operating system rollout team lead for 3000 end nodes.
+
+Communications Security Manager Oct. 2000 – Oct. 2001
+Camp Humphreys Army Intelligence, South Korea
+●Supervised team of two technicians in support and maintenance of largest cryptographic inventory on the South Korean Peninsula.
+●Security Manager for 250 personnel and Intelligence office for 607th Combat Communications Squadron Commander and Director of Operations
+●Maintained over 3000 electronic and hard coded keys and over 11 safes of classified materials ensuring timely distribution, asset management and destruction in accordance with DoD and NSA guidelines.
+
+Network Administrator Sept. 1999 – Oct. 2000
+Dover Air Force Base, Dover DE
+●Administrator for 14 NT domain and 70 servers serving 4200 end users
+●Microsoft Exchange Server 5.5 team leader
+●Base Defense Messaging System Administrator
+●Base Systems Management Server 2.0 Administrator
+●Squid Proxy technician
+●Base Symantec Norton Antivirus administrator
+
+Small Computer Maintenance Technician Oct. 1998 – Sept. 1999
+Dover Air Force Base, Dover DE
+●Component Level troubleshooting and repair of government personal computer assets
+
+Space Systems Operator Oct. 1994 – Oct. 1998
+Onizuka Air Station, Sunnyvale CA
+●Liaison for experimental satellite telemetry constellations between Air Force Space Operations Centers and Lockheed Martin Missiles and Space gathered organized and archived wide-band and narrow band satellite communications.
+●Ensured wide band and narrow band communications integrity for DOD satellite constellations.
+●Communications operator providing third tier backup communications for NASA shuttle missions STS 86 through STS 92 as part of the 5th Space Operations Center.
+●IBM 970 Mainframe operator
+
+Industry Certifications and Training
+
+Dale Carnegie Graduate 2017
+Certified ITIL Foundations 2011
+CompTia Network + certification 2005
+
+Classes Attended:
+BCMSN (Building Cisco Multi-layered Switched Networks), Intro. to Routing, SNS (System Network Support), Computer Systems Control, Sidewinder Essentials 4.1, Hp Open view Essentials, Windows Active Directory Server 2003, Managing Microsoft Systems Management Server 2003, Introduction to TCP/IP, Introduction to Networking, Local Area Networks, Wide Area Network, Internet Technologies, Internetworking Devices, Protocol Analysis, Network Design, Pascal, Interconnecting Cisco Devices, Microsoft Exchange Server 2003, Implementing a System Management Server 2.0, Implementing Windows 2000 Active Directory, Implementing a windows 2000 Infrastructure, Supporting Microsoft Windows NT Core Technologies, Netapp University Network Appliance Technical Education…I’ve got a list—call me!
+
+Academic Background
+Air University A.S. INFORMATION SYSTEMS TECHNOLOGY
+Community College of the Air Force (CCAF)
+
+Western Governors University
+Cybersecurity and Information Assurance – B.S. Enrolling June 2019.
+
+Due to my involvement in clandestine military service my personal and references information during the term of my military service have been redacted from this resume for my security and the security of my former associates. DoD associates please reference SF86 contacts against my SSAN when validating my security clearance for interview or reference purposes.
+
+PUBLIC SECTOR: LIMITED REFERENCES AND ADDRESS INFORMATION ARE AVAILABLE UPON REQUEST.
+
+Jason B. Carpenter
+
+Contact this candidate

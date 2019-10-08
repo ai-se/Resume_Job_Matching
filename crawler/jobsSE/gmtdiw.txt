@@ -1,0 +1,39 @@
+
+Principal Software Engineer - Assembler / C
+
+**Tracking Code**
+
+1918-509
+
+**Job Description**
+
+**Required Experience**
+
++ Excellent assembly language skills
++ Solid C language skills
++ Ability to read/code in cross memory environment
++ Excellent dump reading/debugging skills
++ Familiar with z/OS or Comm Server processing
++ Code versioning and repository management
++ Code performance and optimization
++ Experience in Agile development
++ Flexible and adaptable regarding learning and understanding new technologies
++ Ability to conduct research into software-related issues and products
++ Highly logical & technically proficient
++ Ability to effectively prioritize and execute tasks in a high-pressure environment
+
+Rocket Software Inc. is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Rocket Software Inc. is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+
+Rocket is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. If you need special assistance or an accommodation while seeking employment, please call: 781 or send an email to rocketsoftware.com. We will make a determination on your request for reasonable accommodation on a case-by-case basis.
+
+**Job Location**
+
+Waltham, Massachusetts, United States
+
+**Position Type**
+
+Full-Time/Regular
+
+
+Go to apply 
+

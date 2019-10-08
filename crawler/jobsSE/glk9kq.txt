@@ -1,0 +1,8 @@
+
+Currently we are undertaking a significant migration of Flexera applications/platforms to the cloud.
+
+Inorder to facilitate this, we require a talented Cloud-experienced engineer to join us for that mission.We are seeking someone with expensive experience working on a SaaS/Cloud product with a micro-services architecture, in a DevOps culture, with a strong C/ICD approach.The role involves:Development of new product features, through the full life-cycle including requirements, technicaldesign, automation, testing, deployment, and monitoringHelping refactor a product to a micro-services architectureEstablishing and enhancing CI/CD pipelinesEnabling existing and new product features to run from the cloudObject-oriented design and analysisCollaboration with other teamsInvestigation, debugging and resolution of customer issuesMentoring of team-members on cloud computing, infrastructure and best practicesEnsuring the security and reliability of shared Infrastructure with the Flexera cloudMaking Reliability a first-class citizenResponsibilities:Development: Design, develop and deploy new features for Flexera products/platforms, as defined by goalsfrom the SRE organizationOperations: Define and manage the processes and tools that facilitate the programâs goals.Mentoring: Mentor and guide team.Be a middleman between the development team and the SRE organization members on best practicesFull time
+
+
+Go to apply 
+

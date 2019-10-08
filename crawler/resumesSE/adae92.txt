@@ -1,0 +1,76 @@
+
+Mohanapriya
+Narapareddy
+Software Engineer CS
+Graduate
+Personal Info
+Phone
+404-***-****
+E-mail
+adae92@r.postjobfree.com
+GitHub
+https://github.com/MohanaPriyaNaraparedd
+y
+LinkedIn
+https://www.linkedin.com/in/mohanapriya-
+narapareddy-753865136/
+Skills
+Java, Python, C++, SQL
+Advanced
+JSP, Servlets and JDBC
+Proficient
+Spring and Hibernate
+Proficient
+Data Analysis, Machine learning
+Proficient
+Agile Methodologies, Waterfall methodology
+Proficient
+NodeJs, HTML5
+Moderate
+Hadoop, HDFS, Map Reduce, Pig, Hive,
+Apache Spark
+Moderate
+Publications
+Presented ‘Object tracking using learned
+hierarchical features ’ at international
+conference on Data Analytics, ICDAMM
+2016.
+Certificates
+2016-12
+Oracle Certified Professional Java SE6,
+Programmer
+2017-01
+Udemy Certification in Spring and Hibernate
+Advance Learning
+2017-05
+Udemy Certification in JSP Servlets and
+JDBC Advance Learning
+Experience
+2018-06 -
+present
+Emory Healthcare
+Software Engineer - Stanford Medicine
+Working with Stanford Medicine on a Datascope search web application using the MVC architecture with Spring and JSP. Implemented some of the design patterns like data access object (DAO) and service facade design pattern to make the architecture more efficient. Followed Agile development and consistently delivered new features during sprints. Working on controller servlets encapsulating the business logic, and helper classes to interface with the data base. Developed an utility which transfers the cancer images from the TCIA and creates the dicomwebstore and google cloud bucket to post the images in bucket. Working on Spring Boot - Build a REST CRUD API with Hibernate. Responsible for end-to-end design and development of the application and maintaining data. 2016-08 -
+2018-05
+University of Texas at Dallas
+Research Assistant - NLP
+Worked on the data preprocessing steps like univariate analysis, bivariate analysis, missing data imputation, sampling, feature selection, outlier detection and imputation. Implemented several supervised learning algorithms such as Ensemble Methods,Logistic Regression, SVMs, Extreme Gradient Boosting. Evaluated each model using various metrics derived from the confusion matrix. Plotted ROC curve for each model. Performed sentiment analysis of twitter posts to determine positivity using machine learning (logistic regression, naïve bayes) and NLP techniques of stemming, lemmatization, using Python libraries. 2016-01 -
+2016-08
+Lexicon Infotech Ltd
+Software Engineer Intern
+Worked on Java serialization and deserialization implementing the encapsulation principle. Designing and created Java Web Services using Spring Boot. Worked on developing, configuring, debugging and evaluating the REST API implementation for functional business areas.
+Projects
+Customer Management Data Base Web App (Spring MVC, Hibernate, JSP, SQL) Created MVC and hibernate application that connects a database of customer relation management. Created customer controller using Spring MVC. The customer controller makes use of Data access object, which access the data base using the hibernate API. Implemented Service Facade pattern, creating a service layer, which acts as an intermediate layer for customer business logic.
+MVC application using Servlets and JSP: (JSP, Servlets, JDBC, HTML5, SQL,CSS3 ) Created a Student data web application using the MVC architecture with Servlets and JSP. Created a controller servlet to hold the Business logic and the helper class student db Utility, which interfaces with data base using JDBC code. View Presentation layer is created with JSP, Using JSTL tags. The operations like listing student data, Adding, updating and deleting the data was implemented.
+ALCF Concept to Clinic Challenge - Lung Cancer Prediction (Scala, Python) This project is developed with the target of predicting abnormal tissue that may cause lung cancer from XML dataset. Trained two models- Random forest and SVM with param grid, crossvalidation and PCA using Spark MLlib.
+Online Ecommerce Website: (Agile Methodology)
+Designed and developed the front end of the app with Java Swing, developed back end and database with MySQL and JDBC. Performed critical Object-oriented analysis – applied design principles while developing this application using Java Swings. Implemented Agile development process and principles, Presented documentations with UML designs iteratively. DBLP Recommender System: (Java, Scala, R programming, python) In this project, we aim to find how probable is the author to publish the article in a particular journal and what is the probability that author will publish article on a particular category. Author can get suggestion on journal and category of the topic. Contact Manager Database Application: (Java, MY SQL) Created a Database host application using Java that interfaces with a backend MySQL database that implements Contact manger application. Implemented Insertion, Update and Deletion queries. Application is built using MVC architecture. Angular JS Weather Forecasting Application: (HTML, Java Script, Angular) Implemented Bootstrapping, defined a controller for handling weather data in $scope, defining a service for fetching data.
+Education
+2016-08 -
+2018-05
+University of Texas at Dallas, Masters of Science, Computer Science Major (3.68/4.0)
+2012-08 -
+2016-05
+SRM University, Bachelor of Technology, May 2016, Computer Science Major (9.47/10.0)
+
+Contact this candidate

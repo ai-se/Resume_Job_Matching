@@ -1,0 +1,123 @@
+
+Ph +1-952-***-****
+Sarika Shinde
+(Master’s in Engineering, Computer Science)
+Having Green Card, authorized to work in the USA for any employer
+
+adag0e@r.postjobfree.com
+mailto:adag0e@r.postjobfree.com
+5+ Years of IT experience, experience on PEGA Web application as Software Quality Assurance (SQA), knowledgeable in Agile and familiar with Object-Oriented Programming, XML/HTML and Java.
+5+ years of core experience in the areas of Software Testing/Quality Assurance, Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+Have the ability to elicit, understand and articulate business requirements and perform detailed analysis to map them to functional QA requirements.
+Expertise in creating and executing Test Scenarios and Test Cases, Defect Reporting & Documentation as per business requirements with HP ALM, Quality Center, Microsoft test Management.
+Experience in testing cross-functional interdependencies between various applications
+Experience in working in AGILE and WATERFALL SDLC methodology.
+Hands on experience in writing Basic SQL queries and XML/HTML.
+Experience in Financial services, Payroll, Agricultural, Educational services.
+
+TECHNICAL SKILLS
+Manual Testing: Black Box Testing, Verification & Validation, Test Plan & Test Report, Integration, System, Regression & Acceptance Testing, Bug Life Cycle, Test Case Format, Functional Testing, SDLC
+Operating Systems: Windows, UNIX/LINUX
+Database: Oracle and SQL server.
+Subjects: C, OOPL, C++, Discrete Structure, Data structure and Algorithm, Image Processing, Compiler Designing.
+Languages: C, C++, OOPL, Java, JSP and PL/SQL, XML, HTML
+Tools and utilities: Eclipse, Lex Analyzer, YACC Parser, Rational Rose HP ALM Quality Center, Pega PRPC V 6.3
+
+LIST OF PUBLICATIONS
+●Paper published on “Shape Indexing for Fast Matching and Efficient Retrieval of Shapes” in IFRSA journal
+●Paper presentation on “Shape Indexing for Fast Matching and Efficient Retrieval of Shapes” PGCON conference, India.
+
+WORK EXPERIENCE
+
+1.Project Name: DB PN Implementation and Maintenance
+Client: DB Schenker, Mechanicsburg, PA
+Duration: Jan 2018 – Till date
+Designation: Business Analyst/QA
+
+Client Description: DB Schenker is a division of the German rail operator Deutsche Bahn AG that focuses on logistics. Its world’s leading global logistics provider. It comprises divisions for air, land, sea freight, and Contract Logistics. Founded in 1872, with 2000 locations and 75800+ employees worldwide.
+
+Responsibility: Sarika’s responsibility includes to compile and analyze data. Prepare reports on actual information that improve management decision-making and operational performance. Ensure compliance with procedures and quality standards and implement management directives. Participate with the testing of systems, including development of test plans and scenarios, conducting user acceptance testing (UAT) and System Integration testing (SIT) and business process validation. Functional testing of application.
+Preparation and execution of new feature test cases and test scenarios for system Integration testing (SIT), User acceptance testing (UAT) and Functional testing.
+Checking end to end process flow of the app.
+Maintained the test logs, test reports, test issues
+Creating Daily status reports for the execution carried out. Defect Reporting.
+Involved in UAT testing, providing support to team.
+Participated in product development activities and project managers at the planning and execution levels.
+
+Nov 2015 – Dec 2017
+Freelancing work Project Mentor – Engineering Students (Computer Science)
+Volunteering: Teaching Kindergarten and 1st grade students’ foreign language (Marathi) in HARI Institute
+
+2.Project Name: PEGA PRPC Testing, eWorkflow Case Migration, Service Delivery Technology
+Client: Ameriprise Financial, Minneapolis, USA
+Environment: PEGA PRPC. Version 6.3 SPI
+Designation : Quality Analyst Duration : February 2015 to Oct-2015
+
+Project Description: One of Pega’s core strengths is its industry-leading Case Management capabilities. Most case management solutions provide workflow capabilities receiving, routing and reporting on work across the organization. Pega accomplishes these tasks automatically and leverages its Business Rules Engine and Business Process Management Engine to intelligently resolve work without manual intervention.eWorkflow is the program initiated by the client Ameriprise to migrate the existing front office and back office processes from a legacy system, Sales and Service Delivery, to the new system, eWorkflow, which is customized based on the Business Process Management (BPM) platform. My Project Deals with the migration all cases by functional area from legacy system (SSD) to New System (eWorkflow)
+
+Business Problem: Preparation of test design documents for the new features that are implemented in PRPC 6.3 version, based on the requirements given in the incubation of the new feature. The documents are the primary source for the testing team for analyzing the feature and incorporate them in their regular testing. The feature testing is also done at our end while preparing the documents.
+
+Responsibilities :
+Functional testing of cases migrating from old legacy system (SSD) to newly developed PEGA application.
+Checking the new features and variables, end to end process flow of the app.
+Preparation and execution of new feature test cases and test scenarios for system Integration testing (SIT), User acceptance testing (UAT) and Functional testing. Experience on creating image cases and store them as document to provide business analyst for UAT testing.
+Executed Test cases in the Lab with all team members and business people.
+Complete ownership of executing/testing and logging of defects (bugs) found in new features.
+Maintained the test logs, test reports, test issues, defect tracking using Quality center HP QC ALM
+Creating Daily status reports for the execution carried out. Defect Reporting.
+Involved in every month project new feature release and verify the back end tables.
+Involved in UAT testing, providing support to business team (UAT TESTERS).
+Participated in product development activities with business analysts and project managers at the planning and execution levels.
+Experience of having meetings with project manager, business analyst and offshore programmer team weekly to provide report status and discuss issues blocking testing
+
+Environment:
+PEGA PRPC Version 6.3 SPI, PEGA-BPM/CRM, Agile, Microsoft office 2010, Bulk-Case Adhoc Tool, HP Quality Center ALM, Microsoft Excel, Microsoft SharePoint suite,Microsoft test Management.
+
+3. Project: ADP Payroll Services.
+Client: ADP, Minneapolis, USA
+Designation : Production Support Engineer
+Duration : November 2014 to January 2015
+Responsibilities :
+Provide Support to software to check whether paystubs are running correctly as per company batches.
+Report the issue if any paystubs not running accurately.
+Run the software program to print particular company pay cheque.
+Review paystubs before its staffing.
+Make the entries into program after paystubs get printed.
+Coordination with team to organize paystubs as per their batches and code.
+Coordination with team for staffing paychecks according to company code and make the entries into software to sure that how many cheque has been staffed and scanned as per batch code.
+
+4.Project: CAYMET, Pune, INDIA Project Mentor and Lecturer
+Duration: July 2008 to Dec.2012
+Responsibilities:
+Involved in analysis and design
+Review of analysis and design prepared by team.
+Prepared and Executed Test cases as per System Requirements.
+Coordination and mentoring team members. Weekly project status report.
+Coordination with team, explain the complex requirement and making them to understand properly. Understanding the Requirements and Functional Specifications of application.
+Involved in Bugs Tracking & Prepare Bug Report Document
+Taught computer engineering subjects: C, OOPS, C++, Data Structure and Algorithm, Compiler and Designing
+Data Validation with SQL queries, to check the database as per functional and business requirement.
+
+Environment : UNIX,LINUX, Microsoft Office, Rational Rose, C, Object Oriented programming language, LEX-analyzer,YACC- parser, XML/HTML, Eclipse, Java, SQL server, Oracle 9i, MS Excel, Microsoft Test Manager, PL/SQL, HP Quality Center ALM,
+
+5.Project: i-NABARD
+Client: Watershed Technology, INDIA Software Engineer
+Duration : Nov.2007 to June 2008
+Technology : Java, JSP, PL/SQL
+Responsibilities :
+Understanding SDLC and Requirements and Functional Specifications of application
+Created Test input requirements and prepared the test data for back end testing.
+Create test plan and test cases for manual and automated testing from business requirement to match the project's initiatives.
+Created and executed detailed test cases with step by step procedure and expected result. Maintained the test logs, test reports, test issues, defect tracking using Quality center./ALM
+Performed various black box testing Methodologies like functional testing and Regression testing.
+Involved in Bugs Tracking & Prepare Bug Report Document.
+Able to manage test data and utilize test data management tech.
+Involved in testing the reports and UI screens containing those reports provided status report on test execution, and defects identified during testing.
+Validated the agricultural data using SQL queries in Backend Testing
+Environment: XML/HTML, Eclipse, Java, SQL server, Oracle 9i, MS Excel, Microsoft Test Manager, HP Quality Center ALM
+
+EDUCATION DETAILS
+Masters in Engineering (Computer Science), Pune University, India
+Bachelors of Engineering (Computer Science), Pune University, India.
+
+Contact this candidate

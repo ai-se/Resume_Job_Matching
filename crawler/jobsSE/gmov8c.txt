@@ -1,0 +1,28 @@
+
+ssential Duties and Responsibilities Implements and maintains networkserver infrastructure (physical and virtual) for the purposes of ensuring effective and efficient delivery of IT services in compliance with established guidelines and objectives Coordinates and implements network security measures to protect data, software and hardware.
+Install and test hardware and software updates and enhancements troubleshoot hardware and software problems in various operating environments and plan and execute routine maintenance of systems and applications.
+Oversee various areas of the virtual server environment, including Active Directory, Windows Servers, vSphere, scheduled down times and disaster recovery planning.
+Monitor the performance of network and systems environments to assure limited down-time and provides necessary recommendations for improvements and ensures system backups are active and current and routinely tests restore functions.
+Create appropriate network and communications systems documentation.
+Automate dailyweekly jobs (using provided tools, scripting, etc) for process improvements.
+Participate and assist in major technology projects.
+Maintain telecommunications systems including voice, fax and data.
+Qualifications Experience testing, implementing, and supporting IT network systems Experience with IT systems, network and systems management technologies Experience with the following areas Network Engineering System securitybackuprecovery Systems engineering System migrationsintegrations Cisco experience configuring routers, switches and firewalls, including VPN tunnels and remote access is desired.
+Demonstrated experience in virtualization and consolidation of server technologies, specifically VMware vSphere and ESXi Virtual Infrastructure.
+Current Security certification desired CCNA, MCSE, VCP a plus Competencies MUST be a team player Excellent organizational and analytical skills Strong Problem SolvingAnalysis Excellent verbal and written communication skills Personal effectivenesscredibility working with complex projects and multiple constituents Ability to work well with people from different disciplines with varying degrees of technical experience Applicable Preferred LicensesCertifications System Security Certified Practitioner (SSCP) or Certified Information Systems Security Professional (CISSP) VMware Data Center Virtualization certification, VMware Desktop and Mobility certification CCNA certifications in Routing and Switching, Wireless and Data Center Supervisory Responsibilities This position has no supervisory responsibilities.
+Work Environment This job operates in a professional office environment which routinely uses standard office equipment such as computers, telephones, and photocopiers.
+Physical Demands The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+While performing the duties of this job, the employee is regularly required to talk or hear.
+The employee frequently is required to stand walk hands to finger, handle or feel and reach with hands and arms.
+Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust focus.
+Travel Approximately 10 travel is anticipated.
+Security Required to consistently demonstrate adherence to all security requirements and accepted practices as contained in the current ESS Security Policy.
+Incumbents must proactively read, comprehend and adhere to all ESS security policies, practices and procedures regarding the safety and safekeeping of co-workers, products, services and other intellectual property as defined in the ESS New Business and Non-disclosure, or Proprietary matters, Confidential matters and Non-Competition agreements, and the current ESS Security Policy Manual.
+EEO Statement In order to provide equal employment and advancement opportunities to all individuals, employment decisions at ESS will be based on merit, qualifications, and abilities.
+ESS does not discriminate in employment opportunities or practices on the basis of race, creed, color, religion, sex, sexual orientation, national origin, citizenship status, marital status, age, disability, genetic information, or because of past, current, or future military obligations or any other characteristics protected by law.
+This policy governs all aspects of employment, including selection, job assignment, compensation, discipline, termination, and access to benefits and training.
+E-Verify ESS shall electronically verify the employment eligibility of their newly hired employees and shall submit a query to E-Verify for any newly-hired employee after completion of the I-9 process and no later than the end of the third business day after the employeersquos actual start date.
+
+
+Go to apply 
+

@@ -1,0 +1,29 @@
+
+The Custom Development Team is looking for an individual with strong problem solving abilities and people skills.
+This position will be a hybrid between resolving product issues for customers and working on clients upgrade events.
+This position is focused on driving overall resolution of customer-impacting technology issues by both independently resolving technical issues and working with other groups outside of the team to drive overall customer satisfaction.
+Here at Ultimate Software, we truly put our people first.
+We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential.
+Ultimate is ranked 1 on Fortune's Best Places to Work in Technology for 2019 and 8 on the 100 Best Companies to Work For list in 2019.
+Ultimate is also ranked 1 on Fortune’s 75 Best Workplaces for Women and 5 on its Best Workplaces for Diversity list.
+Primary/Essential Duties and Key Responsibilities: Work directly with clients to resolve their issues.
+Work closely with team members for debugging issues and determining root cause.
+Participate in cross-training to expand your technical skillset.
+Work closely with team members during client upgrade events.
+When troubleshooting with customers, provide them with clear direction on how they can fix the issue on their own.
+The ability to clearly document and articulate the root cause of issues and resolutions to customers both verbally and written within the context of a customer service case.
+Required Qualifications: (Knowledge, Skills and Abilities) Solid scripting skills in Java, 1 year experience preferable.
+Front End Development experience a plus C# MVC, Angular, HTML5, CSS3, JavaScript Back end development experience is preferred MS SQL Server Database/Power User Agile or Lean software development experience such as Kanban or Scrum Programming methodologies is preferred Ability to write code and test your own work Microsoft SQL Server Administration.
+Ability to write SQL queries and decipher complex stored procedures, triggers, scheduled jobs.
+Ability to identify when table indexing would benefit query performance.
+Ability to capture SQL traces via Profiler.
+Familiarity with Object-Oriented Design (OOD) Familiarity with web standards and Linux Installing, configuring, testing and maintaining testing environments - application software and system management tools Excellent ability in Logical and Physical Data Model creation Good technical writing and documentation skills Teamwork is a must Combination of business and technical background (Experience, Education, Certification, License and Training) Bachelor’s degree in Computer Science, Software Engineering, MIS or equivalent in work experience Preferred Qualifications: Bachelor’s degree in Computer Science, Software Engineering, MIS or equivalent in work experience Physical Requirements: No unique physical demands are required for this job.
+Travel Requirements: 5% or less (Limited travel upon request) This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed.
+It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job.
+Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
+Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes.
+If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company’s online employment application, please contact accessibilityultimatesoftware.com.
+
+
+Go to apply 
+

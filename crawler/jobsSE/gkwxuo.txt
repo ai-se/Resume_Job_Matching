@@ -1,0 +1,112 @@
+
+"
+
+Job title: Performance Test engineer
+
+Location: Pleasanton, CA
+
+Duration: Fulltime/Permanent
+
+Responsibilities:
+
+Must Have at least 6 years of experience in performance testing
+with at least 5 years in writing Performance scripts in LoadRunner.
+
+Ability to define and drive the performance test approach and
+methodology for extensive enterprise web solutions
+
+Experience in identifying and analyzing performance test
+requirements and results to understand level of risk
+
+Proficient in Load runner scripting with different protocol like
+Http, HTML, Web Service, True web, Tru-Client, Citrix, etc.,
+
+Proficient in JMeter and java script.
+
+Strong knowledge in developing and analyzing performance issues.
+
+Performance testing experience through DevOps pipe line.
+
+Strong troubleshooting skills
+
+Proficient in using monitoring tools like Dynatrace, nmon, Splunk,
+SiteScope, IBM ISA tools for GC and Heap analysis, Wireshark, etc.,
+
+Comfortable with the operating systems:
+LINUX, UNIX, WINDOWS and
+associated performance counters and navigation
+
+Experience in writing Unix shell scripting is a plus
+
+Comfortable with Web Services/API testing tools like SOAP UI &
+Rest Client
+
+Familiarity with Application servers like WebSphere, WebLogic
+& Tomcat
+
+Knowledge of Adobe experience manager is a plus
+
+Qualifications:
+
+Business requirement gathering
+workload, throughput, SLA s
+
+Developing the Test Plan Strategy, Test plan and Performance reports.
+
+Developing/Enhancing the scripts using LoadRunner using different
+LR protocols
+
+Design Test Scenarios
+
+Manages HP LoadRunner script design, development and inventory
+
+Execute Performance test like stress, volume, load, capacity, long
+duration and failover tests
+
+Performance Tuning, Error Analysis & Publishing Test Results
+
+Monitoring the tests and analyze the performance issues make
+recommendations on how to fix the issues
+
+Defect tracking and follow up with required stakeholders. Organize
+and conduct defect triage meeting.
+
+Should have strong experience in all phases of performance test
+life cycle.
+
+Ability to work on multiple projects simultaneously.
+
+Ability and initiative to work independently.
+
+Excellent verbal and written and listening communication skills.
+
+Technology Stack
+
+HP Performance Center 12.62
+
+Load Runner 12.62
+
+Jmeter
+
+SOAPUI/RestClient
+
+HP SiteScope, Dyna trace, Quest Foglight
+
+Unix/Linux/Solaris/Windows
+
+Adobe experience manager
+
+DevOps pipeline, Jenkins, Github, Websphere/Portal/Tomcat/Axway
+Reliable Software
+is an Equal Opportunity Employer. Reliable
+Software does not discriminate on the basis of race, religion, color,
+sex, gender identity, sexual orientation, age, non-disqualifying
+physical or mental disability, national origin, veteran status or any
+other basis covered by appropriate law. All employment is decided on
+the basis of qualifications, merit, and business need. - provided by Dice
+
+Full Time
+
+
+Go to apply 
+

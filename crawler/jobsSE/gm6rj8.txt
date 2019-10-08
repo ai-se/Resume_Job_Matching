@@ -1,0 +1,11 @@
+
+Derivative Path, Inc. is a leading financial technology firm serving regional banks, corporate end-users, and buy-side clients. Our entrepreneurial culture fosters creativity, team work, and innovation. We're a rapidly-growing company that is passionate about capital markets, and we're always looking for people who are as excited about the industry as we are.
+We're a fun, hard-working team, with offices in Walnut Creek, CA, Chicago, IL and New York, NY.
+LocationSan Francisco, New York City, or Chicago
+Position OverviewDevelop, create, and modify DerivativeEDGE to build financial tools and create and price financial productsDesign, test, and validate financial models and pricing methodologiesImplement portfolio-level reporting (CVA, PFE) for various asset classesInteract with market data feeds and databases within the DerivativeEDGE applicationDocument models, tools, and system workflowsWork individually and as part of a team
+General SkillsStrong analytical skills. Knowledge of statistics, calculusStrong knowledge of interest rate and foreign exchange financial instruments and modellingStrong OOP skillsPrior experience with third party analytics packagesExperience working with relational and non-relational databasesStrong communication skillsHighly organized; thoroughExperience with CVA, PFE, or other credit reporting a plus
+Tech SkillsStrong Java programming skillsNumerix, Strata, or similar third-party analytics packagesExperience with ExcelEducationBachelors degree related to computer scienceMaster in Financial Engineering preferred
+
+
+Go to apply 
+

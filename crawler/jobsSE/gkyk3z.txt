@@ -1,0 +1,44 @@
+
+Sailpoint Engineer
+6+ months
+St. Louis, MO; Remote
+
+Job Responsibilities:
+Hands on Knowledge on - SailPoint IIQ 7.3 or later
+Must have a background of on-boarding application into the SailPoint IIQ 7.3 or later
+Communicate strategies and best practices with staff or clients for product implementation
+Manage source code and builds for compliance reporting
+Install, customize, configure, and support identity provisioning and governance tool
+Develop Java code for reporting, role management, custom rules
+Develop documentation, workflow diagrams, and test scripts
+API / Web Service Integrations
+
+Skills and Experience Required:
+5+ years of experience implementing enterprise identity management, access management and security solutions in client environments
+3+ year s technical architecture experience integrating identity and access management software into client s enterprise systems and infrastructure and managing the full SDLC
+Experience developing identity management strategies, architectures and implementation road-maps that include access management, RBAC, provisioning, certification, entitlement management and policy management
+Demonstrated understanding of business processes, internal control risk management, IT controls, related standards and implications to identity management and security/audit compliance
+Strong technical skills across a variety of technologies such as multi-tiered architecture, databases, LDAP and directory services, application servers, network infrastructure, and understanding security and dataflow within these components
+Experience configuring, developing, and deploying scalable enterprise applications within multiple application server, operating system and database environments (e.g. WebLogic, on Windows, Linux, UNIX and Oracle, SQL Server)
+Strong hands-on Java/J2EE experience
+Experience with SOAP and RESTful web services architectures
+Good knowledge of software development principles, design patterns and Test Driven Development
+Experience with one or more of the following build and deployment tools Ant, Maven, Jenkins, Gradle, and Ivy
+Excellent collaboration, problem-solving and decision-making skills
+Experience in leading and building client facing solution delivery teams
+Password management customize to business needs
+
+Desired:
+Microsoft Active Directory experience
+Health care experience
+Cloud integration experience
+
+Thanks,
+Tabrez Khan
+
+Contract
+6 Months
+
+
+Apply now
+

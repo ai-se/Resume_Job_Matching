@@ -1,0 +1,100 @@
+
+Cisco Certified Network Associate
+SUMMARY
+Focused Network engineer bringing 3 years of diversified networking expertise.Excels at identifying and solving technical issues.
+Professional detail orinted network engineer motivated to drive projects from start to finish as part of a dynamic team and experienced in desktop support and network configuration.
+Skills & Certifications:
+• CCNA-Cisco Certified Network Associate
+Configure delay & support secure routers.
+2nd level of network security support (a couple of levels higher than help desk).
+Network security monitoring and analysis.
+• RHCE-Red Hat Certified Engineer
+Configuration static routers, packet filtering and network address translation.
+Setting Kernel runtime parameter.
+• Domain Expert on PCB Design and industrial PCB boards repairs.
+Assist in designing and developing printed circuit boards (PCB)
+• A+ N+ comptia course completed at IIHT Bangalore.
+• Operating Systems : Windows7,Windows8,Windows10
+• Hardware Skills : PC, Switching, Laptop Maintenance, Troubleshoot
+• Programming Software : C, C++, & Core Java.
+• Server experience : Windows 2003, 2008, 2012.
+WORK EXPERIENCE:
+1) Worked with Ansar Gulf General Trading Cont.co. Kuwait as a NETWORK ENGINEER.
+Duties & responsibilities: (Duration :- 2 years)
+Lead team of network engineers to maintain system security.
+Good knowledge of OSI @TCP/IP model.
+Create software to improve security and set up backup data storage. ALROUF ABDUL ALEEM –IT support B.E (ECE)
+Mob: +965-******** / 96626797
+Email: ac9964@r.postjobfree.com
+Hands of experience of CISCO routers backup recovery and password breaking.
+Implementation LAN and WAN connections using switches and routers.
+Analyzed systems to identify and perform needed maintenance.
+Setup of layer 2 layer 3 switching.
+Experience of cisco routing and switching.
+Responsible for communication protocols, configuration, integration & security.
+Working knowledge of major networking components and hardware components.
+CCTV OPERATOR:-
+Monitored premises of large commerical office complex with CCTV network.
+Reviewed activities captured on camera and notified authorities of supicious activity.
+Archived CCTV foootage and maintained its tracking database.
+Install, repaired, and maintained CCTV cameras.
+kept maintenance and repair records for security equipment.
+Identified areas that required CCTV monitoring.
+Worked with IT and purchasing departments to develop and implement an upgraded expanded CCTV security monitoring system. BIOMETRIC DEVICE (AC 900)
+Responsible to determine the type of the biometric system to be used depending upon the security level required.
+Responsible to troubleshoot the automatic fingerprint detection device
+Responsible to manually match the fingerprints in the database with the machine generated ones.
+To determine the detection type to be used in fingerprint detection (arc, whorl, loop etc.)
+Responsible to prepare the database of the fingerprints of the employees in the company.
+Responsible to participate in the teams working on Iris and Fingerprint detection.
+Responsible to match the fingerprints provided by the senior fingerprint Technician and check the ridge pattern.
+Classify the Fingerprint database according to the ridge pattern.
+Responsiple to prepare the database of the digital data from the hard copies received.
+WORK EXPERINCE
+2) Worked withTSL GROUP W.L.L GENERAL TRADING & CONSTRACTING CO,, Kuwait as a domain expert on PCB design and Industrial Boards Repairing Duties & Responsibilities: (Duration :-1 years)
+Work with hardware engineer, PCB designers and fabrication for developments and sustaining of actual products.
+Specify PCB contour and perform components placement in cooperation with mechanical and hardware developers.
+Working with electronics schematics.
+Create 3D model for PCB footprints.
+Repaired printed circuit board fabrications at component level.
+Identify components causing functional defect.
+Performed testing of parts, components and PC boards in support of field and related issues and problem
+WOR EXPERIENCE
+3) Worked with Indian Institute of Hardware Technology limited, Bangalore as a Red Hat certified Engineer.
+Duties& responsibilities: (Duration :- 1 years)
+Configuring Static routers, packet filtering and network address translation.
+Setting Kernel run time parameter.
+Configuring an internet small computers system interface (ISCSI) initiator.
+Configuring system logging, including remote logging.
+Configuring a system to provide networking services including HTTP/HTTPS, File transfer protocol (FTP), Network file system (NFS),Server message block
+(SMB)Simple mail transfer protocol(SMTP), Secure shell(SSH) and Network time protocol(NTP).
+Installing & supporting application services and middleware support.
+Good troubleshooting and analytic skills.
+Performance monitoring of servers and talking backups as per the requirment PROJECT EXPERIENCE
+(SELF ASSISTANT OF ASTHMA PATIENTS USING ANDROID APPLICATION)
+Tools: Microcontroller, Buzzer, Temperature sensor, Humidity sensor, air- pollution sensor.
+Description: Self assisting patient using mobile apps. The different condition of asthma patient is analyzed. Preferred medicine is based on their condition additionally add e-mail and Mobile numbers fixed on the mobile app during for emergency time.
+EXTRACURRICULAR ACTIVITES
+• Student council: Involvements in student government develops important skills like leadership, communication, and people management.
+• Initiative: improving activities can help you learn the skills required by jobs in your field.
+LANGUAGES
+• Arabic
+• English
+• Hindi
+• Urdu
+• Tamil
+INTERESTS & ADDITIONAL INFORMATION
+• Playing football, Cricket, squash and swimming.
+EDUCATION QUALIFICATIONS
+2012 – 2016 Bachelor of Engineering,Anna University, Chennai, India.
+• Electronics and communication engineering (ECE)
+2010-2012 Higher secondary school, St .Joseph higher secondary school, Tamilnadu, India.
+• Computer science department(CS)
+Personal Epitome:
+Date of birth : 09-07-1994
+Passport # : R7307048
+Date of Expiry : 07/01/2028
+Place : Block-1, Farwaniya, kuwait.
+Visa Status : Article No. 18 Transferable
+
+Contact this candidate

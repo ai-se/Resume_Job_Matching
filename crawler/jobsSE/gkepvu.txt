@@ -1,0 +1,51 @@
+
+TITLE: Database Developer (this is truly more of a Data Engineer, the manager is looking for a database background)
+LOCATION: Durham NC
+CONTRACT LENGth: 18 Months
+INTERVIEW PROCESS: R1 Phone or Video / R2 Video or Onsite
+OVERVIEW: This team is building out the OPA platform (Off Platform Advice) that is used to educate clients on their investment management. Total client base is 500,000 and there are 15 ppl on the team between onshore and offshore, 9 of those being local here in NC. For this role specifically they want someone that is Oracle (75%) and 25% Java because this API build out is very Java, Spring Boot heavy.
+8+ years of experience
+The Expertise We re Looking For
+Bachelor s or Master s Degree in a technology related field (e.g. Engineering, Computer Science, etc.) required.
+8+ years of experience in implementing data solutions in an OLTP and ODS environment is required
+Extensive Experience in Relational (Oracle) and familiarity in NoSQL databases Cassandra (etc) is required
+Extensive experience with Java, Spring/Boot
+Extensive experience in ETL technologies (Informatica)
+Extensive experience in Shell scripting and Control M is required
+AWS Cloud certification preferred
+Strong knowledge of domain based design, data modeling and data structures
+Strong knowledge of SOA
+Strong knowledge of developing highly scalable distributed systems and three tiered application architecture
+Experience with DevOps, Continuous Integration and Continuous Delivery
+Solid experience in agile methodologies (Kanban and SCRUM)
+Strong knowledge of financial services or managed accounts a plus
+
+The Skills You Bring
+Strong technical design and analysis skill
+Ability to deal with ambiguity and work in fast paced environment
+Deep experience supporting mission critical applications quickly
+Excellent communication skills, both through written and verbal channels
+Excellent collaboration skills to work with multiple teams in the organization
+Ability to understand and adapt to changing business priorities and technology advancements
+Strong knowledge and technology trends in implementing business applications
+Strong team player and able to mentor junior team members
+Strategic thinking and critical problem solving skills
+The Value You Deliver
+Designing, Building and supporting mission critical data solutions for applications to provide the best customer experience
+Exploring new technology trends and leveraging them to simplify and modernize our data ecosystem
+Driving Innovation and influencing the team to implement solutions with future thinking
+Collaborating with internal and external teams to deliver technology solutions for the business needs
+Guiding teams to improve development agility and productivity
+Resolving technical roadblocks to the team and mitigating potential risks
+Delivering system automation by setting up continuous integration/continuous delivery pipelines
+Acting as a technical mentor to the team and bringing them up to speed on latest data technologies and promoting continuous learning
+
+Derek Kunz
+VED Software Services Inc.
+
+Contract
+18 Months
+
+
+Apply now
+

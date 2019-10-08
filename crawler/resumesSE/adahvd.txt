@@ -1,0 +1,263 @@
+
+Dan Nguyenphuc adahvd@r.postjobfree.com 650-***-****
+
+SUMMARY: 20+ yrs of experience in IT Management with demonstrated expertise in design and maintenance of datacenters (physical, virtual and cloud), managing support-teams, contractors and vendor relations. Working closely and effectively with top-levels of management to satisfy project performance and budget requirements.
+
+PROFESSIONAL EDUCATION & CERTIFICATIONS
+
+VMware VCP-410, ongoing VMware training
+Project Management PMP certification – ISIM University
+Microbiology / Computer Science Minor – UCSB
+Toastmasters CTM & DTM certifications
+Landmark Education: Forum, Adv. Course, SELP
+Dale Carnegie – Sales Advantage and High-Impact Presentations
+Rotary International – Paul Harris Fellow
+
+ROLES
+
+IT Manager
+Senior Network Engineer
+Virtual Datacenter Manager
+Assistant IT Manager
+VMware Administrator
+Senior Systems Analyst
+Systems Administrator
+Senior Support Engineer
+
+WORK EXPERIENCE
+
+Nomadic VR (location-based virtual-reality gaming) – 8/18 – 8/19
+IT Manager
+Designed and successfully implemented IT infrastructure for new retail-location Orlando: servers, network, Wifi, WAN, VPN, PAN firewall & security, AWS-integration, player-backpacks. Designed template for future locations.
+Developed virtual-servers for in-house management of Wifi network switches, DVR recorders, data-storage
+Upgraded Wifi infrastructure: Aruba, Meraki, Ruckus, Ubiquiti
+HP POS kiosks development and maintenance
+Developed IT policies, procedures, runbooks and associated staff-training
+Ongoing technology and budget optimization.
+Project Management – JIRA, Confluence
+
+Berkshire Hathaway (investment holding-firm, insurance brokerage) – 10/16 – 7/18
+Senior Network Engineer
+Successful built-up new Sacramento datacenter - design, equipment purchasing, implementation
+Virtual-servers for email, phone-systems, data-storage, web-servers, monitoring/alert-servers
+Existing Aurora, CO datacenter – build-up, expansion, management
+Developed enterprise-wide monitoring system using Solarwinds
+Systems - Lifecycle rotation, VM capturing, backup-to-cloud for DR
+Symantec VIP, SAML, SSO server-build and deployment
+Network LAN & Meraki WiFi upgrades, optimization and monitoring
+Web-server load-balancing configuration with Big-IP F5 (LTM/GTM),Cisco NetScaler
+WAN configuration, router programming RIP, MPLS, BGP, OSPF, EIGRP
+Cisco TACACS/RADIUS Riverbed load-balancer, Juniper firewall, Palo Alto firewall
+Cisco Ironport WSA – Web Security Appliance and ESA – Email Security Appliance management
+VMware NSX security policies design
+NIST/Sox compliance policies and controls development
+Project Management – Redmine, OrangeScrum
+
+Gilead Sciences (pharmaceuticals research and manufacturing) – 4/16-10/16
+Technology Engineer
+Liaison between IT Infrastructure Group and Lab Info Systems group
+LIS-Lab Informations Systems optimization
+Amazon AWS/EC2 test environments and applications migration from VMware/Hyper-V
+Virtual-servers for monitoring dashboards - wall-monitors, Solarwinds, Event Log Analyzer
+Coordinated IT Operations to design, manage and deploy server environments
+Maintained GxP documentation vault for FDA audits
+
+Select Staffing S.B. – (employment agency with ~600 offices nationwide) – 1/08 to 12/15
+Assistant IT Manager, Virtual Datacenter Manager, VMware Architect, Senior Systems Analyst
+Managed IT assimilation of mergers & acquisitions. Datacenter design, consolidation, virtualization and migration,. HVAC and Electrical design requirements.
+Maintained high-availability of main corporate datacenter in Santa Barbara along with DR/co-location site in El Paso, TX and Tampa, FL. with VMware SRM
+Coordinated 24/7 support-crew from Tampa, Hyderabad, India and Venezuela. Tasks & scheduling.
+Developed runbooks for systems and operations maintenance & troubleshooting
+Implemented SOX-compliance policies and procedures.
+Analyzed equipment costs, ROI, and maintained life-cycle rotation, reported budgets and projections.
+
+Designed, implemented and troubleshooting of Windows Server 2003/2008/2012 Domain Architecture.
+Configured and maintained AD controllers, DNS, DHCP and RIS/WDS on Windows Server 2003/2008/2012.
+Implemented AD clusters, failover and load-balancing, AD Users, Groups and Group Policies.
+Hardened security and locked applications through Group Policies.
+
+Implemented & maintained Exchange 2003-2013 server clusters & replication
+Managed Exchange security Configured Exchange Web Services
+
+Load-balancing of web-servers and terminal-servers using Big-IP F5
+SAN management of HP EVA5000 FC, EMC/Clariion AX,CX,DMX, Dell Equallogic PS-series storage technology in virtual environment. Backups using Avamar, NetBackup.
+Site-to-site LUN replication for backup and DR.
+
+Achieved cost-reductions through designing VM architecture using XenServer, HyperV and VMware
+Migrated physical-servers to VM running on vCenterServe/ESXi (100% physical to 80% VM)
+Configured and managed HA, DRS & FT for Load balancing on vCenterServer across datacentres
+Creating & managing vSwitches, Port Groups and Distributed vSwitch for virtual network.
+Maintained VM backups using Data Recovery, Backup Exec, EMC Avamar
+Monitoring – performance metrics and alarms for hosts, VMs, datastores, datacentres
+Automation via PowerShell, Linux C & Bash shell scripting, Perl
+Migrated VMs to Amazon AWS, Google Cloud and Azure Cloud for load-balancing
+Built Oracle/Peoplesoft ERP environments on Oracle Cloud, then migrated in-house.
+
+Training support-staff to install, configure and troubleshoot desktop systems and network-printers.
+Trained staff for configuring Outlook for Exchange and troubleshooting related problems.
+Developed plan for backup images of workstations and troubleshoot Windows Workstations (FOG)
+Project Management – Redmine and BaseCamp
+
+Santa Barbara City College – Adult Education Program – 6/95
+Instructor - “Website Design” course
+Your Computer Advisor (consulting-firm servicing law-offices) – 5/95 – 1/08
+Owner/consultant
+Document-archival storage law-firm clients, offsite-backups
+Lexis Nexis, Perfect Case, Law Desk, Sage Timeslips, and other legal-office software
+User-training on latest software developments
+Network systems maintenance, upgrades & troubleshooting. remote-access and WAN-connectivity
+InfoGenesis POS systems installation and training
+Computer forensics and expert-witness for depositions and court-trials
+
+Bike’alog, Santa Barbara (bicycle-shop wholesale database of parts & suppliers) – 9/88 – 5/95
+UNIX system administrator, network architect, Bicycle Industry Analyst
+Managed network of SUN OS and Solaris dev stations and Win95 clients. OS installation & configuration.
+SAMBA/Xwin integration, C-shell scripting, BackupExec maintenance
+industry analyst and design consultant for manufacturers
+ENVIRONMENTS
+Microsoft Windows Server 3.1 - 2016
+Microsoft Azure
+Amazon AWS, S3, EC2 & VPC
+Google Cloud Platform
+VMware vSphere
+VMware VCenterServer
+VMware vCloud Suite
+Oracle Enterprise / Red Hat Enterprise Linux / UNIX / Solaris
+Linux KVM
+Oracle Cloud
+Oracle VM
+OracleDB/Peoplesoft ERP
+XenServer
+HARDWARE
+Cisco Meraki, Aruba, Ubiquity, Netgear, Ruckus WIFI
+Dell PowerConnect switches
+Dell PowerEdge servers
+HP 9000 N-class UX servers
+HP DL-5xxx and Blade servers
+IBM P-series servers
+Brocade 3800 FC-switch
+Cisco UCS Blade servers
+Cisco 3500/4500/5600 switches
+Cisco ISR/ASR/ASA routers
+Cisco/Ironport S380 internet security appliance WSA
+Cisco/Ironport S170 email security appliance ESA
+Sonicwall Firewalls/WAN routers
+Palo Alto PAN firewalls
+F5 firewall & load-balancer
+VMWARE ADMINISTRATION
+ESXi/ESX 2.5-6.5
+vCenterServer 2.5-6.5
+vCloud Suite
+HA - High Availability
+SRM - Site Recovery Manager
+Data Recovery
+vSphere MA 4.0
+vCenter Converter for physical to VM migration
+VMware VDI
+VMware Workstation
+VMware NSX
+CLI & scripts automation
+Veeam Backup and Monitoring
+Avamar Backup - Replication & Dedupe
+NETWORKING / SECURITY
+MPLS/VPLS WAN/VPN configuration
+Cisco Meraki, Aruba, Ubiquity, Netgear WIFI
+Cisco 3500/4500/5600 switches & VLAN
+Cisco ISR/ASR/ASA routers configuration
+Cisco TACACS+ for AAA
+Cisco Ironport ESA – email security appliance
+Cisco Ironport WSA – web security appliance
+Cisco NetScaler ADC load-balancer
+Big-IP F5 (LTM/GTM) load-balancer
+Riverbed load-balancer/accelerator
+Juniper firewalls
+Palo Alto PAN firewalls
+Symantec VIP, SAML, SSO for dual-factor authentication
+
+STORAGE
+HP EVA FC SAN, MSA iSCSI, P2000 iSCSI/FC SAN
+3PAR SAN (pre HP acquisition)
+EMC AX, CX, CLARiiON SAN
+EMC DMX Symmetrix FC SAN
+Dell Equallogic iSCSI SAN
+Openfiler, FreeNAS iSCSI SAN
+Quantum DLT/Ultrium libraries
+Promise SAN
+Nimble SAN
+NetApp
+VMware vSAN
+Direct-attach storage RAID configuration
+Linux KVM volume management, expansion
+OS AND APPLICATIONS
+Windows Server 3.0 to 2016
+Windows Desktops 3.0 to XP to 10
+UNIX SunOS, Solaris, HP-UX, IBM AIX/OS
+Linux Oracle/RedHat Enterprise
+Linux Ubuntu, CentOS,
+Mac OS 7.0 to OSX 10.17
+LAWSON on HP-Unix
+
+Windows Server Clustering DFS
+Windows Active Directory
+Windows AD Group Policy management, system-wide policies and updates
+Microsoft SMS/SCCM/WSUS management
+Dell/Quest Active Manager AD
+ManageEngine ADmanager Plus, Analyzer, OPmanager traffic analyzer
+SolarWinds NTA,NPM, SAM, APM monitoring
+Citrix MetaFrame/Receiver
+Xen Desktop
+Windows SFU-services UNIX
+Windows/Linux NFS/Samba
+Microsoft BitLocker
+Microsoft Lync
+Chef/Puppet automation
+Ansible Tower automation
+JMAF Pro inventory and automation
+RPM/Deb packaging and script automation
+Ivanti Patch for Windows Server
+
+Microsoft Exchange 2003-2013
+Exchange Web Services
+Outlook Web Access
+Microsoft IIS web server
+MS SQL server 2003-2013
+Blackberry Enterprise Server
+Cisco UCCX
+
+LAMP – Linux/Apache/MySQL/PHP
+Adobe Illustrator/InDesign
+Adobe Pagemill
+Adobe Dreamweaver
+OracleDB/Peoplesoft/Weblogic webserver ERP clusters with Dataguard replication
+RTI Ingres SQL
+MySQL, OracleDB, MS SQL-server
+SAP R3
+Kaspersky Antivirus Server
+NAGIOS
+Rackspace
+Sophos
+Symantec End Point Protection
+Symantec Backup Exec
+Bitlocker / MBAM security for laptops/desktops
+C-shell, BASH, Perl, Powershell scripting
+MS-VPN/OpenVPN, FTP/SFTP servers
+
+Adobe PDF creation, editing, OCR conversions
+Adobe Photoshop
+Adobe Premiere
+Apple FinalCut
+FFMPEG compiling and scripts
+Filemaker Pro & web-integration
+Filezilla FTP server and client
+Solidworks / Sketchup modeling
+Office 365 migration
+MediaWiki
+Slack
+Google G-suite
+
+Agile JIRA/OrangeScrum project management
+Confluence/Atlassian
+Redmine project manager
+Basecamp project manager
+
+Contact this candidate

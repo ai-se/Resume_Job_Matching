@@ -1,0 +1,75 @@
+
+We are looking for a macOS/iOS Software Engineer to join our team to help us create, maintain and continually improve our products in the identity space that help our customers find success with the Apple platform.
+
+You participate in an agile delivery team that produces and delivers new products, new features and adapts existing functionality with high quality and reliability. You are a key component in Jamf remaining the best of breed in securing identity and endpoint management of Apple devices.
+
+Jamf is a fast-paced environment with distributed team membership. Successful team members are adaptable to the change that is a part of software development. Our goal at Jamf is to ship the highest quality product to solve our customer's problems.
+
+Responsibilities
+
+You will help our customers succeed with Apple by:
+
+* Building a deep understanding of workflows that make a Jamf customer successful and apply that knowledge to build high-quality software
+
+* Continuing to grow and share your deep knowledge in the identity domain within the team and across the organization
+
+* Daily applying your knowledge of CI/CD principals to rapidly deliver software
+
+* Working with your teammates to employ Agile development methods and practices to quickly and iteratively build software
+
+* Constantly improving our current code base and creating new features to current products as well as new apps to extend our services
+
+* Utilizing appropriate software language(s) while applying the necessary engineering theory and logic to meet overall project requirements
+
+* Working directly with Software Engineers, Product Managers, Technical Writers, Software Architects, Visual and UX Designers, Product Owners, Support personnel, and others to define, plan, and execute work
+
+You will also help your colleagues by:
+
+* Positively impacting coworkers and teams in a highly collaborative environment
+
+* Engaging and collaborating with Software Engineers across teams to share and define best practices related to their area(s) of expertise
+
+* Responding to requests for help and even going out of your way to help wherever you see need
+
+* Relentlessly growing in your craftsmanship as a software engineer and helping others do the same
+
+* Bachelor's or higher Degree in Computer Science or related field (Preferred)
+
+* A combination of relevant experience and education may be considered
+
+* Experience and knowledge of the macOS and iOS Platform (Required)
+
+* 5+ years-experience developing enterprise grade software with understanding of testing and quality assurance processes (Required)
+
+* 5+ years-experience in Swift/Objective-C (Required)
+
+* 5+ years-experience with Xcode and associated build and test tools (Required)
+
+* Has worked in an agile development environment (Required)
+
+* 2+ years-experience working in the OAuth 2.0 and identity/OIDC
+
+* Has knowledge of CI/CD principals
+
+* Technical aptitude and desire for continued learning of both Jamf Software products, the latest in testing methods and technology, and the ever-changing world of Apple Software Development and products
+
+* Strong communication, analytical, and listening skills
+
+* Ability to interact effectively with co-workers in a results-driven culture Strong written and oral English language skills
+
+Location: Minneapolis
+
+Travel: Less than 10%
+
+Job Type: Full Time
+
+Education: Associate Degree, or equivalent experience (required)
+
+Bachelor's Degree, or equivalent experience (preferred)
+
+Supervisor:Director, Software Engineering
+SDL2017
+
+
+Go to apply 
+

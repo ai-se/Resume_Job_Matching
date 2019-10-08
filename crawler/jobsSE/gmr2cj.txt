@@ -1,0 +1,18 @@
+
+Helios Software Overview: Helios Software is a Boston-based health technology company that delivers professional product engineering services and also offers the Helios FHIR Server, a commercial-grade, clinical data solution based on the HL7 FHIR standard that runs on Apache CassandraTM, an open source fault-tolerant, high availability, distributed database.
+Helios Software employs an elite, worldwide, talented, highly experienced and entrepreneurial team of software engineers who help healthcare companies capitalize on technology-related opportunities focused around HL7 FHIR.
+Using a disciplined project management approach and a software development process to address the unique safety, privacy and security requirements that healthcare systems demand, the Helios Software team delivers mission-critical applications, mobile solutions, integration architecture, patient and provider collaboration products, and highly scalable enterprise cloud applications.
+Role Overview:You will be responsible for the development of key product capability on new healthcare software products while working within a multidisciplinary, team-based client delivery model.
+As a full-stack Java engineer, you will have familiarity in each layer of a product s architecture, if not mastery in many layers and a genuine interest in all software technology.
+You will bring your excitement for building world-class healthcare software products to our clients who range from well-funded healthcare startups to large well-known healthcare organizations and institutions.
+Responsibilities: Develop and maintain Java microservice architecture products from start to finish Collaborate with our customers engineering and leadership teams Contribute autonomously to all aspects of the software development life cycle Perform requirements analysis, analyze and influence architecture decisions Perform code reviews Create automated unit tests Our Ideal Candidate: Prior hands-on product engineering experience working for a healthcare software product company.
+Bachelor or Masters degree in Computer Science, or Computer Engineering.
+3+ years of experience in a similar role working in a product development organization.
+Solid understanding of the Agile software development process.
+Highly competent in the following technologies: Java Spring REST APIs Deep familiarity with modern web application technologies & frameworks HTML, XML, JSON Apache Cassandra/DataStax AWS Kubernetes Docker Ansible GitHub or BitBucket Code build tools such as Jenkins/Bamboo Must be a self-starter who is highly organized, hands-on, and a team player.
+Ability to thrive in a fast paced, startup environment.
+Detail oriented, with strong written and verbal communication.
+
+
+Go to apply 
+

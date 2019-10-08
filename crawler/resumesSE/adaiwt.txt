@@ -1,0 +1,132 @@
+
+SWAGATA BANERJEE H.No B-***, *nd Floor, Akshaya Adena
++91-779******* Kazhipattur
+adaiwt@r.postjobfree.com Chennai – 603103
+SUMMARY
+A result driven IT Professional with extensive experience in the Engineering, Administration and support of information systems. Proven ability to lead and motivate project teams to ensure Success. Track record for diagnosing complex problems and consistently deliver effective solutions.
+TOTAL PROFESSIONAL EXPERIENCE (11 Years)
+Currently working as IP Network Engineer (L3 Care) at Nokia – GDC-Chennai since October’2014. Accomplishments:
+• Working as a GDC case handling engineer in Nokia in Care team for providing L3 support.
+• Resolving Trouble tickets on Microsemi Time series within the given SLA raised by customers.
+• Knowledge on Routing Protocols, RIP, OSPF, EIGRP, BGP and MPLS-VPN (L3). Routing Protocol as well as L2/L3 Switch.
+• Time Series (PTP, Sync-E, Clock with TDM, Clock Priorities, NTP, rubidium and OCXO oscillator)
+• Products from Time Series are: - TP5000, TP2700, TP2300, TP500, TP1500, Microsemi IGM, SSU, Time Cesium PRC, TimePictra, S600.
+• Experience in configuration and troubleshooting of Layer 2 & 3 routing protocols like VLAN, RSTP, MST, VTP, ISIS,OSPF, BGP, MPLS and WAN technologies like VPN, 802.1q, 802.1p, 802.1ad, LAG/LACP. Multicast protocol like IGMPv2, PIM. QAM protocols 802.3ah, 802.1ag. QoS: Scheduling, Shaping, WRED, srTCM, trTCM
+• Configuring and trouble shooting of following protocols: Hi-speed WAN Ethernet, ATM (incl. DSL), Frame Relay, PPP, MLPPP, ISDN,BGP, OSPF, EIGRP, HSRP, VTP, STP, VLAN, WLAN.
+• Configuration of Carrier Ethernet Services, ELINE, ELAN.
+• Configured TCP/IP setting on multiple computers to participate on the network I. Technology knowledge:
+1) IP Routing
+2) Microwave
+3) Time Series
+II. Products worked on:
+1.) IP:
+a. Catalyst 2960
+b. Catalyst 3600
+c. Catalyst 3750
+d. Cisco 2600
+2.) Time Series:
+a. TP5000
+b. TP2700
+c. SSU
+d. TimePictra
+e. TP4100
+f. S600
+3.) Microwave:
+a. SRT 1F
+b. Flexi Hybrid
+c. FPH800, FPH1200, FPH2200
+d. Flexi Packet Multi Radio
+e. SRA4, Flexi Metro
+f. NetViewer
+g. FPR
+4.) Broadband:
+a. DSLAM
+b. OCLAN
+III. Projects Worked on:
+1. L3 global technical care case handling on IP, Microwave and Time-Series product in Nokia since 2014.
+Job Responsibility:-
+• Involved in designing and implementing of centralized and unicast route reflector.
+• Daily basis case handling related to hardware, software & supporting protocols (i.e. BGP, ISIS, MPLS, OSPF, VRRP, HSRP, NAT, LDP, STP, IGP, MP-BGP).
+• Investigation in regards of hardware failure & keep follow up for RMA creation with Cisco
+• Sharing key points of troubleshooting & RCA within team & customer with filtered information.
+• Working as L3 support (global care) on Microsemi Time Series. Troubleshoot on PTP, NTP, SyncE, 2MHZ/2MB clock signal, Rb and OCXO oscillator.
+• Keeping the close tab on our SLAs & KPIs & ensuring 100% compliance for the same.
+• Inhabiting in Rota for Emergency 24x7 supports during off hours to build customer trust & confidence for eliminating any EME situation in terms of services outage.
+• Knowledge on Python Scripting Language.
+• Circuit Emulation Services (CES), Ethernet Services, Ring Protection, Traffic Protection, CCM
+• OAM, DADE, RPI, Group Delay, Co-Channel Dual-Polarized, SDH, PDH, Return Loss, QOS, SLAs, 2. Worked as Consultant in Ernst & Young LLP. Nov-2013 to Sep- 2014 Job Responsibility:-
+• Manage Co-ordination with the MSP engaged in project work, keeping State Head informed of progress and issues in order to manage expectations on all project requirements and deliverables.
+• Manage and communicate a clear vision of the projects objectives, and motivate the project team to achieve them, create a project environment that enables peak performance by team members.
+• Manages Data Security and Software
+• Escalate issues early about the project to delivery management.
+• Coach to clarify assignments and deliverable to project team, review quality of work and manage integration of team member’s work
+• Maintain project documentation and updates to relevant knowledge management bases 3. Site Engineer in HIMACHAL FUTURISTIC COMMUNICATIONS LTD. May-2013 to Nov-2013 Job Responsibility:-
+• Survey for construction of Mobile Tower (RTT, GBT, POLE)
+• Construction of Mobile Tower (RTT, GBT, POLE)
+• Earthing (Pipe, Chemical, Plate) construction for tower & System
+• Electrical works for connectivity to System
+4. Worked as BSS Engineer in Huawei Telecommunication PVT LTD. July-2012 to May-2013 Job Responsibility:-
+• BSC commissioning both 1x and EVDO.
+• Operation & Maintenance of HUAWEI CDMA BSC66800, M2000 and BTS3900 BRAND system.
+• BSC to BSC commissioning both 1x and EVDO.
+• BSC commissioning both 1x and EVDO.
+• Troubleshooting and maintaining the established network.
+• Monitoring and resolution of Hardware & Environmental Alarms
+• Software up gradation as and when required.
+• Rehoming of site in BSC to meet the RF requirement
+• Taking regular backups of network data and configuration.
+• Knowledge of CDMA1X VOICE as well as EVDO, conceptual as well as practical.
+• Performance monitoring and analysis of KPI’s.
+• Processing and analyzing the BSC data for finding out root causes for any kind of degradation in KPI’s.
+• Fault management, Security management, Performance management from Oss server.
+• Various types of tracing: Signaling Tracing, Interface Tracing, Subscriber tracing and Message Tracing.
+• Take decision about E1 addition, Sector addition as a Team 5. Worked as Engineer in 3Guys Networks PVT LTD. from Nov-2008 to July-2012, Installation, Commissioning and AT:
+BSNL SRT1F microwave Project:
+Job Responsibility:-
+• Working with VSWR (BIRD, Anritsu), Spectrum Analyzer, Frequency Counter, DTA (ANT-20, Anritsu), Power Meter, Transmitter & Receiver(MSA)
+• Testing of STM-1 and E1.
+• BER test on STM-1.
+• Alarm Rectifications on STM-1 and E1 level.
+• Synchronisation with PRC Source on STM-1 Level.
+• SD DADE and Group Delay set for SD and Non SD hop.
+• Alignment of 3 mtr and 3.7 mtr antenna with maximum hop distance of 81.5 KMs
+• BER test on E1 level.
+BSNL Broadband Project (Rural & Urban):
+Job Responsibility:-
+• Installation, Commissioning and AT of Rural and Urban DSLAMs of multiport network.
+• Installation, Commissioning and AT of OCLAN switch ROWB Vodafone PROJECT:
+Job Responsibility:-
+• Installation and Commissioning of Flexi BTS (installation & integration)FCIA & FCOA with indoor outdoor with cards (TRX, FIFA, FIQA, FIPA
+• Integrate of Nokia 3G BTS with Nokia Flexi Hybrid Link
+• Integrate of Nokia 3G BTS (Distributed, Classical, RRH)
+• Alignment of 0.6 m, 1.2 m. 1.8 m,
+• Little knowledge of Nokia Flexi Hybrid, FIU, IP-10, NEC
+• Various configuration of TRX Cabling
+• SECTOR ADDITION & TRX ADDITION
+• EI- LOOP TEST (SOFT & HARD), EI- BREAK (CASCADING), E1 BYPASS, E.T. PORT CHECK, SITE CREATION,PACTHING,O&MU SIGNAL PLOTTING.
+• SITE –MASTER HANDELING:(V.S.W.R. & RETURN LOSS)( ANRITSU, BIRD)
+• QUALITY CHECK BY PROPER RULES GIVEN BY CUSTOMERS & PUNCH POINTS CLEARING.
+• Doing A.T. with O&M ENG.
+• Theoretical Knowledge about Ceragon link commissioning (SDH- 7 GHz) Maxis ROB project:
+Job Responsibility:-
+• Installation, Commissioning and AT of Nokia Flexi Hybrid Link
+• Mapping of E1-T1 on flexi hybrid.
+• V-Lan creating.
+ACADEMIC QUALIFICATION
+CCNP certified.
+B-Tech in Electronics and Communication Engineering from Mallabhum Institute of Technology (WBUT) in the year 2007 with 70.9%
+Senior Secondary from Ukhra KB Institution (WBCHSE) in 2003 with 51.6% Matriculation from Ukhra KB Institution (WBBSE) in 2001 with 69.12% PROFESSIONAL TRAINING
+1 Month Vocational Training in B.S.N.L (N.S.C.B.T.T.C, Kalyani)
+C Language from NIIT, Durgapur
+PERSONAL DETAILS
+Father’s Name: Mr. Someswar Banerjee
+Mother’s Name: Mrs. Shankari Banerjee
+Date of Birth: 4th Feb, 1985
+Martial Status: Single
+Hobbies: Surfing internet, Listening Music, Travelling, Cricket Languages: English, Hindi, Bengali
+Passport No: L2014642
+DECLARATION
+The above information is correct to the best of my knowledge and belief and I am aware that any wrong information or suppression if information may result in cancellation of my candidature.
+(Swagata Banerjee)
+
+Contact this candidate

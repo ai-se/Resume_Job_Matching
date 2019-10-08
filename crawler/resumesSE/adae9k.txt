@@ -1,0 +1,103 @@
+
+Fatime Alaparmak
+QA Automation Engineer
+T: 469-***-****
+E: adae9k@r.postjobfree.com
+
+Summary
+•Proficient in the field of Information Technology, with specializing in Software Quality Assurance Testing, proficient in testing on Client/Server and Web based applications.
+•Strong knowledge of Software Development Life Cycle (SDLC)including Waterfall, Agile development (SCRUM) methodologies.
+•Developed Test Scripts to implement Test Cases, Test Scenarios, and features for BDD (Behavior Driven Development), using Cucumber and TDD (Test Driven Development) using TestNG.
+•Experienced in working on Selenium WebDriver automation script in Java for Page Object Model (POM) cross-browser testing. Used testing annotations to group the test methods and for cross-browser.
+•Experienced in Smoke, Sanity, Regression, Functional, User Interface, Database and API Testing.
+•Good knowledge on Object Oriented Programming (OOP) concept. Extensively used Java for test case automation. Experience in implementing TDD and BDD.
+•Experienced in the development of Behavior Driven, Data driven, Keyword driven and Hybrid Automation frameworks in Selenium WebDriver.
+•Automated REST API web services with Rest-Assured and performed manual API testing with Postman.
+•WebDriver to write acceptance tests for web application from feature files which are written in Gherkin.
+•Used Apache POI methods for read/write from/to excel sheets in java.
+•Configured Maven for JAVA automation projects and implemented the code optimization using Project Object Model (POM).
+•Experienced in Selenium Web Driver with Java, JUnit, TestNG, Maven, Cucumber, Jenkins, Jira and Git.
+•Uploaded my test scripts into our version control tool GitHub, which would trigger our Jenkins to run Regression and Smoke Tests.
+•Experienced to database to Query the database using SQL for data verification and validation.
+•Performed back end testing on oracle database by writing SQL quarries.
+•Performed Web Services testing using Postman and REST-Assured library with Java as a programming language. Created data driven tests using Apache POI libraries.
+•Extensive experience in developing Test Plans, Test Cases and procedures as well as execution of manual and automated tests.
+•Excellent analytical, problem solving, communication and inter-personal skills to manage and interact with individuals at all levels.
+Technical Skills
+
+Testıng Tools
+Selenium WebDriver/TestNG/JUnit
+Languages
+JAVA, HTML, XML, SQL
+Web Technologies
+HTML, XML, CSS
+
+Test Framework
+Junit, TestNG, Cucumber
+
+Build Tool
+Maven
+Processes
+Agile-Scrum, Waterfall
+
+Bug Tracking Tools
+JIRA, Trello
+
+Version Control
+Git/GitHub
+
+Data Bases
+MS Access, Oracle, MySQL
+
+IDE
+Eclipse, SQL Developer
+
+CICD
+Jenkins
+
+Experience
+
+Cihan TV Channel, Istanbul/Turkey
+Accounting Department
+
+Mevsim Private High School, Istanbul/Turkey
+Accounting Department
+
+Alliance Tek Solutions
+Working
+QA Automation Engineer
+
+Responsibilities:
+
+•Working in a Scrum team, attending Daily Scrums, Sprint Planning and estimating efforts and identifying acceptance criteria for user stories, Sprint Retrospective.
+•Responsible for identifying test cases for manual and Automation with Selenium WebDriver for Smoke Test, Functional and Regression Tests.
+•Responsible for writing and maintaining Selenium WebDriver scripts for regression testing using data driven framework.
+•Developed Automated Scripts to test web-based application using Selenium WebDriver, Java language and Cucumber using Gherkin language in Agile environment.
+•Involved in creation of automation framework in Selenium WebDriver using BDD (Behavior Driven Development) and Page object (POM) driven approach.
+•Developed feature files using Gherkin, step definitions using Java and Runner class using Junit.
+•Designed data-driven testing framework in Selenium WebDriver and captured data dynamically from web controls.
+•Used Selenium WebDriver for writing test scripts using Gherkin keyword GIVEN, WHEN, THEN for regression test coverage.
+•Developed test code in Java language using Selenium WebDriver.
+•Used core Java concepts that includes Collections, Exception handling extensively for coding business related activities.
+•Setup the Automation framework using Selenium WebDriver and TestNG to run test cases in multiple browsers and platforms.
+•Developed new MAVEN based test scripts using GitHub as source repository and Jenkins for Continuous Integration of the builds.
+•Identified, Reported and Tracked Defects using JIRA.
+•Actively participated in SCRUM meetings, provided feedback, and involved in Software Inspection.
+•Performed cross browser testing on different environments like Google Chrome, Firefox and Internet Explorer with Selenium Web Driver to execute scripts.
+•Performed Web Services testing using Postman and REST-Assured library with Java as a programming language.
+•Performed Database Testing using the SQL queries in MySQL and Oracle to view, update, insert or record data.
+•Automated database scenarios using Selenium Webdriver with Java and JDBC API.
+Environment: Selenium WebDriver, Java, Cucumber, Agile, SQL, Jira, HTML, XPath, Eclipse, GitHub, Maven, Jenkins
+
+Education
+Bachelor’s degree:
+Uludag University (Turkey)
+School Of Economıcs and Admınıstratıve Scıences(Bachelor Degree)
+
+Anadolu Unıversity(Turkey)
+Turkısh Philology(Bachelor Degree)
+
+Professional Development and Certification:
+•Graduated from Syntax Technologies Boot Camp that specializes in Test Automation for six months.
+
+Contact this candidate

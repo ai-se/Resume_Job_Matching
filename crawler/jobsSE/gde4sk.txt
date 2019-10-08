@@ -1,0 +1,38 @@
+
+Cloud Services Engineer
+About CyberArk Privilege Cloud:
+The CyberArk Privilege Cloud is the company's new “as a service” privileged access security solution. CyberArk is positioning CyberArk Privilege Cloud as a strategic offering that provides customers of all sizes with a cloud-native, SaaS solution to protect privileged access in their organization.
+The product and the team are in their early stages, and therefore each member of the team has the opportunity to develop and grow with the solution, learn and influence the direction of the product.
+
+Job Description:
+The Cloud Services engineer will be responsible for the delivery and success of the CyberArk Privilege Cloud customers.
+The Cloud Services Engineer will accompany the customer throughout all stages of the deployment life cycle. This includes planning, deploying, consulting, expanding and securing the customer's environment using the solution, while also being proactive and ensuring the success of the customer and future renewals with CyberArk's Privilege Cloud.
+
+Responsibilities:
+• Plan and execute the Guided Success Plan with the customer, created as a PAS Program for ensuring the customer's success in meeting their Privilege Access Management goals
+• Deploy and configure with the customer the On-Premises Components, and integrate the Service with the customer's environment
+• Guide the customer through both Privilege Access Management and Security best practices aimed at rapid risk reduction in the Customer Environment
+• Collaborate with R&D and Product Management on Service Usage, User Experience, Automation, and other topics, influencing the product roadmap
+• Processing and analyzing customer and product usage data in a SaaS environment for the benefit of both customers and CyberArk
+• Proactively engage with customers and ensuring their success, directly contributing to renewals and customer expansion with CyberArk
+• Assist Privilege Cloud customers with Service Requests and technical issues
+• Collaborate with Sales, Marketing, R&D, and Product Management to refine and continuously improve the Guided Success plan, ensuring that it meets the needs of the customers
+
+Requirements:
+• 3+ years of professional work experience as part of an enterprise software company or systems integrator
+• 2+ years experience at a SaaS provider in a customer facing technical role (implementation, customer success)
+• Experience setting up and installing software on both Windows and Unix platforms
+• Experience with Directories (LDAP, AD)
+• Ability to understand critical issues and bring appropriate resolution to complex problems
+• Ability to anticipate risks and devise solutions in the moment
+• Ability to understand Enterprise customers and their needs
+• Excellent organizational skills
+• Excellent communication skills and extensive experience working with clients and partners.
+• Strong written and verbal communication skills
+• Security software or internal IT security experience a plus
+
+CyberArk is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+
+
+Go to apply 
+

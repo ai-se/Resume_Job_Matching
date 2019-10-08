@@ -1,0 +1,155 @@
+
+ASHUTOSH RAJ
+Computer Vision - Research Engineer
+adaht1@r.postjobfree.com
++91-799*******/847-***-****
+Whitefield
+Bangalore - 560037
+Karnataka
+linkedin.com/in/ashutoshraj
+github.com/ashutoshraj
+PROFILE SUMMARY Hands-on experienced professional involved in the several POC and products. Worked on a machine vision platform that requires optimized pipeline planning, design thinking, and deep learning/image processing algorithms for cloud environment configuration and hardware deployments. PROFESSIONAL WORK EXPERIENCE PATENTS
+Tata Consultancy Services Limited - Corporate
+Research and Innovation Labs
+January 2017 - Present
+● Worked on ML-based pattern recognition to
+detect, segment and recognize human faces
+and objects from a still images and videos.
+● Created an algorithm for digital video
+stabilization and image alignment to reduce
+camera ego-motion from the video feed of
+moving objects like drones.
+● Improved customer experience for security
+systems using face authentication algorithms.
+● Worked on prediction and anomaly detection
+algorithms from business critical time series
+data to generate visual insights.
+● Created CI/CD pipeline with automated
+performance testing and memory profiling for
+ML-based algorithms.
+ACHIEVEMENTS
+● Tata Innovista-2018 Finalist Team for Warehouse
+Inventory Reconciliation Project.
+● Received appreciation from the clients for Asset Inspection & Geyser Monitoring System.
+● Won AIP Anchor Award by Academic Interface,
+TCS Internal Programme for conducting training
+sessions on Image Processing and Deep Learning
+in various colleges in Kerala.
+LEARNINGS & CERTIFICATIONS
+● Secure & Private AI Scholarship, Udacity, 2019
+● Machine Learning A-Z TM: Hands-On Python & R
+In Data Science, Udemy, 2018
+● edX Honor Code Certificate for Introduction to
+Computer Science and Programming Using
+Python, Edx, 2015
+● Fundamentals of Digital Image and Video
+Processing, Coursera, 2013
+● Intro to Deep Learning with PyTorch, Udacity,
+2019
+● CS231n: Convolution Neural Network for Visual
+Recognition, Stanford University, 2017
+● System and method for vegetation monitoring
+on power lines - (IDF-104****-***)
+● Cognitive document verification and
+information retrieval RPA - (IDF-920111-035)
+SKILLS
+Linear Algebra, Information Theory, Semantic
+Segmentation, Object Detection, Image Alignment,
+Core Image Processing, Point Cloud Processing,
+Design Patterns, Actor System(Thespian), Differential Privacy and Federated Learning.
+LIBRARIES & FRAMEWORKS
+Image Processing:OpenCV, Scikit-image, PIL/Pillow
+Computation Libraries:Numpy, Pandas, Open3D,
+gprof.
+Machine Learning:Scikit-learn, Fast.ai, Pytorch,
+Tensorboard, Keras(Tensorflow), Tensorflow Serving, ONNX, t-SNE, PCA, Tensor-RT.
+IDE:Pycharm, Jupyter Notebook, Vi/Nano, Sublime
+Text.
+Databases: MongoDB, PostgreSQL
+Programming: Python, C++ and Shell
+(Bash/Terminal).
+Real-Time Communication: WebSocket.
+Virtualization: VirtualBox, Nivida-docker.
+Cloud Deployment: AWS Sagemaker, S3, EC2,
+Lambda.
+Software Versioning: Git.
+INTERNSHIPS
+Bharat Electronics Limited
+July 2015 - August 2015
+Completed training on "RADAR TRANSMITTER" with
+excellent performance.
+Sapro Imaging & Robotics
+September 2013 - November 2013
+Developed & deployed the project on Video
+Surveillance and SpyBot.
+Github link for Video Surveillance:
+https://github.com/ashutoshraj/CameraSurveillance
+PROJECTS
+Mines Geyser-Outburst Monitoring System
+Jan 2019 - Current
+Feature-based analytics generation and predictions of an outburst of Geyser Hotspot in mines area using visual monitoring systems.
+Based upon the previous data analysis of steam volume, originating geyser pores and several other parameters. Designed algorithm for finding n number of clusters without defining beforehand based on image processing. Able to detect geyser originating pores with 92.8% accuracy.
+Created automatic Day/Night detection Algorithm for a large volume of videos.
+Implemented video stabilization algorithm such as auto exposure, feature-based, detection based.
+Generated plots for visualization of relevant parameters using the t-SNE and PCA algorithm.
+Monitoring Vegetation Encroachment with Powerlines Nov 2018 - Mar 2019
+Data is collected with LIDAR and analyzed to detect diseased trees that could fall and hit a powerline (fall ins) or trees that are encroaching on powerlines (grow-ins). Developed statistical models and machine learning
+approaches for the analysis of point cloud data.
+Every structural inferencing of Pole Detection was achieved using only LIDAR data.
+Developed an algorithm for a 3D histogram upon the specified plane with varying distributions.
+For the detection of trees and their species, RGB Images were involved.
+Cognitive Document Verification And Information
+Retrieval - RPA
+Jan 2017 - Oct 2018
+This is an internal project for the Human Resource team. This system goes through all the documents of new joiners to validate whether he/she has submitted all the required documents (Govt., Legal & Educational Docs) or not. The system uses robotic process automation to download all the docs and updates it on the website.
+Developed code for automatic download and upload of documents through Desktop GUI Interface.
+Used selenium, OCR, Image Processing and python
+automation for automating the whole pipeline.
+Signature Verification Without CNN
+Jan 2018 - Mar 2018
+Designed a lightweight python application using core image processing concepts and libraries.
+Asset Inspection for Transmission Towers
+Jul 2018 - Current
+Intelligent predictive maintenance of Power
+Transmission Tower using drones visual feed.
+After data acquisition, we run our data processing for generating insights & analytics for various anomalies detection such as cracked insulators, flashed dampers, damaged conductors, etc.
+Developed custom Dynamic-UNET architecture for
+pixel-level (semantic) segmentation of insulators from the background.
+Developed and deployed this project onto the AWS
+infrastructure API based deployment.
+Warehouse Inventory Reconciliation Using Drones
+Mar 2018 - Oct 2018
+Reconciling the whole warehouse inventories using
+drone video feed.
+Inventory Identification & Reconciliation involves barcode/ QR code
+recognition, Text Recognition, Pallet Region Detection. Developed code for localizing the labels on the
+inventory and implemented an actor system for
+multiprocessing of the barcode decoding module.
+Used several design patterns for designing the pipeline such as logging system, database wrapper.
+Face Authentication System For Airlines Customers, Oct 2017 - Mar 2018
+It involves Image Processing(Depth & Color stream) and Deep Learning algorithms to the differentiation between Photo/Video or Human Face.
+After human verification, it compares the customer face with the Passport ID.
+This project was deployed on the AWS server and
+having a web application interface running web
+sockets.
+Intelligent Character Recognition System
+Mar 2017 - Aug 2017
+Developed and deployed the Optical Character
+Recognition model on our own database with up to
+78.2% accuracy.
+The intelligent part comes while segmenting the type of data from different fields.
+Developed code for the extraction of letters from the predefined physical form.
+Created a simple desktop GUI application for the
+same.
+Details about this project are on Github
+EDUCATION
+Electronics & Communication, Bachelor Of Engineering & Technology, Graduated, July 2016 Krishna Institute Of Engineering Technology
+Dr. A.P.J. Abdul Kalam Technical University – Marks 72%, Division I Lucknow, Uttar Pradesh
+DECLARATION
+I, Ashutosh Raj, hereby declare that the information contained herein is true and correct to the best of my knowledge and belief.
+Ashutosh Raj
+Bangalore, Karnataka
+REFERENCES
+**References available upon request.
+
+Contact this candidate

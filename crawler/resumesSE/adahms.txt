@@ -1,0 +1,98 @@
+
+KIRAN KUMAR RANA
+At: Bengaluru
+State: Karnataka
+E-mail: adahms@r.postjobfree.com
+Mob: +91-700*******
+
+Objectives:
+
+Looking for a position in the IT-field which provides me job Satisfaction and self development on new technologies and help me achieve personal as well as organizational goal.
+
+Professional Summary
+•Currently working with MPS Limited. as a Junior Software Engineer.
+•2 years of Experience in Software Developement.
+•Worked on Web-application.
+•Hands on Experience in LARAVEL 5.6, PHP7.
+•Good working Experience in My SQL, SqlServer.
+•Good Knowledge in HTML, CSS and basic working knowledge on JQUERY, AJAX, JAVASCRIPT.
+•Good working experience in Salesforce application customization.
+•Good Knowledge of SVN & Github.
+•Good Knowledge in Core Java.
+Technical Skills
+
+Language:
+Core Php, Laravel, core java
+Operating System:
+Windows, Unix
+Data Bases:
+MySQL, Sql Server
+Scripting Language:
+HTML, JavaScript, AJAX, JQuery, CSS, Java script
+Tool:
+Eclipse, Netbeas, Sublime, SVN, SQL Yog, Apache, Testing Jira
+Version Controlling Tool :
+SVN, Git
+
+Professional Experience
+Company Details :- Macmilan Publishing Service(MPS) LTD is one of the best Service Provider Company which Develops Software on Publishing domain having more than 2000 employees in all over India ( Deradun, New Delhi, Chennai, Bangalore,Chennai) and outer country also. It has Clients all over the world like IEEE, Wiley, Tata McGraw Hills, IOP Publishing, Springer, Therapeutic Guideline etc.
+MPS LTD Dec, 2017 – Till date
+
+Project: Counter
+Broswer: Mozilla /Chrome
+Role: Junior Software Engineer
+Location: Noida, India
+Description: COUNTER provides the Code of Practice that enables publishers and vendors to report usage of their electronic resources in a consistent way. This enables libraries to compare data received from different publishers and vendors. COUNTER maintains the Registries of Compliance that lists the publishers and vendors who have passed an independent audit of their usage statistics. The registry also includes details of the content provider’s SUSHI implementation. COUNTER also provides advice and guidance to those implementing and using COUNTER statistics and it supports the Usus website, an independent community website for those interested in usage statistics”
+Users of this software are publisher, copy editor, proof reader, and author.
+
+Role/Responsibility:
+I have worked on Php 7, Laravel 5.6, jQuery, JavaScript CSS and Html for integration with front view (UI). I have taken responsibility of development and deployment of modules in Linux Server.
+
+Environment: Application: Web application based on php 7 and Laravel 5.6
+Database: MySQL 5.0
+Tools: Netbeans, SQL Yog, Testing Jira
+Scripting language: HTML, Java Script, Ajax, JQuery,Json, CSS
+
+Project: Salesforce Integration - Think
+Role: Junior Software Engineer
+Location: Bangalore, India
+Description: Integrating Salesforce with the third party application THINK(a desktop based e-commerce application), which refers to the process of migrating/shfiting the records, metadata form one to another i.e. THINK application to Salesforce.
+
+Role/Responsibility:
+I have worked on Php 7, Laravel 5.8, CURL, Salesforce. I have taken responsibility of creating Salesforce Application and its Customization. Taken the responsibities of development and deployment of modules in Linux Server.
+
+Environment: Application: Salesforce integration based on php 7 and Laravel 5.8
+Database: MySQL, Sql
+Tools: Netbeans, Sql Server, SQL Yog, Testing Jira
+
+Academic:
+
+•B.Tech in Computer Science and Engineering from Biju Pattnaik University of Technology(Odisha) with 6.9 cgpa (2013-17).
+•12th from State Board (CHSE) with 51% in year 2013.
+
+Hobbies & interests:
+
+•Photography
+•Cooking & Dancing
+•Playing Cricket, Table Tennies & Volley Ball.
+
+Key Achievements:
+•Winner of Photography Compitition in Aakash2k16.
+•Two times Runners up in inter college dance compition in Sankalp at NIST.
+Personal details:
+•Date of Birth : 23/06/1996
+•Father’s Name: Alekha Rana
+•Sex: Male
+•Languages Known: English, Hindi, Oriya
+•Marital Status: Unmarried
+•At- Nigam Nagar 4th Lane, Ankuli
+•Po- Berhampur
+•Dist- Ganjam
+•State- Odisha
+•Pin- 760010
+Declaration:
+I certify that above mentioned information is correct to the best of my knowledge and nothing has been concealed.
+Date :
+Place : Bangalore (Kiran Kumar Rana)
+
+Contact this candidate

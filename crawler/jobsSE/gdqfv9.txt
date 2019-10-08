@@ -1,0 +1,55 @@
+
+Are you looking for an opportunity to accelerate your career and work with a team of friendly, creative people? Upland Software offers a collaborative work environment full of smart, positive, and passionate people who are respected for their unique talents and empowered to do their jobs well. As a member of this close-knit team, you are encouraged to take good ideas and run with them, pursuing the best outcome for our customers while having fun along the way. If these things are important to you and you're driven by delighting customers, we want to talk with you!
+
+Opportunity Summary:
+
+Looking for a DevOps Engineer that is excited to learn new technologies. This position will allow the engineer to hone skills in the latest cloud technologies. Being a self-starter and having great troubleshooting skills is key for this position.
+
+Primary Responsibilities:
+
+* Managing cloud infrastructure
+
+* Maintaining our CI/CD pipeline
+
+* Creating custom operational tooling
+
+* Monitoring system performance
+
+Requirements:
+
+* Self-sufficient / self-starter
+
+* Great communication skills
+
+* Great troubleshooting skills
+
+* 2 years of relevant DevOps experience
+
+* AWS or similar cloud provider
+
+* Kubernetes
+
+* Docker
+
+* Python
+
+* Bash
+
+* Linux
+
+* CI/CD (e.g. Jenkins, CircleCI)
+
+* Git or other version control technology
+
+Desired Skills:
+
+* Databases (PostgreSQL, MongoDB, Elasticsearch)
+
+Upland Software (Nasdaq: UPLD) is a leader in cloud-based enterprise work management software. Upland provides seven enterprise cloud solution suites that enable more than one million users at over 9,000 accounts to win and engage customers, automate business operations, manage projects and IT costs, and share knowledge throughout the enterprise. All of Upland's solutions are backed by a 100 percent customer success commitment and the UplandOne platform, which puts customers at the center of everything we do. To learn more, visit uplandsoftware.com.
+
+Upland Software is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, disability, veteran status or other legally protected status.
+SDL2017
+
+
+Go to apply 
+

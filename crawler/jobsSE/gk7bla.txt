@@ -1,0 +1,22 @@
+
+Role: Senior QA Automation Engineer
+
+Role provides a great opportunity to implement test automation for big data and analytics based application.
+It also offers opportunity to utilize both automation and manual testing skillsets to influence Software Development Lifecycle methodology transition to DevOps.
+
+You Offer
+
+Bachelor's degree preferably in Computer Science or equivalent experience
+You have 6+ years of professional experience in Software Quality Assurance area
+You have 1+ years of Investment Banking domain knowledge
+You have 3+ years of experience in Java / Selenium
+You have 5+ years of experience in developing test automation
+You have 1+ years of experience in Big Data & Analytics platform testing - designing a framework for validating large data sets
+You have 1+ years of experience with continuous integration/continuous deployment and build tools (i.e. JUnit, GIT, Maven, Jenkins or equivalent)
+You have experience working with cloud services (Azure is preferred) a plus
+
+Permanent
+
+
+Go to apply 
+

@@ -1,0 +1,68 @@
+
+Shubham Shivaji Powar
+adafdm@r.postjobfree.com 864-***-**** LinkedIn
+EDUCATION
+M.S., Industrial Engineering.
+
+Clemson University
+
+GPA: 3.43
+
+May 2019
+B.E., Mechanical Engineering.
+Shivaji University
+GPA: 3.55
+May 2016
+
+TECHNICAL AND LANGUAGE SKILLS
+
+Six Sigma Green Belt
+ASQ-Certified Quality Engineer (June 2022)
+SAP
+Minitab
+Microsoft Excel with Macro Programming
+AutoCAD
+Siemens Tecnomatix Plant Simulation
+PFMEA
+Lean Manufacturing
+
+WORK EXPERIENCE
+P3 USA, Inc. Associate Consultant: Warehouse Management Greenville, SC Jul 2019 – Aug 2019
+Achieved 70% traceability of existing inventory and implement the FIFO method to manage stocks for put-away using SAP: WMS
+Eliminated the generated negative stocks, JITBs (errors) and increased warehouse accuracy by 55%
+Identified bottlenecks at receiving dock and solutions to improve performance where possible to implement the ERP system
+Supported logistics teams on the receiving dock and provided training to scan the inventory boxes at each node of the warehouse
+
+P3 USA, Inc. Associate Consultant – Quality Assurance Greenville, SC Feb 2019 – May 2019
+Supported the Quality Gates of 4 assembly lines to promote the JIT Supply Chain between the Tier-1 supplier and the OEM
+Inspected 6600 items/month and detected 310 quality issues/month to ensure customers quality standards are met
+Reduced COPQ (Returns and Scrap) from $ 1200 to $ 300 per year using DMAIC, Visuals and Poka-Yoke tools
+Identified failures and created Pareto Charts to determine potential root-causes and prioritize improvement opportunities
+Used A3 problem-solving tool to carry out root cause analysis for identifying errors and resolved the errors that resulted in 45% increased productivity
+
+Kirloskar Oil Engines Ltd. Continuous Improvement Engineer: Manufacturing Department May 2016 - Dec 2016
+Cross-functional Kaizen team member and led a team of 4-6 members for the Kaizen events that caused $22000 annual savings
+Cross-verified existing documents like APQP, MSA, Check-sheets, 8-D Reports, and Control Plans
+Implemented 5S and Kanban Bins to the work area and reduced downtime by 30 seconds at each station
+Reviewed given design drawings with AutoCAD-2013 and SolidWorks, reported solutions to the supervisor
+Implemented the vector flow method to manage inventory and increased productivity by 40%
+
+Mahindra CIE Automotive Ltd. Operations Intern Jun 2015 - Dec 2015
+Assessed existing processes and reduced waste by 13% using tools like root cause analysis, 5S, 8-waste, PFMEA, etc.
+Implemented ABC Analysis to the inventory area, achieving 60% traceability
+Designed Value Stream Mapping for the shop floor, eliminated waste using TIMWOODS approach and saved $9000
+Assisted engineers with the maintenance of the plant by carrying out tag-outs and lock-outs and supported TPM activities
+
+ACADEMIC PROJECTS AND SEMINARS
+Design and Optimization of the Bell Housing Manufacturing Facility
+
+Modeled a manufacturing facility for 6, 8, and 9 transmission bell-housings using Siemens Tecnomatix Plant Simulation software
+Carried out machine and tool selection by defining Takt time, MTBF, and MTTR required manufacturing and assembly processes of bell and bearing housings.
+Optimized number of machines, workforce, and shift-timings for three different scenarios: (1) Ideal case, (2) Real case, (3) Demand fluctuations up to +/- 30% and developed KPI sheets accordingly
+
+Comparative Assessment of WIPER and Standard Inserts on Surface Roughness and Tool Wear in Hard-turning of Titanium Alloy
+Assessed the effects of different speeds, depth of cut, feed on tool wear (tool life) and surface roughness in machining (hard turning) of titanium alloy Ti-6Al-4V using CNC machining
+Used Taguchi technique for design of experiment and gray relations, Gray Relational Coefficients and analysis of variance (ANOVA) were applied to study the performance characteristics
+Calculated optimum values for performance parameters: Cutting speed (1200rpm), feed (0.15mm/rev), and depth of cut (0.1 mm)
+
+Contact this candidate

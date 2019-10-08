@@ -1,0 +1,65 @@
+
+Shivakant Tripathi
+Email: adafil@r.postjobfree.com
+Mob: 962*******
+PROFILE SUMMARY:
+●3+ year experience in Machine learning.
+●Total 10+ years IT experience.
+●Experience in Supervised and Unsupervised Machine Learning including Classification, Data Wrangling, using variety of techniques.
+●Working with skills Data Analysis, Data Science, Machine Learning, Predictive Modeling, and Statistical Modeling.
+●Experience in Telecom, Manufacturing, Finance – Mortgage servicing and Health Care.
+●6+ years experience in Data Warehousing (Informatica PowerCenter).
+
+KEY SKILLS:
+Machine Learning:
+●Algorithms, Statistics, Python
+Database:
+●PL/SQL – Oracle-12g, SQL Server
+Visualization Tool:
+●Tableau, Matplotlib, Seaborn
+ETL:
+●Informatica Power Center
+Scripts:
+●Unix, Perl, JavaScript, C#
+
+ACADEMIC CREDENTIALS:
+●M. Tech (Data Science & Engineering) - Since 2018 BITS Pilani
+A comprehensive 2 Years program taught by Industry experts and BITS faculty.
+
+●Bachelor of Technology (Information Technology) - 2007 I Dr. K.N. Modi Engineering College
+
+KEY ANALYTICS PROJECTS:
+●Customer Churn analysis and Service uptake: (in Tech Mahindra)
+Targeted Problem: Reducing the telecom customer churn and improve customer base
+Approach Applied: Customers and their activities data are available through the operational data store. The operational data is extracted to data warehouse using ETL tool. Using the visualization and preprocessing techniques it was understood that the churn happening for particular area of customers. Further Machine learning models (logistics and Random) were tried and built to predict the churn of the customers with approx. 80% accuracy.
+Result: Customers are able to save the customer attrition by utilizing the reports and the model.
+Tools and modelling technique used: Python and Regression, DT
+
+●Threat Detection using Access Control: (in Tech Mahindra)
+Targeted Problem: Predicting a card transaction as a Threat or a non-threat.
+Applied Approach: Generic Data preparation was done using the workflows defined by the customer for Threat vs non-Threat. Post which various regression techniques like Logistic/Tree/Random Forrest were applied to figure out the main driving factors, also to find the best model providing the accuracy.
+Result: Initial accuracy found for predicting a card transaction as threat or not, is around 88% but the model validation on various kinds of data is still in Progress.
+Tools and modelling technique used: Python and various regression techniques like Logistics/Tree/Random Forest, Cross Validations
+
+●Exploratory Data Analysis of Elevator Device Driver for a major Customer Issue: (in Schneider Electric)
+Target Problem: One of our Customer was facing an issue of regular outage on the various elevator devices abruptly
+without any consistency of the issue occurrence for 6 months.
+Approach Applied: Collected trace for last 5-6 months, Formulate the data. Used matplotlib to find various patterns around the communication issue, like how many times, a device is having issue, any repeated offenders in devices, any weekly/hourly/daily patterns etc. Communicated the issue severity and the probable cause to Management and as well as to Customer and Elevator service provider.
+Result: Survived a probable law suit, every stake holder appreciated the findings
+Tools used: Python, scikit learn libraries
+
+WORK EXPERIENCE:-
+
+●Currently working as Module Lead at TechMahindra [March ‘16 – till date]
+●Senior Software Engineer at Schneider Electric [April ‘15 – Feb’16]
+●Senior Software Engineer at Altisource Business Solutions [March ‘14 – Jan’15]
+●Solution Senior Specialist at Cegedim Software India (now IQVIA) [October’10 – March’14]
+●Software Developer at JuxtMarket Research Pvt. Ltd [May’08 – September’10]
+
+DOMAIN WORK EXPERIENCE:
+●Designed and developed, high scale/ high performing / software for interacting and defining the workflows for Healthcare and Financial Mortgage.
+●Using analytical implementation, helps the telecom business to retain their potential customers and add intake of new that saves operation costs for the company.
+●Successfully resolved many critical customer issues across the globe that vary in Financial Institution, Manufacturing or online research organization with many accolades.
+●Mentored juniors and new joiners in the team such that they were able to contribute effectively in the team.
+
+Contact this candidate

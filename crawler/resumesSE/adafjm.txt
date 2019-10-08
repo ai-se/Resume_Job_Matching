@@ -1,0 +1,181 @@
+
+Dinesh Guptha S
+
+Mobile:+91-900******* Email: adafjm@r.postjobfree.com
+
+Notice Period: 15 Days
+
+Professional Summary:
+
+Overall 8 Years of proficient in Software Testing.
+* ***** ** ********** in testing Web based Applications using Tricentis TOSCA automation Tool.
+Expertise in Automation Testing in banking domain using TOSCA automation tool.
+Have experience in creating Modules using the X-Scan property, Developing Automation Test cases, Setting up the Test Data and executing the Automation Test cases using TOSCA.
+Have experience in Litmus for Continuous integration testing from TOSCA.
+Have core knowledge in SQL.
+Experience in Requirement Analysis, Creating the Scenarios, Test cases and Test execution.
+Well acquainted with Software Development Life cycle (SDLC).
+Effective technical, analytical and communication skills.
+Have experience in handling Metrics part.
+Having Experience in Requirement Traceability matrix (RTM), Risk Based Testing, Smoke Testing, Functional Testing, Regression Testing, Integration Testing and Peer review.
+Have innovation and ability to absorb new technology fast.
+Good Experience on HP-ALM and Rally.
+
+Professional Experience:
+
+Working as a Technical Team Lead for Infosys Ltd from Apr 2019 to Till date.
+Worked as a Senior Application Development Analyst for Accenture Solutions Pvt.Ltd from January 2013 to March 2019.
+Worked as an Associate for Cameo corporate services from February 2012 to January 2013.
+Worked as a Software Test Engineer for STC ThirdEye Technology from November 2010 to January 2012
+
+Educational Qualification:
+
+Course
+Institution
+Year of Passing
+Percentage of Marks
+B.Tech(IT)
+Sakthi Mariamman Engineering College
+2010
+66%
+H.S.C
+Mount Park Matriculation Higher Secondary School
+2006
+72%
+S.S.C
+Vasavi Matriculation School
+2004
+67%
+
+Technical Skills:
+
+Automation Tools : TOSCA
+Automation Frameworks : Module Based
+Continuous Integration Tool : Litmus Test
+Data Base : SQL
+Internet Tools : HTML
+Reporting Tool : HP ALM-QC, Rally
+Methodology : Water Fall and Agile
+Testing Techniques : Verification and Validation Techniques, Black box Testing.
+
+Industrial Certifications:
+
+ISTQB- Foundation Level
+CCB - Credit Card for Bankers
+NCFM- NSE certification in Financial Market
+ACN-ATA Application Tester
+TOSCA - Automation Specialist Level 1 and 2(AS1 and AS2)
+TOSCA - Test Design Specialist 1(TDS1)
+
+Professional Project Summary:
+Organization: Infosys Ltd
+
+Project#1:
+Project Name : Synergy Web
+Client : KittyHawk
+Role : Automation Tester
+Tool : TOSCA,
+Team Size : 3
+Duration : Apr 2019 to Till date
+
+Roles and Responsibilities
+Involving in creating Modules using the X-Scan property, Developing Automation Test cases, Setting up the Test Data, Executing the test cases and linking to Litmus Test from TOSCA as a part continuous integration testing.
+Involving in Requirement Analysis (BRD and HLD), Creating Test Scenarios, and Test cases for each release as a part of Manual Testing.
+Executing Test cases and raising defect using HP ALM-QC4 (Quality Centre) tool.
+Perform Smoke Testing, Functional Testing, Regression Testing, Integration Testing.
+
+Organization: Accenture Solutions Pvt Ltd
+
+Project#3:
+Project Name : ECG
+Client : KittyHawk
+Role : Automation and Functional Tester
+Tool : TOSCA, Litmus Test and HP-QC4 (ALM)
+Team Size : 8
+Duration : Feb 2017 to March 2019
+
+Roles and Responsibilities
+Involve in creating Modules using the X-Scan property, Developing Automation Test cases, Setting up the Test Data, Executing the test cases and linking to Litmus Test from TOSCA as a part continuous integration testing.
+Involve in Requirement Analysis (BRD and HLD), Creating Test Scenarios, and Test cases for each release as a part of Manual Testing.
+Execute Test cases and raising defect using HP ALM-QC4 (Quality Centre) tool.
+Perform Smoke Testing, Functional Testing, Regression Testing, Integration Testing.
+.
+
+Project#2:
+Project Name : ARIBA
+Client : KittyHawk
+Role : Functional Tester
+Tool : HP-QC4 (ALM)
+Team Size : 5
+Duration : Jan 2016 to Jan 2017
+
+Roles and Responsibilities
+Involve in Requirement Analysis (BRD and HLD), Creating Test Scenarios, and Test cases for each release as a part of Manual Testing.
+Raising defect using HP ALM-QC4 (Quality Centre) tool.
+Perform Smoke Testing, Functional Testing, Regression Testing, Integration Testing.
+Pulling report for each release which involves percentages of Automation and DAR, Rejected Defects, etc., for the metric purpose.
+
+Project#1:
+Project Name : Mortgage-Home Loan
+Client : KittyHawk
+Role : Functional Tester
+Team Size : 10
+Duration : Jan 2013 to Dec 2016
+
+Roles and Responsibilities
+Involve in Requirement Analysis (BRD and HLD), Creating Test Scenarios, and Test cases for each release as a part of Manual Testing.
+Performed Smoke Testing, Functional Testing, Regression Testing, Integration Testing using Automation Scripts
+Raising defect using HP ALM-QC (Quality Centre) tool.
+Pulling report for each release which involves percentages of Automation and DAR, Rejected Defects, etc., for the metric purpose.
+
+Organization: Cameo Consultancy Services
+
+Project#1:
+Project Name : E-Commerce (VRPM))
+Client : HCL
+Role : Manual Tester
+Tool : HP-ALM
+Team Size : 5
+Duration : Feb 2012 to Jan 2013
+
+Roles and Responsibilities
+Involved in Requirement Analysis (BRD and HLD), Creating Test Scenarios, and Test cases for each release as a part of Manual Testing.
+Performed Smoke Testing, Regression Testing, and Integration Testing for each release.
+Raising defect using HP ALM Defect Management Tool.
+
+Organization: STC Third Eye Technology Solution Pvt.Ltd
+
+Project#1:
+Project Name : Retail (MedArt)
+Client : MedPlusMart
+Role : Manual Tester
+Tool : Quality Centre
+Team Size : 5
+Duration : Nov 2010 to Jan 2012
+
+Roles and Responsibilities
+Retail application is essentially an integrated set of computerized applications that the retailer uses to operate their business. Typically, it stores the information about the products, customer and retailers.
+MedArt is a pharmaceutical application which involves each product information like Medicine Name, Expiry date, Price, Number of grams, Discounts, etc., Involved in testing the functionality of the application whether the given requirement is working fine and make the end user satisfied without any bug
+Involved in Requirement Analysis (BRD and HLD), Creating Test Scenarios, and Test cases for each release as a part of Manual Testing.
+Performed Smoke Testing, Regression Testing, and Integration Testing for each release.
+Raised defect using Defect Management Tool (HP-QC).
+
+Personal Details:
+Full Name : Dinesh Guptha
+Fathers Name : Sivaguru V
+Date of birth : 21st March 1989
+Sex : Male
+Marital status : Married
+Nationality : Indian
+Language known : English, Tamil and Telugu
+Address : Chennai, Tamilnadu.
+
+Declaration:
+
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+Place : Chennai
+Date : Signature
+
+(S.DINESH GUPTHA)
+
+Contact this candidate

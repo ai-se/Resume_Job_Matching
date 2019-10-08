@@ -1,0 +1,179 @@
+
+Ashutosh Joshi
+
+Email: adafor@r.postjobfree.com
+LinkedIn profile: https://www.linkedin.com/in/ashutoshjoshi88/
+Phone: +91-956*******
+
+Objective
+
+Software professional with strong problem solving and analytical capabilities. Have a technical vision and actively engages in understanding customer requirements. Working in IT from around 7 years out of which 4 years of experience on Big Data Technologies, Development and Design of Hadoop ecosystem-based enterprise applications.
+
+Profile Summary
+
+Specialties: -- Software Development, Big Data Application Design and development, Database, Data Mining & Analytics
+
+• Working on Building Big Data Frameworks, Solutions and Algorithms with Hadoop and related technologies.
+• Hadoop and Big Data Infrastructure
+• Extensive programming experience in Spark.
+• IBM Certified Spark Developer.
+• Experience in creating real time data streaming solutions using Kafka, Spark Streaming, Spark SQL, Data Frames and Data
+• Capable of processing large sets of structured, semi-structured and un-structured application architecture through Spark batch and Streaming.
+• Scheduling jobs through Oozie.
+• Data Analytics
+• Log Processing Frameworks
+• Migration of data from RDBMS to Data Lake
+• Ingest and analyze data
+• Successfully delivered couple of initiative (Implementation & development) on Big Data analytics and large data processing using Hadoop ecosystem like Spark.
+• Experience on Linux, Shell Scripting, SQL, ETL & Hive.
+• Excellent understanding /knowledge on Hadoop and various components such as HDFS, Yarn, MapReduce, Hive, HBase, Spark, Kafka, Oozie, ELK, Zookeeper, Redis.
+• Good in OOP’s Concept.
+
+TECHNICAL HIGHLIGHTS
+
+• Big Data Technologies – Hadoop HDFS, Yarn, MapReduce, Hive, HBase, Spark, Kafka, Oozie, ELK, Redis, Zookeeper
+• File Formats – Avro, Parquet, ORC,CSV
+• ETL Tools – Sqoop
+• Programming Languages – Java, Scala, Python, DataStructure, Algorithm
+• Database Technologies – Hbase, Redis, SqlServer
+
+Experience
+
+Associate Consultant Nov 2018 - Present
+Global Logic India Ltd.
+
+Projects Details:
+
+Client – Verizon
+Project – x-MDN
+Company: Global Logic India Ltd.
+Designation/Role: BigData Developer
+Brief: Whenever a mobile device connects to the internet, it is assigned a public IP and correspondingly a pilot packet is generated which is received by collector and it writes record to Kafka. Our system keeps on reading data from Kafka, process each session activity through Spark and update Redis DB accordingly. That is, if a pilot packet allocation record is received then the GIM makes an entry in redis for that particular activity, and when a de-allocation record is received then it removes the corresponding entry from redis. In this way GIM maintains a subscriber base in Redis for all the active connections.
+
+Now whenever the device makes a request for Authentication, the request is interrupted by GSX and get details of the subscriber who has made this request from redis and authenticate device.
+My key responsibilities are:
+• Continuously reading device data from kafka through spark.
+• Filter and parse invalid IP records.
+• Validate IPV6 and IPV4 entry.
+• Process each session activity and analyze it.
+• Store each session activity in redis.
+• Generate traps and alert through Prometheus and Pushgateway.
+• Write workflow and coordinator to schedule job through Oozie.
+
+Senior Software Developer Dec 2017 - Present
+Impetus Infotech (India) Pvt Ltd.
+
+Projects Details:
+
+Client – American Express (Amex)
+Project – Global Events and Triggers
+Company: Impetus InfoTech (India) Pvt. Ltd
+Designation/Role: Sr. Software Engineer/Hadoop Developer
+Brief: Creating a global enterprise product platform to support events and triggers through the membership journey
+My key responsibilities are:
+• Listen to events real time and process logic real time.
+• Handle both internal and external events.
+• Create transformation using both real time and CSRT data.
+• Execute simple and complex rules/transformation.
+• Apply business specific rules on the output data.
+• Send data to downstream applications.
+• Comply with all cornerstone and governance rule sets specific to data.
+
+Client – BISTel
+Project - MicrochipAnalysis
+Company: Impetus InfoTech (India) Pvt. Ltd
+Designation/Role: Sr. Software Engineer/Hadoop Developer
+
+Brief: There are a number of quality checks (Operations) while manufacturing the microchips. Each quality check further has multiple stages. During each quality check, statistical data is produced as an output captured in the operation file, which further could be analyzed to identify the chip behavior. To efficiently utilize the quality procedure, it is required to analyses the chip behavior for fault classification based on received data of lots, wafers and operations.
+
+My key responsibilities are:
+• Analysis of various attributes behavior of chip during consuming data such as temperature, humidity etc.
+• Classification of stage, wafers and lot on the basis of analysis
+• Understand business logic as per guidelines.
+• Preparing an implementation approach for data capture through streaming data using spark streaming and Kafka.
+• Apply aggregate business logic using PySpark Dataframe API's and ingest data to HDFS.
+• Involved in gathering the requirements, designing and development.
+
+Software Engineer Mar 2015 - Dec 2017
+UnitedHealth Group
+
+Projects Details:
+
+Project - NGPA (Next Generation Patient Analysis) Company: UnitedHealth Group
+Designation: Software Engineer/Hadoop Developer
+
+Brief: Earlier we were receiving weekly clinical feeds which include patient data, diagnosis data, claim data and provider data from various sources and we were processing those feeds with some batch script and stored all the information in DB. The whole process was taking almost 2-3 days to process and analyze the data. After that we had received an initiative from PLM team and our task is to leverage the power of Hadoop and make this process faster and easier for analyze. We have created a landing zone that is HDFS cluster for all these clinical data and read that csv data from HDFS and leverage the power of Spark to process and analyze these all data.
+My key responsibilities are:
+• Moved all clinical flat files to HDFS cluster for further processing. .
+• Created batch time data processing solutions using Apache Scala, Spark Core, and Spark SQL & Data Frames.
+• Responsible for optimizing resource allocation in distributed systems.
+• Show data in the form of graph or in the tabular format.
+• Involved in gathering the requirements, designing, development and testing
+• Writing the script files for processing data and loading to HDFS.
+• Completely involved in the requirement analysis phase.
+• Analyzing the requirement to setup a cluster.
+
+Project - IBAAG (Intranet Benefit at A Glance) Company: UnitedHealth Group
+Designation: Software Engineer/Hadoop Developer
+
+Brief: This Project is all about the migrating of current existing application into Hadoop platform. Previously UHG was using Sql Server Database and NAS drive for storing both structured and un-structured information. But the load was increasing day by day which cannot be store in a Sql Server kind of data box with the same reason UHG wants to move it to Hadoop, where exactly we can handle massive amount of data by means of its cluster nodes and also to satisfy the scaling needs of the UHG business operations.
+
+My key responsibilities are:
+• Moved all NAS drive data flat files uploaded by IBAAG business to HDFS for further processing.
+• Moved all Sql Server data uploaded by IBAAG business to HBase.
+• Written the Apache HIVE scripts to analysis the HDFS data.
+• Created HIVE tables to process the results in a tabular format.
+• Developed the Sqoop scripts in order to make the interaction between HBase and SQL DB.
+• Involved in gathering the requirements, designing, development and testing
+• Writing the script files for processing data and loading to HDFS
+•Completely involved in the requirement analysis phase.
+• Analyzing the requirement to setup a cluster.
+• Moved all log/text files generated by various products into HDFS location.
+
+Software Developer Sep 2014 - Feb 2015
+Software Data (India) Limited - SDIL
+
+Software Developer
+
+Software Developer Sep 2012 - Sep 2014
+Rosmerta Technologies Limited
+
+Software Developer
+
+Education
+
+Amrapali Institute of Management & Computer Applications 2009 - 2012
+Master’s Degree, Computer Science, A
+
+Amrapali Institute of Management & Computer Applications 2005 - 2008
+Bachelor’s Degree, Computer Science, A
+
+Cricket player of college team. Student Alumni representative
+
+Skills
+
+Hadoop • Big Data • Spark • HBase • Hive • Scala • Java • Python • Kafka • Zookeeper
+• Elastic Search • Redis • Oozie • Yarn • MapReduce • DataStructure • Algorithm
+
+Certifications
+
+Spark - Level 1 • IBM
+BD0211EN • Sep 2017 - Present
+
+Sagent Certification for ETL process • Sagent Partners
+
+Jun 2015 - Present
+
+Personal Information
+
+Date of birth : 18th june1988.
+Father’s Name : Mr Tara Dutt Joshi.
+Current Location : New Delhi
+Sex : Male.
+
+I hereby declare that all the information provided above is true to best of my knowledge.
+
+Date: Name: Ashutosh Joshi
+Place:
+
+Contact this candidate

@@ -1,0 +1,47 @@
+
+Overview
+
+The Test Engineer 1 contributes to the maintenance, debugging and documenting of automated tests and small testing frameworks for applications and features. The individual must be able to tackle development tasks competently, and add value to the testing and documenting of these tasks.
+
+Responsibilities
+
+* Maintain tests and small test applications to validate unit, integration and functional tests of the system
+
+* Assists with writing automated test cases under guidance from experienced testers to enable quicker application deployments and verify functionality, performance and scalability
+
+* Collaborate with product teams and experienced testers and developers in test automation design and planning, assist in implementing test automation under guidance from experienced testers and developers
+
+* Participate as an observer in formal reviews of software products, their databases and the environments relating to testing of the software
+
+* Assist with maintenance of product teams test and build environments and automation frameworks under guidance from experienced testers
+
+* Aggregate and report test results, work with product teams and experienced testers to understand test results
+
+* Assist with documenting standards and best practices for consumption by product development teams
+
+* Assist with manual testing responsibilities, such as regression and feature testing, when tests cannot be automated
+
+Qualifications
+
+* BS in Computer Science or related field or equivalent experience
+
+* Experience with test automation and continuous integration tools
+
+* Experience with using source control systems
+
+* Experience in development on Windows/Linux platforms
+
+* Experience with scripting tools
+
+* Verbal and written communication skills
+
+* Fast learner, highly organized and experienced in demonstrating focus to complete the highest priorities
+
+* Adeptness to effectively collaborate with employees, customers and partners from diverse academic, professional and cultural backgrounds
+
+* Or an equivalent combination of education and experience sufficient to successfully perform the principle duties of the job
+SDL2017
+
+
+Go to apply 
+

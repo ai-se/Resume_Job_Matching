@@ -1,0 +1,68 @@
+
+Jan/**** - Current
+MADHUR MANCHANDA
+Bangalore, KA, India
++919*********
+adafq8@r.postjobfree.com
+CAREER OBJECTIVE
+Senior Analyst/Software Engineer with 2+ years of experience. Seeking to leverage my technical and professional expertise in best possible way for achieving company’s goals as well as grow professionally. EXPERIENCE
+Capgemini technology services India Pvt Ltd
+Big Data/ETL Developer
+July/2017 - Current
+• Hands on experience with Informatica, AWS compute, storage and network resources.
+• Worked on a end to end system utilizing the Cloud Informatica and big data technologies like Apache spark, hadoop, Niﬁ etc.
+• Used various sources of data for extraction like Oracle, SQL Server, S3 etc and created transformations on them.
+• Used AWS as the prime source for various applications like Data Storage (S3), Data processing (EMR), Data Warehouse Service (Redshift).
+• Mentored fresher's to help them get acquainted to the work. Engaged them with various activities that can help them learn various analogies.
+EDUCATION
+Chandigarh University
+Computer Science Engineering
+CGPA 7.19
+2013 - 2017
+TECHNICAL SKILLS
+Database : MySQL, Teradata
+ETL : Cloud Informatica
+Language : Python, core java
+AWS : S3, EMR, Redshift
+Apache Hadoop
+Apache Spark
+Apache NiFi
+Scheduling : Autosys, Tivoli
+GIT
+PROJECTS
+Big Data Developer
+Client : CCNA (Coca-Cola North America)
+Technologies Used:
+Apache Hadoop, Apache Spark, Scala, Hortonworks Data Flow(Apache Niﬁ), AWS Redshift, AWS EMR, AWS S3, Shell Scripting.
+About :
+• The project dealt with developing an end to end system which analyzed the historical data of transactions and master data to help the client in planning and promoting their products.
+• Data is extracted from two source systems (Oracle and CAS), oracle containing the transactional data and CAS containing the
+master data. Extracted data is dumped into AWS S3 and data is transformed using Apache Spark which runs on the AWS Oct/2017 - Jan/2018
+MADHUR MANCHANDA
+EMR.
+• The transformed data is then loaded to the AWS Redshift which is used by the reporting team to analyze data. Roles / Responsibilities :
+• Used Niﬁ (HDF) as a data ingestion and scheduler to automate the ETL process by building an end to end pipeline to handle the process to extract data from Oracle and SQL Servers, transform the data using Apache Spark and load the transformed data from s3 to Redshift.
+• Used NiFi to develop an automated validation system to validate between the incoming source data and ﬁnal transformed data to ensure data correctness.
+• Sending transaction data downstream into master data server using NiFi along with Sqoop and shell Scripting to coordinate the intermediate processing.
+• Worked in an Agile development environment using Version One as the workload management tool. ETL Developer
+Client : CCNA (Coca-Cola North America)
+Technologies Used:
+Infromatica 9.6/10.2, Cognos, QlikSense, Big Data- Hadoop, Oracle About :
+• The objective of this project is to migrate lighthouse/EDW data from Informatica 9.6 to Informatica 10.2 with Hadoop implementation and populate these data in QlikSenseb environment. Roles / Responsibilities :
+• Involved in developing mappings, mapplets, workﬂows, and sessions.
+• Worked on Transformations like expression, aggregation, lookup, joiner, ﬁlter etc.
+• Developed ETL’s to pull data from sources like Oracle and Files.
+• Create detail design, work on development and perform code reviews.
+• Trained in Big data, Hadoop.
+PERSONAL STRENGTHS
+Quick learner
+Team player
+Flexible working hours
+PERSONAL PROFILE
+Date of Birth : 02/10/1994
+Marital Status : Single
+Nationality : Indian
+Known Languages : English, Hindi, Punjabi
+Hobby : Playing Cricket Hiking Art, Music (playing, listening) LinkedIn : https://www.linkedin.com/in/madhur-manchanda-0a147889
+
+Contact this candidate

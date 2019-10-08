@@ -1,0 +1,206 @@
+
+Name: Khaja Nazeeruddin Ikram
+Place: Hyderabad (India)
+Mobile: 799-***-**** ;767-***-****
+E-mail: adah1c@r.postjobfree.com
+
+Designation: Senior Technical Manager
+
+Career Objective:
+
+To excel in Instrumentation & Automation Engineering through innovative and sincere employment in large Petrochemical, Chemical, Power, Engineering Consultancy or Instrument Manufacturing Companies.
+
+Qualification:
+
+Bachelor of Engineering (B.E.,) from Anna University (2007)
+Electronics and Communication Engineering Department
+
+Experience Summary:
+
+12 plus years of experience in Electronics & Instrumentation field, with a sound knowledge in process plant Instrumentation.
+Variable frequency drives experience
+Siemens S7300, Sematic PCS7 and sinamics
+ABB ACS 550, Hydraulic systems, AC & DC drives, Pneumatic system,
+Microcontroller & Microprocessor on leading brands of Siemens SSD Drives
+PLC Programming and implementation (Siemens step7, ABB, Micro logic)
+Control wiring drawings verification, testing and control cable sizing to the project
+Bus communication (Profibus, RS485, Modbus etc.) and HMI Involving P&ID and I/O List preparation
+On site project coordination and material management
+MCC Panel monitoring and troubleshooting
+Expertise in weighing Automation
+Calibration and troubleshooting of all type weighing systems
+(schenck, Transweigh, etc)
+Expertise in Process control field Instruments, such as transmitters, flow control valves, sensors (Analogue and Digital) and etc.
+
+Technical packages:
+
+Certified Automation Engineer
+•PLC (Programmable Logic Controller)
+•Siemens,
+•Allen Bradley
+•Modicon
+•SCADA (Supervisory Control And Data Acquisition)
+•In touch (Wonder ware),
+•Wincc
+•Factory talk
+•Distributed Control System
+•Variable Speed Drives
+•Industrial Process Management
+
+Employment History:
+
+Company name: Sansec Pharma Solutions Pvt Ltd.
+Designation : Senior Technical Manager
+Start date : 24-09-2018
+End date : Present
+Location : Hyderabad (India)
+
+My Responsibilities:
+
+•Installation and commissioning of PLC, programming in ladder logic and Drives configuration, Sensors & other field instruments etc.
+•Validation of PLC,HMI & DCS
+•Validation of Technical documents
+•AMC for pharma plants.
+•Up gradation of PLCS & HMI in Pharma Field.
+•Up gradation for pharma machineries like Bfs, Ccit,Cip-Sip/Skid,Autoclave,Water Plant For Generation And Distribution,Washing,Sealing,Filling.
+•Validation of IQ, OQ &PQ Documents.
+•Managing team with different tasks and providing quick solutions for critical problems.
+•Root cause analysis (RCA) for critical problems.
+•Supervise maintenance staff & Manage maintenance and repairs Activities
+
+Additional Supervising skills:
+
+•Establishing Preventive maintenance schedule
+•Establishing Predictive maintenance for critical machines
+•Training plans for autonomous maintenance
+•Root cause analysis(RCA)
+•Team leadership and management skills
+•Analytical and problem solving skills
+•Decision making skills
+•Effective verbal and listening communications skills
+•Computer skills and the ability to operate the computerized maintenance management system
+•Stress management skills
+•Time management skills
+•testing, evaluating, modifying and re-testing products
+•providing technical advice
+•Able to design and Improve assembly line & manufacturing process
+•Able to improve factory layout
+•Manage maintenance and repairs
+•Maintain fire protection systems and equipment
+•Coordinate maintenance and repairs to structural, mechanical and electrical systems
+•Supervise maintenance staff
+•Take corrective actions
+•Recommend the purchase of goods and equipment
+•Assist with preparation of Maintenance and Improvement Plans
+•Maintain inventories
+•lean manufacturing
+•Prepare activity reports and work order reports
+•Six sigma activity
+•5s Activity
+•Attending Operator Empowerment Programs
+
+Personal Attributes:
+
+1) Maintain standards of conduct
+2) Be respectful
+3) possess cultural awareness and sensitivity
+4) Be flexible
+5) Demonstrate a dedication to the position and the community
+6) Be consistent and fair
+
+Company name: Zamil pipes
+Designation : Electrical and Automation Engineer
+Start date : Feb 2013
+End date : 24-08-2018
+Location : Al-Khobar (KSA)
+
+Responsibilities:
+
+•Company deals with Installation and Programming of Automation based machines for threading of steel pipes.
+•Furnace monitoring and installation of field devices like burners, pressure transmitters, transducers, flow meter, and proportional valves and control valves.
+•Installation and commissioning of PLC, programming in ladder logic and Drives configuration, Sensors & other field instruments etc.
+•Compression hydro testing and Tension hydro testing for seamless pipes.
+Worked on different CNC machines (Emag, mori seiki, Danobat)
+•Extensively trained and worked on Siemens’ manufactured Distributed Control System, & maintenance and controls & configuration of PLC's AB, GE Fanuc, and Siemens & Allen Bradley, Schneider electric.
+
+Company name: Al-benali Groups
+Position : Electrical and Control Engineer
+Location : Al-Khobar (KSA)
+Start date : Jan 2009
+End date : Jan 2013
+
+Responsibilities:
+
+Up gradation of PLCS
+Making screens in HMI
+Preparation of Electrical panels, power wiring and control wiring
+Commissioning and installation of plcs drives and other field devices.
+Modification of logic
+Communication with Device net, Ethernet, Control net with different HMI and PLCS.
+Troubleshooting of all automation machines including CNCS
+, swaging and heat treatment machines
+
+Company name: Techno Automation and Controls Ltd
+Designation : Electrical Control Engineer (Process Control Engr)
+Location : Mumbai
+Start date : April 2007
+End date : Jan 2009
+
+Responsibilities:
+
+•Electrical drawings preparation
+•Power wiring and control wiring for electrical panels
+•PLC installation and commissioning
+•PLC Programming
+•HMI screen preparation
+•Communication with different PLCS and HMI
+•Field instrument calibrating and testing
+•Checking all field instruments
+•Troubleshooting all automation related issues
+
+Project 1
+
+Title: Process Control Plant,
+Software: Rockwell solution, Wonder ware 5.0,
+PLC: Allen Bradley, Type SLC-500,
+SCADA: Wonder ware 5.0,
+Field Instruments: Solenoid Valves, Actuator Valves, Control Valve,
+Heater/Cooler,
+3-D Agitator, Magnetic Flowmeter, PIDs, Solid-state relay.
+Contactors.
+
+Project Description:
+
+Process Control Plant is generally used in many chemical plants. In which mixing of two chemical in required quantity and heating at certain set-point temperature by using PID controllers.
+This process control plant can be visually displayed through SCADA software.
+If anything is going wrong in the process would be displayed through SCADA. Wonder ware software is used for SCADA application.
+
+Project 2
+
+Title: LIFT,
+Software: Rockwell Solutions,
+PLC: Allen Bradley (PLC), Type SLC-500
+SCADA: Wonder ware 5.0,
+Project Description
+This lift project is generally used in anywhere. In which we need AC Drives of type ABB and the application used is macro-3 (Alternate). By using level sensors and ABB drive we can operate LIFT for going up and down.
+
+Additional Qualification:
+
+Certified Instrumentation & Automation Engineer
+Completed industrial training on “Transmission & distribution” from 132/33 KVSS at Warangal.
+
+Personal Details:
+
+Name - Khaja Nazeeruddin Ikram
+Driving License Valid Driving License
+Date of Birth - 12-01-1984
+Marital Status - Married
+Strengths - My strong logics & Patience
+Hobbies - Travelling & Gardening
+Mobile - 799-***-****
+I consider myself familiar with Instrumentation and Industrial
+Automation aspects. I am also Confident of my ability to work in team .I hereby declare that the information furnished above is true to the best of my knowledge
+
+(Khaja Nazeeruddin Ikram)
+
+Contact this candidate

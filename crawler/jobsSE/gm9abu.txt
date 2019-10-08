@@ -1,0 +1,27 @@
+
+Description:
+Seeking a Senior Verification and Validation (V&V;) Engineer. The selected candidate will work as a V&V; Lead to coordinate all V&V; activities necessary to support the release of new and updated medical devices. Focus will be assessing and testing the requirements of electromechanical medical devices at the system level, with some knowledge of sub-system and software level testing preferred. Examples include ventilators, sleep therapy devices, oxygen concentrators, personal wellness devices, and the accessories necessary for proper functionality of these types of devicesJob duties include, but are not limited to:
+Learn from and adhere to internal quality manual (Quality System Procedures, Work Instructions, Forms)
+Interact with cross-functional project teams to provide inputs to project plans and schedules
+Estimate resource needs for project support
+Review requirements and scrutinize for testability
+Develop V&V; test plans, test procedures, and test reports
+Assign project tasks and responsibilities to V&V; team
+Act as advisor to team to meet schedules and solve technical problems
+Quickly learn to use automated test tools and specialty test equipment; develop and validate novel test methods
+Execute test procedures both personally and using test technicians
+Log defects and issues found during V&V; activities and track to closure
+Participate in defect review boards
+Perform regression analysis and determine testing associated with design changes
+Plan and facilitate V&V; formal technical review and design review meetings
+Provide weekly project status reports
+Prioritize project tasks to complete on schedule while maintaining quality of work
+Work in a team environment; peer review work
+Work on multiple, concurrent projectsEducation/Experience:
+Bachelor s Degree in an Engineering discipline; Electrical Engineering or Mechanical Engineer background preferred
+5 years professional experience in the medical device industry
+Working knowledge of global medical device regulations, requirements, and standards
+
+
+Go to apply 
+

@@ -1,0 +1,304 @@
+
+EDMUND CLOETE
+
+**,***** ******, **********, **********
+Tel: ( C ) 083-***-****: E-mail: ac955i@r.postjobfree.com
+ID Number: 670**********
+
+OBJECTIVE
+Server/Workstation, Laptop Maintenance, Administration & Application Support
+
+Education
+
+1980 to 1985 Riverlea, Secondary High, Johannesburg
+1985 Matric Passed (English, Afrikaans, Maths, Biology, Geography, History)
+1998 MCSE NT4 Certified (Training Connection) 1998
+1999 Microsoft Office 2000 (Training Connection) 2000
+1999 A Plus+ Certified (Training Connection) 1999
+2000 Windows 2000 Professional Server Administration(2002)
+2002 MCSE 2000 Certified CS Holdings (2002)
+2003 Windows 2000 Network Design and Implementation (2002)
+2004 Compaq/HP Certified Engineer (Hewlett Packard Pty Ltd) 2004
+2005 Microsoft (SCCM) 2003 Systems Management Server (Torque IQ) 2005
+
+Work Environment Skills
+
+Microsoft Operating Systems:
+Windows Server: NT4, 2000, 2003, 2008, 2013
+Windows Desktop, Laptop: 95, 98, Nt4, 2000, XP, 2007, 2008.2010
+Microsoft Office: Office 2007, 2010, 2013,Office 365
+Microsoft System Centre Configuration Manager (SCCM) 2007 R2 (inc: WSUS)
+Microsoft Small Business 2003/ Exchange 2000/ 2003/ 2007
+Microsoft Data Protection Manager
+Altiris Deployment Server
+Backup Software: Veritas, Arcserve, Iomega, Comvault
+Antivirus: Norton, Symantec
+Microsoft Dynamics
+Webex
+Solomon In-house Financial application- Migrated to AX
+
+Other:
+Netwizard, Dameware, Terminal Services, Remote Desktop, Team viewer 9.7, Hyper V
+Hardware support on all Compaq/HP and Dell equipment.
+Avio Portable Phone setup and Configuration
+
+Supervise the day-to-day operations of the Service desk, ensuring SLA's & KPI's are met in line with agreed working practices.
+Coordinate IT Services Administrators in the delivering of quality technical services
+Manage Priorities and Input into the technicians daily tasks.
+Identify and specify improvements in the Service Desk System ensuring maximum return on investment.
+Create and regularly review all IT Service Delivery processes in line with industry best practice. Develop escalation and resolution procedures and ensures help desk personnel adhere to these procedures. Trains, coaches and mentors help desk personnel. Manage escalation of service tickets to second level support and beyond, ensuring that issues are resolved within the accepted timeframes Serve as escalation point and provide troubleshooting guidance and direction in resolution of escalated issues
+Ensure the full implementation of the IT security Policy in the organization. Coordinate the implementation of information security and resolving issues with regard to this. Ensure that procedures are in place to detect, investigate, report and resolve security incidents. Ensure that information security awareness education and training is provided to all employees. Monitor (e.g. by means of self assessment) that the Information Security policy is implemented within the company and acting to improve the information security.
+Participate in the design, testing and implementation of hardware/software. Availability and capacity monitoring of Data center, Servers, LAN/WAN, Telecommunication, Audi visual, CCTV and Biometric systems(fingerprint).Ensure all IT Systems have proven disaster recovery plans in place. To undertake projects as and when required. Provide support for ERP systems, mobile users on VPN, Smart Phone and Tablet users.When necessary, provide first level telephone technical support to users across the organization.
+
+Projects Completed
+
+FNB –Rand Merchant Bank- Sandton
+Windows 10 and office 365 Migration 4000 Laptops and desktops-January 2019 ongoing - Contract
+
+Migration Windows 2007 Machines to windows 10 and Office 365, install all business related applications and reconfigure user machine to original state with new OS.
+
+FNB –Merchant Place Sandton
+Windows 10 and office 365 Migration 170 Laptops and desktops-March 2018 to August 2018-Contract.
+
+Mthombo IT Services
+1.Eskom -Roll-out of 500 new desktops as replacement for the users, migrating all applications and data to the new work stations. Team of 10 reporting to myself being the team leader duration 6 months completed before deadline.
+2.Transnet-Audit and upgrade from XP to Windows 7 on 300 workstations, Team of 8 reporting to myself being the team leader duration 4 months, completed before deadline
+3.MARS-Rosslyn Pretoria- Complete upgrades on 40 Laptops migration of applications and data to new laptops.
+4.Lesotho Revenue service’s - Implementation of Exchange 2007 and SCCM-duration 4 months
+
+Rand Merchant Bank
+1.Implementation of HP Blade systems running Windows 7 and Office 2007, for the dealing room- 78 users migrated from workstations to Blade environment. Team of 10, completed in 3 months.
+
+Brightstar International
+1.Implementation of new South Africa office Constantia Office park, which includes:
+Neotel Fibre link –through Internet Solutions.
+UPS and Generator
+New Firewalls, switches routers and Wireless AP’s
+5 X HP Servers, for DC, AV, Exchange, Management server and File servers.
+Setup of 50 + laptops as per company specification.
+Network Printer, scanner,fax
+2.Implentation of new London office UK –London-company 20-20
+Fibre link –through local service provider in London
+New Firewalls, switches routers and Wireless AP’s
+5 X HP Servers, for DC, AV, Exchange, Management server and File servers.
+Setup of 70 + laptops as per company specification.
+Network Printer, scanner,fax
+3.Implentation of new Turkey office Istanbul
+Fibre link –through local service provider in Istanbul
+New Firewalls, switches routers and Wireless AP’s
+5 X HP Servers, for DC, AV, Exchange, Management server and File servers.
+Setup of 40 + laptops as per company specification.
+Network Printer, scanner,fax
+4.Implentation of new Dubai office Brightstar UAE
+Fibre link –through local service provider in Istanbul
+New Firewalls, switches routers and Wireless AP’s
+5 X HP Servers, for DC, AV, Exchange, Management server and File servers.
+Setup of 40 + laptops as per company specification.
+Network Printer, scanner,fax
+
+BCS-NET
+1.Implementation 0f Windows 2003 servers in Johannesburg, Cape Town, Durban, PE and Bloemfontein, loading Raid 5, Windows 2003 and Symantec Anti Virus.
+
+Personal Skills
+
+Very good Problem Solving skills, Communication with fellow workers, Assist and train fellow workers, Management reporting, Punctuality, get the job done.
+Very good team player, can also work independently, very committed and reliable. Asset Management of all equipment, facility management.
+
+I am a good team player with good leadership abilities.
+Friendly and enthusiastic, very hard worker.
+Always try to encourage fellow workers to go the extra mile always
+Striving to create a better and successful work environment within the support and service desk department.
+
+Reference:
+Brightstar: Mpho Pole 083-***-****
+RMB: Blaine Triegaartd 083-***-****
+Warcom Danie 083-***-****
+
+EXPERIENCE
+
+10 January 2019 to July 2019
+Netsurit- FNB and RMB-Sandton
+Position: It Support Engineer
+
+Responsibilities/ Duties
+Upgrading all Windows 2007 machines to Windows 10 and office 365
+Backup user data to One drive, Upgrade Machine and restore all user data and applications, map network drives and printers.
+
+01 October 2018 to 31 December 2018
+Inspire Group- working at Reddford House School-Northcliff
+Position: It Support Engineer- Reason for leaving contract expired
+
+Responsibilities/ Duties
+Ensure all Staff and teachers have a stable environment, at the school.
+AD Administration for all new staff and students, creating and deleting user accounts.
+Monitor all servers and do morning checks.
+Ensure Wi-Fi is up and running at all times for all staff and students using Ipad’s
+Weekly Backups on all servers.
+Weekly reports to management.
+
+26 March 2018 to Date : NetsureIT-FNB
+Position: IT Support Engineer - Reason for leaving contract expired
+
+Responsibilities/ Duties
+Migration of 294 Windows 7 machines to Windows 10 and Office 365, upgrading Ram when required at FNB Merchant Place Sandton.
+Additional functions:
+Assist in the Merchant Place FNB Walk in centre supporting all FNB user related queries on a daily basis. Supplying and configuration setting up new computers and accounts for all new and existing users. Installation of additional software required from walk in centre users.
+
+EXPERIENCE
+20 January 2017 to Date : CEB Maintanace/ Bussiness Connection
+Position: Installation of POS equipment, Application Support Specialist
+Reason for leaving contract expired
+
+Responsibilities/ Duties
+Installation of Point of sale equipment at various retail stores,
+
+EXPERIENCE
+
+December 2010 to December 2015 : Brightstar International
+Position: MS & HP IT Administrator/Desktop Support, Application Support Specialist- Reason for leaving retrenched
+
+Responsibilities/ Duties
+Monitor various clients network and server environment. Microsoft Dynamics, ARS and rectify any errors and problems that occurs on all MS Server 2003, 2008. AD Administration, creation of new users, new computers and adding to the laptops to the Brightstar domain. Ensure AV on all laptops is up to date and all Micosoft Required and Security updates are implemented on a monthly basis. Installation of office local and network printers.
+Roll out and setup of all new laptops using SCCM for imaging with the company standard Operating System and applications.
+Platforms, Applications supported:
+1.Windows XP, Windows 7 Enterprise and Professional
+2.MS Office 2007, 2010, 2013.
+3.In house, Solomon and AX Financial applications, Avio Portable phone configuration and setup for Nigeria and Cameroon
+
+Complete calls logged on service desk (Sysaid) within SLA. Conform to policies and procedures implemented by clients and adhere to it. Implementation of new hardware and software for all new users, configuration of new and used HP Laptops and distribute to London, Dubai and Nigeria. Manage and implement projects at clients.(MTN)
+
+Maintain and update Asset register for proper costing to the different regions with in EMEA (East, Middle East and Africa)
+Daily and weekly reports supplied to management and clients to ensure process control.
+
+Timesheets and leave administration for all IT staff.
+Maintenance and the usage of the generator (diesel etc) access control.
+Facility Management on all infrastructure.eg: Generator ups, air-conditioning, conference facilities. (Webex)
+
+Ordering of all new equipment using different vendors to get the best deal: EG
+1.Cisco units, Switches, routers and Firewalls
+2.All HP Server units, including backup devices
+3.All Laptops with company specification
+
+EXPERIENCE
+
+February 2010 to November 2010 Mthombo IT Services EOH (Contract)
+Position: MS & HP Systems Administrator/Desktop Support, Application Support Specialist and SCCM Administrator
+
+Responsibilities/ Duties
+Monitor various clients network and server environment using MS Operations Manager (SCOM) from a central point. Analyze and rectify any errors and problems that occurs on all MS Server 2003, 2008 Platforms, Applications supported: Forefront, DPM, SCCM, Exchange. Complete calls logged on service desk within SLA. Conform to policies and procedures implemented by clients and adhere to it. Implementation of new hardware and software at various clients on Enterprise level. Manage and implement projects at clients.
+Daily and weekly reports supplied to management and clients to ensure process controll.
+
+SCCM:
+Plan and implement SCCM in a work environment. Utilizing SCCM to distribute all software and updates required by the client, eg: AV, Security updates. Create packages for various software products for roll out to client environment. Create customized reports for management and client.
+
+SCOM:
+Create customized alerts and reports to all Servers and workstations in environment. Utilizing SCOM to rectify and return feedback on status.
+Manage all servers from central point.
+
+Experience
+May 2007 to 30 Jan 2010 Rand Merchant Bank -Dimension Data(Contract)
+Position Systems Administrator/Desktop Support, Application Support Specialist and SCCM Administrator
+
+Responsibilities/ Duties
+Systems Administrator/Desktop Support:
+Daily Active Directory Administration on account and group management, directory structure and general server health checks and Backups.
+Build and configure new servers on a 2003 environment. Ensure AV and MS Security patches are implemented before the live environment. Run daily scans on all production servers to ensure security patches are implemented and active. Run daily AV scans to ensure correct version is installed. Plan and execute all upgrades of servers within the environment as per company policy and procedure.
+Report daily on any inconsistencies. Second line support for all escalated calls.
+Compile new policies and procedures for all new applications and tasks.
+Liase with vendors and clients for ultimate performance and satisfaction.
+Report all irregularities to management on daily basis.
+DR implementation and Regular testing in case of failover
+
+System Center Configuration Manager-Administrator:
+Responsible for the Implementation and roll-out of SCCM to Bussiness. Deploy all Microsoft Security Updates to all Workstations and Servers as released by MS using SCCM. Deploy Operating systems to all Workstations and Notebooks using SCCM and Altiris. Deploy all Applications to all Servers and Workstations using SCCM and Altiris. Update all Anti-Virus to all Serves and Workstations. Reporting for all software licences. Reporting of all assets to Procurement Manager.
+Liase with vendors for any problems not resolved and for any new processes to implement to benefit business.
+Active development and support to Disaster Recovery Site and regular internal testing.
+Support all calls logged on Service-desk call logging system within required SLA.
+Allocate calls on priority basis to support staff to ensure minimal downtime.
+Maintainance and support on all Video/ Telephone conference and presentation facilities throughout the business. ( Vendor-Omega )
+Setup of all new wireless clients on wireless network within bussiness.
+Training and assistance to all new and younger support staff.
+Team member for the group on the migration from Lotus Notes 8.5 to an Exchange 2007 environment.
+
+Experience
+December 2005 to December 2006 BCS-NET at City Power/ Johannesburg (Contract)
+Position: Senior Systems Administrator
+Responsibilities/Duties:
+1.Administration on 12 Windows 2000 server Environment.
+Active Directory and Exchange 2000 in a cluster environment.
+Management and Administration of all user and group accounts.
+Administration of Exchange mailboxes and quota management.
+Administration and management of the Anti-Virus server (Mcafee 8.0)
+Adminstration of the MRS (Fax) Server
+Administration of the Windows SUS server (windows security updates)
+Administration of the Exchange Mail Marshall server (mail monitoring)
+Administration of user home directories.
+2.Daily tasks include system health checks on all servers.
+3.Ensure all daily back-ups has been successful.
+4.Ensure Antivirus and SUS updates has been deployed to all servers and W/S.
+5.Monitoring of all incoming and outgoing mail on mailmarshall
+6.Check the process on the fax server for all incoming and outgoing faxes.
+7.Daily reports to Management.
+8.Training to new and fellow staff.
+
+October 2003 to November 2005 Mthombo IT Services SARS/Pretoria
+Position: Senior Network / Server Administrator. Desktop Support & Administration/ HP Field Technician:
+Responsibilities/Duties
+1.Remote management and support of 350 Compaq/HP Windows bases Servers using Remote desktop, Terminal Services and Dameware.
+Administering AD and Exchange for Windows 2000
+DHCP Scope settings.
+Static IP address assignments
+New user accounts creation and access rights management.
+Installation of newly released Windows Security updates (WSUS)
+2.Installation and repairs of any faulty parts to all Compaq/HP equipment eg: Workstations, Notebooks and Servers.
+3.Installation of all new workstations and notebooks.
+4.Setup and configure of all new Workstations and Notebooks as per company specifications and policies.
+5.Installation and rebuilds of all new and existing Compaq/HP and Dell Servers from Raid configuration up to Operating System Level as per customer requirements and company requirements.
+6.Management and support of entire SARS Wan and Lan.
+Installation and replacements of all faulty Routers and switches.
+Liasing with Telkom for any faulty or problematic lines/links.
+7.Daily Weekly and monthly reports to management.
+8.Assisting with training to new and non experienced staff members.
+
+April 2003 to September 2003 Mutual and Federal Insurance Johannesburg(6 month Contract)
+Exchange Administrator and Mail Marshall monitoring
+Duties and Responsibilities
+Management and administration of Exchange 2000 for 3000 users.
+Administration of Mail Marshall on all incoming and outgoing mails to ensure it complies to company policy.
+Deletion of all spam mail on a daily basis to maintain space on exchange servers.
+
+May 2002 to March 2003 SAGEM ( ID card project Nigerian Government) Nigeria( Contract)
+System Administrator and Project Management
+Duties and Responsibilities:
+Installation and implementation of all new Dell servers and Workstations on a windows platform. In rural areas of Nigeria.
+30 Windows 2000 Servers with a central Ad and Exchange.
+220 Windows NT 4 based workstations. 150 Dell Printers.
+Configuration of 3com hubs/switches.
+Daily and weekly eports on progress of project.
+Training of 1500 Nigerian citizens, in their local areas.
+
+September 1997 to March 2002 MTN Johannesburg/ Cape Town
+Helpdesk Support Technician- IT Regional Co-Ordinator
+Duties and Responsibilities:
+Software Installations to all workstations and notebooks.
+All printer installations.
+Support to all IT helpdesk calls logged and completing within SLA.
+Installation and updates of Anti Virus.
+Management of all backups (Arcserve) on live production Servers.
+Weekly and monthly reports to management.
+Training and assistance to new and fellow workers.
+Asset management and control of all computer equipment.
+
+June 1986 to July 1997 Commercial Union Insurance Johannesburg
+Computer Operator and IT Support Technician
+Duties and Responsibilities:
+Running daily, weekly and monthly batch jobs (mainframe based)
+Running daily security jobs (mainframe)
+Printing reports on high volume printers and distribution to various departments within the company.
+Requests for installation on all new Telkom data lines for the various branches.
+Installation and support of all new pc equipment Windows 95
+Assist and support of setting up a helpdesk for the IT group.
+Asset management control for all new and existing equipment.
+Training and assistance to current and new employees.
+
+Contact this candidate

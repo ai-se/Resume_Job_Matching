@@ -1,0 +1,82 @@
+
+MOHAN.T Contact: +918*********
+PL/SQL Developer E-Mail: adafws@r.postjobfree.com
+
+PROFILE SUMMARY AND RELATIVE SKILLS
+
+* ***** ** ***** ** experience in designing, customizing and developing enhanced functionality to Oracle like SQL, PL/SQL, stored procedures, SHELL SCRIPTING, PERFORMANCE TUNING packages on Oracle 10g/11g and SQL* loader Database as backend. Mainly in software analysis, design, implementation and development of Oracle .
+
+Experienced in programming as an oracle PL/ SQL developer and involved on all the phases of the SDLC (Software Development Life Cycle) from development, implementation and maintenance with timely delivery against aggressive deadlines.
+Experience in handling AGILE methodologies.
+Good experience in production support (L1,L2 and L3) and worked using ITT and TOAD.
+Experience in handling severity tickets within SLA and prepared Root Cause Analysis document.
+Basic Knowledge in UNIX Commands and Shell Scripting.
+Created Shell Scripts for invoking SQL scripts and scheduled them using crontab.
+Willingness and ability to quickly adapt to new cutting edge technologies and mastering sought-after skills.
+Extensive experience in SQL, PL/SQL Programming concepts.
+Has an extensive experience in data migration process from various data sources to Oracle 10g/11g and SQL* loader.
+Good experience in creating PL/SQL Procedures.
+Good experience in creating PL/SQL Functions, Packages.
+Has an Extensive experience in writing Materialized views.
+Having knowledge in writing complex stored procedures involving in-depth data analysis, triggers and views as per business requirements.
+Good experience PL/SQL queries like DML, DDL, Views and Triggers etc.
+Having knowledge in writing Complex Queries.
+Good knowledge of key Oracle performance related features such as Query Optimizer, Execution Plans and Indexes.
+Knowledge in Table Partition using Range and List Partition Technique.
+
+Professional Experience:
+
+Organization
+Designation
+Duration
+PLINTRON GLOBAL TECHNOLOGY SOLUTIONS PRIVATE LIMITED, CHENNAI
+Software Engineer
+JUNE 2017 to Till date
+
+Technical Skills:
+
+Languages : SQL, PL/SQL.
+Databases : Oracle 10g, 11g, 12C
+Utilities : SQL * Loader.
+Operating Systems : WINDOWS (All Version), LINUX.
+Other Tools : SQL PLUS, TOAD, SQL DEVELOPER, CVS, ITT
+VISIO, PUTTY, AUTOSYS
+
+Work Experience:
+
+Project Details:
+Title : E-trade.
+Client : E-Trade Financial Corporation.
+Duration : July 2017 to till date.
+Team Size : 23.
+Environment : Oracle 10g, 11g, 12C, PL/SQL, Sql*Loader,
+Unix, Windows/XP.
+
+Description:
+
+E-Trade Financial Corporation is a financial services company headquartered in New York City, United States. It is an online discount stockbrokerage firm for self-directed investors. Investors can buy and sell such securities as stocks, bonds, options, mutual funds, and exchange-traded funds via electronic trading platforms or by phone. E-Trade Financial also provides banking services to retail investors, such as sweep deposits and savings products.
+
+Role and Responsibilities:
+
+Developed SQL Queries for checking data transaction and database integrity.
+Involved in coding part of all respective module.
+Involved in writing stored procedures.
+Creating PL/SQL Packages, Procedures, Functions for data population and updating as per project requirements.
+Writing queries based on specifications.
+Analysis of requirements.
+Writing cursors according to specifications.
+Creating Database Triggers to Maintain USER Integrity.
+
+Educational Qualifications:
+B.E in Electronics and Communication Engineering from Sri Krishna College Of Engineering and Technology, Coimbatore
+
+Personal Details:
+
+Languages Known : English, Tamil, Kannada and Telugu.
+Gender : Male.
+Date of Birth : 15.07.1993
+
+PLACE: Chennai Yours truly
+DATE: (MOHAN.T)
+
+Contact this candidate

@@ -1,0 +1,51 @@
+
+The Development Operations Engineer is responsible for the activities related to the configuration management of software development. This includes working closely with the engineering team on scheduling, executing, and documenting software build processes. The role is key to compiling software with standard software development tools, packaging builds for release, ensuring appropriate project documentation is available for each new build or release, and smoke testing builds for accuracy and completeness of the build.
+
+Responsibilities:
+
+* Implement, maintain and improve the build and release processes of all public facing software deploying a highly available, highly scalable product release environment
+
+* Responsible for Jamf's continuous integration environment monitoring performance and the appropriate system tuning to guarantee responsive system performance
+
+* Develops scripts and automation tools used to build, integrate, and deploy software releases to various platforms; this includes client and server install scripts, and build and release automation scripts to make processes used between teams more effective and efficient
+
+* Provides technical knowledge and support to other team members in developing standards for SCM tools, processes, and best practices
+
+* Develops and implements system disaster recovery plans in accordance with business continuity and disaster recovery plansInterface directly with the engineering team regarding build and test process efficiency and expansion of the environment
+
+* Document environments as well as the practices and procedures of continuous integration and release lifecycle tools
+
+* Identify techniques and tools that will enhance the capabilities of the team to be more effective in the development of lifecycle tools
+
+* Additionally, the individual will be responsible for documenting the environments and providing assistance and review of proposed architectures
+
+* Performs all job responsibilities in alignment with the core values, mission and purpose of the organization
+
+* Adheres to the highest moral, ethical and legal standards to deliver an environment that promotes respect, innovation and creativity
+
+* Supports and promotes a positive, inclusive workplace one in which the talents and strengths of our increasingly diverse workforce are welcomed, further developed and manifested in our work
+
+* 2-4 years of experience with Jenkins, Bamboo, or other Continuous Integration Tools and Techniques
+
+* Advanced scripting skills; Shell or Python required
+
+* Knowledge of source control systemsExperience with issue tracking software (JIRA, Salesforce)
+
+* Comfortable using various operating systems; Windows server, Linux, Max OS X
+
+* Ability to communicate complex technical terms in an easy to understand, non-technical manner
+
+* Self-starter, energetic multi-tasker, highly motivated and team player
+
+* Excellent interpersonal and communication skills
+
+* High level of organization and attention to detail
+
+Location: Minneapolis, MN; Eau Claire, WI
+
+Travel:
+SDL2017
+
+
+Go to apply 
+

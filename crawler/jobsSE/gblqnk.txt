@@ -1,0 +1,26 @@
+
+Sundial Software is currently recruiting for a Software Engineer for a direct-hire opportunity.
+
+Visual C# Software Engineer Description
+Our Client is looking for a cross-platform developer with an emphasis on video technologies and interest in developing video recording, transcoding, playback and streaming applications.
+
+Responsibilities
+Design, develop, debug and test cross-platform applications using Xcode, Visual Studio and Xamarin on Windows 10, iOS, iPadOS and macOS
+Implement standard design patterns and techniques where applicable
+Develop custom software to integrate with existing systems
+Performance tuning, improvement and implementation for high availability and real-time performance
+
+Experience & Qualifications
+Bachelor's degree in Computer Science, Computer Engineering or a related field or equivalent work experience required
+Experience with the following technologies necessary:
+Visual C#, Xamarin, macOS
+Experience with concurrent programming and object oriented design needed
+Strong written and verbal communication skills
+Must be a strong analytical thinker and complex problem solver
+Master's degree in Computer Science or related a field a plus
+Experience in the following areas desired:
+Windows 10, iOS, iPadOS, Visual C++, SignalR, DirectShow, Media Foundation, AVFoundation, Universal Windows Platform (UWP), WebRTC, Project Catalyst, H.264/AVC, H.265/HEVC, Adaptive bitrate streaming, Real-time Transport Protocol (RTP)
+
+
+Go to apply 
+

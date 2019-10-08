@@ -1,0 +1,37 @@
+
+Software Methods is seeking a Quality Assurance Engineer for a 6+ month contract to hire opportunity at our client in the King of Prussia, PA area.
+We are looking for candidates with expertise in designing and architecting robust and scalable test automation framework as well as driving continuous improvement in testing processes.
+Responsibilities:
+Design, develop and execute test automation suite for one or more products
+Design, develop and maintain new and existing test automation frameworks
+Contributing to the reduction of technical debt, as well as improving process efficiency by innovative ways or by bringing alignment with industry standards
+Strategize, plan and estimate the assigned work, and provide periodic status reports on project milestones
+Develop the test strategy/analysis, and define the configuration of test environments to facilitate the testing needs
+Troubleshooting technical issues to identify root cause and corrective improvements and provide technical knowledge and assistance to other engineers
+Support the project team in all testing efforts as well as support the Test Architect/Lead in championing the best practices.
+Requirements:
+5+ years in testing in large scale applications and web services and 3+ years in developing and maintaining test automation suites and frameworks
+Hands-on experience designing and building low-maintenance, robust and scalable automation frameworks
+Hands-on experience in Windows UI test automation using Unified Functional Test (UFT) or similar test automation tool
+Advanced knowledge of one or more of the following programming languages: Java, Python or VB script
+Experience collaborating within the testing team as well as with cross-functional teams
+Possess excellent communication, sharp analytical abilities, and proven design skills
+Bachelor s in Computer Science or Engineering, or equivalent experience.
+Preferred:
+Experience working with configuration management tools and repository like Github
+Experience testing mainframe applications and environments
+Good working knowledge with a variety of databases like MS SQL, Oracle, DB2, MySQL, Flat File, MongoDB
+Experience with Waterfall or Agile/Scrum methodologies
+Experience in creating dashboards and testing metrics for test coverage and release status
+Experience with testing in virtual environments as well as cloud environments
+Ability to drive higher quality by assessing end-user impact of issues and thereby influencing key product decisions
+Ability to lead multiple small to medium size projects and drive them to completion.
+If this sounds like you, please contact us today!
+Unable to sponsor visas for this position. Please encourage those authorized, to work in the U.S. without a visa, to apply!
+No third parties please.
+
+Permanent
+
+
+Go to apply 
+

@@ -1,0 +1,38 @@
+
+Title: Devops Engineer
+Location: Charlotte, NC
+Duration: 12 Months
+Education Qualification: Bachelor's Degree in Computer Science, Information Technology (IT), or closely related field.
+Master s in Computer Science or related degree
+
+Job Description:
+Extensive experience with Jenkins, Bitbucket/GitHub, Kubernetes/OpenShift
+Implemented and managed the build lifecycle through CI/CD (Jenkins)
+Implemented containerized solutions using Docker/Kubenetes/OpenShift
+Extensive experience with Git/GitFlow
+Some experience using Groovy and shell scripting for automation
+Some experience with Helm for Kubernetes package management
+An understanding of best practices around source control, specifically Git, GitFlow, branching, versioning and naming conventions.
+Expert level knowledge (5+ years) of Java ecosystem (JavaEE/Spring/Maven/JBoss/Tomcat) and/or JavaScript ecosystem (Angular/Ember/Npm/Node.js)
+Some experience with infrastructure automation frameworks
+Experience working on Agile Scrum teams
+Automation mind-set an innate drive to continuously look for ways to automate existing processes.
+Coach teams on Tooling, CI/CD, Test Automation and Infrastructure Automation
+Partner with Development teams to ensure Coding standards are in alignment with DevOps practices with respect to Tools, Standards and Security
+Participate in code reviews for automation scripts developed by other team members using Git based pull/merge techniques
+Monitor applications with Application Performance Monitoring tools
+Troubleshoot and fix issues identified in code quality, test and scanning reports
+Produce and maintain documentation on installations, procedures and requirements for systems
+Actively participate in Engineering Scrum and design meetings to drive quality releases.
+
+Contact Details:
+Name: Sudheer
+Email ID:
+Phone number:
+Reliable Software is an Equal Opportunity Employer. Reliable Software does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and buess need.
+
+Permanent
+
+
+Go to apply 
+

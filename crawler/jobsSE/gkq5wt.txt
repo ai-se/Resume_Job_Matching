@@ -1,0 +1,31 @@
+
+About CyberArk:
+CyberArk is the global leader in privileged access security, a critical layer of IT security to protect data, infrastructure and assets across the enterprise, in the cloud and throughout the DevOps pipeline. CyberArk delivers the industry’s most complete solution to reduce risk created by privileged credentials and secrets. The company is trusted by the world’s leading organizations, including more than 50 percent of the Fortune 500, to protect against external attackers and malicious insiders.
+Job Description:
+The primary responsibility of the Security Services Engineer is to assist customers in implementations of CyberArk’s products. In performing this responsibility, the Security Services Engineer will be assigned with multiple simultaneous implementations in various parts of the country. This position requires up to 50% nationwide travel. In addition, the position requires providing technical support activities and managing technical relationships with customers. The Security Services Engineer will report to Manager, Security Services.
+Responsibilities:
+• Lead on-site and remote implementations and onboarding engagements with customers
+• Assist customers with developing, managing, and executing project plans and timelines
+• Help maintain customer relationships and identify opportunities for growth
+• Collaborate in the ongoing development of training materials and curricula
+• Collaborate with the team on consulting and development activities
+• Support the Security Services team by assisting with technical escalations support duties
+• Collaborate with other CyberArk departments to ensure coordination and completion of all additional implementation-related tasks
+• Up to 50% nationwide travel
+Requirements:
+• Bachelor’s Degree in Computer Science or similar field
+• Prior 2 or more years of experience in a technical / implementation role deploying enterprise software
+• Demonstrable knowledge of Information Security and Network Architecture concepts
+• Demonstrated ability to assume sole and independent responsibilities
+• Ability to keep track of numerous detail-intensive, independent tasks and ensure accurate completion
+• Ability to train technical users
+• Ability to conduct technical presentations
+• Experience with UNIX operating systems
+• Experience with programming / scripting
+• Exceptional written and verbal communications skills
+
+CyberArk is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+
+
+Go to apply 
+

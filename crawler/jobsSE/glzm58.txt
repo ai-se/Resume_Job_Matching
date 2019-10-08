@@ -1,0 +1,63 @@
+
+Responsibilities
+Hands on experience in security operations, incident response,
+security engineering, system and network security.
+Design,
+implement and manage security tools and technologies.
+
+Network and security engineering experience, including log and
+network traffic capture analysis
+Ability to document and
+explain risks, recommendations, and incident data to technical stakeholders.
+Passion for creating tools and automating
+processes
+Responsible for implementing best security
+practices
+Responsible to implement and maintain best security
+standards and policies to protect Information systems architecture
+that includes Data Center, Network, Servers, Storage, databases
+Applications and related access control.
+Conduct various
+vulnerability tests to identify the gaps, recommend solutions and
+implement them in a timely manner.
+Act as a consultant to
+all teams on information security best practices.
+Participate in project meetings and perform security design reviews.
+Research latest security best practices, staying
+abreast of new threats and vulnerabilities and help to disseminate
+this information within the groups.
+Implement relevant
+tools to monitor security threats, analyze relevant logs and take
+appropriate actions.
+Maintain documentation on security
+best practices, process, policies and standards
+
+Skills and Experience Requirements
+
+Experience in architecting, designing, configuring and installing Next generation firewalls, IDS/IPS, SIEM and DLP technologies
+Strong communication skills (written, verbal,
+and listening)
+Knowledge about various multi-vendor
+security tools and data encryption methodologies
+Windows,
+Linux, MS Exchange, Databases experience
+
+Educational Requirements
+
+Bachelor degree in Computer Science or related field or equivalent experience/training
+5+ years
+experience in
+information security/security engineering/architecture roles
+
+Professional security management certification such as CISSP,
+CISM certifications is a plus.
+
+If interested, submit your updated resume in WORD(.doc) format with
+following details: Full Name: Current Location: Expected Hourly
+rate/Salary: Work Authorization: - provided by Dice
+
+Contractor
+
+
+Go to apply 
+

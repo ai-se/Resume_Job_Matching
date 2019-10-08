@@ -1,0 +1,150 @@
+
+Kuldeep Mandloi
+SUMMARY
+**+ years of total experience in Software development (PL/SQL, Shell script, PowerBuilder, SQL Server 2000, Oracle 9i) that includes all phases of SDLC. Worked for some of the world’s top IT companies Cognizant and TCS.
+Completed training for Big Data, Data Science Concepts using Python and Machine Learning.
+Have knowledge on Big Data Framework
+Strong experience in Database Design, Code reviews, creating PL/SQL packages, Procedures, Functions, Triggers and Views to retrieve, manipulate and migrate complex data sets in oracle Databases and T-SQL programming.
+Good experience of Data Modeling, Oracle Utilities, such as Import/Export, SQL*Loader.
+Working on various products in Electronic Financial Services and Global Prepaid Platform like Corporate Quick Pay, Views Portfolio reporting.
+Proficiency in both Agile and Waterfall SDLC techniques.
+Worked extensively in Onsite-Offshore projects. Worked and coordinated with Offshore and onsite team member.
+Good communication, interpersonal skills.
+Strong analytical, programming and problem-solving skills.
+Highly proactive and readily accept challenges. Able to handle multiple tasks/projects.
+Proficient in system analysis and developing specifications and documentation.
+Awarded with Hats off Oct 2010 Award in Tech-M group
+Awarded with Innovator of the year 2013 award in EAS group.
+Familiarity with oracle forms and Reports, Big Data Framework, Core Java, Cognos
+OCA 9i certified
+
+TECHNICAL SKILLS
+Hardware
+Pentium based PCs, LVDI
+Operating System
+Windows-95/98/2000/NT/XP, UNIX
+Programming Languages
+Oracle SQL and PL/SQL,T-SQL, Shell Script, C++,Core Java, Python
+Databases & Tools
+Oracle – 9i/10g/11g, SQL SERVER 2005/2008,Toad, PLSQL Developer, Exceed On demand, Informatica IOD (Database Replication)
+Other Utilities
+Accurve, VSS, Mercury Quality Center, Remedy, Job Scheduling Console, Crystal Reports 9.0/10.0, Fintnesse, Swagger, GIT, Bit Bucket, Cognos
+IOD
+PowerBuilder 8.0/9.0/10.0
+
+EMPLOYMENT HISTORY
+Name of the Company
+Designation
+From
+To
+Cognizant Technologies Solutions India Pvt. Ltd/US Corp
+Sr. Associate-Project
+Sep 2007
+Sep 2019
+Tata Consultancy Services, Mumbai
+Assistant Software Engineer
+Feb-07
+Aug-07
+Fintech Solutions Pvt. Ltd., Indore (Braintree Products)
+Software Developer
+May-04
+Jan-07
+Double V InfoTech, Indore
+Jr. Software Developer
+Aug-03
+Apr-04
+
+EXPERIENCE SUMMARY
+1. Cognizant US Onsite assignment - (Dec- 2010 – Sep -2109), Houston-TX, Tampa-FL, Dallas-TX, US
+Roles and Responsibilities
+
+Interpret data, analyze results using provided tools and techniques to facilitate ongoing reports.
+Develop and implement Data Model, databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Tuning SQLs for better performance and meeting the SLA for the clients.
+Creating PL/SQL programming units (Packages, Triggers, procedures, functions etc.).
+Creating T-SQL programming units (Packages, Triggers, procedures, functions etc.).
+Acquire data from primary or secondary data sources and maintain databases/data systems.
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Filter and “clean” data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems.
+Work with management to prioritize business and information needs.
+Locate and define new process improvement opportunities.
+On need basis learn and Develop program in secondary skills (Core Java, PowerBuilder, C++, etc.).
+Working with analytical skills to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+Working with on demand queries, report writing and presenting findings.
+Writing and Maintaining Regression suit for batch processing using Perl/Unix
+Providing L3 support for critical client queries/issues to run their BAU operation smooth.
+Discuss, review and perform Tech refresh activities time to time to keep the client system updated and free from internet vulnerabilities.
+coordinating database development with offshore team, reviewing the functional changes, creating explain plans, reviewing deployment scripts and database packages. Participate and provide input in client Design discussion for complex processes like ACH, Check Print and Financial File Transformations.
+Work with other developers, DBAs, and systems support personnel in elevating and automating successful code to production.
+Porting the code and database changes to Production database after completing and System and User Acceptance Test.
+Acquired knowledge of Active Data Guard configuration
+Interacting with all the stake holders (database administrators, data architects, repository owners, application developers, cross commits and system designers)
+Development and management of releases plans
+Project timeline Estimations
+On-site review meetings with customers
+Maintenance of a small application based on Oracle Forms and Modules
+
+Programming Languages: Oracle SQL, PL/SQL, SQL SERVER T-SQL, UNIX, Shell Script, Core Java, HTML 5, Java Script, Cognos
+Version Management & Bug Reporting: Tortoise SVN, Source Tree, GIT, Bit Bucket
+Tools: TOAD, SQL Developer, Putty, FileZilla, Eclipse Mars, Fitnesse, Swagger
+
+2.Cognizant offshore Assignment Pune India (Feb 2007 – Dec 2010)
+
+Roles and Responsibilities
+Interacting with all the stake holders (database administrators, data architects, repository owners, application developers, and system designers)
+Developing Scripts to analyze the data changes.
+Development involved with the new requests to change the business functionality of a module. (Trigger, Cursor, Stored procedure, Functions, View etc)
+Execute Scripts.
+Perform Unit, SIT and Stress testing by creating mockup data
+Document the validation approach, steps, SQL code, and results in various tracking tools: QC / Perforce / SharePoint
+Development for POC (create similar kind of database structure on particular module) to provide our understanding on client’s provided code.
+Worked as a Production support team member and Developer, and was involved in the following
+Training/Assisting team members on Elementary domain training and Application overview.
+Problem solving and Peer reviews.
+Customer communication.
+As a support team member, I need to respond and analyze on following issues
+1.Database is down.
+2.Any tablespace has crossed the threshold limit.
+3.Any index is in unusable state.
+4.Any ETL job is running longer than expected.
+5.Any job is failed during execution.
+
+Operating Systems: UNIX, Windows 2000/XP
+Programming Languages: Oracle SQL, PL/SQL, Shell script, PowerBuilder 8.0
+Version Management & Bug Reporting: VSS, Perforce, HP Quality Center, SharePoint
+Tools: Informatica IOD (Object replication)
+
+3. Employer TCS (Feb 2007 – Aug 2007) at TCS, Mumbai India
+The New Performance project was initiated to provide internet facilities to client. I need to develop such application which extract data from paradox and excel files and provide transformed extracted data. Later provide it to mainframe application to load it to internet server.
+
+Roles and Responsibilities
+Prototype design
+Application interface design
+Updating Business rule document (BRD), Functional Model Interface(FMI) document
+Code review Checklist preparation, Test cases design, System testing, Smoke testing and UAT (User acceptance testing document)
+Build and Deployment of application to deliver.
+Client Communication
+
+Operating Systems: Windows 2000
+Programming Languages: Oracle SQL, PL/SQL, Shell script
+Backend: Excel, Paradox files
+
+4.Easysoft (May 2004 – Jan 2007) at Fintech Solution Pvt. Ltd. Indore (BrainTree Products)
+EasySoft is a complete Software Solution for SME business segment. Industry specific versions are designed to deliver deep business functionality to fulfill entire information system needs for different business segments. It helps to manage multiple geographical operations in a complete integrated environment.
+
+Roles and Responsibilities
+As a developer I worked on several new application introduced in our product. Interface Designing, Coding, Testing and Integration with other applications were the activities to be performed in new request.
+Enhancement and maintenance request, Bug fixing and Crystal report designing and were part of production support activity.
+In database side creating stored procedure, functions, cursors and other RDBMS concepts.
+Redgate SQL Compare tool is used to standardized client database. In this activity I need to keep the customize changes as it is but need to replicate our standard changes to client database.
+
+Operating Systems: Windows 2000
+Programming Languages: Power builder, SQL SERVER 2000
+Tools: Crystal Reports
+
+EDUCATION
+Master of Computer Applications from ICFAI University, Tripura
+Master of Computer Management from Devi Ahilya University, Indore
+B. Sc. Computer maintenance from Devi Ahilya University, Indore
+
+Contact this candidate

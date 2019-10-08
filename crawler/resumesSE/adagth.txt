@@ -1,0 +1,37 @@
+
+Chung-Hsun Wang
++1-734-***-**** adagth@r.postjobfree.com LinkedIn: linkedin.com/in/chung-hsun-wang
+Education
+M.S., Robotics, Electrical & Computer Engineering, University of Michigan, Ann Arbor, MI, USA Sept. 2018 – present
+• Relative Courses: Robot Kinematics and Dynamics, Self-Driving Cars, Artificial Intelligence GPA: 3.96/4.00 B.S., Electrical Engineering, National Taiwan University, Taipei, Taiwan
+• Relative Courses: Control System, Algorithm, Data Structure, Machine Learning, Robotics Sept. 2013 – Jan. 2018
+GPA: 3.83/4.30
+Skills
+• Programing Language: C/C++, Python
+• Tool: Robot Operating System (ROS), Linux, Git, Keras Work Experience
+Lyft Inc. Level5 Division, Palo Alto, CA, USA
+Software Engineer Intern, Behavior Planning Team
+May.2019 – Aug.2019
+• Improved and tested vehicle behavior algorithm for crosswalk scenarios
+• Implemented and tested graph search algorithms for Lane Level Planner
+• Built scenario generators for traffic control elements on the map in order to test vehicle behavior, and made the evaluation process automated Industrial Technology Research Institute, Hsinchu, Taiwan Engineering Intern, Autonomous Guidance Vehicle Global Navigation Jun.2018 – Aug.2018
+• Designed obstacle detection and global navigation algorithm for autonomous guidance vehicles to navigate to carry cargos in the factory by using Robot Operating System (ROS)
+• Achieved the accuracy of +/- 2cm for global navigation, and demonstrated the achievement of autonomous guidance vehicle local and global navigation in the 2018 Taiwan Automation Intelligence and Robotics Show (TAIROS)
+Industrial Technology Research Institute, Hsinchu, Taiwan Engineering Intern, Autonomous Guidance Vehicle Local Navigation Jul. 2017 – Jan. 2018
+• Designed local localization and local navigation algorithms for the autonomous guidance vehicles by analyzing Lidar data and using ROS
+• Achieved the accuracy of +/- 2mm for local navigation, and applied for a patent for the key technology of local localization (under review)
+Course Project
+Autonomous Truck Parking
+Multidisciplinary Design Program with ISUZU, University of Michigan Jan. 2019 – present
+• Ran autonomous truck parking simulation on CARLA simulator
+• Designed robot navigation architecture for a four-wheeled robot with ROS
+• Processed and used encoder data for robot localization ORB Visual SLAM
+Artificial Intelligence Application in EE, University of Michigan Jan. 2019 – Apr. 2019
+• Built ORB Visual SLAM algorithm by calculating stereo visual odometry and optimizing it with loop closure detection and pose graph optimization.
+• Used bag of words to detect loop closure, and least square error to do the pose graph optimization given loop closure information.
+Warehouse Robot
+Embedded System Experiment, National Taiwan University Feb. 2017 – Jun. 2017
+• Created a system of two line-following robots, which first recognized the objects’ color, and created collision-free paths for robots to reach certain goals
+• Built the system with Arduino and Raspberry-Pi by using Python and C++
+
+Contact this candidate

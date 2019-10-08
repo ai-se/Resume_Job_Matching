@@ -1,0 +1,34 @@
+
+At Tableau, our mission is to help people see and understand data. We build products and features that transform the way people use data to solve problems. Data Catalog is Tableau s new exciting Data Management offering centered towards this mission that helps IT and business users manage, increase the trust and improve the discoverability of their ever-increasing data.
+We are looking for a talented full stack, experienced senior engineer who shares our passion of building delightful productswhile collaborating withproduct managers, UI designers, other developers and testers in a healthy and diverse environment.
+What you ll be doing
+As a Senior Software Engineer, some of the things you ll do include:
+Work collaboratively as a team and across other teams to design and implement features across all Tableau Products Desktop, Server, Prep, etc.
+Drive and take full ownership of the end-to-end quality of the code deployed to Production
+Author and publish design documents with a goal of getting approval from stake holders
+Participate in the ongoing evolution of the existing system architecture
+Promote code quality by writing clean, readable, maintainable, modular and efficient code
+Design, author and maintain unit and integration tests for existing and new features
+Work with customers, support, and QA to resolve bugs and support issues in a timely manner
+Review and provide detailed feedback on design documentation and test plan
+Review code and mentor other Software Engineers to help develop their technical skills
+Who you are...
+Bachelor s degree in Computer Science
+5+ years of mixed experience in backend and frontend design and development
+Strong technical background with experience in modern web systems design and development tools
+Strong experience with backend or/and frontend languages and technologies
+Frontend: JavaScript, TypeScript; React or Angular is a plus
+Backend: Java or C#; C++ is a plus
+Excellent analytical, problem solving, debugging and troubleshooting skills
+Successful track record of developing and shipping high quality software
+Knowledge of different quality improvement practices and experience with unit and integration testing
+Experience with Perforce, Git or similar version control software
+Loves to learn new languages, tools and frameworks
+You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world
+#LI-EM1
+Tableau Software is an Equal Opportunity Employer.
+Tableau Software is a company on a mission. We help people see and understand their data. After a highly successful IPO in 2013, Tableau has become a market-defining company in the business intelligence industry. Our culture is casual and high-energy. We are passionate about our product and our mission and we are loyal to each other and our company. We value work/life balance, efficiency, simplicity, freakishly friendly customer service, and making a difference in the world!
+
+
+Go to apply 
+

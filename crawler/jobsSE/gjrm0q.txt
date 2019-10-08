@@ -1,0 +1,43 @@
+
+Supervisor: Enterprise Architect
+Organization:Software Engineering
+Experience Required: 0 - 3 years professional software development experience
+Job Description
+As an Associate Software Engineer at OPIE Software you will be part of a dedicated team working with the latest technologies and coming up with creative solutions to problems across a wide range of projects from conception to release. Your passion for writing code, solving problems, designing solutions and collaborating with other highly skilled individuals will allow you to succeed in this fast-paced, ever-changing environment.
+Ownership of product is encouraged and as a member of our team, your contributions will have a positive impact on hundreds of clinics and patients. You aren’t alone. You’ll use Scrum and Agile practices. You’ll follow the team rules; in part, this means that you have to write high quality code that’s for the team and not just for you. It also means that you need to work well with your teammates: Compromise and challenge where appropriate.
+You were hired because of the value that you will bring tomorrow. We will help you get there. We’ll meet at least quarterly to review your progress and help provide guidance, resources, and mutual accountability to help you achieve them.
+Essential Functions
+
+Deliver Awesome Software
+Collaborate with your team and other business units to provide software solutions.
+Create and comprehend technical documents and requirements.
+Develop, test, and maintain software.
+Quickly adapt to changing business requirements.
+Keep abreast of new technologies.
+Proactively identify and resolve key tech issues.
+Learn the software. Learn the Industry standards.
+Double check with your team, PO, SM, and team members.
+Automate Your Tests – Write unit, integration, functional tests. Write code so a robot can test it.
+Pair Up – Two heads are often better than one. Really. Don’t be shy. It’s your job!
+Document Appropriately - per the rules of the team.
+
+Fully Participate in Scrum
+Daily Standups – Bring your daily commitments. Bring your impediments. Help the team hit the forecast.
+Retrospectives – Bring the honesty from your heart to the team. The team can’t grow if it can’t talk about the truth.
+Planning – Make a plan to win.
+Demos – Demo per the team rules.
+Preferred Knowledge, Skills & Attitude:
+Experience with web development technologies like HTML, CSS, and JavaScript
+Experience with web development libraries like jQuery and React
+Experience with UI/UX design
+Familiarity with SQL and databases
+Familiarity with version control systems
+Knowledge of unit tests and functional testing
+Knowledge of Agile software development methodologies
+Bachelor’s degree in Computer Science
+0 – 3 years education/experience in related position or field
+Please include a cover letter that describes why you believe that you be a great fit to our company and the position for which you are applying. Keep in mind that we are interested not only in your background and skills, but also in who you are and how you would fit into our team and vision.
+
+
+Go to apply 
+

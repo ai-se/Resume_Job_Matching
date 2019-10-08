@@ -1,0 +1,141 @@
+
+JAYASHREE KUMAR
++91-983*******
+Bangalore, India
+adaias@r.postjobfree.com
+
+PROFESSIONAL SUMMARY
+
+As 9+ years experienced, versatile professional with proven and tested Test Management and Team Management skills, across various Verticals and Horizontals on multiple platforms, with expertise in working as a Salesforce Test Lead and Salesforce Test Analyst for Salesforce-CRM projects, with recognized proficiency in business analysis and quality assurance with an aim of accomplishing corporate goals successful.
+
+SKILLS
+
+Salesforce Testing, Cloud Testing, CRM Testing, Manual Testing, Functional Testing, Agile Methodology, Integration Testing, Mobile Testing
+SQL, SOQL, Workbench
+HP ALM, TFS, BugZilla
+Data Migration, Application Migration
+Salesforce CRM
+Requirement Gathering, Analysis, Test Design, Test Execution
+Business Analysis, RCA, Risk Mitigation
+Agile/Scrum, Team Management
+Mergers & Acquisitions
+
+WORK EXPERIENCE
+
+Salesforce Test Lead Apr 2014-till now
+Cognizant Technology Solutions, Bangalore, India
+
+Actively working in an Agile software development environment.
+Led a team of 14 members to successfully deliver multiple end to end implementations on Salesforce lightning as a Business Analyst and QA Lead.
+Led the testing of migrations and integration of Salesforce along with functional dependencies and successfully delivered the testing in time.
+Worked on application migration of a content management platform from Documentum to Veeva Vault in a GxP Compliant Validation project.
+Delivered UAT Summary Reports, Validation Summary Reports, Data Migration Summary Reports at the end of implementations.
+Trained Pre Sales users and ensured application familiarity during and after UAT.
+
+Software Engineer June 2010-Mar 2014
+ATSI Technology Solution, Kolkata India
+
+Worked as a Business Analyst/Software Engineer
+Worked on a ERP implementation as a Team Member and then as a Lead which replaced an existing Customer Service portal based on C#/.Net.
+Got involved actively in all SDLC phases with business stakeholders.
+
+PROJECTS HANDLED
+
+Project Name: WinZone NextGen CRM May’16-till now
+Cognizant Technology Solutions (I) Pvt. Ltd, Bangalore, India
+
+Role : Team Lead
+
+Working on Requirement Gathering with Business and BA.
+Estimating the Tee Shirt size of each User Story, based on the acceptance criteria defined.
+Preparing the plan for Data Migration Testing.
+Coordinating with Product Owners, BA and SFDC Dev Teams to identify early gaps and blind spots in the Requirements, and getting the requirements more streamlined from Testing POV.
+Providing Requirement Breakout Sessions to the Testing Team to ensure uniform application understanding and optimized impact analysis.
+Preparing the Data Migration Test Plan and Performing Data Migration Testing in multiple releases for Opportunities, Accounts, Contacts, Leads.
+Preparing the RTM, Integration Test Strategy of Salesforce with applicable downstream systems.
+Driving the End to End Functional Testing, involving Salesforce OOB features, Customizations, Configurations, Reports, Workflows, Approvals, Dashboards.
+Performing Security based testing over Objects, Fields – Profiles, Permission Sets and Records – OWD, Roles.
+Validating the Sharing Rules – Content Based and Ownership Based.
+Performing Validation of the Functional flows and UI on Salesforce1 app/Mobile browsers over hand held devices – iOS and Android.
+Performing the Integration Testing of Salesforce with 8 different downstream systems, validating Real Time and Batch dependent data flows, both Outbound and Inbound.
+Coordinating with multiple teams consuming the data created in Salesforce to perform the Impact Analysis over any new requirement.
+Working with business in defining the requirements on Sales Stage Qualification Process for Renewal and Expansion opportunities.
+Monitoring the Outbound Messages queue to validate the Object Outbound from Salesforce.
+Performing validation over Lead Duplication and Merger of Duplicate Leads.
+Working with Process Owners in defining the requirements for Mergers & Acquisitions, Synergy Deals and their Impact Analysis.
+Defining and Reviewing the Test Cases.
+Authoring UAT Test Cases.
+Supporting UAT users from multiple global sites with Test Execution and Clarifications.
+Performing Sanity Test in Production, post every Release prior to Go Live.
+
+Project Name: ABBV Veeva CRM WEC Aug 2015-Feb 2016
+Cognizant Technology Solutions (I) Pvt. Ltd, Kolkata, India
+
+Role: Team Lead
+
+Project Estimation based on initial requirements.
+Preparing the plan for Data Migration Testing.
+Coordinating with Client, BA and Veeva to identify early gaps and blind spots in the Requirements, and getting the requirements more streamlined from Testing POV.
+Working on the Requirement Risk Assessment and RTM.
+Preparing the Data Migration Test Plan based on the ETL approach.
+Preparing the Integration Test Strategy of Veeva Vault with downstream Training Management Systems.
+Driving the End to End Functional Testing, involving Veeva Vault OOB features, Configurations, Reports, Lifecycles.
+Performing Security based testing over Documents, defined on Permission Set, Public Group and Roles.
+Defining the Testing approach to cover Objects (Records, Change Notice, Change Request).
+Performing Data Migration Testing using the ANSI Sampling Approach over Metadata, Audit Trail, Renditions, versions, Relationships and Object Migrations.
+Validating the Data Migration Specification, while coordinating with Migration Architects and Business.
+Defining and Reviewing the Test Cases.
+Pre Approving the Test Cases in ALM.
+Driving the Dry Run and OQ for Functional, Integration and Data Migration.
+Post Approving the Test Runs in ALM.
+Authoring UAT Test Cases.
+Supporting UAT users from multiple global sites with Test Execution and Clarifications.
+Preparing the Validation Summary Report and UAT Summary Report.
+Delivering Case Study documents, Training Documents for Veeva Vault Functional and Data Migration.
+Performing PQ and providing Hypercare Support.
+
+Project Name: USCM CRM Nov 2014-July 2015
+Cognizant Technology Solutions (I) Pvt. Ltd, Kolkata, India
+
+Project Name: HERCULES Apr 2014-Nov 2014
+Cognizant Technology Solutions (I) Pvt. Ltd, India
+
+Role: Team Lead
+
+Actively involved in Requirement analysis and prepared RTM.
+Prepared manual test cases for System testing.
+Prepared integration test cases for System testing.
+Performed Test Script execution of the SFDC Veeva application.
+Prepared Test Data for System.
+Involved in Defect Tracking, Logging and Analysis in Quality Centre
+
+Project Name: Online KVWIZ ERP Application Nov 2014-July 2015
+ATSI Technology Solutions Pvt. Ltd. Ltd, Kolkata, India
+
+Researching, designing and writing new software programs.
+Maintain and modify programs; make approved changes by amending flow charts, develop detailed programming logic, and coding changes
+Analyze performance of programs and take action to correct deficiencies based on consultation with users and approval of supervisor.
+Consulting colleagues concerning the maintenance and performance of software systems for detail clarifications and implementation trouble shoot.
+Creating technical specifications and Unit Test Plans.
+All the Unit Tests to be completed before submitting the module to supervisors. The module should be tested as per “Validation Metrics”.
+Updating and submitting test-reports with “Closed/Escalated” status in given time-period as evaluated by the supervisor.
+Document programming problems and resolutions for future reference. These documents have to be submitted to the supervisor after successful deployment of each module.
+Constantly updating technical knowledge and skills with upgraded technologies by attending in-house and/or external courses, reading manuals and accessing new applications to meet changing customer/industry needs with enhanced coding skills.
+Travel on-site or working at client premises to deliver an enhanced and trouble shoots client support.
+
+EDUCATION
+
+MCA
+WBUT University, WB, India
+Master’s Degree
+
+Computer Science Hons.
+North Bengal University, WB, India
+Bachelor’s Degree
+
+CERTIFICATIONS
+
+Having external certification on Salesforce Admin
+Having Microsoft Certification on .Net Framework 3.5, ASP.NET Application Development
+
+Contact this candidate

@@ -1,0 +1,21 @@
+
+What you ll be doing
+You will be responsible for making Tableau Cloud highly available and scalable to meet the expectations of large Enterprises. Tableau Cloud is a hosted visual analysis product suite which allows people to share rich interactive stories about data. Thousands to millions of people will use your software, either directly by creating and contributing content, or indirectly by encountering it embedded into other sites on the Internet.
+Some of the things you ll be doing include
+Ensuring Tableau Online meets the functional requirements of large Enterprise customers. This work will require expanding the capabilities of existing services, as well as building new ones to meet our customer s needs.
+Work with existing team to ensure that their services are meet the needs of Enterprise customers. Ensure that new and existing architecture can scale to meet the growth of our Online customer base.
+Become a voice for cloud first architecture across the company. Help influence other teams to ensure that their solutions scale to meet the continuing demands of the Online world.
+Who you are
+You re not satisfied by the status quo.You re constantly looking to improve things. You are curious and like to learn new things. You are team builder. You have a passion for technology and using it to make delightful experiences.
+Experienced. You have at least 5 + years of experience in coding, and have a passion for solving complex problems. You have solid development skills with object oriented languages (Java, C++, C#) and preferably web technologies and development tools (HTML, CSS, Javascript) as well. Ideally you have experience developing large-scale cloud applications.
+Dev-Ops mindset. You are engaged in all aspects of software deployment, and think beyond just getting your code checked in. You build and run a highly polished test and release pipeline, and have a bias for automation. You find areas that require manual intervention and work to remove them semantically.
+Highly Technical.You understand what it takes to write software that is used by thousands or millions of people. You love writing things that just work things that are robust, scalable, and that perform well.
+A True Team Player.Team success and company impact is more important to you than personal recognition. You are open to new ideas and are willing to question established ideas. You care more about the right thing and less about being perceived as right.
+You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world!
+*LI-MA1
+Tableau Software is an Equal Opportunity Employer.
+Tableau Software is a company on a mission. We help people see and understand their data. After a highly successful IPO in 2013, Tableau has become a market-defining company in the business intelligence industry. Our culture is casual and high-energy. We are passionate about our product and our mission and we are loyal to each other and our company. We value work/life balance, efficiency, simplicity, freakishly friendly customer service, and making a difference in the world!
+
+
+Go to apply 
+

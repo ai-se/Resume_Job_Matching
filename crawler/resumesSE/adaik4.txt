@@ -1,0 +1,202 @@
+
+AURELIAN BALAN
+**** **** ** **** ** Apt ***, Bellevue WA 98004
+adaik4@r.postjobfree.com; 425-***-****
+Profile: http://www.linkedin.com/in/lianbalan
+
+PROFESSIONAL EXPERIENCE
+
+** ***** ** ** *** Business experience (product, IT and operations) mostly focused on ERPs as project manager, business analyst and QA/Test (Microsoft, Boeing, T-Mobile, Paccar, City of Seattle) with a PT involvement as a Software QA Instructor at Bellevue College. Prior to software, Lian worked as an electrical engineer in Manufacturing, Design, R&D and mining equipment maintenance.
+SPECIALITIES
+Project Management methodologies: Agile (Scrum, Kanban), Waterfall (SDLC, Proven Course)
+Hands on PM and PMO for IT, Business Operations and Customer Support
+ERP Solutions Business Process Design and Improvement, Requirements elicitation, Functional Specifications, Status Reports, UAT planning and execution up to handoff, Data Analysis, Six Sigma, SOX, Data modeling, Workflow / Data flow diagrams
+Test Plans, Test Cases, Test Execution (manual and automation), Functional Test, UI/Front End / Back End Test, End to End Enterprise Applications, Systems Integration, Data Validation, Data Migration, Security Role based test, Load Test
+Microsoft Office, Visio, Project, Visual Studio (Test Foundation Server) / VSTFS, MS SQL Server, SharePoint, Project Server, MS CRM, Power BI, Oracle, TOAD, JIRA, Hansen, Exact Target, Mercury Web Runner and other applications
+Excellent Presentations (preparations and delivery up to CEO levels) and customer facing interaction
+
+CERTIFICATIONS
+Scrum Master
+Six Sigma Green Belt
+SQL DB Administration
+
+PROFESSIONAL EXPERIENCE
+Paccar Parts Division
+May 2019 – July 2019
+PM / QA / UAT Lead
+Robert Half Technologies
+
+Scope:
+Migrate Customer Support Application from Oracle to Salesforce
+Stakeholders:
+Paccar Parts Division, Dealerships, Service Providers and Customers
+Challenges & Accomplishments:
+Coordinated the Test / UAT activity of a 19 people Business Users team using custom SharePoint list
+Delivered a Total Customer Support Solution in Time and Budget (yet to come 8/3/2019)
+
+MCIO (Microsoft Cloud Infrastructure Operations)
+Jan 2018 – March 2019
+Project Manager
+Launch Consulting Group
+
+Scope:
+Data Centers Network Capacity Planning and Management (CPM)
+Stakeholders:
+All Microsoft Cloud Initiatives – Network Tier 0, 1 and 2
+Challenges & Accomplishments:
+Hands on Inventory and Forecast of network demand for all Microsoft Data Centers
+Delivered Network Resources per SLA (24 hours) & assisted with anomalies investigations
+
+Boeing
+Oct 2016 – Dec 2017
+Business / QA Analyst Lead
+Elyon International
+
+Scope:
+Migrate IBAS ERP Enterprise Application from Mainframe to Windows
+Stakeholders:
+Manufacturing and Airline Customers
+Challenges & Accomplishments:
+Manage highly complex specification and documentation
+Validated migration completed successfully
+Deliver IBAS Windows in Time and Budget
+
+Microsoft WDG - Security Operations - High Value Assets (HVA), Redmond, WA
+March 2016 - May 2016
+PM / Scrum Master
+TEKsystems
+
+Scope:
+Cyber & Security for all Data Centers and Manufacturing Assets (60 Billion worth of assets)
+Stakeholders:
+HVA, Network Security and Identity Management organizations
+Challenges & Accomplishments:
+Orchestrated planned and unplanned work for a 25-people team and reporting to agency;
+Drafted JIRA to VSO migration
+Facilitated Daily Stand-ups and Sprint Planning (2 weeks sprint / 25 people scrum team)
+Drove CM process (CAB – Change Advisory Board) 120 people for all Security Operations group
+CM process improvement with VSTFS customization & organization wide communication
+JIRA to VSO migration – outlined data fields and process mapping
+
+Microsoft - Commerce Platform Fixed Licenses Offer Management (CP-FLOM)
+May 2014 – August 2015
+PM / Business Analyst
+Redmond Technology Partners
+
+Scope:
+CP-FLOM team, responsible for delivering all Microsoft fixed license products to customers
+Stakeholders:
+Product Groups (Office365, Azure, CRM, ERP, MSDN), Sales, Engineering, Localization (~100 people)
+Challenges & Accomplishments:
+Part of a 5-people team which successfully delivered Microsoft Product Offers from On-boarding to Production which constitutes over $42 Billion in revenue – almost 50% of Microsoft’s 2014 revenue
+Coordinated Commerce Platform teams (Product Groups, Sales, Engineering, Localization) from Offers On-boarding to deployment to Production
+Initiated and maintained communication across teams for on-boarding / production deployments and issues resolution
+Created the monthly reports from Data gathering to final Reports to support the SLA compliance
+Supported two SOX Audits from Data gathering, Report Preparation and Auditor support
+
+Microsoft Office Division (MOD): Email Marketing Campaign
+July 2013 – December 2013
+QA of Product Intelligence
+Simplicity Consulting
+
+Scope:
+Review, Implement, QA and Deployment to Production of Email Marketing Campaigns on SaaS Exact Target
+Stakeholders:
+Office Marketing Group, Content Creators/Translators and 3rd party engineering
+Challenges & Accomplishments:
+Supported Marketing with Data Analysis, the creation of new campaigns and market expansions
+
+Participated in Exact Target (Sales force) beta test
+Resolved campaign misalignments amongst marketing partners
+
+Microsoft e-commerce IT (ECIT)
+May 2013 – June 2013
+BI IT PM
+Annik Technology
+
+Scope:
+Business Requirements validation and End to End IT QA / UAT for the Incentive Compensation tool
+Stakeholders:
+ECIT Team, Microsoft Partners and the Compensation Team
+Challenges & Accomplishments:
+Delivered the Incentive Compensation tool in time for the end of the fiscal year (Hard Deadline)
+E2E UAT for a CRM based sales Incentive Compensation tool – test cases / test execution
+Coordinated UAT with Business Users and Offshore Partners
+
+T-Mobile, Factoria, WA
+Feb 2013 – March 2013
+Business Analyst
+Wimmer Solutions
+
+Scope:
+Supported T-Mobile HR and Legal departments with WFR (Work Force Reduction) documentation for compliance
+Stakeholders:
+HR and Legal Departments
+Challenges & Accomplishments:
+Identified the tool, negotiated with the tool vendor to expand capacity and delivered to deadline
+Evaluated modeling Tools for T-Mobile organization-wide: SAP / NAKISA and OrgPlus
+Generated ORG Charts (As Is / To Be ) for HR and Legal Department
+
+Paccar, Renton, WA
+Nov 2012 – January 2013
+Business Analyst
+Wimmer Solutions
+
+Scope:
+Supported Paccar with the implementation of EPA Labeling
+Stakeholders:
+Paccar Company
+Challenges & Accomplishments:
+Delivered the implementation in time (hard deadline)
+
+EPA (US Environmental Protection Agency) Greenhouse regulations compliance project – created Full Adoption requirements / approval and process sequence diagrams.
+Architected EPA Reports – layout and data sources extracted from several non standardized divisions
+Completed project on time and as a result Paccar trucks met the EPA Compliance deadline
+
+Boeing, Everett, WA / Integrated Supplier Information System [ISIS]
+February 2012 – June 2012
+System Design and Integration Specialist
+Triad Systems
+
+Scope:
+Consolidation of several legacy applications into a unique business tool (ISIS) to support Supply Management
+Stakeholders:
+Suppliers, Boeing Supplier Quality, Boeing Production and Supplier Management (40k + people)
+Challenges & Accomplishments:
+Delivered in time and minimum downtime to production
+
+Consolidated Legacy Systems into ISIS (Integrated Supplier Management System) an FAA regulated industry
+Participated in Go Live (Long Beach CA) and Customer Support/Training (Boeing and Suppliers)
+Delivered SaaS solution on time with minimum impact to business (2 days downtime)
+
+Coinstar Inc. Enterprise Systems Group
+June 2011 – February 2012
+Scrum Master
+Redmond Technology Partners
+
+Scope:
+Organization-wide Information Systems migration from on-premises to Seattle Data Center (SDC)
+Stakeholders:
+Coinstar Inc.
+Challenges & Accomplishments:
+Mission Accomplished with minimum downtime to production (one weekend)
+
+Contributed to the tasks list for migration
+Created and executed Test Cases to validate the migration completeness
+Scrum: End to end testing for ERP System Enhancements
+Designed and Implemented / configured a SharePoint web site to facilitate Scrum team efforts
+
+Prior to Coinstar, Lian held positions as PM/BA/QA - Test, Sr. Consultant, project engineer in design, manufacturing, operations and R&D with various companies in US (Microsoft, Boeing, Power Conversion, Startups), Australia (MD Research Pty. Ltd.) and East Europe (UUMR).
+
+EDUCATION
+
+University of Phoenix
+MBA
+January 2006
+University Polytechnica Timisoara,
+MSc.EE (Energy and Power)
+July 1988
+
+References available upon request
+
+Contact this candidate

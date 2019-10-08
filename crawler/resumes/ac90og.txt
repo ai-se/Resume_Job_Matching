@@ -1,0 +1,176 @@
+
+SAMIR JAIN
+
+PROFESSIONAL SUMMARY
+
+Data and Information Management professional with rich experience in Upstream Data, Analytics and Digital Transformation. Experience working with on high level initiatives like Enterprise Data Management, Defining & Executing Data Management processes, Business Process Improvement, Enterprise Data Governance, Master Data Management, Data Analytics in the field of Upstream Oil and Gas. Throughout my career, my experience includes but is not limited to industry leading tools like ProSource, Finder, GeoFrame, Petrel, Techlog, Recall, LiveLink, Openwork’s etc. Lead teams ranging between 5-15 Geoscientists on customer engagements.
+
+Key strengths
+Data Management
+Upstream Oil & Gas IM SME
+Business Analysis
+Data Foundation
+Data Quality Management
+Master Data Management
+Team Management
+
+PROFESSIONAL EXPERIENCE
+
+Advisor –Upstream SME (Information Management) Aug 2015- Present
+Client:dataVediK
+Providing domain expertise to dataVediK team consisting of data scientists, software engineers, solution architects, database engineers, developing Machine Learning based solutions for Oil and Gas Upstream workflows. Also helping in developing BI Analytics dashboards.
+
+Client: Nabors Drilling
+myWells is a Nabors commercial product, which is used by customers to monitor real-time drilling data and performance by Drilling operations in the field. Current technology is coming to end of lifecycle requiring a complete revamp.
+Role: Product Manager/Sr. Business Analyst
+myWells (Real-time Drilling Monitoring System) Product Revamp
+Development and approval of concepts with Drilling and IT leadership
+Lead Defining Data Foundation Strategy and Roadmap
+Define KPI’s for drilling stages
+Document Business and Functional Requirements
+Lead UI Design contactor during development process
+Lead BA / SME during Product Development Cycle
+
+Noah Consulting LLC, Houston, USA Nov. 2012 – Feb. 2015
+
+Sr. Consultant / SME (Upstream Oil & Gas Information Management)
+
+KEY PROJECTS
+
+Client: ConocoPhillips (Sept. 2014 – Feb. 2015)
+ConocoPhillips engaged Noah to help them remediate the geochemistry data for GOM offshore and Permian fields. The core deliverable was remediated data and development of new business process including data quality rules for future sustainment. Samir lead the team consisting of Data Analyst and SME.
+Role: PM/Sr. BA
+Geochemistry Data Remediation – Strategy, Roadmap and Pilot
+Identification of gaps in current process, define future state business process
+Define KPI’s, Service Delivery Quality of contractors
+Remediation of GOM offshore and Permian Geochemistry header data
+Development of web-based application to manage data quality for incoming Geochemistry data for sustainability
+
+Client: Chevron (May 2014 – Aug. 2014)
+Chevron GOM team engaged Noah to identify MDM need for the Upstream team. Noah team members conducted over 60 interviews with senior to middle management professionals with a view to understand their needs. The core deliverables were MDM roadmap and data types priorities which will bring value to the core business.
+Role: Sr. BA
+Master Data Management – Strategy and Planning
+This was a strategy project to assess the need of MDM for various data types like, Well Header, Reservoir, Geological Tops and others, demonstrating business benefits.
+PPDM Data Model assessment for MDM needs.
+Technical evaluation of available MDM technologies
+Define the roadmap and priorities for the implementation of MDM solution
+
+Client: Chevron (Jan. 2014 – May 2014)
+Chevron engaged Noah to help them remediate the G&G, Reservoir and Production data for their oldest GOM asset Bay Marchand. The core deliverable was roadmap and processes to remediate all the data (Structured and Unstructured).
+Role: Sr. BA
+Data Characterization and Remediation Project – G&G, Reservoir and Production Data
+Defined processes to remediate data and transform into digital knowledge base.
+Defined Sand and Reservoir naming standards
+
+Client: Marathon (Sept. 2013 – Dec. 2013)
+Marathon engaged Noah to assess their Information Management needs and to define strategy, data foundation elements and roadmap. During the process over 45 interviews were conducted with Marathon professionals involving Managers, Geoscientists, and Engineers.
+Role: Lead BA
+Cornerstone Strategy and Planning – Enterprise Geoscience Data
+Data Foundation Elements: Discovery, Monetization, Data Quality, Architecture, Governance, Analytics, Visualization
+This was strategy project for defining roadmap to go from current state to future state, 2020 Information Management Vision
+
+Client: Devon (Jan. 2013 – Sept. 2013)
+Streamline Information Management processes across their operating Business Units. Engineering Data Management Program: Unstructured Data Management Stream
+Role: Lead BA
+Defined future vision for unstructured data called “Engineering Workspace”
+Strategy and roadmap to migrate from current state to future state
+Defined the business/functional requirements for collaboration workspace for Drilling and completions engineers for documents created along the well lifecycle
+
+Client: Statoil (Nov. 2012 – Jan. 2013)
+Role: SME
+Defined MDM attributes for Well Header data and changes along the lifecycle of a well
+Defined JV Data Exchange Process for Statoil to share data with partners
+
+Global Computers LLC, Muscat, Oman Apr. 2012 – Nov. 2012
+Project Manager
+Client: Shell-PDO
+Managed the Program for developing UNIFIED Desktop Environment for Geoscience Business Users on Window7 64Bit Environment. Over 75 Business Applications were tested to check environment readiness.
+Managed the Program for developing Citrix XenApps Environment for PDO-Shell. (Including testing and migration of over 75 Geoscience applications as used by geoscientists)
+Lead the Project to develop In-house Application to manage complete ‘Well Delivery Process’, Planning (Sub-Surface and Drilling), Operations Monitoring, End of Well Report, Performance Monitoring and generation of KPI’s. LEAN way of delivering New Wells in PDO-Shell, Oman.
+
+Fugro Data Solutions Ltd. Jan. 2008 – Dec. 2011
+Manager – Solutions Development (UK) Jan. 2010-Dec. 2011
+Moved to FUGRO head office to develop new solution, which was called assuring data quality of G&G data acquired by service contractors. This was based on the work for a Super Major operator, which was recognized as best practices by PDO/Shell. This solution helps organizations to maintain service delivery standards and generate KPI’s for data across multiple geographic locations.
+
+Manager – Data Service Office (Muscat, Oman) Jan 2008-Dec. 2009
+Managed Daily operation, and team of 13 people assigned to manage G&G data
+Developed KPI’s for data quality and standards for all service providers across G&G data
+Implementation of Recall autoloader
+Architect development of key application (RADAR) to monitor KPI’s across organization
+Actively involved in service agreement with all the contractors
+Contractor performance monitoring
+Data Manager for all PDO asset teams
+Lead engineer for FUGRO in Oman.
+
+Schlumberger Oct. 1994 – Dec. 2007
+
+Technical Sales (Oct-2006–Dec 2007), Schlumberger Information Solution
+
+Guest Tester (Dec-2006 – Jan-2007), Schlumberger Information Solutions, Houston
+Tested ProSource, IM Solution at Schlumberger Product Center
+
+Geoscientist, (April-2006 – June-2006) Consulting Services, Schlumberger, Kuwait
+Litho Facies analysis for one of the fields involving 120 wells. Client: KJOC
+GeoFrame Neural Network Technology used for Facies analysis
+
+Data Manager – Data Management Consultant in KOC(Oct-2005 – March-2006) SIS, Kuwait
+Lead Physical Asset and Log Data management teams
+Improved process for Physical and Digital Log Data, assuring 100% data quality
+Applications : LogDB, AssetDB, eSearch
+
+Petrophysicist, (May-2005 – June-2005) Consulting Services, Schlumberger, Kuala Lumpur
+Performed quality assurance for log data interpreted by the team for one of the field study projects.
+
+Product Champion - InterAct (June-2004 – May-2005) Consulting Services, Schlumberger,
+Lead team to support InterAct for all the clients in Kuwait
+Co-ordinate Geo-Steering jobs with teams at Visualization center
+Defined the data transfer workflow between applications for real-time monitoring
+
+DM Geoscientist (Dec-2003 – June-2004), Consulting Services, Schlumberger, Kuwait
+Log Normalization Project, KOC.
+Project completed on time, and based on high quality deliverables, project was extended for next phase
+Managed team of geoscientists normalizing log data for field studies.
+
+Manager – Data Delivery Centre (June-2003 – Dec-2003), Oil field Services, Schlumberger
+Setup of ‘Data Delivery Center’ for Oil Field Services. The objective was to deliver zero defect data to all the clients. One of the first Centers in Schlumberger.
+
+DM Geoscientist (Sep-2001 – June-2003) Consulting Services, Schlumberger, Saudi Arabia
+Log Normalization Project, ARAMCO
+Defining/Developing project processes, including setting up team targets and monitoring performance
+Transferring knowledge and skills to other team members
+Project received Schlumberger Chairman’s award, Bronze
+
+DM Geoscientist (Sep-2000 – Aug-2001) Schlumberger GeoQuest, Doha, Qatar
+CWLDB-Log Data Management Project, Qatar Petroleum
+Perform QA/QC on processed data.
+Setting and population of corporate data store.
+
+GeoFrame, Finder, LogDB, GeoShare Applications
+
+Information Management Geoscientist (June-1999 – July-2000) Schlumberger, India
+EPINET-Corporate Exploration and Production Data Management Project, ONGC,
+First data management initiative by ONGC, the success of project was most important to both parties, achieved project completion before time and with exceeding customer satisfaction.
+Responsibilities: Log data archival, Co-ordinate testing and acceptance of customized Finder forms and reports for production data. (Over 100 forms and 200 reports)
+Project received Schlumberger Chairman’s award, Bronze
+
+Various Roles - Software Support (GeoFrame, Data Management software’s), Petrophysical Data Processing (Oct-1994 – May1999) Schlumberger GeoQuest, India
+
+Training
+ProSource Training in 2006 at Abu-Dhabi
+InterAct Training for week in 2006 a Kuala Lumpur, Malaysia.
+Sales School for 2 weeks in 2004 at Beijing, China.
+Project management course for one week in 2003 at Singapore.
+People & Performance course for one week in 2003 at Dubai.
+Initiative for quality course for one week in 2002 at Bombay.
+Oracle refresher course for one week in 2001 at Delhi.
+Oracle developer course for 3 weeks in 1999 at Bombay.
+OFM Training for one week in 1996 at Delhi.
+Several Schlumberger internal courses (Technical and Business).
+
+Recognitions
+Various appreciation letters from Clients.
+PDO-Shell Chairman’s Silver award 2009.
+Performed by Schlumberger, bronze medal in 2000 - 2001.
+Performed by Schlumberger, bronze medal in 2003 - 2004.
+
+Contact this candidate

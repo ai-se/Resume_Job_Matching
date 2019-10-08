@@ -1,0 +1,70 @@
+
+Dipanjan Paul
+Email: adag49@r.postjobfree.com
+Mobile: +91-700******* / 912-***-****
+Career Objective
+Looking to obtain the position of Software Developer in a fast-paced tech environment to utilize my skills in the field of Java programming and extensive experience in developing customized software based on varying client demands. Professional Summary
+Holds 3 years of experience in Application development, requirement gathering and delivery.
+Expertise in developing Object Oriented Applications using Java.
+Experience in J2EE technologies: JSP, MyBatis, Spring MVC, Spring Boot
+Experience in using Tomcat 7 as Web server.
+Academic Details
+B.Tech in Electronics & Communication Engineering from Netaji Subhash Engineering College, Kolkata 2016 with 7.85 DGPA.
+12th (Science) in 2011 with an aggregate of 86.2% from WBCHSE
+10th in 2009 with an aggregate of 90.125% from WBBSE Employment History
+Working as a System Engineer with Tata Consultancy Services Ltd, Kolkata, since October, 2016.
+Technical Skills
+Operating Systems: Windows (XP, 2007, 2008, 2010)
+Languages: Java 7, J2EE (Servlets, JSP, JDBC etc.) and Java related frameworks (Spring MVC, Spring Boot)
+Web Technologies: Angular 6, JSP, JQUERY, JSON, HTML, CSS, JAVASCRIPT, BOOTSTRAP
+Build Tool: Maven, Gradle
+Web Services: REST
+IDE: Eclipse, VS Code
+Database: MySQL, PostgreSQL
+Markup Languages: HTML and XML
+Scripting Language: JavaScript, TypeScript
+AGILE methodology
+Project Profile
+# TAP (TCS Based Product)
+Domain: e-procurement
+Technology: Java1.7, Mybatis, Spring, JSP
+Module: Contract Management & Supplier Performance Management. Database: PostgreSQL.
+Role: Developer
+Duration: December 2016 to April 2019
+Team size: 6
+Description:
+Contract Management is a module which serves as a central repository for contract creation. Contract Management allows individuals with assigned roles to author new contracts, submit for internal and external collaboration and/or route for signature. Right from taking an order from a customer to provide the required items for his requirement, It includes assigning new roles and responsibilities that are part of a contract life cycle, and the system of controls to enable proper creation, approval and execution of each contract entered into the system.
+Supplier performance is the survey system for different suppliers. In addition to this there are system of Auto scoring of suppliers based on different questionnaire and maintaining supplier ranking to enable other business to choose best supplier based on ranks. Responsibilities:
+Communicating with the client and the functional team for getting inputs for new requirements.
+Developed the application from scratch.
+Proactively communicate with functional team members regarding CR’s.
+Proactively help the client in Build and Release Management.
+Developed JSP pages and Java code for Contract Management application.
+Writing FSD and USD Documents.
+# TAP (TCS Platform Solution Product)
+Domain: e-procurement
+Technology: Java1.7, J2EE, Spring Boot, Angular 6, Web Services, Tools: Eclipse, VS Code
+Module: TAP
+Database: PostgreSQL.
+Role: Developer & Team Lead
+Duration: April 2018 to till date
+Team size: 50
+Description:
+TAP is a cloud based Procure-to-pay Platform Developed and owned by TCS Platform Solutions.
+It is built from the ground up based on the industry best practices
+Aligned with the core philosophy of TCS Platform Solutions, TAP is flexible and multi- tenant.
+Procure-to-pay is a function that has a huge propensity of being comprehensibly automated.
+TAP has been built from the ground up based on the industry best practices to achieve just that, with a small systems footprint, seamless interfacing capabilities, hooks to integrate process delivery in an intuitive and easy to learn package. Responsibilities:
+Developed the application with framework from the scratch in both java and angular part as full stack developer.
+Developed application using Java/J2EE platform. Implemented the Model View Control (MVC) structure.
+Involved in creating basic SQL for CRUD operations and advanced SQL for procedures.
+Created DAO classes to implement CRUD operations by using JDBC transactions with multiple DB Routing.
+Integrated Spring Security and JWT authentication to validate the users.
+Involved in the Unit Testing using Junit 5 and also with angular test cases.
+Hands on knowledge in Rest Web Services with Spring Boot.
+Experience in Developing User Interface (UI) Rich Web Applications, and Web Service Applications using Front End/User Interface (UI) Technologies like Object Oriented JavaScript, Type Script, Angular 6, Angular JS, Node JS, Bootstrap, Media Queries, CSS Frameworks, and Java.
+Extensive experience working under Agile methodologies environment (scrum). Personal Details
+Date of Birth: 29th July, 1994
+Contact Address: 5C, 4th Flr, Kristi Tower, Bablatala, Kolkata – 136
+
+Contact this candidate

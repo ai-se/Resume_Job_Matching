@@ -1,0 +1,8 @@
+
+Role: DevOps Engineer Location: Downtown Chicago, IL Duration: 3 month plus contract Interview: Phone and Skype Who can start in a week.
+Need this person to run point on grabbing connectivity, IAM policies, and setting up AWS accounts.
+(Must Haves) Hard Skills: Experience with AWS/Networking/Security Experience with Terraform Container orchestration Scripting Chef/Ruby
+
+
+Go to apply 
+

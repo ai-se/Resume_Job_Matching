@@ -1,0 +1,139 @@
+
+PH: 908-***-**** EMAIL: adahgw@r.postjobfree.com
+** ******* *****, ******, **
+
+YORK LI
+SKILLS:
+Financial Technologies: 3-tiered platform independent distributed architecture via JSON/XML, Spring/Spring Boot2.0/REST/SOAP Web Services JPA/Hibernate/JDBC, JMS/Tibco/Solace messaging, Oracle, JBPM 6, and microservices.
+Languages/Frameworks: Java1.8/Sping4.0/Hibernate3.0/REST/EJB1.2,Spring MVC, JSP, Servelet, JDBC, JSON/XML/JAXB2.0, JMS, Tibco/RV, PL/SQL, Junit/Mockito, Perl, C#, VC++/COM+, VB .Net, JavaScript, XSL, HTML 5, CSS, Ajax, Reactjs and Node.js
+Systems/Servers: Linux, Sun Solaris 2.6/2.8, IBM Websphere 7.0, Weblogic 10.36, JBoss, LDAP, Tomcat, Windows 2000 Advanced server/NT Server, IIS, Spring Core, Spring Data, Spring JPA/Hibernate,
+Databases: Oracle 11g, Sybase, Mysql, MS SQL server 7, MongoDB and MS Access
+Web Service: REST, SOAP/Axis(Appache Soap server)
+Workflow/Rule Engine Drools rule engine, Autonomy IDOL/Scrittura, Rulebook
+Enterprise Reporting: Crystal Report
+Development Tool/Methodology: Agile/Scrum, Maven/Git, Git Extension, Ant, Subversion, and CVS. JProfiler
+
+EXPERIENCE:
+
+7/2015 – current Barclays Bank NYC/NJ Senior Java Lead
+CCAR-Orchestration and Monitoring.
+As Java lead, architected and designed CCAR-ONM (Orchestration and Monitoring) core component, JBPM based workflow engine, CCARWFT (Workflow Tool)
+It takes advantage of JBPM 6 as workflow engine, to orchestrate the whole CCAR process, such as Scenario Manager tool(SMT), model execution process/Risk calc/Quan(MEF), ETL, market data curve(MOSS), risk weighed asset(RWA), equities, and so on for actual data as well as risk calculators for projection data.
+Designed/implemented 4 major productivity features which are greatly enhanced jbpm processes.
+oParallel executions of sub-processes,
+oRe-run functionality, which allows the process to be retriggered from which it was failed. This has been a great productivity feature for users running the CCAR projection runs.
+oForce fail feature, which allows user to fail the previously run process at any desired subprocess and rerun from there onward.
+oIcing/skipping tasks, which provides configuration to skip any activities. This has greatly increased the versatility of the system.
+The system is designed to be loosely coupled with all the orchestrated systems either via REST web service call with JSON payload or Solace based message in terms of XML structure. To overcome the three layer limitation of JBPM process modelling, a process tree concept was introduced to accommodate multiple-level processes so that the framework is extensive vertically as well as horizontally. JBPM/SPRING MVC/REST/XML
+Implemented the CCARWFT workflow execution framework which executes each JBPM process via configurations in Spring config file. Addition of a new jbpm process is realized by extending a base work item handler class and customizing it besides the configuration work. This greatly increased the productivity of programmers and enhanced the reliability of the system. Another important feature is that the execution of a jbpm process can be launched either by REST web service call or by a Solace message or combination of both.
+Implemented process tree structure which allows to execute multiple-layer processes and to re-start message triggered process with capability of skipped already run processes.
+Designed the common context JSON format for REST web service call and XML message schema. Implemented generic trigger message construction and message handler. Implemented many REST APIs for UI code to initiate, control and display end to end processes.
+
+5/2014 – 6/2015 Citi Risk Citi Group, Warren NJ Senior Software Consultant
+CCAR-PPNR-Ruby Integration. Designed and implemented SEC mandated CCAR submission core component - on demand PPNR-Ruby integration to fetch net interest revenue data from Citi risk engine, Ruby, to PPNR presentation tool which allows users to review and modify the value as needed. The challenge is to design the request/response to map Citi’s three hierarchies (managed segment, managed geography, and legal entity) of organization structure to SEC aligned line items such as revenue, expense, etc. The system is designed as layered structures (construction of request, http/rest, response processing/error handling, and cache updating) so that intermediate data can be stored in staging table for audit and debugging. Another benefit is that the components can be reused for different ways of fetch data. The robust error handling scheme has user always informed. The system has enable Citi to have successfully passed the CCAR test for 2014. It is implemented using Java1.7/Spring MVC/Hibernate/Rest web service/Jason/Oracle/TibcoRV/Websphere/Linux
+Lead design and Implementation of three more ways to fetch Ruby data. a). Spring/Quartz scheduler to fetch Ruby data according to predefined cron expression which can be easily configured in database; b) Blocking queue based Master Ruby Live sync to allow user to select the combination of scenarios and planning units; c) Custom schedule table to allow other program to fill in the schedule to trigger the sync process. Java1.7/Spring MVC/Quartz/ Hibernate/Multithread /Websphere/Oracle
+Rewritten fast reload of PPNR cache. In startup, the existing PPNR program needs approximately an hour to load all the data to cache. The investigation reveals that the sql statement transposes more than a quarter millions of data points before returning to java calling routine. The solution is to break it up to fetch line item id data and line item value data separately and combine them together in the java program, resulting in over 80% of reduction of loading time. It needs only 9 mins to start up now. Moreover, the fast reload component is being used by template loader process to load data into PPNR cache without restarting the server. Java1.7/Multithread/Oracle/Websphere
+Re-designed one level lock to two level locks mechanism to accommodate submission workflow required lock and user activities/process coordination lock. This has provided the guarantee of integrity of the data being modified and significantly reduced the error due to the contention of various processes. Core/Java1.7/Concurrent/PL/SQL
+Wrote Jade upload program to parse and load excel file to PPNR using Apache POI lib. Java/Apache POI lib;
+
+2/2012 – 3/2014 Interactive Data, NYC Senior Software Engineer
+Athena Email Data Extraction. Hired when this project was 7 months delay due to deficient design and non functioning partial implementation. Taken lead role in abstracting some of the customized business rules to a plugin component which interacts with the UI logic as opposed to implement every business rule in a separate workflow node. This greatly reduced the complexity of the project, made the debugging of the system much easier, and leaped forward the project much closer to the finish line. Worked closely with a coworker and business analyst, configured, customized, and setup Autonomy’s IDOL (intelligent data operating layer) and Scrittura (workflow), delivered the functioning project to production in 6 months successfully. This value added service has freed 10 resources which has been diligently manually copying and pasting the fixed income data from emails. The data delivery time was reduced to 10 mins from 2 hours. Distributed architecture/Weblogic 10.3.6/Spring Core/Oracle
+Designed generic xml output data schema and implemented the file generation/distribution component using JAXB technology and in house DCsend technology
+Customized Lua script in the CFS component to identify each individual mailbox
+Developed bulk ignore functionality to allow user to ignore those emails not interested as whole. Jsp.
+Customized Template Build/Deploy Script. Autonomy’s IDOL utilized regex based template to define how to extract the structured or semi-structured data in the email. This dictates that each structure needs a template, resulting in thousands of them. These have to be manually entered into the config file of IndexTask components. It is error prone. A customized template build perl script was developed to automate this process. The script builds for each asset class respectively. Deployment of newly developed template becomes a weekly routine.
+Integration Test Framework. The issue encountered when working with template/rule based system is that when template/rule being changed/updated, it affects every data it applied to in the scope. This can not be substituted by unit test. Furthermore, the rule conflicts may produce unpredictable result. To quantify the effects, large volume of data (about 45 thousands of files with size of around 10k) needs to be tested before and after the changes. Due to the in efficiency of the existing fully differing routine, efficient file comparison algorithms were developed for key-value pair based files and xml files respectively. Normally, the output files from the production code base will be used as baseline files to which the files from updated code base will compare. This has saved QA resources ( 6 resources for 3 days each needed for each iteration). This has warranted us every deployment successful in the last two years. Implemented in Java 1.7/Spring Core/Spring Annotation
+Email Move and Caching Component. One of the important features in the email workflow is that the email URL needed to be cached so that the UI component can access it thread safe regardless of it being moved from Inbox to other folders. The cache not only will be accessed by different threads for the same section of the code but also different part of the code in the workflow. This was implemented using open source lib ehcache taking advantage of its acquire/releaseWriteLockOnkey(key) method to maximize performance and guaranteed thread safe. Java1.6/weblogic/Spring Core/Spring Annotation/JProfiler
+Athena Monitoring Framework. Athena is a distributed system with many components. The present design consists of the following components. a). A heart beat (test email) based probe; b). An event-driven monitor and listener structure to collect data and handle the data accordingly such as sending out email alerts. The monitor will be a class implementing runnable interface with listener as one of the parameter in the constructor. Each monitor will run in its own thread launched by exectorService. Monitors can be dependency injected from a config file. c). The monitors will be controlled by the JMX Mbean based resource which exposes start monitor, stop monitor, query of monitor to JMX agent. The out of box JConsole was used to query/control the monitors. 4 Apache Common IO log file tailers have been implemented for ExchangeConntor, CFS, DIH, and IndexTask logs successfully. Java1.6/JMX
+Prototyping of using Drools framework. Wrote a proof of concept application to demonstration of the feasibility of using open source Drools rule-based framework for replacing the Scrittura workflow engine.
+
+2/2010 – 12/2011 Bloomberg, NJ Senior Software Consultant
+Data Extraction Framework. OO designed the framework as extensible to accommodate three kinds of extraction engines, Boolean engine for pdf document, Html engine for html document, and third party engine adapter. Designed and implemented core part of Html data extraction engine. It was designed as layered structure of extraction, rule-based identification and mapping, and output transformation. Each layer can be extended laterally to accommodate the customization of specific processing logic. Also the sub-layers can exist within each layer. The main advantage is to allow the framework to be extended as business dictates. Another feature owes to the use of db table based rule engine which allows users to create/test rules. The framework cuts down the data to client time to 2 mins from 4 hours as required by the manually data picking in the outsourced business mode. Java6/J2EE/Apache/Jboss/Oracle 11/JProfiler.
+Designed and modeled the HTML table as ExtrTable, ExtrRow, and ExtrCell structure with each bigger one enclosing a list of smaller structures with properties as attributes(fields). This makes the program easy to work with and data encapsulated.
+Ternary search algorithm for strings was employed to maximize the performance of mapping list of string stems to a label. This is paramount for data mapping since every row of data involves this operation.
+Proposed and implemented table type identification algorithm by taking advantage of the title offset relative to the beginning tag of the table and rules expressed in regular expression. This reduced the process time by 80%.
+Autoprocess Test framework. Researched and identified the offset of the Html <table> tag within a document as unique identifier to the extracted tables. Established differential methodology of comparing the results of current run to a baseline so that any change caused by generic rule modification or program logic can be identified right way. It can be run routinely to guarantee the correctness of the result. Wrote multithread http clients with multiple file attachments to load test the Extraction Framework. Developed reports of incremental difference and performance via jsp pages.
+
+Large Volume Data Processing.
+Devised a methodology of loading/parsing ultra large vendor provided zipped real estate data file with size of more than 13G. First, write sqlloader scripts to load the file of size > 13 G to a staging table with 623 columns. Secondly, based on configured tables of desired fields and desired companies, a generated sql was used to output the query to a csv file for acquisition to pick up.
+Implemented a table based rule engine to normalize address and map the vendor field names to Bloomberg internal name. The rule syntax follows the pattern of LHS, operator, RHS, and action. The defined operators are such as “contains”, “endwith”, “beginwith” and so on. This simple engine greatly enhanced the processing probability of filtering out the unnecessary info while allowing maximum performance (Full fledge rule engine tends to have performance hit). The mapping function allows the users to configure corresponding fields manually without code change. It makes it generic and extensible. JAVA6/Oracle 11
+Wrote multi-thread worker to process the records into existing Bloomberg db data structure. Optimized stored procedures to minimize the table lock by separating the updating function to a different worker.
+
+5/2008 – 2/2010 Verizon wireless, NJ Senior Software Consultant
+E-commerce project: Music On Demand (MOD). Using OO principle, developed MODs collection data model. Proposed abstract collection type as base type to be extended to accommodate simple type of music including single item track, ringtone, and ringback tone as well as complex type containing multiple items such as album, category, jukebox, and playlist. This lays the solid foundation for the success of the project. Oracle11g/Toad9.1
+SMS Alert message framework. Designed and developed SMS based short messages framework to deliver marketing/transaction message to either Inbox or targeted applications for mobile devices and smartphones and as well as email notifications. It consists of Control Objet, Message Format Object, Transport, and Destination Endpoints. The end points are configurable as needed in db. The framework is easily extensible to accommodate new type of message format via simply constructing a new message type and configure the end points. Another feature is its configurable retrying logic. It allows the messages to be resent at predefined intervals if the previous trial failed due to network/system issues. The maximum number of retry is also configurable. Finally, it is multithreaded on a single instance and fully distributable among instances on different servers. This is a revenue generating tool for the project. JAVA5/Quartz/PLSQL/Websphere7.0/RAD7
+Designed and implemented 3 major servlet based MOD APIs: SendGifts, FindOthersInterest, and GetAlertContent. It involved converting XML input messages to/from JAXB objects, calling stored procedures in Oracle, and constructing/grouping data from db to desired XML responses. To enhance performance, dynamic sql in Oracle’s PL/SQL was extensively used to cache intermediate results to minimize network round trips. Exceptions are appropriately handled inside the stored procedure and corresponding error code and description are being passed back to the calling function. JAVA5/SessionBean/JAXB1.0/JDBC/PL/SQL11g/Websphere7.0/RAD7/JProfiler
+Managed MOD in/out data feed development. Worked with business analyst to take requirement and designed and implemented with other developer the in/out data feeds via calling stateless session bean running on Websphere 7.0 to fetch leader board and discount code data from external vendor and send client credit to it. The incoming data was first cleaned up. Bad data will be filtered into an error table for further investigation. For leader board processing, the java/sql components was written such that new items was inserted into the catalog, existing ones to be updated, and stales to be deleted. The best point is that the script is self-maintaining the data integrity. Wrote Korn shell script to run this app as standalone java app. Java5/EJB/JDBC/PL/SQL/Shell Script./RAD7
+Managed MOD compression layer enhancement and integrating test. Worked with business analyst to translate requirement to concrete design. Designed end-to-end integration testing strategy for QA group to execute. Coordinated with other developers, QA, middleware, network, and dba to resolve the issues arising from the test. Proposed to use static variable in log4j to bypass evaluating expensive string arguments. As a result, the compression layer response time is reduced from 3- 8 seconds to 40-80 milliseconds. Added a configurable connection pooling to limit the maximum number of concurrent connections to LDAP authentication server using singleton pattern.
+
+10/2006 – 2/2008 Morgan Stanley, NY Prime Brokerage, Senior Software Engineer
+Developed new custom cusip hedging functionality. This is a major enhancement to the existing hedging capability in Margin Schedule Calculator (MSC) in a Realtime Margin Trading System (RTM) of Prime Brokerage business. It is a business-enabling technology. This provides users with four new functionalities: a). Allow user to specify two cusips to hedge each other. b) When assigned priority, the order of hedging is guaranteed. c). Allow user to disable a particular hedging strategy at account level. d). As an added benefit, it allows the user to construct a portfolio and test through RTM. It is implemented in Java 1.5 running on Linux using Eclipse IDE/Ant/XML
+Developed a new hedging engine based on EPIX ID (same issuer, but different cusips). This technology doubles the capacity of the hedging strategies offered by Morgan Stanley to hedge fund clients. It opened new means for clients to managing their risk and for Morgan Stanley to better compute margin requirements.
+Convert old hedging strategies to new way of hedging. The strategies involved are spread, covered call, straddle, three way synthetic hedging, CDS/CDS, married put, hedging between ASCOT, CB and EQTY.
+Renovation and globally synchronizing of MSC, Calc Manager, Risk-based margin calculators. This involves merging and unifying various versions of code base to a single one and test them to make sure that no functionality is left out.
+
+04/2005 – 10/2006 Merrill Lynch, NY Senior FX Consultant
+Development of Middleware programs for Merrill RAMFX Feeds
+Development of TeodBybook Application using J2EE/AJAX/JSP/Servlet/Tomcat/Oracle architecture. A new db snapshot scheme has avoided entire db dump, reducing the system downtime from 10 min to less than 1 min. It allows multi-user to simultaneously validate, exercise/expire, cash balance trades by selected book(s), replacing the old single user app. AJAX enables desktop like UI experience and provide fast response comparing to normal entire page refresh.
+Developed a new multi-thread Risk Feed program using JDK 1.5 to replace legacy code, resulting in significant reduction of memory consumption from 140 m to 20 m and computation time from 90 s to 40 s. This enables the business to run all the books on one shoot as is not possible using the old program.
+Designed, developed, and deployed 2 middleware feed programs: BrokerBill Feed, and DTR Feed using J2SE 1.5, XML (SAX parser), and Oracle SQL Plus on Solaris/Linux platform.
+Develop a set of Perl/shell scripts to allow easily convert Autosys JILs from any of one env to another (DEV-UAT-QA-PRD) simply changing the configuration file. This is a productivity tool.
+Linux migration
+Participate in creating strategy to migrate RAMFX software to Linux platform from Solaris
+It involves re-configuring and testing over 30 home grown java programs, 210 Autosys jobs, and 17 ftp shell scripts. Liaise with 12 downstream feed users, database admin, Unix system admin, and network engineers
+
+07/2003 – 01/2005 HSBC Securities Inc., NY FX Program Analyst/Developer
+Setup up Etreasury 5.1 NFOS integration system on HP-UX including CreditCheck, CreditUpdate, CommonRate, TradeControl Engine, DealPublisher, DealProc, GlobalRouting, DealEnquiry, MMR Engine(money market), and DealEngine based on Tibco RV messaging infrastructure
+Config DealEnine using LDAP server and MQ messaging infrastructure to publish deals to NFOS and BOS system
+Setup web/J2EE-based Etreasury GUI engine on Websphere 5.1 on NT server, which provides the admin functionality for Etreasury system such as currency pairs, counter parties mapping, market date subscription, routing schedule, exception queues, static system data, and so on.
+Development of FX Dealinfo Viewer
+Designed web-based FX intra-day deal info viewer pulling data from three data bases
+Implemented FX deal info viewer using J2EE technology on Websphere Studio 5.0
+Configured and deployed the application to IBM Websphere application server 5.0
+Designed database component to be configurable to point to different database
+Enhancement of FX Profit & Loss Application
+Re-engineered Crossrate calculator module using Reuters market data API (jsfc) with Tibco market data server
+Develop new Admin/Audit modules using role-based methodology
+Wrote ANT build script to build J2EE application. Setup DS/JDBC to Sybase server on WebSphere 5.0 on solaris
+Packaging and deployment of Tibco/RV-based Etreasury 4.0a system
+Setup and configure Reuters Automated Dealing System consisting of: iPlanet/Jrun webserver, EPP/EPPDD proxy server, AppServer, and QuoteServer.
+Wrote RVRD startup scripts for Global Route Engine and Back-to-Back deals. Setup RVRDS across firewalls.
+
+03/2000 – 07/2003 Reuters, NYC, NY Technical Specialist
+Reuters Reference Data Management System based on web service
+Designed four multi-threaded data service components: Load, Normalization, Aggregation, and Distribution
+Implemented these web service components using .Net Framework and C#, ASP .Net, SQL, ADO. Net
+Designed Reuters Reference Data Model using XML and SQL database
+Web-based Reuters Market Data System (RMDS)
+Developed web-based real-time market data system using Java-based JSFC.
+Written applets to call JSFC APIs to retrieve realtime quote data
+Wrapped JSFC inside JSP/Javabean to get single quote
+Embedded this subsystem into Tibco Portal Builder for Merill Lynch NextGen project bid.
+Set up custom publish and subscription system using C++ based-SSL/SFC APIs
+Set up a custom service for realtime datafeed in RMDS system involving source/sink distributors, RTIC cache server, and RV distribution network.
+Written client application to publish/subscription custom data onto custom service or Reuters’ RDF datafeed.
+Prototyping of a web front end solution for Merrill Lynch's Portfolio Management System
+Protyped an easy-of-use and zero-installation web front end solution to demonstrate the services provided by the Reuters RPMS product to enhance Merrill Lynch's business work flow and expand the risk management capabilities for its Portfolio Management System.
+Shown that the Reuters service will provide a unified and value-added tool across all segments of the asset management within Merrill Lynch, ranging from Personal Investment Advisor, Institutional Investment Manager, to their high end Private Clients Club.
+Easy-of-use and zero installation features will totally eliminate the maintenance need for their 4800 users as required by their present system. These two features lead to a greatly reduced cost of ownership to which Merrill is actively seeking.
+Flowbiz project for JP Morgan Chase. Integration Testing and quality control of Flowbiz system for JP Morgan to ensure that the high quality code of Flowbiz-version 1.2 was delivered to JP Morgan on July 20, 2001 on time.
+Implemented a test program measuring the login time and round trip time for CreateOrder workflow.
+Developed a test harness for testing order reconciliation for UM server
+Run functional integration test on Unix machines to characterize the server functionality.
+Java 1.3, XML, Ant, Junit, JDBC, Tib/RV6.x, Tib/RVCM, Tib/Fault tolerance, Tib/Active Database, Syabase11 on a Solaris 2.6/8.
+Phase-delivered and client site acceptance testing
+Co-designed the upgrading and migration of Web-based CHAT system for DealWebTM to TIBMercury FX system. The new design has taken advantage of RV/RVCM based message routing mechanism on which the TIBMercury FX is based.
+Co-Wrote the High Level Design Document and Detailed Design Document. Identified the integration points and interface specification.
+Implemented ChatLog server component in terms of RVCM using Java 2 platform. It logs all transcripts to Sybase database server through JDBC.
+
+EDUCATION:
+UNIVERSITY OF ALBERTA, EDMONTON, CANADA 1995
+Ph.D. Department of Electrical Engineering
+
+UNIVERSITY OF ALBERTA, EDMONTON, CANADA 1990
+M.S. Laser Physics, Department of Physics
+
+TSINGHUA UNIVERSITY, BEIJING, CHINA
+B.S. B.S. Physics, Department of Physics
+
+Contact this candidate

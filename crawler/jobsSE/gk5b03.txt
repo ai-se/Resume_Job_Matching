@@ -1,0 +1,24 @@
+
+MRI Software is seeking an AI Research Engineer focused on Artificial Intelligence/Machine Learning. Following our recent acquisition of AI startup, Leverton, we are expanding our offering to leverage AI and ML technologies to help real estate companies worldwide make smarter decisions using better data. The success of this strategic initiative will be heavily influenced by the AI Research Engineer. We are looking for a talented and experienced individual who can help shape the future of our offerings and lead a new team.
+In July of 2019, MRI acquired Leverton, a startup founded in 2012 by a group of scientists looking to push the boundaries of artificial intelligence for semantic analysis. Today, Leverton applies deep learning technology to automatically extract and manage data from corporate documents in more than 25 languages. This role would work on furthering developing Leverton's data extraction and contract analytics platform and help to apply AI and machine learning to other offerings within MRI's expansive solutions portfolio.
+Key Responsibilities:
+Develop state-of-the-art solutions in the field of Machine Learning, Natural Language Processing, and OCR
+Work with GloVE and BERT training modules using neural networks, deep learning, grammatical syntax structure, and patter recognition
+Improve and enhance our current proprietary Information Extraction pipeline
+Be part of our agile team and quickly generate big impact on our products
+Stay abreast of new methods to keep our AI/ML technology up-to-date
+Be innovative and generate new ideas for our product
+Develop patents with name recognition/authorship
+Work on convolutional, recurrent, and GAN networks
+Skills & Requirements:
+Bachelor’s degree in Computer Science, Mathematics, Physics or a related field
+Masters/PhD strongly preferred
+Practical experience in developing machine learning based solutions
+Strong background in machine learning technology, especially in the field of Deep Learning / Deep Neural Networks and Natural Language Processing or Optical Character Recognition
+Experience with coding in Java and Python or similar programming languages
+Strong analytical and problem-solving skills
+MRI Software delivers innovative applications and hosted solutions that free real estate companies to elevate their business. Our flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Sydney, South Africa, New Zealand, and Canada with over 1400 team members to support our clients and their unique needs!
+
+
+Go to apply 
+

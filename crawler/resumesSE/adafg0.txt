@@ -1,0 +1,124 @@
+
+Vathsalya Chinnakavajra Nagraj
+Ph : +1-980-***-****
+Email : adafg0@r.postjobfree.com
+
+Summary
+●Over 4 years of experience as a Test Engineer in testing of Client/Server architecture, Web based applications using manual and automation testing.
+●Involved in all phases of Software Development Life Cycle (Requirements, Design, Development, Testing, Implementation and Maintenance) and have an excellent understanding of SDLC.
+●Good experience in AGILE process and participated in agile process model Iteration/sprint planning meetings.
+●Good analyzing and understanding of Functional Requirement Specification (FRS), Detailed Design Specification (DDS) and Use Cases.
+●Proficient in the design, development and execution of Test Plan, Test cases/scripts in all stages of the Testing Lifecycle.
+●Good Experience in Black Box testing skills includes Sanity, Smoke, Functional, Regression, Integration, Compatibility, Ad-Hoc, Input Domain, Installation, Parallel and Usability as well as development, execution and maintenance of test plans, test cases and test scenarios.
+●Good experience in Manual Testing and automated functional testing tool QTP 10.0.
+●Exposure to functional testing tools QTP and Performance Testing Tool Load runner.
+●Extensively used Quality Center / Test Director for Test Planning, Test Designing, Test Analysis, Test Execution, Defect Tracking and Test Evaluation.
+●Proficient experience in development & execution of Test cases.
+●Created automation framework and test scripts using Selenium Web-Driver for multiple platforms and browsers testing.
+●Design, develop and implement Page Object Model Pattern based, Keyword Driven automation
+testing framework utilizing Eclipse, Maven, Java, Test-NG and Selenium Web-Driver.
+●In depth understanding of Object-Oriented Programming and skilled in developing automated test scripts in Java
+●Configured Selenium Web Driver, Test-NG, Maven tool and created selenium automation scripts in java using Test-NG prior to next quarter release.
+●Developed automation test cases, executed these test scripts from test lab and logged defects in JIRA/ALM.
+●Performed functional testing to identify various critical points in the application and automated it by using Selenium Web-Driver with Test-NG.
+●Used Firebug, fire path, Developer Toolkit to capture and validate CSS Locators, html ids to identify elements and XPaths.
+●Tested compatibility of application for dynamic and static content under various cross browsers
+using HTML IDs and XPath in Selenium.
+●Experience in implementation of QA standards and continual improvement activities.
+●Experience in preparing user manuals and release notes.
+●Extensive hands-on experience in testing large, complex software applications designed to automate common business processes, including automated and manual testing.
+●Experienced in using Test Director / Quality Centre and MS Office for creating test cases and very good at bug-reporting and bug-tracking using Test Director.
+●Extensive experience in writing SQL Queries and good knowledge in UNIX.
+●Worked in Teams and can be part of value addition for the organization.
+●Interaction with product analysts regarding testing status and maintain detail QA documentation.
+●Results-driven Quality Assurance (QA) Test Engineer with proven record of achievement.
+●Solid analytical and dynamic troubleshooting skills, excellent communication skills and can work individually as well as a team member.
+●Good knowledge on ISO and CMMI processes.
+●Good interpersonal skills, hardworking and zeal to learn new technologies.
+●Quick learner, excellent team player, ability to meet tight deadlines under pressure.
+●Committed to excellence, self-motivator, team player and prudent tester with strong problem solving capabilities.
+●Effective communication with client, cross-functional teams to achieve project priorities/timelines.
+
+Education
+Siddaganga institute of Technology (Tumkur, Karnataka, India)
+Bachelor of Engineering in Information science and Engineering
+
+Technical Skills
+Automated Testing Tools : QTP 9.X/10.0, Selenium WebDriver
+Test Management Tool : Quality Center 9.X/10.0.
+Test ware preparation review : Use Cases, Test Conditions, Test Scenarios, Test Cases,
+Test Scripts and Traceability Matrix.
+Test design techniques : Boundary Value Analysis, Equivalence Partitioning & Error
+Guessing
+Operating Systems : Windows 95/98/ 2000/NT/XP/Vista
+Languages : C, VB Scripting
+Databases : SQL server2000, and MS-Access.
+Web Technologies : HTML, DHTML, XML.
+
+Significant Project Details
+Client Name: Sun Life Financial, Windsor, CT
+Location: Bangalore, India
+Duration: May 2015 to Feb 2018
+Project Name: Enhancement of Mortgage Loan Process
+Role: QA Automation Engineer
+
+Description:
+This project was to upgrade the automation of Mortgage loan Process beginning with customer initiation to the title transfer. It involved developing a risk analysis and modeling system for the collateral pools that has been purchased and securitized. It was intended to help the business users to structure the securities based on mortgage pool characteristics. Credit Risk and Prepayment Risk could be assessed, and the system could also determine loss provisions based on the expected range of loss estimated by foreclosure frequencies and loss severity of the mortgages. Implement the trade surveillance requirements. This project followed Agile Scrum methodology.
+
+Responsibilities:
+●Responsible for obtaining business requirements, functional specification and all other related documentation from business analysts and developers.
+●Built comprehensive test suites and wrote manual test scripts by drilling down all the requirements listed in the Business requirement document, design document, and Technical specifications to cover every feature of the application.
+●Worked closely with Business Analysts and Developers to fill the gaps in the requirements.
+●Responsible for writing of Master Test Plan which talks about Objective, Scope, Entry and Exit criteria, features and functions to be tested based on req.
+●Developed Hybrid Test Automation Framework build using Selenium WebDriver, TestNG and Maven technologies under Java platform utilizing industry leading harness design patterns and approaches.
+●Written Test Scripts and Test scenario for Testing Business Applications using selenium web Driver.
+●Written Effective X-paths for object properties and used them to parse the value using Selenium web Driver.
+●Deployed new builds for testing purposes in the Integration environment using Jenkins
+●Parameterized the test scripts to generate and test different reasons for inquiry using Selenium Web Driver and Java.
+●Used automated scripts and performed functionality testing during the various phases of the application development using Selenium.
+●Performed Data-Driven testing by developing Java based library to read test data from Excel & Properties files.
+●Prepared User Defined Functions to replace the repeated functionality, which increases the tests readability and easy maintenance.
+●Designing, executing and updating Verification / Validation test procedures.
+●Identify Risks against testing delivery.
+●Identify Test Entry, Exit Criteria.
+●Escalate the issues about project requirements to Test Manager.
+●Coordinated with users while performing User Acceptance Test.
+●Actively participated in the weekly status calls and interaction with Onsite Team and Client.
+●Involved in the implementation of Automation Framework.
+●Performed Positive and Negative testing to check the behavior of the application.
+●Performed data flow validation between the front-end to the back-end.
+●Performed Integration, System and User Acceptance Testing (UAT).
+●Involved in Defect Review meetings and test execution progress review meetings
+●Performed gap analysis and prepared requirement traceability matrix document.
+●Performed Database testing by running SQL Queries in TOAD.
+●Provide test summary report on test progress/ test cases preparation/ execution/ quality of deliverables at the end of System Acceptance Testing phase.
+●Maintained test cases and test scripts to incorporate Bug Fixes and new enhancements in each release
+●Participated in weekly status meeting, coordinated with the developers and testers to resolve the defects and close them.
+
+Environment: Selenium WebDriver, Oracle, JAVA, J2EE, JavaScript, MS-Office-2007, Windows XP/7
+
+Client Name: First Republic Bank, San Francisco, CA
+Location: Bangalore, India
+Duration: Dec 2013 to March 2015.
+Project Name: PIM (Product for Information Management for First Republic Bank)
+Role: QA Engineer
+
+Description:
+First Republic Bank provides corporate, investment, retail banking, wealth management and consumer lending services. Project involved Web based application which is used by front office users for tracking different service requests made by clients such as address change, consumer credit, rate exception, funds transfer etc. It is used to submit private banking credit applications, used by private bankers for submitting different product type requests like secured loan, unsecured loan etc. in a credit application.
+
+Responsibilities:
+●Analyzed System Requirements and developed Test Plan, Test Procedures and Test Cases.
+●Created the strategy document that defines the test environment, phases of testing, entrance and exit criteria into different phases of testing and resources required to conduct the effort.
+●Involved in development of test plans, test schedules, test cases based on high-level and detailed designs.
+●Executed test cases and participated actively in system testing and regression testing.
+●Conducted Functionality and Regression Testing of the application using QTP.
+●Created Test Plans, Test Cases / Scripts for some of the modules of the application.
+●Involved in development of test plans based on high-level and detailed designs
+●Enhanced the test with programming by adding methods, conditional statements, and comments to the test and by sending messages to the test results.
+●Involved in tracking, reporting and analyzing system defects/bugs using Quality Center and interacting with business users and developers to resolve the technical issues.
+●Executed tests and participated actively in system testing and regression testing.
+●Created and executed SQL statements to extract data from tables and verify output data of the reports on the browser page.
+
+Environment: Selenium WebDriver, Oracle, JAVA, J2EE, JavaScript, MS-Office-2007, Windows XP/7
+
+Contact this candidate

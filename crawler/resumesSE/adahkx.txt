@@ -1,0 +1,169 @@
+
+Kavitha Arulselvan Phone : 908-***-****
+Green Card (Expires 10/11/2021) Email : adahkx@r.postjobfree.com
+PROFESSIONAL SUMMARY:
+More than 5 Years of experience in Software Testing, Writing and executing Test plans and Test cases in highly structured environments and performing all types of testing.
+About 3 Months of experience in Selenium web driver using Java.
+Developed Test Plans, Test Cases and Test Scripts, Test Logs and customized scripts according to client’s requirements.
+Involved in Manual Testing in the client server and web-based applications on Windows environment.
+Involved in Mobile testing using iPhone, iPad, Samsung Phone and Samsung tablet with Chromecast for Global App team and Testlio.
+Experience in Quality Assurance & Testing phases including Integration Testing (Full Regression), System Testing (End-to-End) and Deployment Readiness Test
+Strong in planning/executing Integration test, Functional/System test, Regression test, white box and Black-box.
+Knowledge in Analysis of Defect severity, Defect tracking System and Defect reporting.
+Experience in SQL Server writing SQL queries.
+Ability to work under strict deadlines, good at problem solving, adaptable, responsible hardworking team player and can work independently as well as team member.
+
+TECHNICAL SKILLS:
+Operating Systems
+Windows XP/Vista / 7/10 and Mac
+Programming Languages
+Java, Python, Selenium webdriver
+Testing Methodologies
+Functional, Usability, Cross Browser and Mobile
+RDBMS
+MS SQL Server and Oracle
+Defect Trackers
+JIRA, HP QC and Mantis
+Others
+MS Office (Word, Excel, PowerPoint)
+
+CAREER PROFILE:
+Dates
+Organization
+Role
+Jan 2018 – Till Date
+dScape
+QA Analyst
+Nov 2016 – Dec 2017
+MediaRebel
+QA Analyst
+Jan 2012 – Oct 2016
+UpWork, GAT, Testlio and MyCrowd
+Independent Contractor
+Feb 2003 – Aug 2005
+Sai Softek Services Pvt. Ltd., Pune, India
+QA Tester
+July 2000 – June 2001
+Hindustan Aeronautics Limited, Hyderabad, India
+Apprentice Trainee
+
+Education:
+Degree
+University
+Major
+Bachelor of Engineering
+Bharathidasan University, Tiruchirappalli
+Electronics and Communication
+
+WORK EXPERIENCE:
+DScape Custom eMedia Solutions Jan 2018 – Till Date
+QA Engineer
+DScape consult, strategize, design, create, host and support powerful e-media tools for every business communication need.
+Dscape has more products which is implemented for different clients like “The Children Place”, “Comcast”, “Siemens”. Successful users of the SaaS CloserConnect platform and LMS include Fortune 500 companies, mid-sized companies, small companies, schools and non-profits.
+
+Responsibilities:
+Created Test plans based on the business requirements.
+Involved in Cross browser, functionality, usability and role-based access testing.
+Issues are created and maintained through JIRA.
+Created JSON data for the given document.
+Currently I am involved to implement the automation testing using Selenium and Java.
+
+MediaRebel July 2017 – Dec 2017
+QA Engineer
+BWP Project - BWP is a not-for-profit organization owned by the citizens of Burbank. Our mission is to provide reliable, affordable and sustainable water and electric services.
+https://dev6.burbankwaterandpower.com/
+Responsibilities:
+Involved in Cross browser, functionality and usability testing.
+Involved in retesting and regression testing after fix the issues by the developer.
+Issues and documents are tracked through google documents (Word and Excel)
+
+MediaRebel Nov 2016 – June 2017
+QA Engineer
+Court Ordering Process - MediaRebel is the most technologically advanced video deposition platform available today. You will greatly increase your ability to effectively manage witness testimony, and instantly glean insightful psychological and emotional behavior – allowing you to profile each witness.
+https://legaldev.mediarebel.com/users/login/
+Responsibilities:
+Created Test plans based on the business requirements.
+Involved in functionality based on the requirements, usability and cross browser testing.
+Performed retesting and Regression testing to test the impact of bug fix.
+Issues are created and maintained through Mantis.
+Involved access privileges testing based on the role.
+
+UpWork, Testlio, Global App Team and MyCrowd, USA Jan 2012 – Oct 2016
+QA Engineer
+
+UpWork, Testlio and Global app is a global marketplace that helps businesses hire, manage and pay remote freelancers or teams.
+
+Completed multiple projects for Cross browser testing, functionality, usability and mobile testing.
+Projects
+Team
+MessageLOUD mobile app
+Upwork
+Marketing Content Websites
+Pitney Bowes Inc
+Multiple mobile app testing
+Global App Team and MyCrowd
+Mobile testing using CBS Chromecast
+Testlio
+
+Responsibilities:
+Created Test plans based on the business requirements.
+Involved in testing Web based application and Cross browser testing.
+Performed Regression testing to test the impact of bug fix.
+Involved in manually testing of various modules of the application to ensure application stability and functionality.
+Conducted functionality, interface and integration testing during the various phases of the project.
+Mobile testing using actual iPhone, iPad, Samsung Phone and Samsung Pad based on the client requests. Also test using Chromecast.
+Execute test cases with multiple scenarios and create issues if there are any in the client systems.
+Communicate with the team about the issues and track the issues until it close.
+Reproduce the issues which is created by other testers.
+
+Sai Softek Services Pvt. Ltd., Pune, India July 2004 – Aug 2005
+QA Tester
+
+Project Description:
+STARS (SAI Technical Assistance Request System) are a powerful web-based bug tracking system.
+Responsibilities:
+Developed test cases based on functional specifications and requirement specifications.
+Created/updated and maintained test cases.
+Written informative descriptions on the issues.
+Used to complete the tasks to meet project deadlines.
+Reported successfully on completion of the testing phase of the project.
+Executed test cases, worked closely with engineers and product managers while writing bug descriptions.
+Interacted with various developers.
+Performed Regression testing and System testing.
+
+Environment: Manual Testing, Java, JSP and SQL Server 7.0
+
+Sai Softek Services Pvt. Ltd., Pune, India Feb 2003 – Jun 2004
+QA Tester
+
+Description: The current business of Tero is a part of Supply Chain Management that also deals with Customer Relationship Management, which handles distributors and various products at various destinations around the globe. The system will have provisions for Distributor-products supply chain; these will help attain long-term goals envisaged by the company.
+
+Responsibilities:
+Developed detailed Use Case to describe the functionality of the system.
+Created and executed the test cases for various scenarios, and participated actively in system, integration, performance and regression testing for every new build released.
+Analyze all Report Bugs for continuous process improvement.
+Performed the web testing of the application for browser dependency.
+
+Environment: VB, COM and SQL Server
+
+Hyderabad, India July 2000 – Dec 2000
+Apprentice Trainee
+
+Project Description:
+The health of Control Unit is tested by Test Software. IFF Transponder is controlled by Micro controller-based CU. Test Software includes the following tests,
+oBasic Instruction Set checking
+oAddress line checking
+oData line checking
+oMemory and Display test
+
+Hyderabad, India Jan 2001 – Jun 2001
+Apprentice Trainee
+
+Project Description:
+The function of Control Unit is tested by Test JIG. This JIG simulates the necessary interface that exists in Aircraft/Ship to check the functionality of CU. The following tests are carried out,
+oPOST (display 000000 t0 FFFFFF with delay of 0.5sec)
+oVarious Modes (M1, M2, M3, MC, MS) ON/OFF checking
+oData transfer checking and IP operation
+oData transfer under LOW, NOR & EMER conditions
+
+Contact this candidate

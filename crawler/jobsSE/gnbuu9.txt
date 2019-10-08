@@ -1,0 +1,49 @@
+
+Cherwell Software (@Cherwell) is a global leader in enterprise service management, empowering organizations through the use of intuitive technology for better, faster, and more affordable innovation.
+Our solutions and our people build lasting relationships.
+We are a growing company with offices in the US, Europe, and Australia.
+We are looking for a Quality AssuranceEngineerto join our team in Scotland.
+We're based in Dundee but offer flexible working, so if you don't live locally we use technology to support remote working.
+Who Will Love This Job * A team player : You collaborate with other team members to solve problems and work together to achieve deadlines and departmental goals.
+* A problem-solver : You use your technical background and experience to solve difficult problems.
+You constantly look for areas of improvement and seek out solutions.
+* A learner: You learn quickly and maintain a diverse workload in a fast-paced environment.
+* Someone who is process-driven :You follow established processes and also looks for areas where operations could be more efficient or otherwise improved.
+* Someone who is action-oriented: You enjoy working hard!
+You are full of energy for the things you find challenging.
+You are not afraid of acting quickly and you are willing to jump on problems quickly.
+What You'll Do The Engineering Team at Cherwell Software is a highly skilled group of full stack software and quality engineers who are passionate about highly performant, optimized and discoverable code.
+We are looking for an Associate QA Engineer with some automation experience, who wants to work in an Agile environment with a growing team.
+The ideal candidate will enjoy and embrace change, and desire the challenge of testing complex and highly configurable applications in a fast-paced environment.
+This position requires a self-motivated individual with strong problem-solving skills who can contribute in a dynamic team environment.The key responsibilities of this job include: * Support the manual and automated QA testing activities of Cherwell Software.
+* Promote QA best practices, and produce consistently high-quality deliverables.
+* Review requirements, acceptance criteria, and technical design documents to provide timely and meaningful feedback.
+* Write and execute detailed, comprehensive and well-structured test cases.
+* Estimate, prioritize, plan and coordinate testing activities.
+* Develop, and execute stable automation scripts that improve test coverage.
+* Promptly identify, record, thoroughly document and track bugs.
+* Perform thorough smoke, system, integration, automation, compatibility, and regression testing when bugs are resolved, stories are ready for test, and code is feature complete.
+* Assist in building and configuring test environments.
+* Contribute to the review and maintenance of project documentation.
+* Liaise with internal teams (e.g.
+developers and product managers) to identify system requirements.
+What You Should Have * Ability to write, and execute automated tests using tools such as Selenium, and Ranorex.
+* Experience with Agile development methodologies.
+* Experience with Windows, .Net, REST API, VMWare, C#, PowerShell.
+* Experience with SCCS, preferably Git.
+* Experience with SQL/TSQL on Microsoft SQL Server.
+Nice to Have * Knowledge of Active Directory, LDAP, SAML.
+* Knowledge of web service technologies and testing.
+* Familiarity with the ITAM/ITSM industry, ITIL V3 foundations and other related standards.
+Why Cherwell?
+* You like working with intelligent and driven colleagues * You would enjoy working for a fast-growing software company * Opportunities to grow your career * We're a fun, close-knit team * We have a fast-paced, exciting work environment * We provide work-life balance benefits * We offer competitive benefits packages Please do not include any of the following details in your CV: date of birth, marital status, nationality, racial/ethnic origin, religion or a photograph - none of these characteristics are relevant to the decision as to whether you have the skills and experience to perform a particular role.
+Cherwell Software, Ltd.
+complies with the Equality Act of 2010.
+We do not tolerate discrimination against any applicant on the basis of age, sex, race, disability, pregnancy, marital status, sexual orientation, gender reassignment, or religious background.
+Cherwell encourages diversity in hiring, recognizing that this enriches the work environment and that a broad variety of perspectives enhances decision-making and creativity.
+If you require accessibility assistance applying for open positions in the UK, please send an email with your request to . If you are a recruiter or placement agency, please do not submit resumes to any person or email address at Cherwell Software prior to having a signed agreement from Cherwell's Talent Acquisition department.
+Cherwell is not liable for and will not pay placement fees for candidates submitted by any agency oth
+
+
+Go to apply 
+

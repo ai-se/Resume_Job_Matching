@@ -1,0 +1,69 @@
+
+MAHIMA CHAUHAN
++ * (***) -***-**** adaivc@r.postjobfree.com
+***,********* ******, ********, *** 0L2, ON
+COLLEGE GRADUATE CERTIFICATE IN WIRELESS INFORMATION NETWORKING
+(FLEMING COLLEGE, PETERBOROUGH, ON, CANADA) AND
+WES ASSESSED ELECTRONICS AND COMMUNICATION ENGINEERING MASTER’S
+
+As a recent graduate in Wireless Information Networking, I am eager to use my knowledge and skills in the Electronics field. A reliable, creative and quick learning Electronics and Communication Engineer having experience in electronics design and embedded system design.
+
+CORE COMPETENCIES
+Digital and Analog circuits design, develop, analysis
+Software development, Troubleshoot and modify
+Firmware development, Installation
+Hardware design, develop, testing (EMC,EMI)
+PCB,Schematic design
+Programming of micro-controller and processor (ARM,Atmel,MSP,PIC,Raspberry Pi)
+C,C++,DSP, Python,Linux, SQL Database
+MPLAB IDE,MATLAB, MultiSim, PSpice, OrCAD,SoC
+VHDL,FPGA, Xilinx
+Communication protocol SPI,I2C,RS 232,RS 485
+USB,UART, Ethernet, Modbus Interfacing
+LED,LCD Circuits
+CCNA Networking,LAN,WAN configuration,IOT
+Practical exposure PLC: Micrologix 1000, SLC 500/03 & S7 200,SCADA
+SKILLS HIGHLIGHTS
+Problem Solving Skills
+Interpersonal and communication skill
+Critical thinking & Time Management
+Strong knowledge of electronic hardware
+Technical/Report Writing
+
+Project Management
+
+PROFESSIONAL EXPERIENCE
+As an Assistant Professor(Jan 2016 – Dec 2016) Parul University(Vadodara, India)
+To prepare & deliver lectures to the students.
+Prepare materials for the lectures, Conduct Laboratory experiments
+As a R & D Engineer (June 2010- April 2013) Trinity Energy System Pvt. ltd(Vadodara, India)
+Write, modify, integrate and test software code
+Maintain existing product software by making modifications as required
+Identify and communicate technical problems, processes and solutions
+Prepare reports, manuals and other technical documents.
+UART Interfacing
+USB, Ethernet, RS 485, SPI, I2C,Modbus Interfacing, SD16/24 interfacing
+ADC Interfacing
+LED & Graphic LCD Interfacing, Matrix keyboard interfacing, how to drive relay using transistor, how to display Harmonics.
+Familiar with controller - MSP430 AFE, PIC 18F97J60, PIC32MX695F512L
+As Brand Ambassador (Nov 2017 – Jan 2018) Sears Canada, Peterborough
+Customer Support, Cashier
+ACADEMIC PROJECTS
+Optimized Path Finder Robot
+Design prototype model of Robot using Raspberry Pi
+Interface other devices (Motor, Distance sensors)
+Robust design of remotely operated spy vehicle based on real time movement using embedded web server
+Design prototype model using Raspberry Pi and Embedded web server
+Control the system remotely using mobile device
+Fingerprint attendance & access management
+Design fingerprint attendance system using 8051
+EDUCATION
+College Graduate Certificate (September 2017 –April 2019) Fleming college (Peterborough, Canada)
+Wireless Information Networking (WIN)
+Master of Engineering (May,2013-May,2015) (Gujarat Technology University, India)
+Electronics and Communication Engineering
+Bachelor of Engineering(June 2005- August 2009)(Veer Narmad South Gujarat University, India)
+Electronics and Communication Engineering
+References Available Upon Request
+
+Contact this candidate

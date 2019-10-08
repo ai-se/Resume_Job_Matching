@@ -1,0 +1,40 @@
+
+Key Technologies C#, .NET, MVC, SQL Server, REST
+Experience level Mid-Level, Senior
+CenterEdge Software has been redefining the successful operation of family entertainment centers, trampoline parks, water parks, museums, roller skating rinks, and large-scale amusement parks across the country since 2004. We deliver real-world solutions to meet the everyday needs of facility owners and managers. The CenterEdge product suites offer solutions for point of sale, online sales and reservations, labor management, capacity scheduling, food and beverage sales, attractions management and mobile transactions.
+As an innovator in the operation of family entertainment centers, we are looking for experienced full-stack developers who would love to create cloud-based apps and APIs to power our software systems of the future.
+In this role, you will design and develop solutions as part of a ground-up re-engineering of our software applications using the latest .Net and Web technologies...allowing you the freedom to let your technical capabilities shine.
+Requirements & Skills
+Experience with C#, ASP.NET MVC, and JSON.
+Experience consuming RESTful Web API
+Experience with client-side technologies such as JQuery, AngularJs, Knockout, React, JavaScript, TypeScript, HTML5, and CSS/SASS.
+Experience with unit testing frameworks, in particular, xUnit and MochaJS
+Experience with Agile development processes, methodologies, and tools.
+Experience using source control, preferably Git.
+Bonus: prior experience developing with .NET Core.
+Bonus: prior experience developing with Angular.
+Bonus: prior experience using NoSQL databases -- Couchbase, Mongo, etc.
+Bonus: prior experience with CI/CD tools -- Jenkins, Bamboo, Spinnaker, etc.
+Bonus: prior experience developing applications for the Cloud environment -- AWS, Azure, etc.
+Bonus: prior experience with Docker and Kubernetes
+Qualifications
+Sound knowledge of modern web development trends, technologies, and design patterns.
+Minimum of 5years' experience designing and implementing web-based software systems, with 8 to 10 years of experience being ideal.
+Authorized to work in the U.S. without a visa or other sponsorship.
+Cultural Fit
+You have a passion for writing great code with the desire to achieve and exceed goals.
+You are personally accountable for your work and love creating value for your users.
+You have a desire for the team to succeed above personal preferences.
+You are extremely technical, but also have a passion to constantly learn and develop new skills.
+This position offers the opportunity to work remotely up to 80% of the time, but candidates MUST reside within a reasonable drive of our business location in Roxboro, NC.
+
+Important
+Applicants may be interviewed and hired prior to the closing date of this ad.
+Must be authorized to work in the United States; candidates requiring Visa sponsorship WILL NOT be considered.
+Must be willing to undergo a pre-employment background check and drug screen, in accordance with local law/regulations.
+CenterEdge is proud to be an Equal Opportunity Employer
+
+
+
+Go to apply 
+

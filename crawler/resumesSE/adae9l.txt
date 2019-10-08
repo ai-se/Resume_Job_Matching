@@ -1,0 +1,121 @@
+
+Syed Syedjamal
+Sr.Desktop support Engineer
+Email:adae9l@r.postjobfree.com
+Ph.:860-***-****
+Professional Summary:
+•Dynamic and Desktop Engineer with 7 plus years of outstanding knowledge, skills and expertise, dedicated and committed to providing excellent interconnectivity and hardware and software Problem solving .
+Experience in Hardware, Software, firewall technologies, system design, implementation, troubleshooting of complex system issues, wireless design, data network design, capacity management and network growth.
+Setting up hardware and installing, imaging, configure software and drivers. Maintaining and repairing technology equipments and peripherals devices .
+Experience in O365 Configuring, installing,and troubleshooting .
+Experience in Active Directory as group management create, modify group.
+Experience in Printer configurations and permission to new user.
+Experienced as Support engineer with proficiency in installing, upgrading, troubleshooting, configuring, and supporting variety of Network & Security Devices.
+Experienced Hardware engineer with advanced knowledge of Chip level Service,pc Peripherals Replacement.
+In-depth knowledge of Major Problem Sloving and protocols, security vulnerabilities, network security, and application security.
+Experience with, LAN & WAN management.
+Knowledge of implementing and Configuring New Pc and Network Designs .
+Experience in designing and deploying enterprise network security .
+Experience in Windows Desktop, Antivirus Removal, Security Backup, Monitoring.
+Experience in Skilled Infrastructure and implementing new Technology’s.
+Experiences in problem sloving by onsite as well remote side and also call supports.
+Experienced in the evaluation, testing, configuration and implementations.
+Experience in SCCM Push Software to user machine.
+Very quick Learning skill of new technologies and tools..
+Good knowledge in Network function virtualization.
+Knowledge & experience in network protocols & packet analysis.
+Extensive understanding of networking concepts, (IE. Configuration of networks, router configuration and wireless security, TCP/IP, VPN, Content Filtering, VLANs, and routing in LAN/WAN, Ethernet Port, Patch Panel and wireless networks.
+Strong Knowledge of hardware, Applications software support, LAN, WAN and Operating Systems.
+Ability to work in a team Environments.
+
+Academic Details:
+Bachelor of information tech (Bsc IT) at Allagappa university.
+Diploma in computer science and engineering.
+
+Certifications:
+
+Diploma In Hardware And Networking.
+Diploma In Computer Application
+Programming In c, c++.
+
+Experience:
+
+Cognizant, NJ June 2019 –Till
+Role: Desktop /IT support Engineer
+Responsibilities:
+
+Using Service now to creating the user information .
+Connecting VPN through Cisco VPN Service different region.
+Skype business to communicate and remote access.
+Using Bomgar to access user machine by remote with elevating privilege access.
+Duo mobile application to push security access and activate and deactive the mobile
+Security access,Enroll new mobile devices and numbers.
+Airwatch to Push software and Wipe for mobile devices as Iphone, Andriod, Ipod,
+Wipe all use clean up mobile data’s enrolled with Airwatch.
+Citirix Director reset and adding the new path.
+O365 Update,Online repair, Quick repair, cloud access, WebEx meeting setup, calendar . Policy updates.
+Shared mailbox configuration.
+Win7/ 10 Update .
+SCCM to push software to the user machine using computer name and user id.
+Configuring O365 outlook, PowerPoint, Excel, word and troubleshoot.
+Hardware fix like screen replacement, HDD,Ram update .
+Walk through on Remote with user to new accounts setup.
+Avaya Software install to communicate through Desk phone application via PC.
+Audio, video support through remote.
+Using software center to distributing the software with high secure.
+
+Norfolk Southern, NJ May 2017 –Aril 2019
+Role: Desktop Support Engineer
+Responsibilities:
+
+Implementation, Configuration and Support of Hardware, Software and Applications.
+Installing and upgrading computer hardware and all peripherals.
+Solving Major and minor issues from client side by onsite or by remote.
+Permission setup for new user as account setup.
+Implementing applications and security setup.
+Technical issues support user through remote .
+Installing new applications and software with granting admin permission.
+Solving LAN Connectivity issues and no connectivity issues.
+Backup the data’s and upgrading operating systems.
+Setup multiple user and group accounts.
+Active directory group management create, modify and contact import.
+Add and remove bulk user accounts and maintain.
+Network Printer configurations.
+Configuring Network devices such as Router, switches.
+Provide Av (Audio &video) support for office meetings and conferences, activities .
+Troubleshooting on any issues on Av related devices.
+Configure and do support for mobile devices like tablets, I phone’s etc.
+Troubleshooting on laptop/desktop/printer/routers/switches/mobile devices, Av devices and configure any new device arrived
+
+Com Tech Telecommunications, Seattle, WA. Sep2016 – Mar2017
+Role: Desktop Service Engineer
+Responsibilities:
+
+•Assisted in troubleshooting LAN connectivity and hardware issues in the network of 500 hosts.
+Performed client requirements to provide solutions for network design, configuration, administration, and security.
+Involved in troubleshooting IP addressing issues and Updating IOS images using TFTP.
+Created a backup and recovery policy for software application and verified peripherals are working properly.
+Monitor performance of PC’s and servers to identify potential problems and bottleneck.
+Troubleshoot problems day to day basis & provide solutions that would fix the problems.
+Configure New Setup and designing.
+Solving issues on Both computer’s and Laptop’s replacing hardware devices also problem solving any technical issues.
+Manage operational monitoring of equipment capacity/utilization and evaluate the need for upgrades; develop methods for gathering data needed to monitor hardware, software, and communications network performance.
+Onsite support and call support on phone.
+Operating system installing such as windows 7/8/10.
+
+Client:Nokia, India 2012 Nov –Feb2016
+Role: Network Engineer
+Responsibilities:
+Providing computer hardware /software support and working individuals across the community.
+Proactively resolve customer problem with about equipment and service.
+Deliver just-in time support both help desk and across the campus respond to the departmental technical emergencies in order to minimize data loss meet deadline and support need for user.
+Responding to request for technical assistance via phone or email and remotely.
+Continually update personal knowledge of computing hardware, OS and software.
+Troubleshoot various technical issues dealing with printer, network and phone system.
+Successfully administered user account, outlook configuration, troubleshoot on outlook.
+Work on Operating system windows7/8.
+Participated in on call support in troubleshooting the configuration and installation issues.
+New pc Assembling,computer peripherals replacing.
+Provided Technical support in terms of upgrading, improving and expanding the network.
+
+Contact this candidate

@@ -1,0 +1,9 @@
+
+Role: Build and Release Engineer -III Location: Mountain View, CA # of Positions: 03 positions Schedule Notes: Hours will be Mon-Fri 8a-5p, with some flexibility on timing.
+Some limited on-call or late nights may be required to collaborate with our team in India.
+Skills: Requirements and Qualifications - Bachelor s Degree or Equivalent Experience 4+ years of experience in Technology Expert level understanding of Linux Experience with Windows server administration Experience working on J2EE Stack type of Applications Understanding of Network fundamentals (TCP/IP, WAN, LAN, MPLS, Troubleshooting, etc) Experience with storage technologies (SAN, NAS, etc) Experience working in either AWS, Azure, or GCP Scripting experience with Python, Perl, or other Highly effective communicator, both written and verbal Experience working with distributed teams across the globe Understanding of security procedures and best practices Knowledge on Oracle DB, Golden Gate, and SQL Scripting Experience working with Git Experience working with Ansible, Puppet, or Chef Education: Bachelor''s degree is typical for this role.
+Master s degree a plus
+
+
+Go to apply 
+

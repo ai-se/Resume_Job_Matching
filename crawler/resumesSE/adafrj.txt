@@ -1,0 +1,52 @@
+
+Swati Srivastava
+Software Engineer, PowerSchool India +91-809******* adafrj@r.postjobfree.com
+Objective
+I am seeking Position as PLSQL developer, to leverage my experience, technical knowledge and interpersonal skill to bridge the gap between customer needs and technology,by offering solutions to add values and help organization to achieve its goals. Education
+.Pranveer Singh Institute of Technology Kanpur (Uttar Pradesh) B.tech(Electronics and Communication) with Percentage 77% 2011-2015
+. State board Education Lucknow Public School
+Higher Secondary Certificate Examination with Percentage 78% 2011
+. State board Education Canossa Convent Girls Inter college HighSchool Certificate Examination with Percentage 74% 2009
+Area of Exposure:
+o Languages : PL/SQL,SQL tunning, SQL loader
+o Scripting Languages : PHP,Basic javascript, Shell,Perl,Anularjs o DataBase : MySQL,Sybase,Oracle SQL
+o Operating Systems : Windows,Unix,Linux
+o Tool : Reporting,Perforce,GIT,Swagger,postman Experience
+FRONTEND DEVELOPER FOR INFOSYS INTERNAL PROJECT INFOSYS JAN 2016-MAY2016
+Project - Infosys Internal Project (creating web page for food court) Client: : Infosys
+Tools & Language: : Eclipse, Oracle SQL Developer
+PHP,javascript,HTML,CSS,MYSQL
+Description :
+Created an interactive webpage for Infosys food court to order food coupons,place order before lunch/breakfast times to avoid long queues .Know the meal of the day,get cash back with queries & feedback pages .
+APPLICATION DEVEOMENT & SUPPORT SPECILIST GOLDMAN SACHS MAY 2016 – NOV2018
+Project - Cash and Fund Management
+Client: : Goldman sachs
+Tools: : Eclipse, Oracle SQL Developer, Sybase
+Role : Developing PLQL Code, Perl and Unix script, Autosys Jobs Description :
+'Cash and Fund management' system support the private banking services provided to GS clients.
+This include account services (Such as checking account) as well as specific services to support investments in various financial instruments like money market funds,treasury bill and certificate of deposits
+Responsibilities:
+Analyze the Business requirements specification through use case documents. Interact with the client through JIRA/call to know their requirement (user Question/enhancements/ISSUE) and resolve them as soon as possible. keep the track of production issue and resolve the failure on priority .Automate the support work to avoid manual work by support team. Written Perl Script to automate and monitor the Critical Transaction. Enhancing and developing code written in PL/SQL,PERL for Cash management Systems of Goldman Sachs . Development:
+1->Added the service to provide the proper interest to client . Description: Sweeping is a process of automatically transferring that amount exceeding a certain level into higher interest earning investment option. excess cash swept into different products .Client need to opt for this service. Resolution: we suggested a process named it as 'Preview' which keeps the latest state of account every time there is a WDRL/DEP. which can be used at the last state of the client account is not available just before the cutoff. Technology: Gloss(for processing),PLSQL,PERL(send email to clients) and Autosys. PLSQL DEVELOPER POWERSCHOOL DEC 2018 – ONGOING Project - Power SCHOOL SIS ( Student Information System) Product : : POWERSCHOOL
+Tools: : Eclipse, Oracle SQL Developer, swagger, Reporting Perforce,GIT
+Role : Developing Reports based on US state school requirements Description :
+Page 2
+o PowerSchool SIS is a leading school operations student information system solution for educational institutions .
+o Simplify State Compliance Reporting
+Capitalize on our library of pre-built reports or build your own for anything from attendance to scheduling to demographics. State compliance reporting provide data with latest changes to ensure maximum school funding. o Provide critical district information on demand. Reporting features empower schools and districts to report on anything from scheduling to attendance to discipline and more. Implement standard or build custom reports to analyze data on what matters most to your school to drive improvement inside and outside of the classroom. Ensure accurate, timely compliance reporting and run validation reports prior to submitting for state or provincial reporting. Take confidence in our dedicated team who stay on top of updates continually. Responsibilities:
+1- Following Agile process. Pickup tickets for sprint on complete them on time 2- Write Triggers,packages for state report based on requirement and deploy in production.
+3- Debug JavaScript or angular codes to fix issues on frontend. 4- Lead small team on parallel project to work and learn new technology. Achievement:
+Appreciations from Clients, Delivery Manager, Group Project Managers, and team for quality enhancement in time along with Innovation Ideas to drive more business for organization.
+Took initiative for Training sessions on JAVA Basics,Secured 85% in shell scripting and 80% in web technologies Internal Certification by Infosys. Received recognition as top developer in compliance team based on story point deliver in first half of the year.
+Personal Details:
+Father’s Name Subodh Srivastava
+Date of Birth : 14 May 1994
+Gender : Female
+Languages Known : English, Hindi
+Nationality : Indian
+Address : Bellandur,Bangalore
+I hereby declare that the information furnished above is true to the best of my knowledge.
+Swati Srivastava
+Page 3
+
+Contact this candidate

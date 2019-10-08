@@ -1,0 +1,72 @@
+
+Cloud Engineer
+Rochester, Michigan - OneStream Software LLC
+Employment Type:Full-Time
+Summary
+OneStream Software is a Microsoft Gold Partner: Cloud Platform and hosts customer environments in Microsoft Azure. Our proprietary software is installed in the customer's hosted cloud environment and managed by us. This position will focus on information security and compliance in the Cloud Services team as we seek to improve our Cloud offering and stay ahead of all trends surrounding cyber security. This position will primarily involve designing, implementing, and maintaining hosted cloud environments. This role requires strong technical skills and hands-on experience securing IT systems and infrastructure. The employee will work in small teams and must be willing to share responsibilities and collaborate with other team members. He or she will interact with internal staff, managers, and customers to implement and maintain our Cloud offering. A passion for technology and learning, and the ability to grow others are vital for success in this role.
+Primary responsibilities:
+Customer environment implementation and software configuration.
+Secure/harden customer environments, vulnerability scanning and remediation.
+Identify security risks and operational needs.
+Work with OneStream compliance team for internal and external audits.
+Provide excellent customer service and support.
+Review and update FedRAMP System Security Plan (SSP), policies, and procedures as needed.
+Secondary responsibilities:
+Perform environment updates and software upgrades.
+Update technical documentation, workflows, and knowledge base articles.
+Troubleshoot production issues and perform on-call duties.
+Identify opportunities for automation, process improvement, and architecture improvements.
+Support internal infrastructure projects as needed.
+Competencies:
+Deal well with ambiguous/undefined problems ability to think abstractly.
+Affinity for customer service.
+Strong problem-solving skills.
+Ability to multitask a variety of projects.
+Passion for technology and learning.
+Self-motivated, self-starter.
+Ethical.
+Professional.
+Team player.
+Excellent written, verbal, and interpersonal skills.
+Required Education and Experience:
+BS/BA in Computer Science, Engineering, or related field.
+5+ years networking and infrastructure experience.
+Strong understanding of IT Risk Management, Security Policies and Procedures, Internal Audit, and Compliance Standards. Familiarity with SOC and/or FedRAMP is a plus.
+Experience implementing security benchmarks and standards (NIST, CIS, FIPS, PCI DSS, HIPAA, FIPS 140-2).
+Working knowledge of various cryptographic algorithms and protocols (IPSec, TLS, SSH, AES).
+Experience with the following technologies and tools:
+
+Microsoft Windows 10, Windows Server, IIS, Microsoft SQL Server, Active Directory, Group Policy.
+Vulnerability Scanning software (Qualys, Nexpose, Tenable, WebInspect, Acunetix, TrustWave, Burp).
+Security software (Intrusion Prevention/Detection, Application Control, Anti-Virus).
+Microsoft Azure or Amazon Web Services (AWS) preferred but not required.
+Network and application security device configuration and management (Cisco, Barracuda, Palo Alto, SonicWall).
+Preferred Education and Experience:
+Experience working for a cloud service provider (CSP) or managed service provider (MSP).
+Any certifications such as Information Technology Infrastructure Library (ITIL) Foundation, Microsoft Certified Systems Administrator (MCSA), Microsoft Certified Professional (MCP), Certified Ethical Hacker (CEH), CompTIA Security+, Cisco Certified Network Associate (CCNA), Information Systems Security Professional (CISSP), Cloud Platform: Microsoft Certified Solutions Associate, or Cloud Platform: Microsoft Certified Solutions Expert is a plus.
+WHO WE ARE
+OneStream Software is a privately held software company created by the same team that invented the leading financial solutions of the last decade. We provide a unified Corporate Performance Management (CPM) platform which enables the enterprise to simplify financial consolidation, reporting, budgeting and forecasting for complex organizations. Our powerful extensibility enables the enterprise to deliver additional analytic solutions without adding any technical complexity. By delivering multiple solutions in one application, we offer increased capabilities for financial reporting and analysis while reducing the risk, complexity and total cost of ownership for our customers. We are driven by our mission statement that every customer must be a reference and success.
+We are equally fanatical about our OneStream family members (formally known as employees). We are a team in every sense of the word. Everyone here is approachable and excited to pitch in and help. We work hard and play hard. The right candidate is easy to get along with, always willing to lend a hand, excited about coming to work, and happy to contribute to the team. We have a casual dress environment and modern office with waterfront views of the Long Island Sound.
+WHY JOIN THE ONESTREAM TEAM
+Transparency around corporate structure, salary, and benefits.
+Core value of customer success.
+Variety of project work (not industry specific).
+Strong culture andcamaraderie.
+Multiple training opportunities.
+Benefits at OneStream Software
+OneStream employees are passionate, hardworking individuals who go above and beyond to keep our customers happy and follow through on our mission statement. They consistently deliver the best and in turn, we make every effort to keep them cared for and happy. A sample of the benefits we provide are:
+Excellent Medical Plan.
+Dental & Vision Insurance.
+Life Insurance.
+Short- & Long-Term Disability.
+Vacation Time.
+Paid Holidays.
+Professional Development.
+Retirement Plan.
+OneStream Software is an Equal Opportunity Employer.
+
+Job Posted by ApplicantPro
+
+
+Go to apply 
+

@@ -1,0 +1,142 @@
+
+GREGORY E. COUGHLIN Cortland, OH *****
+330-***-**** E-mail: adaft6@r.postjobfree.com
+
+IT Executive
+Strategic Innovative Transformative Entrepreneurial Results Oriented Agile
+
+Professional Summary:
+Passionate IT Executive/Problem Solver with over 20 years’ experience. Able to examine and understand issues from all angles and craft dynamic solutions. Talent for leveraging technology to elevate organizations and streamline processes. Served in companies spanning start-ups to the Fortune 10. Strong Healthcare/data security/compliance background (HIPAA, HI-TECH, SOC 2). Extensive background working with software companies developing software products, software customization, business intelligence, data analytics, work flow, and data integration.
+Leveraging this expertise drives organizational performance by ensuring business leaders have actionable data at their fingertips, that the organization is operating at continually increasing levels of efficiency, and that the KPIs are there to demonstrate success and support decisions.
+
+EXPERIENCE:
+
+Director of Information Technology, The Center for Health Affairs/CHAMPS Healthcare, Cleveland, OH 7/16-Present
+A complex blend of non-profit and for profit businesses under one roof, The Center/CHAMPS has annual revenue of $11mm and 140 employees.
+
+Reporting to Sr. VP of Finance and Operations, set and execute the direction for all IT operations and systems spanning all aspects this diverse, dynamic, and blended organization consisting of 4 distinct businesses operating under one roof. Provide strategic leadership and vision to the CEO as a member of the Cabinet/Leadership Council. Partner with leaders of all business lines to determine IT needs for their respective areas, and assess how those needs blend with the organization as a whole and create a unified approach to meet those needs. Develop and present annual business plan demonstrating both short-term and long-term technology strategy and vision. Ensure IT compliance with all applicable regulations, including HIPAA, HI-TECH, and SOC 2.
+3 direct reports (Software Development Manager, Technical Support Manager, and Data Architect), 9 team members total
+Provide IT leadership for two in-house software start-ups/SaaS products, prep2practice™ and insight2oncology™ (recognized as a Top Ten Healthcare Analytics Solution)
+Lead IT/Organization through clean SOC 2 Type 2 audit
+On major product development initiative, renegotiate rates and re-source consulting team saving over $250k
+Total savings on IT initiatives during my tenure of over $750k
+Reorganize IT department structure resulting in 25% increase in productivity
+Present IT-related information and strategy to the Boards of Directors (organization has 4 Boards)
+Introduce and evangelize for Business Intelligence/Power BI and other BI tools, and Cloud technologies (Azure, AWS, etc.)
+Introduce Agile/Scrum methodologies to development team and organization
+Keep abreast of trends in the industry and recommend/implement new solutions to improve operations
+Oversee all software development and customization of internal and external-facing systems (MS Dynamics 365, GP, Office 365)
+Foster team growth with training and mentoring, 1-1 meetings, goals, reviews, etc.
+Prepare and manage annual budget ($1.4 mm within department)
+Manage vendor relationships.
+Interface directly with customers to facilitate IT interactions, transitions and migrations
+
+Founder/Principal Software Engineer WareMatic, Cortland, OH 1996-Present
+WareMatic is a software and consulting company, offering CommissionMatic© software and IT consulting services in Microsoft and Lotus Notes/Domino technologies, among others.
+Responsible for all aspects of company from consulting/programming to sales to product development and product management on both a part- and full-time basis, depending upon need and availability. Hiring sub-contractors, writing scope-of-work documents, estimates, etc. Company has successfully completed over 20 long- and short-term engagements in a variety of environments and technologies, with clients ranging from the Fortune 500 to small businesses.
+Tech Stack: C#, VB.net, ASP.net, SQL, SSIS, AWS, Azure, MS Access, VBA, Excel, Lotus Notes/Domino, JavaScript, jQuery, JSON, Google/Chrome, gmail api, Oracle, etc.
+Recent completed projects:
+Gmail gadget (Roche) – extend Gmail capability to allow users to automatically transmit a complete email (including attachments) to a Cloud-based web service.
+Chrome Browser Extension (Roche) – extend Chrome capability to allow users to automatically transmit a complete email (including attachments) to a Cloud-based web service.
+Employee Portal (Caesars Entertainment Group) - Design, build and host PHP website with MS SQL backend for employee performance tracking and metrics system.
+Design and develop a Windows service in C# to extract data from Lotus Notes 6.5 databases into SQL 2008 R2 to allow data modification, and re-create the database in Lotus Notes 8.5.2. Design and perform Unit tests.
+
+Sr. Analyst, Software Development, CVS Health, Warrensville Heights/Solon, OH 12/12-7/16
+CVS is a Fortune 10 company operating in the Retail Pharmacy and Insurance space, with Annual Revenue exceeding $200B and over 280,000 employees.
+
+Led team of developers (3-4) in The Medicare Part D operations architecting and programming complex software systems and database solutions based on requirements to meet client needs. Act as SME for business critical enrollment applications. Recognized and awarded on multiple occasions by colleagues and coworkers at all levels of management for embodying core values of Accountability, Collaboration, and Tenacity. Manage day-to-day operations of a mission-critical application processing over 20 million records daily.
+Drive projects through SDLC to 100% on-time delivery
+Meet with users and stakeholders to gather and document business and functional requirements.
+Design and develop inbound/outbound ETL integrations in MS SQL Server (2008/R2/2012) SSIS, SQL stored procedures and Oracle data sources, including FACETS.
+Create/Modify web pages using ASP.net, C#, MVC, VB.net with MS SQL and/or Oracle backend.
+Create/Modify/Troubleshoot stored procedures, triggers, etc.
+Perform code reviews, assign tasks to team members, mentor.
+Consult on staffing decisions, including levels and hiring/firing/promotions.
+
+Software Development Manager, MRI Software, Cleveland, OH 1/12-5/12
+MRI Software provides software solutions for Real Estate management organizations having an estimated $260M revenue and 1200 employees
+
+Managed 20 direct reports consisting of 2 teams of Programmers and Quality Assurance representatives in a fully implemented Agile environment. First team (12) used MS tech stack, the second team (8) used Java technologies on Linux platform with Oracle backend. In addition to general management include maintaining metrics, evaluations, continuous feedback, acting as scrum master, facilitate meetings and retrospectives, provide guidance, and eliminate obstacles to performance, perform interviews, career planning, hire/fire/promotion recommendations, and ensure teams are on target for reaching goals. .
+Led teams to hitting multiple release dates on-time
+Helped recruit and build new team to support acquired company
+Spearheaded successful transition of coding and support functions from off-site acquisition team to on-site team.
+
+Sr. Integration Engineer, Stone Donut, Cleveland, OH 06/11-12/11, 06/12-12/12
+StoneDonut employs about 25 people with annual revenue of $7mm. They provide Custom Software and Technical Consulting.
+
+Design and develop inbound/outbound ETL integrations in SQL Server (2008/R2) SSIS and MS BizTalk with MS Dynamics to facilitate ERP rollouts.
+Handle complex data massaging and transformation scripting using C#, VB.net, T-SQL, XML, XSLT, etc.
+Create/Modify/Maintain data maps, orchestrations, transformations, etc.
+Setup and maintain Windows 2008 Server as FTP connectivity hub with multiple secure sites and SSL/SFTP connections.
+
+Sr. Software Engineer, Sherpa Software, Bridgeville, PA 11/08-4/11
+Sherpa Software provides software tools and utilities with 27 employees and $5.4mm in revenue.
+
+Collaborate with VP of Product Development on design and development of new Microsoft-based product offerings, then bring the visions to life. Involved in all aspects of product life-cycle, .api and .dll development, Database schema, Test Design, etc.
+Work with Microsoft team to finalize latest version release of top-selling e-discovery software product (Discovery Attender for Exchange TM), expanding capabilities and enhancing performance.
+Develop software product to export Lotus Notes email messages as .eml files while maximizing fidelity to the original Notes Rich Text formatting, also ensuring no loss of information when using non-ASCII characters (i.e. Japanese, etc.)
+Develop java plug-in to Lotus Notes for Mail Attender for Notes product, to show a graphical representation mimicking the standard Notes quota meter, but using the Mail Attender quota values.
+Design and implement GUI for Compliance Attender product.
+Mentor team members, present on new technologies.
+
+Acting General Manager, Empowerment/Team Lead/Support Analyst, Ceridian. Virtual/Brecksville, OH 1/03-11/08
+Ceridian is a Payroll Services company with over 4,000 employees and $750mm in revenue.
+
+As Acting General Manager, Empowerment, full responsibility of overseeing the successful retirement of the Empowerment product/business unit and the reassignment as well as redeployment of personnel (on-site and remote) and equipment. Handle all remaining relationships with vendors; sign off on contractors and operating expenses. Ensure proper support and billing of clients during and after transition period. Conduct meetings and report progress regularly to Senior Management.
+Work directly with internal and external customers to troubleshoot and solve issues with Ceridian’s Lotus Notes/Domino-based Empowerment product and the back-end SQL database. This includes diagnosing problem, making programming changes as required (Notes/Domino and/or SQL [DTS/SSIS/ETL]) and/or coordinate fix with proper resource(s), managing the change as it is placed into production. Continually communicate resolution status with customer.
+Provide time and cost estimates of requested customizations.
+Customize Lotus Notes/Domino HRIS Web-Based applications according to customer requirements. Create and maintain data loop between SQL database and Notes/Domino databases using Lotus Enterprise Integrator (LEI), Domino Enterprise Connection Services (DECS), Data Transformation Services (DTS/SSIS/ETL), and custom written VB and SQL software. Heavy LotusScript, Workflow Design and VBScript/JavaScript.
+Team Lead responsibilities for Lotus Notes/Domino Custom Application Support and Modification Group (team is virtual) and Custom Crystal Reports Support Group (team based in Atlanta, GA), in addition to Support Analyst, include, but not limited to:
+Provide direction on day-to-day activities.
+Manage team projects to ensure that deadlines are met, resources are available, planning takes place, and quality is high.
+Assist with the recruiting and selection, training and development of employees.
+Direct department meetings, mentor assigned individuals.
+Gather and report metrics on team performance, Ensure proper allocation of resources.
+Act as escalation point and liaison to senior management when issues are escalated.
+Proactively identify processes that can be improved and/or streamlined, and act as change agent.
+
+Director of MIS. Nannicola, Inc., Youngstown, OH 10/99-9/02
+Nannicola, Inc., is a wholesale/retail/manufacturing company specializing in Bingo and gaming supplies. During this time they had about 40 employees and $11mm in revenue.
+
+Headed implementation of new ERP system and custom point-of-sale software system. Built IT department up from a one-man operation to a small group of 4, and transformed the company by leveraging technology to streamline and improve operations.
+Plan and implement corporate IS direction, including researching and selecting in-house and portable hardware and software, develop Internet strategy.
+Manage all Application Development, Network Operations, Help Desk, Reporting, etc.
+Manage all IS/IT Projects throughout the project life cycle.
+Perform Security/Usage Audits of all IT Systems
+Compose and manage departmental budget. Manage software licensing.
+Keep abreast of current industry and technology trends to maintain edge over competition.
+Manage team of developers/analysts (employees and contractors); define, assign, and manage projects; monitor progress; review code; assure quality; conduct annual performance appraisals.
+Pro-actively seek out areas for improvement in business processes and engineer solutions, define and manage projects. These projects consistently resulted in substantial savings of both time and money.
+Gather user requirements, architect, program, and implement custom software solutions using any combination of Object Oriented (OO) programming tools including but not limited to
+Design, program and implement and manage Corporate Intranet (internal web).
+Maintain system integrity. Develop and implement disaster recovery plan.
+Troubleshoot and solve all software and hardware issues.
+Install/configure/maintain all system software (SQL 7, Notes/Domino R5, Win NT/2000, MS ISA Server, etc.)
+Design, program, and implement custom POS solution for remote sales force in Visual Basic with dial-up interface to ERP system/accounting software (ACCPAC [SBT] Executive Series) running on a SQL back end.
+Set up and maintain software partnerships with major software vendors (IBM/Lotus, CA, Microsoft)
+
+Partner/Principal/Co-founder. Data Now Corporation, Akron, OH 2/97-10/99
+Partner in Software Consulting firm working with Small-Medium businesses as well as Fortune 500 clients such as Bayer FAR division.
+
+Senior Developer on project to develop Web.Now product, an easy-to-use web-publishing tool for Lotus Notes/Domino for the small to medium business market. Received "Runs with Notes" certification as well as certified to run on Domino on the AS400.
+Create an integrated suite of databases for project management and timesheet tracking in Lotus Notes.
+Project Manager on Web Portal Development project.
+Presenter at a Wireless Connectivity seminar
+
+Technical Summary:
+MS SQL (TSQL, SSIS/SSMS, stored procedures OLAP, triggers, performance tuning, indices, etc.), Power BI, .net, Azure, AWS, MS Dynamics 365/CRM/GP/Office 365, VB.Net/VB/VBA/VB6, C#, MS Acces, ASP.Net, Lotus Notes/Domino, Java, JavaScript, Oracle, jQuery, ajax, json, PHP, MySQL, css, oauth, and more.
+
+EDUCATION:
+MBA, Data Analytics Concentration, Louisiana State University Shreveport, scheduled completion 4/20. Current GPA 4.0
+Bachelor of Arts in Management, Malone University, Canton, OH, GPA 3.70
+Associate’s Degree in Applied Science and Technology, Computer Information Systems, with honors, GPA 3.47, Youngstown State University, Youngstown, OH. Member: Alpha Psi Omega
+Carnegie Mellon University, 1.5 years as Math/Computer Science Major
+
+PROFESSIONAL CERTIFICATIONS/TRAINING:
+Agile/Scrum Methodology
+Six Sigma Green Belt, 12/05
+Principal CLP (Certified Lotus Professional), 8/99.
+Six Sigma White Belt, 6/04.
+Lotus Notes Application Development, I and II, 1/99.
+
+Contact this candidate

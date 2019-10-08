@@ -1,0 +1,256 @@
+
+J.V.NAGA SUHASINI Mobile: +1-919-***-****
+****, ********* ***, **********, *.A-30005 ~ E-Mail: adahir@r.postjobfree.com
+
+Experience Summary
+
+** ***** ** *********** ********** in Microsoft Technologies with extensive experience in analysis, designing, developing client/server, web based, n-tier application and Enterprise Application.
+Expertise in developing e-Commerce in Microsoft Visual Studio .Net IDE.
+Recognized for immense technical knowledge and practice at writing program codes as per pre-defined development plans of the company / client.
+Developed, Configured and Deployed a variety of .NET Framework Applications including Web Forms, WinForms, REST, MVC, Web Services, Class Libraries and .net Framework.
+Significant experience of working with customers, delivery managers, project managers and technical teams for securing & executing concurrent projects.
+Expertise in design and development of web applications/Windows with .NET framework using ASP.NET, VB.NET, C#.NET, ADO.NET, XML, XSLT, SOAP, .Net framework 6.0,4.0, 3.5, 3.0 & 2.0, LINQ.
+Worked extensively on applications using Angular, NodeJS,Jasmine and Karma technologies.
+Developed Single Page Application using Angular framework 2.0,4.0,5.0,6.0 for building dynamic web applications.
+Experience in GitHub, SVN, Visual Source Safe (VSS) and TFS for project version control and maintenance.
+Hands on in implementing Service Oriented Architecture (SOA) Designs.
+Experienced in mapping business requirements, designing customized solutions with strong analytical skills and ability to analyse business practices and define optimal procedures.
+Conversant with .Net technologies, Object Oriented Concepts. Gained experience in carrying out activities in the areas like web-based applications (Internet & Intranet), Business Applications catering to both vertical & horizontal industries.
+Experienced in design and connectivity of the database in Microsoft SQL Server 2008, 2012,2014,2017 and Oracle tools like SQL developer and Toad.
+Experienced in writing complex SQL queries, indexing, performance tuning of SQL queries and stored procedures.
+Expertise in performance tuning using tools like dot Memory, ANTS Profiler.
+Developed application using SSIS and SSRS also.
+Heavily used JSON Objects, XML for better user experience
+Experienced in ADO.Net, Form Authentication and Session state, Web user controls and Entity classes using ORM tool.
+Heavily used JSON Objects, XML for better user experience.
+Implemented Cascading Style Sheet (CSS) to improve look and feel of the ASP.NET web page.
+Have Experience in using Kendo Angular Components, PrimeNG Components and RAD Telerik Design and layout for angular Projects.
+Effectively handled major clients like State Of Georgia (Department Of Education), Delta, Symphony Teleca, Harman Services, Infosys Ltd; Under writer Laboratories & Nimble Soft Ltd; etc.
+Problem solver with a passion for technology; capabilities in grasping the big picture, conceptualising, developing, implementing solutions & partnering closely with business leaders & stakeholders.
+A customer-centric professional and ability for motivating large workforces for exceeding customer expectations in delivery of committed services.
+
+SKILL SET
+Functional:
+Designing, developing, testing, troubleshooting and debugging of the applications; providing post-implementation, application maintenance and enhancement support to the client with regards to the product / software application.
+Working out the new system's requirements & specifications and test strategies; assisting in functional testing of the new system, ensuring that it meets the user specifications.
+Monitoring onshore & offshore delivery management for technical deliverables of concurrent projects.
+Understanding clients’ needs, requirements, and expectations and devising solutions accordingly.
+Overseeing the entire product lifecycle functions i.e., feasibility through scoping, requirements definition through specification, design, development, quality assurance, integration and implementation.
+Driving product vision, strategy, road map and release plans. Product development to facilitate and enable growth and business agility.
+Responsible for client interaction for requirement gathering, system study & analysis.
+Ability to write and maintain technical documentation to describe Reports development, logic, coding, testing, changes, and fixes.
+Ability to meet deadlines and handle multiple tasks, flexible in work schedules.
+Experience on working with CSS Background, CSS Layouts, CSS positioning, CSS text, CSS border, CSS margin, CSS padding, CSS table, classes, Pseudo elements and CSS behaviours in CSS.
+
+Technical:
+Operating Systems: Windows Servers 2003/2008 & Windows 7/10
+Programming /Scripting
+Languages & Automation: C#, ASP.NET, Angular 2.0/4.0/5.0/6.0, Win Forms, XML Web Services, MVC 4.0, JavaScript, jQuery, Ajax, PL/SQL, HTML, TypeScript, Bootstrap and CSS 4.3.
+Database & Connectivity
+Reporting and OLAP Tools: MS SQL Server 2014/2012/2008, Oracle 8i/9i, MS Access, ADO.NET, ODBC & OLEDB, Crystal Reports 2008, LLBL Gen Pro, Entity Framework 6.0.
+
+Development Tools: Visual Studio.NET 2003 to 2017, .Net Core, Visual SourceSafe (VSS), Visual Studio code, GIT & TFS 2012/2017.
+
+Web Servers: MS IIS 6.0/7.0
+
+Domains: Finance, Insurance, Telecom, E-Commerce Applications, E-Learning.
+
+Other Tools: Telerik Controls, MS-Office 2003,2007 & 2010, MS-Outlook 2007 & 2010, Microsoft Office 365 ProPlus.
+
+Ticketing Tools: Service-now, BMC Remedy.
+
+Projects Executed:
+
+State of Georgia Oct’18 – till date
+Department of Education, G.A.
+Role: Senior .Net Full Stack Developer
+
+Financial Review application is supported to all the districts of Georgia state. This application is core for any county for financial assistance. Uses from each Districts uploads different files which needs encoding and decoding and has info regarding cost estimations, expenditure, budget, allocations and balance amount for each program. Each process needs amount calculations which need the approval of Coordinator, Superintendent and Program Manager.
+
+Responsibilities:
+
+•Analyze, Develop, Implement and Test Software Systems.
+•Design and Develop the Web Applications using all version of V5.NET, ASP.NET, .Net Core, C#.NET, MVC, SQL Server 2014, AJAX Controls, Telerik Controls, JQuery, JavaScript, Angular 2+, TypeScript, WebAPI, etc.
+•Enhance the functionalities of the Applications to be sure they will produce the desired information
+•and that the instructions are correct.
+•Design and Develop the MS SQL Server Databases. Write and maintain complex Queries, Stored Procedures, CLR Stored Procedures and Functions.
+•Write, update, and maintain MS SQL Server Database/SSIS/SSRS applications or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.
+•Prepare and maintain all project related documents such as application Architecture documents, Database design documents, Business requirements documents, System Specification Documents and enhancement documents.
+•Consult with managerial, engineering, and technical personnel to clarify program, identify problem
+•and suggest changes.
+•Perform systems analysis and tasks to maintain and control use of computer software as a systems programmer.
+•Used GitHub version controlling tools to maintain project versions supported the applications through debugging, fixing and maintenance releases.
+•Written and modified SQL queries, Joins, Stored Procedures, Views, Functions, Triggers, testing exception handlers, Cursors, tables in SQL Server.
+
+Environment: C#.NET, .Net Core, MVC, SQL Server 2014, AJAX Controls, Telerik Controls, JQuery, JavaScript, Angular 5.0,6.0,7.0, TypeScript, WebAPI, Angular 6.0, HTML 5.0, Bootstrap and CSS 4.3, Kendo Angular Control, Entity Framework 6.0, PrimeNG controls
+
+Delta, G.A. Feb’16 – Sep’18
+Role: Full Stack Developer
+
+Air cabin crew members provide excellent customer service to passengers while ensuring their comfort and safety throughout the flight. Crew is trained to deal with security and emergency situations which may arise and can administer first aid to passengers.
+
+Responsibilities:
+
+•Complete design and development of application using angular 4.0, TypeScript for responsiveness.
+•Develop user interface by using Telerik Kendo UI controls to develop front end UI to enhance user experience and usability.
+•Created reusable components/directives in Angular 4.0 to be used across the application.
+•Created application mock-ups and styling with Bootstrap and CSS 3.0
+•Implemented Kendo UI Grid and Date Picker controls.
+•Created individual modules, components and directives with single responsibility principle
+•Used GitHub for source code management.
+•Worked on the client issues to resolve them within stipulated SLA.
+•Involving in client discussions to understand the requirements.
+•Coordinating with the Offshore team and reviewing the code.
+•Making sure, all developers using application framework in application development.
+•Performance review of stored procedure by reviewing execution plans.
+•Triaging tickets between onshore and offshore teams, depending upon priority and duration of workaround.
+
+Environment: C#, Angular 2.0/4.0, HTML 5.0, Bootstrap and CSS 3.3, ASP.net, Kendo Telerik Control, Entity Framework 6.0, SQL Server 2014, Web API 2.0
+TMS June’14 – July’15
+Symphony Teleca + Harman Services, Bengaluru, India
+Role: Senior Product Engineer
+
+Symphony Services provides all its employees transportation facility as per the company guidelines. Transportation is provided from the employee's residence to workplace and vice-versa. Transportation is managed by facilities team of symphony services and involves processing, approving, and managing all the employee transportation requirements. Currently, employee transportation is managed manually, which is laborious, complex, time consuming and expensive activity.
+The Transportation Management System aims at automating all employee transportation requirements, thereby reducing the overall transportation cost to the company. The application includes modules to automate new transport requests (regular and shift), cancellation, renewal, shift transportation, late night transport and transport on request. All transportation requests are processed as per the organization guidelines.
+
+Responsibilities:
+
+•Analysis of the specifications provided by the clients.
+•Regular client interaction in order to understand the client requirements and attending to deadlines promptly.
+•Implemented the MVC 4.0 pattern in developing the .NET application.
+•Responsible for designing of UI, coding, Unit testing and writing Detailed Test Plan for the Project.
+•Developed Web based GUI using C#.net, Angular JS, HTML, CSS, Bootstrap and Grid Control extensively for Data.
+•Prepared and maintained ASP.NET user interfaces with Telerik controls.
+•Performed validations using JavaScript.
+•Extensive use of ADO.NET interfaces for connecting to database.
+•Writing complex stored Procedures involved in reports.
+•Fixing of the issues in the current production environment which have been raised by Product team and QA Team.
+•Was part of Bug Triage team to analyse the root cause of the issues reported.
+•Was involved in Grooming sessions where we discuss about the issues and brainstorm on technical implementations.
+
+Environment: C#, Angular JS, HTML, Bootstrap, CSS, MVC4, HTML, ASP.net, Telerik Control, ADO.Net, SQL Server 2012
+
+stTime Feb’14 – June’14
+Symphony Teleca + Harman Services, Bengaluru, India
+Role: Senior Product Engineer
+
+St Time management is a tool for monitoring and managing projects and tasks. Managers can use this tool to manage their projects, estimate timelines, baseline estimates, capture actuals, and allocate resources and reporting capabilities. Employees can use it to log, view, and modify their time sheets. It enables managers to view details of the time spent by a resource on a project and enables them to monitor and track the project-related activities. Based on country policy the tool supports time bank functionality. Time bank maintains employee’s flexi and travel hours. These hours can be used as flexible working hours or as Pay-out. This information will be flowing into billing tool. It helps in identifying billable, non-billable and bench resources
+
+Responsibilities:
+
+•Analysis of the specifications provided by the clients.
+•Involved in the understanding and development of application.
+•Analysed and fixed the defects for various modules in all the QA stages.
+•Handled production issues and enhancements to the existing functionalities.
+•SQL Database design including Tables, Creating Views and Store procedures.
+•Creating the UI design for the Application.
+•Involved in development of change requests for existing application.
+•Implemented .NET caching including output caching, and fragment caching.
+•Performed SQL tuning.
+
+Environment: C#, MVC4, HTML, ASP.net, JQuery, ADO.Net, SQL Server 2012
+
+Hanlon Management Information System Jan’13 – Feb’14 (Multiple Projects in this period)
+Service Corporation International: Infosys Ltd-Hyderabad, India
+Role: Senior System Engineer
+
+Service Corporation International (SCI) is North America’s largest provider of funeral, cemetery and cremation services, with annual revenue of over $ 1.8 billion USD and over 20,000 employees. We have designed and suggested the new ways to improve the usability of the application.
+
+Responsibilities:
+•Understanding the requirements and functionality of a project and developing modules according to it.
+•SQL Database Programming, Substantial development experience in creating Stored Procedures, Triggers and Functions.
+•Enhancement and modification of existing codes as per the requirement.
+•Analysis of the related Application.
+•Prepared detailed functional and system specifications & created Impact Analysis document.
+•Implementing Telerik Rad Controls for Date picker control.
+•Creating the UI design for the Application.
+•Involved in developing Integration and system test cases based on the business requirements
+•Involved in Unit testing & integration testing for verification of changes in functionality as per specifications.
+•Writing complex stored Procedures involved in reports.
+
+Environment: C#, HTML, Java Script, Telerik Rad control, Web Services, SQL server 2012, JQuery, Web services.
+
+GLOBAL PRICING TOOL Apr’11 – Jan’13 (Multiple Projects in this period)
+Infosys Ltd-Bengaluru, India
+Role: Senior System Engineer
+
+Request For Quote: Automation of Pricing and Quote management system at Underwriters laboratories.
+Global Pricing Tool project was designed and incepted to provide a quick and easy way to manage the pricing mechanism for the Underwriters laboratories’ (UL) clients. It involves developing a secure web application with rich user interface which will be accessed by UL clients from across the globe.
+
+Responsibilities:
+•Generate the workflows and develop the code using .NET as per the requirement.
+•Enhancement and modification of existing codes as per the requirement.
+•Analysis of the related Application.
+•Prepared detailed functional and system specifications & created Impact Analysis.
+•Implemented Web User Controls.
+•Implementing Telerik Rad Controls for Date picker control.
+•Preparing scripts using data upload tool using LLBL Gen Pro (third party tool) & Execution of Scripts & Test Cases as per Specifications.
+•Extensive usage of Toad and PL/SQL developer.
+•Deployed the application in IIS. Pushed the latest Exe through version tracker and
+provided detailed instructions for production control team.
+•Involved in developing Integration and system test cases based on the business
+requirements.
+•Involved in Unit testing & integration testing for verification of changes in functionality as
+per specifications.
+•Analysed and fixed the defects for various modules in all the QA stages.
+•Handled production issues and enhancements to the existing functionalities.
+
+Environment: C#, HTML, Java Script, LLBL Gen Pro (3.0), Aspose Excel, Telerik control, Web Services, Oracle 10g DB, Ajax Tool kit,
+
+ULMyHome (Google Appliances) Nov’10-Mar’11
+Under writer Laboratories: Infosys Ltd-Bengaluru, India
+Role: Senior System Engineer
+
+Generic Search Engine: (Wildcard entry search option) to search for the product details maintained by Underwriters laboratories.
+ULMyHome is a home page for all UL applications. UL is a major Safety certification firm which inspects the products for safety and lends its mark to the products. Under this project we have applications such as LIMS, PCS, MIP, DAP, SDWEB and PCD. Google appliances is a generic search engine and has been implemented to search for a specific product where it will fetch all related product types once matching result is found.
+
+Responsibilities:
+•Involved in System and Application Architectural Discussions for feasibility evaluation
+•Implemented search Engine and modification of existing codes as per the requirement.
+•Analysis of the related Application
+•Designed MyHome page as client specific application development policy and standards.
+•Designed Entity Relational Model for ULMyHome Module.
+•Developed core application framework using .net C# to accommodate ULMyHome business logging, exception management, Security and Roles.
+•Participated in meetings with various teams during requirements collection, design & implementation phases.
+•Extensive usage of Toad and PL/SQL developer.
+•Involved in development of change requests for existing application.
+•Involved in developing Integration and system test cases based on the business requirements.
+•Prepared Unit Test Plan & System test plans and performed testing.
+•Documented the User Manual explaining in detail the various flows of control.
+•Provided Production support
+
+Environment: Asp.Net MVC, C#, DMS, Java script, jQuery, SQL Server 2012, VS.NET 2012 & TFS.
+
+Shopping Mart May’09-Nov’10
+Nimble private Ltd: Hyderabad, India
+Role: Software Engineer
+
+Shopping Mart is e-commerce web application developed targeting web users who are interested in purchasing the products through online and not interested to visit the stores physically. To cater to the needs of end user, Shopping Mart displays the information pertaining to new/upcoming arrivals, top selling products, promotional products etc. in the web store along with sending an email alert. Shopping Mart provides an option for users to subscribe to the Shopping Mart newsletter, new arrivals, participate in providing the suggestion to improve the user experience, site design etc.
+
+Responsibilities:
+•Involved in Development of Shopping Mart modules.
+•Developed ADO.Net components to access database objects Stored Procedures and Views.
+•Used ASP.Net custom Data grid control for Auto-Filtering, Sorting, Paging, Drag and Drop columns, addition and update of rows.
+•Creating Provision for Uploading and Downloading of Files.
+•Implemented .NET caching including output caching, and fragment caching.
+•Implemented the 3-Tier Architecture in developing the .NET applications
+
+Environment: C#.NET, ADO.NET, SQL Server 2008
+
+Customer Service Desk Nov’08-Apr’09
+Nimble Soft Ltd: Hyderabad, India.
+Role: Software Engineer
+
+The Customer Service Desk is a web-based project. Customer Service also known as Client Service is the provision of service to customers. Its significance varies by product, industry and domain. In many cases customer services is more important if the information relates to a service as opposed to a Customer.
+An online comprehensive Customer Care Solution is to manage customer interaction and complaints with the Service Providers over phone or through and e-mail. The system should have capability to integrate with any Service Provider from any domain or industry like Banking, Telecom, Insurance, etc.
+
+Responsibilities:
+•Involved in Module Development of Customer Service Desk modules.
+•Involved in creation of application setup and validations were performed using JavaScript.
+•Implemented the 3-Tier Architecture in developing the .NET applications.
+•Extensive use of ADO.NET interfaces for connecting to database.
+•Developed Web based GUI using C#, ASP.net; Used Data Grid, Data List Control extensively for Data, Reports and Image display.
+
+Environment: C#.NET, ADO.NET, SQL Server 2005, JavaScript, JQuery, VS.NET, VSS.
+
+Contact this candidate

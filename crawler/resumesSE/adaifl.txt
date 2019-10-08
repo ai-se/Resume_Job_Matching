@@ -1,0 +1,139 @@
+
+Badari Narayana
+Phone: +91-953******* E-mail:adaifl@r.postjobfree.com
+
+CAREER OBJECTIVE
+Seeking assignments in Software Development with a growth oriented IT organization
+SUMMARY OF PROFESSIONAL EXPERIENCE
+Over 9 years of experience in IT Software Engineering.
+Over 9 years of experience in analyzing, designing, developing and tuning databaseapplications using MS SQL Server 2014/2008R2/2005/2000
+
+Over 1 year of experience in web application and windows development using .NET
+
+Specific strengths include:
+
+Experience in T-SQL, creating Tables, Stored Procedures, Views, Indexes, Cursors, Triggers, and User Defined Functions as a SQL Developer.
+
+Experience in performance tuning in SQL Development
+
+Over 9 years of experience in SSIS Development, Deployment, Schedule and Migration (ETL)
+
+Over 2 years of experience in SSRS Development and Deployments
+
+Expert in Developing SSIS Packages to Extract, Transform and Load (ETL) data into the Data warehouse from Heterogeneous databases such as MYSQL and MS Access.
+
+Experience in Extracting, Transforming and Loading (ETL) data from Excel, Flat file to MS SQL Server by using SSIS services
+
+Experience in Application Development Analysis, Requirement Analysis, Scoping, Developing, Debugging, Testing and Documentation of various phases in a project life cycle of Client/Server Applications.
+
+Extensive SQL Development experience with Financial Modules in Real Estate industries with a strong understanding of data & analytics.
+
+Proficient at Performance Tuning with a solid knowledge of Optimizing Code
+
+Experience in interacting and leading the both onsite and offshore teams.
+
+EDUCATION
+B.Techfrom AnnaUniversity.
+
+PROFESSIONAL EXPERIENCE
+
+Working as Software Dev Senior Analyst with NTTDATA, Bangalorefrom August 2016 to Present.
+Working as Software Dev Senior Analyst with DELL, Bangalorefrom DEC 2012 to August 2016.
+Worked as Senior Engineer – Software with TEK Systems, Bangalore from OCT2011 to DEC 2012.
+WorkedasSoftware Engineer withSourceNIndia Pvt Ltd, Chennaifrom OCT 2010 to OCT 2011.
+
+TECHNICAL SKILLSET
+
+Database : SQL Server-2014, 2008R2,2005
+Language : T-SQL, SQL, C#, VB.Net
+Distributed Tools : Visual Studio 2008/2005, SQL Server Data tools for VS 2012
+Version Controller : TFS
+
+KEY PROJECTS INVOLVED
+DELL, Bangalore
+
+Project 1:
+
+Title :JLL- PORTFOLIO
+Role : Sr. SQL Developer
+Client(s) :Jones Lang LaSalle
+Platform :SQL SERVER 2014/2008R2
+
+Scope:
+
+PORTFOLIO is a full-feature, single-source, lease administration database site. It gives users 24/7 online access to their global portfolio data and reports. It’s easy, accurate and powerful; saving money, time and resources.
+OneView Lease Administration is part of a suite of online tools that provide clients the kind of business intelligence they need to reach their goals. OneView Lease Administration seamlessly integrates with other Jones Lang LaSalle’s systems and can connect to client financial systems to trigger automatic payments.
+OneView Lease Administration can be accessed directly or through Jones Lang LaSalle’s OneView Portal, providing secure and tailored content based on a user’s role.
+Some of the benefits of OneView Lease Administration includes providing users with deep portfolio analysis of lease administration, closely monitor costs, and manage key events. The system can also help users track area utilization and is a truly global system with easy online access including mobile access.
+
+Responsibility:
+
+Analyzing and discussing the requirements with onsite people on the functionality.
+Participate in Walk-through sessions with onsite people
+Designed and Implemented Tables, Functions, Stored Procedures andTriggers in SQL Server
+Performance Tuning
+Creating and deploying SSIS Packages and SSRS Reports
+Leading the team activities
+Analyzing and developing business critical dashboards based on client requirement.
+Module leadof JP Morgan,Bank of America,Telstra,and Deutschebank Clients in JLL and have guided the team effectively to exceed customer expectations.
+Working closely with customers and internal team in testing and bug fixing data issues.
+
+Project 2:
+Title :Experian –Credit Online
+Role : SQL Database Developer& Web Developer
+Client(s) :Experian, Australia
+Platform :SQL SERVER 2008R2, C#, ASP.Net 3.5
+
+Scope:
+
+This project is aimed to provide banks, financial institutions and other financial companies, information about an individual/ a company that requests the banks or financial institutions or other financial companies for a loan/ some kind of financial service. This project will generate an invoice about an individual/ a company and provided to banks and other financial companies that requests the data and thereby providing better service to the consumer or a company.
+
+Responsibility:
+Understanding the functional specification & Use Case documents
+Creating database objects like stored procedure, Function, triggers, views
+Query performance Tuning and review
+Handling Technical discussion with clients
+Handling Change Management and SQL code deployments
+
+SourceN India Pvt Ltd Bangalore
+Project 3:
+
+Title :Microsemi
+Role : SQL Developer,SSIS Developer
+Client(s) :Microsemi
+Platform :SQL SERVER 2008,SSIS 2005/2008
+Scope:
+
+Microsemi Corporation a comprehensive portfolio of semiconductor and system solutions for aerospace & defense, communications, data center and industrial markets. Products include high-performance and radiation-hardened analog mixed-signal integrated circuits, FPGAs, SoCs and ASICs; power management products; timing and synchronization devices and precise time solutions, setting the world’s standard for time; voice processing devices; RF solutions; discrete components; enterprise storage and communication solutions, security technologies and scalable anti-tamper products; Ethernet solutions; Power-over-Ethernet ICs and midspans; as well as custom design capabilities and services. Microsemi is headquartered in Aliso Viejo, Calif., and has approximately 4,800 employees globally.
+
+It’s a website redesigning project. Our task is to migrate 85,000 parts information from legacy database to new Drupal System/website and synchronizing back to legacy database using SSIS.
+
+Responsibility:
+
+• Developed, deployed and monitored SSIS Packages for new ETL Processes and upgraded the existing DTS packages to SSIS for the on-going ETL Processes.
+• Importing Source/Destination tables from MYSQL to MSSQL server databases by using ADO.net Source Destination and ScriptConmponent Tools.
+•Handling Technical discussion with clients
+• Scheduled SSIS Package (Daily) using Sql server Management Studio2008.
+• Involved in Writing the Unit Test Cases.
+• Performing Unit Testing.
+Project 4:
+
+Title:GLOCO DENTAL System, Malaysia
+Role: SQL Developer
+Platform:SQL SERVER 2008R2, C#, ASP.Net 3.5
+Scope:
+Gloco Dental system is an effective Solution for the modern Hospital management system.
+
+In This Management is registered with the help of patient registration form. The patient automatically generates a queue number which helps in order of priority for the patient and next the patient is placed in patient queue by the help of patient queue form. After the patient is successfully placed in patient queue. Depending on the queue number, patient will get treatment. In the patient notes form we get different details of patient like personal information, Type of Disease, Type of Treatment, and Case Priority (emergency, normal etc.).Along with data in datagridview. We made operations in the master level regarding information in the dropdown list, List boxes etc. it will schedule the appointments schedule by using schedule details.
+
+Responsibility:
+
+Creating database objects like stored procedure, Function, triggers and views
+Involved in Release and deployment managements
+Designed web application in .Net framework using C#.Net and ASP.Net.
+Developed Functional & Data Access Classes for all Web user Controls.
+Developed data connection between the front ends to back end using ADO.NET 2.0, SQL 2005.
+Used ADO.NET (Data Access Application block) extensively for data retrieving, querying, storage, and manipulation for achieving disconnected database connectivity.
+Attending Tech calls & Defect Triage meetings.
+
+Contact this candidate

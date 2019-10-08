@@ -1,0 +1,87 @@
+
+SANTHOSH KUMAR
+adahnn@r.postjobfree.com 814-***-****
+
+About Me
+2.5+ Years of experience in Manual Testing & Data base testing. Currently, working as a Software Quality Engineer with “Vaco Binary Semantics LLP”, Chennai from Feb 2019.
+
+Professional Summary
+Manual, Database & ETL testing for Web Applications.
+Extensive work experience on Functional & Non-Functional, Blackbox, Database Testing Etc
+
+Functional experience: -
+●Health Care - Web Application
+●E-publishing – XML Professional Publisher (Legal Research Documents)
+
+Work History
+Software Quality Engineer, 02/2019 to present
+Vaco Binary Semantics llp, Gurgaon
+Work Location: LexisNexis, Chennai
+●functional requirements and specifications into scenarios, test cases and steps
+●Perform CI/CD for LexisNexis products
+●Perform Data integrity testing for E-publishing
+●Maintaining & developing Websites, analysing bugs and interacting with development team members in fixing the defects.
+Engineer – Application management, 04/2018 to 08/2018
+Thinkapps Pvt Ltd, Mumbai
+Work Location: Wipro, Guindy,TN
+●Interacting with on –Shore team over telephone to better understand on errors of ETL
+●Verifying the Source to target Database, Data accuracy testing
+●Clearing the Defects using the Unix for ETL jobs
+●Tracking defects for ETL jobs and reporting in EPIC tool
+Analyst, 02/2018 to 04/208
+The Deal India pvt ltd, Chennai
+●Generating reports to the BoardEx company
+●Collecting and assimilating data and interpreting it to identify changes and forecast the trends
+●Presenting data to the clients
+●Analyzing and researching the subscribers of BoardEx
+Associate Software Engineer, 01/2016 to 05/2017
+Accenture Solutions Pvt Ltd, Chennai
+●Execute test plans manually and conduct manual functional and UI testing
+●Identifying issues, risks and dependencies escalating and managing where appropriate
+●Data validations testing and data manipulation using MySQL
+●Prepared lessons learnt documents from the previous project testing experience
+● Prepared best practices documents and published it to the other teams
+
+Project History
+Title : RBS 2.3
+Period : Jan 2016 – May 2017.
+Environment : Web Application – HealthCare.
+Description : To test a modification to CIGNA’s application to ensure they are fit for purpose, consistent, and
+compliant with published standards and guidelines. RBS UI applications are used to calculate the
+Claims and Rebates of contractors and ndc companies. Testing the UI and the Back end data using
+MySql for Rbs .
+
+Title : Clarity ETL
+Period : September 2017 – February 2018
+Environment : Web Application – HealthCare
+Description : Maintaining E-records of patients and converting raw information into structured report.
+Tracking ETL jobs and tables for HI, ROCS, SCAL, NCAL,NW,GA,CO regions and Verifying the
+Source to target Database, Data accuracy testing .
+
+Title : LN Advance
+Period : Feb 2019 – Present
+Environment : E Publishing – Legal Documents
+Description : Testing the company product based on the laws and legal information in agile methodology for
+Aus and NZ regions.
+
+Technical Skills
+MySQL
+Unix
+Functional, Manual and ETL testing
+
+Education
+BCA, 2011-2014
+Patrician college of arts & science, Chennai (68%)
+
+Personal Details
+Father’s Name : Ganesan
+DOB : Aug 17th, 1993
+Language : Tamil, English
+Address : No:L-6, 5th street,Govindan nagar,palavakkam,chennai-41.
+
+Declartion
+I hereby declare that all the above statements are true to the best of my knowledge and belief.
+
+Santhosh Kumar
+
+Contact this candidate

@@ -1,0 +1,140 @@
+
+SUSHANT ASHOK ULAVI
+
+Mobile: +91-823*******
+Email: ac93z2@r.postjobfree.com
+
+Career Objective
+To have a growth oriented career and gain experience through continuous learning and teamwork.
+
+Software Proficiency
+CATIA V5 R20:Part Design,Assembly,Generative Shape Design,DMU Analysis,
+Drafting
+UG NX 12.0
+Creo 4.0
+Teamcenter:User level,BMIDE
+MDAT software of Maynard Operation Sequence Time (MOST)
+Office suite: MS-Excel,MS-Powerpoint,MS-Word.
+
+Plastic Product Design Automotive Domain Training
+Completed 8 months training on Plastic Product Design in automotive domain.
+Creation of fully parametric 3D modeling and surfacing parts.
+Analysis of styling input with consideration of tooling feasibility.(Surface feasibility, draft analysis and radius curvature analysis.)
+Making the close volume from the style A surface maintaining the uniform wall thickness and tangent continuity.
+Creation of closed volume using sections.
+Re-mastering in part design parametric modeling from non-parametric components.
+Designing and locating B side features like doghouse, clip tower, snaps, ribs, welding cylinder etc., addition of sink mark traps for features and use of sliders and lifters considering undercuts.
+Creating PowerCopy of locating features on B-side surface.
+Extraction of parting line for different parts and features.
+Style replacement of closed volume parts.
+
+Projects Completed During Training:
+
+a) Door Trim Parts
+Parts Details: - Lower Door Trim, Map Pocket, Switch Bezel
+Software: - CATIA V5
+Roles And Responsibilities: -
+Class A surface feasibility within part and with respect to environment data.
+B side surface and C closing surface development and B side feature( Welding cylinder, clip tower, ribs, snaps, screw boss etc.) development.
+Adding fixations by considering RPS.
+Adding strengthening ribs.
+Avoiding plastic defects by sink mark traps.
+Extracting parting line.
+Checking of all parts for draft analysis, tooling feasibility and clash analysis.
+
+b) IP Parts
+Parts Details: -End Cap Cover LH-RH,Radio Bezel, Air Bag Cover,Glove Box
+Software: - CATIA V5
+Roles And Responsibilities: -
+Class A surface feasibility within part and with respect to environment data.
+B and closing surface development and feature development.
+Adding fixations by considering RPS.
+Adding strengthening ribs.
+Avoiding plastic defects by sink mark traps.
+Extracting parting line.
+
+Work Experience
+
+1) Company name: Wilo Mather and Platt Pumps Pvt Ltd,Chinchwad 24/07/2017 - 23/07/2018
+Role:Graduate Apprentice Trainee
+
+Duties and Responsibilities
+Adjust manpower considering absentism and urgencies.
+Attended and resolved techincal problems of machine shop.
+Co-ordinated with other departments regarding quality, maintenance and design problems.
+Monitored the critical shortages required by production on daily basis.
+Ensuring all necessary operations are performed on the parts before sent to final inspection.
+Assisted in implementation of Maynard Operation Sequence Time (MOST) project.
+Calculated content of work(CW) and cycle time(CT) using MDAT software in MOST project.
+Exposure to SAP through various transactions.
+Calculated daily OEE of critical machines.
+
+2) Company name: HCL Technologies(formerly Geometric Ltd) 21/11/2016 – 21/07/2017
+Role:Associate (Intern)
+
+Roles And Responsibilities:
+Completed training on Teamcenter modules such as My Teamcenter, Structure Manager, Workflow Designer, Workflow Viewer, Query Builder, Access Manager, Classification, Organization,BMIDE etc.
+Completed basic C++ training.
+Completed miniproject on Document Management during training.
+Resolving tickets raised by users like Teamcenter installation, login, restarting of services,TcVis errors,CATIA errors.
+Upgrading and patching CATIA and Teamcenter.
+
+3) Company name: TATA MOTORS CBVU Ltd.,Pimpri 1/06/2015 - 29/06/2015
+Role:Intern on project ‘Utilization of CNC Machines Monitoring’ in Production Engineering Department.
+
+Activities done during internship:
+Studied different CNC machines in production section.
+Time and work study was carried out.
+Complex tasks of CNC machines was divided in small steps and sequence of movements taken by operator was carefully observed and its time was noted. From the observations and readings, wasteful motions and loss of time for machining was detected and improvements were suggested.
+
+B.E Final Year Project
+Completed B.E final year project on ‘Design and Analysis of Intake and Exhaust System of Car.’
+
+Details:
+Designed an intake system which has 20mm restrictor and to minimize pressure losses at end of restrictor.
+Selected throttle body and tuned it so as to give sufficient amount of mass flow rate.
+Optimized air flow through runner into engine intake manifold.
+Noise level of car was reduced to 100 dB which should not exceed 110dB according to SAE rulebook.
+
+Academic Qualification
+Course
+Institute
+University/Board
+Year of passing
+Percentage
+Award
+B.E
+(Mechanical)
+
+DY Patil College Of Engineering
+Akurdi
+Savitribai Phule Pune University
+2016
+66.33
+First class with Distinction
+H.S.C
+SMV Junior College Akurdi
+Maharashtra State Board Pune
+2012
+78.67
+Distinction
+S.S.C
+CMS English Medium High School
+Maharashtra State Board of Secondary and Higher Secondary Education, Pune
+2010
+84.73
+Distinction
+
+Extra-Curricular Activities
+Give speeches and take roles at meetings of Toastmaster Club.
+Volunteering at Tantrotsav 2014 event in college campus.
+Participated in debate competition organized in college.
+Actively participated in various sports activities at college level.
+
+Personal Profile
+
+Languages Known : English, Marathi, Hindi, Kannada
+Permanent Address : Block-13A,Telco Hsg. Society-4, Pradhikaran, Sector no-28,
+Nigdi, Pune-411044
+
+Contact this candidate

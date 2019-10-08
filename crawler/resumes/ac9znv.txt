@@ -1,0 +1,69 @@
+
+CHRIS (Decong) YU
+Data Analyst, Python Developer, Geoscientist
+Calgary, Alberta T3A 1R9
+Mobile: +1-403-***-**** Email: ac9znv@r.postjobfree.com
+
+SUMMARY
+
+Strength: Experience in data quality assurance, data visualization, data analytics, scikit-learn machine learning, and full stack python web application development. Understanding full cycle of oil upstream business with extensive asset evaluation, economic modeling and business analytics experiences in Canada and internationally.
+Initiation and continuous development: Initiated Esri GIS program for GEOSEIS. Developed oil and gas asset economic evaluation program. Perfected data visualization and data analytics skills.
+Leadership: Project lead, Technical Manager of GEOSEIS, Chief Geologist of major Sinopec branch and Exploration Manager of Sinopec Xinjiang.
+Professional Designation: P. Geo. (Professional Geoscientist with APEGA)
+Technical Proficiencies
+Python, SQL, Flask Framework
+HTML, CSS, JavaScript
+Skit-learn Machine Learning
+MS Excel, TIBCO Spotfire, Power BI
+Data and Business Analytics
+Data management and interpretation
+Economic modeling, Project Management
+Upstream oil business data processing
+
+EXPERIENCE
+
+Alconsult International Ltd and GEOSEIS Inc., Calgary 2014.7-present
+Senior Geosciences Consultant (contract)
+Applied machine learning analytics to identify shale play sweet spots and optimize shale well completion parameters for Montney development program. Presented a condensed version of oil and gas shale play analytics project on the 2019 GeoConvention (May 13).
+Deployed shale Python analytics pre-trained models to AWS (Amazon Web Services) applying Flask framework.
+Apply machine learning to automate petrophysical data (well data) interpretation and reservoir property assessment.
+Completed production prediction application (Arps Equation regression for production decline curve).
+Many simple statistic, online data searching/downloading and dashboard display programs coded in python.
+Conduct routine TIBCO Spotfire data visualization and analytics. Share G&G data among Spotfire, ArcGIS and G&G interpretation packages.
+Carry oil and gas subsurface data analytic result interpretation and make recommendations to clients.
+
+PETRONAS, Malaysia 2012.3-2014.7
+Senior Geoscientist
+Exploration prospect resources and new discovery reserves data management and updating.
+Oil and gas exploration strategy advising and regional exploration data interpretation.
+
+GEOSEIS Inc., Calgary 2008.3-2012.2
+Senior Staff Geologist and Manager of Geological Services
+Lead of the ArcGIS projects in Canada, South America, Europe, Middle East and Africa.
+Utilized TIBCO Spotfire (a BI tool) for data visualization and analytics in the subsurface data interpretation projects.
+Prepared project proposals, work program and budget programs, and subsurface data analytics (ArcGIS and Spotfire) for oil operator clients.
+Oil asset economic modeling (MS Excel and Spotfire) for new venture projects.
+Led G&G interpretation and supported field operations for junior oil operators in South America, Canada, Yemen and Africa.
+
+Teknica Overseas Ltd, Calgary 2006.1-2008.2
+Geosciences Consultant
+Designed GUI (graphic user interface) for Seislog+ G&G interpretation and inversion application.
+Developed FORTRAN algorithms to add new functionalities to the Seislog+ G&G package.
+Carried out seismic interpretation and inversion projects.
+
+Sinopec China 1992.5-2005.7
+Chief Geologist, Exploration Manager, Operations Geologist
+Conducted international oil asset evaluation and acquisition, Developed oil asset economic modeling tool (MS Excel).
+Domestic and overseas oil field operations.
+
+EDUCATION
+
+Master of Science, Geology, China University of Petroleum, Beijing, 1992
+Bachelor of Engineering, Petroleum Prospecting, China University of Petroleum, East China, 1988
+
+AFFILIATIONS
+
+Association of Professional Engineers and Geoscientists of Alberta (APEGA)
+Society of Canadian Unconventional Resources (SCUR)
+
+Contact this candidate

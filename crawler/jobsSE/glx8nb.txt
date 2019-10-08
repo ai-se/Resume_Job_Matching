@@ -1,0 +1,19 @@
+
+Must have experience -
+Hadoop
+SQL
+Hive
+Scala
+Python
+Spark
+ETL
+Some Data Modeling
+Should have ETL DWH background
+Shell scripting
+
+Contract
+12 Months
+
+
+Apply now
+

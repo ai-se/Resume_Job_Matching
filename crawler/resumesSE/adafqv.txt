@@ -1,0 +1,90 @@
+
+Remya Krishnan Kutty Page * of *
+REMYA KRISHNAN KUTTY
+***-*** ****** **. ********, Ontario L6K 0H7 +1-201-***-**** adafqv@r.postjobfree.com LinkedIn.com/in/remyakk/ SUMMARY
+Customer focused and technology independent Software Quality Engineering & Assurance Management
+12+ years of industry hardened experience managing quality of global business critical applications
+Outstanding track record of surpassing customer and organizational expectations in all engagements
+Managed multiple projects/programs concurrently with multi-location teams (Global Delivery)
+Institutionalized best practices, innovative ideas and process improvement initiatives
+Directed teams and collaborated with diverse stakeholders to streamline operations
+Exceptional strategist with notable success in end to end project planning and execution
+Dynamic leader with expertise in articulation of high level objectives and enterprise vision
+Excellent written and verbal communication capabilities enabling effective business communication
+Confident, dependable, adaptable, smart worker without compromising on integrity and ethics
+Recipient of several departmental and organizational awards and customer accolades AREAS OF EXPERTISE
+Quality Engineering and Assurance
+Software Testing Life Cycle
+Exploratory/Functional/Regression Testing
+Responsive/Mobile Testing
+API (SoapUI) Testing
+Automation (Selenium) Testing
+Agile/Scrum/Kanban/JIRA
+Defect Lifecycle Management
+Requirements Development
+Behavior Driven Development (BDD)
+Continuous Integration (CI)
+Global Project Delivery
+Production Deployment Planning
+Resource/Team Management
+EDUCATION / CERTIFICATIONS / INDUSTRY AFFILIATIONS
+Project Quality Management (2019) LinkedIn Learning
+Foundation for Successful Test Automation (2019) Test Automation University
+TestBash New York Conference (2015) Ministry of Testing
+Diploma in Project Management (2013) Alison – Project Management
+ISTQB Certified Tester (2007) International Software Testing Qualifications Board
+Bachelor of Computer Applications (2006) University of Calicut EMPLOYMENT HISTORY
+Quality Assurance Lead SpringerNature – New York, NY USA Oct 2008 – May 2019
+Software Quality Consultant Bluefly, Ogilvy Health – Edison, NJ USA Nov 2007 – Oct 2008
+Assistant Engineer – Testing Infosys – Bangalore, KA India Jul 2006 – Oct 2007 Remya Krishnan Kutty Page 2 of 2
+PROFESSIONAL EXPERIENCE – SUMMARY
+Role Duration Organization QA Tools
+QA Lead
+Oct 2015 – May 2019
+(3 Years 8 Months)
+SpringerNature
+(Scientific American)
+JIRA, Selenium, Ruby, Github, Rubymine
+(IDE), Rspec, Chrome DevTools, SitePrism,
+Mura, Slatwall, Pugpig Distribution Service,
+Silverpop, Slack, Diffux, Google Analytics,
+Browserstack, Litmus
+QA Lead
+Oct 2008 – Sep 2015
+(7 Years)
+SpringerNature
+(Nature Research)
+JIRA, SoapUI, Github, Selenium, Cucumber,
+Gherkin, Java, Trello, Browserstack, Litmus,
+Basecamp, Pivotal Tracker, Confluence, Rest
+Client, Oxygen, Feedreader, Webtrends,
+ShowIP, HttpFox, LiveHttpHeader, Firebug,
+Putty, WinSCP, DBVisualiser, ReadCube
+QA Consultant
+Nov 2007 – Oct 2008
+(1 Year)
+Bluefly and
+Ogilvy Health
+Remedy, Quality Center, WinRunner,
+LoadRunner
+QA Analyst
+Jul 2006 – Oct 2007
+(1 Year 3 Months)
+Infosys (Houghton
+Mifflin Harcourt)
+IBM Rational Clearcase, Test Director, Quick
+Test Professional
+PROFESSIONAL EXPERIENCE - KEY ACCOMPLISHMENTS
+Successfully led and managed a team of QA Analysts to own, plan and complete end to end quality assurance activities for business-critical technology projects and programs such as: o Implementation of Scientific American’s ecommerce platform with redesigned user experience, enhanced shopping cart and checkout process, simplified customer information pages, improved self-service account management, redesigned subscription management, seamless integration with order fulfillment systems, enhanced security and multi-language capabilities o Technology initiatives for Scientific American such as AWS migration, Mura upgrade, Slatwall upgrade, Android/iOS apps, Webtrends Analytics to Google Analytics, Search, Site License/Institutional Access, Metered Paywall, Subscription Management, Product Launches o Industry leading projects for Nature.com such as Pay per View and Access Control Management, Rialto (Invitation system for authors to join Loop - Frontiers Research Network), Manuscript Tracking System, Author Engagement, DRUM – Database Rebuild and User Management with APIs
+Hired new project members and provided knowledge transition of business functions and ongoing projects
+Mentored and guided QA team to perform software testing using acquired domain and technical expertise
+Collaborated with stakeholders to liaise between business and technology teams to outline technical solution and ensure alignment with enterprise wide vision and smooth project execution
+Interpreted business needs and translated into application specific detailed use cases and screen flows
+Articulated application changes to support business requirements based on an appreciation of the current and ideal future state of the application by understanding core functionality, critical interfaces, data flow and underlying architecture of business solution
+Created test strategy and performed Exploratory, Functional, Regression, Responsive, Performance, Accessibility, API and Automation Testing as well as sanity check of critical business functions for releases
+Partnered with all stakeholders to execute agile projects in Scrum and Kanban methodologies
+Managed defect tracking to closure, coordinated user acceptance testing and planned release schedule
+Streamlined QA processes to continuously improve test efficiency and maintained all QA documentation, policies and procedures in Jive based enterprise social intranet platform
+Provided regular QA status updates to technology and business leadership for all ongoing projects and final QA sign off for all deployments to staging and production
+
+Contact this candidate

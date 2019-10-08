@@ -1,0 +1,42 @@
+
+Enterprise Security Solutions Engineer (Email) - Long Term Employment - Raleigh, NC 27607.
+Provide technical leadership to deliver enterprise security architecture, engineering, and implementation. This role is action and solution oriented with an emphasis on email protection.
+- Experience with architecting, implementing and operating email protection services in large enterprises:
+- Boundary messaging gateways
+- Symantec Imaging and Imaging Suite (nice to have)
+- Security add-on tools for Microsoft Exchange
+- End-point solutions targeted specifically for email protection
+- Provide guidance and leadership to determine, develop, plan, test, and implement email protection and security requirements for the enterprise
+- Collaborate with business and IT staff to understand strategic and tactical business, application, or service requirements, then translate those into securely designed solutions
+- Ability to propose and implement creative solutions to eliminate malicious (e.g. phishing) and unwanted email (e.g. spam, graymail )
+- Provide complex technical guidance, oversight, and enforcement of security directives, policies, standards, plans, and procedures
+- Cross-functional understanding of email operations, security practices and the user experience
+- Develop project documentation including detailed security plans, security architecture designs, detailed security implementation and deployment plans, test plans, and security-focused operational procedures and training materials
+- Prepare justifications and business cases for recommendations on Cybersecurity initiatives
+- Good communication skills, both oral and written
+- Develop and present program status / metrics to USPS management
+- Identify roadblocks and propose effective solutions
+- Provide guidance on integrating Presidential Executive Orders and governmentally mandated security controls into the strategic email security plan
+- Bachelor s degree in a technical field required; Master s degree in related field preferred.
+- 8+ years of proven experience improving enterprise messaging systems and reducing email threats and unwanted messages
+EXPERIENCE LEVEL:
+Bachelor s degree from an accredited college in a related discipline, or equivalent experience/combined education, with 9 years of professional experience; or 7 years of professional experience with a related Master s degree; or 5 years experience Required with a related PhD or JD. Considered career, or journey, level.
+EDUCATION:
+Must possess a Bachelors Degree or Masters Degree, PhD or JD in Computer Science, Information Technology or Information Security
+CERTIFICATIONS: (One or more required)
+-CompTIA Security +
+-CPTE - Certified Penetration Testing Engineer or CEH - Certified Ethical Hacker
+-CISA - Certified Information Systems Auditor
+
+Suresh G
+Talent Acquisition Specialist
+Northwest Software, Inc.
+
+One World Trade Center, 121 Southwest Salmon Street, 11th Floor,
+Portland, OR 97204
+
+Permanent
+
+
+Go to apply 
+

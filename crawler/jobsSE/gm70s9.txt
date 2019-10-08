@@ -1,0 +1,13 @@
+
+Role: Ping Federation Tier 3 Support Engineer Location: Indianapolis, IN Duration: 6+ Month Interview: Phone & Skype Responsibilities: The Federation Services team is responsible for the administration and operation of the PingFederate and PingID platform and the support of federation services for the client s users and 3rd party vendors.
+Federation services will work with other IDM services to effectively create a solution to meet the user s needs.
+Troubleshooting across service offerings will be necessary as well as working with external 3rd party technical staff.
+The team is responsible for the design and execution of LCM, security, and product enhancement projects for the platform.
+Job Responsibilities include: Management and administration of the PingFederate application Management and administration of the PingID cloud application Project design and implementation Consult with customers on how best to create a federated integration to meet their needs Consult with client personnel on future needs and service functionality Work with vendor on application issues and future enhancements Troubleshoot user and auto generated incidents Creation of scripts (PowerShell) to automate job duties and improve processes Scripting OGNL expressions within PingFederate Creation of federated integrations based on customer and vendor needs Creation of authentication policies Security patching of platform Participate in an on-call rotation (US Only) Maintain quality documentation Create and maintain service catalog forms Required Skills: Basic Windows Server knowledge Basic networking knowledge Knowledge of SAML and OAUTH federated protocols Customer service skills both written and verbal Ability to communicate professionally with multiple levels of responsibilities Friendly and personable demeanor Be a team player Having the ability to multi-task efficiently Must be fluent in English Nice to Have Skills Experience with JAVA (JVM) Experience gathering design requirements and executing project plans Experience consulting and designing solutions for customers Experience with directory services including LDAP queries Knowledge of firewall and load balancing technologies Scripting experience (ex.
+PowerShell and OGNL) Experience with JSON and XML Previous experience of Federated Authentication applications (ex.
+PingFederate) Experience with HTTP tools (ex.
+Fiddler, SAML Tracer) Knowledge of SSL and signing certificates Experience with Splunk Experience with HTTP and Windows monitoring and alerting
+
+
+Go to apply 
+

@@ -1,0 +1,34 @@
+
+Please call Ritesh on for more details
+About the Role:
+Make architecture and technology choices for the backend, design, build and implement.
+Be comfortable working in a product development environment, building version 1.0 from scratch.
+Passionate about delivering high-quality user experience.
+Self-starter, strong sense of ownership, gets things done.
+Capable of making timely decisions while dealing with uncertainties & inadequate information.
+Commitment to building products that dazzle and have fun doing it.
+Experience in a startup environment / agile development environment a plus.
+
+Technical Requirements:
+At least 4+ years of backend systems and services development experience, Hands-on experience is a must.
+Strong knowledge of object-oriented programming and design.
+Proficiency in at least one of the following - Java, Python, Ruby.
+Strong knowledge and hands-on experience using modern databases.
+Solid understanding of backend technologies, development frameworks, server-side architecture, containerization
+Fluent in JSON and building REST APIs
+Strong background and experience in using git, version control, performing code reviews and comfortable working in an agile environment.
+Experienced in CI / CD.
+Strong experience with Unit Testing and automated testing frameworks.
+
+Bonus if:
+Holds a B.S., M.S., in Computer Science
+Worked on a successful product that has touched millions of consumers
+Previous start-up experience is a plus
+Experience with Amazon Web Services
+Willing to hustle
+
+Permanent
+
+
+Go to apply 
+

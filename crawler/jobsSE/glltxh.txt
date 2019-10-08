@@ -1,0 +1,62 @@
+
+The Technology Strategy & Architecture Organization is looking for a passionate DocOps Engineer to help support our tech community's learning culture. DocOps is the inclusion of documentation within the Agile and DevOps lifecycle. You will build and operate enterprise-wide web applications and foundational tooling platforms that enable engineering and operations to work more efficiently and collaboratively. In our highly-collaborative environment, you will have the opportunity to continually grow as an engineer, and even help mentor others get to your level.
+
+Here at Ultimate Software, we truly put our people first. We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential. Ultimate is ranked #1 on Fortune's Best Places to Work in Technology for 2019 and #8 on the 100 Best Companies to Work For list in 2019. Ultimate is also ranked #1 on Fortune s 75 Best Workplaces for Women and #5 on its Best Workplaces for Diversity list.
+
+Primary/Essential Duties and Key Responsibilities:
+
+Design, implement, enhance, operate, and support tooling
+
+Centralized Internal Technical Documentation Platform
+System Catalog
+Tech Inventory & Radar
+Modeling & Visualization
+Enterprise Architecture
+Continuously improve Technical Documentation strategy
+Partner, collaborate, and pair with engineering teams to simplify adoption and onboarding of toolset and overall guidance
+Curate documentation in support of simplifying usage and operations of toolset
+Promote, champion, and support a write-the-docs culture/mindset across the tech community
+
+Required Qualifications:
+
+(Knowledge, Skills and Abilities)
+
+Software Development experience with JavaScript, Java, Go, NodeJS, C#
+Proficiency with bash/shell scripting on a Linux platform
+Proficiency with source control technologies; specifically Git
+Understanding and experience with Docker
+Understanding and experience with Continuous Integration tools (e.g. Teamcity, Concourse, Jenkins)
+Understanding and experience with Cloud development infrastructure and platforms (e.g. GCP, AWS, PCF)
+
+(Experience, Education, Certification, License and Training)
+
+4+ years of relevant experience (e.g., Software Engineer, DevOps, DocOps, Tech Writing, Infrastructure)
+
+Preferred Qualifications:
+
+Not required, but a Plus if you have experience with
+
+JAMStack: JavaScript, APIs, Markup
+Documentation engines and/or Static Site generators (e.g. Hugo, Jekyll, DocFX, mkdocs)
+Continuous Delivery tools (e.g. Spinnaker)
+io
+Container management (e.g. Kubernetes, Pivotal Cloud Foundry)
+io
+Elastic, Logstash, Kibana
+Metrics Dashboards (e.g. Grafana)
+Time series DB (e.g. InfluxDB)
+Openstack
+
+Travel Requirements:
+
+Limited travel upon request
+
+This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
+
+Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company s online employment application, please contact .
+
+Permanent
+
+
+Go to apply 
+

@@ -1,0 +1,45 @@
+
+Hi,
+
+This is Arpit from Iris Software.
+
+We have a position of Senior Virtualization Engineer in Jersey City, NJ. If you are Interested and looking for a good change then please share your latest resume ASAP or call me at .
+
+Below is the job description for your reference:
+
+Description:
+We are currently looking for a senior VMware Engineer that possesses an architectural vision and adept in VMware s SDDC portfolio and roadmap.
+This position requires strong VMware vRealize Automation (vRA) and VMware vRealize Orchestrator (vRO) experience that you will use to lead our team through the architecture, design and development of our virtualization environment and hybrid cloud offerings.
+This position offers the right VMware Virtualization Engineer an opportunity to join a team at a fast paced and growing company driving innovation and adoption.
+This is a hands-on, highly technical position for a VMware expert who can dive deep, build highly-optimized architectures, and transition from legacy solutions while helping to drive a long-term virtualization strategy.
+You will have breadth across technology stacks while leveraging a deep hands on skillset evaluating and recommending solutions in partnership with engineering and development teams throughout the organization.
+
+Responsibilities:
+Providing architectural and engineering support for current VMware solution. Responsible for the full SDLC for our Software Defined Data Center (SDDC) using VMware technologies including vRA and vRO.
+Identify and develop solutions from a VMware vSphere services and SDDC perspective that solve current business challenges.
+Certify and document new technologies and software while introducing a product lifecycle management practice. Develop and enforce adherence to standards/principles.
+Serve as the VMware SME for our Pivotal Cloud Foundry environment. Engineering of vRA solutions and creating vCenter Orchestrator workflows.
+Function as the technical lead for the VMware components of the SDDC solution. Provide guidance and oversight into integration of VMware products with third party products. Define and promote the adoption of best practices of VMware products for the operational teams.
+
+Requirements:
+8+ years of experience architecting, implementing, and supporting highly available enterprise infrastructures.
+Solid understanding of the end-to-end information technology (IT) process, including architecture, design & engineering, implementation, and operations.
+Strong technical depth in Networking & Security in addition to general knowledge of Data Center and/or Cloud Management & Automation.
+Experience with vRealize, vSAN, VRA and VRO. Experience managing, designing and deploying infrastructure and systems in a datacenter environment.
+Expert-level with 8+ years experience in private cloud computing and Data Center virtualization using VMware (ESXi, vCenter, vCloud, vRealize, NSX, VDI).
+Prior experience with cloud solutions: Azure, Amazon Web Services (AWS) is a plus.
+Excellent business and technical writing skills as well as a talent for conveying technical information to both a technical and non-technical audience.
+Work independently and as a member of a team of architects on engagements in a technical leadership role.
+Proven experience designing enterprise VMware Cloud environments. Strong scripting skills (Python, Perl, or other)
+Familiarity with infrastructure automation (Ansible, Puppet, Chef, SALT, etc.)
+Familiarity with converged and hyper-converged server platforms ?Working knowledge of vSAN. Build reference architecture whitepapers for the solutions being produced
+
+Arpit Sharma
+IRIS Software, Inc.
+Phone:
+
+Permanent
+
+
+Go to apply 
+

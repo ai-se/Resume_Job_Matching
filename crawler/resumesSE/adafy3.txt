@@ -1,0 +1,72 @@
+
+ismail sonmez
+
+Wayne, New Jersey ***** 973-***-**** adafy3@r.postjobfree.com
+Professional Summary
+A highly efficient, methodical, and talented Quality Assurance Analyst with 5+ years professional experience in all the phases of Software Testing Life Cycle (STLC), developing Test Cases for Manual testing, Automation testing using Java, SQL and Selenium in domain of Telecommunication utilizing Agile and Waterfall methodologies.
+Strong analytical and problem-solving skills, strong organizational and communication skills.
+Experience in working with open source tools Selenium (Selenium IDE and Selenium Web Driver), JUnit, TestNG, Cucumber, Eclipse and preparation of automation test framework.
+Hands on experience in working with BDD by writing Gherkins language in Cucumber tool.
+Developed Test Scripts to implement Test Cases, Test Scenarios and features for BDD (Behavior Driven
+Development) following Page Object Model using Cucumber.
+Experienced in working with TestNG based Automation framework using Annotations and
+Assertions as well as TestNG.xml to run Selenium tests and get TestNG reports.
+Experienced in Data Driven Testing with Test NG using Data Provider and Excel Files.
+Experienced in using integration tools like Jenkins, Git Hub and Jira for Bug Reporting, Tracking and Documentation.
+Professional experience in Smoke Testing, Backend Testing, API Testing, Black-Box Testing, Functional Testing, Positive/ Negative Testing, System Testing, Regression Testing, GUI Software Testing, Ad-hoc Testing, Cross Browser/ Cross Platform Testing, UI Validation, Boundary Value Testing.
+Experience in reviewing and analyzing Business Requirements and creating Test Cases, Test Scripts, Test Estimation and Requirement Traceability Matrix (RTM).
+Expert of using management and bug tracking tool JIRA, HP ALM/ Quality Center, Rally, Bugzilla.
+Ability to adapt to new environment quickly, strong team player, good communication and good analytical skills, self-motivated, enthusiastic learner, confident, sincere and positive person.
+Willingness and interest to keep learning new technologies and acquire new skills.
+
+Skills
+Testing Tools and Frameworks; Selenium IDE, Selenium WebDriver, Postman, Cucumber, Junit, TestNG
+Languages; JAVA, SQL
+Bug Tracking and Build Tools; JIRA, HP ALM, Quality Center (QC), Rally, Maven, Jenkins
+
+Work History
+Software Quality Assurance Engineer, 06/2017 to Current
+AT&T – Bedminster, NJ
+Working in a Scrum team, attending Daily Scrums, Sprint Planning (estimating efforts and identifying acceptance criteria for user stories), Sprint Retrospective.
+Writing Test Plans, Test Cases, and Test Scenarios using MS Office Suite and Test Management tools.
+Responsible for identifying test cases for manual and automation with Selenium WebDriver.
+Creating test scripts using JAVA and Selenium Web Driver for the functional test cases.
+Logging the bugs which are found during Manual Testing and Automation Testing Regression Suit.
+Creating automation test suites using Behavior Driven Framework and Page Object Model.
+Creating BDD framework with Cucumber Step Definition, Scenarios and Features for Test Automation.
+Working in Hybrid Test framework to achieve Regression Testing and developing packages for the web driver scripts, Page Objects, Reusable Libraries, HTML/ JSON formatted reports and Log files.
+Implementing and configuring JUnit, Selenium web driver from Maven packages as build for adding all the dependencies.
+Creating Project, Test Suites, Test Cases and Test Steps in Rest API Tools and validating the Response XML/JSON formatted files.
+Responsible for performing smoke, sanity, regression, re-testing, and functional testing of the application.
+Performing back-end testing by writing and executing queries to validate that data is being populated in appropriate tables and manually verify the correctness of the data with front-end values. ( Data Base Testing with Oracle SQL, Java Data Base Connection).
+Using GitHub as a remote repository and Jenkins for Continuous Integration of the builds.
+Participated in Stand-up meetings, walk-through meetings, weekly automation meetings with other QAs, weekly assessment meetings with business analysts and developers.
+Worked collaboratively with QA, development and business groups to complete comprehensive testing on a major release.
+Environment: Selenium, Java, Cucumber, Gherkin, BDD/ TDD, WebDriver, GIT, Jira, JUnit, MAVEN, Jenkins, GitHub, Oracle, Microsoft Excel, Eclipse, Windows, Agile, Internet Explorer, Chrome, Firefox.
+
+Automation Tester, 07/2014 to 04/2017
+Northwest Bank – Warren, PA
+Analyzed Software and Business Requirements documents to get a better understanding from technical and business perspectives.
+Developed Manual test cases by decomposing use cases for specific functional requirements.
+Defined, developed, and executed automation test scripts using Java.
+Designed and developed Hybrid automation framework and maintained the code in Git and used continuous integration (CI) tools such as Jenkins to schedule the jobs.
+Used TestNG annotations controlled the entire test. Generated the clear web html reports for analysis purpose.
+Contributed to the TestNG framework Automated test suites using Jenkins in the background.
+Used Apache POI to get the data from excel sheets.
+Conducted DDT using Selenium Webdriver and compared the data back end data from the servers i.e. simultaneous translations and Interpreted confidential documents and professional translation services etc.
+Prepared traceability matrix to ensure the adequate coverage of the test cases.
+Maintained Traceability Matrix to track the requirements to the test cases to ensure complete test coverage.
+Performed GUI, Smoke, Functional, Regression and Integration testing, Usability Testing.
+Identified and reported bugs using defect tracking tool JIRA and presented bug reports for weekly status updates.
+Performed Ad Hoc testing upon the completion of test case to seek further unresolved bugs within the application
+Connected to database to Query the database using SQL for data verification and validation.
+Interacted closely with developers regarding defects, participated in tracking, reviewing and analyzing bugs.
+Attended the project review meetings, daily-weekly status meetings and walkthroughs with project
+managers and leads.
+Environment: Selenium, Java, WebDriver, GIT, TestNG, Jira, SQL Server, JUnit, MAVEN, Jenkins, HTML, Microsoft Excel XPath, Eclipse, Windows, Agile, Internet Explorer, Chrome, Firefox.
+Education
+B.S.: Management Engineering, Istanbul Technical University - Istanbul, Turkey
+
+HTML, XML
+
+Contact this candidate

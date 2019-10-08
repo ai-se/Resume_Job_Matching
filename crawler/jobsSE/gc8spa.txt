@@ -1,0 +1,38 @@
+
+Job Title: Software Engineer / Senior Software Engineer – Conjur Team
+About CyberArk:
+CyberArk is the global leader in privileged access security, a critical layer of IT security to protect data, infrastructure and assets across the enterprise, in the cloud and throughout the DevOps pipeline. CyberArk delivers the industry’s most complete solution to reduce risk created by privileged credentials and secrets. The company is trusted by the world’s leading organizations, including more than 50 percent of the Fortune 100, to protect against external attackers and malicious insiders.
+Job Description:
+CyberArk’s Conjur team is looking for experienced software engineers to join their team.
+Conjur Engineers work on a wide variety of projects, from integrations with cutting-edge DevOps tools to moonshot projects that seek to revolutionize the world of DevOps security. Our primary product is a secrets vault and privilege engine, built upon our open source core.
+Position Requirements
+We know that if you're a professional engineer, experience with specific tools or languages can usually be picked up quickly.
+
+Must be able to write high- quality software
+3- 5 years Software Development experience required
+Knowledge of how to manage technical debt
+You get end-to-end with solutions early in order to de-risk them
+Feedback loops – especially with real customers – are a highly valued asset
+The quality of product experience you create matters deeply to you
+Attend industry conferences to learn (or even present at them!)
+Hold your colleagues to the same high standard as you do yourself
+Contribute to open source software and communities
+
+However, if you have a very non-typical engineering background and you think we should still consider you, we’d love to hear why. Diversity of perspectives and experiences are very important to us.
+
+Technologies we use
+
+Ruby, Rails, Golang, Postgres, and JS
+Docker, GitHub, and Jenkins
+Kubernetes, OpenShift, Cloud Foundry
+AWS, Azure, GCP
+Ansible, Puppet, Chef
+
+For more information to try out our DevOps puzzle, please see:
+If you enjoy solving our puzzle, you’ll almost certainly enjoy working on our team!
+
+CyberArk is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+
+
+Go to apply 
+

@@ -1,0 +1,128 @@
+
+PHP Developer
+
+Personal Summary
+
+Name: Vidisha Sinojiya
+Address: Sunnyvale, CA 94086
+Email Id: adahjx@r.postjobfree.com
+Phone: +1-609-***-****
+
+Professional Summary:
+
+5+ years of experience in PHP, WAMP, LAMP, Laravel, Wordpress.
+Experienced in developing and maintaining websites and web applications using PHP5/7, REST web service, HTML5, XHTML, XML, CSS, JSON, Java Script, JQuery, AJAX.
+Experienced in PHP5, MySQL, OOPS, HTML5, CSS3.
+Expert PHP5 Development utilizing Laravel framework.
+Strong experience in Web protocols and standards (HTTP HTML5, XHTML, CSS3, Web Forms, XML parsers.
+Experienced in developing and maintaining websites and web applications using PHP5, REST web service, HTML5, XHTML, XML, CSS, JSON, Java Script, JQuery, AJAX.
+Experience in MVC model, worked on client projects & customized PHP framework.
+Excellent procedural skills and improving Object Oriented skills.
+Able to work independently with little or no supervision and a dedicated team player.
+Proficient in using with LAMP, Apache Web Server, MySQL, Php My Admin, PHP, Fire Bug, MVC - AJAX, JavaScript, JQuery (& various plug-ins), Tortoise Version Control, Unix Shell Script, CSS, XML, Firefox, Linux.
+Competent with PHP MYADMIN, MySQL database concepts and SQL.
+Experience in consuming REST and SOAP based WebServices.
+
+Work Experience
+Software Engineer
+E Labs (Space on Hire)
+Clients: BigBazaar, Bengaluru Central
+-
+
+Bengaluru, India
+Jan 2018 – March 2019
+
+Responsibilities
+Developed a common backend platform multiple stores like Central, Big Bazaar and Food hall.
+Developed a PHP script to import all customer given to into SOH backend.
+Generated an invoice while booking space using SOH and sent that invoice to store manager and client Via Email.
+Worked on Solr to search campaign information and fixing the bugs from UAT, across different modules.
+Used JS for making AJAX calls (GET, POST) for triggering or fetching data from Restful API’s provided by the backend team.
+Used on *Linux *platform (LAMP), MySQL, REST web services.
+Git repository for this project.
+Worked with XML, jQuery, PHP and JSON.
+Worked in GIT managed environment.
+Expertise in PHP, Oracle, MySQL.
+Used Web services (SOAP and RESTful) for transmission of large blocks of XML/JSON.
+Used all features of MySQL/ PHP Programming in LAMP environment.
+Tracked and fixed bugs that were found during various phases of developments.
+Utilized HTML, CSS, Memcached and Php to develop and customize WordPress websites for small businesses.
+Worked on analysis, design, development and implementation of web applications using PHP, Laravel Framework, Oracle and MySQL.
+
+Environment: PHP5, Solr, JavaScript, PHPMYADMIN, Linux, Window XP, MS Word, HTML5,
+Jquery, CSS3, MYSQL, LAMP, Git, RESTFUL, Ajax, Slack.
+
+PHP and Wordpress Developer
+Acquaint Softtech
+Clients: Acquaint Report System, Tan Republic, Game Stallion, PG-naturpharma
+-
+Ahmedabad, India
+November 2015 – Dec 2017
+
+Responsibilities:
+Designed & developed the Frontend of the website/application incorporating the state & web accessibility standards using PHP5, JavaScript, jQuery, CSS.
+Responsible for building efficient, testable, and reusable PHP modules and integration of user-facing elements developed by front-end developers.
+Creating different own Modules using PHP.
+Developed custom admin modules as per the requirements.
+Implemented PHP Unit Tests cases.
+Built PHP applications to meet product requirements and satisfy use cases using MVC architecture and Wordpress CMS.
+Worked directly with clients on various projects, and trained client developers in best practices.
+Utilized JavaScript import/export module.
+Designed dynamic and multi-browser compatible pages using HTML, CSS, JQuery and JavaScript.
+Developed new features, solved existing problems and maintained the web application developed using PHP5 with the requisite of JavaScript/ AJAX.
+Extensively used XHTML, JavaScript, and CSS for the User Interface.
+Used GIT for the version control.
+Developed interoperable and reusable RESTful web service modules to access data as the project requirements.
+Designed forms using JavaScript and created dynamic front-end validation.
+Developed various sections using HTML5, CSS3, Ajax Json and web service.
+Extensively used XHTML, JavaScript, and CSS for the User Interface.
+Used Ajax to get real time data from database without loading whole website.
+Used Chrome Developer Tools to inspect and diagnose HTML, CSS and JavaScript bugs quickly and efficiently.
+
+Environment: PHP, Wordpress, JavaScript, Ajax, HTML5, XHTML, MYSQL, SOAP, REST, JQuery, Chrome Developer Tools, Jira, Linux.
+
+PHP and Wordpress Developer
+Archirayan Infotech
+Clients: Camp Laney
+-
+Ahmedabad, India
+June 2014 – Oct 2015
+
+Responsibilities:
+Created blog page, testimonial page, registration page, activity page and sub-pages like night activity and page for getting information like driving direction, area information.
+Involved in developing interactive web applications using a dynamic scripting language like PHP and Developed/Design the application using LAMP architecture.
+Writing and Optimizing MySQL Queries and connect queries to PHP.
+Validate forms using JQuery, Ajax, and PHP.
+Built AJAX pages using PHP to display current server time.
+Developed user interface using PHP, Laravel, Bootstrap, AJAX, JQuery, HTML, CSS.
+Designed & created websites in WordPress.
+Defined and developed the application & presentation layer using HTML 5/XHTML, CSS 3, JavaScript, jQuery and used bootstrap for designing web pages to get responsive designs.
+Used PHPMyAdmin to handle the administration of MYSQL over the World Wide Web.
+Developed cross-browser/platform HTML5, CSS, and JavaScript to match design specs for complex page layouts while following code standards.
+Used AJAX for every page for dynamically displaying the data without a page refresh.
+Creation of menus, pages, templates, blocks in WordPress.
+Designing in HTML5, CSS3, JavaScript and JQuery for making website more attractive.
+Build AJAX pages using PHP to display current server time.
+Done JavaScript Validation for the Data on the client Side.
+Used phpMyAdmin to handle the administration of MYSQL over the World Wide Web.
+
+Environment: PHP, Wordpress, JavaScript, Ajax, HTML5, XHTML, MYSQL, SOAP, REST, JQuery, Chrome Developer Tools, Jira, Linux.
+
+Education
+Bachelor of Engineering in Information Technology
+Gujarat Technological University, India
+
+Skills
+Back end, Coding, Content management, PHP, Bootstrap, Laravel, Solr, Javascript, JQuery, Ajax, JSON, XML, Rest, HTML, CSS, MySQL
+
+Additional Information
+Skills:
+Database - Oracle, PL/SQL, MYSQL.
+WebApps design using Laravel Framework( PHP).
+Front and back End Website Development (HTML5, AJAX, JQuery, JavaScript, and PHP).
+Websites Development using Wordpress.
+Have a diverse skill set of web development skills that includes PHP, Laravel, Wordpress, JavaScript, HTML, CSS, jQuery, AJAX, IDE, MySQL.
+Solid development experience with LAMP and Laravel MVC
+Experience developing application based on Wordpress and Content Management Systems (CMS).
+
+Contact this candidate

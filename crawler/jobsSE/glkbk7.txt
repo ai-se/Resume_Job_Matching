@@ -1,0 +1,33 @@
+
+Senior Software Engineer in Test, NewburyNewbury, UKDevelopment â EngineeringFull-timeCoupa Software (NASDAQ: COUP), a leader in business spend management (BSM), has been certified as a âGreat Place to Workâ by the Great Place to Work organization.
+
+We deliver âValue as a Serviceâ by helping our customers maximize their spend under management, achieve significant cost savings and drive profitability.
+
+Coupa provides a unified, cloud-based spend management platform that connects hundreds of organizations representing the Americas, EMEA, and APAC with millions of suppliers globally.
+
+The Coupa platform provides greater visibility into and control over how companies spend money.
+
+Customers â small, medium and large â have used the Coupa platform to bring billions of dollars in cumulative spend under management.
+
+Learn more at .
+
+Read more on the Coupa Blog or follow Coupa on Twitter.Do you want to work for Coupa Software, the world's leading provider of cloud-based spend management solutions? Weâre a company that had a successful IPO in October 2016 (NASDAQ: COUP) to fuel our innovation and growth.
+
+At Coupa, weâre building a great company that is laser focused on three core values:1.
+
+Ensure Customer Success â Obsessive and unwavering commitment to making customers successful.2.
+
+Focus On Results â Relentless focus on delivering results through innovation and a bias for action.3.
+
+Strive For Excellence â Commitment to a collaborative environment infused with professionalism, integrity, passion, and accountability.We're looking for an experienced Senior Software Engineer in Test, to be based from our Newbury office in the UK.Please review the following list of responsibilities and requirements.
+
+Please also note that you must be eligible to live and work in the UK without the need for sponsorship.Responsibilities:Build automated test suites for Coupaâs market leading spend management product suiteWork closely with product and development teams to clarify requirements, ensure testability and provide feedback on functional and technical designConduct code reviews to manage quality of the tests created by development and automation teamsWork closely with development to facilitate unit and integration testingConsistently contribute to improving the test automation infrastructureCreate/evaluate test tools to improve test process and qualityImplement and help the team embrace best automation practices to maintain qualityBe a vocal champion for quality in every phase of the development processExperience working with TDD, BDD UI automation frameworks and developing automation scripts.Strong hands-on experience writing automation scripts in any of the following
+- Ruby, Java, Python, Perl.Demonstrable Analytical & Problem-solving skills.Excellent written and verbal communication, people and collaboration skills.Experience in CI tools like Teamcity, Jenkins etc.Work within Scrum teams to develop new automated tests to improve the quality of the functionalities, shorten the automated test cycles and ensure repeated quality assurance while decreasing the manual regression test efforts.
+
+Work within established Test Automation Frameworks, improve and maintain the framework and ensure further integration of automated test plans into the Continuous Integration Process.Develop and execute test plans and test cases with a strong emphasis on using code to solve technical challenges and shorten the test cycle through automation.Contribute to further develop the performance and scalability testing efforts and improve the test frameworks, tools and technologies used by the organization to maintain a high quality.Contribute to a robust, scalable, and high-quality test automation solutions for functional, regression and performance testing.Desirable Skills:Database knowledge particularly PostgreSQL and MySQLExperience with using Gradle to create build scriptsANTSpring PythonTestNG / J-unitJMeter / Gatling Ubuntu / LinuxDocker KubernetesAWSAzureApplitoolsAt Coupa, we have a strong and innovative team dedicated to improving the spend management processes of todayâs dynamic businesses.
+
+Itâs our people who make it happen, and we strive to attract and retain the best in every discipline.We take care of our employees every way we can, with competitive compensation packages, as well as restricted stock units, an Employee Stock Purchase Program (ESPP), comprehensive health benefits for employees and their families, a 401(k) match, a flexible work environment, no limit vacations for exempt employees, non-exempt employees are on an accrual basis for PTO, catered lunchesâ And much moreAs part of our dedication to the diversity of our workforce, Coupa is committed to Equal Employment Opportunity without regard for race, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity or religion.Please be advised, inquiries or resumes from recruiters will not be accepted.
+
+
+Go to apply 
+

@@ -1,0 +1,32 @@
+
+Top skills:
+RedHat RHEL 6 and 7
+RedHat Clustering.
+RedHat storage management including LVM, XFS, EXT4, etc.
+Scripting
+Apache
+WASBackground should include the following:
+RedHat RHEL 6 and 7.
+RedHat Clustering.
+RedHat storage management including LVM, XFS, EXT4, etc.
+Storage
+Networking
+SOE development
+Kickstart
+Patching
+RPM development/management.
+Satellite
+Insites
+Scripting
+Repos
+Security practices
+VMWare
+Willing to learn new technology as needed.Summary:
+The main function of a systems engineer is to apply the principles of computer science and mathematical analysis to the design, development, testing, and evaluation of the software and systems that make computers work. A typical systems engineer analyzes user needs, and then designs, tests, and develops software to meet those needs.Education/Experience:
+Bachelor' s degree in computer science, software engineering or relevant field required. 8+ years experience required.Job Responsibilities:
+Direct programmers and analysts to make changes to existing databases and database management systems. Direct others in coding logical and physical database descriptions. Review project requests describing database user needs to estimate time and cost required to accomplish project. Review and approve database development and determine project scope and limitations. Approve, schedule, plan and supervise the installation and testing of new products and improvements to computer systems. Implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure. Develop standards and guidelines to guide the use and acquisition of software and to protect vulnerable information.Skills:
+Verbal and written communication skills, problem solving skills, customer service and interpersonal skills. Strong ability to work independently and manage one s time. Strong leadership and mentoring skills necessary to provide support and constructive performance feedback. Strong knowledge of the full software development lifecycle: from business/systems analysis, through requirements gathering and functional specification authoring, to development, testing and delivery. Strong ability to troubleshoot issues and make system changes as needed to resolve issue. Strong knowledge of circuit boards, processors, electronic equipment and computer hardware and software. Strong knowledge of computer development software across multiple platforms.
+
+
+Go to apply 
+

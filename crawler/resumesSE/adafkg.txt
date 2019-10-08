@@ -1,0 +1,43 @@
+
+Vijayakumar Natesan
+PL/SQL Developer
+E-mail adafkg@r.postjobfree.com Location Chennai, Tamilnadu
+Phone 960-***-**** LinkedIn https://linkedin.com/in/vijayakumar-natesan- 43a26685/
+Self-directed and motivated Software Engineer with 3 years and 7 months of experienced working eﬀectively in dynamic environments. Fluent in Oracle SQL and PL/SQL programming languages. Valuable team player with personable and dedicated nature. Skills
+SQL
+PLSQL
+Oracle SQL Developer
+SQL Loader, Linux basics
+Oracle 10g/11g
+Work History
+Apr 2016 - Software Engineer
+Current Oramate Technology, Chennai, Tamilnadu.
+Proficient in PL/SQL and creation/modification of schema objects like Tables, Views, Materialized View, Constraints, Indexes, Sequences and Synonyms
+Hands on experience in writing PL/SQL Packages, Procedures, Functions, Cursors,
+Ref cursors, Exceptions, Joins, Sub query and analytical functions.
+Exposure in PL/SQL collections, Bulk collect and Dynamic SQL.
+Migrated data from flat files to table using SQL Loader and report generated using UTL.
+Reviewed project specifications and designed technology solutions that met client expectations.
+Ability to be an eﬀective team player and work under time constraints
+Working with Linux commands and SQL plus.
+Resolving issues on priority basis.
+Experience in tools like SQL developer, SQL Plus
+Good analytical skills in 10g/11g SQL and PL/SQL. Projects
+Healthcare (06/2017 – Present)
+Created Tables, Views, Index, Synonyms, Sequences. Writing complex SQL queries using Subquery, Joins and Functions.
+Created and debugged various PL/SQL subprograms like Procedures and Functions to support various areas of development.
+Experience in unit testing of the PL/SQL programs.
+Involved in developing PL/SQL Packages that includes advanced PL/SQL concepts like Bulk Collect and Collections.
+Having knowledge in PL/SQL Triggers, GTT, Materialized View. Insurance (05/2016 – 06/2017)
+Involved in Table creation, Constraint maintenance.
+Understanding the requirements and writing SQL queries using subquery, Joins, Functions.
+Transformed data from external files to tables using SQL Loader.
+Monitoring day-to-day process for diﬀerent data loads and resolving issues.
+Responsible for sending daily and weekly status reports. Education
+May 2012 - Master of Engineering: Embedded System Technologies Jun 2014 Nandha Engineering College - Erode, Tamilnadu May 2008 - Bachelor of Engineering: Electronics and communication Apr 2012 Indus college of Engineering - Coimbatore, Tamilnadu Languages
+Tamil - Native or Bilingual Proficiency
+English - Full Professional Proficiency
+Interests
+Carom, Cricket, Chess, Movies, New Technology
+
+Contact this candidate

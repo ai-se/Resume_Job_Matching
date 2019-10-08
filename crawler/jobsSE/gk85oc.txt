@@ -1,0 +1,35 @@
+
+CyberArk is looking for a highly motivated, energetic and focused Solutions Engineer to support our Commercial Customers. The Commercial Solutions Engineer will combine technical knowledge with sales skills and is ultimately responsible for the technical win during the sales cycle. Commercial Solutions Engineers are the primary technical resource for the commercial sales force hence, they are responsible for actively driving and managing the technology evaluation stage of the sales process, working in conjunction with the sales team and Product Management as the key technical advisor and product advocate for our solutions. Therefore, you must be able to articulate technology and product positioning to both business and technical users. You must be able to identify all technical issues to assure complete customer satisfaction through all stages of the sales process. Above all, we are looking for someone that can communicate the CyberArk value and be able to design an optimal solution for complex customer infrastructure and datacenter environments on a global scale.
+Responsibilities:
+The ideal candidate must be self-motivated with a proven record of accomplishment in relevant vendor software sales or encompass knowledge of similar technologies. You must be comfortable in a dynamic atmosphere of a technical organization with a rapidly expanding customer base. You must possess strong presentation skills. You must be organized and analytical, able to eliminate sales obstacles through creative and adaptive approaches.
+The essential duties of the Solutions Engineer shall be in offering CyberArk’s product solutions to customers and prospects, including:
+Technical pre-sales support
+Proactively seek out new sales opportunities by developing new and existing technical relationships within prospective accounts and current active customers
+Present CyberArk’s technical value proposition to customers and partners effectively
+Able to respond to functional and technical elements of RFIs/RFPs
+Conduct and ensure success of customer proof-of-concepts (POCs)
+Documentation of client feature requests and issues in CRM system
+Support CyberArk and partner seminars and industry trade shows
+Able to convey customer requirements to Product Management teams
+Develop technical knowledge of CyberArk and associated technologies
+Assume the role of a mentor to other system engineers when appropriate
+Create training content for the SE organization when appropriate
+Requirements:
+2+ years Software Presales or equivalent customer facing position
+Computer Science Degree or equivalent experience required
+Experience with Windows/Active Directory administration and operations
+Knowledge of UNIX/Linux
+Strong presentation skills as well as the ability to build and present high-quality product demonstrations to both technical and executive audiences
+Superior communication and interpersonal skills; ability to build relationships at multiple levels to work cross organizationally toward solutions; excellent leadership and consensus building skills
+An understanding of security concepts and the development of security roles within organizations that meet functional, technical and regulatory requirements
+Prior experience with CyberArk Software solutions is preferred or relevant experience with enterprise applications, security management, systems management, identity management, and/or policy management solutions preferred especially in the IAM and SIEM space
+Operational experience with LDAP Directories, and LDAP Authentication methods
+Enterprise application authentication experience a plus (i.e., .NET, Java, CLI)
+Scripting knowledge (Python, Bash, PowerShell) a plus
+Security related certifications (Security+, CEH, CISSP) a plus
+Familiarity with SaaS solutions a plus
+CyberArk is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+
+
+Go to apply 
+

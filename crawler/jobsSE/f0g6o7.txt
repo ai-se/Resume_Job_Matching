@@ -1,0 +1,93 @@
+
+Cloud Infrastructure Operations Engineer
+
+Denver
+
+US
+
+The Cloud Service Operations team in Software AG supports Software AG Cloud SaaS offerings. We thrive to keep our cloud products in high standards, with strict data security and top performance through continuously improving processes.
+
+ABOUT THE JOB
+
+* Manage Software AG Cloud environments for stability, security, and satisfaction for optimal customer experiences
+
+* Setup and maintain multiple cloud Dev/QA/Staging/production environments in AWS and other major cloud providers
+
+* Work closely with application and development teams as well as the Global Support Organization
+
+* Establish and enforce standards and procedures for the installation and maintenance of systems and data
+
+* Working in a diverse and international team
+
+* Manage and operate environments of our global customers with industry leading targets in aspects of availability and quality
+
+* Demonstrate willingness to grow outside of the job responsibilities by assuming ownership for different not explicitly listed activities
+
+ABOUT YOU
+
+* Completed study in Computer Science or similar
+
+* Strong Linux administration skills: CentOS, RedHat, Ubuntu and bash scripting
+
+* Scripting skills
+
+* DevSecOps mind set and eager to learn new technology
+
+* Good written and verbal communication skills in English
+
+* Familiar with or demonstrated learning initiative in several of the following tools, platforms, or technologies:
+
+* Configuration Management: SaltStack, Ansible, Chef
+
+* Hyperscaler Techology: AWS, Azure, Alibaba, GCP
+
+* Infrastructure Provisioning: Terraform (preferred), Cloud Formation, ARM
+
+* Container technology: Docker, Kubernetes
+
+* Monitoring and logging: Syslog, Graylog, Zabbix, Kibana, Splunk, Prometheus
+
+* Networking knowledge: Load Balancing, DHCP, DNS, TCP/IP, HTTP, SMTP, SSL
+
+* Basic Database Administration: Oracle, MySQL, Mongo, SQL Server
+
+* Scripting languages: Bash, Python, SQL (basic), Ruby
+
+* Software stacks/components: JVM, Tomcat, nginx
+
+* Version Control Systems: git
+
+WHAT YOU CAN EXPECT
+
+* The employees are smart, friendly and welcoming
+
+* Health Insurance starts your first day on the job
+
+* Three weeks paid vacation & three weeks paid sick leave
+
+* 9 paid holidays (including a floating holiday and a community service day)
+
+* 401(k) Plan with up to 5% employer match
+
+* Business Casual office
+
+Software AG is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration without regard to race, age, religion, color, marital status, national origin, gender, gender identity or expression, sexual orientation, disability, or veteran status.
+
+Click on the link to view the full EEO Statement.
+
+IND123
+
+WHAT YOU GET
+
+WHAT WE DO
+
+WHO WE ARE
+
+Nearest Major Market: Denver
+
+Job Segment: Operations Manager, Cloud, Database, Oracle, Operations, Technology
+SDL2017
+
+
+Go to apply 
+

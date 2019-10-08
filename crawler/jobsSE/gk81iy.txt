@@ -1,0 +1,58 @@
+
+"
+As a member of our security team, you will work in close partnership
+with the clients management team and the Managed Services / Security
+Operations team to design solutions, implement security policies, and
+be the primary security team member at the client.
+
+Job Duties
+
+You will engage in all aspects of building and maintaining the
+production security infrastructure and services. You will
+specifically engage in:
+
+Assessing the overall security posture. Redesign or evolve the
+posture as necessary to meet future
+
+Evaluate and potentially redesign our security checks to ensure
+optimal platform security
+
+Provide technical expertise relevant to the development,
+implementation, and updates to security policies, procedures, guidelines
+
+Maintain and improve processes, tools, and documentation that will
+support production security requirements in the best manner possible
+
+You will also be responsible for running the day to day security
+functions at the client.
+
+Monitoring for and alerting on security concerns. This information
+will be reported to the client with remediation recommendations.
+
+Ensure compliance with all client security policies.
+
+Develop and maintain through documentation of the environment.
+Supporting security and compliance evaluations with vulnerability
+scans, penetration testing and compliance documentation and remediation
+
+Basic Qualifications:
+
+5+ years of experience in a hands on security engineering role.
+
+You will need a specific understanding of application and
+operating system hardening, vulnerability assessments, security
+audits, TCP/IP, intrusion detection systems, firewalls
+
+You must be experienced with designing, implementing and
+maintaining a security environment.
+
+Technologies Required
+
+Palo Alto Firewalls
+** We are unable to sponsor H1B candidates at this time. - provided by Dice
+
+Contractor
+
+
+Go to apply 
+

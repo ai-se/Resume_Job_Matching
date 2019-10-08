@@ -1,0 +1,35 @@
+
+NEHA HASMUKH JAIN
++1-857-***-**** adag9m@r.postjobfree.com www.linkedin.com/in/nehahasmukhjain https://github.com/nehahjain1809/ EDUCATION
+Masters of Science in Information Systems Northeastern University, Boston, MA, USA Expected Dec 2019 Bachelor of Engineering in Information Technology University of Mumbai, Mumbai, MH, India May 2014 SKILLS
+Programming Languages Java, Python, C#, JavaScript Web and Frameworks Node.js, Django, Flask, Spring MVC, Hibernate, Angular, jQuery, Ajax, Bootstrap, JSP, CSS, HTML5, REST APIs Cloud Technologies Amazon Web Services, Docker, Kubernetes, AWS Lambda, AWS Cloudformation, AWS Terraform, Databases SQL Server, MySQL, PostgreSQL, DynamoDB, MongoDB, Hadoop, Amazon EMR, Hive, PIG, Mahout, HBase CICD & Testing Ansible, Travis CI, Jenkins, JMeter, Junit, AWS Code-Deploy OS & Others Linux, Windows, Apache Kafka, Grafana, Prometheus, Microservices, Elasticsearch, Git, Apache Spark WORK EXPERIENCE
+Software Development Intern Boston Children’s Hospital Boston, MA, US Jan 2019 - Aug 2019
+• Developed web-application for Dana Farber’s Cancer Research laboratory to upload, preprocess complex proteomics data, perform analysis, view experimental results on interactive graphs using Django framework, python, bokeh library and PostgreSQL database
+• Implemented access management using Gmail authentication and role-based authorization
+• Hosted the web application on AWS cloud and implemented Continuous Delivery using GitHub, Travis CI and Amazon Code-Deploy Graduate Teaching Assistant Northeastern University Boston, MA, US Sep 2018 - Dec 2018
+• COURSE: INFO 6105 – Data Science Engineering Methods and Tools
+• Facilitated student learning by solving conceptual doubts related to Data Analysis and Modelling techniques using Python Software Development Engineer Accenture Mumbai, India Jul 2014 - Jul 2017
+• Developed features for Smart Supply, an automated resource tagging application for Accenture using Angular, C# and SQL Server
+• Worked on the Access and Role-Right Management functionality for the application serving all the Accenture employees globally
+• Accomplished value-added tasks such as Client Query Reduction that helped reduce escalated client queries by 65% thereby saving the redressal time spent by 20+ support team members on the same
+• Worked towards implementing Six-Sigma capability for the business processes and application stability
+• ACHIEVEMENT: ‘Inspire’ award at Accenture for consistent performance PROJECTS
+Expense Management System on Hybrid Cloud (AWS, Kubernetes, Jenkins, Ansible, DevOps) Sept 2018 - Apr 2019
+• Built fault tolerant, highly available and reliable stateful, stateless APIs, hosted it on cloud computing platform (Amazon Web Services and Kubernetes) using Node.js, IaaS, PaaS and SaaS services like Cloudformation, EC2, EBS, Route53, SES, ELB, CloudWatch, IAM, RDS, Lambda, NoSQL (DynamoDB) and S3 object store
+• Incorporated Apache Kafka Publisher and Consumer API for creating and sending email notification via AWS SNS
+• Integrated a Password Reset API in application using AWS lambda and deployed it using Travis CI and Amazon Code-Deploy
+• Monitored and represented system logs and application metrics centrally using FluentD, Prometheus, CloudWatch and Grafana
+• Created Ansible playbooks and Cloudformation scripts for infrastructure setup
+• Implemented Continuous Integration & Continuous Delivery using Docker, GitHub, Jenkins Amazon’s Customer Review Analysis and Suggestions (Hadoop Map Reduce, AWS EMR, Tableau, Mahout) Sep 2018 - Dec 2018
+• Processed, categorized the large dataset, performed various analysis using Big Data techniques - Hadoop, Hive, Pig, AWS EMR
+• Calculated sentiment scores for processed reviews, generated product recommendations using Mahout user-recommendation
+• Visualized the results like top 100 products, word cloud, top 10 categories using Tableau Airline Management System (Spring MVC, Hibernate, AJAX, JSON, MySQL, Bootstrap, HTML) Jan 2018 - Apr 2018
+• Designed the single-page flight booking application using HTML, CSS, JavaScript, Bootstrap and AJAX
+• Enabled multi-city flight searches, seat selection and web check-in features for users
+• Incorporated email-notifications, payment gateway and flight tracking functionalities Sentiment Analysis of Simpson’s Series (Python, Apache Spark) Sep 2017 - Dec 2017
+• Acquired narration data of Simpson’s episodes through streaming using Apache Spark
+• Performed deep sentiment analysis of various characters towards each other using Natural Language Processing
+• Created a custom dictionary to analyze the contextual sentiments of the series Smart Watch Application (Java, Java Swing, DB4OUtil, Google API, Weka Suite, JFreeChart API) Sep 2017 - Dec 2017
+• Developed smart-watch using Java-Swing to fetch stream of data from users and analyze it using Weka APIs to provide useful recommendations and critical alerts to users with graphical representation using JFreeChart
+
+Contact this candidate

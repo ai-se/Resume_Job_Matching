@@ -1,0 +1,28 @@
+
+The Role:
+We are seeking for a talented and motivated Software Engineer who can work with limited supervision on Application level vulnerability testing and auditing, Participate in level 2/3 security operations support and Incident handling, Evaluate and recommend emerging security products and technologies
+
+Responsibilities
+*Identify security issues and risks, and develop mitigation plans
+*Architect, design, implement, support, and evaluate security-focused tools and services including project leadership roles
+*Develop and interpret security policies and procedures
+*Develop and deliver training materials and perform general security awareness and specific security technology training
+*Evaluate and recommend new and emerging security products and technologies
+*Participate in tier 2 and tier 3 security operations support
+*Participate in incident handling
+*Participate in projects that develop new intellectual property
+Required Skills:
+• Experience with Security Engineering, system and network security protocols, and application security
+• Experience with the application of threat modelling or other risk identification techniques
+• Development experience in Java
+• Experience in scripting (python, ruby etc)
+
+Education : B- Tech/BE/MCA/MTech Degree from a reputed university
+
+Experience: 5+ years
+Empirix does not accept/pay fees for unsolicited resumes from third party agencies/vendors.
+As part of our dedication to the diversity of our workforce, Empirix is committed to Equal Employment Opportunity without regard for race, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity or religion.
+
+
+Go to apply 
+

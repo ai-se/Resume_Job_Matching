@@ -6,13 +6,13 @@ import sys
 import requests
 from bs4 import BeautifulSoup as bs
 
-df = pd.read_csv("resumes.csv")
+df = pd.read_csv("jobsMO.csv")
 
 for i, url in enumerate(df.links):
     time.sleep(1)
     filename = url.split('/')[4]
     print(filename)
-    with open('./resumes/'+filename+'.txt', 'w') as f:
+    with open('./jobs/'+filename+'.txt', 'w') as f:
         print("scraping number", i, "url = ",  url)
         r = requests.get(url)
         soup = bs(r.content, "html.parser")

@@ -1,0 +1,87 @@
+
+How I will contribute
+
+As part of our software technology team, you are integral in advancing Asure Software's suite of Human Capital Management (HCM) products. Using your expert knowledge of object oriented design, functional programming, and best practices, you contribute design patterns and frameworks optimizing performance, stability and maintenance. Your contributions to our Asure HCM products are enhancing features that directly benefit our client's user experience. You will collaborate with a team of engineers in a progressive environment that develops sustainable code with minimal defects in quality releases for our clients.
+
+Joining the team as a Senior Software Engineer, you will have the opportunity to deepen your knowledge and expertise in cloud technologies, Continuous Integration/Continuous Delivery (CI/CD) platforms while using existing and emerging technologies.
+
+Technologies the team uses today: .NET, C#, VB.NET, ASP.NET, Web Forms, JavaScript, T-SQL (Stored Procedures, Functions), Crystal Reports, Web API, VB6, COM, Izenda Reporting, Mobile Development (iOS and Android)
+
+● You will contribute to the design and implementation of porting some of our legacy applications to more current technologies
+
+● Provide to the product and the team- testable, readable, maintainable and efficient code.
+
+● Design, develop and maintain web-based applications to enhance the performance and the stability of our current applications.
+
+● Design and develop service oriented architecture solutions integrating with complex database and third party components.
+
+● Collaborate with engineering scrum teams on best practices, code reviews and process improvements.
+
+Complete development tasks that align with the current sprint commitment
+
+● Contribute in scrum ceremonies including the daily stand up, backlog refinement, sprint planning, sprint retrospectives and sprint reviews.
+
+Participate in various agile ceremonies facilitated by the Scrum Master and Product Owner.
+
+Share in the daily stand up to report: your successes from yesterday, your current day plan, and communicate roadblocks that may affect your achievements.
+
+Contribute in group code reviews and to the team's goal of continuously improving.
+
+What I will bring
+
+● Bachelor's degree in Computer Science or a related technical field, or equivalent work experience also considered.
+
+● You have 5+ years software development experience.
+
+● Eligible to work in the US without sponsorship, as we are unable to sponsor or transfer Visas at this time.
+
+● Previous experience working in an agile software development environment will set you apart.
+
+● Worked in object-oriented programming (Java, Python, C#).
+
+● Knowledge of cloud-based computing with Amazon Web Services (AWS), Microsoft Azure or Google Cloud Platform (GCP).
+
+● Understanding of concepts on CI/CD.
+
+● Working experience with JavaScript, CSS, HTML and TypeScript.
+
+● You have the ability to:
+
+● Collaborate
+
+● Communicate
+
+● Learn in a nimble environment
+
+● Be action oriented
+
+The Good Stuff
+
+● Medical, Dental, Vision, Health Savings Account (HSA) and Flexible Spending Account (FSA) which are effective on day one
+
+● Basic Life, Accidental Death and Dismemberment (AD&D), and Short Term Disability (STD) and Long Term Disability (LTD)
+
+● 401K Program with company match
+
+● Paid Time Off
+
+● Annual bonus opportunity
+
+● Employee stock purchase program
+
+● Fitness reimbursement program
+
+● Company comradery: President's Circle Award, team building, happy hours, charity drives, and team lunches
+
+● Kitchen stocked with unlimited snacks and drinks, Taco Tuesdays, Flapjack Fridays, End of Month Lunches and more!
+
+Who we are
+
+Our 8,000+ clients in 80 countries rely on Asure Software's SaaS-based, cloud solutions to turn their biggest expenses, labor and real estate, into strategic advantages. Headquartered in Austin, Texas, we offer an amazing opportunity to scale your skills to the next level, working for a leading provider of best-in-class solutions designed to help businesses grow. Our clients, small & medium-sized organizations as well as iconic Fortune and Global 100 enterprises, enjoy our easy-to-use, easy-to-deploy solutions and benefit from reduced costs and increased employee collaboration.
+
+We are an equal opportunity employer. All candidates must be legally authorized to work in the US, as we are unable to sponsor or transfer Visas at this time. Criminal background checks conducted at employment offer.
+SDL2017
+
+
+Go to apply 
+

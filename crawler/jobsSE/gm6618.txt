@@ -1,0 +1,23 @@
+
+Software Guidance & Assistance, Inc., (SGA), is searching for a Big Data Engineer/Analyst (Hadoop/Spark) for a CONTRACT TO HIRE assignment with one of our premier financial services clients in Irving, TX .
+
+MUST BE AVAILABLE FOR ONISTE INTERVIEW ON SEPT 12, 2019.
+
+Required Skills :
+
+8+ years of data architecture experience and 3+ years in leading teams
+3+ Years of Physical implementation of Big Data HDFS based solution for financial and / or risk functions: Hadoop, Hbase, Hive, Scala, SPARK, Sqoop, Flume, Kafka and Python
+Strong experience with ETL
+Knowledge of and experience applying data modeling techniques and best practices on Big Data Platform
+Strong understanding and hands-on programming/scripting experience skills UNIX Shell, Perl, and JavaScript
+Strong experience in interacting with Sr. Leadership in Risk/Finance Organizations
+Strong experience working both with technical and functional resources.
+Ability to gather requirements and create functional/technical documentation.
+Experience working on Data Mapping, Data Flow and Data Diagrams.
+Hands on skills with SQL based programming languages.
+
+SGA is a Certified Women's Business Enterprise (WBE) celebrating over thirty years of service to our national client base for both permanent placement and consulting opportunities. For consulting positions, we offer a variety of benefit options including but not limited to health & dental insurance, paid vacation, timely payment via direct deposit. SGA accepts transfers of H1 sponsorship for most contracting roles. We are unable to sponsor for Right-to-Hire, Fulltime, or Government roles. All parties authorized to work in the US are encouraged to apply for all roles. Only those authorized to work for government entities will be considered for government roles. Please inquire about our referral program if you would like to submit a candidate for any of our open or future job opportunities. SGA is an EEO employer. We encourage Veterans to apply. To view all of our available job postings and/or to learn more about SGA please visit us online at .
+
+
+Go to apply 
+

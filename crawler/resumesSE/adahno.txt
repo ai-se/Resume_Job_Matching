@@ -1,0 +1,97 @@
+
+BHAVANI SELVI C
+Phone: +91-824*******
+E-mail: adahno@r.postjobfree.com
+
+CAREER OBJECTIVE
+To become a part of Growing Organization and apply my Professional, Technical and Interpersonal skills, and thus develop myself and Achieve the goal and vision of the company.
+
+ACADEMIC QUALIFICATION
+
+B.E -Computer science and Engineering (2010-2014).
+Rajas International Institute of Technology for women, Nagercoil.
+First class with 69%
+Higher Secondary Education (2009-2010).
+Kammavar Girls Higher Secondary School, Kalugumalai.
+First class with 71.3%
+SSLC (2007-2008)
+St. Louisa Girls High School, kalugumalai
+First class with 86.2%
+
+ORGANISATIONAL EXPERIENCE
+
+Over 7 months of Experience, working as an ‘ Test Engineer’ in TechUnity Software Systems India Private Ltd, Coimbatore from May 2014 to November 2014.
+
+Ability to understand the client Requirements and well experienced in team work, delivering work products on time.
+Experience in Black Box Testing, System Testing and Regression Testing.
+Good Knowledge of HP automation tool QTP and VB Script language
+Hands-on experience in Requirement Analysis, Development of test cases, Test Case execution and Defect tracking
+Having Experience in Web based application using manual testing techniques.
+Expert in Bug tracking tool – JIRA
+
+Technical Skills:
+Testing Methodologies: Functional Testing, Regression Testing, Integration Testing
+Automation Testing Tools: Selenium Web Driver/RC, QTP,
+Bug Tracking Tools: JIRA, BugZilla
+Test Management Tools: HP QualityCenter
+
+PROJECTS UNDERTAKEN:
+
+Project 1: DocStar - Software Tester.
+
+Client
+DocStar
+Organization
+TechUnity Software Systems India Private Ltd.
+Team Size
+2
+Testing type
+Manual
+Duration
+May 2014 to July 2014
+
+Project Description:
+DocStar application is a web application. It is a document management software which is used for managing all types of documents. Creating work flow and Publishing the document and also generating report for a document.
+
+As a Test Engineer, responsibilities:
+Creating test cases.
+Reviewing test cases.
+Executing test cases and finding defects
+Preparing defect report
+Posting the bugs in the Bug tracking system- BugZilla.
+
+Project 2: IRBManager- Software Tester.
+
+Client
+Tech Software
+Organization
+TechUnity Software Systems India Private Ltd.
+Team Size
+2
+Testing type
+Manual
+Duration
+From August 2014 to November 2014
+
+Project Description:
+IRB Manager is a fully web based system and used in Biomedical Research. IRB Manager provides a tool to help manage the information, document generation, document attachments.
+
+As a Test Engineer, responsibilities:
+Creating test cases using Zephyr for JIRA.
+Reviewing test cases.
+Executing test cases and finding defects
+Posting the bugs in the Bug tracking system- JIR
+Personal Profile:
+
+Date of Birth : 03 May 1993
+Father's Name : P. Chiyon Raja
+Marital Status : Married
+Languages Known : Tamil and English
+Nationality : Indian
+
+I hereby declare that the above mentioned information's are true to best of my Knowledge.
+
+Place: Tirunelveli Signature
+Date: Bhavani
+
+Contact this candidate

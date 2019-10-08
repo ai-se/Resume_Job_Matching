@@ -1,0 +1,41 @@
+
+Senior QA Automation Engineer with * years of Experience
+
+Dear Hiring Manager,
+
+I am Venu, a Sr QA Automation Engineer with 8 years of experience in all phases of Software Testing Life Cycle (STLC). Expertise in developing Test Plan, Test Scenarios, Test Cases and Automation Test Scripts using Selenium, TestNG with emphasis on GUI Testing, API Testing, BDD, Backend Testing of Client Server, Web and SOA (Service Oriented Architecture) Applications in multiple domains.
+
+TECHNICAL SKILLS:
+
+Testing Tools
+Selenium WebDriver/IDE/GRID/RC, JUnit, TestNG, SoapUI, Postman, Rest Assured, Appium, Appium Desktop, Cucumber, Maven, GIT, Jenkins, JIRA, QTP, Eclipse, Protractor, JMeter, Firebug, Firepath, Fitness, CodedUI.
+Language/Script
+Java, JavaScript, Shell Script, C, C++, Python, SQL, Ruby, .NET, C#.
+Frameworks
+JUnit, TestNG, TDD, BDD, Data Driven, Hybrid and Keyword Driven and Page Object Model.
+Firefox Add-ons
+XPath, Firebug, Firepath.
+Web Technologies
+HTML, CSS, XML, XPATH, AJAX, JSP, Flash.
+SQA Technologies
+SOAP, REST, WSDL, Web Services, SOAPUI.
+Bug Tracking Tools
+HP Quality Center, Bugzilla, JIRA.
+Application Servers
+JBoss, WebLogic, WebSphere
+Build/Tools
+Ant, Maven, Jenkins, Hudson.
+Databases Servers
+MS SQL Server 2000/2005, Olap and OLTP, Oracle 9i/10g, MS Access 2000, SQL.
+Operating Systems
+Linux, Windows XP, 7, 8, 10/vista & server 2003, UNIX and Mac.
+Version Control
+CVS, Git, SVN.
+
+Regards,
+
+Venu Kumar,
+
+Email : adah3t@r.postjobfree.com Phone : 205-***-****
+
+Contact this candidate

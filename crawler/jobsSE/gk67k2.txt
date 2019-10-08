@@ -1,0 +1,28 @@
+
+Job Title: Sr. DevOps Engineer
+Location: Pleasanton, CA
+Job Description:
+AWS Specific Requirements:
+
+EC2
+VPC
+Networking (VPC Gateway, Route 53, ELB)
+Cloud Formation
+Auto Scaling
+Security and
+IAM
+Experience in AWS Automation APIs - codifying, managing and testing infrastructure as code
+
+Common Requirements:
+
+Minimum experience of Linux operating systems
+Advanced knowledge with the Puppet and Ansible Automation.
+Experience in writing test cases, modules, Jenkins integrations
+Terraform In depth knowledge, with awareness of best practices ( desired skill )
+Experience with monitoring tools like Splunk ( ( desired skill ).
+
+Permanent
+
+
+Go to apply 
+

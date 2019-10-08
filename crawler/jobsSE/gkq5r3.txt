@@ -1,0 +1,34 @@
+
+We are looking for a DevOps Engineer with 5+ years experience to help build out, maintain, troubleshoot our rapidly expanding infrastructure, and has a passion for Linux and open source technologies along with Linux skills from the CLI.
+You will be part of a talented team of engineers that demonstrate superb technical competency, delivering mission critical infrastructure and ensuring the highest levels of availability, performance and security. Qualified systems engineers will have a background in IT, computer systems engineering, or systems engineering and analysis.
+The DevOps Engineer will:
+Provide day-to-day support of all AWS Cloud servers and server-based applications across the multi-account AWS Cloud enterprise such as, but not limited to, Ubuntu Server, Apache, MySQL, PostgreSQL, TeamCity
+Work with the rest of the IT team to improve the way technology is delivered to the enterprise which includes designing and implementing systems to improve reliability, scalability, security, and performance.
+Innovate and think outside the box regarding how Patriot can do things better and faster, particularly in regards to IT infrastructure.
+Manage and monitor all installed systems and infrastructure
+Install, configure, test and maintain operating systems, application software and system management tools
+Monitor and test application performance for potential bottlenecks, identify possible solutions, and work with developers to implement those fixes
+Maintain security, backup, and redundancy strategies
+Write and maintain custom scripts to increase system efficiency and lower the human intervention time on any tasks
+THE IDEAL PERSON HAS:
+BS/MS degree in Computer Science, Engineering or a related subject
+A constant excitement about technology and its impact, and a desire to keep abreast of industry trends while learning and adapting skill set quickly and accordingly.
+Ability to provide quality customer service and has effective interpersonal communication skills.
+Great time management skills and is detail oriented
+Experience in Linux systems administration (configuration, troubleshooting & support)
+Experience programming in Bash, Power Shell, Python, PHP, Go, C#
+Experience in a wide range of AWS services or any Cloud experience.
+Experience in supporting and troubleshooting Windows.
+Knowledge in switches, firewalls, VPNs, VLANs, wireless and IP networking.
+SOME PERKS INCLUDE:
+Patriot’s convenient location is close to shopping, restaurants, and almost anything else you might need.
+Free snacks and coffee are available.
+Wear what makes you comfortable, including sandals, shorts, and hoodies.
+Adjustable desks allow you to sit, stand, or mix it up.
+Feel appreciated on employee appreciation days and enjoy impromptu celebrations. It could be anything from free lunch at our corn hole tournament, to a celebration of National Popcorn Day, or a chair massage. The surprises just keep coming!
+Our employees are our best recruiters. Any employee who refers a candidate that is hired receives a cash bonus!
+Free company swag, because free stuff is always in style.
+
+
+Go to apply 
+

@@ -1,0 +1,97 @@
+
+I offer **+ years of experience in developing software and systems using .Net &
+Microsoft Technologies, a strong aptitude for learning new technologies and skills meeting aggressive goals.
+Having the ability to take the technical lead in projects and supporting technical implementation whilst working on multiple products. Employment History
+Professional Services Manager / Project Manager at Globalnet Solutions Australia Pty Ltd, Melbourne, Australia
+November 2016 - Present
+• Job Manager System for "RR Cabinets" (Web System to manage jobs and the workflow process for different type of job).
+• E-Management Recruitment System for "Mahlab Recruitments" (Web System to manage clients, candidates and opening positions).
+• Online Certification Lodgement for “Porter Davis” (Online system allowing suppliers to upload their certificates after job accomplishments). Technologies used: ASP.Net MVC 5, C# and Microsoft SQL Server 2016.
+• Online Inspection Booking for “Porter Davis” (Online system allowing customers to book the inspections via automated method). Technologies used: ASP.Net MVC 5, C# and Microsoft SQL Server 2016.
+• Spectra Selection Guide for “Carlisle Home” (Mobile application allowing customers to choose their home design and options and print it as PDF summary). Developed on IPad and Android with a front end web interface for the Customer Care management using ASP.NET, C# and MS SQL 2012.
+• Database Consultant for the Parking Meter System used by “Armaguard Pty Ltd” My Job was to review the database structure of the system (MS SQL Server 2012) and present recommendations to be applied in order to do optimization on the system due to the performance issues they faced.
+• Project Manager on the project “Windows 10 SOE - Direct Access Installation and SCCM Update” for Russel Kennedy.
+• Resource Management, gathering, analysing, developing projects and preparing proposals/presentations.
+Alaa Sabha Details Melbourne, Australia
+Senior Software Engineer-Developer / Project Manager Profile
+Arabic
+Social Profiles
+LinkedIn
+English
+Languages
+French
+Bachelor of Computer Science
+Lebanese University
+Lebanon
+2003 – 2008
+High School Diploma
+El-Mina International School
+Lebanon
+2003
+Certifications
+PRINCE2 Practitioner
+Accredited - 2017
+Cert#: 04146196-01-7EQZ
+Expiry: July - 2022
+PRINCE2 Foundation
+Certificate - 2017
+Cert#: 041*****-**-PQ74
+Microsoft Certified System
+Engineer (MCSE Certified)
+2008
+Cisco Certified Network
+Administration - 2007
+CISCO ID #: CSCO11310647
+Education
+Melbourne, Australia
++61-416******
+adaglj@r.postjobfree.com
+Senior Software Engineer at Telepaty Holding - Lebanon June 2008 – October 2016
+• 2015-2016: Head of development unit: manage & supervise the design of Saudi Post services system.
+• 2013-2015: Head of development unit: supervise the development of the banking technology TMS/PMS.A module imperative for the banking business allowing the coordination between all platforms (POS Terminal, F5 Hardware, NCC and MegaNac routers and Online Banking system). Duties included the design of the intermediate database along with the front end interface and the service gateways.
+• 2010-2013: Team leader and coordinator for the E-Voucher system. Duties include coordination between stakeholders and team involved (R&D, Database, Back-office and Gateway), also headed the implementation team directly.
+• 2008-2010: Programmer/Developer E-Voucher system (a system allowing the mobile operators to electronically distribute their recharge denominations to the end users). Duties include database structure and the development of the back office windows interface for management. Technologies used: .Net Framework 3.5 with C#.NET as language and for Microsoft SQL Server 2008 for database. Accomplishment of the training as an accredited Centrify Services Provider on their product Server Suite (announce by Centrify Professional Services Organization). The Boot Camp covered an aggressive training and overview tempo provided by an experienced Sr. Consultants. This Boot Camp experience included varying examination challenges from scenarios, presentations, and theory. Direct question and answer, installation, troubleshooting, design, configuration, automation, validation, migration, clean-up, scripting, and reporting were addressed in this Boot Camp.
+March 2009
+Other Duties:
+• In order to guaranty a successful coordination with the clients, my role required me to travel between different countries mostly Middle-East, Gulf and Europe.
+• Installing and maintaining severs & systems within the client’s digital environment.
+• Ensuring projects and programs are executed within the agreed standards and processes
+• Ensuring and Preparing unit test, system integrations and user acceptance test (UATs).
+Personal Experience
+CENTRIFY Professional Services Boot Camp
+February 2017
+Travels: Already visit
+France, Belgium, Turkey,
+Saudi Arabia, Kuwait,
+Jordan.
+Construction Project Management
+• Identity Management &
+SSO: Centrify
+• WordPress CMS
+• Windows Server
+2003/2008/2012 R2
+• Visual Studio (2005-
+2015), TFS (Team
+foundation Server)
+• MS Office
+• Azure
+:
+The system will help contractors managing their project workflow and tasks. The System developed using .Net 3.5 Framework with C#.NET language, Devexpress 10.2 components and Microsoft SQL Server 2008 as database. .It contains following modules:
+Project Study, Tasks Management, Inventory Management, Job folder, Resource Management, Job Costing, Reports and Invoicing.
+Beneficiaries Services System
+Project for Karame Association in Lebanon allowing them to manage their beneficiaries and the services they provide and the integration with their election’s check list. The system developed using .Net 3.5 Framework with C#.NET language, Devexpress 10.2 components and Microsoft SQL Server 2008 as database. IT MANAGER
+It Manager during the Parliamentary Lebanese elections 2009 period at “Bureau of Statistics and Documentation”. Working live in LBC Adma office to manage the team and give real-time results.
+Hobbies
+Sports: Soccer, Running,
+climbing and anything had
+adventure.
+Skills & Competencies
+• Programming Languages & Patterns: C#, ASP.NET, ASP.NET MVC, VB.NET, SQL, LINQ, EF, Java, Python, JavaScript, DHTML/XML, Bootstrap, OOP, Razor, JSON, AngularJS, ADO.net, SignalR, SOAP, Rest…
+• Database: MS SQL (2005-2014), Oracle, MySQL, MS Access.
+• UI Controls: Devexpress, Telerik, and AjaxControlsToolKit.
+• IT projects management & development lifecycles (SDLC).
+• Ability to work to rigorous deadlines and stay within quoted budgets.
+• Ability to multi task & prioritize under ever changing & challenging workloads.
+Other Skills
+
+Contact this candidate

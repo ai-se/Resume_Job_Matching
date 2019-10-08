@@ -1,0 +1,95 @@
+
+Ranjitha S R
+Operation Manager
+Objective
+Looking forward for an opportunity to work in Machine Learning and Artificial Intelligence by utilizing analytical and Mathematical skills to help the company achieve business goals while sticking to vision, mission and values.
+Employment History
+Operation Manager at Handshake Network LLP, Bangalore Apr 2019 – Sep 2019
+Worked on Queue Management System which generates tokens and waiting time in Hospitals and Banks.
+Hands on experience with the python libraries FPDF, Flask, Escposprinter and T-Kinter.
+Software familiarise with MQTTbox, Mosquitto-Broker, Postman, Putty and Meta Trader 4 Terminal.
+Well versed with Pandas, Numpy, Matplotlib, Tensorflow, Regression.
+Handling clients and making upgradation or changes as per their requirement and maintaining operations.
+Field Support Engineer at Indus Towers Limited, Bangalore July 2016 – March 2019
+Utilized TQM and Lean Six Sigma techniques and
+contributed for winning Deming’s prize.
+Submitted Yellow belt idea which was implemented successfully in PAN India.
+Efficiently monitoring the Operation and Maintenance of 138 cell sites and meeting high-pressure deadlines.
+Silver card appreciation from circle CEO for maintaining highest Network Stability in quarter-3 of 2018-2019.
+Optimization in power and fuel consumption and also involved in troubleshooting and doing RCA for permanent results.
+Successfully implemented RWM (Routine work
+Management) in everyday activities.
+Education
+Bachelor of Engineering, GSSSIETW, Mysore
+Aug 2012 – May 2016
+Completed BE in Electrical and Electronics Engineering with 67.2% also published 2 projects in IEEE and participated in Symposium for paper presentation. Attended Quad copter workshop conducted by Techno-Xian.
+Details
+54/7, 8th main, Yellappa
+Garden, Malleshwaram,
+Bangalore, 560003, India
+890-***-****
+adah3v@r.postjobfree.com
+Date / Place of birth
+1995-05-25
+Mysore
+Nationality
+Indian
+LinkedIn
+https://www.linkedin.com/in
+/ranjitha-sr-899927104/
+Skills
+Python
+Machine Learning
+Numpy
+Matplotlib
+Pandas
+Lean Six Sigma
+TQM
+C and C++
+MS Office
+Language
+English
+Hindi
+Kannada
+Hobbies
+Playing Basket Ball
+Reading Books
+Interests
+Universe
+Mathematics
+Adventure
+Intermediate, MMK & SDM Girls PU College, Mysore
+Jun 2010 – Mar 2012
+Completed 12th in PCMB with 70.83%
+High School, JNV Shivargudda, Mandya
+Jun 2005 – Mar 2010
+Completed 10th in CBSE with 72.2%
+Courses
+Data Science and Machine Learning, Stratus Labs, Bangalore Jan 2019 – May 2019
+C, C++, MS Office and HTML, CSEC, Mysore
+Apr 2012 – Oct 2012
+Extra-Curricular activities
+Treasurer, SAPH Association, Mysore
+Aug 2015 – Oct 2016
+SAPH - Students Association for Peace and Humanity Campus Recruitment Training, Career Prime, Mysore
+Jul 2015 – Jul 2015
+Soft skill program and all other career development programs are completed
+Projects
+Sentiment analysis on Amazon
+Apr 2019 – May 2019
+The Amazon comments data were collected
+Using logistic regression, every comment was predicted whether it's a positive or negative
+The final accuracy was 79%
+Stock price prediction
+Apr 2019 – May 2019
+Stock history details were collected from yahoo finance
+Future price was predicted using combination of SVR and Neural networks
+MAPE was found out to be 4%
+Additional work
+Teaching Python and Maths, Stratus Labs, Bangalore Mar 2019 – Apr 2019
+Math topics and python for 1 batch is done
+Teaching Mathematics, Gurukul Tutors, Bangalore
+May 2018 – Nov 2018
+From class 4th to 12th in CBSE and ICSE Syllabus
+
+Contact this candidate

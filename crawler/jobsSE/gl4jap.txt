@@ -1,0 +1,15 @@
+
+Sr.
+Websphere Engineer Duration: 6 month+ Skype St.
+Louis,MO The Web Platform Engineering team is responsible for the automation, build and configuration of mission critical middleware infrastructure for all web based applications and services at MasterCard.
+Our team of Engineers are engaged early in the project lifecycle to ensure, along with other vital teams, that the technical design, the final build and configuration of the web infrastructure meets MasterCard''s requirements for speed to market, security, sizing, performance, and resiliency.
+Day to Day Build and implementation of new middleware components such as JBoss, WebSphere, Tomcat, F5 (BIG-IP), Webseal/ISAM, IIS, Apache, etc.
+Collaborate with Development teams to discuss, analyze, or resolve application and usability issues and suggest to engage the Technology Engineer for any new requirements which are not defined in standard architecture design document (TAD Document installation and configuration procedures to allow maintenance and repetition as well as maintaining this documentation.
+Implement complex security integration utilizing MSSL, mutual authentication, hardware certificates, software certificates, dynamic endpoints, and other security models.
+Participate in the project''s environment shakedown testing and troubleshooting efforts as required.
+Responsible for project handover to the Web operations team with hand over documentation from a Web infrastructure perspective.
+Required Advanced knowledge of Internet architecture and project delivery Advanced knowledge of WebSphere Intermediate knowledge of JBoss, Tomcat, Apache, WebSeal Intermediate knowledge of load balancers and web application firewalls Intermediate knowledge of network and operating system principles Experience with automation Experience with ISAM integrations a plus Strong communication skills Detailed oriented
+
+
+Go to apply 
+

@@ -1,0 +1,56 @@
+
+SARITHA S BABU
+Quality Engineer
+Email : adahky@r.postjobfree.com
+Phone number : 079********
+Objective:
+Seeking a Software Tester position in order to use and develop skills in quality analysis. Professional summary:
+1. Well versed with SDLC – Agile, Scrum methodologies 2. Well versed with project management tools like JIRA and Milestones 3. Good understanding of the STLC process – Test case documentation, review and Test report.
+4. Familiarizing with Automation testing using Selenium, Jmeter. Educational details:
+Name of the highest
+degree
+University Percentage
+BE- CSE Anna University,Chennai 65.30
+HSE(Bio-Maths) State board, Kerala 72
+SSLC State board, Kerala 84
+Certification:
+Done Software testing course in Innostack (Taining hub of Aabasoft Technologies) Work experience:
+Currently working as a software quality engineer at Pumex Infotech Pvt Ltd. Infopark,Kochi with in hand experience of 1.2 year.
+Technical skills:
+• Expert in Manual testing of web and mobile applications
+• Testing related tools: JIRA,Milestones
+• selenium (c#), Jmeter beginner
+• Windows tools – MS office
+Projects:
+Worked with testing of various projects in Java, Php, iOS, Android and C#.net Roles and Responsibilities:
+1. Performed requirement feasibility analysis and identified test scenarios/test objectives
+2. Contributed to the preparation of the defect management, communication and Test scope sections of the test plan
+3. Identified end-to-end test cases, regression suites and system test cases. 4. Involved in Test data identification and gathering 5. Documented test cases and performed peer reviews on the team mate’s work. 6. Responsible for Smoke and Sanity test.
+7. Performed elaborate functional testing for Admin module along with exploratory testing of the entire site. Also worked on test case maintenance when necessary.
+8. Performed browser compatibility testing on browsers Chrome 2.0 and Mozilla Firefox 5.0 & 6.0 versions and IE(edge)
+9. JIRA was used for issue tracking in case of environmental issues 10. Prepared and sent daily reports – test execution report and bug report Roles and Responsibilities (Agile) Project:
+1. Performed feasibility analysis for the user stories in the Product backlog and identified test scenarios/test objectives
+2. Participated in Daily scrum meetings
+3. Performed elaborate functional testing for Admin module along with exploratory testing of the entire site. Also worked on test scenario maintenance when necessary.
+4. Responsible for Smoke and Sanity test.
+5. Performed browser compatibility testing on browsers Chrome 2.0 and Mozilla Firefox 5.0 & 6.0 versions
+6. JIRA was used for issue tracking in case of environmental issues 7. Reported over all sprint status and daily status Reference:
+Will be provided on request.
+Personal Details:
+Name SARITHA S BABU
+Father’s Name SATHEESH BABU
+Date of Birth 17
+th January 1994
+Marital Status Married
+Gender Female
+Nationality Indian
+Permanent Address Ushus House,
+Mundukottackal PO,
+Pathanamthitta,
+Kerala-689649
+Languages Malayalam, English, Tamil(speak)
+DECLARATION:
+I hereby declare that all the information given above are true and correct to the best of my knowledge and I bear the responsibility of the above mentioned particulars. If I am selected, I will discharge all my duties to the best of my ability. Saritha S Babu
+Place:Kochi
+
+Contact this candidate

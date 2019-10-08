@@ -1,0 +1,179 @@
+
+HEMALATHA.M
+Plot No: ***, Mahaveer Garden Main Street, Thiruneelagandar Nagar, East Kavangarai,
+Puzhal, Chennai –600 066, TAMILNADU, INDIA
+Email ID: adafu3@r.postjobfree.com Phone: 861******* Highly motivated, decisive and results- oriented individual seeking a challenging position in IT sector where I can apply my professional, managerial and interpersonal skills in a competitive environment, thereby enhancing myself and work towards the goal and vision of the company. Qualification Summary
+• Overall IT Experience of about 4.10 Years
+• Skilled in Java Programming and Android Developing
+• Experienced in Application Development and Application Maintenance
+• Knowledge in Technical concepts like OOPS, Core Java,J2EE,SQLite,JSON,Webservices
+• Highly professional in software tools such as Eclipse, NetBeans, Android Studio
+• Experienced personnel in handling team with leadership qualities and project management Educational Credentials
+• B.E Computer Science from PMR Engineering College, Chennai with 66.3%
+• HSC (Computer Science) from Don Bosco Matriculation School, Chennai with 84%
+• SSLC from Don Bosco Matriculation School with 81% Professional Experience
+1. Kaspon Techworks Pvt Ltd, Chennai May 2017 to Present Software Engineer
+TVS CREDIT SERVICE PRIVATE LIMITED, CHENNAI
+PROJECTS:
+PROJECT PROCESS IDE DURATION TEAM DESCRIPTION
+SAATHI
+Android APP
+Development
+Android
+Studio3.2
+January2018 –
+present
+2
+The Saathi app enables customers to
+apply for loans and view the entire
+history of his login status, disbursed
+details, schedule, notifications on new
+offers and schemes etc.
+VEHICLE
+VALUATION
+Android APP
+Development
+Android
+Studio3.2
+May 2018 –
+Present
+1
+The application developed for the
+revaluation of the vehicle to check the
+condition of vehicle.
+ILEAD
+Android APP
+Development
+Android
+Studio3.0
+September
+2017-
+December
+2017
+1
+iLEAD is an application designed to
+manage user's lead created by internal
+TVS employee & sales executive.
+iLEAD application has a provision for
+Lead generation, Viewing lead status,
+Lead updation, EMI calculation facility,
+Dashboard.
+KASPON TECHWORKS PRIVATE LIMITED, CHENNAI
+PROJECT PROCESS IDE DURATION TEAM DESCRIPTION
+MY OFFICE
+Android APP
+Development
+Android
+Studio2.3.1
+May 2017-
+August 2017
+1
+Application provides an easy-to-use
+web and Mobile application providing
+many powerful essential features for
+companies at any stature.
+2. Surya Informatics Solutions Pvt Ltd, Chennai July 2016 to April 2017 Software Engineer
+PROJECTS:
+PROJECT PROCESS IDE DURATION TEAM DESCRIPTION
+HOSPITAL
+MANAGEME
+NT SYSTEM
+Struts2,
+Hibernate,
+MYSQL
+Eclipse4.4
+November 2016
+- April 2017
+3
+HMS software designed to manage all
+aspects of Homeopathy such as
+Pharmacy,Online Appointments
+Scheduling, Secured Messaging, Doctor
+Portal, Patient Portals, Medical
+Electronic Billing, Accounting.
+DO INTERN
+Android APP
+Development
+AndroidStu
+dio2.1.2
+August2016
+- October 2016
+2
+Android APP for final year students
+Internship.
+3. Sans Pareil IT Services Pvt Ltd, Chennai October 2014 to July 2016 Programmer-JAVA
+PROJECTS:
+PROJECT PROCESS IDE DURATION TEAM DESCRIPTION
+EMPLOYEE
+TRACKER
+Servlet, JSP,
+JSTL,
+MYSQL,
+Struts2
+Eclipse4.4
+Jan2016 –
+July2016
+3
+Performances of the employees are
+analyzed by their respective team
+leader; The team leader can give tasks
+to their team member & monitor project
+status through the updates done by
+employee
+E-
+VALUATION
+Javascript,
+JSP, MYSQL,
+Struts2
+Eclipse4.4
+July 2015 –
+Dec2015
+4
+Candidate registration; Scheduling of
+the examination; The administrator has
+all the operator controls, along with
+features to directly update the server
+HOTEL
+MANAGEME
+NT SYSTEM
+Servlet, JSP,
+MYSQL
+NetBeans8.
+0
+Jan2015 –
+June2015
+3
+Web application that manages the front
+desk, hotel details, revenues, tax
+management. Maintenance of the
+lodges, booking details, Payment
+details, and various types of classes of
+new arrivals, customer management and
+food management facilities
+Personal Skills
+• Quick in trouble shooting in relevant knowledgeable areas
+• Effective Communication skills and willingness to learn, extremely receptive
+• Well balanced and poised under pressure and highly comprehensive
+• Effective and efficient in time and crisis management
+• Excellent in leadership activities and good team playing skills Technical Skills
+Operating System: Windows, UBUNTU
+Programming Language: Java/J2EE
+Frameworks: Struts2.0, Hibernate
+Database: MYSQL
+Web Technologies: HTML, CSS, JavaScript, JSP, Servlets Software Engineering tools: Eclipse 4.4, NetBeans 8.0.2, Android Studio 3.1.2 Certifications
+• Diploma in Computer Application at CSC India, Chennai in 2010
+• Core Java and J2EE at SSS, Chennai in 2014
+Personal Information
+Father’s Name : Mohan N
+Date of Birth : 1
+st
+April1993
+Gender : Female
+Nationality : Indian
+Languages Known : English, Hindi and Tamil
+Declaration
+I hereby declare that all the above furnished information is true to my knowledge PLACE: Chennai
+DATE :
+(HEMALATHA.M)
+
+Contact this candidate

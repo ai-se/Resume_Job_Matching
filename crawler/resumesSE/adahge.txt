@@ -1,0 +1,236 @@
+
+Experienced Program Manager / Technical Engineer with a focus in enterprise level infrastructure/systems/software development projects, security/systems engineering, IT Transformation, data governance, software/applications/systems development, security engineering, enterprise systems architecture, security compliance, security & business systems assessments and process improvement.
+Experience leading Product Compliance and Certifications DISA, FedRAMP, NIST, NSA, JITC, PCI, etc.
+Managed multiple USAF (NETCENTS II – Net Ops) Enterprise Infrastructure programs replacing the networking components and power infrastructure across 60 USAF Bases. The programs are in excess of $20 million each. The infrastructure Recapitalization programs are designed to prepare the USAF bases for NAAS – Network as a Service (Cloud/FedRamp Cloud), WANAS – Wide Area Networks as a Service and future cloud migration efforts.
+Managed the development of 60 different security configurations/hardware/software/firmware platforms to ensure technologies aligned with DoD Security Controls, Network Compliance and Accreditation to achieve Authority to Operate.
+Project Manage the development and system designs preparing the system for submittal to achieve Authority to Operate and Certificate of Net worthiness on Unclassified and Classified Networks across the Department of Defense.
+Managed teams of 5-20 personnel (Engineers, Developers, DBA, Team Leads)
+Managed Project scope sizes of (Staffing Budgets-$1m-$5m, Risk, Project Working Budgets-$1m+, R&D $500k+, Bonus Budget-$20k+)
+Managed Hardware/Software/Systems/Solutions/Cloud/Security Requirements Gathering, Developing Statement of Work, Proposal Development, Solutions Development and Integration, Acquisition vehicles, Government Contract and Vendor evaluations (Procurement Acquisitions: $100 million+)
+Managed the overall scope of assigned projects; CDRL Management and Coordination, Creating and maintaining consolidated timelines/schedules highlighting the major milestones and associated dates for project activities; Identifying and communicating project dependencies and impacts; Implementing improvement mechanisms to enhance project performance (E.g., Kick off meeting, overall Project Management Approach, Communication Plan, Risk Management, Issues Management, Change Control, Budgeting, etc.)
+Work with organizations to develop metrics, analyze problems and recommend improvement opportunities associated with business processes.
+Translate business needs into practical applications, solutions, and business/data rules into existing analytical programs for continuous improvement; develop, test implement programs where one does not exist.
+Managed Transformation/Transition plan 4 different development teams from Waterfall to Agile/SCRUM.
+Managed and provided migration and transition planning from Mainframe to Fedramp Cloud environments (IBM, Oracle, Azure, and AWS)
+
+SKILLS
+
+PMP-Agile Program Management
+Waterfall-to-Agile Development
+Scrum Master
+Systems Engineering
+Microsoft Project Tools
+Business Systems Consultant
+Process Improvement
+Security Compliance (FedRamp)
+Enterprise Standardizations
+Enterprise Acquisitions
+
+Standards: PCI-DSS, FISMA, NIST 800-53, FISMA, NIST 800-171, Sarbanes-Oxley (SOX) (IT Governance Control) management, security, compliance, Risk Management Framework, DISA Application/Network STIGS, DIACAP, SCAP, CMMI-Level 4, NSA, NIST, AFI-AFMAN, DIACAP, 8500.1, Information Assurance, 8500.2, Information Assurance Implementation, NISTSP 800-53, 2-Factor Authentication-PKI, FIPS, Common Criteria, DISA-JITC, IEEE, EPEAT
+Bodies: AFNET, AFNIC, Space Command, FAR, HIPPA, EPA, FedRamp, SOX, SOC1-SOC2, SAE 16
+Project Management tools: Microsoft Project, Clarity, VISIO, Doors, JIRA, PeopleSoft, STAMP, SharePoint, MS Suite, Wrike, Slack, Tableau, and Huddle.
+Network Scanning-Testing: HP Loadrunner, HP Quality Center, Patch Management, Security Logging, and Managing alerts; eRetna, SCCM, PhishMe, Swimlane, Columbo, Titanium, Qualys, Validation Framework, Vulnerability Systems
+Whitepaper Publications: Blockchain Cross-Network-Domain/PKI Identity Management and Blockchain Supply Chain enhancing Military and Government Enterprise Capabilities to share and protect informational data.
+
+PROFESSIONAL EXPERIENCE
+
+Sumaria Systems (Contractor) May 2018 – Present
+Program Manager – USAF Recapitalization Wired Infrastructure Projects
+As a Sr. Program Manager, I manage two USAF Enterprise Infrastructure Programs (NETCENTS II – Net Ops) (est. $40+ million AFLCMC/HNIB-Hanscom AFB - BITI BAN 16/18 Wired Recapitalization Programs). These programs are upgrading USAF Base Networks (60+ Bases) with the infrastructure resources needed to increase network as a service capability (i.e. Power, Fiber Optics, Cisco switches, ISE, Juniper switches, etc)
+Managed multiple Enterprise Infrastructure programs replacing the network components and power infrastructure across 60 USAF Bases. The programs are in excess of $20 million each. The infrastructure Recapitalization programs are designed to prepare the 60+ USAF bases for NAAS – Network as a Service, WANAS – Wide Area Networks as a Service and future FedRamp cloud migration efforts.
+Lead a team of 8 Project Managers, 10 Field Engineers, (Sub Contractors-General Dynamics IT (GDIT) and others) and administrative personnel to support both Infrastructure Programs.
+Responsible for managing all aspects of the programs (i.e. network/infrastructure surveying team, electrical and network design team, installation/cut-over team, training team, and ensuring that all projects are scheduled, and timelines met.
+Perform all PM functions, Government Program Management Reviews, Weekly PMO Updates, CDRL Reviews and Submitting, Design Package Reviews, Action Items/Resolution and Management, Team Meetings, Scheduling, Budgets/Invoicing, Issue Resolution, Proposal Modifications, and engaged in 10+ update meetings per week, etc.
+Reviewing the survey documentation for accuracy and missing data.
+Establishing goals and deadlines for engineering package development and submission.
+Assisted in establishing engineering guidelines to meet the contractual requirements.
+Lead for on-site CIR engineering meetings and presented DS solutions to the governments.
+Participate in Prime contractor and Government reviews and conference calls.
+Provide critical direction on issues that impact schedules and profitability.
+Conducted break – Fix meetings to re-establish goals or correct conditions that IMPACT the health of the project.
+Work with internal Business Development team on new work and expansions of work proposals.
+
+PCI Strategic Management (Contractor) Nov 2017 – May 2018
+Project Manager – Improvement / Transformation Engineering
+Managed USAF Business Enterprise Systems project supporting the Defense Financial Accounting Systems (DFAS) consisting of 4 IBM/Unisys Mainframe environments, 100+ Interface Connection Partners, and output of over $50 Billion per year in Government payments and Discretionary Funds Payments.
+Developed a gap analysis between current Waterfall development processes and the transition to Agile development processes and methodologies.
+Provided executable roadmap/practices to transform/transition 4 development teams from Waterfall Methodology to Agile/SCRUM.
+Develop an overarching Agile Process that integrated 4 software development programs into a single process to empower and streamline the software development process.
+Responsible for developing the Software Development Plan combining 4 disparate processes under a single Software Development Plan Align and Integrate Agile/SCRUM processes within the USAF Systems Engineering Process.
+Work with onsite and offsite teams (Remote and Co-Located).
+Managed the defining and mapping of Integrated Technologies and Interfaces: 150 API Interfaces, Cobol, C+, Oracle, SQL, IBM/Unisys Mainframe and other technologies.
+Managed Risk, Risk Mitigation Plans, Project Charter/Development, Project Schedule and Planning.
+Prioritized and managed project schedules, planning, tasking, team updates, weekly activity reports, project budgets with Microsoft Project, PeopleSoft, SharePoint, o365, and Excel.
+Managed Security Assessment and Compliance Team to review current security poster of 4 Enterprise Level Mainframes with over 100 Interface Partners.
+Provided expert guidance on developing project artifacts, documentation templates, interviewing questionnaires, story boards, documentation matrix and other.
+Managed Systems Engineering Processes and Security Audit/Assessment Fedramp, (800-53, DIACAP, 800-171, PCI-DSS, FISMA, USAF-AFI, and SEP-USAF Mandatory Regulations) for 5 Mainframe Financial systems reviewing: DoD IA Security Controls, Development documentation, Processes and Procedures, USAF-DoD Regulations, Testing and Integrated Test Plans, Configuration Management Plans, Risk Management Framework, IA Cyber Security Controls, and other Systems Engineering documentation to ensure compliance with USAF and DoD Regulations to support current Authorizations to Operate on the network.
+Communicated with PMO and Engineering Leadership advising the way forward for Software development processes, Process Improvement, Process Assessments, Process Alignment, etc.
+
+Strategy Wise (Consultant / Advisor) Feb 2017 – Nov 2017
+IT Director – Master Data Management/Governance/Security
+Strategy Wise (Data Science firm – Start-Up)
+Birmingham, Al
+
+As the Director of IT Data Management/Governance (CMMI-Data Management) I manage and developed a strategic vision for Strategy Wise aligning all programs, processes, procedures, and data collections into a secure and manageable data management and life cycle program that is now moving into the discovery/implementation phases of each project.
+Work with CEO/EVP level of Fortune 500 companies to develop Data Governance Framework, Data Governance Programs, Data Discovery Solutions, and overall vision for their Data Governance Missions.
+Enterprise Data Science/Solutions Tools/Experience: Alation, Azure, Waterline, Collibra, YellowFin, PowerBI, Tableau, R-Studio, Anaconda, Python, etc
+Manage multiple Implementation Data Management/Governance Projects for external clients that include establishing Data Governance Framework, Data Councils, Data Categorization/Meta Data, Data Discovery, Predictive Analytics, and Data Management Engineering normalizing Enterprise Data programs across disparate networks and data sets.
+Developed templates, tools, and processes integrate within the project layers and supports the project throughout the project lifecycle from end-to-end.
+Manage and developed Data Governance and Security Protection requirements and policies for external client data (i.e. Data in Transit, Data at Rest, Data Sanitization, Data Quality, Data Assurance, etc).
+Lead Data Governance Solutions expertise advising CEO / EVP level on Data Management Solutions (i.e. Alation, Azure, Waterline, Collibra, etc,)
+Manage IT infrastructures applying IT Director level duties such as Data Security Classification Programs, IT Security Incidents, Data Spillage program, Security Policy, End User device management processes, Security Patching, Active Directory Management, Slack, Wrike, DUO, Box, Sharepoint Implementations, Microsoft 365 migration, Cloud Azure and AWS, and more…
+Manage the migration from an Apple to a Windows/Microsoft environment which included: Migrating data storage and management into Enterprise Sharepoint and migrating email for gmail/active directory to Office 365 Premium Edition.
+Develop, Implement, and train office staff and end users on network security, data classifications, phishing emails, proper tools for moving data, how to protect data, how to properly destroy data devices with DoD 7x wipes, etc…
+Project Management Communication and Management tools include (Slack, Wrike, Lync, Skype, Microsoft Project, Sharepoint, Box, Google Drive, and One Drive)
+
+Canon U.S.A – (Consultant / Advisor) Feb 2016-Feb 2017
+
+Federal (DoD) Product Security Consultant – Sr. Security Advisor-SME
+Project Manager for bringing the Canon Network Scanning and Imaging devices portfolio ($100m product line) into compliance with Government and Department of Defense / NIST / FISMA Security Control Policies.
+Managed the product development of the ScanFront 400 advising Canon U.S.A product teams on how to integrate Government Security Controls and Network technical specifications for their imaging and scanning product lines to ensure the alignment of specifications to Government market.
+Managed the Security Assessment strategy through pilots with the USAF, Army, and Navy to ensure Canon products passed all Security tests.
+Managed and development a strategic roadmap for the scanning and imaging divisions Software and Hardware platforms to align Canon U.S.A Network scanning and imaging devices with Security Controls and Policies (i.e. NIST Controls, DISA Network STIGS, etc).
+Assessed sales channel to determine the correct partners, eliminate non-performers, and establish new lines of business.
+Attended many Partner Conferences and sales conferences.
+Managed project with standard project tools (i.e. Microsoft Project, SharePoint, Dropbox, Excel, Word, etc)
+Managed data analysis with Tableau, Excel, and Power BI.
+
+Wells Fargo (Contractor) Jun 2015-Feb 2016
+Enterprise Project Manager – Center of Excellence for Security Patching
+Provided enterprise level-technical project management expertise to shape, modify, and direct the Center of Excellence for Enterprise Security Patching across the Wells Fargo Enterprise to include (Scope Alignment, Business Framework, CMMI implementation, Configuration Management, Business Process Design and Development, Program Alignment, and Governance.).
+Supported 8 Enterprise Competency Centers of Excellence (Firmware, Middleware, Personal Computing, Applications, Databases, Third Party, Legal Entity, Corporate Properties) with aligning their programs with Enterprise Patching processes, procedures, standards, and governance to ensure they meet Wells Fargo compliance and CIO initiatives.
+Managed projects that required Configuration Management, Enterprise Reporting, Artifact Management, Business Process Development, Timeline Mapping, Roadmaps, Workstreams, SharePoint build outs, Data Migration, Documentum, Training, and more to support the Enterprise Patching Program Office.
+Provided Governance oversight and alignment of Software Applications, Databases, Middleware. Firmware, Personal Computing, and Third-Party Legal Entities for 8 different Competency Centers.
+Managed project timelines/budgets with Microsoft Project, STAMP, and document project artifacts within SharePoint and Documentum.
+
+P3i/Jacobs Technology (Contractor) Jun 2007 – Jun 2015 Enterprise USAF-ITCC Project Manager – Technical Lead
+Project Manager / Enterprise Technical Lead for the USAF Information Technology Commodity Council leading the development of over 60 different platforms per year.
+Developed and Managed Power Reduction Configurations Program reducing the USAF power consumption by $25 million per year (per *EPA Official Report) and saved taxpayers of $400 Million per year.
+Simultaneously managed 4 Enterprise Infrastructure Air Force Projects estimated $800 million per year in procurements.
+The 4 projects included Client Computing (HP, Dell, Lenovo, Getac, Panasonic, Apple,), Servers, Thin Client (Citrix - Xen, Virtualization/VMware), Digital Printing and Imaging (Lexmark, HP, Dell, Xerox,), Cellular Mobility Services and Devices (Apple/Android), and Office Automation and Infrastructure.
+Managed the standardization of software/hardware/firmware/apps to align out-of-the-box solutions to be fully compliant with Government Networking and Security Standards.
+Identified and documented Risks, Security Risks, Disaster Recovery and Back-up.
+Managed code and Security configuration releases with tools such as SCCM, SharePoint, Excel, SourceSafe, Project, etc.
+Developed standardizations and security configurations for over 60 component categories (Classified and Unclassified) which reduced costs, provided security, modified configurations to DISA-USAF requirements, tested, and deployed onto Millions of devices that support our USAF Networks.
+Utilized the USAF System Engineering Agile Development Process to quickly respond to War Fighter requirements while maintaining system integrity, standardization, security, and posture across the Enterprise.
+Managed, coordinated, and evaluated vendor products/reviews, technical proposals, past performance, warranty proposals, life-cycle management proposals, etc
+Integrate CIE and AF/DoD Security/operational regulations (DISA, NSA, NIST, AFI-AFMAN, DIACAP, 8500.1, Information Assurance, 8500.2, Information Assurance Implementation, NISTSP 800-53, etc) and guidance within the standards.
+Established Air Force Assessment/Management tools and guidelines for assessing user-to-device ratios for operational/management environments
+
+PTG/BTAS (Contractor) Jun 2006 – Jun 2007
+Project Manager/Technical Advisor/Security Process / Systems Engineer
+Managed the technical evaluations, testing and negotiations of over 30 Top Enterprise Software Licenses to establish an enterprise license program for the USAF.
+Managed the Enterprise Software Initiative evaluation program to establish enterprise license agreements with: (Microsoft, Oracle, ReHat, Quest, ActiveIdentity, VMware, HP-ITAM, Forescout, BMC, etc)
+Led review and evaluation efforts of Enterprise Software Licenses to ensure compliance with Department of Defense and Military Network Security Standards.
+Provided expert recommendations on whether technologies fit the Government Standards and if the technologies aligned with Government Architectures and Network Security Mandates.
+Technical Advisor on the stand-up of a Software Enterprise Acquisition Management Lifecycle System (SEAMLS) that integrated with the AF-IT Asset Services Management (AFWAY I-II – NETCENTS Follow-on-NETCENTS 2) Portal and AF-ERP for managing all Air Force Enterprise Licenses Agreements such as: (Oracle, Microsoft, Symantec and other)
+Led Technical Research reviews of current licensing distribution process flows and methods to determine process improvements, consolidation of processes, consolidation of licenses, and contracting strategies that will reduce resources and save money across all AF/DoD.
+Managed consolidation of three Oracle Enterprise License Management Systems into one single one-stop-shop for Air Force users and position the system for ERP integration.
+Review and capture System Models, System Technical Capabilities, Data Process Models, and Distribution Capabilities/Channels of each system.
+Review and Perform Functional and Technical Analysis on Oracle Products/Systems such as: Oracle HTMLdb, Oracle RAC, Oracle iProcure and Oracle Procurement Modules, Oracle DB Manager, Oracle Licensing, Oracle Application Products and other.
+Responsible for preparing and review System Engineering Process Documentation such as: Concept of Operations, General Requirements Specifications, Security Documentation, Master Project Timeline and so forth.
+Managed a team of Sr. Engineers, IT Engineers, Business Analyst, and Project Analyst in support of an integration effort consolidating Enterprise Wide Oracle Software Licenses and Web Portal Ordering Systems that support (DEAMS, ECSS, DCAPES, and AF-Wide Operations) to standardizing/centralizing AF/DoD online purchases of software for the Enterprise.
+Managed the Analysis of Business processes, Gap Analysis, Requirements, complex SSAA (System Security Authorization Agreements), SLA (Service Level Agreements), CTO (Certificate to Operate), RTO (Request to Operate), and SWO (Statement of Work) for Systems Approval processes.
+Managed Systems Engineering Processes and Security Audit/Assessment (800-53, DIACAP, 800-171, PCI-DSS, FISMA, USAF-AFI, and Systems Engineering Processes-USAF Mandatory Regulations)
+Data Mined-Data Warehouse (Oracle iProcure-SQL-Excel) 3 disparate Oracle Data Warehouse systems to determine Data Structure Library, Consolidation Points, Trend Data, License Counts, Contract Lengths, Missed Revenue (Revenue Leakage) and other items.
+Review and provide technical advice on large Enterprise Acquisition Contracting Strategies for Software and Hardware Acquisitions that exceed $20 billion.
+
+Colonial Bank - (Contractor) Oct 2005 – Jun 2006
+Project Manager – Business Applications Interface and Business Process Engineer
+Online Banking/Web Vault/Business Credit Card Applications
+• Manage/Lead a team of Application Analyst, Team Leads, Business Analyst, Programmer Analyst, DBA’s, and Testers in support of an Online Software Banking Application that processed over $350 million in mortgage/rent payments per year.
+• Manage and Lead development, testing, rollout, implementation, and sustainment for an online Property Management banking application that generates and processes over $350 million per year in payments and supports a customer base of over 400,000+.
+• Data Mined-Data Warehouse (SQL-Custom Developed) eCommerce and System Records to Application usage patterns, Trends, Errors, Login, Time on Application, etc…
+• Developed and maintained project scope, baselines, funding, SOW, Management and Stake Holder Reports, project control, risk management, etc…
+• Managed conception, development, testing, rollout, implementation, and sustainment of an online Credit Card Mortgage/Rent Processing application.
+• Developed application web services that utilized and integrated SOA architecture.
+• Managed, developed, and formulated future enhancement plans, expandability plans, application infrastructure, database structure, and coding methodology for online banking applications.
+Technical Management (Manage Developers, Code Roll-outs, Methodology, Code Reviews)
+• Lead layout, design, development, and testing of application interface designs.
+• Supported and Managed 5 Microsoft System Development Environments (Development Environment for the Developers), (Testing Environment for Testers), (Staging Environment for Stakeholder/Approvals), and (Virtual Machine Environments - VMware and Microsoft Virtual Server)
+• Utilized Microsoft Visio for converting requirements into Models/Process Flows/Use Cases/Screen Layouts utilizing Microsoft Visio
+• Managed the utilization of .Net/Web Services architecture coupled with .NET/ASP and SQL coding supported via Microsoft Server platforms to build multiple Financial/Online Banking/Credit Card applications that are considered the back-bone of a chain of banks.
+• Supported, Managed, and utilized SharePoint as our system documentation repository, our place for collaboration about system designs-system documentation, project schedules, etc…
+• Support and Manage Dual-Production environments supported by hot-failover Rack software.
+• Supported and Managed Disaster Recovery Systems utilizing CITRIX Software for users in a disaster situation
+• Gather and Develop requirements Use Cases for the incorporation of Middle Ware and Web Services for .NET web applications.
+• Develop, document and execute system integration test strategies, write test scripts to test all aspects of the Application/Software/System and Manage testing activities utilizing source code software such as: Visual Studio, Harvest, and Source Safe
+
+Northrop Grumman (Contractor) Oct 2004 – Oct 2005
+Project Manager – Technical Lead
+• Manage/Lead a team of web developers, vendor software developers, business analyst, and knowledge management engineers in support of a rapid development project to support the Military Civil Engineering Knowledge Management Portal that connected New AF Civil Engineering War Fighters to Subject Matter Experts for Areas of Operations (Iraq and Afghanistan).
+• The project was budgeted for $400K and we delivered a High-Tech Solution for around $200K from conception to completion and within a 4 month timeframe.
+• Perform consultant duties with System Integrators and Engineers to deploy Software and hardware according to the GCSS-AF Framework.
+• Data Mined-Data Warehouse (Autonomy-HEAT-Remedy) Subject Matter Experts profiles to correct model Field Requests, Expertise, White Papers, Call Center Flow/Routing, Call Volumes, Knowledge Logs, etc
+Lead IT/Data Integration Consultant to support the migration of AFCESA (Air Force Civil Engineering Support Agency) and AFCEE (Air Force Civil Engineering and Environmental) Engineering Data Repositories to the Air Force Portal.
+• Manage and implement projects utilizing the MSF (Microsoft Source Framework), RUP SE (Rational Unified Process System Engineering), processes to develop project requirements, stake holder and user requirements, design and analysis, testing, training, change management phases, and Iteration planning during the implementation process of all System Integrations, Data Warehousing, and Data Mart development projects.
+• Develop data flows and system architecture models from complex Business and User requirements.
+
+Infinity Technology Inc (Contract) Oct 2003 - Oct 2004
+Project Manager / Data Management
+• Manage/Lead (TOP SECRET) Solutions analyst for designing, developing, and implementing a system’s architecture to support Classified collections of Intelligent data that consist of: data warehouses, data marts, digital libraries, and repositories.
+• Develop timelines for project implementation phases and assign developers accordingly.
+• Managing and coordinating budgeting issues with Senior Leadership and the FM group.
+• Perform System Requirements Gathering through interviewing and meetings with Senior Government Staff, Air Force Colonels, and Senior Historians.
+• Data Mined-Warehoused (IRIS Software) Large Masses of Tera Bytes of War Data, Video’s, Photo’s, Papers, Reports, to organize data structures, data storage, reportable data, Historic Records, etc
+• Designed and Provided Systems Life Cycle Solutions to include requirement definitions, system configurations, implementation planning, and life cycle cost estimations.
+• Provided solutions on how to manage, analyze, extract, and convert Intelligence Data from Collections of OIF, OEF, OAF, and AWOS Lessons Learned databases.
+• Managing and implementing projects utilizing the SDLC (System Development Life Cycle, RUP SE (Rational Unified Process System Engineering), ITIL (IT Infrastructure Library), JAD (Joint Application Development), life Cycle processes to develop project requirements, stake holder and user requirements, design and analysis, testing, training, change management phases, and Iteration planning during the implementation process of all System Integrations, Data Warehousing, and Data Mart development projects.
+• Document the functional and technical design of the system (e.g., system components, inputs and outputs, function).
+
+Titan Corporation (Contractor) Nov 2002 - Oct 2003
+Project Manager-Senior Technical/Business Analysis
+• Project leader coordinating and managing an IT modernization project for the US Navy’s LCAC Engineering Library.
+• Developed solutions and plan to develop a repository of over 1 million searchable files, documents, and manuals.
+• Managing and coordinating budgeting issues with Senior Leadership and the FM group.
+• Researched and gathered requirements from Engineering Departments and Meetings with senior staff.
+• Researched system planning to include requirement definitions, implementation planning, and life cycle cost estimations.
+• Developed and provided Data Models for Team Members and Senior Staff.
+• Provided Data Warehousing Solutions for all structured, unstructured, digital tech drawings, etc...
+• Worked with team to design and implement the digital libraries, servers, disk back-up and recovery, and system software requirements.
+• Analyzed and Benched Marked/Tested software such as: Teradata, Documentum, Cognos, Docu-Share, Sirsi, and Search Express for the project.
+• Analyzed the workflow process of the current library and provided automated solutions to correct the insufficient workflow problems.
+• Define and Administer Quality Assurance SQL test plans to analyze the integrity of the housed data.
+• Provide expert knowledge of Database and software layouts such as: field types, tables, attributes, and validation constraints.
+
+Unisys Corporation (Contractor) Nov 1998-2002
+Data Storage / Back-up / Disaster Recovery
+
+TRAINING, CERTIFICATIONS, EDUCATION
+
+BA – Project Management: Some College (In-Progress) 2020
+PMI – PMP Certification (In-Progress) 2019
+Scrum/Agile Certification (In-Progress) 2019
+Data Governance Tool Suites: Alation, Azure, Waterline, Collibra, 2016/2018
+YellowFin Dashboarding - 2016/2018
+Microsoft Power BI - 2016/2018
+Tableau Desktop/Server/Cloud- 2016/2018
+MicroStrategy BI Mid-Level - 2016/2018
+Microsoft Team Foundation Server (Smart Office Integration-Mid-Level)
+Configuration Build and Release Expert Training
+Microsoft Visual Studio
+Mobile App - Android and IOS Code Mid-Level
+Eye Retina Security Scanning Training
+DIACAP IA Training
+SharePoint Site Owner Training
+AF Portal Site Owner Training
+CMMI Level 1 and 2 Training
+CMMI Level 3 CM Training
+Advanced Agile SEP (Software Engineering Processes)
+SEP Agile Project Management Training
+SEP Agile Lead Engineer Training
+SOA Training (Service Oriented Architecture)
+TOAD Developer Management training (Quest Central)
+TOAD Release Management training
+Oracle Product Functional and Technical Analysis
+Oracle HTMLdb
+Oracle iProcure
+ERP Training (Enterprise Resource Planning)
+DOORS – CM Training
+Microsoft Project and Project Server Training
+Microsoft Share Point Admin Training
+AF Portal Web Content Manager Training
+CITRIX System Recovery Training
+HEAT, iHEAT, Administrator
+
+Contact this candidate

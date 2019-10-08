@@ -1,0 +1,48 @@
+
+Company Overview
+Hayes Software Systems is a dynamic, well-established, and rapidly growing, software/SAAS company in the education vertical.
+We want to help you build a stable career and future, but we also want you to have fun while you do it. That’s why we offer robust benefits like a 401(k) with company matching and perks like an open work environment, casual dress, free snacks/drinks, free parking, and regularly scheduled social events.
+Combining our established reputation with a culture often associated with startups makes Hayes an environment for talented, energetic, and ambitious people to thrive. We are just getting started.
+Job Summary
+Hayes Software Systems is seeking Quality Assurance (QA) Engineer to develop and execute exploratory and automated tests to ensure product quality.
+As a QA Engineer, you will be responsible, ensuring that our software arrives to our clients in perfect working order. You will also review system requirements and track quality assurance metrics (e.g., defect densities and open defect counts.) Ultimately, you should monitor all stages of software development to identify and resolve system malfunctions to meet quality standards.
+The QA technician role plays an integral part in our company’s product development process. Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs while being cost-effective. If you hold an engineering mindset or background and enjoy providing end-to-end solutions to software quality problems, we’d like to meet you.
+Why You Want to Join
+You want to lead the ongoing development of enterprise applications used in the largest school districts in the country. You work closely with both customers and development teams every day, whether they are across multiple time zones or sitting right next to you. You work fast, succeed fast, fail fast, and are always learning. You are looking for an opportunity in a startup similar culture, with the backing of a grounded and profitable company with a history of growth. Smart, dedicated, fun-loving people surround you. And importantly, you are proud of the company’s mission and your product’s impact. Candidates must have a collaborative style with a strong sense of urgency and desire to get the right things done.
+Responsibilities and Duties
+Reviewing quality specifications and technical design documents to provide timely and meaningful feedback
+Creating detailed, comprehensive and well-structured test plans and test cases
+Estimating, prioritizing, planning and coordinating quality testing activities
+Functional, regression, performance, load, stress and automation testing our products
+Review requirements, specifications and technical design documents to provide timely and meaningful feedback
+Create detailed, comprehensive and well-structured test plans and test cases
+Estimate, prioritize, plan and coordinate testing activities
+Design, develop and execute automation scripts using open source tools
+Identify, record, document thoroughly and track bugs
+Perform thorough regression testing when bugs are resolved
+Design, develop and run automation and manual tests to evaluate the performance and load/stress quality of our products
+Develop and apply testing processes for new and existing products to meet client needs
+Liaise with internal teams (e.g., developers and product managers) to identify system requirements
+Monitor debugging process results
+Investigate the causes of non-conforming software and train users to implement solutions
+Track quality assurance metrics, like defect densities and open defect counts
+Stay up-to-date with new testing tools and test strategies
+Benefits and Perks
+Medical/dental/vision insurance
+401(k) with employer contribution
+Profit sharing plan
+10+ days paid time off
+10+ paid company holidays
+Paid volunteer day- "School Giving Day."
+Paid day off for birthday
+Free parking/Fitness Center
+On-site childcare/food market/ATM machine
+Snacks and drinks provided
+Regular social office events
+Casual, energetic, fun and professional work environment
+Ping-pong table, hammock room, corn-hole competitions and more
+PHJh3CARvm
+
+
+Go to apply 
+

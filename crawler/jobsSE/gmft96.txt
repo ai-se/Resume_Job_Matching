@@ -1,0 +1,18 @@
+
+MRI Software is seeking a Mid-Level Software Engineer to join our team in our global headquarters! The role will be responsible for applying defined Software Development Life Cycle to deliver production ready code of high quality which satisfies all functional and non-functional requirements. The ideal candidate will have experience working with Java, SQL and .NET (C#) and/or ability to showcase that they can pick up new languages quickly. This position will be responsible for contributing to a team-environment and mentoring entry-level engineers.
+Founded in 1971, MRI Software is a leading provider of innovative real estate software applications and hosted solutions. MRI’s comprehensive and flexible technology platform coupled with an open and connected ecosystem meets the unique needs of real estate businesses—from property-level management and accounting to investment modeling and analytics for the global commercial and residential markets.
+
+3-5 years working knowledge of and experience with programming in Java, Microsoft C# or another object oriented language.
+Understanding of software development best practices, including multiple development methodologies (experience with Agile principles preferred)
+BA/BS or Masters Degree in Computer Science, Software Engineering, or equivalent industry experience
+Designs, codes, tests and maintains deliverables of high complexity.
+Debugs and troubleshoots software to resolve defects.
+Estimates development schedules and determine project scope.
+Delivers adjusted and corrected code (and corresponding lessons learned) based on regular peer reviews
+Performs and designs testing protocols to ensure that the product is fully tested before entering QA.
+Participates in and often leads a Development team that is responsible for developing quality software.
+MRI Software delivers innovative applications and hosted solutions that free real estate companies to elevate their business. Our flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Sydney, South Africa, New Zealand, and Canada with over 1200 team members to support our clients and their unique needs!
+
+
+Go to apply 
+

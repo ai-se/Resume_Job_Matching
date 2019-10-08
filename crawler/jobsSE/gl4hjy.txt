@@ -1,0 +1,42 @@
+
+REQUIRED SKILLS - (TOP SKILLS NEEDED) Python, Java, AWS, Machine Learning
+Summary
+The main function of a software engineer is to design, develop, implement, test, and maintain business and computer applications software or specialized utility programs including mainframe and client/server applications, and major enhancement of existing systems. Job Responsibilities: Fine-tune and improve a variety of sophisticated software implementation projects. Gather and analyze system requirements, document specifications, and develop software solutions to meet client needs and data. Analyze and review enhancement requests and specifications. Implement system software and customize to client requirements. Prepare the detailed software specifications and test plans. Code new programs to client s specifications and create test data for testing. Modify existing programs to new standards and conduct unit testing of developed programs. Create migration packages for system testing, user testing, and implementation. Provide quality assurance reviews. Perform post-implementation validation of software and resolve any bugs found during testing.
+Skills: Experience with Java, Python, C++ and other programming languages. Understanding of HTML5, CSS3 and CMSs. Team player attitude with a willingness to lead when necessary. Devotion to continuing education on an annual basis. Performing in-depth troubleshooting and unit testing with both new and legacy production systems. Problem diagnosis and resolution. Large systems software design and development. Education/Experience: Bachelor's degree in a technical field such as computer science, computer engineering or related field required. 10+ years of experience required. A solid foundation in computer science, with strong competencies in data structures, algorithms, and software
+Machine Learning Engineer job description
+Use this Machine Learning Engineer job description template to attract software engineers who specialize in machine learning. Feel free to modify the template based on your needs.
+Machine Learning Engineer responsibilities include:
+Designing and developing machine learning and deep learning systems
+Running machine learning tests and experiments
+Implementing appropriate ML algorithms
+
+Job brief
+We are looking for a Machine Learning (ML) Engineer to help us create artificial intelligence products.
+Machine Learning Engineer responsibilities include creating machine learning models and retraining systems. To do this job successfully, you need exceptional skills in statistics and programming. If you also have knowledge of data science and software engineering, we d like to meet you.
+Your ultimate goal will be to shape and build efficient self-learning applications.
+Responsibilities
+Study and transform data science prototypes
+Design machine learning systems
+Research and implement appropriate ML algorithms and tools
+Develop machine learning applications according to requirements
+Select appropriate datasets and data representation methods
+Run machine learning tests and experiments
+Perform statistical analysis and fine-tuning using test results
+Train and retrain systems when necessary
+Extend existing ML libraries and frameworks
+Keep abreast of developments in the field
+
+Requirements
+Proven experience as a Machine Learning Engineer or similar role
+Understanding of data structures, data modeling and software architecture
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Python, Java and R
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
+Excellent communication skills
+Ability to work in a team
+
+To Apply, please drop your resume at primussoft.com or contact me at 678 ###
+
+
+Go to apply 
+

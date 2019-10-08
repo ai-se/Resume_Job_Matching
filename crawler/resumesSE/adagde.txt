@@ -1,0 +1,95 @@
+
+ALIAKSEI TSYBULKA
+adagde@r.postjobfree.com 469-***-****
+SUMMARY
+●Over 5 years of experience in Information Technology, in the field of Software Quality Assurance, experienced in Core Java, OOPS concepts.
+●Experienced in designing and implementation of Various Frameworks using Selenium WebDriver.
+●Strong knowledge of SDLC & STLC, its methodologies which are Waterfall and Agile with deep understanding of SCRUM.
+●Developed and maintain Test scripts, analyzing bugs and interacting with development team members in fixing the defects and keep track of defects in defect suites.
+●Expert in using test automation tools such as Selenium IDE/RC/Grid/WebDriver to develop testing scripts for Web Applications apps.
+●Experience in the development of Data Driven, Keyword Driven and Hybrid Automation frameworks in Selenium.
+●Good knowledge on Junit, TestNG framework for Unit testing, Maven for Project building tool, integrated the test suites to GitHub, used Jenkins & Bamboo for Continuous Integration.
+●Developed Test Scripts to implement Test Cases, Test Scenarios, and features for BDD, TDD by using Cucumber.
+●Created automated script for REST-API testing using Rest Assured framework using Selenium WebDriver.
+●Experienced in designing and implementing different automation frameworks like DataDriven, Hybrid frameworks using Selenium WebDriver with Page Object Model (POM).
+●Extensive experience in developing test scripts to implement test cases, test scenarios, and features for behavior driven development (BDD) using Cucumber.
+●Designed and implemented step-definitions and feature files in Cucumber using BDD and Gherkin keywords (Given, When, Then, Background, Scenario, Scenario Outline).
+●Experienced in designing TDD framework using TestNG and annotations (Before Test, Before Class, Before Method, After Test, After Class, After Method) to manipulate tests.
+●Proficient in overall Defect Management/Problem solving including tracking bugs and reporting using Atlassian Jira.
+●Professional expertise in Smoke Testing, User Acceptance Testing (UAT), Functional Testing, Positive/Negative Testing, System Testing, Regression Testing, GUI Software Testing, Ad-hoc Testing, Cross Browser/Cross Platform Testing, UI Validation.
+●Used Git as code repository and its commands to manage code reviews.
+●Experience on writing SQL queries to extract data from various source tables to perform database testing.
+●Analyze the entire DataBase Tables and their entity to have an idea on which table is used for which data storage.
+●Well versed with various testing stages/levels/phases, testing types, testing techniques and quality work products.
+●Ability to work under pressure, adapt to new environment quickly, strong team player, good communication, excellent analytical and computation skills, sincere and committed, very detail oriented, critical thinker.
+TECHNICAL SKILLS
+Testing Tools
+Selenium IDE/WebDriver, Postman
+Languages
+Build & CICD Tools
+JAVA, HTML, XML, SQL
+Maven, Jenkins, Bamboo
+Test Framework
+Cucumber, JUnit, TestNG
+IDE
+Processes
+Bug Tracking Tools
+Version Control
+Remote Repositories
+DataBases
+OS
+Eclipse, NetBeans, SQL Developer
+Agile/Scrum, Waterfall
+JIRA, Quality Center (QC), HP ALM
+GIT, SVN
+GitHub, Bitbucket
+MySQL, Oracle, MS Access
+Windows (7, 8, 10), macOS
+PROFESSIONAL EXPERIENCE
+Client: UBS Financial Services Inc, Weehawken, NJ
+Role: QA Automation Engineer SEPTEMBER 2017 - PRESENT
+Responsibilities:
+●Experienced QA Automation Test Engineer with a strong knowledge specializing in Manual and Automation Testing of Web Applications.
+●Working in a Scrum team, attending Daily Scrums, Sprint Planning and estimating efforts and identifying acceptance criteria for user stories, Sprint Retrospective.
+●Responsible for writing and maintaining Selenium WebDriver scripts for regression and functional testing using data driven framework.
+●Used core Java concepts that includes Collections, Exceptions handling extensively for coding business related activities.
+●Developed new MAVEN based test scripts using GitHub as source repository and Jenkins for Continuous Integration of the builds.
+●Developed Test Scripts to implement Test Cases, Test Scenarios, and features for BDD (Behavior Driven Development), TDD (Test Driven Development) using Cucumber.
+●Implemented Junit test runner class to call test cases in Cucumber.
+●Experience in implementing the Page Object Model (POM) by creating element for each page object and reused all the objects in various scripts.
+●Used Junit runner classes in cucumber to generate step definition and used tags to run different kinds of test suites like smoke and regression.
+●Performed Data Driven Testing by using Scenario Outline with Examples, Excel and Data Table.
+●Developed feature files using Gherkin, step definitions using Java and Runner class using Junit.
+●Developed several REST web services supporting both XML and JSON to perform tasks. REST web services leveraged by web applications.
+●Set up Jenkins for scheduled automation test run and that will trigger Smoke Test script by receiving email.
+●Developed and executed SQL queries to verify the proper insertion, deletion and updates into the Oracle supporting tables and cubes.
+●Identified, reported and tracked defects by using JIRA.
+●Used Git as code repository and Code Collaborator to manage code
+reviews.
+●Developed and ensured adherence to testing standards and best practices.
+Environment: Selenium WebDriver, Java, Cucumber, Agile (Scrum), Maven, GitHub, Postman, JSON, Git, SQL Developer, Jira, HTML, XML, XPath, Eclipse, HTML, Windows 10, Jenkins.
+
+Client: United Airlines, Chicago, IL
+Role: Automation Tester AUGUST 2014 - JULY 2017
+Responsibilities:
+●Analyzed business requirements, documented business requirements specifications, wrote Test Plans, Test Cases.
+●Worked with development team to understand technical design and architecture for test planning.
+●Participated in Daily Scrum, Sprint Grooming, and Sprint Planning and sprint retrospective meetings.
+●Drafted Test Plan which included testing objectives, testing phases, scenarios and test environment after a thorough analysis of the business rules.
+●Experienced and knowledge in Core Java and Object-Oriented Programming (OOP) Concept, Data Structures and Exception handling concepts.
+●Performed functional testing to identify various critical points in the application and automated it by using Selenium Web-Driver with TestNG.
+●Executed Manual and Automation Testing of Web Applications and Client Server Applications. Verifying the resolution of all defects for an assigned project.
+●Used Maven to build and run the Selenium automation framework. After execution of script is done, framework used to send the automation reports over email.
+●Able to use different browsers, environments like Google Chrome, FireFox and Internet Explorer with Selenium Web Driver to execute scripts.
+●Utilized many locators such as CSS selectors, XPaths, ID, TagName and so on to locate elements on Web pages.
+●Experience in the development of Data Driven, Keyword Driven and Hybrid Automation frameworks in Selenium.
+●Used Apache POI methods for read/write from/to MS Excel sheets in Java.
+●Involved in the Continuous Integration and Deployment of the automation framework with Jenkins.
+●Performed back end testing on Oracle database by writing SQL queries.
+●Attend the BRI (Business Requirement Identification) meeting to
+understand the business Requirements.
+●Interacted closely with developers regarding defects, participated in tracking, reviewing and analyzing bugs.
+Environment: Java, MS Excel, Selenium WebDriver, Agile(Scrum), GitHub, TestNG, Maven, Git, MySQL, Jira, HTML, XPath, Eclipse, XML.
+\
+
+Contact this candidate

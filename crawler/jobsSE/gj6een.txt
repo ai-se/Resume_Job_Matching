@@ -1,0 +1,40 @@
+
+About Trantor
+
+Trantor, Inc., a leading provider of global software services, specializes in Business Intelligence, Software Security, and Web Services solutions. Trantor, Inc. has a proven and demonstrable track record of successful multi shore project delivery since its inception in 2009. Trantor, Inc. is a leading software development company with expertise in both Cloud-based and traditional applications. Trantor understands all aspects and challenges of software development from product and feature definition, though core product development and QA / deployment / ongoing maintenance. We have also developed our own product suite and integrated it to several market applications.
+Why Working at Trantor:
+
+We value diverse perspectives and hire specifically to enrich our team with new ideas and experiences.
+Learning is a top priority. We actively structure teams and projects to maximize team member growth and opportunity.
+We believe in open communication and in sharing opinions, not in micromanagement.
+We have a strong work ethic but value life outside of work.
+Many of us have worked together at previous companies, and choose to work together again and again because we respect one-another.
+Profile Overview:
+
+Were looking for a Sr. full stack software engineer who thrives on getting their hands into everything - whether its dealing with large amounts of data on the back end (Java, Ruby, Python, .Net) or presenting it on the platform (React, Redux, Node, Backbone, or Angular).This role will be reporting to reporting to Head of Product Development and Innovation.
+Requirements
+
+Heres what you will bring:
+Bachelor of Science in Computer Science, Computer Engineering, or related fields.
+6 to 9 years of professional software development experience with Java, Python, Ruby,.Net or other object-oriented programming languages.
+Strong hands-on experience and understanding of object-oriented programming, data structures, algorithms, and web application development.
+Experience working on HTML, CSS and Popular JavaScript frameworks such as React, Redux, Node, Backbone, Angular etc.
+Real passion for developing team-oriented solutions to complex engineering problems.
+Thrive in a dynamic, rapidly changing environment and value end-to-end ownership of projects.
+Excellent verbal and written communication skills to collaborate multi-functionally and improve scalability.
+Interest in committing to a fun, friendly, expansive, and intellectually stimulating environment.
+As a Sr. Full Stack Software Engineer, heres what you can do at Trantor:
+
+Design, develop, and maintain performant and scalable full-stack applications.
+Understand project requirements, elicit feedback, and refine solutions accordingly.
+Interface with project managers, clients, and other partners and vendors in delivering solutions & troubleshooting technical issues.
+Rapidly fix bugs, solve problems, and proactively strive to improve our products and technologies.
+Manage individual project deliverables on industry coding standards and design techniques.
+Demonstrate a willingness and ability to learn new systems and technologies as required.
+Additional Information
+
+We offer you a chance to join a highly motivated unit in a fast-growing and dynamic company, and challenging tasks and opportunities for your future career. Find out more at Follow Trantor on LinkedIn
+
+
+Go to apply 
+

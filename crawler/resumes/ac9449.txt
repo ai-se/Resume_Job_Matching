@@ -1,0 +1,129 @@
+
+BRAD PEARSON
+*** ******** ****
+Locust, NC *****
+704-***-**** ac9449@r.postjobfree.com
+
+SUMMARY
+
+Control Systems Engineer with extensive experience in project management, design, testing, and start up. System applications for a wide range of industries including, but not limited to: textiles, paper, printing, lumber, metals, film, rubber, and nuclear power generation. Managed projects at Rockwell ranging in size and complexity from a single drive up to several machines with a project cost over $2 million. Machines were designed for installation around the world. Developed strong customer interface and communications skills working to define order requirements in the order entry phase. As well as supporting installation and start up after shipment. See attached sheet for Rockwell Selected Achievements.
+Utilized my experience to quickly learn new processes and systems at Westinghouse Electric Company and in the nuclear power industry. Promoted from senior engineer to principal engineer and assumed multiple team lead roles. See attached sheet for Westinghouse Selected Achievements.
+Utilized my knowledge, experience, and skill set to implement a new drawing system and plant control interface for Oryx Systems.
+
+PROFESSIONAL EXPERIENCE
+
+ORYX SYSTEMS, Indian Trail, NC
+
+ENGINEERING MANAGER (January 2019 – August 2019)
+
+AutoCAD Drawings – Implemented a new AutoCAD drawing system for electrical schematics and control cabinet layouts.
+
+AB PLC – Implemented a new plant interface for the Oryx machine systems using an Allen Bradley Compact Logix PLC. The Oryx system would transfer/receive data from the plant control system via Ethernet communication through the AB PLC.
+
+WESTINGHOUSE ELECTRIC, Rock Hill, SC
+
+PRINCIPAL ENGINEER (2011 - 2018)
+
+Site Audit Lead - Act as Single Point of Contact for audits conducted at the Rock Hill site. Coordinate with department managers and audit officials to determine audit scope and to develop format and schedule. This includes the ISO 9001 audits.
+
+Mentoring - Work with less experienced engineers to help them develop their knowledge and skill level. Lead them through WEC procedures to help them learn and understand the processes. Review their work and provide feedback. Go through examples to demonstrate a process that is difficult for them to understand.
+
+AP1000 Standard Plant Design Project and BNPP AP1400 Project
+
+Rock Hill OPAL Test Team Lead - Coordinate transfer of information, instructions, assignments, and status between the Rock Hill Test Team and the Test Team management in Cranberry. Ensure that instructions and assignments are understood by the local team members and be a resource when they are unsure of what or how they are to do their assigned task. Similarly, must be able to listen to the local team members and understand the issues or “road blocks” they are dealing with so that this can be properly communicated to project management. Work with new team members to provide orientation and training for their assigned task(s).
+
+OPAL Test Development - Review specification documents and calc notes to understand system functionality and required logic. Develop OPAL tables to test and verify the application software meets these requirements.
+
+Test Procedure Development - Create test procedure document to be used in formal testing of system.
+
+SENIOR ENGINEER (2009 - 2011)
+
+China AP1000 Project - Worked on team developing a process to import software into the PWD system from Visual Basic drawings. This was critical to allow software to be implemented by Westron and WIEC engineers that did not have access to PWD. They could implement the software in Visual Basic and send those drawings to WEC engineers who could then import them into PWD.
+
+South Texas Project - Software implementation from logic diagrams and calc notes into PWD and then export to Ovation logic diagrams. Then test and debug the software on the Ovation development system.
+
+704-***-**** ac9449@r.postjobfree.com
+
+ROCKWELL AUTOMATION, Charlotte, NC
+
+Senior Control Engineer (2006 - 2009)
+See “Detailed Description of Design Function” for job duties below.
+
+Engineering Manager (1997 - 2006)
+Managed Engineering Department consisting of 3 engineers and 1 technician.
+
+Lead Engineer (1992 - 1997)
+Duties of a Control Engineer with added emphasis on customer interface to develop business level to start up a new regional facility. See “Detailed Description of Design Function” for job duties below.
+
+Detailed Description of Design Function
+Responsible for reviewing specifications and then designing the drives, controls, and operator interface to meet the customer’s requirements.
+Responsible for selecting and ordering parts including advance planning of long lead time components. Design system hardware, both schematics and panel layouts, for release to manufacturing group. Software design completion in time for system functional testing on shop floor before shipment to customer. Support system installation and commissioning by phone/email or on site.
+Responsible for system design from initial sale and order definition through installation and commissioning, “cradle to grave”.
+Most recent experience designing systems comprised of Allen-Bradley PowerFlex drives, ControlLogix PLC, and PanelviewPlus HMI.
+
+CONTROL PRODUCT PROFICIENCIES
+
+Westinghouse Electric Products:
+Emerson Electric Ovation controllers and HMI programming
+Ovation Perl-based Access Language (OPAL) – software test method using logic tables to perform automated testing on application logic programmed in Ovation.
+WEC proprietary Project Wide Database (PWD) database interface
+WEC proprietary Application Capture Tool (ACT) programming interface
+Isolated Development Infrastructures (IDI) for secure system development
+AP1000 Nuclear Power Plant- 1000 Megawatt Pressurized Water Reactor (PWR) Nuclear Power Plant
+AP1400 Nuclear Power Plant- 1400 Megawatt PWR Nuclear Power Plant
+
+Allen-Bradley Products:
+RSLogix 5000 – ControlLogix
+RSLogix 500 – SLC 500
+RSView ME – PanelView, PanelView+
+RSNetworx – ControlNet, DeviceNet, Ethernet
+AC Drives – Power Flex 70, 700, 700H, 700S, 1336 Impact, Plus, Plus II, Force
+DC Drives – 1395, 1397
+
+Engineering Software Proficiencies:
+AutoCAD Electrical
+Microsoft Word, Excel, Access, PowerPoint, and Remote Desktop
+Integraph Smart Plant Foundation- Document Management
+IBM Rational DOORS 9.6
+Citrix remote desktop online plug-in
+
+EDUCATION
+
+Bachelor of Science – Engineering, University of Georgia
+
+BRAD PEARSON
+413 Hunting Creek Rd.
+Matthews, NC 28104
+704-***-**** ac9449@r.postjobfree.com
+
+SELECTED ACHIEVEMENTS
+
+Westinghouse Electric
+
+STP Standard Functional Design Handbook - Compiled a reference book with a chapter dedicated to each of the identified tasks in the Functional Design process for the South Texas Project (STP). Each chapter contained instructions for the engineer to follow in order to successfully complete the task for their assigned system. When all of the tasks in the handbook were complete then the Functional Design should be complete and ready for lead review before moving on to software testing.
+
+Toshiba Turbine Control Datalink Interface - Developed the first test procedure for Toshiba Turbine Control Datalink Interface. Worked on test floor in pre-FAT testing to debug the procedure and then remained through customer witness test.
+
+Turbine Control Datalink Interface Timing Test - Developed the first procedure for Toshiba Turbine Control Datalink Interface Timing Test. This involved high speed video recording to capture when buttons were pressed and indicators would change state by examining the video time stamp. Worked on test floor in pre-FAT testing to debug the procedure and then remained through customer witness test.
+
+Rockwell Automation
+
+Spooler - Developed a wire spooler that used a hydraulic cylinder to position the spool and had a linear pot for position feedback. The system worked well for copper wire, which had a square cross section. Aluminum wire, however, with a thin and wide rectangular cross section, would overlap adjacent wraps which is unacceptable for proper spooling. After much investigation, I found the linear pot, which had an accuracy spec of 0.1%, deviated by as much as +/- 0.125 inches. I added a correction function in software to compensate for the feedback deviation and achieved optimum performance with both copper and aluminum wire.
+
+Open RNV - Developed customer base to justify and sustain new regional facility in Charlotte.
+
+Sustain RNV - Worked as member of matrix management team for corporate High Score Champion awards in 2004 and 2006. Consistently had the highest margins of all drive centers and in the top three for net profit. RNV had a record year in 2006 where we profited $2,000,000 with only 10 employees.
+
+Plotter - Implemented procedure to plot panel layout drawings at full scale to be used as drilling templates. This reduced labor 4 hours per panel for an average savings of $1,600 per month.
+
+IP - Received Chairman’s Outstanding Teamwork award for my role in the International Paper Disaster Recovery Team in 2000.
+
+Jagenberg Sheeter - Developed the control system for a Jagenberg Sheeter that utilized air motors for a dual turret unwind. This system successfully achieved “splice-on-the-fly” with the air motor bringing the new roll up to speed for the splice cycle.
+
+SanforTrol - Developed a closed loop control system to regulate shrinkage in a textile machine. This was the very first system of its type and gave the OEM a substantial market advantage. (This system is proprietary to Morrison Textiles.)
+
+Auto Grind - Automated the procedure to grind and resurface the rubber conveyor belt used to propel the material in the SanforTrol machine. (This system is proprietary to Morrison Textiles.)
+
+Ball Warper - Developed a new Ball Warper machine which utilized a servo and linear actuator for the traverse. This is the only machine with this revolutionary concept, and gives the OEM a substantial market advantage. (This system is proprietary to Morrison Textiles.)
+
+Contact this candidate

@@ -1,0 +1,25 @@
+
+Location: San Francisco CA
+Duration: 6 Months+
+What You'll Do:
+Review implementation code and perform web application pentesting on critical products and features; identify security flaws and suggest remediations.
+Working to identify areas of security weakness. This includes manual penetration testing and automation for finding vulnerabilities.
+Finding ways to improve defense-in-depth.
+Helping engineers design more secure systems via design input or code review.
+Research new threats, attack vectors and risks
+Describe business impact of identified vulnerabilities to engineering and management
+Provide guidelines and best practices for fixing the identified vulnerabilities.
+Provide security expertise and guidance to engineering and business teams
+Build, automate, and operate security review capabilities, such as static and dynamic code analysis across multiple technology stacks and languages
+You will meet most (but need not meet all) of the following points:
+5+ years of experience in application-level vulnerability testing and code-level security reviews
+Web application pentesting experience
+Strong understanding of web (OWASP Top 10) or mobile application security.
+Experience with Burp Suite, OWASP Zap or other proxying and scanner tools.
+Experience with Kali Linux or similar distribution
+
+Permanent
+
+
+Go to apply 
+

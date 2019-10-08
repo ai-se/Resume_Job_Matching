@@ -1,0 +1,39 @@
+
+Are you someone who has a genuine passion and enthusiasm for software development and looking for a position with a growing software company?
+Our Software Development department is expanding, and we have an immediate opening for a Principal level full stack engineer. Our Software Developers work in a Scrum Agile framework developing industry leading software for law enforcement, education, healthcare and other enterprises.
+Responsibilities
+Provide technical guidance in design and development activities
+Work with other Engineers/Architects in recommending new technologies to ensure quality and productivity
+Design, develop and troubleshoot applications based on the Microsoft Stack
+Design, develop and troubleshoot all things related to SQL DB development
+Mentor and provide technical leadership to other developers.
+Work with Scrum team to complete sprint backlog items.
+Participate in all Scrum events (planning, sprint, review, retrospective)
+Assist in technical audits and provide recommendations
+
+Requirements
+Full stack .NET Developer (C#, ASP.NET, MVC/Razor, WinForms, TypeScript, JavaScript)
+Solid understanding of Agile (Scrum) practices
+Solid understanding of OOP and well-known development principles
+Positive, upbeat personality, with team spirit
+At least twelve years experience in designing and developing software
+Bachelors Degree in Computer Science or related discipline or comparable experience
+In depth understanding of the benefits of automated testing and the DevOps mentality
+The following are a plus:
+Azure
+Azure DevOps
+Experience in the Public Safety/Law Enforcement software industry
+
+Benefits
+Competitive benefits package
+Medical, Dental and Vision insurance
+401k with company match
+Paid Time Off (Vacation, Sick & Public Holidays)
+Competitive salary commensurate with abilities and experiences
+Great team-based environment where collective success is prioritized over individual victories
+Game room, snacks, and refreshments
+Casual attire
+
+
+Go to apply 
+

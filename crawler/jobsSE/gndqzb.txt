@@ -1,0 +1,63 @@
+
+Job Description
+GENERAL SCOPE & SUMMARY
+The Sr. Principal Engineer is a key designer and lead developer for a product component, responsible for creation of design documentation and implementation of the component. In this position, the Sr. Principal Engineer leverages technology to develop and validate the product component at an expert level, manages defect resolutions and coordinates code development with other engineers. With coordination and direction from management, a Senior Principal Engineer is a primary developer for a product component, responsible for design, documentation, implementation, unit testing and defect fixing of new and existing products. The Senior Principal Engineer will also be responsible for handling critical customer problems in real-time and developing code fixes or enhancements to be included in future code releases. The job requires close interaction with the Development, QA, Support and Professional Services teams. The Senior Principal Engineer leverages computer programming languages and other specific technologies required to develop and maintain the component at an advanced level.
+PRIMARY ROLE & RESPONSIBILITIES
+* Analyzes, designs, programs, debugs, and does ongoing modification of software components.
+* Code may be used in commercial end-user applications, prototypes, or in test tools or other supporting programs.
+* Using the required programming languages and other technologies, writes code, completes programming, and performs testing and debugging of applications.
+* May interact with internal cross-functional members to better understand system requirements and/or necessary modifications.
+* Responsible for the design, development, testing, documentation and analysis of modules or features of new or upgraded software systems and products.
+* May participate in development in any of a range of product areas such as thin client, rich client, server, installation, communication layers, and so forth.
+* Troubleshoot, analyze, replicate, regress and resolve complex field software problems escalated to engineering.
+* Work closely with developers and performance engineers to enhance supportability and identify performance bottleneck in the product.
+* Design, implement and test enhancement feature requests to enhance product functionality as needed.
+* Responsible for handling critical customer problems in real-time and developing code fixes or enhancements to be included in future code releases or patches.
+* Coordinate, respond, track and follow-up on customer problem reports/technical support requests for Engineering.
+* Reproduce customer issues and resolve them by either establishing a workaround or a solution, or by debugging and creating a bug fix
+* Work with support engineers, professional services and sales engineers to investigate and handle customer and field escalated cases.
+* Create and document best practices guidelines and knowledge base articles.
+* Completes documentation and procedures for installation and maintenance.
+* Develops and/or executes implementation according to project plans and priorities.
+* May participate in development in any of a range of product areas such as thin client, rich client, server, installation, communication layers, and so forth.
+* Provides estimated timelines for fixes.
+* Ensures products are up to date with 3rd party components that are in use.
+* Proactively identify non-compliance of code against requirements/standards/design and raise defects.
+* Work with members in the organization across various time zones.
+* Directs and or guides junior staff on specific tasks.
+* Reviews design, architecture and implementation done by junior staff keeping in mind overall product impact.Qualifications
+SPECIALIZED KNOWLEDGE & SKILLS
+* Demonstrate competency in engineering tools, methods and processes.
+* Ability to communicate complex information to internal audiences.
+* Professional demeanor to maintain and enhance relationships.
+* Strong customer service and teamwork skills.
+* Often performs where problems are unique and solutions broad.
+* Works on complex problems of diverse scope where analysis of situation or data requires in depth evaluation of various factors which may be difficult to define.
+* Works independently and/or partners with manager on department-wide plans.
+* May lead teams and work on complex individual projects.
+* Guides and instructs others.
+* Provides leadership in key technical decisions and in the design specification of products.
+* Develops project plans.
+* Ability to regularly learn and apply new technologies in an accelerated manner.
+* Demonstrates technical flexibility, and creativity in problem solving.
+* Ability to use technical concepts to solve difficult problems in imaginative and varying ways.
+* Ability to provide resolutions to problems of complex and diverse scope where analysis of data requires evaluation of identifiable factors.
+* Team lead on moderate projects.
+* Provides guidance to less experienced team members.
+* Actively contributes to design or process development in a broad scope.
+* Contributes to the design specification of a product.
+* Experience in multi-threaded programing and object-oriented design.
+* Experience with software debugging tools and techniques.
+* Experience with software with highly distributed architecture
+* Experience in advanced design concepts like Design Patterns
+JOB REQUIREMENTS
+* 8+ years of experience.
+* Four year degree in technical or engineering field. B.S. in Computer Science, Electronics, Mathematics or related discipline minimum
+* Ability to pass a background check may also be required.
+* Physical requirements include sitting for long periods of time.
+* Travel to customer sites on need basis.
+* Participate in on-call rotation.
+
+
+Go to apply 
+

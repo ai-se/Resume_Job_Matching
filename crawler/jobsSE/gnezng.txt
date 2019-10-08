@@ -1,0 +1,28 @@
+
+The Role:
+Application level vulnerability testing and auditing
+Participate in level 2/3 security operations support
+Incident handling
+Evaluate and recommend emerging security products and technologies
+Responsibilities:
+Design, build, and maintain efficient, reusable, and reliable C++ code
+Implement performance and quality modules
+Identify bottlenecks and bugs, and devise solutions to these problems
+Help maintain code quality, organization, and implement test automation
+Accountable for tracking status of work and ensuring deliverables are produced on agreed schedules.
+Responsible to accurately communicate accurately the status of ongoing work to stakeholders and Facilitate knowledge transfer and documentation of current functionality
+Required Skills:
+Expert C++ skills with 8+ years’ experience writing production code
+Deep knowledge of high-performance and low latency engineering
+Experience with network protocols such as TCP, UDP
+Proficiency in Unix and developing on Unix based platforms
+Experience with multithreading
+Experience implementing automated unit and integration tests frameworks.
+Proficient understanding of code versioning tools (GIT Preferred)
+Familiarity with continuous integration and build automation
+Excellent written and verbal communication skills (English)
+Bachelor’s degree in Computer Science or equivalent technical degree.
+
+
+Go to apply 
+

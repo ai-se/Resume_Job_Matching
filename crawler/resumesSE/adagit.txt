@@ -1,0 +1,101 @@
+
+Olagoke B, Olasebikan
+DevOps Engineer and Linux Admin
+
+Summary
+Enthusiast DevOps Engineer, skilled in infrastructure architecture and provisioning with hands-on experience using various Cloud platforms (AWS, Azure and GCP). Linux Administration skills, DevOps practices and culture and experience using CI/CD tools e.g. Docker, Kubernetes, Chef, Ansible, Terraform and Jenkins
+
+Top Skills
+
+Docker, Kubernetes, Helm
+Linux administration and Cloud platforms (AWS & GCP)
+Configuration Management (Terraform, Ansible and Chef)
+CI/CD using Git, Jenkins and Chef
+
+Monitoring and logging tools (ELK, Nagios, Prometheus and Grafana)
+Container orchestration using Docker and Kubernetes
+Python, Golang, PHP & MongoDB
+Apache, Nginx and F5 BIGIP
+
+Work Experience
+Interswitch Group, Victoria Island, Lagos Nigeria (DevOps Engineer) 2018 - Till date
+
+Container orchestration using Docker and Kubernetes
+Setup, configuration and troubleshooting of the ELK stack
+Monitoring & Logging tools configurations and troubleshooting
+Application upgrades and CI/CD (Stash, Jenkins and Chef)
+Administration and troubleshooting issues on F5 BIGIP Device
+Scripting using Python and Golang.
+
+Major Achievements:
+1.Automated the setup of multi-nodes(Cluster) MongoDB, Kafka and ELK using ansible
+2.Converted chef cookbook for legacy applications to Kubernetes manifest and artefacts to docker images.
+3.Setup full automated CI/CD workflow for new teams on UAT
+4.Created Kubernetes clusters both on-premise and AWS
+5.Led the POC team to implement deployment using spinnaker
+6.Automations (ELK index delete and backup process, database backup validity test and application restarts).
+7.Kubernetes cluster visibility and monitoring using Prometheus & Grafana
+
+-
+
+Punch Newspapers, Lagos Nigeria (System Administrator) 2015 - 2018
+-AWS resources administration (EC2, ECS, RDS, Route53, S3 etc.)
+-Infrastructure Provisioning (Docker, Terraform & Bash Scripting) - Monitoring and Analytics (Nagios, Grafana and Google Analytics) - System Administration (Linux, and Bash Scripting)
+-Migration the entire application stack from managed host to self-managed AWS cloud with no downtime
+-Automating backups and securing the website against vulnerabilities
+-CI/CD Jenkins (Git, Terraform and Jenkins)
+-Technology Journalism and Blogging
+-Application development using Django and PHP
+
+Major Achievements:
+1.Architect the infrastructure base by migrating infrastructures with database up to 5TB from Digital Ocean to AWS
+2.Work with the team to decoupled applications to microservices
+3.Standardize the source control practice through master branch approach and git commit hooks
+4.Standardize code build to immutable artefacts which get versioned and stored to Nexus
+5.Setup a centralized login system (LDAP server) and implemented it on all applications.
+
+Atlas System & Technology Solutions (Lead Developer) 2014 - 2015
+-Software & Web Application Development (PHP and Javascripts)
+-Third party integration (Interswitch payment integration for clients) - Google productivity applications. - Provision of Supports and Documentation on solutions for clients
+-Managing Virtual Host Servers housing over 100 clients’ applications (WHM and CPanel)
+-Search Engine Optimization for clients.
+-Set up performance monitoring for clients’ websites
+Major Achievements:
+1.Developed a custom module (Drupal), plugins (Wordpress) to integrate customers website to Interswitch payment gateway.
+2.Integrated GoDaddy domain search and hosting service into the company’s portal.
+3.Setup web panel to manage the shared hosting provision to clients
+
+IT & Media Services Unit, University of Ibadan (Web Developer) 2012 - 2014
+-Designs of custom Drupal themes for events websites
+-Graphics design using Adobe Photoshop and Firewalls.
+-Web Development (Drupal, WordPress and Yii)
+Major Achievements:
+1.Key member of team that migrated the school website from custom PHP to Drupal
+2.Created the staffaudit platform to manage the staff auditing process in 2015
+3.Developed custom Web Applications for subunits.
+Education
+M.sc Information Science, University of Ibadan, Nigeria 2015
+B.sc Fisheries Management, University of Ibadan, Nigeria 2010
+SSCE/ WASSCE, Ilupeju Ekiti, Nigeria 2003
+Primary School Leaving Certificate 1997
+
+Key Qualities
+-High energy and enthusiasm to learn new things
+-Good communication skills feeding ability to understand and interpret operational needs of business
+-Leadership skills and ability to work with team to drive success
+-Flexibility to change and new ideas or views
+
+Attributes
+Language: Yoruba, Pidgin and English
+Hobbies: Travelling, Chess, Cycling and Music
+
+Referees
+Available upon request.
+
+Phone: +234-***-**** 423
+E-mail: adagit@r.postjobfree.com
+Location: Ketu, Lagos Nigeria
+LinkedIn: linkedin.com/in/olagoke
+GitHub: github.com/olagokeolasebikan
+
+Contact this candidate

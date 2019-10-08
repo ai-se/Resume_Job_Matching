@@ -1,0 +1,68 @@
+
+OLEKSANDR KALIETNIK
+• +1-315-***-**** • adafp7@r.postjobfree.com
+Professional Summary
+Bilingual IT specialist with experience in deploying and maintaining LAN infrastructure. A polished and dedicated individual with over 10 years of system repair and troubleshooting experience. Committed to ensuring smooth communication between staff, clients, and management. Seeking a new position as an IT Support Specialist or Network Engineer with a great organization. Have work authorization documents (Permanent Residence). Skills
+Skilled in TCP/IP and WAN
+Network architecture understanding
+Technical support
+Hardware knowledge
+Customer Service
+Network maintenance and troubleshooting
+Technical documents comprehension
+Organized and detail-oriented
+Problem Resolution
+Work History
+IT Specialist with Network Support duties, 01/2015 to 08/2019 LLC "Real Time Media" (Part of UPRIGHT Group Limited) – Poznan, Wielkopolskie, Poland
+· Installed, configured, and supported the local area network (LAN)
+· Experienced in setup and configure of Mikrotik routers, switches, wireless access points
+· Implemented and administered of company VPN based on SSTP, OpenVPN
+· Configured dynamic routing protocols (OSPF) and network firewalls to provide high level of network security
+· Monitored the stability of the network and wireless services to ensure comprehensive stability
+· Facilitated an increased knowledge base for the help desk staff by authoring documentation for system configuration and troubleshooting
+· Managed all software and hardware issues for end-users
+· Created support documentation that empowered and enabled user community to extend skills, leverage system features and find resolutions to questions without intervention from support team
+· Provided Tier 1 IT support to non-technical internal users personnel through OTRS ticketing system
+· Setup PC and Apple desktops and laptops and all types of mobile devices. IT Support Specialist, 06/2013 to 01/2015
+LLC "Eco-Vital" – Poznan, Wielkopolskie, Poland
+· Configured hardware, devices and software to set up new workstations for employees.
+· Configure and support of Mikrotik routers, switches, wireless access points.
+· Provided firewall and VPN setup and management (IPSEC, EOIP, OpenVPN), network and host-based security and incident response.
+· Installed, configured, and maintained Linux systems using CentOS for SQUID Proxy service.
+· Delivered network technology training to junior team members and end-users, enhancing knowledgebase and team productivity.
+· Diagnosed and resolved hardware, software and network problems and replaced defective components.
+· Facilitated an increased knowledge base for the help desk staff by authoring documentation for system configuration and troubleshooting.
+· Provided all required network documentation to inform management. IT Engineer, 02/2010 to 06/2012
+LLC "INDUSTRIAL REPAIR" – Kryvyi Rih, Dnipropetrovsk, Ukraine
+· Installed, configured, tested and maintained Windows Server 2003/2008 operating systems, application software and system management tools
+· Setup and administration of Active Directory service based on Windows Server 2008
+· Configuration and support of Mikrotik routers, switches, wireless access points
+· Provided high level of network security by setting up firewall and VPN secure connection
+(EOIP, IPSEC, OpenVPN) between company branches
+· Established, repaired and optimized networks by installing wiring, cabling and devices
+· Administration of Russian ERP system 1C: Enterprise
+· Installed and configured Microsoft SQL for ERP system
+· Implemented Data Backup
+· Provided Tier 1 IT support to non-technical internal users personnel through email and phone. System Administrator, 04/2008 to 02/2010
+LLC Design Studio ABRISS” – Kryvyi Rih, Dnipropetrovsk, Ukraine
+· Installed, configured and maintained Windows Server 2003
+· Implemented and managed company routers, switches, firewalls
+· Configured network services: DHCP, DNS, WINS, FTP, HTTP, PPTP, L2TP
+· Kept computer systems operating at optimal performance levels
+· Provided remote troubleshooting and support for users using phone and email
+· Identified computer hardware and network system issues, performing troubleshooting techniques for remediation
+· Build of new computer workstations for employees
+· Performed Data backup
+Education
+Bachelor of Science: Computer Science and Programming, 2009 National Aviation University - Kyiv, Ukraine
+Certifications
+· Cisco Certified Network Associate: Routing & Switching
+· MikroTik Certified Routing Engineer (MTCRE)
+· MikroTik Certified Network Associate (MTCNA)
+Spoken Languages
+· English
+· Russian (Native)
+· Ukrainian (Native)
+· Polish
+
+Contact this candidate

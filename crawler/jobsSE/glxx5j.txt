@@ -1,0 +1,28 @@
+
+Job Responsibilities:
+Analyze existing systems (~30%)
+Collect requirement specifications to analyze business processes and determine the exact nature of users system requirements, map process flow, discuss with module leaders and core team members to decide on the organizational structure.
+Analyze existing system structures to provide solutions to improve computer systems to use cloud-based systems and services.
+Analyze user requirements to match data available to large computer database source systems to implement solutions at reasonable performance and cost.
+Design the processing steps and propose new systems based the users requirements. Interact with systems analysts/programmers to develop data migration tools, create processes for the new computer system and attend to ad-hoc issues related to day-to-day activities. Work with software developers in the implementation and testing phase.
+Develop specifications and workflow (~25%)
+Prepare software specifications, flow charts, and process diagrams for software programmers to follow. Develop and maintain systems documentation such as design specifications, user manuals, technical manuals, descriptions of application operations, and methodology documentation.
+Analyze feasibility using commercially available software systems (e.g. Microsoft Azure versus Amazon Web Services) and reporting systems (e.g. Power BI versus Tableau).
+Analyze and verify implementation (~25%)
+Interact with systems analysts/programmers to develop data migration tools, create processes for the new computer system and attend to ad-hoc issues related to day-to-day activities.
+Work with software developers in the implementation and testing phase.
+Setup test environment and compare data from multiple sources to verify reports for end users.
+Review implementation status and reporting (~10%)
+Participate in technical collaboration meetings and periodical reviews of implementation status.
+Report weekly task plan to the project management team for implementation of custom software.
+Training and certifications (~10%)
+Participate in technical trainings and complete relevant industry courses and certification.
+
+Requirements
+Bachelors or masters degree in Computer Science, Information Systems, Electrical Engineering, Applied Computational Math Sciences or related fields.
+Benefits
+company offers competitive pay and benefits including 8 paid holidays, 15 days of paid time off, comprehensive medical and dental insurance with employee premiums paid in full and a retirement plan with company match and immediate vesting.
+
+
+Go to apply 
+

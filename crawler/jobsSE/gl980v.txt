@@ -1,0 +1,57 @@
+
+Title : NETWORK ENGINEER II
+Location : SUNNYVALE, CA
+Duration : Long-term Contract
+Duties:
+Title: Tools Engineer
+Develop and Implement Network, Systems, Security and application monitoring Tool
+Develop and Implement reporting tools
+Assist in administering network services such as firewalls, switches, routers, LAN, VMware
+Maintain the network performance reports library for historical analysis and reference
+Assist in resolving network hardware, VMWare ESXI and software problems through monitoring and alert tool
+Assist in administering network services such as firewalls, switches, routers, LAN, Security and Systems
+Maintain professional and technical knowledge by attending educational workshops, reviewing professional publications, establishing personal networks, participating in professional societies and taking advantage of self-learning opportunities
+Skills:
+Bachelor's degree in a related field/relevant schooling - nice to have
+5+ years of experience in network and system monitoring
+One to three years of experience using infrastructure performance and monitoring tools such as Splunk or Open NMS or SolarWinds or CACTI required
+Extensive knowledge on full stack monitoring tools like Grafana, Logstash, Prometheus, InfuxDB, etc
+Must have experience with a scripting language, Log analytics using SNMP, Syslogs
+General knowledge of networking, VMWare, Security Systems
+Self-sufficient to work through problems on your own
+Work with minimal to no direction
+Excellent oral and written communications skills
+Excellent interpersonal skills demonstrated ability to work in a team setting and the ability to develop
+Strong documentation skills with ability to convey complex designs in an easily understandable format
+DOCUMENTATION
+ENGINEER
+FIREWALLS
+LAN/WAN
+LIFECYCLE
+LINUX
+MAINTENANCE
+NETWORKSECURITY
+NETWORKING
+PRODUCT DEVELOPMENT
+SDN
+SYSTEM ADMINSTRATION
+ADJUSTMENTS
+API
+BGP
+OPEN SOURCE
+PROBLEM-SOLVING
+PROTOTYPE
+PYTHON
+SWITCHING
+SYSTEM ADMINSTRATION
+TELNET
+Education :
+Bachelor's degree in a related field/relevant schooling - nice to have
+5+ years of experience in network and system monitoring
+One to three years of experience using infrastructure performance and monitoring tools such as Splunk or Open NMS or SolarWinds or CACTI required
+
+Permanent
+
+
+Apply now
+

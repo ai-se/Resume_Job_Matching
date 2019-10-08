@@ -1,0 +1,109 @@
+
+Resume
+Name: ANURAG HK Voice: +916*********
+Email: adahmg@r.postjobfree.com
+
+House No. 96, Laggere, Bangalore (Dist.) – 560058, Karnataka, India
+
+Professional Experience –
+Working as Software Testing Engineer since AUGUST 2017 in Fluidmech Solutions Pvt Ltd, Bangalore.
+2 Years of Experience in Testing and 1.10 Years Relevant of Experience in Testing.
+
+Manual Testing –
+Mobile App Testing
+Web Application Testing
+Performance Testing
+Basic Knowledge of API Testing
+Have knowledge of Testing of ecommerce, healthcare, Payment Applications and other general web applications and mobile applications.
+Write/Review/Execute Test cases
+Performing Smoke testing, functional testing, integration testing, system testing etc. for Web Application and Mobile Application Testing in Experitest Tool
+Good in performing Exploratory testing and Regression Testing
+Preparing test summary/STCM report.
+Writing test plan and worked on Tools like TestRail, JIRA, and Bugzilla etc.
+Validating data in the back end database using SQL
+Understanding business requirement document and identifying scenarios.
+Performing Compatibility testing, Adhoc testing etc.
+Preparing defect report and raising then ticket in defect tracking tool
+Performing test case review process.
+Performance Testing with JMETER for Load and Stress testing.
+Preparing traceability matrix to achieve minimum coverage in the project
+Concept knowledge of SDLC, STLC, Agile, Bug tracking, Bug Life cycle etc.
+Attending triage calls
+
+Agile process –
+
+Attending daily standup meetings
+Attending planning poker activity
+Good in analyzing burn down chart
+Attending scrum meetings
+Understanding user stories and preparing test cases
+
+Automation Testing Using Selenium WebDriver –
+knowledge on core java
+knowledge on Selenium
+Worked with Junit
+Developing properties files and reading the content from properties files
+Generating html based reports
+Identifying objects based on xpaths, id, name etc.
+Handling multiple browsers, alert boxes etc.
+Knowledge about Basic Core java Concepts
+Knowledge about Selenium Concepts.
+
+Certification Course –
+
+Completed software testing course from Testing Campus InfoTech Duration: 6 months
+
+Got trained on following technologies and Software’s -
+Manual Testing, Software Testing
+Apache JMETER
+Experitest
+JIRA, TestRail
+Bugzilla
+Agile
+SQL
+
+Education Details –
+
+Completed B tech in Mechanical from Adichunchanagiri Institute of Technology, Chikmagalur, with 58% aggregate.
+Year of Passing: 2016
+
+Project Details –
+
+Project Name : CRM (customer relationship management) Application
+Technology : Php, Java, MySQL, etc.
+Team Size : 6
+Process Type : SDLC
+Description –
+It is a web based application designed and developed to perform marketing in an efficient manner. It helps to manage and maintain leads, billing of the customer, performing email campaigns and measuring its efficiency, generating reports to analyze sales forecast, maintaining inventory and purchase entry details. It is a complete CMS designed to be modified as per the customers need. In simple words, it is one stop shop to help customer to do his marketing and sales in the efficient manner.
+
+Project Name : HRM (human resources management system)
+Technology : Php, Java, MySQL, Tomcat etc.
+Team Size : 6
+Process Type : Agile scrum process
+
+Description –
+Personnel Information Management (PIM) Simplify your HR data, centralizing all your employee data, no matter where you're located in the world. Leave/ Time off Management. Time & Attendance Management. Performance. Recruitment.
+
+OTHER PROJECTS: Salesforce projects, Mobile Applications, ecommerce, healthcare, Payment Applications
+
+Roles and Responsibilities –
+Write/review/execute test cases
+Performing functional testing, integration testing, system testing, Performance Testing
+Performing Exploratory, Adhoc, Campactability, Regression Testing.
+Writing test plan
+Reporting defect using defect tracking tool Like Buggzila
+Preparing traceability matrix
+Understanding requirement and then identifying scenarios
+Preparing and updating STCM
+Attending daily standup meetings
+Validating data in the back end data base using SQL
+Giving KT and have worked with Tools like JIRA, TestRail, Bugzilla.
+
+DECLARATION:
+I hereby declare that the above given particulars are true to the best of my knowledge and belief.
+
+Date:
+
+Place: ANURAG H K
+
+Contact this candidate

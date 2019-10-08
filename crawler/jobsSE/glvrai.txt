@@ -1,0 +1,26 @@
+
+Platform Engineer
+Location: Sunnyvale, CA
+Project duration: Long term
+Job Description:
+The prospective candidate should have the below (in the order of preference):
+Experience and expertise in Front end web technologies like ReactJS, HTML, and CSS
+Backend languages like Java, Go, Python, NodeJS
+Understanding of microservices based platforms
+Strong in system design, fault tolerance, and resiliency patterns of microservices
+Experience with Containerization Docker, Kubernetes
+Experience with cloud services Azure, GCP
+Ability to pick up new technologies/frameworks
+Experience in Bash scripting in a Linux environment
+Good spoken and written communication skills
+Effective collaborator and able to work in a fast paced, goals driven environment
+Prior Devops experience is a plus
+Infrastructure automation with Ansible, Terraform, CloudFormation is a plus
+regards
+poornima
+
+Permanent
+
+
+Go to apply 
+

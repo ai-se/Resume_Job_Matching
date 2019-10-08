@@ -1,0 +1,114 @@
+
+CURRICULUM VITAE
+S SATHISH KUMAR, BE, PGDC
+B-**, Kambar Street, Block-4,
+Neyveli-1, Cuddalore District,
+Tamilnadu-607801
+adafvl@r.postjobfree.com
++91-971*******
+PROFESSIONAL SUMMARY:
+Highly creative and experienced IoT (Internet of Things) with a superb record of client service and cost- effective fiscal management. Adept at directing small and large teams of energy specialists to maximize project success. Able to bring multiple simultaneous IoT projects to completion by or before deadline and within budget.
+CORE QUALIFICATIONS:
+• Exceptional IoT, control system and energy management experience.
+• Superior familiarity with network architecture and topology.
+• High expertise in derivative loop and proportional integral tuning.
+• Excellent grasp of calibration techniques and sensory instruments.
+• Sound oral and written communication skills.
+• Strong complex control sequence analysis skills.
+• Outstanding skills in conducting on-the-job training lectures and exercises.
+• Good abilities in loop wiring and assessment.
+• Integrating wages (water, air, gas, electrical and steam) in local network or cloud network with gateway configurations.
+AREA OF INTERESTS:
+Power System, Transformers, Switch Gears, Energy management system, Wave Traps, Reactors and Harmonic Filters.
+TECHNICAL SKILLS:
+MATLAB, MI-POWER, DTS (Digital Training Simulator), Networking, TCPIP, Cloud computing via SQL. MSSQL, Modbus, XML, JSON, IoT.
+PACKAGES:
+MS Office, SQL, Corel Draw, Matlab, Modbus (TCP, RTU). EXPERIENCE:
+IoT Project Execution Specialist (Project Execution Lead) Quality Power Engineering Projects Private Limited.,(T4E - Endoks) 1/1/2019 – Present Bangalore
+• IoT based platform for monitoring Renewable Energy generation plants.
+• Ability to interpret customer business challenges and technical issues and effectively communicate how a solution will align to their needs and requirements.
+• Experience of deploying embedded and IoT solutions - from hardware, operating systems through applications and cloud services.
+• Build strategic relationships with key technology partners and customers.
+• Apply expertise in analysing a customer's business or technical challenges and correctly map the appropriate solution.
+• Develop and present technical sales collateral such as presentations, how-to guides, and technical competitive documents to start the project implementation.
+• Understand and champion the technical knowledge and product skills required to meet customer requirements and close new business.
+• Will develop business opportunities and manage system and hardware level product development in the new area of Narrow Band Internet of Things technology.
+• Proactive identification of business opportunities, active communication and project development with potential IoT (Internet of Things) customers, operational and technological partners.
+• Preparation of project pricing offers, presentation of proposals, and negotiations with customers, ongoing project progress communication with customers;
+• Product specification, project execution planning, supervision and internal communication with engineering team, participation in product development review. Energy Management Specialist(Senior Project Engineer) Atandra Energy Private Limited., 1/5/2017 – 31/12/2018 Chennai
+• Oversaw coordination of contractors and outsourced engineers with technical services staff.
+• Developed energy efficiency programs in coordination with programming team.
+• Maintained strong and professional client networks to ensure superior quality deliverable.
+• Conducted feasibility studies and facility audits on a regular basis and as required.
+• Directed a variety of financial resource maximization plans in collaboration with appropriate company teams.
+Energy Management Specialist(Project Engineer)
+Atandra Energy Private Limited., 6/7/2015 - 30/04/2017 Chennai
+• Coordinated issue communication between suppliers and clients as required.
+• Oversaw internal and external support manpower performance.
+• Designed and developed automated publishing programs.
+• Updated company manuals with data warehouse research.
+• Provided team leader support in fulfilling client delivery and product expectations. Description:
+Installing and Commissioning of Energy Panel Meters and EMS software.Providing demo for Portable Meters, Harmonic filter installation, Linking non-energy meters like air, steam and gas into EMS software, Installing stabilizers, LES(Light Energy Savers) etc. Job Role :( For-Energy Management Systems related to panel and portable meters)
+• Installing and commissioning of Energy Meter in Electrical panel over HT & LT. Collecting orders with project scheduling and budjet preparation. Follow ups with customer regarding new requirements, Payment related queries, material billing and despatch etc. Giving presentations for the new products related to portable and panel meters with Energy Management System.
+• Providing Customer support by remote or On-site depending on the actual.
+• Controlling the energy by Demand using Demand controller relay setup.
+• Controlling energy depends on the external source such as Temperature, Pressure.
+• Providing warning alarm based on the Shift Wise, Usage of power, Leading and lagging power factor using AlEnSoft EMS software.
+• Help the customer to maintain Power factor by the real time values.Assigning CT & PT ratio as per the Meter Specification. Creating the report for the data taken by the portable meters.
+• Make load study for selecting the amps rating of harmonic filter and it includes installation and commissioning.
+EASUN REYROLLE, HOSUR. Feb 2015 (1 Month)
+Tendering and Servicing Engineer
+Undergone 1 month Apprenticeship Training
+Description:
+• To review and manage the customer enquiry process into a costed workable solution.
+• To submit a detailed response to the enquiry documentation and provide responses to any subsequent requests for clarification.
+• To develop costing as part of the quotation process (Techno-Commercial Bid).
+• To assist the Engineering department, where applicable, when undertaking a design and build for new unit orders.
+Hot-Line Training Institute. (Using HSM and BHM). Nov 2013-Dec 2013 Undergone Training
+Responsibilities:
+• Changing of insulators, Jumpers (11kv, 33kv, 66kv, 110kv) in Tension and Suspension String
+• Tower Climbing Practice for 220kv.220Kv Switch yard Insulator Washing. SLN Enterprises Jun-2012 - Jun 2013
+Electrical Supervisor
+Responsibilities:
+• Plan and schedule project, Supervise subordinates, Street lighting,
+• House wiring Projects and assist in coordinating job assignments with other traders. PROJECT IN ENGINEERING:
+Major Project Title:
+Active Power Management of Electric Power System using Emerging Power Electronics Technology. Description:
+The main objective of this project is to maintain Frequency Constant is proposed to a long transmission line.
+Certified In-Plant Training:
+In plant training on TS-1(Thermal Power Station) for duration of one week in 2010 at NLC-Neyveli. EDUCATIONAL QUALIFICATION
+• Bachelors in Electrical and Electronics Engineering from Hindustan University (Chennai) - 2012
+• Post Graduate Diploma in Sub-Transmission and Distribution from National Power Training Institute
+(Bangalore) - 2014
+PROFESSIONAL QUALIFICATION:
+• Post Graduate Diploma in ‘SUB-TRANSMISSION & DISTRIBUTION’, National Power Training Institute (NPTI), PSTI, Bangalore, September 2013- August 2014.
+• During the training period I have done DTS (Digital training Simulator Lab), Relay Lab, Mi Power Lab (Power System lab) and High Voltage Lab. I had undergone two weeks training in NPTI-Neyveli on O&M OF TRANSFORMERS, SWITCHGEAR AND RELAYS.
+STRENGTHS:
+• Effective Communication
+• Project management
+• Project execution
+• Presentation skills
+• Strategic thinking
+• Knowledge of certification and testing
+• Flexibility and Adaptability
+• Quick Learning agility
+• Critical thinking
+• Coaching people: Teaching
+• Creativity
+• Positive Attitude
+• Responsible & Listening
+• Goal oriented results achiever, Meeting deadlines. CO-CURRICULAR ACTIVITIES:
+• Zonal Certificate in March Past (NCC).
+• Helps in Organizing EEE Department Symposium (OMEGA-10). PERSONAL PROFILE:
+Father’s Name: P Selvam
+Date of Birth: 02-07-1991
+Marital Status: Single
+Nationality & Religion: Indian, Hindu
+Hobbies: Playing Volleyball, Cricket, Table Tennis. Languages known: Tamil, English.
+Passport Number: K5963270.
+Date of Expiry (Passport): 25/10/2022
+SELF DECLARATION:
+I hereby declare that the above mentioned information is true and the best of my knowledge. S.Sathish Kumar BE, PGDC
++91-971*******
+
+Contact this candidate

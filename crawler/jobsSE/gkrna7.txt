@@ -1,0 +1,20 @@
+
+MRI Software is seeking a Software QA Engineer to join our team in our global headquarters! To support our rapid growth, we are seeking a talented, motivated QA Engineer that bring a passion for releasing quality products for our customers. This role will work closely with MRI Software customers and team members to ensure products and services work in a fully integrated manner as expected by the customer.
+RESPONSIBILITIES:
+Define and execute manual test strategies, using industry Best Practices in the design
+Interpret the results of manual and automated tests at both the Application Program and user interface layers
+Understand industry best practices and recommend where and when to apply them on both an immediate, and long-term basis
+Applies defined software testing practices and procedures to drive quality and testability of products and services.
+Creates clearly documented plans, designs and results
+Founded in 1971, MRI Software is a leading provider of innovative real estate software applications and hosted solutions. MRI’s comprehensive and flexible technology platform coupled with an open and connected ecosystem meets the unique needs of real estate businesses—from property-level management and accounting to investment modeling and analytics for the global commercial and residential markets.
+Direct project involvement and leadership of projects delivering enterprise software solutions
+Bachelor’s Degree in Computer Science, Engineering, Math or Physics majors, graduation from Technical School, or equivalent work experience required.
+2-5 years in Software Quality Assurance Engineering
+Experience in Accounting Software is a plus
+Experience with Artificial Intelligence preferred but not required
+Successful experience in manual test development and strategic implementation
+MRI Software delivers innovative applications and hosted solutions that free real estate companies to elevate their business. Our flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Sydney, South Africa, New Zealand, and Canada with over 1200 team members to support our clients and their unique needs!
+
+
+Go to apply 
+

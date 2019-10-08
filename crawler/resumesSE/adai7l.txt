@@ -1,0 +1,79 @@
+
+Steven D. Shelton Front-end Engineer
+adai7l@r.postjobfree.com • www.linkedin.com/in/stevendshelton 479-***-**** • Chattanooga, TN 37415 Solutions-focused web developer with extensive experience delivering key contributions to the development of highly functional web pages and applications. Skilled in conducting code review and processing feedback on software architecture to optimize websites for flexibility, speed, and scale. Well-versed in writing codes, gathering requirements, participating in architectural discussions, and troubleshooting various issues. Possess deep understanding of bleeding edge technologies and processes, along with the capacity to carry projects and tasks to completion with limited guidance. Demonstrate excellent verbal and written communication skills, keen attention to detail, and strong problem solving, abilities. Areas of expertise include:
+Software Development Life Cycle
+Technical Documentation
+Technical Support
+Product Development
+Technical Documentation
+Cross-Functional Collaboration
+Technical Project Management
+Computer Programming
+Systems Integration
+Problem Resolution
+Quality Assurance
+Web Development
+Professional Experience
+University of Tennessee at Chattanooga • Chattanooga, TN Digital Development Librarian / Web Services Librarian (Partial Remote Work) • 2015-Present Participate in both front- and back-end development and server maintenance processes for a plethora of custom code, open-source, and proprietary software on several Linux servers and hosted services. Orchestrate the development and maintenance of public-facing web interfaces, along with the design and incorporation of processes for documenting, storing, and maintaining custom code.
+Key Accomplishments:
+• Led the creation of Vagrant instances for local development environments.
+• Executed the migration of a custom codebase and custom modifications to GitHub (planned migration to Bitbucket).
+• Designated as Systems Administrator for servers running open-source software.
+• Ensured cross-browser compatibility and updated the library's servers and custom codebases.
+• Oversaw the migration of LibGuide CMS from version one to version two.
+• Designed operational frameworks and procedures for regular UX testing of interfaces.
+• Played a key role in the Accessible Technology Initiative by determining the accessibility of library software and Content Management Systems.
+Georgia Regents University • Augusta, GA
+Systems Librarian • 2014-2015
+Conducted maintenance of library systems including Voyager ILS, Illiad ILL, EZproxy, and SFX link resolver. Managed the design and maintenance of content for digital signage utilizing Tightrope Media Systems Carousel. Key Accomplishments:
+• Introduced significant enhancements to University Libraries’ public-facing interfaces and web pages using OUCampus CMS.
+• Leverage APIs to improve dynamic content on website and signage. Richland Library • Columbia, SC
+User Experience Specialist (Partial Remote Work) • 2012-2014 Performed usability testing on current and proposed interfaces to isolate opportunities for enhancing user experience. Managed focus groups targeted to defined personas, and oversaw task-driven UX. Key Accomplishments:
+• Developed and improved interfaces focused on user experience using wire-framing and rapid prototypes.
+• Provided valuable assistance to the enhancement of Drupal 7 site as needed.
+• Commended for excellent leadership as project manager for long-term institutional targets involving the development of community groups.
+Steven D. Shelton
+Page Two of Two
+University of Arkansas Fort Smith • Fort Smith, AR Web Services Librarian • 2010-2012
+Provided technical oversight to all public-facing interfaces including library website, Innovative Interfaces OPAC, LibGuides, Serial Solutions link resolver, vendor database customization, ContentDM, and others. Supervised digital signage using open-source Xibo software, two Windows servers hosting web pages, and various web applications. Key Accomplishments:
+• Executed the redesign of databases page into a discovery interface that consumes data via API from Libguides system, along with the creation of custom tutorial overlay for database page built with jQuery.
+• Designed custom discovery interface for unique digital collection using PHP, MySQL, and jQuery.
+• Completed the digitization of yearbook collection, which was 50% complete after six months from two years prior. Kansas State University Libraries • Manhattan, KS
+Digital Learning Projects Resident (Post-Degree Residency) • 2008-2010 Assisted the Instructional Design Librarian in the development and maintenance of learning objects. Key Accomplishments:
+• Collaborated with the Digital Initiatives Department in exploring and developing online solutions, and with the Usability Team in testing user interfaces.
+• Developed Cite-It citation tool through the use and modification of open-source software.
+• Improved data entry and management on the backend, and user experience on the front-end by modifying current custom PHP/MySQL class scheduling software.
+• Introduced discovery interface for a unique aerial map collection which utilized dynamically generated pages via PHP, MySQL, and XML data.
+Education & Training
+Master of Library and Information Science UNIVERSITY OF OKLAHOMA, Norman, OK Bachelor of Arts in English with Minor in Mass Communications NORTHEASTERN STATE UNIVERSITY, Tahlequah, OK Technical Proficiencies
+• Analytics
+• AnglularJS
+• APIs
+• Basecamp
+• Bootstrap
+• CSS3
+• Drupal
+• GIMP
+• Git
+• GitHub
+• Google Tag Manager
+• HTML5
+• Illustrator
+• Inkscape
+• JavaScript
+• Jira Suite
+• jQuery
+• JSON
+• LAMP
+• LEMP
+• Linux Sysadmin
+• MS Office Suite
+• Photoshop
+• PHP
+• SQL
+• Vagrant
+• Web Design
+• WordPress
+• XML
+
+Contact this candidate

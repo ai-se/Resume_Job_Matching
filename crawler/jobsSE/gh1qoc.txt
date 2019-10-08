@@ -1,0 +1,28 @@
+
+Description:
+Product Insight is a native AWS tool used internally for capturing customer usage and integrating that with internal information related to customers for providing insight and intelligence to the customer usage patterns. This role will be responsible for delivery of components as defined in the architecture for Product Insight.
+" Delivery new components associated with privacy requirements driven from the California Consumer Privacy Act.
+" Develop and deploy changes within the core pathway to optimize batching, storage, and compression of product usage events. This includes changes to the pathway to merge/batch S3 files, incorporate snappy compression, and other optimizations defined by TR and AWS architects.
+" Development must comply with our data privacy and security standards.
+" Partner with architecture on design where needed to confirm further technical design.
+" DevOps delivery of native AWS applications within the Product Insight landscape.
+" Build CI/CD pipeline and cloud formation where needed to deployment migration tool set.
+" Accountability for the quality and timeliness of own work.
+" Participate in project planning sessions to understand requirements, provide design options, and provide work breakdown estimates.
+" Bachelor's degree in Computer Science or, equivalent of education and experience (3-5 years)
+" Data formats: JSON, Parquet
+" Experience with AWS cloud services: Lambda, S3, Dynamo DB, Amazon ECS, DyanmoDB, CI/CD, Cloud Formation
+" Experience with Apigee/RESTful APIs
+" Operational Tool Sumologic, Datadog
+" Experience with object-oriented/object function scripting languages: Java
+" Experience of unit testing, code management tools and design tools.
+" Good written and oral communication skills.
+" Good collaborative problem-solving capabilities
+" Experience working in agile environment
+
+Contract
+2+ mos
+
+
+Apply now
+

@@ -1,0 +1,134 @@
+
+Raymond L. Stiles, PMP
+***** ********* ***** ***** ************, FL 32225
+adaicn@r.postjobfree.com cell 904-***-****
+
+Experienced Sr. Software Engineer with over 19 years of success leading, developing, and testing all phases of many diverse technology projects. I have direct technical support of the CSX’s PeopleSoft suite of applications in the capacity of a Senior Software Engineer and Project Manager. I have the proven background and experience defining system scopes and requirements with the expertise in tuning programs for processing efficiency. Expert with PeopleSoft application engine and component interface as well as Oracle, Unix, and Mainframe environments directly supporting PeopleSoft HCM, PeopleSoft CRM, Taleo, and Success Factors cloud integration as well as the numerous external vendor interfaces.
+
+Technical
+
+Major Applications:
+PeopleSoft HCM
+PeopleSoft CRM
+PeopleSoft Upgrade Manager
+Taleo
+Risk Management System
+Medical Qualification System
+Forefront Identity Management
+Active Directory Database - Operating Systems:
+Oracle
+SQL Server
+Linux – Unix
+Windows OS
+Tuxedo
+Microsoft
+PIA
+Software:
+PowerShell
+SQR
+PL/SQL
+Cobol
+Perl
+PeopleTools
+Mainframe JCL
+CA7
+
+Technical Projects
+Expert using PeopleSoft Upgrade Manager (PUM) for installing updated Tools versions, Tax Updates, and Security Patches.
+PeopleSoft HR/Benefits/Payroll HCM application
+oTechnical engineer for 4 PeopleSoft Upgrades and 3 Oracle Upgrades.
+7.5 to 8.3, 8.3 to 8.8, 8.8 to 9.1, 9.1 to 9.2
+Oracle 9i, 10c, and 12c
+oTechnical engineer in support of all batch system integrations.
+oCreated Web Services in support of CSX’s need of providing data to external systems
+oSkillful in applying PeopleSoft Security utilizing roles and permission list.
+oExpert in the use of the Sterling product for encryption and file transfers
+oDeveloped the New Hire Interface between Taleo and PeopleSoft
+oDeveloped Data Request Form and Workflow used today PeopleSoft
+oDeveloped the Vendor Deduction Recovery Process for Payroll
+oRe-architected the 8.55.13 web/app server configuration creating 5 regions for Tools Patches
+oAs CSX’s Project Manager, I manage a 9 member outsourcing team.
+PeopleSoft HR Help Desk (CRM) application
+oOriginally stood-up PeopleSoft HR Help Desk (CRM) application.
+oIntegrated HR Help Desk application via Asynchronous and Synchronous messages to the PeopleSoft HCM application via Integration Broker.
+Success Factors/Taleo/Learning Management System
+oLead Technical engineer during the delivery of all three of these ASP applications.
+Integration of Success Factors (Talent and Learning Management Modules)
+Integrated Taleo into HCM
+Developed the new hire process from Taleo to PeopleSoft
+Union Based Talent Management System
+oLeading developer of the Web Service Interface into PeopleSoft HCM
+TTG Payroll application
+oAs CSX’s Project Manager, I manage TTG Payroll maintenance team, mainframe based
+Very Proficient in mainframe JCL running Unix scripts calling either stored procedures or SQR programs as well as various other Unix routines
+
+Project Management Skills
+
+Project Management:
+Stakeholder Management
+Requirements Analysis
+Risk Analysis
+Costing & Budgeting
+Project Scheduling
+Testing/QA/Rollout/Support
+IT Project Lifecycle:
+Custom Software Development
+Database Design
+Systems Engineering
+System Migrations/Integrations
+Enterprise Wide Implementations
+Application Architecture
+WebService Integrations
+Value-Added Leadership:
+Cross-Functional Supervision
+Team Building & Mentoring
+Client Relations & Presentations
+Business & IT Strategic Planning
+Vendor Management
+Process Improvement
+Business Partner Collaboration
+
+Projects
+PeopleSoft Application Upgrade Project Manager – Increased overall functionality and improved efficiency across all HR business platforms.
+Taleo Implementation Project Manager - Modernized talent acquisition management and recruitment system enabling both internal and external job posting and requisition management.
+TrainingTrax Implementation Project Manager – Introduced an extended learning and development platform providing users access to learning technologies with full and secure integration from both their desktop or mobile devices. Chairman’s Award Recipient for TrainingTrax Implementation.
+Medical Qualification System Project Manager – Delivery of in-house design of a Java based Oracle platform providing Medical department a means to auto-track and manage medical qualifications on all potential new employees. Provided a modernized WebService interface between the medical vendor, the MQS application and the ECM application.
+PeopleSoft HR/Benefits/Payroll and CRM Application Project Manager – Effectively managed the maintenance, support, and BP enhancements of two large scale applications which are cross functionally aligned under 3 company VPs. Application provides Benefit and Payroll services for the company’s 35,000 employees.
+Risk Management and Medical Applications Project Manager – Led a 6 member team leading to the conceptual design, development and delivery of two new Medical system applications, MQS and FURS. Provided significant strategic vision for an over-arching Medical application integrating all medical applications into one.
+Quality Center Implementation Project Manager–Improved workflow and management of Key Software Development Life Cycle initiatives, ensuring on-time delivery, effective testing and documentation within the PeopleSoft and RMS/Medical space.
+
+E-6B Training Logistics and Acquisition Program Manager – Executive oversight of all required training resources (to include personnel) and logistics
+
+Career Progression
+
+CSX Technology 2000 – 2019 Jacksonville, FL
+Senior Software Engineer I PeopleSoft Support and Design Team
+Project Manager II Risk Management and Medical Application
+Project Manager II Workforce Management Technology
+Senior Software Engineer Workforce Management Technology
+Systems Analyst Workforce Management Technology
+Junior Systems Analyst Workforce Management Technology
+
+USS JOHN F KENNEDY 1996 – 1999 Mayport, FL
+Production Control Manager, Aircraft Maintenance
+Manager, Avionics Shop
+
+Naval Air Systems Command 1993 – 1996 Washington DC
+Program Manager, Training Systems
+
+Education & Credentials
+
+Bachelor of Science in Computer Information Systems
+Strayer College, Woodbridge, VA
+Project Management
+PMI Institute, Jacksonville, FL
+Business Process Reengineering
+Crystal Gateway 4, Arlington, VA
+SYSCOM Planning, Programming, and Budgeting
+Pentagon, Arlington, VA
+Management of Acquisition Logistics
+DSMC, Fort Belvoir, VA
+Defense Contract Management for Technical Personnel
+DSMC, Fort Belvoir, VA
+
+Contact this candidate

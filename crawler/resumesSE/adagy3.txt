@@ -1,0 +1,35 @@
+
+SHREERAJ KAVALE
+Atlanta, GA-***** 361-***-**** adagy3@r.postjobfree.com
+OBJECTIVE
+Cost-conscious and analytical with history of success optimizing quality and production processes in fast-paced manufacturing environments. Increase productivity, quality, and profitability through keen data analysis and process design; significantly improve operations and provide efficient resolution of production issues.
+
+SKILLS & ABILITIES
+Software’s: Solid Works, CATIA, Auto CAD, Pro-E, ANSYS, MS Office (Word, Excel, Power point, Access, Visio)
+Methodologies: DFMEA, GD&T, APQP, 8D, Lean Principles, Process Improvement, 5S, DFSS
+Programming Languages: MATLAB, My SQL, SAP ERP
+Certifications: Lean Six Sigma Green Belt, Project Management, Lean Manufacturing Fundamentals, German Language A2
+
+EDUCATION
+08/2017-05/2019
+Master of Science- Industrial Engineering, Kingsville, Texas A&M University
+08/2012-05/2016 Bachelor of Science- Mechanical Engineering, University of Pune
+
+EXPERIENCE
+07/2016-07/2017
+Manufacturing Engineer, Mehta Enterprises (OE Automotive parts manufacturing company ISO:TS 16949)
+·Created and modified parametric 2D layouts and 3D CAD models and engineering drawings. Developed 2D Drawings & Layouts as per (GD&T).
+·Performed interference study, reviewed the drawings and released parts for production. Reviewed Bill of Materials.
+·Conducted failure mode effect analysis -DFMEA to help eliminate failures from the product.
+·Collaborated with the CAE team in reviewing FEA analysis results to validate the components and improve the design. Final product cost was 33% of the budgeted cost, leading to a 200% profit margin for the company.
+·Identified assembly and build issues with CAD design and design for manufacturability, quality issues with assembly, errors in build books, development of fixtures for easy assembly and identification of manufacturing wastes like motion, waiting etc. with current processes.
+08/2015-05/2016
+Manufacturing Engineer Trainee, Ubique Systems
+·Assisted in reading of blueprints and designing new fixture assembly using Auto Cad and Solid works
+·Performed various operations CNC lathe such as internal boring, drilling along with milling machine operations to manufacture parts from the raw material.
+·Gear Roll Tester was used to test parameters of spur gear such as PCD run out, tooth to tooth error and composite error with respect to master gear.
+·Used Kaizen and Lean Manufacturing to eliminate the defective gears after comparing with the master gear.
+·Used PLC Controller to take more precise readings which eliminated defective gears.
+·Worked with Process Engineer to resolve testing problems, improve operations and provide exceptional customer service.
+
+Contact this candidate

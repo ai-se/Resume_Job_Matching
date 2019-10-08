@@ -1,0 +1,115 @@
+
+Brian Saxberg
+*** ***** *** ** *******, ND *****
+H: 701-***-**** C: 701-***-****
+adafs5@r.postjobfree.com
+
+Passionate Web/SQL Software Developer with 20+ years of experience. At Sheyenne Tooling, optimized shop floor paperwork process cutting office worker time by 60+%. Developed many custom data extracts for use by management. Skilled in SQL, PHP, and VB .Net. Driven to learn new things and who can pick up other areas fast.
+
+Experience
+Feb 2004 – Present Sheyenne Tooling & Manufacturing Cooperstown, ND
+
+Maintain 30 desktops, 3 servers, network equipment and phone system for a mid-size manufacturing plant and three satellite buildings.
+
+Primary Role: IT Manager with other responsibilities involving Master Scheduling, Costing/Closing functions, Employee work order time tracking, issuing and receiving of material and parts.
+
+Operating Systems
+Windows Server 2003, 2008 R2, 2012 R2, 2016, XP, 7, 10 and Ubuntu 14.04.5 LTS
+Programming Languages
+PHP 7.x, 5.x/HTML/CSS/JavaScript, SQL and VB .Net
+Relational Databases
+SQL Server 2005, 2012, 2016 and MySQL 5.x
+Other Software Packages
+Max Exact and Time Clock Plus
+
+Specific programming projects: Rewrote the shop paperwork system to allow for the automatic incorporation of shop drawings with the work order. This has saved 60%+ time in processing orders and paper expense. Implemented the “Part Information Center” which allows read access into our manufacturing software (Exact Max). Batch reports emailed using PHP in PDF or Excel forms. Developed actual costing reports, priority reports, total shop time and work center analysis tools. Oversaw the infrastructure change from physical servers to a virtualized environment.
+
+Jan 2004 - Present Brian Saxberg Computer Services Binford, ND
+Provide sales and service of IT equipment, and contract programming in various technologies.
+Specific Programming projects: Sales Order processing system for a local company.
+
+Aug 2009 – May 2010 CIS Instructor at Mayville State University Mayville, ND
+* This was a one-year special circumstances situation as I also worked full time for Sheyenne Tooling.
+Classes taught:
+C++, C#, Object Orientated Programming (using Java), Systems Analysis and Design, Advanced Relational Databases, Advanced Web Development (ASP .Net)
+
+Dec 2006 to Nov 2007 ECOM Consultants Overland Park, KS
+Contract performed for Embarq Holdings Company LLC.
+
+Specific programming: Wrote custom web services in PHP to integrate with CA Unicenter Asset Management suite. Wrote VB .Net web services using the CA objects, built added functionality to allow for bulk loading of data from other data feeds.
+
+Operating Systems
+Windows Server 2003, XP
+Programming Languages
+PHP/HTML/CSS/JavaScript, SQL and VB .Net
+Relational Databases
+SQL Server 2005, 2012, 2016 and MySQL 5.x
+Other Software Packages
+CA Unicenter Asset Portfolio Management r11.3
+
+Sept 2003 – Jan 2004 Dynasec Fargo/Hannaford, ND
+
+Developing bug tracking system, testing Bio-metric security software and providing technical support to clients. The bug tracking system was written in PHP and MySQL
+
+Operating Systems
+Windows NT 4.0/2000/ME/98/XP
+Programming Languages
+PHP/HTML/CSS/JavaScript and SQL
+Relational Databases
+MySQL
+
+Oct 2001 – Aug 2003 Sprint Communications Company, L.P. Warrensburg, MO
+
+Primary Role: Web/SQL Developer in IT Asset Management.
+
+Specific programming projects: Main developer in writing the Oracle stored functions for the Main Control asset management tool. Wrote warehouse bulk import tools for managing inventory into SAMR using Cold Fusion.
+
+Operating Systems
+Windows NT 4.0/2000
+Programming Languages
+Cold Fusion 5.0/PHP/HTML/CSS/JavaScript and SQL
+Relational Databases
+Oracle 8i
+
+Nov 2000 - Oct 2001 Maxim Group Overland Park, KS
+Contract performed for Sprint Communications Company, L.P.
+Primary Role: Web/SQL Developer in IT Asset Management.
+
+Operating Systems
+Windows NT 4.0/2000
+Programming Languages
+Cold Fusion 4.0/HTML/CSS/JavaScript, ASP and SQL
+Relational Databases
+Oracle 8i and SQL Server 7
+
+Jan 2000 - Nov 2000 ComMark, Inc. Mayville, ND
+
+Primary Role: Web/SQL Developer
+
+Specific Programming projects: Built a prototype web-based Visio Diagram processing system.
+
+Operating Systems
+Windows 2000
+Programming Languages
+Cold Fusion 4.0/HTML/CSS/JavaScript/ASP, Visual Basic 6 and SQL
+Relational Databases
+SQL Server 7 and Access 97
+
+May 1998 - Jan 2000 Schwan's Sales Enterprises Marshall, MN
+
+Specific Programming projects: Wrote program to compare Name/Address for the State of Colorado's IMDB.
+
+Operating Systems
+Windows 2000, SCO UNIX 5.05
+Programming Languages
+Informix 4gl, Visual Basic 6, C and SQL
+Relational Databases
+SQL Server 7 and Informix 7
+Other Software Packages
+Code-1 Plus and MailStream Plus
+
+Education
+1994-1998 Mayville State University Mayville, ND
+B.S., Computer Information Systems
+
+Contact this candidate

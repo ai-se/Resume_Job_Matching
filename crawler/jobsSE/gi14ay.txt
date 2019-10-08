@@ -1,0 +1,23 @@
+
+** MULTIPLE OPENINGS / NO C2C CANDIDATES**
+BS in Computer Science (or equivalent experience) plus 2-3 years of experience or MS in Computer Science with 1 years of experience including experience with open source technologies, automated configuration, and cloud automation development and operations.
+Must be proficient Apache Tomcat and Jenkins development.
+Have experience with Python development with the ability to call API's.
+Practical knowledge programming and debugging server-side/cloud environments.
+Basic networking skills and familiarity with Unix/Linux systems including CLI used in checking component status and logs.
+Understanding of Software Development Life Cycle, Test Driven Development, Continuous Integration and Continuous Delivery processes.
+Oral and written communication skills, comfortable communicating with groups of people when needed.
+Cloud enabling technology (using IaaS and PaaS) experience desirable.
+Experience developing or implementing configuration management with either Puppet, Chef, Ansible or Terraform.
+Experience with open source technologies such as Docker, Kubernetes, Elasticsearch (ELK), Kafka, and Redis is a plus
+Experience with github, Jenkins CI/CD pipeline, Ansible modern deployment automation tools.
+Experience in one or more of the following: C, C++, Java, Python, Go, Perl or Ruby.
+Experience in software delivery, various DB patch delivery mechanism.
+
+If interested, submit your updated resume in WORD(.doc) format with following details: Full Name: Current Location: Expected Hourly rate/Salary: Work Authorization:
+
+Contract
+
+
+Apply now
+

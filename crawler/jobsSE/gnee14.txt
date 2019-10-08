@@ -1,0 +1,48 @@
+
+Description:
+The Engineer will be a key member of the security function for Client InfoSec initiatives. This individual will be responsible for working effectively with numerous cross-functional stakeholders across the company (Finance, IT, HR, Security, Operations teams, Product Groups, etc.) to engage on all aspects of automating control and process design, testing, implementation, deployment/execution, monitoring, documentation, and remediation to support the Security Operations Center in regard to incident response efforts.
+The ideal candidate should be organized and extremely detail oriented with strong coding stills and a broad knowledge of security incident response, threat intelligence, and Security Orchestration and Automated Response (SOAR) technologies
+
+Roles/Responsibilities:
+The Security Engineer will serve as a member of the company's Information Security Program by supporting ongoing security engineering, compliance activities, and monitoring efforts using automation across multiple Client initiatives, as applicable.
+The engineer will work closely with Client service providers to design, test, engineer, and implement automated security solutions in all aspects of Information Assurance and Information Security. This includes being able to assess and assist InfoSec teams to automate processes to mitigate system security threats and risks, respond to security events and incidents, validate system security requirements, verify compliance with system security requirements, and perform system certification, testing, validation planning, and act as liaison with other departments and business units to supporting ongoing system security operations and maintenance.
+
+Specific Roles and Responsibilities include:
+• Ability to design and develop automated security processes that support integration within existing architectures including DLP, SIEM, MLS, IDS, etc.
+• Capable of independent management of projects from design through implementation and ongoing monitoring including working closely with security architecture, security operations, and other operations teams within Client.
+• Perform Security tool integrations with multiple business units across various Client initiatives.
+• Assess large, complicated cloud-hosted services to determine where security threats could take advantage of vulnerable configurations.
+
+Requirements:
+• BA or BS degree in IS or related field required (Information Security, Computer Science, Computer Engineering, or related Engineering) or equivalent.
+• Must have a minimum of 5 years' work experience in Information Security including network and system security, and incident response experience.
+• Must have excellent communication and customer interface skills.
+• Must have experience working within a large enterprise
+• Security Orchestration and Automated Response (SOAR) experience required (2+ years preferred)
+o Experience with Phantom preferred
+• Strong coding fundamentals (2+ years coding experience preferred)
+o Strong Python coding skills (1+ year preferred)
+o Bash and PowerShell scripting experience preferred
+• security engineering knowledge required: vulnerability scanning, security event monitoring (siem), log aggregation, web app scanning
+• Strong experience developing and deploying system architectures within cloud/AWS datacenters including integrated security tool deployments, logging strategies, and monitoring techniques. Advanced AWS experience a plus, 2+ years required. Additional Azure/GCP knowledge preferred.
+• Strong knowledge of Windows, Linux and OSX operating systems and environments including knowledge regarding active directory and group policy, networking architecture design and implementation, virtual environments, and datacenter design (Windows Server 2016R2, RedHat/Amazon Linux2 required)
+• Strong information security domain knowledge and experience.
+• Operator level knowledge regarding the implementation, deployment, and usage of security tools and programs, including:
+o Intrusion detection/prevention software
+o Vulnerability scanners
+o AD audit tools
+o Web Application Vulnerability scanners
+o Log Aggregation or SIEM management tools
+o Ticketing systems and integration with the above
+
+Other desired skills and experience:
+• CISA/M, CISSP, PMP, CRISC, Security + and/or other relevant designations
+• Experience in large scale compliance or auditing environments
+• Systems Engineering, Integration, and Technical Support within environments containing various levels of technical acumen from server, network, or storage support.
+• Experience with SOCII and/or audit criteria definition
+• Experience performing vulnerability assessments, QA testing, Implementations & Validations.
+• User account management (AD or AWS IAM)
+
+
+Go to apply 
+

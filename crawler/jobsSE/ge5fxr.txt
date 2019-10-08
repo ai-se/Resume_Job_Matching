@@ -1,0 +1,39 @@
+
+SS&C Advent, a leading provider of award-winning software and services for the global investment management industry, is seeking a Software Engineer to work in our San Francisco office. We are looking for passionate, driven, and diligent software engineer for our Geneva Product Development group.
+
+As a software engineer in this team, you are expected to:
+
+* Participate in sprint planning
+
+* Work with lead engineers and architects in evaluating various implementation options.
+
+* Implement key modules as per development guidelines.
+
+* Work with QA team for validating software functionality
+
+Skills/Experience
+
+* 2+ year of software development experience
+
+* Deep understanding of various Java specifications, frameworks and libraries
+
+* Experience implementing reusable components and libraries
+
+* Deep understanding of Object-Oriented Design and Development
+
+* Experience working with database systems.
+
+* Strong computer science fundamentals: data structures, algorithms, distributed systems, Network Communication
+
+Education
+
+* Bachelor in Computer Science or Engineering required
+
+At SS&C Advent, you will find a rewarding career where you can thrive at every level. We invest in our employees by offering competitive compensation and benefits and progressive training opportunities. In addition to challenging and meaningful work, you will find a good work-life balance and deep commitment to giving back to the communities where we live and work. Advent's culture thrives on teamwork and diversity. So, bring your unique perspective and talent to Advent and thrive in your work today!
+
+Advent Software is an equal opportunity employer, committed to a diverse workforce.
+SDL2017
+
+
+Go to apply 
+

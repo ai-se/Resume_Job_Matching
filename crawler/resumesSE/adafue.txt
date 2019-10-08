@@ -1,0 +1,215 @@
+
+Key Skills
+
+Oracle PL-SQL(**g, **c)
+
+Informatica 9.1/10.1
+
+Unix Shell Script
+
+Hive
+
+Sqoop
+
+Oozie
+
+HDFS
+
+HBase - No SQL
+
+Python
+
+Spark - PySpark
+
+Spark - SQL
+
+Control-M, AutoSys
+
+Agile Methodology
+
+ERWin Data Modeler
+Proven track record of executing prestigious IT companies, different Banking, Telecom, ERP Projects with different office of large magnitude within strict time schedule, cost & quality in adherence to company standards; targeting Technical senior-level assignments with an organisation of repute.
+
+Profile Summary
+
+Over 7.8+ years of as an Oracle PL/SQL, ETL(Informatica), Hadoop Developer in Analysis, Design and Implementation of Business Applications in Banking, Telecom domain.
+2+ years of experience as Hadoop/Spark Developer using Big data Technologies like Hadoop Ecosystem, Spark Ecosystems complete end-to-end Hadoop infrastructure using Hadoop, Hive, Sqoop, Oozie, HBase, Spark API’s PySpark, SparkSQL.
+In-depth understanding of Spark Architecture including Spark Core, Spar SQL, Data Frame.
+Expertise in using Spark-SQL with various data sources like JSON, Parquet and Hive.
+Hands on experienced in Hive QL for top of MapReduce program.
+Experience in creating tables, partitioning, bucketing, loading and aggregating data using Hive.
+Job/workflow scheduling and monitoring tools like Oozie
+Hands on experienced in data process using Spark API's PySpark, SparkSQL for faster testing and processing of data.
+Experience in transferring data from RDBMS to HDFS and HIVE table using SQOOP.
+Worked in complete Software Development Life Cycle (analysis, design, development, testing, implementation and support) using Agile Methodologies
+Experience on Hadoop clusters using major Hadoop Distributions - Cloudera (CDH5)
+Experience with Data flow diagrams, Data dictionary, Database normalization theory techniques, Entity relation modeling and design techniques
+Responsible for all activities related to the development, implementation of ETL processes for large scale data warehouses using Informatica Power Center 10.1
+Practical understanding of the Data modeling (Dimensional & Relational) concepts like Star-Schema Modeling, Snowflake Schema Modeling, Fact and Dimension tables
+Excellent technical and analytical skills with clear understanding of design goals of ER modeling for OLTP and dimension modelling for OLAP
+Hands on write package, procedure, function, analysis, designing and unit testing.
+Performance tuning exercise of existing long running jobs in Oracle DB.
+Created Shell Scripts for invoking SQL scripts and scheduled them using Scheduling tools like – Control-M, AutoSys
+Excellent communication, interpersonal, analytical skills and strong ability to perform as part of a team
+Proficient and prompt in learning and adapting to new technologies
+Self-motivated with result oriented approach and a team player with strong communication, leadership, achieve goals, organizational and milestones in an accurate and consistent Manner
+Keep the project team updated with daily progress reports on any assigned actions in JIRA, follow the Agile methodology.
+
+Education
+Master of Computer Application, 81.5% from Rajasthan University, Jaipur, Rajasthan
+Bachelor of Computer Application, 85.2% from WBUT, Kolkata -West Bengal
+
+Significant Accomplishments Across Career
+
+Keep the project team updated with daily progress reports on any assigned actions.
+Responsibilities in allocating internal technical work to members of the staff.
+Ensures the tasks approved are as per the approval criteria.
+Ensure timesheets are appropriately filled by the Implementation engineers.
+Provide inputs/feedback to senior manager for the performance of implementation engineers.
+Establish relationship with project managers, team members across the globe.
+Strong development, problem solving & technical skills coupled with confident decision making for enabling effective solutions leading to high customer satisfaction and low operational costs.
+Exposure to all phases of SDLC including performance tuning of the code.
+Achieved Best Team Award from Sony India Software Centre for Sola Horizon Project.
+Achieved award from Accenture Pvt. Ltd for Delivery Excellence.
+Achieved recognition for develop self and others (DB training) from Accenture.
+Achieved recognition for handle the counterpart and delivery Excellence from Societe Generale.
+
+Work Experience
+Feb’17 - Still date with Société Générale Global Solution Centre, Bangalore, India as Senior Developer
+Reporting to Project Manager
+
+Aug’14 – Jan’17 with Accenture Services Pvt. Ltd., Bangalore, India as Senior Developer
+Reported to Project Lead
+
+Dec’11 – Aug’14 with Tech Mahindra- Bangalore, India as Senior Software Engineer
+Reported to Technical Lead
+
+Certifications
+
+OCA Certification (Oracle 11g PL/SQL Developer Certified Associate).
+OCP Certification (Oracle 11g PL/SQL Developer Certified Professional)
+DNIIT from NIIT Limited, Kolkata (W.B)
+Diploma in Hardware Technology from Webel Informatics Limited, A Govt. of West Bengal
+
+Annexure (Project Details)
+
+Hadoop/Spark developer May'2017 to Current
+Société Générale Global Solution Centre, Bangalore, India
+Project: SSD - As per each countries law it is important for the investors to do a disclosure within the notice period to the local regulatory when the positions holding (in capital and/or voting rights) of the investor (Group Entity) crosses (exceed or falls below) the threshold limit on the listed company. Significant shareholding disclosure (SSD) allows the users to set the threshold limits in the application based on which, at Group level (Société Générale SA) or at entity level SSD raises alerts when there is an upward and downward crossing of holdings by SG / SG entities on a listed company. SSD raises declaration alert when there is real legal threshold crossing of holdings by SG / SG entities on a listed company for which the business has to do the declaration to regulatory.
+
+Role & Responsibilities:
+Used SFTP to transfer and receive the files from various upstream and downstream systems.
+Migration of ETL processes from Oracle to Hive to test the easy data manipulation
+Responsible for developing data pipeline using Sqoop, MR and Hive to extract the data from weblogs and store the results for downstream consumption.
+Used the JSON and XML SerDe's for serialization and de-serialization load JSON and XML data into HIVE tables.
+Involved in creating Hive tables loading data and writing hive queries.
+Developed Hive queries and UDFS to analyze/transform the data in HDFS.
+Designed and implemented Partitioning (Static, Dynamic), Buckets in HIVE.
+Developing Spark programs using Python API's to compare the performance of Spark with Hive and SQL.
+Used Spark API over Cloudera Hadoop YARN to perform analytics on data in Hive.
+Implemented Spark using Python and SparkSQL for faster testing and processing of data.
+Designed and created Hive external tables using shared meta-store instead of derby with partitioning, dynamic partition.
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, Data frame
+Analyzed the SQL scripts and designed the solution to implement using PySpark.
+Implemented Spark using Python and utilizing Data frames and Spark SQL API's for faster processing of data.
+Used CSV, JSON, Parquet and ORC data formats to store in to HDFS.
+Imported the data from different sources into Spark RDD, Data frame.
+Involved in some product business and functional requirement through gathering team, update the user comments in JIRA 6.4.
+Interacted and communicated with business and technical team members to trouble shoot issues.
+
+Oracle PL-SQL Developer/Informatica Developer/Unix Shell Script Feb,2017 to Apr,2019
+Société Générale Global Solution Centre, Bangalore, India
+Project: RTS 2.0 - The RTS 2.0 is part of the European Market Infrastructure Regulation (EMIR) in Societe Generale. In this project data from GOLD, NCR, NPR and NOR will be loaded into EMIR schema. The data load will happen through ETL tools. The data from source schemas will undergo transformation according to EMIR requirements and loaded into EMIR core schema tables. The structure of EMIR schema will be modeled based on EMIR data model.
+
+Role & Responsibilities:
+Collaborated with the Internal/Client BA’s in understanding the requirement and architect a data flow system.
+Used SFTP to transfer and receive the files from various upstream and downstream systems.
+Daily AutoSys job run in production, if any technical issue come in production support the L2/L3 PROD team for technical analysis and resolve it.
+Any Long running issue come in PROD, identify the reason and share the analysis for further action taking care on behalf of it.
+Implemented performance tuning logic on targets, sources, mappings, sessions to provide maximum efficiency and performance.
+Conducting code reviews of peers and analyzed the pl/sql programs to identified bugs and bottlenecks to improve performance.
+Involved in some product business and functional requirement through gathering team, update the user comments in JIRA 6.4.
+Leading role for database solution for Client’s performance issues and any critical issues.
+Interacted and communicated with business and technical team members to trouble shoot issues.
+Delivery and support the end to end project development process.
+
+Oracle Developer/ Informatica developer June, 2015 – Jan,2017
+Accenture Service Pvt. Ltd, Bangalore, India
+Project: SECBUS_AO - The SECBUS_AO project is part of APTP (Accenture Port Transport). In the APTP have many team involved like production team, operation team, settlement team. Production team have many applications involved like – ALISE, EOLA, GALAXY, MATRIX, NXG. Mainly it’s development team. Production team booked a deal for dealer/brokers. During booking time, many events are involved. After deal is booking done it validated the instruction through back office. Back office validated the instruction, validated the accounting and sends the confirmation. If confirmation not validated automatically then manually validated the instruction.
+
+Role & Responsibilities:
+Interacting with client for requirement gathering and preparing understanding/proposal document as per requirement and estimation of projects.
+Reference data comes from various source, using Informatica tools load the data in our target database.
+Used various transformations like Source Qualifier, Expression, Aggregator, Joiner, Filter, Lookup, Update Strategy Designing and optimizing the Mapping.
+Developed Workflows using task developer and workflow designer in Workflow manager and monitored the results using workflow monitor.
+Used various optimization technique based on the scenario like Transformation optimization, Mapping optimization, Partitioned mapping optimization, Push down optimization.
+Leading role for database solution for long running job performance issues and other technical issues.
+Conducting code reviews of peers and analyzed the pl/sql programs to identified bugs and bottlenecks to improve performance.
+Developing procedures, functions, packages, analysis, designing and unit testing.
+Performance tuning of existing long runing packages, procedures. Hands on with tuning package of dbms_tune, dbms_profiler, dbms_hprof.
+Facilitating/Performing UAT testing.
+Interacted and communicated with business team and technical team members to trouble shoot issues.
+
+Oracle Developer/Unix Shell Script/ Conversys Rating & Billing tools Aug, 2014 – May, 2015
+Accenture Service Pvt. Ltd, Bangalore, India
+Project: Telenor - Telenor is mobile network operator offering services including voice, sms, mms and data, and will focus on extend more services in coming years. The scope of this project is the introduction of a new Telenor RPC platform (Real-time Policy and Charging) which is having the functionality of the PCRF (Policy and Charging Rules Function) and OCS (On-line Charging System). All data traffic will be rated in the RPC, in addition to the network polity control and notifications functions.
+
+Role & Responsibilities:
+*Working on Geneva rating and billing application tools for creating event and binding that event.
+*Configure the rating plan newly created events. For this write the code in back end environment.
+*Interacting with client for requirement gathering and preparing understanding/proposal document as per requirement and estimation of projects.
+*Leading role for database solution for Client’s performance issues and any critical issues.
+*Conducting code reviews of peers and analyzed the pl/sql programs to identified bugs and bottlenecks to improve performance.
+*Developing procedures, functions, packages, analysis, designing and unit testing.
+*Performance tuning of existing long running packages, procedures and rewrite the code.
+*Facilitating/Performing UAT testing.
+*Updating client and management with weekly status reports.
+*Interacted and communicated with business team and technical team members to trouble shoot issues.
+
+Oracle Developer/Informatica Developer/Unix Shell Script Aug, 2013 - Aug, 2014
+Tech Mahindra, Bangalore, India
+Project: VFQ - Vodafone Qatar plans to roll out the merged stack for Mobile and Fixed. Current technical architecture is designed to have Mobile customers on one stack and Fixed customers on a separate stack. Objective is to migrate/ transform the customer’s data from isolated Mobile & Fixed Line Legacy a single stack. The customer accounts were also required to be merged during the migrations to enable a single view of Prepaid & Postpaid Mobile customers.
+
+Role & Responsibilities
+* Write package/procedure/function code as per project requirement.
+*Performance tuning of existing packages, procedures /SQL tuning etc.
+*Development of ETL using Informatica 9.1.
+*Prepared various mappings to load the data into different stages like Landing, Staging and Target tables.
+*Used various transformations like Source Qualifier, Expression, Aggregator, Joiner, Filter, Lookup, Update Strategy Designing and optimizing the Mapping.
+*Developed Workflows using task developer and workflow designer in Workflow manager and monitored the results using workflow monitor.
+*Reconciliation & fall out report generation package created and generate the report.
+*Catch up reconciliation & fall out report generation package created and generate the report.
+*Interacted and communicated with business team and technical team members to trouble shoot issues.
+*Updating client and management with weekly status reports.
+*External data load into the database using SQL LOADER.
+
+Oracle Developer/Informatica/Unix Shell Script Jul, 2012 - Jul, 2013
+Tech Mahindra, Bangalore, India
+Project: SOLA HORIZON 2.0 - The Horizon is a PSI application which is based on .NET as Front End and Oracle as Backend. Application interacts with many external systems like SAP, SET PSI, SAP OMS(newly built), SAP BW, KITS etc. through standard interface (file based) layouts to consume and publish data. Horizon application was developed and implemented to support planning of various product categories like Home Audio, Home Video, PA, TV, Play Station, RM, BPLA etc for Sony Latin America(SOLA) region.
+
+Role & Responsibilities:
+*External data load into the database using Informatica ETL tools
+*Design and developing different mapping and take care business data logic for data migration activities.
+*Write package/procedure/function code as per project requirement.
+*Tuning the PL/SQL code
+*Write and debug shell script code in UNIX Box.
+*Prepare specification design documents and Unit test cases after completing the module.
+
+Oracle Developer/Unix Shell Script Jan, 2012 - Jun, 2012
+Tech Mahindra, Bangalore, India
+Project: DE - Bank of America is the leading financial institution in USA. Customer information systems hold customer, account, address, offer, service, statement related details in IMS and DB2 databases. CIS systems pass customer information to ATM, call centers, online banking, mobile banking systems in online and batch Mode.
+
+Role & Responsibilities:
+*Developed Advance PL/SQL packages, procedures, triggers, functions, Indexes and Collections to implement business logic using SQL Navigator. Generated server side PL/SQL scripts for data manipulation and validation and materialized views for remote instances.
+*Involved in creating UNIX shell Scripting. Defragmentation of tables, partitioning, compressing and indexes for improved performance and efficiency.
+*External data load into the database using SQL LOADER.
+*Worked on SQL*Loader to load data from flat files obtained from various facilities every day. Used standard packages like UTL_FILE, DMBS_SQL, and PL/SQL Collections .
+*Involved in the continuous enhancements and fixing of production problems. Designed, implemented and tuned interfaces and batch jobs using PL/SQL.
+
+Mustafa Siraj Shaikh - ORACLE OCP certified
+Oracle PL-SQL, Informatica, Hadoop/Spark Developer
+
+adafue@r.postjobfree.com, Skype ID: smsirajk
++919********* / 897******* Whatsup-897**-*****
+
+Contact this candidate

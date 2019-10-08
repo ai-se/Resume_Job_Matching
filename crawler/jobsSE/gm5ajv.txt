@@ -1,0 +1,12 @@
+
+Role: Senior Data Engineer Location: San Jose, CA Tenure: 12+ Months/ Contract # of Positions: 05 Positions Our Data Warehouse team is looking to add a Senior Data Engineer to their team.
+Qualified applicants will have at least 5-7 years experience in a Data Engineer position and a background in supporting data transformation, data structures, metadata, dependency and workload management.
+Ideal candidates will be experts in both SQL and Talend/Informatica or any ETL tool.
+Essential Skills: Experience in building processes supporting data transformation, data structures, metadata, dependency and workload management Advanced working SQL knowledge and experience working with relational/non-Relational databases, query Authoring (SQL) and excellent SQL troubleshooting skills Advanced working knowledge in employing Talend Tool to build robust data pipelines; Talend Certification Preferred Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Experience in working in an Agile project management environment A successful history of manipulating, processing and extracting value from large disconnected datasets Knowledge and experience in job scheduling tools like Talend administration Console, CA Appworks Experience in working with an agile project management environment Exposure to Jira and Confluence required Exposure to basic issues in working within a Cloud (Azure or AWS) environment.
+Exposure to any cloud based Data-warehouse like Snowflake or Amazon redshift.
+Medium to advanced working knowledge in scripting languages Perl/Shell & Python Ability to carry out assigned tasks with limited need for supervision Excellent problem solving and critical thinking skills Superb verbal and written communication skills Experience in financial services industry preferred Bachelor s degree in Business Administration, Computer Science or other related fields of study or equivalent work experience
+
+
+Go to apply 
+

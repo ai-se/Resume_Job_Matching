@@ -1,0 +1,204 @@
+
+ALEX OSTROVSKIY
+
+* ****** ****.
+Vaughan, ON, L*J 8V3
+Tel: 647-***-****
+E-mail: adaibc@r.postjobfree.com
+
+OBJECTIVE: To obtain a QA Analyst/ Automation Test Analyst position
+
+QUALIFICATION HIGHLIGHTS:
+
+10+ years extensive QA experience in the software development methodology
+(Waterfall, Agile, Scrum). Solid understanding of various phases of SDLC
+7 years experience with QA methods such as regression, smoke, performance, integration, security, migration, API and UAT
+Well versed in designing test plan, test cases and test scripts
+Extensive experience with Manual testing (8+ years) and Automation testing (5+ years)
+5 years experience in testing Financial Service Products
+4+ years experience in testing Telecom Operational Support Systems, Wireless (mobile) Enterprise programs and Web Services
+1 years experience in testing POS retail, Peoplesoft and CRM (included Credit Card) Systems
+Experience of developing an automation framework and solid experience with automated testing tools: QTP (2+years), Selenium (Webdriver) (5+ year), QC/Test Director (2 years), JIRA (5 years)
+API and Performance testing experience with JMeter (2 years), WAPT (1 year), Postman (1 year),SoupUI (1 year)
+Automation Functional testing: Selenium Web Drivers (5 years),
+Basic programming languages knowledge Java (3+years), Visual Basic (1+year) and scripting language JavaScript (1+ Year)
+In-depth knowledge (4+years) relational Oracle, SQL Server, MySQL databases, SQL (3+ years) and PL/SQL (1 year)
+
+COMPUTER SKILLS:
+
+Programming languages:
+Java, C/C++, Visual Basic
+Internet development
+languages:
+
+JavaScript, VBScript, HTML, XSL/XML
+Databases:
+Oracle, SQL Server, MS Access, SQL
+Technologies:
+JSP, Servlets, JDK, J2EE, JDBC
+Programming and testing
+tools
+Tomcat, JBoss, WebLogic, Test Director, WAPT 3.0, QTP, VMware, Selenium, Eclipse, IDEA, JMeter, WAPT, Bamboo,Jankins, SQL Developer, JIRA, SoapUI
+Operating systems
+
+Windows, UNIX SVR4/SUN 5.6, LINUX (Red Hat)
+
+PROFESSIONAL EXPERIENCE:
+Nov.2013 Quality Assurance Analyst Univeris Toronto current
+Project: Enterprise Wealth Management System
+UNIVERIS is the leader in enterprise-class retail wealth management solutions for Canada's financial services industry
+Role:
+
+Created Test cases and test scenarios for automation script
+Created automation script in TestNG format using Java, Selenium Web Drivers and Page Object Pattern for smoke and regression test
+Run automation scripts in head and headless modes in IE, Chrome and Firefox browsers. Created test reports
+Provided REST API testing using SOAP UI and Postman
+Created and executed performance script using JMeter
+Created test cases using Zepyr
+Logged and tracked defects on JIRA
+Environment: J2EE, SQL Server, JBoss, IDEA, JIRA, FishEye, Postman, SOAP UI,
+JMeter, Zephyr
+
+Jun. 2013 Quality Assurance Developer Storage Appliance Corp. (Clickfree)
+Nov.2013
+Project: Kooboodle
+Clickfree Automatic Backup is the world’s first, and leading innovator, in developing easy-to-use computer backup solutions for home and small business people today, and will continue to do so well into the future. Kooboodle is a web base service that helps you securely collect and exchange your lifetime photographic memories.
+Role:
+Used Agile methodology
+Set up automation test suite using Java, Selenium Web Drivers and Web Page Object Pattern
+Created automation test scripts in JUnit 4 format for smoke and regression testing
+Wrote unit test using NUnit with Visual Studio 2012 for desktop Clickfree client application
+Create test cases using TestRail
+Logged and tracked defects on OnTime
+Environment: Eclipse, Selenium IDE, JUnit4 (Web Driver), GIT, Page Object Pattern, FireBug, FirePath, TestRail, OnTime (bug tracking tool), Visual Studio 2012, NUnit
+
+Sep. 2012 Quality Assurance Analyst UXP Systems Toronto
+May.2013
+Project: Multiscreen Interaction Platform (Clients-Flow, Rogers)
+UXP creates new Multiscreen Interactive Platform for Telecommunication\Mobile industry
+Role:
+Used Agile methodology
+Provided performance testing. Created and executed JMeter test plan in performance environment. Created View Result Tree, Aggregate and PerMon Metrics reports
+Created GUI functional test scripts for web console using Selenium Web Drivers (JUnit 4 format). Analyzed test results.
+Tested Web Service REST APIs in advanced REST client application
+Tested SOAP APIs using SoupUI
+Provided back end testing using MySQL Workbench
+Created and executed mobile application test cases for Android and iOS
+Logged and tracked defects on JIRA
+Environment: MySQL, J2EE, Tomcat, SQL JMeter, Putty, WinSCP, Visual VM, MySQL Workbench, Linux, Eclipse, Selenium IDE, JUnit4 (Web Driver), SoapUI, REST Web Service, JSON, JIRA, TestLink, Jing, Android, iOS
+
+May. 2012 Quality Assurance Analyst (Contract) RIM. Mississauga
+Aug.2012
+Project: Blackberry 10 provisioning system (PRV10)
+RIM implements a new Blackberry 10 provisioning system to make provisioning process more simple and effective for RIM service providers (RIM carriers)
+Role:
+Analyzed and document business and functional requirements
+Wrote and executed test cases for a new Blackberry 10 provisioning system
+Deployed new provisioning system builds
+Created SQL queries to validate testing results using SQL Developer
+Debugged and executed already existing test scripts using Rational Functional Tester. Analyzed test results of the HTML-based reports
+Created GUI functional scripts to automate PRV10 test cases using Selenium Web Drivers (Selenium 2, Java)
+
+Environment: Oracle11g, Java, WebLogic 10, Perforce, SQL Developer, Putty, VNC, Integrity, Rational Functional Tester, Eclipse, Selenium 2, Bugzilla
+
+Nov.2010- Quality Assurance Analyst (Full-time) Syncapse, Toronto
+May. 2012
+Project: Social Media Management System. SocialTALK and SocialAPPS applications (Clients- RIM, Pizza Pizza, Coca-Cola, Alexander Keith’s)
+Syncapse implemented a new platform to make social media manageable, scalable and profitable for leading marketers.
+Role:
+Technical Team leader of 3 testers
+Created test cases for a new Syncapse platform releases
+Set up Selenium automation framework. Created, debugged and executed functional scripts (in Junit 3 and Junit 4 formats) using Selenium IDE, Selenium RC, Eclipse and Jenkins for smoke and regression tests
+Tested publishing workflow process for social media web pages and posts
+
+Tested social media pages created in the Syncapse Content Management System (CMS) platform using custom modules and content sets
+Tested Syncapse platform features (modules engine, modules library) using Amazon Web Services
+Environment: Agile development methodology, PHP, MySQL, Eclipse, Java, Junit 4, Selenium IDE, Selenium RC, Jenkins, Maven, SVN, Amazon Web Services, Jing (Instant screenshots), Firebug, Linux, Redmine Issue Tracker
+
+Sep.2010- Quality Assurance Analyst (Contract) IBM Canada, Markham
+Nov.2010
+Project: Trinidad & Tobago Telecom Service (Client -Trinidad & Tobago).
+IBM implemented a new CRM /BRM system in Trinidad &Tobago for IPTV and High Speed
+Internet services
+Role:
+Wrote and executed effective test scenarios, cases to thoroughly test the application
+Updated QA project plan regarding to the business requirements
+Provided manual UAT and System Integration testing for customer ordering process (IPTV and High Speed Internet). Verified customer profile, services and billing information
+Environment: Waterfall development methodology, Windows XP, CRM, J2EE, WebSphere, Oracle 10g, Mantis Issue Tracker, Snagit (Instant screenshots)
+
+Feb.2010- Quality Assurance Analyst (Full-time) VisionMAX Solutions Inc., Mississauga
+Jul.2010
+Project: Point of Sale (POS) retail and Inventory Integration Solution (Clients –T- Mobile, Digicel)
+VisionMAX signed a deal with T-Mobile and Digicel, the largest telecommunications operators in the USA and Latin America. VisionMAX implemented a new POS and Inventory Integration Solution for 10,000 retail stores
+Role:
+Created test plans, test cases and automated test scripts for integration, functional and smoke testing
+Used SQL Oracle Developer for preparation test data: inventory, customer service, sale orders (created SQL queries to insert/update/delete test data)
+Created automated functional scripts using Selenium IDE, Selenium RC and Eclipse (JUnit 3) for smoke and regression tests
+Used Jmeter to analyze system performance behavior
+Tested online customer payment (postpaid, prepaid) using POS workstation. Used POS Tracking tool to analyze front end issues
+Environment: Agile development methodology, Windows XP, Linux Red Hat, Flash, J2EE, Eclipse, Java 2, JUnit, Selenium IDE, Selenium RC, Oracle10g, SQL Oracle Developer, POS Workstation, Tomcat 6, Snagit, Ext JS 3.2, Gemini Issue Tracker
+
+Jun.2005- Quality Assurance Analyst (Full-time) Commsolv, Toronto (former Digital Fairway Corporation)
+Jul.2009
+Project: Telecom Circuit Management (Clients - Cogeco, Primus, TD North America)
+Commsolv Circuit Manager, an application within the Communication Services Management Suit, helps global organizations to manage data communications services.
+Role:
+Maintained testing environment in Windows XP and UNIX (Solaris) operating systems
+Wrote Shell scripts that automated the process of software configuring
+Created test plans and test cases for installation, functional and performance testing
+Validated the testing results using SQL*PLUS in UNIX environment
+Created automated test scripts using QTP for regression testing
+Provided data migration test from the previous product release to the new one using VMWare
+Performed functional, component and integration tests for different type of telecom circuits and services (ATM Port Circuit, DS1, Toll-Free Service, Audio Conferencing etc.)
+Environment: QTP, VBScript, Oracle 9i, SQL*PLUS, Windows 2000 Server, Unix (Solaris), J2EE, WebLogic 8.1, JBoss, Apache Web Server, Jakarta Cocoon, GnatsWeb Issue Tracker, Cygwin, Snagit, VMWare, SQL*Plus, CVS, Loadrunner
+Project: Wireless Mobile Management (Client - RIM)
+Commsolv Mobile Management reduces the cost and time investment required to support wireless deployments. This software allows manual processes throughout the entire management lifecycle such as user requests, service provider orders, configuring and activating devices to be automated.
+Role:
+Provided usability, functional and integration testing to verify that product meets customer (or system) requirements
+Created QA automation test framework using QTP for smoke and regression testing
+Tested Blackberry smart phones activation/deactivation using Blackberry Enterprise Server
+Environment: QTP, PostgresSQL, Windows 2000 Server, J2EE, JBoss, Apache Web Server, BES Blackberry, Jakarta Cocoon, Gnats Web, Cygwin, Snagit, VMWare, SQL*Plus, CVS
+
+Oct.2004- Quality Assurance Analyst (Contract) Devlin eBusiness Architects, Toronto
+May.2005
+Project: CRM Virgin Mobile Canada (Client - Virgin Mobile Canada).
+Virgin Mobile launched in Canada a new pre-paid mobile service through a strategic alliance
+with Bell Mobility.
+Role:
+Defined test strategies, create test plans, test cases and test scripts.
+Performed System Integration Test, Function/Validation Test and Regression Test to verify that web application features meet customer requirements
+Tested online customer payment using Credit Card System
+Tested APIs using JSP files
+Provided end to end test to verify that there are no gaps in workflow (Weblogic, Peoplesoft, Monaris, Bell Prepaid Platform)
+Environment: Windows XP Professional, JDK 1.4, MVC, Struts, Weblogic 8.1, Apache Web Server, TestDirector 8.0, PeopleSoft, CRM
+
+Project: Virtual Reference Library (Client – Toronto Library)
+The Virtual Reference Library (VRL) is a comprehensive directory of web sites and other resources selected by specialist librarians across Ontario
+
+Provided functional, GUI and usability testing. Tested search capabilities of the VRL
+Executed load test cases using WAPT and JMeter load testing tools.
+Analyzed load test result and created load test report for customer
+Environment: BEA Weblogic Portal, JSP, Oracle 9.2, WAPT, JMeter, and Snagit
+
+Oct.2002- Quality Assurance Engineer (Full -time) EnReach Software Canada Inc., Toronto
+Sep.2004
+Project: EnReachTV2 Internet Entertainment Set-top Box Solution (Client –NTT, Japan)
+EnReachTV2 is an end-to-end software solution that enables the convergence of the Internet and television. EnReach TV2 is a thin, full featured and hardware independent embedded HTML browser designed specifically for TV/ WebDVD set-top boxes, and other TV-based appliances
+Role:
+Team Leader of 2 testers
+Prepared test plans, test cases, and bug reports
+Tested ASP and Java applets files to determine how EnReachTV 2 browser supports Internet standards platform including SMTP, HTTP, HTML 3.2, JavaScript allowing open connectivity to any service provider around the world
+Performed manual testing for EnReach WebDVD set-top box to ensure that WebDVD meets the functional requirements and standards: Interactive video applications, Internet e-mail application, Internet browser and secure transaction application
+Environment: C, Visual C++, Java, Applets, TCP/IP, SMTP, HTTP, HTML 3.2, TestDirector 5.0, JavaScript, VBScript, ASP and Apache Web Server
+
+EDUCATION:
+Bachelor Degree in applied Mathematics Science, Kharkiv State University, Ukraine
+
+TRAINING:
+2004 Advanced WinRunner and Quick Test Professional course, A+ Institute Inc, Toronto, Canada
+2002 Advanced Java Developer course, A+ Institute Inc, Toronto, Canada
+2001 Advanced E-commerce Developer course, Optimal Software Solution Inc., Toronto, Canada
+
+REFERENCES: Available upon request
+
+Contact this candidate

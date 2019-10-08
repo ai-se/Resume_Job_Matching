@@ -1,0 +1,43 @@
+
+POSITION: Senior Systems Engineer
+At mPower Software Services, our goal is to be the most respected IT solutions provider and technology services Company. We consistently deliver exceptional IT services with superior results to each of our clients. We accomplish this by retaining highly skilled employees, then motivating them to ever greater levels of technical excellence, integrity, achievement, passion, performance and professionalism.
+Since our founding in 1994, exceeding our customers expectations has been fundamental to every service we deliver. This is evident in our superior reputation and client references which span from Fortune 500 leaders to the U.S. Government. mPower delivers the most effective IT solutions available through a mature but dynamic model that recognizes and responds to changes in technology, markets, and each client s business objectives. Learn more about mPower s IT services and see the difference at mpowerss.com
+Description Summary:
+We are currently seeking a Senior Systems Engineer in Egg Harbor Township, NJ to join our team. In this role you will work with our prime client on long-term FAA project efforts focusing on engineering services and the development of new functional enhancements.
+This role requires that the candidate be clearable for a position of public trust and standard background investigation check.
+Task and responsibilities in this role include, but are not limited to the following:
+Support multiple FAA projects
+Automate RHEL deployments in software development and operational environments
+Perform custom application and OS migrations/upgrades
+Engineer Server deployments and administration
+Assist in the migration and administration of servers
+Provide Development and Maintenance administration of development and test RHEL environments
+Provide Level 2 support of operations
+Assist in application packaging and deployment
+Support Test activities and provide Rational ClearCase support as needed
+Configure and maintain networking services, and protocols
+Provide support to development staff
+Develop, and configure HP OpenView Operations/Network Node Manager for Linux and Unix workstations and servers
+Assist in the Installation and configuration of Oracle products
+Provide hardware troubleshooting and maintenance (HP, Dell, Network Appliances, Cisco)
+Qualifications:
+Bachelor's Degree in Computer Science, Information Technology, or related field and least 10 years work experience with the design, installation, administration & maintenance of Linux systems (preferably RHEL/OEL v6.x and 7.x); or equivalent combination of education and experience.
+Experience troubleshooting, engineering, and architecting Red Hat based solutions on both short- and long-term timelines
+Experience with Red Hat Satellite Server implementation and customization
+Experience Implementing Red Hat products and modification of related tools
+Experience with software compilation and package creation.
+Ability to produce technical documentation
+Demonstrate strength in solving complex problems
+Analytical and problem-solving skills
+
+Flexible schedule
+Interpersonal skills to interact with team members and customers
+Organization and time management skills
+Ability to travel when needed
+- provided by Dice
+
+Full Time
+
+
+Go to apply 
+

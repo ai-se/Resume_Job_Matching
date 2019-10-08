@@ -1,0 +1,36 @@
+
+Yanlin Liu
+adafp4@r.postjobfree.com Cupertino, CA 650-***-****
+EDUCATION
+Northeastern University, San Jose, CA 2019.09 - Present Master of Science in Information Systems
+Indiana University, Bloomington, IN 2014.08 - 2018.05 Bachelor of Science in Computer Science, GPA: 3.3/4.0 SKILLS
+Languages: Java, C/C++, Python, JavaScript/ES6, SQL, HTML5/CSS3, JSON, Scheme, MySQL, GO Framework: Flask, Spring MVC/Boot, Spark, RESTful, React, Redux, Django, MyBatis, Node.js Databases/Tools: MySQL, Sequel Pro, Git, Gradle, Maven, Eclipse, MongoDB, MariaDB Knowledge: Data Structure, Algorithms, OOP/OOD, MVC WORK EXPERIENCE
+Software Engineer Intern June 2018- Oct 2018
+Global Drug Commercialization Center Chengdu, CHINA
+- Designed a TurboTax-like tax web service for tax report.
+- Developed the front-end user interface with React.js and JavaScript.
+- Used Flask, Python to develop back-end; Developed RESTful api on MongoDB.
+- Used Git as source code for version control.
+Software Engineer Intern June 2017- Aug 2017
+Siyi Technology Chengdu, CHINA
+- Designed the GO based web service for raffle service.
+- Developed back-end with Iris and Xnorm framework for user authentication.
+- Implemented Thrift framework for raffle systems to be used flexible.
+- Used Redis as a cache to improve systems proficiency. PROJECTS
+Pet Hotel: React based web app
+- Designed and developed a web app for user to register, book, check status in ScaffoldHub.
+- Used React.js and JavaScript for the front-end user interaction; Built Redux for states management.
+- Developed the back-end with MongoDB; Implemented scalable APIs with GraphQL to fetch and mutate pet hotel records.
+- Used GitHub for source code version control.
+Android/IOS app for chanting on SpringBoot/Netty + MUI
+- Designed a mobile app for user to chat, add friend, keep alive, and save/post image.
+- Developed the front-end with MUI, H5plus to build client side of the service.
+- Developed the back-end with Netty to build WebSocket server; Used Maven to manage dependencies.
+- Implemented FastDFS and Nginx to provide high performance file for saving image, unique QR code.
+- Merge the features into the big SpringBoot project. Online Shopping: Angular based web app
+- Designed web app for user to shop with visualization, search, shopping cart status, payments.
+- Implemented front-end with Angular, Webpack for Ajax based dynamic web pages.
+- Developed the back-end with Java and MySQL as databases; Hosted web app on firebase. Coursework
+- Data structures; Algorithm design and analysis; Object-oriented programming; Data analysis and mining; Application engineering and development; Systems programing with C and Unix.
+
+Contact this candidate

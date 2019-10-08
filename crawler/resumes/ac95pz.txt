@@ -1,0 +1,73 @@
+
+Stephen J. Nolin
+** ****** **** ****, ******, NH 03307
+Cell/Voice Mail: 603-***-****
+E-mail: ac95pz@r.postjobfree.com
+linkedin.com/in/stephen-nolin
+
+SUMMARY OF QUALIFICATIONS:
+Twenty-five years’ experience supporting manufacturing environments in various technical capacities. Demonstrated history of expanding job responsibilities beyond basic maintenance and repair activities to developing knowledge of the entire control system. Extensive development, implementation, documentation, and release to production of machine and process enhancements that increase throughput quantity, output quality, and user satisfaction. These projects were completed with a high degree of electrical understanding, a knowledge of component integration, and the ability to learn multiple programming languages.
+
+WORK EXPERIENCE:
+Jan 19 – May 19: Maintenance Technician, Stonyfield Farm – Londonderry, NH
+Preventive and mechanical maintenance of yogurt production equipment
+
+Jan 02 – Jun18: Engineering Technician, Allegro Microsystems LLC – Manchester, NH
+Multidisciplinary technician responsible for all aspects of production equipment related to the high-volume manufacturing of semiconductor sensor components.
+PCB troubleshooting, down to component level of semiconductor test systems
+Provided services to multiple departments including Production, Product Engineering, Process Engineering, Systems Engineering, Equipment Engineering and Facilities.
+Supported multiple product lines to maintain day to day production requirements as an electro-mechanical technician.
+Developed programs and processes related to the generation and verification of calibration standards used across multiple production lines.
+Enhanced the operation of multiple equipment lines through added inspection capabilities; increased throughput; improved program functioning; and increased data collection and transfer functions as an engineering technician.
+Added multiple operational enhancements to semiconductor test systems, including the ability to configure and start up a production run automatically from the corporate MES system to eliminate human error during lot start-up. Result was elimination of 4-6 customer returns per year.
+Transfer of lot status data during runtime to a central server to provide management a live data dashboard to view lot status, yield, and system utilization.
+Created a transfer mechanism to download a database from a central server to Eagle Test Systems testers and permit test files to compare current test data with results from a previous run. Result was a 20% reduction in test time.
+
+Sept 00 – Jan 02: Engineering Technician, VuTek – Meredith, NH
+Responsible for developing, wiring, documenting, and transitioning to production all electrical and control systems related to the manufacture of wide format ink jet printers.
+
+Sept 99 – Sept 00: Electromechanical Millwright, Freudenberg-NOK – Northfield, NH
+Oversaw the maintenance and improvement of multiple axle seal product lines.
+Performed runtime adjustments and repairs to support production.
+Implemented many electrical and control enhancements to increase throughput, quality, and elimination of manual operations.
+
+June 99 – June 05: Owner, Nolin Technical Services – Loudon, NH
+Contract maintenance and assembly supporting the manufacture of tantalum capacitors and control systems for saw mills.
+Dec 98 – June 99: Owner/Operator of Nolin Trucking – Loudon, NH
+Trucking and site work related to the residential housing market.
+
+Jan 95 – Dec 98: Engineering Technician, Vishay Sprague – Concord, NH
+Repaired, optimized, and enhanced multiple production lines related to the manufacture, finishing, testing, and packaging of Tantalum capacitors.
+
+Aug 93 – Dec 94: Electro/Mechanical Technician, Vishay Sprague – Concord, NH
+Supported various handling, testing, and packaging equipment lines in support of the manufacture of tantalum capacitors.
+
+May 92 – July 93: Sr. Tantalum Capacitor Assembly Operator, Vishay Sprague – Concord, NH
+Production operator responsible for various operations related to the manufacture of high reliability surface mount tantalum capacitors.
+
+June 87 – June 91: Continuous service in the United States Navy
+Cryptologic Technician, responsible for receiving and routing of sensitive communications in support of operations for the Commander of Naval Air Forces, Pacific Fleet.
+Possessed Top Secret clearance to perform these duties.
+
+SKILLS and TOOLS:
+Microsoft Office Programming Languages
+MS Word VB.Net
+MS Excel C#.Net
+MS Access C++
+MS PowerPoint SQL Server
+MS Visio Ladder Logic (various platforms)
+
+Industrial Controllers
+Allen Bradley (5/500/MicroLogix Series)/Koyo/Siemens (Step 7)/Mitsubishi PLCs
+GE Fanuc/Adept Robot Controllers
+Various DC/Servo/Stepper motor controllers
+Cognex Vision Inspection Systems
+Raspberry Pi
+Teradyne/Eagle Test Systems semiconductor test platforms
+
+SCADA system support
+Inductive Automation Ignition
+Various database platforms
+Ladder Logic, C#, C++, VB data collection and transfer programming
+
+Contact this candidate

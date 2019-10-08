@@ -1,0 +1,110 @@
+
+RUPESH GAWDE
+Address : ON, Canada Contact: 647-***-**** Email:adahwv@r.postjobfree.com.
+
+Carrier Objective:
+Seeking the position of an Information Security Consultant to contribute my skills and abilities for the growth and benefit of the organization.
+
+Professional Strength
+Over 7 years of experiences in Information system and Security in IT, Banking and Utility firm.
+Knowledge of Network Security design and architecture, Cyber Security defense, Identity Access Management. Good command over verbal and written communication.
+Solution-oriented with good interpersonal skill. Ability to work under stress environment and perform the task with minimal supervision. Effective time management and Interpersonal skill.
+
+Technical Skill and Competency:
+OSI Layer and TCP/IP suite, SMTP, TLS, DNS, HTTP, Firewall configurations, rules, ACLs.
+Installation and Monitoring – Switches, Routers, Firewall, VPN, Hardening, Encryption, DLP, FIM, DOS devices, IPS and IDS, Antispam email gateway, Antivirus, Mcafee ePO - Antivirus, IBM Qradar SIEM. NAS and SAN. Vulnerability Assessment and Patching, SIEM Log Management, CISCO ISE, CASB, WAF – Imperva, MDM, Threat Risk Assessment (TRA).
+Servers and Virtualization. Operating System: Windows, Linux / UNIX, and apple.
+Monitoring - OpManager, Identity Access Management (IAM), Authentication, TLS, PKI Server, Privacy Impact Assessment (PIA), SSL, VPN, PKI, SAML, Cyber Forensic, business continuity/disaster recovery (DR) and Cryptography.
+Microsoft 365. Work on ticketing tool and resolution JIRA. ISO 27001, PCI DSS, SSAE-16, FFIEC, MITRE ATT&CK Framework, statement of sensitivity and ITIL, BCP/DR execution.
+
+Education:
+Jan 2017 – Aug 2018 - Master of Engineering in Information System and Security.
+- Concordia University, Montreal, Canada.
+2015-2016 - Post-Graduation Diploma in Digital and Cyber forensic and related Law.
+- University of Mumbai, Mumbai, INDIA.
+2008-2012 - Bachelor of Engineering in Electronics. University of Mumbai, Mumbai, INDIA.
+Technical Credentials and Certifications:
+Operational Security (OPSEC) for Control Systems - U.S – CERT
+Cyber Security for Industrial Control Systems - U.S – CERT
+(Under control - U.S. Department of Homeland Security)
+Top Rank in Post-Graduation Diploma in Digital and Cyber forensic and related Law in University.
+CCNA – Cisco Certified Network Associate (Routing and Switching), (Security).
+
+12/2018 – till date London Hydro Inc, London, Ontario, Canada
+CYBER SECURITY SPECIALIST.
+Responsibilities:
+Recommending, designing, engineering, monitoring and presenting cybersecurity architecture solutions, to create best practices to industry standards, Threats management. RSA Archer. Developing and maintaining a portfolio of IT Cyber Security policies, standards and procedures to ensure compliance with industry practices (e.g. OEB, Privacy by Design, NIST) to protect the integrity, confidentiality, and availability of corporate and customer data
+Planning, recommending the acquisition of, and executing periodic technical scans and vulnerability/risk assessments, including penetration and social engineering, of hosted, purchased and custom systems, ISO 27001, PCI DSS, Inspect issue trigger in WAF – Web Application Firewall – Imperva, MITRE ATT&CK Framework, and Secure Code Review.
+Ensuring that cybersecurity controls are in place and actively monitored, SIEM – IBM qradar, network monitoring, Advance Real-Time Threat detection, AWS, VM-ware.
+Monitoring tools, reviewing events and configurations, conducting audits and incident investigations pertaining to cybersecurity, and ensuring that corrective actions are identified and implemented,, SIEM Log Management, UEBA, Patch management – Windows, Linux, security orchestration and automation tools (SOAR), Metasploit, business continuity / disaster recovery ('DR').
+Delivering reports and presentations on cybersecurity, desktop and server support.
+Assisting with detailed investigations of Information Security breaches and/or inappropriate use of IT resources, and participating in court or arbitration hearings, as required.
+
+Technical Environment:
+CISCO, Mcafee ePO, Splunk SIEM –IBM qradar, Palo Alto Firewall, IPS, Tenable Nessus, AWS and Google Cloud Platform, Oracle Database Security, Personal Identifiable Information –Security, Centrify SSO, Dell Kace Patch management, SCADA, IAM, DDOS - Arbor Prevail.
+
+07/2014 – 08/2016 SOFTCELL TECHNOLOGY LTD, MUMBAI, INDIA
+INFORMATION SECURITY EXECUTIVE.
+Achievements:
+Designing network security architecture with multiple security devices.
+Develop information security framework for the organization.
+Develop information and network security strategies with the help of multiple vendors’ devices. Created a process to identify new devices and alert the information security group within only 15 minutes of the device being connected to the network.
+Develop metrics to analyze additional areas of our security program such as policy enforcement, network monitoring and alerting. Develop an incident response plan — or flesh out our existing one — so we have a reliable set of steps we can take when network events occur. Monitor security threats by SIEM solutions- Splunk, UEBA, MITRE ATT&CK Framework, Threat Intelligence Feeds - AlienVault OTX, Cyber-defense.
+Spearheaded creation of four new information-security departments: Risk Assessment, Vulnerability, Penetration Testing, and Security Engineering services.
+Results:
+Monitor daily average traffic and utilization of firewalls, routers, switches for threshold configured on the monitoring device. CPU usage, memory usage and active session count. Managed and performed security auditing and hardening processes on servers.
+Analyzing IBM Qradar SIEM issues and evaluates it with severity. WAF – Web Application Firewall – Imperva, Loadbancer F5, business continuity/disaster recovery ('DR'). Working on tickets to mitigate ongoing and upcoming threats for the organization by strategies in ISMS policy. Security monitoring and control, risk assessment, plan of action, mitigation of attacks, incident review, and management. Perform Microsoft patching in every Tuesday.
+Designing network security architecture with multiple security devices to bank IT infrastructure, Network monitoring tools, Event log analyzer, firewalls, NgFW, proxy, IPS, Load balancer, Web application firewall, Antivirus product, messaging gateway, and networking devices routers and switches. Perform static and dynamic vulnerability scanning and working with Nessus.
+Analyzing multiple DDOS threats by using Arbor Pravail - server and informing concern teams for threats category.
+Technical Environment:
+CISCO, Symantec SEPM, IBM Qradar SIEM, OPManagar, Macafee, Fortinet, Juniper, Palo Alto, HP Tipping Point IPS, CISCO IPS, Arbor Prevail DDOS protection and Cloud flare DDOS protection, F5 load balancer.
+LDAP server, CISCO ICE, Imperva WAF, Dot defender WAF, Citrix load balancer, Macafee proxy device, F5 load balancer, Radware Alteon load balancer, Macafee IPS, CISCO Ironport, Symantec security products, Qradar, Macafee DLP, Symantec DLP, IAM, Audit, Linux Server.
+Analyzing multiple threats by using SENTINEL (IAM) server and informing concern teams to threats category. Cisco Switches, Routers. NAS and SANs.
+
+02/2014 – 06/2014 LIVE MIND SOLUTION PVT LTD, MUMBAI, INDIA
+Senior Network Security Engineer.
+Achievements:
+Installation of a security infrastructure. Develop an incident response plan, Leads the design, implementation, operation, and maintenance of the Information Security Management System based on the ISO/IEC 27000 series standards, including certification against ISO/IEC 27001 where applicable.
+Information security event management and incident handling.
+Results:
+Troubleshoot issues with the network to make it run more efficiently and to avoid future problems. Issue related to WAF – Web Application Firewalls, Load balancer F5. Malware analysis. Perform beneficial network updates whenever available. Encryption technology.
+Performed research on new network features and functions that could be of use to the company. Work with other Cisco Network Engineers to create a network and intranet capable of handling all company needs. Firewall configurations, rules, ACLs, Linux - RHEL.
+Troubleshoot Qradar SIEM incidents and perform regulatory action, business continuity/disaster recovery ('DR'), vulnerability assessment and patch management.
+Drafted monthly reports of network efficiency to determine if changes were needed.
+Technical Environment:
+CISCO, Juniper, Fortinet. LAN environment with RJ-45 cable. Routers, Switches, Access Point, Printers. Installation and monitoring of Servers and Windows clients.
+
+07/2013 – 02/2014 IQN DATA SOLUTION PVT LTD, MUMBAI, INDIA
+Network Security Engineer.
+Achievements:
+Designing information security architecture with multiple devices.
+Implementation, operation and maintenance of the Information Network Security Management System where applicable. Firewall configurations, rules, ACLs.
+
+Results:
+Analysis daily average traffic and utilization of routers, switches for threshold configured on a monitoring device. CPU usage, memory usage and active session count.
+Working on Network monitoring tools, Event log analyzer, Virtualization.
+Configure the traffic shaping and optimize the utilization of bandwidth, issue related to Web application firewalls and load balancer.
+Server and Network maintenance. Monitoring IBM Qradar SIEM alerts and coordinates with resolver group. Network maintenance, fixing vulnerabilities, to provide Technical support to clients. Help to establish guidelines and standards for change procedure. Perform vulnerability assessment in terms of CVSS score.
+Day to day admin and monitoring of network use, planning future improvements, suggesting IT solutions to business problems. Making sure all IT meets industry standards.
+
+Technical Environment:
+CISCO, Routers, Switches, Access Point, Printers, Firewalls, IBM Qradar SIEM, Symantec Endpoint Protection, WAF – Web Application Firewall – Imperva, Loadbancer F5.
+
+03/2012 – 06/2013 Horizon Computers, MUMBAI, INDIA
+Network Security Engineer.
+Achievements:
+IT Security infrastructure for bank and financial institutions.
+Results:
+Monitor daily average traffic and utilization of routers switches for threshold configured on a monitoring device. CPU usage, memory usage and active session count.
+Server and Network maintenance. Installing new Software, Hardware (servers, printers, computer workstations. Monitoring network security alerts. Vulnerability assessment.
+Network maintenance, fixing network faults, to provide Technical support to clients.Perform vulnerability assessment in terms of CVSS score.
+Working on alerts in IBM Qradar SIEM, and threats intelligence WAF – Web Application Firewall, Loadbancer F5, DDOS protection – Arbor Pravail.
+Setup the network and system support for all the applications.
+
+Technical Environment:
+CISCO, Routers, Switches, Access Point, WI-FI Printers. SIEM, DLP. Installation and monitoring of Servers and Windows clients. Cisco Switches, Routers. NAS and SANs, WAF – Web Application Firewall – Imperva, Loadbancer F5.
+
+Extra-Curricular Activities:
+Volunteer in Shri Siddhivinayak Temple, Prabhadevi, Mumbai, India – last 14 years.
+
+Contact this candidate

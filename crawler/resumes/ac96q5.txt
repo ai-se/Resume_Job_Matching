@@ -1,0 +1,113 @@
+
+.
+SANJAY KUMAR MALL
+
+SQL Developer MCA * Years
+Mobile: +91-782*******
+E-mail: ac96q5@r.postjobfree.com
+
+CAREER OBJECTIVE:
+
+To obtain a challenging position in IT industry that would best utilize my expertise in Software Development. Seeking quality environment where my knowledge and skills will enhance as a Software Developer Engineer.
+
+PROFESSIONAL SUMMARY:
+●Total 6+ years of extensive IT experience in Development, Support, Implementation of software applications.
+●Having 5 Years of experience in T-SQL, Development & Support of MS SQL Server 2012/2008R2/08/2005 for Production/development.
+●Expertise in Transact-SQL (DDL, DML, DCL) and in Design and Normalization of the database tables.
+●Good Experience in SSRS, Thoughtspot,DevExpress Tools,Splicemachine
+●Experience in implementing business logic using (Joins,CTE,Temp Table,Table Variable, Indexes,Function, pivot,un pivot,Dynamic Query, Views and Stored procedures)
+●Extensive Knowledge of advance query concepts (group by, having clause,Except,Intersect, union, union all so on)
+●Experience with tools like SQL Server management studio and SQL Server 2008/2008R2 Reporting Services (SSRS) and Integration Services (SSIS).
+●Good knowledge of Dynamic Dashboard in Excel
+●Experience in Database Programming using T-SQL in writing Stored Procedures, Triggers and DTS Jobs.
+●Worked at onsite for 1 month in (Bank Muscat) for requirement gathering and developed.
+●I have developed the report for more than 20 Banks like(SBI, ICICI, AXIS, PNB, SIB, LVB, FIS, Bank of Baroda, etc for Indian) and (May Bank, Riyadh Bank, Bank Muscat, SABB, CBD, Bank of America, Home Depot, First Data, NI Bank, KCS, Bank Mashriq etc)
+
+TECHNICAL SKILLS:
+Database : SQL Server, Splice machine, Oracle,HIVE
+Reporting Tool : SSRS, Thought spot, Dev. Express Tools, Excel Report.
+ETL Tool : SSIS.
+Tools : WebEx, Jira, MS Office, Excel, IBM Lotus Notes
+Domain knowledge : Banking Domain, Retail, Pharmaceutical, Financial Services (Broker-Dealer)
+
+Work Experience
+●Incedo Technology Solution(Formally known as Indiabulls Technology) : Mar 2016 to till now
+●ESQ Management Solutions : Apr 2013 to Mar 2016
+●Polaris Software Lab Ltd : Jan 2011 to June 2012
+
+Educational Qualification:
+MCA Computers from UP Technical University, Lucknow in 2010
+B. Sc Math’s from DDU University Gorakhpur in 2007
+
+Resume of Sanjay Kumar Mall, SQL Developer
+Project Details:
+Project: (Medivation Customer Master)
+Role : SQL Developer
+Duration: Mar 2016 –Present
+Database: SQL Server 2012
+Client : Medivation
+Project Description:
+Medivation- blends a unique business model with an expert team to bring promising medical technologies from the lab bench to the patient bedside. Its new drug (enzalutamide) clinical development program addresses a large market with significant unmet medical needs.
+Incedo has built Mediation’s Customer Master which provides a 360 degree view of Customer/Prescriber. It is a central repository of verified and standardized information by providing the best view (i.e. consolidated “best of breed” view) of the customer information depending on the business requirements. The main business processes and functions of the customer master is accepting internal and external customer information, applying company rules, storing and managing the data (data stewardship), and ensuring a unique identifier is applied and maintained to allow a comprehensive view of the customer and its related information.
+
+Role and Responsibilities:
+●Responsible for development of ETL Process for loading data from raw files to MDM.
+●Responsible for data loading and data sync up between Veeva and Customer master.
+●Developing ETL, SSIS, Packages, Views, Schema Design, Database Maintenance and Operational Support.
+●Creating the new tables, Indexes required for the new features and
+●Altering the tables for change request features and views.
+●Writing Complex Queries, Joins, Pivot, Stored Procedures, Functions and Views as per the
+Business requirements.
+●Maintain referential integrity, domain integrity and column integrity
+●Designing MIS Reports using SSRS
+●Understanding new functional and the business requirements of the Client.
+●Providing Technical Support to Clients, when issues not resolved by our Support Team.
+
+Project Details:
+Project : (ATMTA, SSTOB, IMS)
+Role : SQL Developer
+Duration: April 2013 –Till Date
+Database Used: Server 2012/2008R2
+Client : SBI, ICICI, AXIS, PNB, SIB, LVB, FIS, Bank of Baroda, Bank Mashreq) and (May Bank, Riyadh Bank,
+BOQ, Bank Muscat, SABB, CBD, Bank of America, Home Depot, First Data, NI Bank, KCS etc
+Project Description:
+ESQ is a company that basically deals with the ATM monitoring and management solutions. SST Operation Bridge (SSTOB), Remote Monitoring Management (RMM), Automated Operator (AO), Dispatcher and Helpdesk are the products from ESQ. Dispatcher receives the alert from other ATM monitoring system and dispatches notification and information depending upon the work-flows created in Dispatcher. Dispatch is done through email, IVR call, SMS, FTP, SQL queries and HTTP request. All these dispatch information and activities are recorded in Helpdesk and user can work on the dispatches using helpdesk. Using Dispatcher, user can get details of any ATM and problems related to that ATM. Dispatcher has got three major part i.e. Work-flow designer, Scheduler and Adapter. Work-flow designer is used to create work-flows. Work-flow is combination of rules for dispatching information. Scheduler is service that reads the work-flow and processes it.
+
+Role and Responsibilities:
+●Creating the new tables, Indexes required for the new features and
+●Altering the tables for change request features and views.
+●Writing Complex Queries, Joins, Pivot, Stored Procedures, Triggers, Functions and Views as per the
+●Business requirements.
+●Maintain referential integrity, domain integrity and column integrity
+●Database Maintenance, Backup, Restore.
+●Designing MIS Reports using SSRS, Dev Express, Excel Report
+●Understanding new functional and the business requirements of the Client.
+●Providing Technical Support to Clients, when issues not resolved by our Support Team.
+
+Project : (I-F&B, II-Retail Excel)
+Role : SQL Developer and Tech Support
+Duration: Jan 2011 –Mar 2013
+Technology Used: Front END - ASP.net 4.0 and C# .net and Back End - SQL Server 2008R2
+Project Description:
+I-F&B
+I-F&B is a next generation web based end to end solution for retailers in food industry. The solution is designed for multi chain F&B outlets and caters to all types of F&B operations like DINE-IN, PICKUP, TAKEAWAY, HOME DELIVERIES and end to end back office integration with warehouse and inventory. The solution ensures optimized operations, noimproved customer service cycle and increased visibility by enabling control across multiple points.
+II-Retail Excel:
+Retail Excel Base and Retail Excel POS two major application exist into Retail excel Product
+Retail Excel comes with two Primary Modules Viz. Retail Excel Base for Back office operations and Retail Excel POS for Point of Sale Operations. The other two important modules are Campaign for defining special offers in POS and Retail Viewer for generating reports.
+Retail Excel has been integrated with different Enterprise Applications such as SAP, SAP IS-Retail, Baan, Oracle, Apparel Manufacturing ERP solution
+Role and Responsibilities:
+●Creating the new tables, Indexes required for the new features and
+●Altering the tables for change request features and views.
+●Writing Complex Queries, Joins, Pivot, Stored Procedures, Triggers, Functions and Views.
+●Reporting bugs and Regression on Bug fixes.
+●Designing MIS Reports using SSRS.
+Personal Details:
+Name : Sanjay Kumar Mall
+Father’s Name : Jagadamba Mall
+Gender : Male
+Nationality : Indian
+Language Known : Hindi, English
+Passport Number : N0790180
+Marital Status : Unmarried
+
+Contact this candidate

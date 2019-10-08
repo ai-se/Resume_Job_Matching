@@ -1,0 +1,13 @@
+
+About UsEstablished in 2001 located in Maitland, Florida, Informa has grown to become a premiere Digital Transformation software development organization and DocuSign partner for over 200 clients ranging from small businesses to Fortune 500 companies. We are currently hiring for a Software Engineer to help take Informa to the next level of growth.
+Informa offers so much to their employees:Competitive salaryHealth premiums - Up to 100% paid by Informa depending on the plan selectedWe match 4% on your 401KPaid Time Off Benefits - 3 weeks for your first yearExcellent work/life balanceCasual attire every day - super casual FridaysWell stocked snacks/drinks and lots of eating occasions!
+At Informa you will have the opportunity to work on really cool digital transformation projects and influence the direction of this passionately employee-centric company.We are looking for a flexible self-starter with a positive attitude who has experience developing enterprise level solutions but enjoys working in a small company environment.NOTE: US Citizens and Legal Residents only (no sponsorship)
+Responsibilities· Participate on an Agile team - including design, development, testing, planning, backlog grooming and support· Identify and implement best practices for coding as well as development processes· Research and implement new technologies for existing and future products· Develop a deep understanding of the relevant business areas and various components in the stack· Participate in the architecture, building and scaling of business-critical services· Be introspective, always trying to improve yourself and the team around you· Perform as a trusted contributor requiring little supervision and demonstrating the ability to meet deadlines, exceed goals, and create benchmarks for success.
+Qualifications· Bachelor's degree in related discipline· 4+ years of work experience in a Software Engineering role· Experience designing and delivering enterprise level solutions using industry-recognized best practices· Excellent communication skills and ability to convey technical solutions to team members of all backgrounds.· Demonstrated professionalism interacting with a variety of audiences both internally and externally· Proactive, self-driven and enjoys solving complex problems, not just in the primary area of responsibility but across boundaries· Demonstrated success executing development work within an Agile environment
+Technical Skills.NET / C#ASP.NET Core 2.x/3.xSQL ServerEntity Framework/Entity Framework CoreAzure App ServicesAzure DevOpsWPF / UWP
+
+Permanent
+
+
+Go to apply 
+

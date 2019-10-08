@@ -1,0 +1,335 @@
+
+Objective
+Oracle Certified professional offering years of experience including applications development database Administration, EBS and Oracle Retail (formerly Retek) Implementation, data management and Production support.
+Summary of Skill
+Oracle EBS & Oracle Retail Applications Management and Installation Skills
+Installation Weblogic version 10x and performance & tuning on Weblogic.
+Installation and upgrade of Oracle Retail Application version (13x, 14x & 15) all the Modules.
+Installation and upgrade of Oracle EBS version (11i & R12) all the Modules.
+Installation of Linux, VMware Virtualization and installation of oracle retail as per company requirements.
+Definition of business requirements, workflow analysis, and application development.
+Preparation of project documentation, test plan, test scripts incidence reports, and sign off documents.
+
+Database Management Skills
+Database administration and applications development using relational database technology.
+Data management including collection, enrichment, and procession.
+Oracle Certified Professional (DBA) & (Developer) Hands-on experience of database technology including
+Production environment management providing high availability and appropriate database performance.
+Preparation and maintenance of well-documented system and operational procedures.
+Technical Skill
+
+Languages: SQL, PL/SQL, Pro C*, C++, Java
+
+Databases: Oracle RDBMS, 12c, 11g, RAC/10g, Exadata, 9i, 8i 8, and 7.x, SQL Server 2005
+Tuning Tools: TKPROF, EXPLAIN PLAN, STATPACK, AWR and ADDM
+Tools/Utilities: RMAN, ASM, EXP, IMP and SQL Loader.
+
+Application: Oracle E-Business Suite version 10, 11 and 12
+Suite (G/L, A/P A/R, O/M, P/O INV and Application Administration)
+Oracle ADF (Application Development Framework)
+Oracle Retail (formerly Retek) version 7, 8, 9, 10.11, 12, 13, 14, 15x
+Suite (ORMS, ORPM, OReSA, OReIM, ORA and ORIB)
+Integration: BPEL, EDI, ORIB
+Architecture: Web Logic Server 11gR1, Oracle Application Server 10g, JAVA, J2EE, ADF BC, ADF, OAF
+
+Front End: Oracle Forms 4.5, 5.0, 6i, 9i and 10g Oracle Reports 2.5, 3, 6i and 10g Retek RMS UI
+
+Development Tools: TOAD, SQL Developer, Oracle Workflow, Enterprise Manager, Oracle Designer 6.0,
+SQL Navigator, DBArtisan, EZDBA, SQL *Plus, JDeveloper
+
+Operating Systems: WNDOWS 98/2000/XP/Vista/Windows 10, UNIX(HP/UX, AIX, Solaris, Linux)
+
+Others: Microsoft Package (word, excel, access, power point and project)
+Education
+Oracle Retail (RETEK) (ORMS, ORPM, OReSA, OReIM and ORIB)
+Oracle E-Business Suite G/L, A/P A/R, O/M, P/O INV and Administration (Oracle University)
+Oracle Certification (DBA)
+Oracle Database Administration (DBA) (Oracle University)
+Oracle Database and Application Developer (Oracle University)
+Microcomputer System Specialist (Toronto, Canada)
+
+Bachelor of Commerce Humber University (Toronto, Canada)
+Work Experience
+Oracle Technical Consultant
+
+11/18 – Curr
+
+&
+
+Bank of America Charlotte, North Carolina
+American multinational investment bank and financial services company based in Charlotte, North Carolina with central hubs in New York City, London, Hong Kong, and Toronto. Bank of America was formed through NationsBank's acquisition of BankAmerica in 1998. It is the second largest banking institution in the United States, after JP Morgan Chase. As a part of the Big Four, it services approximately 10.73% of all American bank deposits, in direct competition with Citigroup, Wells Fargo, and JPMorgan Chase. Its primary financial services revolve around commercial banking, wealth management, and investment banking.
+
+Responsibilities:
+
+Designed and developed multiple store procedures, functions and packages and using JSON functionally for JAVA base application for anti-money laundry databases and using agile methodologies.
+Tuning long running select in Bank Application, using Explain plan and SQL Trace to optimize the cost and for higher efficiency.
+Proficient at working as a team player with an aim of contributing towards the team's success. Involved in unit testing, systems integration testing and documented the same.
+Customized interfaces between three different databases (ECCCO, Panther and LEO) to flow data on daily bases for reporting purposes.
+Designed and developed regulatory and statistical reports for regulatory organizations and high level decision makers and using agile methodologies.
+Developing and customizing database stored procedures/functions, triggers, packages to enhance and improve functionality using PL/SQL.
+Provided technical assistance for development and maintenance of AutoSys and related scheduling solutions.
+Applied agile method to better adapt to the business requirements changes; quickly designed and coded/implemented the following applications with scrum teams.
+Oracle DBA
+
+03/18 – 11/18
+
+Benefitfocus Inc. Charleston, South Carolina
+Benefitfocus provides a leading cloud-based benefits management platform that simplifies how organizations and individuals shop for, enroll in, manage and exchange benefits. The Company operates through the following segments: Employer and Carrier. The Employer segment involves in providing products and services for employers, which include HR InTouch Marketplace, Benefit Informatics, HR Support Center, implementation services, media services, app development platform, and software-enabled services. The Carrier segment offers products and services for insurance carriers, which include eEnrollment, eBilling, eExchange, eSales, eDirect, benefit informatics, implementation services, media and animation services, app development platform, and software-enabled services.
+
+By delivering technology that integrates all benefits in one place, Benefitfocus provides a better way to engage consumers, educate employees and simplify benefit enrollment and management.
+Responsibilities:
+
+Working on multiple projects for Implementation and support during implementation time for new benefitfocus customers.
+Improving database performance by identifying bottlenecks, tuning SGA, rebuilding indexes, using hints in queries, creating materialized views, using cluster tables, and using partition tables.
+Troubleshooting on Exadata smartscan/offloading issues to fix the performance problem in table.
+Create user ids, roles as per the requirement, Implement security management, taken backup of the database using export utility, monitoring table spaces, alert logs, processes, create databases as per the requirements.
+Observed the tables to analyse and identified the tables for weekly, every 15 days, monthly to analyse and automated the activity accordingly.
+Observed the tables and quires used by the end user and identified the query and create better explain plan to tune SQL properly by smart scripts.
+Developing and customizing database stored procedures/functions, triggers, packages to enhance and improve functionality using PL/SQL.
+Installation, configuration and maintenance of Oracle 10g /11g RAC database with ASM.
+Worked with developers to diagnose database related application problems, provided development support to maintain application schema and distribution of data.
+Designed and developed Packages, Procedures, Functions and Triggers to handle errors and exceptions at database level.
+Developed Unix / Windows scripts for Primary / Standby switchover and failover, RMAN backup / recovery, Data pump export / import, purging archive log files, old backup files etc.
+Oracle Technical Consultant
+
+04/17 – 03/18
+
+&
+
+Duke Energy Charlotte, North Carolina
+Duke Energy is one of the largest electric power holding companies in the United States, supplying and delivering electricity to approximately 7.4 million U.S. customers. Duke Energy have approximately 52,700 megawatts of electric generating capacity in the Carolinas, the Midwest and Florida – and natural gas distribution services serving more than 1.5 million customers in Ohio, Kentucky, Tennessee and the Carolinas. Duke Energy commercial business owns and operates diverse power generation assets in North America, including a portfolio of renewable energy assets.
+Responsibilities:
+
+Working on the project for Implementation and support during implementation time for trading and fuel application Comtrac.
+Developing and customizing database stored procedures/functions, triggers, packages to enhance and improve functionality using PL/SQL. Involved in coding, unit testing, and end-to-end testing of the developed programs in Comtrac application and CXL database.
+Crating number of staging tables to facilitate data load and data transforming and automate the purge process in LOV project.
+Install and configure relevant network components to ensure database access as well as database consistency and integrity, Troubleshoot and resolve various Oracle connectivity problems, provide network troubleshooting and administrative support for the development staff.
+Implementation and support of 10g and 11g migration and upgrades from Oracle 9i to 10g databases, including RAC(Real Application Clusters) databases on Linux.
+Monitored managed 2 node RAC environments, databases using OEM grid control, and RMAN databases backup and recovery full and partial databases.
+Provide daily technical support on QA and Pre-Prod environments for failing jobs in batch processing and providing reasonable technical solution after the research.
+Customizing and developing Powershell scripts to automate various tasks for renaming files, moving and coping files after processing and also move file in different environment for example QA to Pre-Prod etc.
+Modifying number of shell scripts in Linux and AIX for processing nightly batch jobs.
+Identifying and removing Fragmentation, row migration/chaining of database objects. Analyzing the Tables and Indexes on performance base regularly. Monitoring Tablespaces and Data files utilization.
+Refreshing the data in DEV environment from Pre-Prod for development and testing purposes, according the business requirements.
+Oracle capacity planning and data computations and sizing for Comtrac database and provide the information to DBA for creating tablespace accordingly.
+Creating views for database objects and schema compare for CXL database and Risk database.
+Provide technical support 24x7 in rotation team.
+Oracle Technical Consultant
+
+02/16 – 03/17
+
+&
+
+Wells Fargo Charlotte, North Carolina
+In 1852, Henry Wells and William Fargo founded Wells, Fargo & Co. to serve the West. The new company offered banking (buying gold and selling paper bank drafts as good as gold) and express (rapid delivery of the gold and anything else valuable). The history of Wells Fargo is about more than our past. It is the story of service to customers and communities across the world. Our history has roots that continue today and set the foundation for tomorrow.
+
+Responsibilities:
+
+Working on the project for implementation from 11i to R12 on Exadata machine, written customs packages an API for Converting value sets, profile options into R12 Production.
+Troubleshooting on Exadata smartscan/offloading issues to fix the performance problem in table.
+Performance tuning of databases, finding performance bottlenecks using AWR, ADDM, Explain Plan and SQLTRACE file report.
+Formulated SQL queries, functions and processes as per customization requirement for APEX.
+Identify TOP SQL that are consuming heavy resources and provide support to the deployment team in identifying SQL queries that are consuming high resources and interact with development team to see these queries can be fine-tuned further.
+Responsible for setting and managing user accounts, granting required privileges to users, and also involved in database sizing, capacity planning.
+Support includes routine DBA tasks such as backup and recovery of full and partial databases using RMAN.
+Analyze the current Oracle Application setups and business process involved in setting up multi org.
+Monitoring the table space growth and resizing the table space on 10g RAC environment.
+Worked on multiple projects, Consolidation, Open Close period, Pre-validation Data and Business Process mappings for Integration project
+Working on post upgrade support and interacting with Business users on Issue resolutions.
+Implemented various materialized views, create number of partitions for large tables.
+Designed and Developed Staging table, written a PL/SQL, API for converting the required Users from Legacy System to Production.
+Responsible for validating data in temp table and importing data to GL interface table and running GL Balances Import.
+Providing support Oracle EBS R12 on Exadata machine.
+Oracle APPS DBA
+
+11/14 – 02/16
+
+100% Travelling
+
+Academy Sports + Outdoors. Houston, Texas
+Academy Sports + Outdoors is a sports goods discount store chain. For 74 years it was a privately held company owned by the Gochman family, until its May 2011 sale of majority ownership to the investment firm Kohlberg Kravis and Roberts LP.[3] Academy operates nearly 190 stores throughout US.
+
+Responsibilities:
+
+Completed installation for Version 15 Oracle Retail in DEV environment for evaluation for company to update the newer version of Oracle Retail.
+Configured and installed weblogic 10.3.6 including deployments and monitoring.
+Support and configuration of Oracle Retail products including Orms, Orpm, Orim, OrAlloc and Orsim.
+Providing support on Oracle Real Application Clusters (RAC) on Oracle Linux for an OLTP application with Transaction Application Failover and high transaction volume.
+SOX rules implementation and changing the password for all Retail Database & Application, Orms, Orpm, Orim, OrAlloc, Orsim and Orib.
+Install Oracle application patches in Orpm, Orim, OrAlloc and Orsim.
+Installation and configuration of Orib patches, support Orib issues, and configuration. Support Production issues with Orpm Batches. Increase performance on critical Orpm batches such as location move etc.
+Performance and tuning for number of slow running SQL queries for faster response time, Modified Store Procedure / Function and Packages for Orms and Oreim.
+Worked with Oracle Support to raise SR's, OWC to resolve issues. Created standards and documentation for installation, configuration and applying patches. Worked with external vendors to use Orib / Orms web-services.
+Performed extracting and loading data using SQL*PLUS and SQL*LOADER from a data warehouse into text files under a Unix Platform which included Sun OS, AIX and Solaris.
+Worked on Orpm performance issues and Allocation performance issues.
+Worked on Orib by using RDMT, resolve Orib issues and re-process Orib errors.
+Managing 21 Web Logic servers and refresh activities on quarterly bases.
+Involved in installation and configuration of SQL server 2000 on Dell Servers. Applied patches and service packs to keep the database at current patch level.
+Experience with supporting Month End Close and Year-End Close activities Ability and willingness to quickly understand the custom application environments and business processes and integration around the custom applications with Oracle Financials to take the ownership.
+Installed and configured Oracle EBS 12.4 in dev & TST environment.
+Designed and planned the Architecture for Dev, UAT and Production servers for both Databases and Application servers. Utilized SSL for all Oracle Retail Applications (MOM, Orib, Orwms, Orsim). Configured and customized startup and stop scripts for web logic and all managed servers utilizing python for both SSL and non-SSL environments
+Oracle Technical Consultant
+
+8/14 – 11/14
+
+&
+
+Bank of America Charlotte, North Carolina
+American multinational investment bank and financial services company based in Charlotte, North Carolina with central hubs in New York City, London, Hong Kong, and Toronto. Bank of America was formed through NationsBank's acquisition of BankAmerica in 1998. It is the second largest banking institution in the United States, after JP Morgan Chase. As a part of the Big Four, it services approximately 10.73% of all American bank deposits, in direct competition with Citigroup, Wells Fargo, and JPMorgan Chase. Its primary financial services revolve around commercial banking, wealth management, and investment banking.
+
+Responsibilities:
+
+Manage and support 5+ Oracle databases.
+Improved response time to queries up to 40 percent by reviewing and improving indexes, partitioning tables, and fixing coding issues for the Integrated Management System.
+Used SQL Loader to load large size of csv files in staging tables and used stored procedure to update data in base tables for application.
+Created analysis and design documents as part of major project MS-Access tables to Oracle.
+Analyzed data requirements and developed data logical models.
+Developed scripts for various reports base on end user requirements.
+Developed and modified database procedures/functions, packages to enhance and improve functionality using PL/SQL. Involved in coding, unit testing, and end-to-end testing of the developed modules and developed Unix Shell Scripts to automate backend jobs.
+Researched and developed Oracle configuration and performance tuning recommendations.
+
+Oracle Sr. Developer
+
+09/11 – 7/14
+
+Stein Mart Inc. Jacksonville, Florida
+A nationwide department store based in Jacksonville, Florida. The company owns a chain of approximately 295 stores. Stein Mart has locations primarily in the Southeast and Texas. Stein Mart's stores carry recent trends in clothing for both men and women. Additionally, home décor, accessories, and shoes are all available at discounted prices.
+
+Responsibilities:
+
+Support & customized Stein Mart third party vendor system as DSW Shoes in Orms and Orsim, and taking complete ownership responsibility from OLR to stabilize for Stein Mart.
+Designed and implemented new reason code process in Stein Mart third party vendor system as DSW Shoes in Orms and Orsim.
+Designed and Implemented ReTL Reports for data comparison between iSeries systems and Orms after go live.
+Provides expert knowledge on Oracle Database Administration, Oracle Application Server and Oracle Retail Applications during the Implementation Life Cycle and Post Implementation support during implementation time.
+After successful Implementation of Oracle Retail, follow transition process of (Orms) Oracle Retail Module and taking responsibilities from OLR to Stein Mart ownership.
+Customized and implemented Markdown, Promotion and Clearance process driven by UDA (Universal Product Code) to POS.
+Number of Forms Customization in Orms according to Stein Mart requirements.
+Designed and Implemented Auto Discount with two new forms, three reports, this is new customization other than Orpm in Oracle retail.
+Performance and tuning for number of slow running SQL queries for faster response time, Modified Stored Procedure / Function and Packages for Orms, Orsim, Orim and Orpm.
+Daily support for Production nightly UC4 batch and faster response for any program failure, built a Log system for common UC4 nightly batch failure and provide quick possible solution.
+Successfully handle ORetail purges (Orim invoice batch purge, Orms orders purge, Item purge, stock count purge, Tran data purge Orpm Future retail purge, Clearance data purge etc.
+Oracle Sr. Developer
+
+01/07 – 08/11
+
+&
+
+Comag Marketing Group (Hearst Corp) Charlotte, North Carolina
+Comag Marketing Group LLC, a jointly owned company of Condé Nast Publications, Inc. and The Hearst Corporation, provides publishers of many of the world’s leading magazine brands with comprehensive sales, marketing and promotional services through a network of domestic and overseas sales venues, including mass market, direct-to-retail and specialty market channels.
+
+Responsibilities:
+Providing Technical Support on EBS as a Sr. Consultant / Employee for Hearst (CMG). Charlotte NC.
+Performance and tuning for number of slow running SQL queries for faster response time, Modified various Store Procedure / Function and Packages for Different APPS Databases.
+Modifying various oracle application forms (EBS) and customized form according to user requirements and Follow Company’s standard customization procedure.
+Modifying various Companies’ Standard existing documentation according to the modification request by users and keeping as a current version in PVCS version Manager. After Unit test, System test and QA test ensure all the documentation attached with problem SCRs (System Change Request) in PVCS Tracker.
+Support our Team for SOX compliance Documents for Audit purpose and enforce our Company Database Security Policies.
+User Support is primary goal and dealing with day to day problems in oracle Application (EBS) as a front end and oracle Database as a back end.
+Implementation role in setup form server for Contract Database.
+Oracle Technical Consultant
+/ DBA
+
+11/05 –01/07
+
+&
+
+TIAA-CREF Charlotte, North Carolina
+TIAA_CREF establish in 1918 for Teachers Insurance and Annuity Association (TIAA), a fully-funded system of pensions for teacher & professors. Today the TIAA-CREF group of companies offers a wide range of products to the general public, while continuing to serve its core constituents in the academic, medical, cultural and research fields. In order to better serve clients, TIAA-CREF currently operates offices in nearly 60 U.S. cities.
+
+On assignment with TIAA-CREF (Teacher retirement plans, IRAs, Mutual Funds and Life Insurance)
+
+Responsibilities:
+Providing Technical Support on EBS as a Sr. Consultant for TIAA-CREF. Charlotte NC.
+Developed and modified various Store Procedure / Function and Packages for Retirement, 401K and pension administration system.
+Creating tables, Denormalize database for reporting purpose, Using SQL Loader utility and load size of 60 to 80 GB of data load in multiple tables.
+Designed and develop financial control project and balance data between omni and irw two company’s customize database.
+Performance and tuning for number of SQL queries for faster response time.
+Refreshing Unit Testing, Integration Testing and System Testing Schemas by Import/Export Data.
+Modifying various oracle application forms (EBS) and customized form according to user requirements and Follow Company’s standard customization procedure.
+Implementation role in setup forms / Reporting Database Server on Solaris.
+Maintenance of DEV database and refresh every after two week.
+Refresh Database from PROD to QA on Monthly bases.
+Oracle Sr. Developer
+
+07/00 – 11/05
+
+&
+
+Cato Corporation. Charlotte, North Carolina
+The Cato Corporation is a leading specialty retailer of women's fashion clothing & accessories. Cato Corporation owns a chain of approximately 1272 in 32 U.S. states, primarily in the South and Southeast under the names Cato, Cato Fashions, Cato Plus and It’s Fashion.
+
+Responsibilities:
+Data conversion from legacy System to oracle in RETEK “Retail Merchandizing System” (RMS) during initial Implementation process in version 8.0 and then update version from 9 to 10.
+Developed Tax codes report using UDA attached to items. Each item assigned with a UDA value which is used for tax purposes.
+Developed Cost changes, new price change, Pending price change reports and Supplier attributes report.
+Modified base Printfrm form to display Excel output generated from reports along with PDF in two separate windows. Base forms like itemattr, supattr, strattr, whattr forms are modified to support customized columns.
+Installed, Configured, Deployed and administered oracle Reports Server 6i and Forms Server 6i to deploy web forms for Retek RMS.
+Designed, developed and demoralize oracle reporting database for reporting purposes.
+Optimization of the different SQL Queries to insure faster response time and improve Retek batch performance.
+Using Autosys Utility to Schedule Batch Processing and on call for supporting Batch.
+Developed and modified various Forms and Report using oracle Forms and Reports 6i in RMS.
+Developed and converted customized Retek report, involved in creating Items, Price changes and clearances for Integration testing.
+Managing database security. Creating and assigning appropriate roles and privileges to users depending on the user activity.
+Developed and modified database procedures/functions, triggers, packages to enhance and improve functionality using PL/SQL. Involved in coding, unit testing, and end-to-end testing of the developed modules and developed Unix Shell Scripts to automate backend jobs, loading data into the Database using SQL* Loader.
+Development team for the Item, vendor and inventory adjustments interfaces from RMS to WMOS supply chain management.
+Upgrading version forms 4.5 to 5.0 and from 5.0 to 6i, Reports 2.5 to 3.0 and 3.0 to 6i.
+According to Company Requirements Pro* C customization in Retek RMS & RDW.
+Applying new Patches in RMS and customising Retek forms according to user requirements.
+Developed test plans for unit, assembly and integrated systems tests
+Involved in Development of inbound / outbound interfaces from Retek RMS to Oracle Financial Applications.
+Upgrading version Oracle Financials Applications, General Ledger, Accounts Payable and Fixed Assets version 10.7 to version 11i.
+Support users in General Ledger, Accounts Payable and Fixed Assets in Oracle Financials Applications.
+Oracle Technical Consultant
+/ DBA
+
+01/00 – 07/00
+
+100% Travelling
+
+&
+
+Tosco Corp Phoenix, Arizona
+Tosco Corporation is one of the largest independent refiners of petroleum products in the United States. Tosco was founded in 1955 under the name Oil Shale Corporation by a group of investors. Tosco Corporation, which currently has over $20 billion in revenues, is the largest independent refiner and marketer of petroleum products in the United States, and is the nation's largest operator of company-controlled convenience stores.
+
+On assignment with Tosco Corporation (REP Project implementation)
+
+Responsibilities:
+Providing Technical Support and Performed as a Consultant on a client site for Tosco Corporation. on “Retail Enterprise Program” (REP) project implementation. Importing Exporting large size tables from production database to development for developers.
+Achieved more than 100% reduction in batch Window-Optimized daily batch window that ran for 16 hours to 4 hours (optimized processes that took hours to run in minutes).
+Data conversion from legacy system to oracle applications API and interface tables
+Install and configure RMS version 8 Retek Application.
+Performed database cloning for Developers from RMS Prod database on Demand.
+Detailed installation & documentation for RMS Retek Application (Version 8) during Implementation Life Cycle and Post Implementation Support.
+Managed 2 Terabyte of data on 6 different development instances.
+Oracle DBA
+
+12/98 – 01/00
+
+100% Travelling
+
+James Evan & Associates Toronto, Ontario CANADA
+JEA has been designing, developing and implementing defined benefit pension administration systems for the public sector and multi-employer markets since 1979. JEA expert knowledge of complex pension administration and regulatory requirements, combined with an innovative approach to technology, results in very effective pension system solutions and a well-established reputation in the areas of pension consulting and administration.
+
+On assignment with Ontario Hydro & Govt. of Nova Scotia (Pension administration system)
+
+Responsibilities:
+Providing technical support to clients (Ontario Hydro) which include importing and exporting data in oracle 7.3.5 and backup & recovery, data conversion, schedule commands, and installation of newer version of company’s products. Provided documentation for end-users.
+Developed store procedures, functions and packages for calculating pension systems. Conducted unit testing and system testing and data conversion using SQL Loader on a weekly basis to oracle.
+Installing a pension Contribution system’s new screens for (Govt. of Nova Scotia) using developer 2000 Forms 5.0 and Report 3.0.
+Installing Customizing Company’s PENFAX product based on client specifications and requirements.
+Performance and tuning for number of slow running SQL queries for faster response time, Modified Store Procedure / Function and Packages.
+Applying number of Oracle patches in database and PENFAX application.
+Installing Sun Solarise software and servers on client site and provide support.
+Jr. Oracle DBA
+
+12/95 – 11/98
+
+United Parcel Services Toronto, Ontario CANADA
+Known in the industry as "Big Brown," United Parcel Service, Inc. (UPS) is the world's largest package delivery company. The Atlanta-based business delivered approximately 3.4 billion items throughout more than 200 countries and territories in 2000. In addition to its fleet of 88,000 vehicles, the company operates the ninth largest airline in North America by virtue of its nearly 600 company-owned and chartered aircraft. Although UPS's global reach has been steadily expanding, it is the firm's U.S. operations that are its most impressive asset. Its door-to-door delivery system reaches every residential and business address in the country, and UPS estimates that its system carries goods that are valued at more than 6 percent of the U.S. gross domestic product. More than 83 percent of UPS's revenues is generated in the United States.
+
+Responsibilities:
+Backup/Recovery of all the production and development systems.
+SQL Reports using SQL Plus and SQL to generate text format reports.
+Data migration including data cleanup, data preparation, data conversion, data download and upload.
+Create, Designed and Developed customer contract renewal model, using Oracle7.1 and Used SQL Loader Utility to populate tables, mainframe data used in text format and MS Access as front end tool, MS Excel,
+
+Contact this candidate

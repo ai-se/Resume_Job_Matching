@@ -1,0 +1,170 @@
+
+R A
+SAP VALIDATION CONSULTANT
+
+CONTACT
+
+Ph:973-***-****(Employer)
+Email:
+adafqs@r.postjobfree.com(Employer)
+Only Corp to Corp
+
+CERTIFICATION
+
+PROFILE
+
+•Expert level Knowledge of PDLC, CSV, GAMP 5, Risk Management, Defect Life Cycle management, GxP and 21 CFR Part 11compliance.
+•Experienced and diverse Validation Specialist with proficiency in validation protocols, computer system validation, 21 CFR part 11, 58, 210, 211 and 820 compliance and Quality Assurance in FDA regulated environments.
+•Well versed in documenting Test Scripts (IQ/OQ/PQ Test Scripts), Deviations and Change Controls.
+•Proficiency in CAPA, Gap Analysis and Remediation plans to ensure compliance.
+•Strong knowledge and background of Software Development Life Cycle (SDLC) and Validation Life Cycle, familiar with Waterfall, Agile, Spiral and V Model
+•Experience with creation and implementation of Validation Plan, Specifications (URS, FRS) and Risk Analysis.
+•Developed Process/Procedures (SOP-Standard Operating Procedures) standards documentation
+•Document and Workflow Management (Documentum, Master Control)
+•Developed and analyzed test plans and test scripts to check functionalities of application of 21 CFR Part 11 compliance and FDA regulations, GAMP 4&5, cGXPs (cGMP, cGLP, cGDP).
+•Developing Validation Master Plan (VMP), Test Plan, Test Cases, Validation protocols like Installation, Operational, Performance Qualification (IQ/OQ/PQ)
+•Experience in performing integration testing, user acceptance testing, black box testing, functional testing, load/performance testing, security testing, back-end, and regression testing.
+•Comprehensive knowledge related to 21 CFR Part 11: Electronic records, Electronic signatures and Audit trials.
+•Expertise in Technical Writing and in Pre and Post QA Review of validation protocols like Installation Qualification (IQ), Operational Qualification (OQ), Performance Qualification (PQ), Validation Master Plan (VMP) and SOP’s.
+•Excellent experience in the validation of highly regulated enterprise level business systems, Trackwise, Inventory Management System and Remedy
+•Designing Requirement Traceability Matrix (RTM), Gap Analysis, Remediation plan, Validation Summary Report (VSR), and Test Summary Report (TSR)
+•Excellent Interpersonal, analytical and multitasking skills with quick learning ability
+•Involved in writing complex SQL Queries for verifying the data in database and reports.
+•Ability to collaborate with peers in both business and technical areas to deliver system solutions in line with corporate priorities.
+•In-depth knowledge of software testing methodologies, functional & Non-functional, Regression testing, BVT, BAT, End to End testing, User acceptance Testing, Electronic Data Capture Testing, Front end & Back end testing, Integration testing, Exploratory Testing, Validating XML files
+•Involved in Requirements gathering, Analysis,, Testing, Documentation, Validation and Implementation of various applications in SAP Technologies.
+SKILLS
+
+VALIDATION DELIVERABLES :VALIDATION MASTER PLAN (VMP), VALIDATION TEST PLAN, URS, FRS, DS, IQ,OQ,PQ PROTOCOLS, REQUIREMENT TRACEABILITY MATRIX (RTM), VALIDATION SUMMARY REPORTS, TEST SUMMARY REPORT, SYSTEM RELEASE REPORT AND RETIREMENT PLAN.
+METHODOLOGIES : SDLC, WATERFALL, AGILE, STLC
+OPERATING SYSTEMS: WINDOWS,LINUX
+DATABASES: SQL SERVER/ORACLE 9I/10G/11G
+VALIDATION TOOLS: JIRA, BUGZILLA, TESTLINK,BUGZERO,SYNAPSE,
+TESTING :SMOKE, ADHOC, FUNCTIONAL, REGRESSION,UAT, SANITY,UI,DB,EDC
+EXPERIENCE
+
+Lupin Pharmaceuticals, Somerset, NJ
+Validation Consultant
+July 2018-Current
+
+Project Details
+Lupin Pharmaceuticals, Inc. is the U.S. wholly owned subsidiary of Lupin Limited, which is among the top five pharmaceutical companies in India. Through our sales and marketing headquarters in Baltimore, MD.
+Worked as a Validation Consultant which concentrated mainly on validating computer software in compliance with regulations and validating the operating procedures for Class II and Class III devices.
+
+Responsibilities:
+
+•End to end validation of New system for major enhancement
+•QMS (Change control, deviation, CAPA, Training, Audit)
+•Review Project Charter, URS, FS, DD, IQ, OQ, PQ, OQ/PQ test summary report
+•Coordinate with QA compliance on quality aspects
+•Review the defects log and closure
+•Ensure the deliverables are completed as per project stage or tollgate
+•To establish documented validation criterion which ensures that the regulatory parameters are always followed
+I. Validation Plan
+ii.Validation Report
+iii.IQ/OQ/PQ Plan and report
+iv.Work Instructions
+v.SOPs
+vi.FRA
+•Ensure that the quality processes are being followed by the functional teams such as FICO, P2P, MFG, Security and Admin.
+•Guarantee computerized Systems Validation Lifecycle, Principles, Practices and Documentation Standards
+•Ensure every computer system must have documented evidence that the system does what is intended and that users of the system can detect when the system is not working as intended
+•Assure QA team on compliance by making sure that technical teams follow the
+company's SOPs
+•To implement controls, including audits, system validations, audit trails, electronic signatures, and documentation for software and systems involved in processing electronic data
+•Coordinating changes that come from the client in an efficient manner by categorizing then into weekly/monthly/emergency releases
+•Hands on experience on applications like:
+i.SAP Solution Manager (ChaRM, SolDoc), SAP GRC, SAP ECC and HANA.
+ii.HPALM
+iii.Document navigator
+Drais Pharmaceuticals, Bridgewater, NJ
+Validation Analyst
+Aug 2017 – July 2018
+
+Project Details:
+
+Drais Pharmaceuticals is a drug development company involved in the development of novel compounds in a variety of therapeutic areas.
+Project : Worked as a Validation Engineer which concentrated mainly on validating computer software in compliance with regulations and validating the operating procedures
+
+Responsibilities:
+•Developed Validation Plan coordinating with the IT team to minimize the risks of data loss and verifying data integrity.
+•Maintained Electronic Records, Digital Signatures, Electronic Signatures and capturing Audit Trails with respect to 21CFR Part 11 requirements.
+•Documentation was created in accordance with the 21 CFR Part 11 regulations for the entire validation process.
+•Worked on gathering, generating and reviewing User and Functional Requirement Specifications (URS and FRS) for verifying migration of legacy data from source to target system.
+•Reviewed documents for team for Good Documentation Practices and compliant to industry regulation.
+•Prepared Test Cases, Test Plans and created Test Scenarios for positive and negative system testing.
+•Reviewed audit documents.
+•Reviewed Unit and System test scripts using automated testing tool, ALM.
+•Reviewed versions of Data Migration document and prepared a Data Migration Summary document.
+•Utilized non-product software such as SharePoint and Documentum to store test protocols, validation deliverable documents and manage workflows.
+•Created and maintained validation documentation for assigned products/projects.
+•Organized all the User Requirements and developed Master Validation Plan (MVP) that satisfied user requirements.
+
+PAREXEL International (Offshore)
+Software Validation Engineer
+Dec 2012– Nov 2016
+
+Project Details:
+
+Technology used: IWR (Web app) & IVR (Cisco), Bug zero, Jira
+Clients: Novartis, Abbot, Pfizer, Allergan, Merk, Boehringeretc.
+Description: Testing Web application (IWR) by performing Transactions like screening, Randomization, etc.according to client requirement Specifications (Clinical Trails Application). Same Transactions needs to validated via IVR also and Need to Verify Data base Updates and also validate the notifications or reports generated according to Front end transactions in Citrix Environment by using Synapse.
+
+Responsibilities:
+•Requirement analysis for Epics by interacting with product owner and development team
+•Created Test strategy, Test scenarios based on the User stories or story card
+•Created Traceability, Test Coverage, Risk Analysis
+•Good knowledge about entire clinical trial process like screening, randomization, scheduled resupply etc.
+•Created Testcases, Executed Test cases and managed defects
+•Reviewed the test scenarios and test cases document execution with offshore resources
+•Actively participated in all sprint meeting like - daily standup, retrospective and weekly demos
+•Performed various types of testing like Navigational, Ad-hoc, Sanity, UI, Functional, Regression,
+•System Integration and compatibility testing, UAT,Database,Electronic Data capture, End to End testing.
+•Creating, populating, or maintaining databases for tracking validation activities, test results,
+or validated systems
+•Validate XML files with respect to the client requirements
+•Performed build verification, usability and regression testing on new requirements
+•Tracked defect metrics across the project and maintained the enhancement log for future releases. Experience in handling escalations and leading the defect triage meetings
+•Prepared root cause analysis report for the production issues. Identified the gaps in the testing process and made amendments to the guidelines/checklists
+•Preparing and sending Daily Status reports to the project manager and all the stakeholders
+•Prepared Test Metrics and Traceability Matrix documents for Quality Audit.
+•Post Delivery Testing /Patch Testing (UAT issues)
+•Task allocation to the team and reporting the status of testing, knowledge transfer of the application/QA process to the team
+•Organizing Team meetings and managing the status report, meeting agenda and MOM
+
+ClinAsia Labs, Hyderabad, India (Formerly known as MAXIS IT)
+Validation Analyst
+Sep 2011 – Dec 2012
+
+Responsibilities (Project 1)
+
+Client-Vistakon
+•Reviewing and Validating SDLC documents viz. User Requirement Specification (URS), Business Process Analysis (BPA), Functional Requirement Specification (FRS), Functional Design Specification (FDS) for new deployments for the client.
+•I was working in testing cycles for multiple client deployments, where I have reviewed the test Protocols (IQ, OQ, PQ.)
+•Validating test scripts in system testing phase, User Acceptance Testing Phase and based on the testing acceptance criteria being met, I have approved the test scripts as QA consultant.
+• Reviewing of defects and defect closure were part of my responsibility.
+•As part of Quality and Compliance team, I was involved in validation and review of end user training manuals/ work instructions for conducting day to day business of the client.
+•These manuals are Operational requirements and guidelines for the end user.
+•I have also reviewed additional requirements coming from client on regular basis through change requests and change orders. These change orders were part of multiple client deployments, and they were of several types (Admin change, Normal Change and emergency change).
+•These changes were of new requirements being implemented or as a new functionality being implemented in the system.
+•I have reviewed the change orders with a simple bug fix, for a new functionality involving all the document updates till FDS, and a configuration change.
+•Good knowledge on Change Management process and knowledge on working with Sap Solution manager application.
+•I have provided training to the new hires on Computer system validation and lifecycle, testing cycles, and validation requirements
+
+Responsibilities (Project 2)
+
+Client: Johnson and Johnson
+
+Responsibilities:
+•Reviewed Compliance plan, compliance analysis documents, also reviewed the system test protocol document.
+•Reviewed the sprint backlog and trace matrix documents.
+•Validated the test scripts relating to Installation qualification and Operational
+•I have been part of multiple sprints and releases.
+•Involved in reviewing and validation of system testing scripts, and user acceptance test scripts.
+•I was involved in Change and defect management.
+
+EDUCATION
+
+Bachelor of Information Technology (B. Tech) from JNTU University with 72%(Distinction)
+
+Contact this candidate

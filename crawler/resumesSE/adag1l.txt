@@ -1,0 +1,41 @@
+
+adag1l@r.postjobfree.com hyupkim.com/portfolio.pdf 229-***-****
+- B.S. in Computer Science
+- Major GPA : 3.56/ 4.00
+Georgia Institute of Technology
+EDUCATION
+Sun Hydraulics Corporation
+WORK EXPERIENCE
+- Developed a web application that visualizes and tracks the replay animation of bus activity on 3D campus map using Node.js.
+- Imports the data of recorded coordinates, speed an acceleration using JavaScript and CesiumJS and reports to Georgia Tech transportation department. Georgia Tech Research Institute
+PERSONAL PROJECT
+Sarasota, FL
+
+- Developed the entire web application that stores PFMEA (Process Failure Mode & E ect Analysis) reports using .NET Framework. Over 500 employees are using in production.
+- Designed and created the database in SQL Server. Imported the data to web application using Entity Framework and LINQ. Programmed in Back-End development using C#, Ajax, and JSON.
+- Programmed in Front-End development using HTML/CSS, Javascript, JQuery, and RazorView. Designed user-friendly interfaces with Bootstrap, MVCGrid, and PopperJS.
+- Extensively used Fiddler and Chrome Developer Tools for debugging application and reported error occurences through email and logged text les using NLog.
+- Created and controlled three user levels (Admin, Edit, and Read-Only) with Active Directory and Window Authentication.
+GeniusMesh
+May 2019 - Aug 2019
+- Developed in Front-End of company website and newsletter using HTML/CSS and JavaScript.
+- Built a stand-alone executionable program with Java that analyzes the resume data and recommends the companies list to recruiters.
+- Developed a turn-based strategy game using Android 9.0 (Pie), Java, and MVVM design pattern.
+- Authenticated users with login accounts and passwords and saved users’ data using Google Firebase. Winter Wind - Android Game App
+Aug 2018 - Current
+Aug 2016- Dec 2020 (Expected)
+Atlanta, GA
+Atlanta, GA
+Korean International Young Adults’ Community (Georgia Tech)
+- Lead over 10 major Korean-companies’ (Samsung, LG, KT, etc) career fairs for over 300 Georgia Tech Korean undergraduates.
+- Managed book keeping process to control ~$5,000 of annual community fund. Jan 2019 - May 2019
+Alpharetta, GA
+Aug 2018 - May 2019
+Software Engineer Intern
+Software Engineer
+Software Engineer Intern
+President
+LEADERSHIP
+Atlanta, GA
+
+Contact this candidate

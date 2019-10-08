@@ -1,0 +1,35 @@
+
+Were looking for humble, but ambitious, razor-sharp Software Engineer, front end who can teach us a thing or two. We promise to return the favor. Like us, you take product development, UX research and platform engineering seriously; youre passionate about technology. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. Our selection process will emphasize hands on engineering. The ideal candidate must be a master of their domain and be able to contribute as an individual contributor (software engineer and architect).
+
+Why We Need This Role
+We are looking for a software engineer, front end to help us develop our Builder Product and Enterprise Management systems visions and enable us to continue turning clients ideas into a fully functioning software at a massive scale. The industry is in a constant state of flux; tools and frameworks change by the month and so we are looking for someone who is not afraid to learn on the job, and who can take the initiative to identify and implement novel solutions
+
+Why You Should Join
+This is a challenging and diverse role that requires you to build both, an organization and new generation of Builder product, nearly from the ground up. Only join this role if you are craving rapid growth, able to create a path in uncharted territory, and comfortable with trying, failing and course-correcting fast.
+
+First Six Month Deliverables
+Collaborate with designers, product managers, and other software developers to deliver compelling user-facing products or enterprise wide integrations
+As a part of the engineering scrum team, contribute to the architecture of efficient and reusable components that drive complex applications across the stack
+Create integration and unit tests that enable availability and scalability
+Identify necessary tools and methods to resolve functional, performance and scalability issues
+Requirements
+Passionate about loosely held values and ideas. We want someone who has experience but is not blinded by the path already taken.
+1-3 years building front end applications at scale
+Strong understanding of Angular 2.0+
+Strong understanding and experience with testing practices (TDD/BDD)
+Strong automation and CI/CD experience
+Pivotal Tracker or Jira, GitHub tools experience is a plus
+Outstanding communication skills, both written and oral
+Experience in working in an Agile environment
+Benefits
+Health and Wellness benefits including competitive medical, dental, and vision plans
+Performance-based bonuses and stock options
+Generous vacation and time off benefits including paid holidays
+Generally flexible working hours
+Working in a beautiful office space the heart of Silicon Beach in Playa Vista
+A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
+Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

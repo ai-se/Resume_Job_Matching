@@ -1,0 +1,33 @@
+
+* Decomposes stories and creates detail tasks for completion in the sprint.
+
+* Demonstrates problem solving and innovation.
+
+* Develops and executes Unit Tests.
+
+* Develops detailed software designs from requirements, working with other team members.
+
+* Develops software components.
+
+* Follows JDA standards to properly comment and document code.
+
+* Gains an in-depth understanding of product business requirements.
+
+* Participates in code reviews: verify maintainability, extensibility and assure complexity has been minimized.
+
+* Participates in team activities: Story pointing, Sprint Reviews, Sprint Planning, Release Planning.
+
+* Pinpoints and resolve software bugs.
+
+* Reviews requirements & design for accuracy and completeness.
+
+Our Values
+
+If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
+
+Check out JDA's blog - Supply Chain Nation - the platform for supply chain trends and innovations.
+SDL2017
+
+
+Go to apply 
+

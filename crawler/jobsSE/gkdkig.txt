@@ -1,0 +1,71 @@
+
+Who are we?
+
+Independent Software is a consulting, product, and solutions firm dedicated to the practical application of software and system engineering technologies to solve complex problems. We bring together world class engineers with proven engineering best practices, domain expertise, commercial technologies and proven agile management approaches to create high value solutions aimed at helping our customers meet their most critical business and mission objectives.
+
+Why Independent Software?
+
+We are focused on continual learning and evolution. We don't do things because "that's the way we've always done things"; we listen to our employees and adapt to the changing marketplace. We look at the big picture and encourage our engineers to get training and certifications in emerging technologies that will help shape our customer's mission.
+
+We've been profitable year after year. We're always on the lookout for great engineers to join the team and we recognize that our employees are the heart and soul of what we do. We focus on recruiting talented people, treating them right, and then allowing them to do what they do best. No red tape. No micromanagement. Smart people want to work with smart people, and we love people who are passionate about what they do, and finding ways to do it better.
+
+What you will be doing!
+
+Independent Software is seeking CNO software engineers to develop and maintain low level applications and operating system projects related to software protection and host-based personal security tools. Projects will be undertaken in small teams with close coordination with customers to quickly enhance capabilities or resolve issues in existing tools.
+
+General Requirements:
+
+* At least four (4) years' experience in software development, systems engineering or network engineering including requirements analysis, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution
+
+* At least one (1) year of experience programming in Assembly, C, C++, Java, Perl or Python
+
+* At least one (1) year of experience developing Windows applications using Visual Studio or .NET environments OR at least five (5) years' experience developing UNIX applications using make files or comparable build environments (Note: one (1) year development experience may be credited for appropriate coursework in Windows or UNIX programming, completed as part of an awarded Bachelor or Master degree)
+
+* Familiarity with software version control tools (i.e. Subversion, CVS, etc.)
+
+Education: A Bachelor's Degree is not a requirement for this position, but a Bachelor's Degree in Computer Science, Information Systems or a related discipline will negate the General Requirement of four (4) years' experience in software development, systems engineering or network engineering.
+
+Clearance: THIS POSITION REQUIRES A CURRENT TS/SCI WITH POLYGRAPH CLEARANCE!
+
+Top Reasons to Work at Independent Software:
+
+* Great people deserve even better benefits, from comprehensive healthcare coverage and generous leave time to discounts with all of our vendors.
+
+* You are not just a job title. That's why we tip the work-life balance scale in your favor. It's not about being billable, it's about being valuable.
+
+* Whether you're working on-site or in our offices, your role at Independent Software is just as critical to our success as your coworker's.
+
+* We're constantly researching and implementing the latest technology so you've always got the right tools at your disposal.
+
+* As we've grown, we've retained that small company feel. When we say we have an open door policy, we actually mean it.
+
+* Independent Software is comprised of wonderfully generous folks. We believe in supporting the causes our employees care about. Bring us an opportunity to help and we'll listen.
+
+* Teamwork got us where we are today. Our collaborative environment allows you to maximize your true potential.
+
+* The work we do is exciting, critical stuff. No matter your role at Independent Software, you're helping us keep the nation safe and secure.
+
+* We have a history of great achievement and, with each year, our company gets even bigger and better. As we grow, so does the opportunity for our employees.
+
+* We host a variety of fun employee and family events throughout the year to say thanks for all that you do to make Independent Software a technology leader as well as a phenomenal place to work.
+
+Benefits:
+
+* Competitive salary
+
+* Comprehensive health, dental, and vision insurance plans
+
+* 401(k) retirement plan with company paid match of gross salary
+
+* A generous Paid Time Off and Holiday package
+
+* Lots of paid training! We encourage all employees to seek out training opportunities like conferences, certification courses and seminars.
+
+* We truly believe the right work-life balance can exist, and it's here at Independent Software. Our work is extremely important, but your job is just a part of who you are. When you enjoy your life outside of our walls, you're at your best the next time you walk through our doors. We do all we can to assure that happens every day.
+
+Independent Software is an Equal Opportunity Employer EOE, M/F/D/V.
+SDL2017
+
+
+Go to apply 
+

@@ -1,0 +1,44 @@
+
+SENIOR SOFTWARE DEVELOPMENT ENGINEER IN TEST
+This role will lead the software verification and validation activities for next generation of portable diagnostics platforms product software and non-product software in one or more projects.
+This job description will be reviewed periodically and is subject to change by management.
+RESPONSIBILITIES:
+Create automated testing solutions from technical designs, specifications, and requirements at sub-system and system level.
+Implement automated metrics.
+Develop and execute automation test protocols.
+Support reliability testing activities through automation.
+Develop innovative methods to find solutions and improve quality, test efficiency, and regression coverage.
+Reports and documents software defects, collaborates with the cross functional teams to resolve them and provide input on issues that impact product performance and system stability
+Participate in scrum meetings and follow internal software development, cyber security, and validation procedures that comply with medical and security regulations.
+Validate the configuration, functionality, and user interface of automation tools and frameworks.
+Understands and is aware of the quality consequences which may occur from the improper performance of their specific job; has awareness of device defects that may occur in their area of responsibility, including product design, verification and validation, manufacturing and testing activities
+Responsible for exhibiting professional behavior with both internal/external business associates that reflects positively on the company and is consistent with the company’s policies and practices; build productive internal/external working relationships
+Carries out duties in compliance with established business policies
+Other duties as assigned, according to the changing needs of the business
+MINIMUM QUALIFICATIONS EDUCATION/EXPERIENCE:
+Bachelor of Science in Computer Engineering, Computer Science or equivalent (MS Preferred)
+Experience in delivering products for the Medical Device industry (IVD industry preferred).
+5+ years of experience and strong technical competency in testing or development using Python, C# or similar languages.
+5+ years of experience as a software test engineer verifying complex embedded systems.
+3+ years of experience with tools such as Jira, Confluence, Github, Gerrit, Jenkins, or other industry leading toolsets.
+3+ years of experience creating and maintaining traceability, test coverage, and defect trends metrics.
+2+ years of experience working in an Agile environment.
+Experience testing software in RTOS environments (e.g. Windows Embedded Compact/CE, QNX, Linux/Ubuntu Embedded, and VxWorks).
+Knowledge of authentication protocols and cybersecurity.
+Knowledge of Medical Device regulations (ISO 13485, ISO 14971, IEC 62304, 21 CFR part 820.30-Design Controls, FDA SW Guidelines).
+Familiarity with communications: Wi-Fi, Ethernet, Wireless, Bluetooth, TCP/IP.
+Very strong written, verbal, interpersonal and presentation skills.
+PREFERRED QUALIFICATIONS:
+Experience developing automation frameworks.
+Experience developing automated metrics.
+Experience automating testing throughout the entire software development lifecycle using various software testing practices (black box testing, risk based testing, integration testing, system testing, regression testing, exploratory testing).
+Familiar with testing of healthcare communication protocols (e.g. ASTM, HL7, POCT1A).
+COMPETENCIES:
+Continually develops his/her own skillset.
+Acts ethically and takes accountability for achieving outcomes.
+Avoids getting stuck in a "one right way" approach – remains open minded to new ideas.
+Promptly and effectively handles issues and problems.
+
+
+Go to apply 
+

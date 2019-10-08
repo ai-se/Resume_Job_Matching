@@ -1,0 +1,43 @@
+
+Overall Assignment Description:
+
+Mid-level Test Systems Engineers perform Application, System and Integration Testing across the National System of Geospatial-intelligence (NSG), Allied System of Geospatial-intelligence (ASG) and Federal Agencies to ensure timely and accurate GEOINT.
+
+Duties include:
+
+* Performs test and evaluation across the National System of Geospatial-intelligence (NSG), Allied System of Geospatial-intelligence (ASG) and Federal
+
+* Performs testing of applications and application programming interfaces (APIs) in DevOps pipelines utilizing quality assurance measures established by the government and industry best practices.
+
+* Performs independent integration testing on the system software or hardware to determine the system's compliance with specified
+
+* Plans and executes manual tests, and automated test scripts using scripting and programming languages.
+
+* Supports technical investigations for defects discovered during test
+
+* Refer to Section 3.3.3: NGA Test Organization (NTO) for a listing of expected work activities the Test Systems Engineer position would be required to
+
+Skills and Experience:
+
+Required:
+
+* Bachelor's degree in Engineering, Computer Science, Information Technology, Management Information Systems, or related STEM degree
+
+* Experience with test management and defect tracking
+
+* Experience with traditional, Agile, and DevOps development practices and associated testing strategies.
+
+Desired:
+
+* Master's degree in Computer Science, Information Technology, Management Information Systems, or related STEM degree
+
+* Experience with three or more of the following; JMeterand, Jenkins, Docker, Postman, Swagger, Nexus, Apigee or GitHub/GitLab (or equivalent software packages), Java, Bash, Curl, XML, JSON, SQL, Python, Javascript, and AWS and
+
+* Working knowledge of Model Based Systems Engineering, processes, tools and
+
+* Working knowledge of Software Development
+SDL2017
+
+
+Go to apply 
+

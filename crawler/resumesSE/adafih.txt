@@ -1,0 +1,97 @@
+
+Objective
+To take up challenging assignments in the field of software testing where my analytical and problem-solving skills will be applied for the successful execution of the project.
+
+Profile Summary
+4 years of experience in IT business services for clients in Insurance, Energy and Utilities domain
+in Quality Engineering and Assurance for a web-based software with database testing
+Worked in Agile methodology
+Experience in Core Java, Selenium WebDriver, TestNG, Maven, Jenkins,
+Cucumber.
+
+Technical Skills
+Programming Languages: Core Java (OOPs, Collection Framework etc.)
+Framework: TestNG
+CI Tool: Jenkins
+Build Tool: Maven
+BDD Tool: Cucumber
+Automation Tool: Selenium WebDriver, Selenium IDE
+Manual Testing: Performed Functional, GUI Testing, Navigations Testing, Usability Testing, E2E testing
+SDLC Methodology: Agile and Waterfall
+Others: MS Office & Internet Applications
+
+Professional Experience
+Cognizant Technology Solutions Programmer Analyst May 2015 – Present
+Project 1: UPS – Mail Innovation (Jan-2018 to till date)
+Software/Tools: TFS, Selenium WebDriver, TestNG
+Methodology: Agile Software Development Methodology
+
+Project Description: Mail Innovation is used for the shipment of parcel, UPS process the shipment and deliver that to USPS and after that USPS deliver that shipment to customer.
+
+Roles and Responsibilities as Manual Tester:
+Understanding and Analyzing Business Requirement Specifications
+Writing automation test script in Selenium Java
+Maintaining the test scripts
+Designing test cases and executing in TFS to validate the functionality
+Defect logging and tracking in TFS.
+Collaborating with other Testers, Developers, Business Analysts and Clients to expand and improve existing reporting systems
+Proactively participated in Scrum calls with Onsite
+Performed Functional and Regression testing for the application, Database and User Interface testing
+
+Roles and Responsibilities as Automation Test Engineer:
+Strong Experience in Java Programming with Selenium WebDriver 3.x, TestNG framework.
+Strong Experience in Automating of Web Based Application using Selenium WebDriver 3.x using TestNG framework
+Experience in Data driven Testing (Excel Sheet and TestNG annotations), Cross browser testing and Parallel Test execution using Selenium WebDriver, TestNG.
+Using TestNG listeners and Selenium WebDriver for screenshot and report generation.
+Writing Test cases using different element locator strategy, WebDriver methods, Java programming features and TestNG.
+Executing Selenium Test Cases using Maven/Jenkins and Reporting defects.
+Implementation of Hybrid framework using Selenium, Apache POI, TestNG, and integrating with CI tool using maven.
+
+Project 2: FPL – CIS Renew (Jan-2017 to Jan-2018)
+Software/Tools: Rational management, Selenium WebDriver
+Methodology: Agile Software Development Methodology
+
+Project Description: The Customer Information System (CIS) is used by the utilities to manage customer information; it is the system which records all customer information. CIS system addresses business-critical utility (meter-to-cash - M2C) and customer service business processes
+
+Roles and Responsibilities:
+Performed Functional and Regression testing for the application, Database and User Interface testing using SQL and practiced automation testing on Eclipse, using Java and Selenium
+Learnt Project Tracking and maintaining Test Metrics, on Quality management software like RQM and RTC
+Learnt Scrum methodology in Agile framework as a part of organizational learning
+Prepared Reverse KT document for supporting future enhancements in the projects
+Planned, developed and implemented testing reports for Mainframe processes
+Defect tracking and highlighting delay in defect cycle with the team leader, if any
+Having good knowledge in SDLC process implementation
+
+Project 3: ANTHEM - CSSD (Aug-2015 to Jan-2016)
+Software/Tools: HP ALM, Mainframe
+Methodology: Agile Software Development Methodology
+
+Project Description: Anthem Insurance Has Well Point Group systems (WGS) as the main operation of the claims. Members Enrolment, Provider Information. Anthem will take the bulk on this custom integration back in house to greater flexibility and responsiveness to take a go and no go decision for the claim payment which will allow vendor to provide better services.
+
+Roles and Responsibilities:
+Facilitated a cohesive team work to meet the stringent time lines set by the clients
+Participated in status meetings with on-site counterparts
+Delivered project under waterfall model
+Completed assigned tasks well within time
+Maintained constant communication with project team lead to report progress and identified issues
+Having good knowledge of OOPS concept and Data-driven framework
+
+Academic Achievements
+Degree
+Year
+Institute, University/ Board
+% /CGPA
+B. Tech. (CSE)
+2014
+Rayat Bahara Institute of Engineering & Technology, Mohali
+76.00%
+H.S.C
+2010
+Army Public School, Nahan
+63.40%
+S.S.C
+2008
+DAV Public School, Nahan
+70.20%
+
+Contact this candidate

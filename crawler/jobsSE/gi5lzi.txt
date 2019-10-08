@@ -1,0 +1,59 @@
+
+Coupa Software (NASDAQ: COUP), a leader in business spend management (BSM), has been certified as a "Great Place to Work" by the Great Place to Work organization. We deliver "Value as a Service" by helping our customers maximize their spend under management, achieve significant cost savings and drive profitability. Coupa provides a unified, cloud-based spend management platform that connects hundreds of organizations representing the Americas, EMEA, and APAC with millions of suppliers globally. The Coupa platform provides greater visibility into and control over how companies spend money. Customers – small, medium and large – have used the Coupa platform to bring billions of dollars in cumulative spend under management. Learn more at Read more on the Coupa Blog or follow @Coupa on Twitter.
+
+Do you want to work for Coupa Software, the world's leading provider of cloud-based spend management solutions? We're a company that had a successful IPO in October 2016 (NASDAQ: COUP) to fuel our innovation and growth. At Coupa, we're building a great company that is laser focused on three core values:
+
+1. Ensure Customer Success – Obsessive and unwavering commitment to making customers successful.
+
+2. Focus On Results – Relentless focus on delivering results through innovation and a bias for action.
+
+3. Strive For Excellence – Commitment to a collaborative environment infused with professionalism, integrity, passion, and accountability.
+
+Responsibilities:
+
+* Administer Windows servers in a massive-scale public cloud environment
+
+* Engage with other Engineering and Product teams to improve reliability, performance, availability and security of the Coupa Cloud
+
+* Provide application and infrastructure support for development, test and production environments
+
+* Develop new automation and administration tools
+
+* Deploy product releases and maintenance updates
+
+* Evaluate, specify, implement and support performance and availability monitoring tools
+
+* Participate in an on-call rotation as required
+
+Requirements:
+
+* Will have a degree in Computer Science or equivalent with 4+ years professional experience administering Windows servers
+
+* Knows Powershell or equivalent scripting language
+
+* Is an expert in the Microsoft stack including Windows Server, SQL Server and Active Directory
+
+* Is experienced in Chef, Puppet or other configuration management tools
+
+* Has a solid understanding of networking systems and protocols
+
+* Will be confident in their ability to own and deliver projects and issues to resolution
+
+* Is an excellent communicator
+
+* Can think and act globally
+
+* Has a passion for solving problems
+
+At Coupa, we have a strong and innovative team dedicated to improving the spend management processes of today's dynamic businesses. It's our people who make it happen, and we strive to attract and retain the best in every discipline.
+
+We take care of our employees every way we can, with competitive compensation packages, as well as restricted stock units, an Employee Stock Purchase Program (ESPP), comprehensive health benefits for employees and their families, a 401(k) match, a flexible work environment, no limit vacations for exempt employees, non-exempt employees are on an accrual basis for PTO, catered lunches…And much more!
+
+As part of our dedication to the diversity of our workforce, Coupa is committed to Equal Employment Opportunity without regard for race, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity or religion.
+
+Please be advised, inquiries or resumes from recruiters will not be accepted.
+SDL2017
+
+
+Go to apply 
+

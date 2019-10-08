@@ -1,0 +1,83 @@
+
+Damien Healy 424-***-****
+***** ******* **, ***********, ** 92683 adafs4@r.postjobfree.com
+
+TECHNICAL SKILLS:
+• Server OS:(18 years.): Windows Server (Active Directory) - 2000/03/08/12/16 Novell Netware
+• Citrix ( 10 Years): XenDesktop 7, XenApp 6, Netscaler 12, Citrix Application Layering, Xenmobile
+• Virtualization (5 years.): VMware Esx Server 4/5/6, Microsoft Hypervisor 2008/12/16, Xen Server
+• Monitoring Software:(5 years):SCOM 2010, 2012; Aternity, Citrix Edgesite Server, Citrix Director
+• Application/ Desktop/ Server Deployment and Patching: (5 Years) SCCM - 2007, 2012, 2016
+• Profile Management: (2 yrs.) Citrix Profile Management, Appsense Management Suite, RES
+• Security/Firewall ( 4 yrs.): Symantec Endpoint Protection, Checkpoint, Netscreen
+• Backup (10 yrs.): Veritas Backup Exec for Windows; Commvault; Arcserve; Veeam Backup
+• Mail Servers (10 years.): MS Exchange Server 5.5/2007, 2010; 2013
+• Cloud Based ( 1 Year): Office 365, Windows Azure
+• Networking: Routers, Switches, VPN, WAN, TCP/IP,
+• Other: Centos, Redhat, Ubuntu, Appv,
+
+EXPERIENCE
+
+IT Consultant - Irish Technology Services (Contractor) – Dublin, Ireland 09/2016 – 03/2019
+• Providing Active Directory Remediation work for clients
+• Made a Large number changes to Active Directors Permission for users and objects
+• Manage escalation issues as they fall within SLA standards
+• Solved clients IT issues - Determined changes and recommended quality software
+• Xen Desktop and Application deployment into Microsoft AZURE Cloud using MCS and PVS
+• Support and Configure Citrix Provisional Server Environment for vdisks and vdi provisioning.
+• Develop Automation for Infrastructure Issues using Powershell Scripting
+• Load Balancing Applications using Citrix Netscaler
+
+Wintel Engineer (Contractor) – IBM, Dublin, Ireland 07/2015 – 07/2016
+• Configuration of SCCM server 2012 - Site server, Primary site server, Secondary site and Distribution Points
+• Installation and configuration of SQL Server for database and SQL Server Reporting
+• Deploy Windows 10 Images using Microsoft Deployment Kit and Task Sequence
+• Creating MSI packages for Deployment in SCCM
+• Create and Import Queries in System Center Configuration Manager
+• Create Device Collections in SCCM.
+• Ensure SCCM 2012 have latest branch builds
+• Automate patch management procedures for servers and client using Powershell
+• Create and update relevant processes and documentation, including run books and support guides.
+• Verify SCCM log files and troubleshoot installation issues
+
+Technical Analyst (Contractor) HCL, Dublin, Ireland 05/2015 - 07/2015
+• Integrate Appv with Citrix Xendesktop 7.5
+• Migrate over 200 legacy apps y from App-V 4.x to App-V 5.0,
+• Troubleshooting and solving complex issues on Citrix Xen App 7.5
+• Managing User profiles using RES
+• Run Application Compatibility Reports for applications using Changebase/APPDNA
+Citrix Solutions Architect (Contractor) – ZeroOne, Auckland, New Zealand 07/2012 – 02/2015
+• Design and Deployments of Citrix Xenapp and Citrix XenDesktop 7 Platforms
+• Prepare Xenapp Migration from Xenapp6.5 to Xenapp 7.5
+• Monitor VDI Infrastructure using Aternity and Netscaler
+• Application Testing and Compatibility checks using Appdna and Stratosphere
+• Managed Virtualization Environment using VMware Vsphere
+• Configuration of Access Gateway and SSL Certificates in Netscaler.
+• Prepare and Design Disaster Recovery for Citrix Xen App Environment
+Wintel Engineer (Contracter) – Carter Holt Harvey, Auckland, New Zealand 07/2010 -07/2012
+• Designed and Implemented a 2007 SCCM Infrastructure
+• Prepared an installation and Configuration Design Document for SCCM 2007
+• Patching Servers according to patching schedule using SCCM 2007
+• Implementing Group Policy and Active Directory changes.
+
+Other Self Employed/ Full Time Positions Held
+12/2009 - 04/2010 System Engineer, IBM, 82 Wyndham Street, Auckland City Centre,
+09/2007 – 06/2008 Migration Engineer, Hewlett Packard, Dublin, Ireland
+10/2006 - 08/2007 IT Support Technician, Central Remedial Clinic, Dublin, Ireland
+04/2006 - 09/2006 Desktop & Server Support, Ulster Bank, Dublin, Ireland
+01/2002 - 03/2006 System Engineer, Irish Technology Services, Dublin, Ireland
+04/2000 - 11/2001 Systems Engineer: OAR Incorporated, Chicago, USA
+03/1998 - 09/1998 IT Consultant: Notley Cahill Systems, Dublin, Ireland
+10/1997 - 03/1998 PC Support Technician: PC World, Dublin
+07/1996 - 07/1997 Graphic Designer: Institute of European Affairs, Dublin,
+12 /1993 - 01/1996 IT Sales Associate: J & R Computer World, New York, NY, U.S.A
+
+EDUCATION AND CERTS
+01/2019 - Currently Citrix Certified Administrator – Virtualization (CCA-V) 1Y0-203
+01/2019 - Currently Citrix Certified Professional - Virtualization (CCP-V) - 1Y0-311
+07/2019 - Currently Citrix Netscaler 12 Essentials & Traffic Managment – (CCA-N) 1Y0-240
+01/2019 - Currently Citrix Certified Expert - Virtualization (CCE-V) - 1Y0-402
+11/2000 - 03/2001 Microsoft Certified Systems Engineer (MCSE)
+10/1990 - 06/1993 Diploma, Marketing @ Technological University for Dublin
+
+Contact this candidate

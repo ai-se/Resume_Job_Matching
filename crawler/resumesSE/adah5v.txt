@@ -1,0 +1,96 @@
+
+BACKGROUND
+Foued Benzaid is a DevOps Engineer with more than 8 years of experience in infrastructure operations and Administration.
+Expertise includes Containers orchestration, Automation, Microservices, Unix, scripting, Infrastructure as Code (IaC), Pipelines, Cloud-native infrastructure and CI/CD.
+Passionate learner always eager to evolve and adapt to the latest technologies Open Source software enthusiast.
+EDUCATION
+Bachelor of Engineering in Computer Science & Mathematics in Constantine (Algeria)
+Network and Infrastructure Degree in Computer Science in college herzing Montreal (Canada)
+CERTIFICATIONS
+Certified Kubernetes Administrator. ( CKA-1900-002386-0100 )
+CCNA Cisco Certified Network Associate.( ID: 428764168877GSBJ )
+EXPERIENCE
+CGI Group INC – 01/19 to today (Consultant DevOps Engineer )
+As a DevOps Consultant, actually I’m working on IT Transformation and automation projects, that includes provisioning new environments with Ansible, dockerizing the applications and automate the deployment of those applications on Kubernetes Clusters throw Jenkins pipelines.
+I worked also on projects for automating services on public Cloud (Azure) with Ansible via Rest API.
+Main tasks :
+Build Ansible roles for automate logs on azure services via REST API.
+Dockerize internal application and design CI/CD for deployment.
+Mount K8s Clusters ( hard way ) .
+Design microservices based applications and rollout strategies.
+Maintain CI/CD pipelines and support deployments.
+Maintain IaC for webservers and proxy servers with Ansible
+
+Configure and maintain internal private docker registry on nexus .
+Maintain build and release pipelines on AzureDevOps platform .
+Administer and monitor on premise kubernetes clusters
+Stack Harbor – 11/18 to 01/19 ( IT Operations Engineer )
+As an Operations Engineer, May main tasks were based on the Automation and troubleshooting infrastructure and applications issues on the OnApp Cloud Platform, as well as monitoring and troubleshooting escalated cases of the client instances
+I worked also on dockerizing internal applications and configuring desired state for webservers and reverse proxies with Ansible
+Main tasks :
+Maintain infrastructure running on cloud on-app .
+Dockerize applications and deploy them on the K8s cluster .
+Configure desired state for webservers with Ansible
+Mount and deploy K8s Clusters.
+Support the Dev team on Jenkins.
+Monitor and troubleshoot escalated cases of the client instances
+
+Sherweb INC – 01/18 to 11/18 (IT infrastructure and Cloud services (IAAS) )
+At Sherweb I was in the infrastructure and Operations team, our main Goal was to maintain and automate our private Cloud Azure Pack for our Cliets, I administed and maintained hosts on the VMM Cluster, i participated in the development of a DSC for our infrastructure,as well as develloping scripts for automating backup jobs on VCC with powershell,I also maintained and automated linux servers patching with Ansible .
+
+Main tasks :
+Administer and maintain hosts on virtual machine manager clusters ( Azure-pack Cloud)
+Configuration Management for our servers with Ansible
+PowerShell scripting for automation and Queuing on azure-pack cloud
+Design and implement new clusters into VMM.
+Support for the network issues with the networking Team .
+Automate Veeam Cloud Connect for backup jobs with PowerShell
+
+Delcom Solution – 11/16 to 01/18 ( IT Support analyst – infrastructure and networking )
+As a system Administrator and application support, i was in charge of installing, administering, support and maintain our virtualized environments on ESXI,I was also involved in the Networking side of the infrastructure, by implementing layer 2 and layer 3 configurations on our Cisco network components as well as monitoring infrastructure with PRTG, I had also a client facing support task for escalated cases as well as ensuring and validate the state of the Backups and Patching Process, i also maintained the company websites on WHM instances .
+
+Main tasks :
+Administer and maintain infrastructure on vmware virtualized environnements ( esxi – vcenter)
+Configure and document new deployments
+Monitor the infrastructure and take actions on the alerts
+Backup jobs for the infrastructure
+Administer whm instances on the cloud for the websites of the company
+MAMI Procopharm – 09/12 to 09/2015 (IT Administrator)
+As a system Administrator my main tasks were to manage production environments on windows servers, build, and patch and monitor servers, as well as supporting users and implement new roles and configurations on servers. Update and migrate hosts on the cluster. Also support internal production application and fix real time billing errors on the database with SQL queries.
+Orbit Group: – 11/2008 to 06/2011 (IT Network technician)
+As a network technician my main tasks were based on implementing configurations on the new client's routers and access points as well as troubleshooting connectivity issues for our clients
+I had also other related roles as repairing client’s computers and build new ones based on the client’s orders.
+
+EXPERIENCE
+SNAPSHOT
+SPECIALIZATION
+DevOps
+Infrastructure Operations
+ENVIRONMENTS
+Linux, Unix
+Windows VMM .
+VMWare ESX, vCenter
+TOOLS
+Kubernetes and Swarm .
+Prometheus and Grafana.
+OpenShift Origin .
+Containers ( Docker, LXC )
+Ansible, Puppet, Chef
+Jenkins .AzureDevOps
+ELK Stack
+SonarQube, SAST, DAST
+SCM : Github, Gitlab, Bitbucket
+Nginx, Apache,Tomcat
+Azure DevOps,mvn,Nexus
+Bash, Python scripting .
+CLOUD
+AWS
+Azure Pack ( Private Cloud )
+OnAPP
+CERTIFICATIONS
+
+CKA Kubernetes Certified Administrator
+Cisco CCNA V3 (200-125)
+Microsoft MCSA
+
+Contact this candidate

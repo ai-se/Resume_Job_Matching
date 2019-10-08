@@ -1,0 +1,61 @@
+
+We are looking for a highly motivated and self-driven individual to help build out our platform. We are seeking a .NET developer responsible for building .NET applications using C#, VB Script, Java Script, T-SQL). Your primary responsibility will be to design and develop these layers of our applications, and to coordinate with the rest of the team working on different layers of the infrastructure. A commitment to collaborative problem solving, sophisticated design, and quality product is essential.
+Responsibilities
+Translate application storyboards and use cases into functional applications
+Design, build, and maintain efficient, reusable, and reliable code
+Ensure the best possible performance, quality, and responsiveness of applications
+Assist the Development Manager with Team building activities – Recruitment, Coaching etc.
+Work closely with QA & Product Management throughout development life cycle
+Proficient in multiple programming languages, frameworks, domains, and tools such as: JavaScript, Spring Framework, Java, JSON, REST, API, HTML5/CSS3/XML, .NET Framework, MS SQL, T-SQL, noSQL knowledge a plus
+Mentor developers and junior developers
+Emerging mode software developer will be responsible for working in the full technology stack
+Works across systems development technologies
+Works within project team on iterative development that delivers a high-quality product
+Help us continuously improve our Products and the way we work
+Communications with customers, developers and product management
+Requirements
+BS or higher degree in Computer Science or related technical field, or equivalent practical experience.
+Familiarity with running web services at scale.
+Expertise in designing, analyzing and troubleshooting large-scale distributed systems.
+Systematic problem-solving approach coupled with a strong sense of ownership and drive.
+Minimum of 8 years programming experience.
+Minimum 2 years of Cloud applications development
+Applicants must be authorized to work in the U.S. We will not sponsor H1B Visa applicants.
+Primary Technologies
+Full Stack (.NET)
+NET 3.5 - .NET 4.5>
+C# .NET,
+ASP.Net MVC
+WCF, ASP.NET
+Javascript
+MS-SQL T-SQL
+Additional Technologies
+ASP.NET Web Forms and User Controls
+SQL Server Filestream
+SQL Server Stored Procs (ours are rather complex and contain some business logic)
+Jquery
+Telerik controls
+Entity Framework 6
+TFVC source control in Visual Studio 2017
+AWS RDS (MS SQL and PostgreSQL)
+Skills
+8+ years demonstrated strong knowledge and proficiency in the following
+Microsoft .NET Framework and Core
+Good knowledge of SQL and relational database programming
+Good Understanding of different PaaS Cloud services
+Deep knowledge in integrating systems running in different environments
+Expert knowledge of modern protocols and APIs (/REST/JSON/microservices)
+Strong verbal and written skills
+Strong computer science fundamentals
+Expert knowledge of database and streaming systems a plus (Hadoop/Spark/Flink/Kafka/Redis/Cassandra)
+Expert knowledge of cloud infrastructure services (AWS)
+Knowledge of application configuration management
+Location
+We are looking for the best of the best as this position will be reporting directly to the executive technology management team. The position will require daily interfacing with senior management and assisting in the daily activities of the development group.
+The ideal candidate will be no more than a 45 min commute from our offices in Westlake Village, CA. The position will require 3-4 days per week in the office, with work from home the remainder of the week.
+Compensation
+Salary will be commensurate with experience. $150k & up.
+
+
+Go to apply 
+

@@ -1,0 +1,10 @@
+
+Job Title Sr.
+Software Engineer (Java8Sping BootNoSQL) Location Austin, TX Duration 12 months extendable contract Job Description We are looking for highly skilled Java backend engineers with professional experience in Spring framework, Spring boot and MongoDB.
+The person should be hands-on developer with very good fundamentals in Java and computer science, meeting the below requirements Strong Core Java and Fundamentals Complete understanding of Java collections framework including their performance implications of various data structures and algorithms Through understanding of Java threadingconcurrency this not only includes synchronized blocks, wait notify, but also executors, ThreadPools, ForkJoin, blocking queues, semaphores, countdown latch etc..
+Good knowledge of working with NoSQL DB's, preferably MongoDB for variety of use cases such as caching, config and transactional data.
+Ability to write functional style code using Java 8 constructs (CompletableFutures, Optional, Streams...)
+
+
+Go to apply 
+

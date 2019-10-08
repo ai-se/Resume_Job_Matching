@@ -1,0 +1,211 @@
+
+JEE/Core/Spring Java Developer
+
+Terry Dixon
+*** ****** ****
+Brandon, FL 33510
+Home: 813-***-****
+Email: adai77@r.postjobfree.com
+
+INTRODUCTION
+Terry is an accomplished career IT professional, with twelve years of accumulated experience developing Java J2EE Architecture User Interface and core Java Applications. Terry is an Oracle Certified Professional Java Programmer and has demonstrated proficiency in Object Oriented design and development concepts, while making significant contributions toward the successful development of large-scale business software solutions.
+
+JAVA Development Responsibilities:
+
+Perform Analysis, Design, Development, Testing and Deployment of J2EE and Core Java User interface back end software applications.
+Interface and coordinate with Managerial Staff and End Users
+Write Technical Requirements and Design Documentation, User Documentation and Online Help
+Perform Data Modeling, Normalization of Database schema
+Experiences include: Java 8, Spring3, Spring Batch/Integration, Jboss4, Hibernate, Spring MVC, Flex, Junit, WebSphere, WebLogic, Tomcat, Java 8, JEE5, EJB3, JNDI, J2EE, Java Server Pages (JSP), Struts, Java Server Faces (JSF), XML, XSLT, JDBC, JDOM, Servlets, JSR 168 Portlets, JavaBeans, JSTL, Custom Tags, Multithread/Concurrent, JavaScript, Ajax, Sybase, Transact SQL, Oracle, PL/SQL, CVS, Subversion, Code Collaborator, WinSCP, Putty, Red Hat Linux, Eclipse, STS, IBM RAD, RUP/UML, Agile, C++, WebSphere Application Server, JFC (Swing), JMS, UML, NetBean, GlassFish, SQL Server, MySQL, MQ Series.
+Demonstrated a proficiency in Object Orientation development through utilization of Inheritance, Encapsulation, and Polymorphism.
+
+Work Experiences:
+
+AssistRx July-2018 -to- September-2018
+Java Developer
+
+Java Developer [60 day contract] at a provider of healthcare software solutions. Assigned to an agile/scrum project team responsible for maintaining and enhancing pharmaceutical management and adherence software, utilizing Java 8, Oracle 11g PL/SQL, Spring Framework 4 Restful Web Services, SoapUI, JAXB, XML, JSON, JavaScript, JQuery, Git and Jira.
+
+WorkNet Pinellas Jan-2018 -to- June-2018
+IT Instructor Salaried Position
+
+IT Instructor of Oracle Java SE8 OCA, and Microsoft MTA Certification courses. Responsible for creating course material and providing technical training of core IT concepts covering Object Oriented Programming, Encapsulation, Inheritance, Polymorphism, Arrays, Collections, Generics, Lambda, SQL, DDL, DML, Normalization, and Database Security.
+
+Brandon Lawn Care LLC Jul-2017 -to- Jan-2018
+Java/JEE/Spring Developer Consultant
+
+Performed the designing, development, unit testing, and system testing of a web based Landscape Maintenance Management user interface. UI features include Bid & Quote Cost Analysis, Service Area Scheduling, Service Delivery Tracking, and field crew Mobile Application interface.
+Design tasks: Unified Modeling Language [UML] use case, sequence, and class diagrams.
+Development tasks: Core Java, thread management, Java xml binding [JAXB]. Spring/JEE tasks include: Model View Controller [MVC], JDBC, Hibernate, JPA, Transaction Management, and RestFul Web Services APIs. Dependency injection bean management, aspect oriented programming [AOP] advisors & pointcuts. Java Server Pages [JSP], JavaScript, Html, Cascade Style Sheets [CSS]. Mobile application includes Java Micro Edition [JME] platform.
+Relational Database: Data modeling including, Table Normalization, Data Definition Language [DDL] primary & foreign key, clustered & unique Indexes.
+
+Acct Ins. & Billing – Brandon, Florida Dec-2016-to-Dec-2016
+Web UI Designer/Developer (Short-Term Temporary)
+
+Provided Web Application Design, Development, QA Testing Scripts, and Deployment of a Medical Office advertisement website software. Utilized Spring MVC, Eclipse STS, JavaScript, CSS, JSP, Servlets, HTTPS/SSL, File Encryption, MySQL, and Tomcat Web Server.
+
+Collabera – Tampa, Florida Feb-2016-to-Aug-2016
+Sr. Java Developer Verizon (Contract)
+
+Maintaining telecommunication related troubleshooting documentation library database User Interface software utilizing Java 8, Oracle 11g, Restful Webservices, XML, JSON, Spring Framework, Sencha Ext JS Command, AccuRev, Eclipse, Soap UI, Maven, and Ant.
+
+Open Systems Technologies – Tampa, Florida Sep-2014-to-Dec-2015
+Sr. Java Developer Citigroup (Contract)
+
+Developed and maintained Investment Banking software utilizing Java, Sybase ASE, Oracle, Spring, Flex, and Hibernate Frameworks, Eclipse/STS, Maven, Solaris Linux Shell Script, performed Junit and systems level testing, also prepared technical documentation and User’s Guide.
+
+Bartech Group, Inc. –Temple Terrace, Florida Oct-2013-to-Jun-2014
+Sr. Java Developer Verizon (Contract)
+Performed Java Developer contract assignment, provided JEE and Multithread Core Java related support. Utilized Core/Multithread Java, JSP, JavaScript, Struts, DB2/PL1 SQL stored procedures, Red Hat Linux, IBM RAD, Eclipse, IBM Websphere in support of Development, Unit & System Testing, Deployment and Maintenance of the Telecommunications Archive Billing Retrieval System’s User Interface.
+
+Rangam Consultants, Inc. – Temple Terrace, Florida May-2012-to- Mar 2013
+Java Developer Verizon (Contract)
+
+Performed Java Developer contract assignment, provided J2EE and Core Java related support on a VoIP (Voice over IP) ONT (Optical Network Terminal) Profile download application project assignment at Verizon telecommunications facility.
+Java development & related tasks: JEE, Core Java, and Stored Procedures, design reviews, performance analysis & tuning, identifying performance bottle-necks, Application Migration, Product Support, Load Balance Algorithm efficiency review & recommendations, CVS versioning, coordination of project work efforts with off-shore team members.
+
+Project development environment: UNIX/LINUX/Solaris, shell scripts, Oracle Weblogic Server, Oracle RDBMS, STREAMS Replication, SQL, Stored Procedures, JGroups, JDBC, JConsole, Spring, Hibernate, JMS, XML & XSLT, Web Services, NetScalar load balancer, Oracle Coherence distributed caching, Billing and Rating Management applications.
+
+Transaction Network Services, Inc. (TNS) – Tampa, Florida Oct-2008-toFeb-2012
+Software Engineer II Permanent Position
+
+Performed Java development work on JEE architecture platform applications for Tracking, Reporting, and troubleshooting SS7 Telecommunications CDMA/GSM Signaling Message traffic pertaining to Cell Phone Roaming Agreement Provisioning services. Also, Performed software application security audit, identified critical web application Security Risks, implemented OWASP recommended corrective measures.
+Responsibilities included: Level of Effort Planning, Drafting High Level Design Documents, Detailed Coding specifications, Coding, Code Reviews, Unit Testing, and deployment/installation release documents.
+Development Tools included: Jboss4, Tomcat5, JBoss IDE, Eclipse6, Java5, Ant1.7, JSP, Struts, Spring Framework, Hibernate, Code Collaborator, JIRA, Bugzilla, WinSCP, Putty, Oracle IDE.
+
+CoreTechs Staffing, Inc. –Tampa, Florida May-2008-to-Oct 2008
+Java Developer Verisign (Contract)
+
+Performed Java and Transact SQL development project tasks for Verisign Inc. Accomplishments include: Developing, Testing and Deploying a Batch Command Line Executable tool which automated the creation, population, and email-delivery of Excel Workbook Reports from a variety database and formatted file input data sources. Developed under Eclipse 3, core Java 6, Apache Ant 1.7, utilizing POI-HSSF, JDBC, and Stored Procedures for data loading and reporting utilizing Transact SQL under MS SQL Server. Also created Javadoc API documentation of the newly developed Java object libraries.
+
+Manning & Napier – Tampa, Florida Nov-2007-to-Mar 2008
+Java Developer Permanent Position
+
+Worked on an online Employment Benefits enrollment and administration application. Performed JEE5 Java development utilizing JSF, JSP, Struts, EJB3, JNDI, Jboss, Hibernate, Tomcat, Ant and UML. Project tasks included development of Benefits Usage Analysis Reporting and Lost Password/User ID emailing feature.
+
+Rita Technology, Inc. –Tampa, Florida Aug-2007-to-Sep-2007
+Java Developer Raymond James (Contract)
+
+Performed Java Development tasks on a short-term contract project. Responsibilities included Java Development unitizing Eclipse, Tomcat, JSP, Struts, JSR 168 Portlets, XML, XSLT and JDOM.
+
+TEK Systems, Inc. – Tampa, Florida Dec-2006-to-Jul-2007
+Java Developer JP Morgan Chase (Contract)
+
+Performed Java Development contract project for a large Financial Institution. Development tasks include performing as Web Java Developer responsible for developing Statistical Analysis Reporting and Tracking of Online Billing data via Web GUI front-end application. Java development tasks performed utilizing Java Server Pages (JSP), AJAX, JavaScript, XML, JDOM, Servlets and Hibernate, under J2EE architecture working within Eclipse/Weblogic development environment.
+
+Champs Software, Inc. – Crystal River, Florida Oct-2005-to-Sep-2006
+Powerbuilder Developer Permanent Position
+
+Powerbuilder 9.0 work on a Preventative Maintenance and Financial software application that caters to Power Plant and large Manufacturing operations. Specific responsibilities include performing design enhancements and maintenance tasks for the Champs application sub-modules as follows: Preventative Maintenance, Purchase Orders, Work Orders, Equipment Testing, Project Tracking, Maintenance Rules Tracking, and Cost Center Accumulation Cost Tracking.
+
+Innovative Systems Groups – Columbus, Ohio Sep-2004-to-Aug-2005
+Java Programmer Analyst Bank One (Contract)
+
+Performed as a Java Programmer Analyst on a Loan Application processing system. Responsibilities included design enhancements and development tasks utilizing Java 2, Java Server Pages, XML, JDBC, Servlets, JavaBeans, JSTL, Custom Tags and Struts under Websphere 5.0, also performed Powerbuilder 9.0 development, with Sybase stored procedures developed using DBArtisan. Some key accomplishments include implementing design enhancements to the Loan Approval Rescore/Repin, and Direct Mailing Promotions redemption validation modules.
+
+RCG Technology-Newark, Delaware Mar-2004-to-Aug-2004
+Powerbuilder Programmer Analyst MBNA (Contract)
+
+Performed as Powerbuilder Programmer Analyst on a project at MBNA in Newark, Delaware. Responsibilities included System Enhancements and Maintenance of a credit Card Customer Service front-end application in PowerBuilder 7.0. Primary role included performing PowerBuilder code enhancements in accordance with Design Enhancement technical Specifications. The code enhancements addressed a need to expand the Credit Card Services product base to include American Express. Also performed Analysis and code corrections on application defects, which were reported and tracked under Test Director. Performed code release “Retrofitting” as needed to synchronize the code changes to the various releases of the Credit Card Customer Services application.
+
+Household International – Tampa, Florida May-2003-to-Dec-2003
+Business Systems Consultant Permanent Position
+
+Performed as in-house Business Systems Consultant, performed Systems Design Analysis, created Use Cases, and provided Technical Specifications to the programming staff.
+
+Also designed and developed a Java 2.0 Browser-based Loan Collections GUI prototype. The GUI was developed using Java Swing (JFC). The Java Swing GUI was designed specifically to work with the MQ Series as a bridge to the IBM mainframe database.
+
+Venturi Technology Partners – Richmond, Virginia Nov-2002-to-Apr-2003
+Java Programmer Analyst Car Max (Contract)
+
+While working at Venturi Technology Partners (a Consulting Firm), Terry performed Java 2 (Swing) Analysis, Design and Deployment as part of a Retail Automotive Sales Tracking software with Sybase 11 databases. Responsibilities also included performing Design Analysis, Coding, Unit Testing, Integration Testing, Creating Stored Procedures & Triggers. Also maintained a PowerBuilder (PFC) Application.
+
+PowerComp, Inc. – Clearwater, Florida Mar-2001-to-Sep-2002
+Java Programmer Analyst Permanent Position
+
+Created a Java 2 (Swing) Framework that was designed to be used during migration projects in which PowerBuilder applications were to be converted into web-based applications. This Swing Framework was originally developed using Java Swing (JFC), and was later implemented under J2EE, Extensible Markup Language (XML), Java Server Pages (JSP), and Struts Framework.
+
+PowerBuilder Programmer Analyst
+Working through PowerComp, Inc. a Florida-based consulting firm, Terry completed a PowerBuilder Development contract at one of the Nations largest Healthcare provider. Terry performed on a team of Senior Powerbuilder Developers responsible for major re-design and system enhancements of Hemo-Dialysis and Peritoneal-Dialysis Patient Tracking software. The majority of the work on this project was performed using PowerBuilder 6.5 (PFC) with Sybase Adaptive Server Anywhere 6.0 database. Terry worked on a number of system design enhancement projects that included an Attachments Service Object which is used to attach bitmaps and documents to patient folders, a Patient Transfer Wizard which transfers patient treatment history from one clinic to another, and a ProCard Processing Override Service Object.
+
+Maxim Group, Inc. – Portland, Oregon Jun-2000-to-Feb-2001
+PowerBuilder Consultant
+
+Working through Maxim Group, Inc, a national consulting firm, Terry performed as a PowerBuilder Consultant on the following software development projects.
+
+Project #1:
+At Disney Studios in Burbank, CA, Terry worked on a large-scale PowerBuilder PFC 7.0 application that used Sybase System 11 as the relational database, the majority of the business rules and data retrieval logic was accomplished using Transact SQL – Stored Procedures. The application, InSight, is used to track the global sales of Disney’s promotional merchandise. While the entire project ran for several years, Terry was retained as a PowerBuilder consultant during the final four months of the project. Terry’s main focus was in the Design Analysis and troubleshooting areas. One of his projects was to troubleshoot cross-platform compatibility issues and increase the data retrieval performance of a Distributed PowerBuilder Reporting module. Terry was able to resolve these and other issues throughout his performance on the project.
+
+Project #2:
+Terry performed as PowerBuilder Consultant for one of Maxim Group’s Portland-based clients. His responsibilities include performing system enhancements and modifications to Powerbuilder-Sybase 11 applications, including Billing and Data Warehousing (Pipeline) applications, and a Web Report Publishing application that publishes Powerbuilder’s HTML Datawindow to the internet/intranet websites.
+
+PowerDevelopers, Inc. – Portland, Oregon Mar-99-to-Apr-2000
+PowerBuilder Programmer Analyst
+
+Georgia-Pacific West, Inc.- Toledo, Oregon
+Enhanced the Application Reporting capability by adding custom PowerBuilder reports for Paper Pulp Operations (Champs) system utilizing PowerBuilder 6.5 and SQL Server 6.0. Provided technical training on the PowerBuilder Reporting Tools. Designed and developed custom pop-up filters dialog window with user-friendly drag and drop interface which extended the standard PB Filter considerably. Also developed a budget tracking application using PowerBuilder 6.5, this budget tracking application included an interface to the Champs database which correlated Project, Work Order and Expenditure data.
+
+PowerDevelopers, Inc. – Portland, Oregon Aug-98-to-Feb-1999
+PowerBuilder Programmer Analyst
+
+City of Portland - Office of Transportation
+Performed the Y2K Compliance Migration of an Insurance Tracking Application for the PDOT Street Systems Management. This project was developed using PowerBuilder 6.5 with Sybase 11 as the Relational Database on a Windows NT 4.0 platform. Was responsible for the majority of the Programming, as well as the Data Modeling, Systems Design and Analysis. All data modeling was performed following the database normalization forms of Entity Relationship modeling (ERM), and were implemented by using Sybase’s PowerDesigner (Formerly S-Designer) which was used to create Transact-SQL Scripts and Graphic representation of the Database Tables Relationships. Also developed a conversion program with graphic interface and exception reports, which was utilized in converting the legacy flat files to Relational Database Tables. All System designs were performed in accordance with advanced Object Oriented concepts: Inheritance, Encapsulation and Polymorphism. Also responsible for preparing the Technical Documentation, User Documentation and Online Help.
+
+PowerDevelopers, Inc. – Portland, Oregon Sep-97-to-Jul-1998
+Java Programmer Analyst
+
+Performed as Programmer Analyst on a development team responsible for the development of an Asbestos Removal Tracking System (Phases 1). The development of the application was performed using Java 1.1 (AWT) as the front-end, and utilizing JDBC to access Sybase SQL Anywhere 5.0 as the back-end. Terry’s responsibilities included performing the System Design, Analysis, and Development necessary to implement Design Features, Design Revisions and Quality Assurance.
+
+Data Processing Resources. – Portland, Oregon Feb-96-to-Aug-1997
+PowerBuilder Programmer Analyst
+
+Terry was responsible for the design and development of the Personnel Records Management, Office Administration and Marketing portions of an Office Automation development project which was later migrated to PowerBuilder 5.0, and completed using the Foundation Class Library (PFC) and SQL Anywhere Client/Server 5.0. Terry’s role in this Powerbuilder project also involved performing as Lead Programmer Analyst of a three-person project development team. The team was responsible for developing an Office Automation System. The Office Automation System included five subsystems: Contracts Management, Personnel Records Management, Office Administration, Technical Management and Marketing.
+
+Windows 95/NT Environment Software:
+Java 2.0 SDK, J2EE, JSP, XML, JDBC, JFC (Swing), Java 1.1, AWT, MS SQL Server, Sybase Adaptive Server Anywhere (SQL Central) Sybase System 10 & 11, Transact –SQL, Sybase SQL Anywhere database, Structured Query Language (SQL), Open Database Connectivity (ODBC), PowerBuilder 4.0 - 8.0, PowerBuilder Foundation Class (PFC), Distributed PB (n-tier), Web-PB (thin-client), Window plug-ins, DataWindow Plug-ins, MS Frontpage, Windows NT Server 4.0, Windows 95, Windows 3.11 for Workgroups, Windows 3.0, DOS, Basic, Office 97 (MS Access, MS Word, MS Excel, MS PowerPoint, MS Project and Outlook)
+
+Mainframe Environment Software:
+
+IBM (4381, 4331, 370/135, 360), BM SYSTEM/34, Burroughs, 4800/3800, Tandem, SCOBOL, Microdata, DOS/VSE, OS/MVS, CICS, Basic Mapping Support, Pathway, Guardian, COBOL, RPG II, Assembler (BAL), UPARS, VSAM, YOURDAN, IDMS, ADSO, IDD, OLM, DMLO, TSO, ROSCOE, Innertest.
+
+Professional Certificates
+Oracle Certified Professional Java 6 Programmer [OCPJP]
+
+Certified PowerBuilder Developer Associate [CPDA]
+
+Education: Computer Science Associates Degree [equivalent]:
+Computer Career Institute
+Computer Science, Business Data Processing, Computer Programming
+
+Parsons Business College
+Business Accounting, General Accounting, Cost Accounting.
+
+George Washington University
+Course: Negotiating Strategies & Tactics
+
+Loyola College
+Course: Advanced Business Concepts & Strategies
+
+OBJECT ORIENTED TRAINING & ACHIEVEMENTS:
+
+Sun MicroSystems - JDBC Database Access
+SUN MICROSYSTEMS - Threads
+SUN MICROSYSTEMS - JavaBeans
+SUN MICROSYSTEMS - Security in Java 2
+SUN MICROSYSTEMS - Enterprise Beans
+SUN MICROSYSTEMS - Enterprise JavaBeans Query Language
+SUN MICROSYSTEMS - Java Servlet Technology
+SUN MICROSYSTEMS - Custom Tags in JSP Pages
+SUN – Java Server Pages Technology
+SUN MICROSYSTEMS - J2EE SDK Tools
+SUN MICROSYSTEMS - Java API for XML Processing Tutorial
+
+Sybase - Object Oriented Essentials
+Sybase - Object Oriented Implementation
+Sybase - Object Oriented Constructs
+Sybase - Implementing User Interfaces
+Sybase - Advance Computer Systems Analysis, Structured Methodologies
+
+IBM RATIONAL Unified Process (RUP)
+
+Contact this candidate

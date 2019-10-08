@@ -1,0 +1,31 @@
+
+MYTHEREYI DEVARAKONDA
+**** ***** ***** *****, **********, New Jersey- 08536
+adai29@r.postjobfree.com +1-513-***-**** https://www.linkedin.com/in/mythereyid/ OBJECTIVE
+Seeking internships or full-time opportunities in Software Quality Assurance starting Summer 2019. EDUCATION
+Master of Computer Science Aug 2018 – Aug 2019
+University of Cincinnati, Cincinnati, Ohio 3.52 GPA Bachelor of Technology in Computer Science and Engineering Jun 2012 - May 2016 GITAM University, Visakhapatnam, India. 3.5 GPA
+EXPERIENCE
+QA at IT Department, University of Cincinnati, USA August 2018 – May, 2019
+• Developed automation test suites using Selenium WebDriver for eCurriculum portal common to Universities and verified the same on Catalyst for various Universities.
+• Created courses and programs for curriculum in eCurriculum portal to validate that the courses and programs are displayed in Catalyst for upcoming semesters.
+• Verified import sheets that have been migrated from ePas Legacy system to the new RAP IRB system using Beyond Compare tool. Manually validated automated notification system that is setup by HURON labs for RAP IRB system.
+Software Engineer in Test at Infrrd Private Limited, Bengaluru, India June 2016 – May 2018
+• 2 years of Industry experience in SDLC and STLC (Manual, Automation and Model Based Testing) with expertise in Test Planning, Test Design, Test Execution and Defect Reporting & Tracking.
+• Key resource in gathering the requirements and analyzing VESTA and PGRX web applications.
+• Extensively worked on Mobile App testing over different OS platforms (IOS &Android) for Vesta.
+• Worked on API automation using Postman for Vesta during its UI development phase.
+• Worked on automating web application for Vesta after UI development using Selenium.
+• Worked as a Test Lead on several projects and conducted transition sessions for the Testing team at Infrrd.
+• Experience in sanity, smoke, system, functional and regression testing. Involved in other productive activities apart from my usual workload, which include calculating and submitting the project metrics etc.
+• Helped develop new strategies to improve the interaction between developer and testing teams.
+• Experience working in an Agile/Scrum development process for both the projects. ACADEMIC PROJECTS
+• Hadoop MapReduce and Big Data Analysis: Developed Mapper and Reducer scripts, Apache Spark to analyze the accident summary statistics of the vehicles that are involved in accidents using New York City traffic data.
+• Amazon Web services: Designed and developed web portal that counts the number of lines and word for a PDF document and RGB values if images are uploaded.
+TECHNICAL SKILLS AND TOOLS
+• Java, Python, HTML5, CSS3, JavaScript, Selenium Webdriver, TestNG, Junit, Jenkins, MySQL, REST Assured, SoapUI, Postman, GitHub, Jira and Microsoft Team Foundation Server. LEADERSHIP EXPERIENCE
+Placements Fellow, Make A Difference, Visakhapatnam, India April 2012 –April 2014
+• Fellow management, performance appraisal, recruitment, human resource analysis and manages deliverables.
+• Organized successful recruitment drives, training sessions and community Fund Raising activities with a team of 70 volunteers towards the education of 350 children under MAD Visakhapatnam chapter.
+
+Contact this candidate

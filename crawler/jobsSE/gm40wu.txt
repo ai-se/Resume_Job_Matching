@@ -1,0 +1,19 @@
+
+Technical Skills Windows 2016, Windows 10, Exchange 2016, SQL 2016, SCCM, VMware VSphere, ESXi 6.x, VMware Horizon View, VMWare workspace LAN, WAN, VLAN, routing, Cisco UCS, F5 Required ExperienceSkills Experienced Systems Engineer with 8-10 years of system administrationengineering experience.
+Solid hands-on experience with Windows Server 2016 operating systems and services including AD, LDAP, DNS, DHCP, SMTP, SFTP, NLB, NPS.
+Experience in Windows upgrades, deployment and support.
+Experience in virtualization operations using VMware vSphere, ESXi 6.x and VMWare Horizon View.
+Expert knowledge of Exchange 2016.
+Knowledge of Microsoft System Center Configuration Manager and automated patching procedures.
+Scripting knowledge in PowerShell or other scripting languages.
+Well rounded knowledge of networking (LAN, WAN, VLAN, routing, firewalls, etc.). Understand IT security best practices.
+Experience in F5 LTM, APM.
+Experience in disaster recovery planning, high-availability, backup, recovery and continuity solutions.
+Systems operations monitoring, alerting and remediation.
+Excellent team player proven ability to resolve problems professionally and systematically.
+Required Education Minimum Education Bachelor s degree in Computer Science, or equivalent licensing and experience.
+If interested, submit your updated resume in WORD(.doc) format with following details Full Name Current Location Expected Hourly rateSalary Work Authorization
+
+
+Go to apply 
+

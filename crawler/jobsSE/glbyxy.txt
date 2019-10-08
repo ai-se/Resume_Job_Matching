@@ -1,0 +1,51 @@
+
+Title: Sr.
+Avaya Engineer Location: Parsippany NJ Duration: 24+ Months.
+Interview: Phone and F2F Abilities/Key Competencies/Skills a.
+Good oral and written communication skills.
+b.
+Ability to work long hours under pressure during system outages and implementations.
+c.
+Task Oriented individual with willingness to tackle issues.
+d.
+Team Player.
+e.
+Takes ownership of projects and completes them on time.
+f.
+Ability to handle multi-tasking and frequently changing priorities.
+Technical Skills: a.
+Technical expertise of telecommunications systems and management of complex telecommunications environments and infrastructures.
+b.
+Demonstrated technical and executable expertise with both legacy and emergent voice technologies in Enterprise and Contact Center environments.
+c.
+Extensive experience with diverse voice and call center technologies, such as but not limited to, TDM-SIP gateways, media servers, Cisco CUCM, Avaya Red and Blue systems, and TDM PBXs, voice mail, Network Region design, Carrier circuits, video conferencing systems, conference calling applications, and ancillary support systems such as e-911 and call accounting.
+d.
+Expert knowledge of Multi-Site configuration and hybrid design of enterprise IP and TDM environments.
+e.
+Expert knowledge of WAN/LAN technologies and H323 /SIP call routing technologies and protocols, including TCP/IP, routers, Clients, servers, switches, hubs, firewalls, DNS, DHCP, QoS and sub-netting.
+f.
+Demonstrated ability to perform complex problem isolation within Enterprise Contact Center and Voice environments including UCM, UCCE, Avaya Aura platform, and various Voice Gateways.
+g.
+Demonstrated ability to perform coordination and problem isolation with carriers.
+h.
+Solid understanding and experience utilizing SIP technology and interoperability.
+i.
+Experience with installation and support of international locations a plus.
+j.
+Demonstrated technical and executable expertise with multiple voice communications platforms, Avaya, AWS, Cisco, Oracle/ Acme, Genesys, NICE, and a fundamental understanding of cloud-based communications technologies.
+k.
+Knowledge of Multi-Site configuration and hybrid architecture of enterprise agent and non-agent recording methods is preferred.
+l.
+Direct, practical experience with voice biometrics/ analytics, WFM, Clients, and Call Recording.
+As well as extensive experience with various networking and troubleshooting tools, such as Wireshark, Netscout, Solarwinds, and PCAP analysis Experience/Certificates/Education Education: Bachelor''s degree in Engineering, Computer Science, Telecommunications or similar field and/or equivalent related work experience of at least 7+ years.
+3+ years in a contact center environment is a plus.
+Training: a.
+Oracle/ Acme Certification preferred.
+b.
+CCNA Voice and CCNA Collaboration preferred.
+c.
+SIP School and Advanced VoIP certifications a plus.
+
+
+Go to apply 
+

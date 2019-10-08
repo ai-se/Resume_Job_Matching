@@ -1,0 +1,31 @@
+
+Would you like to work on one of the most disruptive products in the Business Intelligence industry? Tableau revolutionized self-service data visualization by replacing paper reports with dynamic, interactive data visualizations to help people see and understand data. AtScale organization is responsible for the technology stack builds Tableau server. Our mission is to enage with more people in an organization and colloborate around server content. We are looking for an engineer who would like to be part of that mission.
+We have a great culture with a focus on self-improvement, collaboration and trying to reach our potential as a high performing team. We have difficult problems to solve in automation, performance, Dev Ops, reliability, tooling at scale for hosted clound product. This is a challenging role that will have a big impact on Tableau s success.
+What you ll be doing
+Tableau is transforming into a SaaS company. This Senior Software Engineer will be focused on building infrastructure to help us move faster. They will be challenged to leverage their creativity to build smart tools for both on-prem and cloud hosted product that improve developer productivity. Tools will be easy to discover, simple to run and reliable for high signal to noise ratio. The goal of these tools would be to improve release readiness, test identification, coverage and reducing downtime from buggy code.
+Some of the things you ll be doing include
+Create intuitive engineering experiences that enables Tableau engineers.
+Deliver engineering systems and services that are intuitive, fast, scalable, reliable, and secure.
+Design continuous integration, and continuous delivery systems and services in a hybrid cloud infrastructure leveraging on-premise and AWS.
+Creating smart tools that improve developer productivity by getting clear signal on test coverage, release readiness, and performance metrics.
+Write code in Java, Python, Java Script etc or/and integrate with open source tools and solutions.
+Design, author, and monitor performance testing systems for Server teams.
+Partner, collaborate, and problem solve with teams across the company.
+Who you are
+Experienced. You have 6+ years of software development and testing experience.
+Highly Technical. A strong technical background w/ solid understanding of modern web systems design, debugging and development tools.
+Solid understanding of any OOP language such as Java and modern scripting language such as Python
+Strong experience in designing and monitoring performance infrastructure in both production systems and in various pre-production environments.
+Experience working in public cloud platforms such as AWS, GCP etc and packaging solutions in Dockers/Containers/Kubernetes environment.
+Experience developing tools and solutions around Git, Perforce, TeamCity, Artifactory, Dockers, Containers, or similar CI/CD environment is a huge plus.
+Strong knowledge of development and test tools in particular Java tools, junit, Selenium and TestNG. Experience with developing test infrastructure in AWS would be a plus.
+Experience working in an environment that seeks continuous improvement through a root cause analysis and implementing remediation actions.
+Big Thinker.You can see the big picture, think at scale, and are willing to make bold choices. You think big and fail fast.
+You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world!
+#LI-NF1
+Tableau Software is an Equal Opportunity Employer.
+Tableau Software is a company on a mission. We help people see and understand their data. After a highly successful IPO in 2013, Tableau has become a market-defining company in the business intelligence industry. Our culture is casual and high-energy. We are passionate about our product and our mission and we are loyal to each other and our company. We value work/life balance, efficiency, simplicity, freakishly friendly customer service, and making a difference in the world!
+
+
+Go to apply 
+

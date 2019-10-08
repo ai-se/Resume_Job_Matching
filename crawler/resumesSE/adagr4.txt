@@ -1,0 +1,217 @@
+
+Oleg Chystyakov
+
+Experience Summary
+Software Developer (Architect / Programmer / Analyst ) with a huge practical experience in IT including
+over 20 years of using object-oriented programming languages; Master’s Degree in MIS
+Over 20 year experience in various projects design, development and deployment ( Web Applications,
+Windows Applications and real-time console applications running in the background )
+Strong skills in .NET (including over 16 years practical experience in C# and VB programming languages
+using .NET Framework, ASP.NET); over 17 years practical experience in HTML, CSS,
+JavaScript, jQuery, Ajax, other JavaScript libraries (Bootstrap, AngularJS, ExtJS, Knockout etc.)
+Strong SQL skills using relational databases; particularly MS SQL Server and Oracle
+Over 3 year experience in Salesforce based applications development.
+Self-motivated, well organized and disciplined to achieve the highest level of success on client projects;
+have the ability to rapidly learn and apply new tools and technologies in accordance with Agile Software
+Development methodology and TDD approach
+US Citizen with DoD Secret Clearance (requested by Northrop Grumman Corp. in 2014)
+
+Professional Experience
+
+RevLocal LLC (Columbus, OH) 05/2016 – 09/2019
+Senior Salesforce & .NET Developer
+
+Projects: Numerous project related to the company’s all operations (including field operations and strategical operations).
+
+Responsibilities
+Performing analysis and designing the system requirements, business rules definitions, database objects,
+software architecture and graphical user interface; Intensive development of API components (endpoints & web hooks)
+Developing and testing source code and unit tests code; performing test-driven development
+Creating and updating the project documentation
+Performing day-to-day maintenance and deployment of all applications in production; (quick resolving of the HeplDesk tickets
+
+Environment:
+Salesforce APEX, XML, JavaScript, CSS, HTML, C#, ASP.NET, ADO.NET,
+MS SQL Server 2016 R2, MS Visio
+
+Defense Logistics Agency (Columbus, OH) 03/2014 – 01/2016
+Senior .NET Developer (contractor at Northrop Grumman Corp. / IT Strategies LLC)
+
+Projects: Numerous projects mainly related to DLA HR services (Web & Desktop Applications)
+The names and descriptions can’t be disclosed here because of security reasons.
+
+Responsibilities
+Performing analysis and designing the system requirements, business rules definitions, database objects,
+software architecture and graphical user interface mockups
+Developing and testing source code; Performing test-driven development using NUnit / MSTest frameworks
+Creating and updating the project documentation
+Improving the code and configuration files in order to insure the reliability and safety (zero vulnerability condition)
+using Fortify tool
+Performing day-to-day maintenance of all applications in production (quick resolving of the HeplDesk tickets)
+
+Environment:
+.NET Framework 4, XML, C#, Visual Basic, ASP.NET, ADO.NET, LINQ, WCF,
+HTML, CSS, JavaScript, Ajax, jQuery, MS Visual Studio 2008/2010/ 2013, MS TFS,
+MS SQL Server 2008 R2, SSRS, ORACLE 11, MS Visio
+
+Ohio Department of Transportation (Columbus, OH) 12/2013 – 02/2014
+Independent Consultant as a Software Developer & Tech Lead
+
+Project: Tag Revenue Apportionment (Web Application)
+
+Responsibilities
+Performing analysis and designing the system requirements, business rules definitions, database objects,
+software architecture and graphical user interface mockups
+Developing and testing source code; creating an application patterns and prototypes, creating the project
+documentation
+
+Environment:
+.NET Framework 4, XML, C#, ASP.NET, ADO.NET, MS SQL Server 2012, ORACLE 11
+HTML, CSS, JavaScript, Ajax, ExtJS 4.0, jQuery, MS Visual Studio 2012, MS TFS
+
+Ohio Department of Development (Columbus, OH) 10/2005 – 10/2013
+System Analyst /Architect / Software Development Specialist
+
+Project: Ohio Community and Energy Assistance Network (OCEAN)
+OCEAN is a Web Application, containing a number of projects including HEAP, PIPP, EPP, HWAP, etc. The Home Energy Assistance Program (HEAP) is designed to help eligible low-income Ohioans meet the high costs of home heating. Home Weatherization Assistance Program (HWAP) is a no-cost energy assistance program designed to increase the energy efficiency of dwellings owned or occupied by income-eligible Ohioans, reduce participants’ household energy expenditures, and improve participants’ health and safety. Percentage of Income Payment Plan Plus (PIPP Plus) is an extended payment arrangement that requires regulated gas and electric companies to accept payments based on a percentage of the household income. All the code is being written in C# and running under ASP.NET management on a servers farm.
+
+Responsibilities
+Performing analysis and designing the system requirements, business rules definitions, database objects,
+software architecture and graphical user interface mockups
+Developing and testing source code; creating an application patterns and prototypes, creating the project
+documentation, participating in code reviews; Performing the software versions deployment and on-the-fly fixing;
+Performing the ongoing maintenance (including UAT and live production versions support)
+Performing server-side programming using ASP.NET technology with C# as a code-behind language and
+ADO.NET classes with SQL; developing the ETL tools aimed to perform data import and export (from /to
+the external IT systems )
+Performing client-side programming using HTML, CSS, JavaScript, Ajax, jQuery, Telerik, Silverlight
+
+Environment:
+.NET Framework 4, XML, C#, ASP.NET, ADO.NET, LINQ, HTML, CSS, JavaScript, Ajax, jQuery, Telerik, Silverlight 4.0, MS Visual Studio 2010, MS TFS, SQL Server 2008 R2, SQL Server 2012, SQL, SSIS, SSRS, Crystal Reports
+
+Ernst & Young, LLP (Cleveland, OH) 02/2005 – 09/2005
+Senior Consultant (contractor ) / Programmer
+
+Project: Global Audit Methodology system (GAMx)
+The system implemented as a Virtual Office for over 60,000 auditors all around the world. It is based on the
+Groove’s safe data share technology. It’s a kind of highly secure corporate Intranet. The project architecture is
+composed of two major tiers – Presentation Tier and Data Tier. The Presentation Tier is implemented as an embedded
+rich client application using .NET Win Forms (View & Controller linked pairs). The Data Tier is an XML-based
+encrypted safe data-store system (GAL).
+
+Responsibilities
+Creating business objects, business rules and their relations (Data/Business Tiers) based upon ‘Use Case’ specifications
+Developing and testing embedded (through GDK API) .NET Win Forms (Presentation Tier) according to the
+‘Use Case’ and ‘Screen Description Document’
+Implementing and testing source code, updating Use Cases, SSD and Test Cases documentation, participated in
+code reviews and QA builds.
+
+Environment:
+.NET Framework, XML, C#, WCF, WCF, ADO.NET, SQL, Groove Virtual Office GDK,
+Visual Studio 2003, MS Enterprise Library 2005, MS SQL Server 2000,
+MS Source Safe 6.0, Windows XP, MS Virtual PC
+
+Sallie Mae Corporation (Indianapolis, IN) 06/2004 –01/2005
+Senior Consultant (contractor ) / Programmer
+
+Project: USA Funds Debt Manager (DM) and Result Based Prevention (RBP)
+The project architecture is composed of three major tiers – Presentation Tier, Server Tier and Data Tier.
+DM and RBP have separate code in Presentation Tier: DM is a web application using .NET Web Forms, RBP is a rich client/server application using .NET Win Forms. Both of these projects use the same common domain (business objects,
+stored procedures and database structure). All code is being written in C#.
+
+Responsibilities
+Designing and implementing dynamic rich-client screen forms (UI) communicating with the Server tier using .NET Remoting classes and multi-threading techniques.
+Constructing business entities (heavily dependent on ADO.NET DataSets), business types, business interfaces (using Reflection techniques) and business activity rules for domain part of the project.
+Developing and testing source code; creating an application patterns and prototypes, maintaining Use Cases and Test Cases documentation, participating in code reviews
+Developing and testing SQL stored procedures for Data services and Service Factory supporting data tier
+Developing classes for automatic overnight batch process executing activity and correspondence rules to create voice messages (Auto Dialer via FTP), e-mail messages and letters sending to the borrowers
+
+Environment:
+.NET Framework, ADO.NET, SQL, XML, C#, ASP.NET, JavaScript,
+Visual Studio 2003, SQL Server 2000, Windows 2000, Novell NetWare
+
+Ohio Department of Job and Family Services (Columbus, OH) 08/1999 –05/2004
+Consultant (contractor) / Programmer / System Analyst
+
+Project: Intermediate Care Facilities for the Mentally Retarded (ICF-MR) Individual Assessment Forms (IAF)
+Performing analysis and designing the system requirements, graphical user interface and database structures.
+Performing data analysis and business rules definitions.
+Developing and testing source code; creating an application prototypes and production versions.
+Performing server-side programming using ASP.NET technology with C# as a code-behind language and ADO.NET classes for dynamic Web pages and XML Web Services using SOAP for data exchange.
+Developed 3-tier ADO.NET data access using SQL stored procedures and software components written in C# and used Web Services to access a dedicated databases. The Web Services use stored procedures to retrieve data and send it to a rich client that uses all the visual features of a Windows interface.
+Installing and administrating MS Windows 2003 Enterprise Edition and IIS 6.0 with UDDI service in order to develop Service Oriented Architecture (SOA) including internal and external XML Web Services usage.
+Designing and implementing automatic data transfer module using TCP/IP and FTP, automatic massaging subsystem based on SMTP usage.
+Performing client-side programming using HTML, CSS and JavaScript.
+
+Environment:
+-Version 3 (2003): .NET Framework, C#, ASP.NET, ADO.NET, SQL, MS Visual Studio.NET 2003, HTML, JavaScript, CSS, XML, Crystal Reports, Crystal Enterprise, MS SQL Server 2000
+-Version 2 (2002): C#, ADO.NET, SQL, MS Visual Studio .NET, XML, Crystal Reports,
+MS SQL Server 2000, .NET Framework.
+-Version 1 (2001): Object Pascal (Delphi 6), embedded DBMS, Oracle 8i, PL/SQL, Quick Reports, MS Windows NT 4.0, Novell NetWare
+
+Project: Claims Imaging Storage System (CISS).
+This system reads scanned Medicaid claims as a binary images and stores them in Oracle database as BLOB for the consequent search of the particular set of claims in database by numerous keys for the viewing and printing by request. (Multi-user database application built on Client/Server technology. Database size is about 1.2Tbytes).
+Designing and implementing an automatic images recognition and transfer module using ActiveX (ImageXpress package) and Delphi 7 graphical components.
+Designing and implementing automated file downloading / uploading subsystem using FTP and TCP/IP.
+Designing and implementing an intellectual search by criteria module using dynamic SQL procedures for images retrieving by demand.
+Performed the scripting needed for data to be integrated for the new system
+Environment: Object Pascal (Delphi 7), Oracle 8i (PL/SQL), Crystal Reports
+
+Project: Drug Utilization Review (DUR) System
+This provides an automated mechanism for generating and tracking letters to be sent to pharmacies regarding a recipients usage of drugs. (Multi-user database application built on Client/Server technology)
+Designing system requirements, user interface and database structure.
+Performing data analysis
+Developing and testing source code.
+Creating online help files and teaching end-users.
+Implementing the automatic real-time statistical and analytical graphical charts.
+Designing and implementing automatic messaging subsystem using HTML, FTP and SMTP.
+Designing and implementing DataCheck application that runs in the background on a server transparent to users and performs data check, and transfer involving IBM DB2 mainframe database and Oracle DBMS on Windows 2000 Server using SQL.
+Environment: Object Pascal (Delphi 6), Oracle 8i (PL/SQL), Crystal Reports
+
+Amerisoft, Inc. (Cleveland, OH) 10/1998 – 07/1999
+Programmer/Analyst
+Responsibilities
+Development and maintenance of the integrated software complex for a bookstore computerized control system including inventory, sales, provider contacts etc.
+Developed and maintained company’s website using HTML, JavaScript, CSS and ASP.
+Installed and administrated MS Windows NT Server 4.0 and Oracle 8 for NT.
+Environment: Borland C++ Client/Server, Visual FoxPro 5; Windows 95/98/NT, Oracle 8 DBMS
+
+National Institute of Justice (US DOJ) (Washington, DC) 07/1997 - 09/1998
+Software Programmer & Webmaster/ Technical Director of the Internet Studio
+Technical Lead of the Internet Studio
+
+Responsibilities
+Development, deployment and maintenance of several Web sites for Rule of Law Online Internet Studio of the National Institute of Justice (US DOJ).
+Development, deployment and maintenance of several Web sites for UNOJUST (the United Nations Online Crime and Justice Clearinghouse) installed in US, European and African branches.
+Installed and administrated MS Windows NT Server 4.0 and Oracle 8 for NT.
+Environment: HTML, CSS, ColdFusion 3.0 (CFML), JavaScript, ASP, Visual Basic; Windows NT 4; MS Access
+
+Black Sea Shipping Company “BLASCO” (Odessa, Ukraine) 10/1987 - 06/1997
+IT Department Manager (CIO) / Senior Software Programmer-Architect
+Responsibilities
+Development of comprehensive proprietary corporate application system for 100,000-employees shipping company
+Developed requirements, integrated data from old systems to new systems.
+Designed the systems in line with the business strategy.
+Set technological vision and implemented technological infrastructure
+Developed code, tested and implemented applications; performed extensive data analysis
+Personnel administration, analysis and forecasting of labor resources and wages accounting
+Management of material and technical supply, repair of fleet, ports and company buildings
+Management applications for book keeping, accounting of the incomes and charges in a real time mode that supported the consolidated balance of 300 vessels and thousands of containers in operative tracking and movement control
+Environment: Borland C/C++, Clipper, PL/1, Assembler; IBM OS/370, MS-DOS, Windows 95/NT, NetWare; DBMS: ADABAS, MS Access, Sybase, Oracle 7.3; IBM 4381 mainframe, PDP-11M minicomputer, PC-based LANs
+
+Kiev Central IT Design Bureau (Odessa, USSR) 10/1985 - 09/1987
+Senior software engineer / Project Manager
+Responsibilities
+Development, testing and deployment of the integrated real time signals processing software for the fueling control system of the Russian space shuttle BURAN
+Development of complementary tools modeling programs that emulate fuel system's behavior and generates signals in order to test and fully debug built-in software; cross-compiler allowing programmers to use C and Assembler to develop modeling and main programs on different hardware, to produce the final binary code
+Environment: Assembler, ANSI C; Intel 8086 based PC and PDP-11 minicomputer
+
+Odessa Sea Port Computer Center (Odessa, USSR) 09/1977 - 09/1985
+Software Engineer / Senior Software Engineer
+Responsibilities
+Design, development and support for the real-time computerized system
+Computer creation of cargo documents set and transferring them over telecommunications media to destination ports and clients
+Multi-user distributed access to database (in real time round the clock)
+Environment: FORTRAN, Assembler, ANSI C; OS: RSX-11M; DBMS: ADABAS-M, Mini-computer PDP-11M
+
+Contact this candidate

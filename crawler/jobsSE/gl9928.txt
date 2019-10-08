@@ -1,0 +1,53 @@
+
+Title : QA ENGINEER III
+Location : SUNNYVALE, CA
+Duration : Long-term Contract
+Duties:
+Design and develop the automation platform for the micro-service based distributed system to build the next generation Network Edge application.
+Define, architect and develop automation tests and infrastructure to ensure engineering teams deliver at high velocity
+Work closely with different stakeholders (UI developers, backend developers product owners) to develop best practices, make architectural decisions and define platform standards to design and optimize SOA applications
+Responsible to write clean, testable, readable and maintainable Java code that performs automation efficiently.
+Responsible for troubleshooting, issue diagnosis and propose appropriate regression tests to prevent re-occurrence of issues.
+Introduce effective quality and test methodologies to ensure improvement in overall quality for team
+Mentor and lead other quality engineers in the team.
+Skills:
+BS/ MS CS (or related technical discipline) with 7+ years of software development in test experience with exposure in testing micro-service-based web applications
+5+ years of hands-on software development experience in Java, RESTful Webservices, Databases and automation exposure to BDD Frameworks like Cucumber/Karate and knowledge of coverage tools Jacoco, Sonarqube
+Strong expertise in algorithms, data structures and databases (SQL/NoSQL), along with deep working knowledge of multi-threading, design patterns and Object-Oriented Programming (OOP) concepts
+Should have good knowledge of Agile/Scrum, continuous integration and deployment with exposure to Docker, Rancher, Maven and tools (Git, Jenkins)
+Excellent problem-solving/troubleshooting skills and written and verbal communication skills.
+ALGORITHMS
+CUCUMBER
+DATA STRUCTURES
+DATABASES
+DEPLOYMENT
+DESIGN PATTERNS
+DOCKER
+ENGINEER
+FRAMEWORKS
+GIT
+INTEGRATION
+JAVA
+JENKINS
+MAVEN
+NOSQL
+OBJECT ORIENTED PROGRAMMING
+PROBLEM SOLVING
+QA
+SOFTWARE DEVELOPMENT
+SOFTWARE QUALITY ASSURANCE
+SQL
+B2B SOFTWARE
+INTEGRATOR
+MENTOR
+SOA
+STRUCTURED SOFTWARE
+UI
+Education :
+Bachelor s degree in Computer Science, Software Engineering or related field with 7+ years of professional software quality assurance experience
+
+Permanent
+
+
+Apply now
+

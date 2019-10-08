@@ -1,0 +1,21 @@
+
+Title: Performance Test Engineer Location: Birmingham, AL Duration: 1 Year Contract Interview Process: 1 WebEx-to-Hire Responsibilities: Works with technology and business teams to understand the application architecture, system interfaces, and business requirements Develops test solutions to support integration, stress, load, and performance testing needs of multiple enterprise applications Executes load tests and analyses the test results to ensure that application / system changes and enhancements meet the functional, quality, and performance requirements Works with technology teams to help identify performance bottlenecks and tracks issues identified during the testing lifecycle Provides input on enhancements to testing frameworks and best practices Requirements: At least 5 to 7 years of strong experience with LoadRunner/Performance Center for Performance testing with exposure to multiple applications and protocols involving Web-HTTP/HTML, webservices, RDP and RTE.
+Strong technical experience in programming languages like C, C# and scripting languages like Java Script, PowerShell and VB Scripting.
+Experience with creating scripts using Virtual User generator with focus on Ability to perform complex dynamic correlations.
+Ability to perform navigational validations with the use of web_reg_find / web_reg_save_param and perform conditional decisioning and error handling to minimize analysis time.
+String manipulation using native C language, inbuilt XML and JSON functions of LoadRunner.
+Ability to use header files for creating common functions.
+Experience with creating Controller Scenarios with focus on Ability to create both Goal Oriented and manual scenarios.
+Ability to configure capturing and monitoring different performance metrics.
+Good knowledge about different runtime settings and impacts associated with different levels of logging.
+Experience with Analysis with focus on Understanding the logs created during the execution process.
+Ability to review logs like IIS, IHS, sysout, system, httperror, event logs, perform metrics from both Windows and UNIX based servers.
+Creating in depth analysis reports from the test executions for the purpose of production readiness decision making.
+Preferences: Bachelor''s degree in Computer Science, Engineering or related technical field.
+Knowledge of Mobile test methodologies and frameworks Experience in SQL, C, and C++, C #or Java programming language Exposure to application architecture, design, capacity planning, and application performance best practices.
+Exposure to test process improvement and Application lifecycle management and Agile methodologies.
+Good communication skills both verbal and written.
+
+
+Go to apply 
+

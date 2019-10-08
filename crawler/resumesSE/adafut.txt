@@ -1,0 +1,35 @@
+
+VINIT PRADEEP KANVINDE
+Contact: +1-720-***-**** Email: adafut@r.postjobfree.com LinkedIn: www.linkedin.com/in/vinitkanvinde EDUCATION
+UNIVERSITY OF COLORADO, BOULDER Aug 2018 - May 2020 MS in ITP (Interdisciplinary Telecom Program)
+Network Engineering Track
+MUMBAI UNIVERSITY July 2013 – May 2017
+BE (Electronics and Telecommunications)
+TECHNICAL SKILLS
+Programming Languages: Python, Bash scripting.
+Tools: Cisco Packet Tracer, GNS3, Oracle VirtualBox, Wireshark. Networking: OSI model, TCP/IP model, IPv4, IP subnetting, IPv6, ARP, STP, DHCP, DNS, ACL, NAT, VLANs and Trunking, VTP, TCP, UDP, ICMP, HTTP, RIP, OSPF, SNMP, MAP-T. Linux System Administration: RedHat (Linux), CentOS, Bash scripting, logical volume management, puppet, rsync, scp, crontab, iptables, tcpdump, nmap, netcat.
+Python and Automation: Socket programming, Flask, Scapy, Netmiko, NAPALM, Scapy, ROBOT, Apache Kafka, Rabbitmq, Redis, Pickle.
+DevOps Tools: ANSIBLE, Jinja2
+Cloud Technologies: AWS
+Software Defined Networking (SDN) Technologies: OpenFlow WORK EXPERIENCE
+Intern: Network Engineer - CPE Development and Automation Software Engineer (Spectrum- Charter Communications) (May 2019 – Aug 2019)
+MAP-T (Mapping of Address and Port using Translation)
+• Worked on development and deployment of MAP-T technology.
+• Worked cross-functionally with other teams for troubleshooting pre-deployment MAP-T related issues: End Point Independent Mapping (Peer to peer issue)
+Software Development and Automation:
+• Developed a test framework which is more flexible and generalized to facilitate testing of MAP-T enabled Customer Edge Routers. Facilitated user friendly and flexible packet generation using YAML templates and Scapy in the background. Replicated command, control and reporting model using containers in Raspberry PI and configured Rabbitmq and Redis messaging bus for communication.
+• Automated tests creation and validation of CPEs using python scripts and ROBOT framework. PROJECTS
+Python Programming and Automation
+• Designed a Playbook for package installation, users and groups creation on multiple Linux servers and BGP configuration on routers using ANSIBLE.
+• Designed a webpage-based GUI using Flask to automate deployment of OSPF configurations using NAPALM. Added functionalities for testing and troubleshooting devices.
+• Designed a Python script to monitor the health of EC2 instances and to automate creation and termination of instances on AWS.
+Networking
+• Hands on experience with configuring Port Security, Inter-VLAN Routing, VTP, STP, RSTP, PVST, Port fast, EtherChannel, Port Mirroring (SPAN), DHCP, DNS, HSRP, Static Routing, RIP, OSPF, VRF, ACLs on Cisco devices.
+• Configured WAPs and bridging on Cisco 1800 Router. Linux System Administration
+• Designed a Virtual Company Network: Configured DHCP, DNS, HTTP servers, designed firewall rules to allow and block traffic, created puppet manifests to automate user accounts and granted access/permissions to them and set up logical volumes on production machines.
+LEADERSHIP EXPERIENCE
+Worked as the Chairman of VCET-IETE Students' Forum. (2016-2017)
+• Organized technical and non-technical events including National Level Project Showcase competitions.
+• Managed a team of 50 volunteers and guided them to organize events successfully. 2
+
+Contact this candidate

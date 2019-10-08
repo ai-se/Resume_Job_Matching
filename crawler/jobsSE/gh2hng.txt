@@ -1,0 +1,25 @@
+
+Job Title: Sr.
+Big Data Engineer Location: Raleigh, NC Duration: Long term Detailed Job Description Candidate should work on a high impact and high visibility project that enables data availability, encompasses data analytics, machine learning, and petabyte scale datasets, and provides reliable and timely access to thousands of data sources.
+Design, architect and support new and existing data and ETL pipelines and recommend improvements and modifications.
+Create optimal data pipeline architecture and systems using Apache Airflow.
+Assemble large, complex data sets that meet functional and non-functional business requirements.
+Be responsible for ingesting data into our data lake and providing frameworks and services for operating on that data including the use of Spark & Databricks.
+Analyze, debug and correct issues with data pipelines.
+Operate on or build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, Spark and Azure technologies.
+Responsibilities Hands on experience building high performance scalable enterprise analytics or data centric solutions.
+At least 5 years of experience implementing complex ETL pipelines preferably in connection with Hadoop or Spark.
+Experience working with Spark data pipeline and or streaming experience.
+You have exceptional coding and design skills in Java/Scala or C You are an expert in Python, or can demonstrate your ability to readily learn new languages and your affinity for them.
+You understand the nature of distributed systems design.
+You have hands-on experience with Azure.
+You have a BS in Computer Science / Software Engineering or equivalent experience.
+You have a strong understanding & usage of algorithms and data structures.
+You work well in a team environment, and are a self-starter.
+You have the ability to lead, or have led teams before.
+Expertise building and managing python libraries.
+Nice To Have Azure Data Lake experience Machine Learning expertise Experience with Apache Airflow Experience with C# .NET Core Experience with traditional data marts/warehouses
+
+
+Go to apply 
+

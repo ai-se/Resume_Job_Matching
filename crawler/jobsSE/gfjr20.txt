@@ -1,0 +1,63 @@
+
+The Data Privacy Engineer will work across Jamf's product portfolio, services, and infrastructure to ensure compliance with data privacy requirements. The position is responsible for providing guidance and technical expertise during the product/services planning and development process as well as analyzing existing systems and processes. In addition, the position is responsible for the development of privacy impact assessments, technical risk analyses, and coordinating internal and external audits/assessments of our privacy controls and procedures.
+
+RESPONSIBILITIES
+
+* Work across product lines and participate in discussions on the technical implementation of features impacting privacy.
+
+* Proactively encourage the development of new privacy features and tools.
+
+* Analyze existing systems and processes against privacy requirements and assist in designing changes when needed to improve compliance with regulations.
+
+* Development of privacy impact assessments, technical risk analyses, and facilitating clarifications to the engineering aspects of regulations.
+
+* Guide engineering teams during product development to ensure that their data collection and usage practices are transparent, protect user privacy, and mitigate risk.
+
+* Contribute to product/business strategy and initiatives to address and mitigate privacy risks.
+
+* Respond to privacy incidents, if they occur, including collecting information on scope and root cause as well as managing remediation.
+
+* Track product issues impacting privacy and ensure adequate remediation.
+
+* Identify areas of improvement in local practices relative to managing data privacy.
+
+* Other duties and special projects as assigned.
+
+* Performs all job responsibilities in alignment with the core values, mission and purpose of the organization
+
+* Adheres to the highest moral, ethical and legal standards to deliver an environment that promotes respect, innovation and creativity
+
+* Supports and promotes a positive, inclusive workplace one in which the talents and strengths of our increasingly diverse workforce are welcomed, further developed and manifested in our work
+
+* 4 year / Bachelor's Degree (Required)
+
+* Knowledge of software engineering fundamentals and understanding of testing, coding, and debugging procedures in continuous integration development AND/OR knowledge of relevant data protection, privacy or technology industry standards/regulations (Required)
+
+* Ability and willingness to learn more about data protection and deepen knowledge (e.g. by taking certification exams) and be the technical expert (Required)
+
+* Knowledge of software engineering fundamentals and understanding of testing, coding, and debugging procedures in continuous integration development AND/OR knowledge of relevant data protection, privacy or technology industry standards/regulations (Required)
+
+* Ability and willingness to learn more about data protection and deepen knowledge (e.g. by taking certification exams) and be the technical expert (Required)
+
+* Understanding of technical privacy issues (cookie management, encryption), and experience with the software development lifecycle
+
+* Preferred Certifications/Licensures:
+
+* CIPT (Certified Information Privacy Technologist)
+
+* CIPM (Certified Information Privacy Manager)
+
+* CIPP (Certified Information Privacy Professional)
+
+* General knowledge and experience with Jamf software, Apple devices, or device management
+
+* Strong knowledge of risk identification and management
+
+* Proven record of defining and aligning efforts toward business goals
+
+* Ability to manage multiple projects simultaneously and adapt priorities quickly and effectively
+SDL2017
+
+
+Go to apply 
+
