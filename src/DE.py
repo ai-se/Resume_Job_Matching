@@ -67,101 +67,86 @@ class Optimizee(Model):
         self.resumeids = {"photographer":44,"Office Manager":103,"HR":3,"ASP.NET Developer":48,"Sales/Consultant":605,"Administrative Assistant":504,"Graphic Designer":1168,"Software Engineer":881,"User Interface/ Web Designer":41, "Lawyer":392}
 
     def getobj(self):
+        if self.obj==[]:
 
-        result_job = []
-        result_resume = []
-        from mpi4py import MPI
-        comm = MPI.COMM_WORLD
-        rank = comm.Get_rank()
-        proc_num = 10
+            result_job = []
+            result_resume = []
 
-        # for seed in range(10):
-        self.model.lda(seed=rank, num_topics = int(self.dec[0]), alpha=self.dec[1], eta=self.dec[2])
-        r_job = 0
-        r_resume = 0
-        for key in self.jobids:
-            jobid = self.jobids[key]
-            resume_yes = self.resumeids[key]
-            for r in self.resumeids:
-                if r==key:
-                    continue
-                resume_no = self.resumeids[r]
-                diff = self.model.cos_dist(jobid+self.model.num_resume,resume_yes) - self.model.cos_dist(jobid+self.model.num_resume,resume_no)
-                if diff > self.margin:
-                    r_job+=1
-                elif diff < -self.margin:
-                    r_job+=-1
-        for key in self.resumeids:
-            resumeid = self.resumeids[key]
-            job_yes = self.jobids[key]
-            for r in self.jobids:
-                if r==key:
-                    continue
-                job_no = self.jobids[r]
-                diff = self.model.cos_dist(resumeid,job_yes+self.model.num_resume) - self.model.cos_dist(resumeid,job_no+self.model.num_resume)
-                if diff > self.margin:
-                    r_resume+=1
-                elif diff < -self.margin:
-                    r_resume+=-1
-
-        if rank==0:
-            for i in range(proc_num - 1):
-                (r_job,r_resume) = comm.recv(source=i + 1)
+            for seed in range(10):
+                self.model.lda(seed=seed, num_topics = int(self.dec[0]), alpha=self.dec[1], eta=self.dec[2])
+                r_job = 0
+                r_resume = 0
+                for key in self.jobids:
+                    jobid = self.jobids[key]
+                    resume_yes = self.resumeids[key]
+                    for r in self.resumeids:
+                        if r==key:
+                            continue
+                        resume_no = self.resumeids[r]
+                        diff = self.model.cos_dist(jobid+self.model.num_resume,resume_yes) - self.model.cos_dist(jobid+self.model.num_resume,resume_no)
+                        if diff > self.margin:
+                            r_job+=1
+                        elif diff < -self.margin:
+                            r_job+=-1
+                for key in self.resumeids:
+                    resumeid = self.resumeids[key]
+                    job_yes = self.jobids[key]
+                    for r in self.jobids:
+                        if r==key:
+                            continue
+                        job_no = self.jobids[r]
+                        diff = self.model.cos_dist(resumeid,job_yes+self.model.num_resume) - self.model.cos_dist(resumeid,job_no+self.model.num_resume)
+                        if diff > self.margin:
+                            r_resume+=1
+                        elif diff < -self.margin:
+                            r_resume+=-1
                 result_job.append(r_job)
                 result_resume.append(r_resume)
-            set_trace()
-            return [np.median(result_job), np.median(result_resume)]
-        else:
-            comm.send((r_job,r_resume), dest=0)
 
+            self.obj = [np.median(result_job), np.median(result_resume)]
+        return self.obj
+
+def mutate(candidates,f,cr,i):
+    tmp=range(len(candidates))
+    tmp.remove(i)
+    while True:
+        abc=np.random.choice(tmp,3)
+        a3=[candidates[tt] for tt in abc]
+        xold=candidates[i]
+        r=randint(0,xold.decnum-1)
+        xnew=Optimizee()
+        xnew.any()
+        for j in xrange(xold.decnum):
+            if random()<cr or j==r:
+                xnew.dec[j]=a3[0].dec[j]+f*(a3[1].dec[j]-a3[2].dec[j])
+            else:
+                xnew.dec[j]=xold.dec[j]
+        if xnew.check(): break
+    if xnew.eval()<xold.eval():
+        return xnew
+    else:
+        return xold
 
 
 "DE, maximization"
-def differential_evolution(**kwargs):
+def differential_evolution():
 
-    def mutate(candidates,f,cr,xbest):
-        for i in xrange(len(candidates)):
-            tmp=range(len(candidates))
-            tmp.remove(i)
-            while True:
-                abc=np.random.choice(tmp,3)
-                a3=[candidates[tt] for tt in abc]
-                xold=candidates[i]
-                r=randint(0,xold.decnum-1)
-                xnew=Optimizee(**kwargs)
-                xnew.any()
-                for j in xrange(xold.decnum):
-                    if random()<cr or j==r:
-                        xnew.dec[j]=a3[0].dec[j]+f*(a3[1].dec[j]-a3[2].dec[j])
-                    else:
-                        xnew.dec[j]=xold.dec[j]
-                if xnew.check(): break
-            if xnew.eval()>xbest.eval():
-                xbest.copy(xnew)
-                print("!",end="")
-            elif xnew.eval()>xold.eval():
-                print("+",end="")
-            else:
-                xnew=xold
-                print(".",end="")
-            yield xnew
+    import multiprocessing as mp
+    # nb = mp.cpu_count()
+    nb = 8
+    pool = mp.Pool(nb)
 
-
-    nb=10
-    maxtries=10
+    maxtries=12
     f=0.75
     cr=0.3
-    xbest=Optimizee(**kwargs)
-    candidates=[xbest]
-    for i in range(1,nb):
-        x=Optimizee(**kwargs)
-        candidates.append(x)
-        if x.eval()>xbest.eval():
-            xbest.copy(x)
+    candidates=[Optimizee() for i in range(nb)]
     for tries in range(maxtries):
-        print(", Retries: %2d, : Best solution: %s, " %(tries,xbest.dec),end="")
-        candidates=[xnew for xnew in mutate(candidates,f,cr,xbest)]
-        print("")
+        print(", Retries: %2d, " %tries)
+        next_gen=[pool.apply(mutate, args=(candidates,f,cr,i)) for i in range(nb)]
+        candidates = next_gen
+    evals = [x.eval() for x in candidates]
+    xbest = candidates[np.argmax(evals)]
+    pool.close()
     print("Best solution: %s, " %xbest.dec,"obj: %s, " %xbest.getobj(),
           "evals: %s * %s" %(nb,maxtries))
     return xbest.dec,xbest.obj
