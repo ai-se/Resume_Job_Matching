@@ -1,0 +1,104 @@
+
+Jagadish Chandika
+
+#*,** ******,
+*rd A Cross,
+Marathahahlli, Bengaluru,
+Karnataka -560037.
+Email: adai6f@r.postjobfree.com
+Mobile: +919*********
+Objective
+To serve the organization to the best of my capabilities, thereby being an Epitome of an invincible professional, irrespective of the scope of my position. Professional Summary
+● BTech in Electronics and Communication from DRK college of engineering and Technology
+● Over 8 years of experience in Telecom sector (Optical Transmission – SDH, DWDM & OTN) Equipment’s handled:
+Alcatel 1350 OMS, 1353NM, 1354RM, 1678 MCC, 1670 DCC, 1830 PSS, 1626 LM, 1620LM, PFE.
+CIENA 6500, CPL, CD-5430, OME-9500 Series,TN1C, TN1X, TN4XE, TN16XE & OME-61X0
+Keymile (ABB) XMC2X series.
+Marconi Equipment’s: Add/Drop Multiplexers, STM-1 CPE, OMS-1634, OMS-1664. OMS-1684.
+Mitsubishi (Melco) SLTE.
+Trainings :
+Had undergone basics of Linux and Shell Scripting training and Certified from current organization Centurylink Technologies.
+Had Carrier Ethernet training from Ciena and certified from the same. Experience Details :
+SASKEN Technologies : (May 2018 - Present)
+Designation: LEAD Technical Engineer
+Function: GLOBAL PRODUCT SUPPORT (GPS):
+Working with GPS team to provide TAC support to our European Client KAPSCH CARRIER COM and its internal customers.
+Handling KAPSCH customers to support their GSMR based Railway systems.
+End to End responsibility for the GSMR networks (14 customers of Europe and UK) of Layer 1 Transmission networks (SDH & DWDM).
+Involved in Network Deployments’ with closely working with end customers.
+Day to Day activities are like, Integration, commissioning and Trouble ticket Handling of various customer networks.
+Centurylink Technologies : (AUG 2016 – May 2018)
+Designation: Network Engineer.
+Function: Circuit Design and Planning Team (CDPT) :
+Working with CDPT team for design and Planning of CenturyLink network and CenturyLink customers.
+Receive the orders from ONSHORE (US) planning engineers and design the circuit based on the bandwidth requirements and update in the database the TIRKS tool.
+Planning the circuits of various bandwidths like T1, OC3, OC12,OC48,OC192,10Gig, 100G, OTU2, OTU4 for both the network and for the customers on technologies like SONET, DWDM, OTN and Ethernet.
+Providing various special type of circuits like EVC, EVPL, ETH, EWX, EVPL, ENNI … for customers and other Service Providers in USA.
+Working on bulk orders which include node insertions, node disconnections, Ring migration…..
+Coordinate with Provisioning team (NIMS and ASP teams) for getting the circuits live into network.
+Coordinate with the field engineers for any mismatch in the design. Tata Communications Limited (Nov 2014 – July-2016) Designation: Customer Service Executive.
+Function: Submarine Cable Operations.
+Working with TCL to maintain the SMW4 consortium Submarine Cable System as MNOC Engineer.
+Provisioning and Fault management of various bearers ranging from STM-1 till 100Gbps.
+Monitoring and maintenance of SMW4 submarine cable system with SDH, DWDM and OTN equipment.
+Actively participating to resolve the Submarine failures like Repeater failures, Shunt Faults, Submarine cable cuts and so on.
+Working on 1353 NM and 1354 RM servers and monitoring its performance on daily basis.
+Closely following with suppliers like Alcatel, Ciena, Mitsubishi for any major incidents in the network and resolve the issues at the earliest.
+Playing a pivotal role as ‘NOC Engineer’ in GNOC (24x7 operations) on Submarine Cable/ Sub-sea projects which deals with SDH and DWDM technology.
+Network monitoring of SMW4, IMEWE, SMW3, and Submarine Optical Fibers.
+To coordinate with cable station engineers on circuit orders and subsequent installation and testing.
+To coordinate on Installation & Planned Event activities carried out for preventive or corrective maintenance of the network.
+Submarine Network Provisioning, Fault Management & Alarm Monitoring of DWDM & SDH links of optical network from NMS using different vender equipment’s (Alcatel, Melco and Ciena equipment’s etc.)
+Involved in the Restoration of the Traffic/Services during major Network failures & ensuring continuity of services.
+Alcatel Lucent Managed Solutions India Pvt Ltd. Mumbai. ( April 2013 – Nov 2014) Designation: Provisioning and Fault Management
+Function: Wire-line Core Operations
+● Being a part of network transition (from RCOM to ALUMS), working on ALUMS payroll to manage RCOM wireline network.
+● Working in ENOC for Operation & Maintenance of Wire Line network – Transmission, SDH, DWDM and DATA networks from E1 to STM-64, availability and performance, Network troubleshooting with National and International customers & Service Providers.
+● Responsible for restoration of normal service operation as quickly as possible and thereby minimize the adverse impact on business operations, thus ensuring that the best possible levels of service quality and availability are maintained.
+● Ensure that standardized methods and procedures are used for efficient and prompt response, analysis, documentation, on-going management and reporting of incidents.
+● Normal service operation implies services operating as per the committed SLAs.
+● Fundamental task required in the testing and analysis of network elements consists of Nortel (STM-1 to HDX), Marconi, Fibcom, CISCO installed all Over nationally as well internationally.
+● Developing SAP (Service Action plans) and SIP (Systamatic Improvement Plans) to avoid repetitive faults to ensure service availability.
+● Responsible for sharing timely updates with customers via call or emails (Act as SPOC).
+● Handling second level escalations from global and national carriers such as Verizon, T-systems, FLAG, AT&T, C&W, BT and domestic suppliers in prolonged outages to maintain the SLA and keep on updating internal higher authorities on the problem.
+● Automate network change and configuration management across Reliance Network.
+● Finding root cause analysis of potential & traffic outage related problems & Provide RFO.
+● Align incident management activities and priorities with those of the business.
+● Re-routing/re-provisioning of the transmission path in case of prolonged/repeated outages.
+● Initial diagnosis of L3VPN (Layer-3 Virtual Private Network) and L2VLL (Layer-2 Virtual Leased Line)
+Reliance Communications Ltd. (Sep 2011 – April 2013) Designation: Provisioning and Fault Management
+Function: Wire-line Core Operations
+Job Responsibilities:
+Working with ENOC in Fault management dept. to give 99.9% resolution to minimize the fault rate and to provide fault free service to Global customers for links of bandwidth ranging from 2Mb (E1) to 10 Gb (STM-64).
+Handling Clarity OSS to create/update fault tickets.
+Working on Nortel, Marconi and Fibcom equipments for provisioning and maintenance of NLD network of RCOM.
+Resolve service impacting network problems of NLD/ILD and IPLC circuits (approx. 20 faults on daily basis) on proactive or reactive basis as SME (Subject Matter Expert in Transmission domain).
+Troubleshooting slow browsing, latency issues, CRC errors, link down and various issues for internet leased line, broadband, International PRI customers at Reliance Network Operation Centre.
+To co-ordinate with field engineers on circuit orders and subsequent installation and testing.
+Re-routing/re-provisioning of the transmission path in case of prolonged/repeated outages.
+Initial diagnosis of L3VPN (Layer-3 Virtual Private Network) and L2VLL (Layer-2 Virtual Leased Line) Circuits and follow up with the Data teams in case of any network or configuration related issues. Curriculum Details
+EXAMINATION INSTITUTE UNIVERSITY YEAR PERCENTAGE
+B.E(E & TC) DRKCET,
+Hyderabad
+JNTUH 2011 69.7
+STD XII Gautami Jr College Board of
+Intermediate, AP.
+2007 86
+STD X MPL High school Board of Secondary
+school, AP.
+2005 62.3
+Personal skill set
+Good team player, quick learner, self-confident, committed & hard working. Personal Details:
+Name : Chandika. Jagadish
+Father’s Name : CH. Venkata Ramana
+Mother’s Name : CH. Lakshmi Kalyani
+Sex : Male
+Marital Status : Married
+Nationality : INDIAN
+Languages known : English, Hindi, Telugu
+PAN Number : AOWPC1306
+Passport No : J9829123
+I hereby declare that the information furnished above is correct and true to the best of my knowledge.
+(Jagadish)
+
+Contact this candidate

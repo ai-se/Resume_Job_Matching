@@ -1,3 +1,4 @@
+Job Title = Senior Software Engineer
 
 Description:
 Product Insight is a native AWS tool used internally for capturing customer usage and integrating that with internal information related to customers for providing insight and intelligence to the customer usage patterns. This role will be responsible for delivery of components as defined in the architecture for Product Insight.

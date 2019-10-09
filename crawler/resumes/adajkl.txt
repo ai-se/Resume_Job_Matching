@@ -1,0 +1,55 @@
+
+Senior Software Engineer, MOUNT SINAI MEDICAL SYSTEMS (NY) 01/99 – 09/19
+Steering full project life cycle:
+Defining user requirements, preparing programs, and specifications
+Designed, coded, and tested various online and batch COBOL/CICS using VSAM files for z/OS the IBM mainframe platform.
+Coding and full multi-testing including batch, system, user acceptance, integration and parallel
+Ensuring post implementation day-to-day 24x7 on-call production support for problem resolutions
+Establishing metrics, reconciling charges, and recovering potentially lost money
+Working closely with vendors, hospital department managers, and finance/patient billing offices
+Training team members on HL7 (Health Level 7) interfaces (real-time and batch)
+
+Senior Systems Development Consultant, CITIBANK (NY) 03/98 - 12/98
+Converted Citi’s record system, American Depository Receipts System, from IDMS to DB2
+Created process to transfer files from the DTC to Citibank using NDM and CCF
+Designed, coded, and tested various online and batch COBOL2/CICS using DB2 tables
+Created from scratch new DB2 Database with 42 tables including logical & physical designs
+Modified vendor generated SQL statements to optimize processing
+Modified IBM MQ Series for a new DB2 Database environment.
+Coded paging programs for production support and batch/DB2 programs for data conversion
+Created JCL’s for load database, image copy, backup, table data aging, and report compares
+Developed package migrations for production and scheduled QA/production batch jobs
+
+Senior Technology Compliance Consultant, MERRILL LYNCH (NY) 02/97 - 03/98
+Designed and wrote batch/online programs for the Y2K renovation process
+Developed Year 2000 Online Component Collection System (CCS) to help application teams, renovators, and migrators facilitate element collection (e.g. programs, copybooks, jcl, procs)
+Systemized and simplified element upload/download to the desired renovation factory
+Presented and led user meetings to determine specifications for system modifications
+Utilized Panvalet/Endevor libraries, and MS Revolve/AMS renovation tools
+Documented, debugged and made manual modifications in renovated sources and JCL
+Moved all pre and post sources from mainframe to the network drive and vice versa, using FTP
+
+Technology Programming Consultant, NATIONAL STARCH (NJ) 11/95 - 02/97
+Developed an online Freight System to track invoice delivery, receipt, and payment
+Coded COBOL2/CICS using SQL to access DB2 database under OS/MVS/XA operating systems
+Produced reports in collaboration with both application/domain managers and clients/users
+Coded and tested to preform account certificate maintenance functions
+Created simple queries and complex views joining tables and set up JCL Desks for test cycles
+Analyzed specifications with users, tested outputs, applied modifications and documented all jobs
+
+Technology Conversion Consultant, CHUBB & SONS (NJ) 08/94 - 10/95
+Collaborated with a team of consultants who performed a Year-2000 conversion on 7 insurance applications comprising 1800 programs written in VS Cobol, Cobol-2, Telon, IMS (DB/DC) & DB2
+Compiled, linked, and bound all modules into pre- and post-conversion libraries
+Automated conversion performance and manually inspected post-conversions to ensure quality
+Modified code appropriately and performed batch and online "playback" testing and Comparex file compares to ensure the pre- and post-conversion software performed identically
+Developed a Litigation Management Desktop System (LMD) to generate reports for Counsel Staff
+Designed logical flow of input pipes to pass parameters to RSP driver programs and output pipes to contain data rows from the DB2 database
+Coded & tested Remote Store Procedure to satisfy Visual Basic requests for the DB2 database
+
+Education: BS in Applied Mathematics & Computer Science and MS in Computer Engineering,
+Tashkent University of Information Technologies
+
+Languages: COBOL LE/II, CICS, DB2, IMS, VSAM, OS/JCL, EasyTrieve, HTML, JavaScript, SQL
+Software: Microsoft Office, SyncSort, Fault Analyzer, File Manager, TSO/ISPF, QMF, XDB, Microfocus Cobol, CCF, CA7 Schedule, InterTest, Expediter, File Aid, ETL Informatica, IBM MQ Series
+
+Contact this candidate

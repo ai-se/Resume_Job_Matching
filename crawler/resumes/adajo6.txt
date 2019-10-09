@@ -1,0 +1,88 @@
+
+KERMEN KURSINOVA
+703-***-**** adajo6@r.postjobfree.com Arlington, VA 22204
+Authorized to Work for Any US Employer without Sponsorship PROFESSIONAL SUMMARY
+• Over 6 years of experience in Information Technology, specializing in Software Quality Assurance with proficiency in both Manual and Automation Testing.
+• Solid experience and understanding of the Software Development Life Cycle (SDLC) methodologies such as Agile and Waterfall.
+• Proven ability to design, develop and maintain Test Automation Framework from scratch using Selenium WebDriver, Maven, POM written in Java programming language.
+• Extensive knowledge of Java and Object-Oriented Programming (OOP).
+• Strong experience in using Test Automation tools such as Selenium WebDriver, Cucumber, JUnit, TestNG, Maven, JDBC, Postman, REST Assured library, JIRA.
+• Hands-on experience in developing Test Plans, Test Cases, Test Scenarios, Test Scripts based on provided User Stories and Acceptance criteria.
+• In-depth knowledge of Automation Frameworks such as Behavior-Driven, Data-Driven and Hybrid Framework using Selenium WebDriver, Maven and Java.
+• Extensive experience in Automated testing, Manual testing, Smoke testing, Front-End and Back-End, Black Box testing, Functional testing and Regression testing.
+• Strong knowledge in configuration JUnit, TestNG, Cucumber and other tools with Selenium WebDriver using Java.
+• Proficient in using JUnit and TestNG annotations for Test Execution and writing custom methods to capture automatically generated screenshots when test fails.
+• Responsible for logging and tracking defects in JIRA project management tool.
+• Ability to provide Continuous Integration using Jenkins for running smoke and regression tests.
+• Created Behavior Driven Development (BDD) Framework, implemented with Cucumber using Gherkin language, created Test Scenarios and tracked Cucumber HTML and Jenkins Reports.
+• Created and implemented Maven Projects and managed the pom.xml file, to centralize Dependencies.
+• Experienced in writing SQL queries to fetch testing data and validate that data with GUI.
+• Experienced in JDBC and establishing connectivity between Java programming language and a wide range of databases.
+• Experienced with REST-Full by using REST-Assured Java library to automate HTTP requests and response.
+• Performed manual testing for API using Postman.
+• Experienced in Git and GitHub tools for version control.
+• Ability to adapt to new environments quickly, good team player, very positive person, enthusiastic learner, hard-working, sincere and committed. TECHNICAL SKILLSET
+Languages Java, SQL, Gherkin, HTML, XML
+Testing Tools Selenium WebDriver, Cucumber, Junit, TestNG, Maven, Jenkins, Postman
+IDE Eclipse, IntelliJ, SQLDeveloper
+Project Management
+Tool
+JIRA
+OS Windows, Mac OS
+Databases Oracle, MySQL
+Framework POM, Data Driven, Hybrid, Behavior Driven Version Control Git with GitHub
+Testing Methods Smoke, Regression and Functional testing Certifications
+PROFESSIONAL EXPERIENCE
+Client: ONDECK – ARLINGTON, VA
+Duration: OCT. 2017 – PRESENT
+Role: SDET
+RESPONSIBILITIES:
+• Developed Automation Framework using Java with Cucumber, Junit, Maven and Page Object Model.
+• Performed BDD (Behavior Driven Development) using Cucumber Features, Scenarios, Scenario Outlines in Gherkins language.
+• Utilized Maven project build tool to manage Dependencies and Plug-Ins.
+• Attended all sprint related Scrum Ceremonies such as Daily Stand Up, Sprint Planning, Sprint Review and Sprint Retro meetings.
+• Participate in Spring Grooming meeting and analyzed each user story with the development team and PO.
+• Finding Web elements using many types of locators such as XPath, CSS, Id, Link, Class, ClassName, TagName, Partial Link Text.
+• Performed Regression testing for every modification made in the application and new builds using Selenium WebDriver and Java.
+• Handled dynamic Web elements using relative XPath in the application.
+• Participated in test case Peer review.
+• Automated Test Reports using Cucumber plugin HTML reports and JSON reports attached with failed Scenario Screenshots.
+• Used JIRA for Defect Management including tracking and reporting to test the application.
+• Developed SQL queries along with JDBC and applied to Test Scripts for Database Validation.
+• Handled Selenium Synchronization problems using Explicit & Implicit Waits during Regression Testing.
+• Used Git for tracking changes in Source Code during Software Development.
+• Conducted REST API testing by using Java with REST Assured library and Postman for Manual Verification.
+• Scheduled Regression and Smoke Tests, then send Automated Reports using Jenkins. Environment: Selenium WebDriver, Cucumber, Gherkin, JUnit, Java, Jenkins, JIRA, IntelliJ IDEA, Oracle, HTML, SQL, Apache POI, REST Assured, Postman, GIT, Agile. Client: FIREEYE – RESTON, VA
+Duration: MAY 2015 – OCT. 2017
+Role: QA- AUTOMATION ENGINEER
+RESPONSIBILITIES:
+• Implemented Data Driven with Page Object Model Automation Framework with Selenium WebDriver, TestNG with Java platform.
+• Used IntelliJ for IDE and Java for programming language.
+• Participated in Scrum Meetings and created Test Scenarios, Test Cases.
+• Performed different types of testing such as Smoke, Regression, Functional, Black Box, Front-End and Back-End Tests.
+• Actively participated in Agile Scrum by attending Sprint Grooming, Sprint Planning, Sprint Demo and Retrospective meetings.
+• Following Agile methodology, daily Stand-up Meetings and testing each Sprint Deliverables.
+• Collaborated with the Development Team to support Release Planning, Estimation and Delivery processes using Agile Methodology.
+• Used Maven as Project Build Tool.
+• Used Git with GitHub for version control system.
+• Used Jenkins for Continuous integration.
+• Performed the Back-End Testing, Developing and Executing SQL queries and Database Tables for data Verification and Validation.
+• Used JIRA for Test Case management, Defect Tracking and Defect Reporting. Environment: Selenium WebDriver, TestNG, Java, Jenkins, JIRA, IntelliJ IDEA, Oracle database, HTML, SQL, GIT, Agile.
+Client: WALMART – RESTON, VA
+Duration: JUNE 2013 – MAY 2015
+Role: MANUAL/AUTOMATION TESTER
+RESPONSIBILITIES:
+• Analyzed Business Requirements, involved in writing Test Plans and Test Cases.
+• Expertise in Defect Management Life Cycle, Software Development Life Cycle (SDLC) methodologies.
+• Understanding User Stores identifying the Test Scenarios.
+• Created defects in JIRA, and assigned them to the responsible person and tracked until they were fixed.
+• Expertise in various types of testing such as Smoke, Regression, Functional, Black Box,
+• Front-End and Back-End Testing.
+• Executed SQL Queries on Oracle database tables to view successful transactions of Data to Validation.
+• Wrote Structure Query Language (SQL) queries to check proper data population in Application Table and for Data Verification to perform Back-End Testing against Oracle Database.
+• Involved in training from Manual Testing to Automation Testing.
+• Created Test Automation Framework using Selenium and TestNG.
+• Automated Regression and Smoke tests.
+Environment: Selenium, TestNG, Java, Jenkins, JIRA, Eclipse, Oracle, HTML, SQL, GIT, Agile, Waterfall.
+
+Contact this candidate

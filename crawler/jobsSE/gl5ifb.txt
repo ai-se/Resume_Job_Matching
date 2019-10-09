@@ -1,3 +1,4 @@
+Job Title = QA Engineer I - Nashville
 
 A. Job Summary:
 This role is responsible for supporting global closed captioning and subtitling video/technical operations in our Nashville office. Primary responsibilities include closed captioning and subtitling creation and conforms across all of our labels and supported language services. Additional responsibilities include quality control of video assets, light transcoding, and any administrative services related to the aforementioned functions.

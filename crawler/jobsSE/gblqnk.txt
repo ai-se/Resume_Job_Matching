@@ -1,26 +1,51 @@
+Job Title = Ios Or C# Or Engineer Or Software jobs in Raleigh, NC, 27606
 
-Sundial Software is currently recruiting for a Software Engineer for a direct-hire opportunity.
+TransLoc Inc.  – 
+Durham, NC, 27703
+... We?re looking for an iOS software engineer that is passionate about the craft of iOS software design and development. As a member of a cross-functional team, you will be responsible for helping the team write robust, well-defined stories and high ...
+- Lensa, Oct 07
 
-Visual C# Software Engineer Description
-Our Client is looking for a cross-platform developer with an emphasis on video technologies and interest in developing video recording, transcoding, playback and streaming applications.
+Courthouse Computer Systems  – 
+Chapel Hill, NC
+... Key Responsibilities Aptitude for designing and coding software with the utmost attention for quality Responsible for the ... Minimum Requirements: 2+ years of development experience C#/VB.NET (Visual Studio 2013+) ASP.NET (Web Forms or MVC) ...
+- ZipRecruiter, Sep 30
 
-Responsibilities
-Design, develop, debug and test cross-platform applications using Xcode, Visual Studio and Xamarin on Windows 10, iOS, iPadOS and macOS
-Implement standard design patterns and techniques where applicable
-Develop custom software to integrate with existing systems
-Performance tuning, improvement and implementation for high availability and real-time performance
+Adroit Software  – 
+Durham, NC, 27703
+... - 10+ years of experience developing and successfully deploying software programs/applications. - A deep understanding of ... - Expertise in one or more general purpose programming languages, including but not limited to: Java, C#, JavaScript, Go, ...
+- Jobs2Careers, Oct 07
 
-Experience & Qualifications
-Bachelor's degree in Computer Science, Computer Engineering or a related field or equivalent work experience required
-Experience with the following technologies necessary:
-Visual C#, Xamarin, macOS
-Experience with concurrent programming and object oriented design needed
-Strong written and verbal communication skills
-Must be a strong analytical thinker and complex problem solver
-Master's degree in Computer Science or related a field a plus
-Experience in the following areas desired:
-Windows 10, iOS, iPadOS, Visual C++, SignalR, DirectShow, Media Foundation, AVFoundation, Universal Windows Platform (UWP), WebRTC, Project Catalyst, H.264/AVC, H.265/HEVC, Adaptive bitrate streaming, Real-time Transport Protocol (RTP)
+M R Williams, Inc.  – 
+Raleigh, NC
+... Position · Own projects in part or whole, from concept through to production · Maintain or update existing projects · Collaborate during discovery and scoping of releases Technical Requirements · Visual Studio on Windows · C# · .Net Core · .Net ...
+- ZipRecruiter, Sep 27
 
+Northwest Software  – 
+Raleigh, NC, 27601
+Kindly review below job opportunity and let us know if you have C# Full Stack Development experience and if are available, ... Thanks Suresh G Talent Acquisition Specialist Northwest Software, Inc. Permanent
+- Dice, Sep 30
 
-Go to apply 
+Northwest Software  – 
+Raleigh, NC, 27601
+" Kindly review below job opportunity and let us know if you have C# Full Stack Development experience and if are available, ... Thanks Suresh G Talent Acquisition Specialist Northwest Software, Inc. - provided by Dice Full Time
+- Dice.com, Oct 01
 
+Software Guidance & Assistance  – 
+Raleigh, NC, 27601
+Software Guidance & Assistance, Inc., (SGA), is searching for a C# Developer for a Contract assignment with one of our premier financial services clients in Raleigh, NC . Responsibilities : Design, coding and modify websites and web services, from ...
+- Dice.com, Oct 02
+
+Software Guidance & Assistance  – 
+Raleigh, NC, 27601
+Software Guidance & Assistance, Inc., (SGA), is searching for a C# Developer for a Contract assignment with one of our premier financial services clients in Raleigh, NC . Responsibilities : Design, coding and modify websites and web services, from ...
+- Jobg8, Oct 03
+
+TechMileage Software Solutions  – 
+Raleigh, NC
+C#/.Net back-end developer Qualifications 3- 5 years of strong experience with .Net technologies Strong knowledge in C# and .Net Strong Object Oriented programming skills and understanding SOLID principal Very good understanding of Data Structures ...
+- Neuvoo, Oct 03
+
+TechMileage Software Solutions  – 
+Raleigh, NC, 27601
+3- 5 years of strong experience with .Net technologies Strong knowledge in C# and .Net Strong Object Oriented programming skills and understanding SOLID principal Very good understanding of Data Structures and Algorithms Experience with NoSQL ...
+- Dice.com, Oct 04

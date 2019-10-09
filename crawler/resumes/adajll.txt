@@ -1,0 +1,273 @@
+
+Naga Ananthaneni
+Senior QA Automation Engineer
+E-mail: adajll@r.postjobfree.com
+Phone: 443-***-****
+
+Senior QA Analyst with over 8+ years of experience involved in all phases of Software Testing Life Cycle (STLC). Expertise in developing Test Plan, Test Scenarios, Test Cases and Automation test scripts using Selenium, TestNG with emphasis on GUI Testing, API Testing, Black Box Testing, Backend Testing of Client Server and Web applications extensively in multiple domains.
+
+Professional Summary
+
+Experience in working with different development environments such as Agile/Scrum&Waterfall
+Involved in the Design and implementation of different Automation frameworks such as Hybrid Framework, Data Driven Framework, Keyword Driven Framework and Page Object Model (POM) for various projects.
+Expertise in Automation tools such as Selenium WebDriver, Selenium IDE/RC, Selenium Grid, Java, Jenkins (continuous integration), Maven (Build Management), Eclipse, Cucumber, TestNG (Regression tests) and JUnit.
+Extensively involved in Front-end and Back-end Testing (Web Services and Databases) with either Test Driven Development (TDD)/Acceptance Test Driven Development (ATDD) and Behavioral Driven Development (BDD) approach.
+Good Knowledge in OOPS (Object Oriented Programming System) concepts i.e., Abstraction, Polymorphism, Encapsulation and Inheritance.
+Proficient in working with Selenium Grid/ Sauce labs to specialize on running multiple tests across different browsers, operating systems, and machines in parallel.
+Hands on experience in Grouping of Test Cases, Test Methods and Test Suites for regression and functional testing using the TestNGannotations like Groups, Parameter, Data Provider and Listeners.
+Expertise in using Apache POI for data driven frameworks, to load data into required test scripts from external sources like excel sheets.
+Performed Continuous Integration of code and scripts using Jenkins and triggered the Continuous Delivery process using Jenkins build jobs.
+Performed User Acceptance testing (UAT) using Gherkin language to write the acceptance criteria’s such as feature file, Scenarios, Scenario outline’s and performed the step definitions and runner classes using Cucumber.
+Maintained Selenium& JAVA automation code and resource in source controls SVN/Git over the time for improvements and to add new features.
+Expertise in implementing Maven as a build management tool to manage the required dependencies, plug-ins and for uniform build system.
+Experience working with logging frameworks such as Log4j and Extent loggers to capture the flow details of the test cases.
+Tested the performance of the applications using JMeter.
+Experience in finding web elements using locators like CSS Locator, XPath, HTML id, name, class name, linked text, partial linked text and tag name. Experience in handling different methods of Select class for selecting and deselecting, for dropdown web element.
+Skilled in Selenium synchronizations with conditional (Implicit, Explicit) unconditional wait statements.
+Implemented Action class in selenium to handle mouse and keyboard actions. Experience in testing and handling different frames (frames, iframes) of a HTML page with having different DOM's for every iframe.
+Experience in handling Pop-ups with Selenium using Alert methods. Experience in handling multiple windows in selenium.
+Experience with Cross-Browser testing to test whether the web applications are working as desired in different browsers and environments.
+Proficient in documenting defects with high level of detail, accuracy and informative recreation steps using HP ALM/Quality Center, JIRA and Bugzilla.
+Experienced various types of AUT (Application under Test) such asAutomation testing, Manual testing, Integration testing, System testing, Smoke testing, Regression testing, Performance testing and Functional testing.
+Knowledge on mobile testing using Appium on real and virtual devices.
+Expertise in Selenium as automation tool, Selenium grid, Java, Maven as build management tool, Appium for mobile testing, Cucumber, Extent Reports for report generation.
+Experience using various TestNG Annotations like Before Suite, After Suite, After Method, After Test and configured Parallel Processing using TestNG xml.
+
+Web Service Testing
+Experienced with Soap and Restful web services testing using SOAPUI tool. Knowledge of XML, WSDL, XPATH, Groovy scripting. Experience with Service Oriented Architecture using SoapUI Pro tool to test web service.
+Automated Web services using groovy scripting, data sourcing and data source looping, driven required data from excel sheets into SoapUI to send requests and stored the data from responses into the respective excel sheets.
+Tested the API’s as well as validated the data returned through web services responses using Assertions such as Valid HTTP Status Codes, Script Assertions, Contains, Xpath Match, XQuery.
+
+Database Testing:
+Experienced writing and executing CRUD SQL statements.
+Database Testing using SQL Queries with multiple Databases Oracle, DB2, SQL Server and MySQL and performed Database testing including data integrity and data validation testing.
+Expert in developing complexSQL Queries with various kinds of joins
+
+TECHNICAL SKILLS
+Test Approaches
+Waterfall, Agile/Scrum, SDLC, STLC, Bug life Cycle
+Testing Tools
+Selenium WebDriver, Selenium IDE/RC, SOAPUI, Appium, JMeter, Jenkins, Selenium Grid.
+Frameworks
+Page Object Model, Keyword Driven, Data Driven, Hybrid, Cucumber, TestNG, Junit, log4j
+Artifacts
+Test Plan, Test Case, RTM, Test Summary Report, Bug report, User Stories, Backlogs
+Test Build and Integration tools
+Jenkins, Maven, Ant
+API testing
+REST, SOAP, SOAPUI
+Programming Tools
+Java, C, C++, Groovy, Gherkin, VB Script
+Operating System
+Windows XP/Vista/7/8/10, Unix, Linux, IOS
+Databases/Database tools
+SQL Server, Oracle, MySQL, DB2, SQL, TOAD
+Defect Tracking Tools
+HP ALM/Quality Center, JIRA, Bugzilla, Rally.
+Markup Languages
+HTML, XML, Xpath, CSS
+MS Office Tools
+Outlook, Word, Excel, PowerPoint, MS Access
+Other Utilities
+Eclipse, PL/SQL, GIT, SVN, Sauce Labs, Firebug, Fire Path, JMeter
+Types of testing
+Manual Testing, UI Testing, Integration Testing, Regression Testing, Black Box Testing,Localization Testing, Performance Testing and Ad-hoc testing.
+
+EDUCATION DETAILS:
+Bachelor’s in computer science (April, 2009)
+
+CERTIFICATION DETAILS:
+
+ISTQB certification provides International recognition of acquired competencies and skill
+ISTQB Certified software testers are Acumen with Sound Technical Skills and can improve efficiency and profits.
+
+PROFESSIONAL EXPERIENCE:
+Project: 1
+Project Profile
+
+Client
+Lowe’s
+Location
+Mooresville, North Carolina
+Duration
+March 2019-Present
+Role
+Senior QA Automation Engineer
+
+Project Description:
+Lowe's Companies, Inc., doing business as Lowe's, is an American retail company specializing in home improvement. Headquartered in Mooresville, North Carolina, the company operates a chain of retail stores in the United States and Canada
+
+Roles/Responsibilities:
+Worked in a team to initiate and start implementing Automation Scripting.
+Started learning Python quickly to adapt to the changes in the team.
+Gave few demos to demonstrate what and how we are implementing automation.
+Worked on POC’s to see the scope of automating Mainframes, Unix scripts and Talend jobs using Java.
+Started implementing scripts using Java, Selenium, and TestNG.
+Conducted UI testing, Functional testing, Regression Testing and verified the results with expected results using Traceability Matrix.
+Created automation test cases and test scripts using Hybrid Framework (data driven framework and Page Factory model) to test the web applications using Selenium WebDriver.
+Utilized Apache POI jar file to read data from the excel spread sheets and load them into required test cases.
+Expertise in using Selenium Grid to run test scripts on different platforms and against different versions of the browsers in parallel to save time.
+Involved in the usage of BDD framework to develop Cucumber Step Definitions, Scenarios and Features using acceptance criteria which was produced by business analyst to perform UAT testing.
+Created automated test scripts using Selenium WebDriver, TestNG, Maven and used Jenkins to execute these test scripts periodically using Java.
+Performed Cross browser testing and parallel testing on Chrome, Firefox, IE browsers and Safari using TestNG framework.
+Expertise in grouping of test suites, test cases and test methods for regression and functional testing using TestNG Annotations like Groups, Parameter, Data Provider and Tags.
+Utilized Maven to manage dependencies for test execution, plug-ins and created profiles of grouped test cases to run smoke or regression testing.
+Used Git as a code repository to check out project from it, make modifications, submit and commit changes to the local repository and then later to the central repository.
+Used different modules in JIRA to report and track the defects, and communicated issues with the developers for a better solution.
+Performed testing on Web Services such as soap and restful services using SOAPUI to check the communication between different services.
+Created test plans, Thread Groups and added different kinds of Assertions and Listeners for running the test in JMeter for performance testing.
+Handled Selenium Synchronization problemsusing Explicit & Implicit waits during functional testing. Executed test cases relating to mouse events using Actions class.
+
+
+Environment:AGILE, Java, Python, Selenium WebDriver, Eclipse, TestNG, Maven, Cucumber, Jenkins, SQL, Oracle, SoapUI, Jira, Extent Reports.
+
+Project: 2
+Project Profile
+
+Client
+Equifax Workforce Solutions
+Location
+St Louis, MO
+Duration
+Aug 2017-Feb 2019
+Role
+Senior QA Automation Engineer
+
+Project Description:
+
+Equifax Inc. is a consumer credit reporting agency. Equifax collects and aggregates information on over 800 million individual consumers and more than 88 million businesses worldwide. Founded in 1899 and based in Atlanta, Georgia, it is one of the three largest credit agencies along with Experian and TransUnion.
+
+Roles/Responsibilities:
+
+Conducted UI testing, Functional testing, Regression Testing and verified the results with expected results using Traceability Matrix.
+Created automation test cases and test scripts using Hybrid Framework (data driven framework and Page Factory model) to test the web applications using Selenium WebDriver.
+Utilized Apache POI jar file to read data from the excel spread sheets and load them into required test cases.
+Expertise in using Selenium Grid to run test scripts on different platforms and against different versions of the browsers in parallel to save time.
+Involved in the usage of BDD framework to develop Cucumber Step Definitions, Scenarios and Features using acceptance criteria which was produced by business analyst to perform UAT testing.
+Created automated test scripts using Selenium WebDriver, TestNG, Maven and used Jenkins to execute these test scripts periodically using Java.
+Performed Cross browser testing and parallel testing on Chrome, Firefox, IE browsers and Safari using TestNG framework.
+Expertise in grouping of test suites, test cases and test methods for regression and functional testing using TestNG Annotations like Groups, Parameter, Data Provider and Tags.
+Utilized Maven to manage dependencies for test execution, plug-ins and created profiles of grouped test cases to run smoke or regression testing.
+Used Git as a code repository to check out project from it, make modifications, submit and commit changes to the local repository and then later to the central repository.
+Used different modules in JIRA to report and track the defects and communicated issues with the developers for a better solution.
+Performed testing on Web Services such as soap and restful services using SOAPUI to check the communication between different services.
+Created test plans, Thread Groups and added different kinds of Assertions and Listeners for running the test in JMeter for performance testing.
+Handled Selenium Synchronization problemsusing Explicit & Implicit waits during functional testing. Executed test cases relating to mouse events using Actions class.
+Expertise in handling sporadic pop-ups and alerts using Alerts class.
+Handled multiple frames and framesets to switch between/navigate through frames and performed necessary actions on the web elements.
+Expertise in using the Extent Reports and loggers to track the flow of the test cases, time taken for execution, defect tracking, pass/fail percentages and information on tested environment.
+Analyzed bugs and involved in quality assurance reviews with the team to ensure bugs are reported and closed.
+Shared Daily Status Reports with all the team members, Team Leads, Managers and Clients.
+Wrote SQL Queries to connect to the database and retrieve data for a specified set of test requirements. Implemented JDBC connections in the automation framework to validate data in the database.
+
+Environment:AGILE, Selenium WebDriver, Selenium Grid, Java, Eclipse, TestNG, Maven, Cucumber, Jenkins, SQL, Oracle, SoapUI, Jira, JMeter, Extent Reports.
+
+Project: 3
+Project Profile
+
+Client
+BJC Health Care
+Location
+St Louis, MO
+Duration
+August 2015- July 2017
+Role
+Senior QA Automation Engineer
+
+Project Description:
+
+BJC Health Care is one of the largest non-profit organization based in St Louis.The projects involved various interactive healthcare integration systems which automated the manual work flow process followed by physicians and medical staff to satisfy patient needs. It offered users and providers with an efficient and effective means of communicating and transferring patient information in a secure and timely manner, improving patient care and patient safety and increasing productivity by a large margin.
+
+Roles/Responsibilities:
+Analyzed the user requirements by Interacting with system architect, developers and business users.
+Suggested improvements in test process by gathering and analyzing data.
+Reviewed and analyzed Detail Designed Specification and Technical Specification documents.
+Analyzed the Product backlog, Sprint Backlog and developed Test Suites to cover the overall quality assurance testing.
+Involved in complete QA Life Cycles. Developed and maintained various test cases and test scripts using Data Driven Framework.
+Used Selenium as the automation tool and JIRA as the defect management tool.
+Developed and enhanced various test scripts using selenium tool to handle the changes occurred in the web elements during the build releases.
+Reviewed and analyzed the user acceptance criteria alongside with the business analysts to test the application for UAT using cucumber.
+Expertise in running multiple test scripts at the same time against different machines, running different browsers and operating systems using Sauce Labs.
+Expertise in using TestNG tool to perform cross browser and parallel testing.
+Utilized various TestNG annotations to group test classes, methods, suites; to pass parameters, and to generate reports containing test results using listener’s annotation.
+Handled various operations like pop-ups, Web-Alerts, Java-Alerts, iframes, windows-handling and utilized Select class and Action class for required operations.
+Developed customized XPath and CSS path locaters to find the address of web-elements and utilized other locators like ID, Name, Class Name, Linked text and Partial linked text.
+Expertise in Maven and performed different operations on POM.xml file to gather required dependencies and run numerous test scripts. Proficient in configuring Jenkins to perform required tasks by specifying path of version control and hardcoding the operations to be performed on it.
+Proficient in using various SOAPUI actions to perform SOAP and REST services to get information either from third parties/internally and tested the results using assertions.
+Used different modules in JIRA to report and track the defects and communicated issues with the developers for a better solution.
+Used Spec Flow framework which supports Behavior Driven Development.It lets us define application behaviour in plain meaningful English text using a simple grammar defined by a language called Gherkin.
+
+Environment: Selenium WebDriver, AGILE, Sauce Labs, Java, Eclipse, TestNG, Maven, Jenkins, Microsoft Office Excel, Cucumber, SQL, Git, JIRA, SoapUI.
+
+Project: 4
+Project Profile:
+
+Client
+Coventry Health Care
+Location
+Downers Grove, IL
+Duration
+January 2014-July 2015
+Role
+Senior QA Automation Engineer
+
+Project Description:
+
+The Project is to develop and enhance existing HealthCare Provider System to handle Coventry’s Insurance policies. The application is used by physicians and staff to verify member eligibility and to view claims payment information. The project focused on improving the application for a better user experience.
+
+Roles/Responsibilities:
+
+Involved in writing and implementation of the Test Cases.
+Developed Test Scenarios, Test Cases, Test data, Test Procedures and Test Reports.
+Developed and executed Test scripts using Selenium WebDriver, TestNG, analyzed Test Results.
+Implemented keyword Driven framework with Selenium WebDriver.
+Performed Continuous Integration of code and scripts using Jenkins.
+Performed Integration and Regression testing to check compatibility of new functionality with the existing functionalities of the application using Selenium.
+Performed parallel and Cross Browser testing on different browsers like Internet Explorer, Chrome, Safari and Firefox where multiple tests were run at the same time.
+Scripted the test cases and managed the framework dependency jars using Maven.
+Used Parameters, Data Provider TestNG annotations to perform regression and functional testing.
+Stored the flow details of Selenium Automation in a file using Log4j.
+Wrote Scenarios, Scenario Outlines and step definitions using Gherkin in Cucumber for BDD.
+Analyzed and Validated test results to ensure existing functionality and recommend corrective action where necessary.
+Participated in all phases of the Software Testing Life Cycle.
+Participated QA weekly meetings and various other meetings and discuss enhancement and modification request issues and defects in the application.
+Worked with developers to update the defects, resolve them and track their status using JIIRA
+Validate compliance with business requirements in System Test and UAT Environments.
+Used SQL statements to extract data from the tables to validate test results.
+Created PowerPoint presentations and project updates for management review.
+
+Environment:Selenium WebDriver, TestNG, Keyword Driven Framework, Jenkins, Jira, SQL.
+
+Project: 5
+Project Profile:
+
+Client
+Landmark Bank
+Location
+Houston, MO
+Duration
+January 2012- December 2013
+Role
+Senior QA Automation Engineer
+
+Project Description:
+
+Landmark Bank offers personal retail banking and credit card services to customers in the United States. The project scope involved System testing of the Online Banking web application, which allows the customer to access the accounts and administer their various Checking and Saving Accounts. The application also enables to check all account all Account balances including balances, last deposits, transaction history etc. It also allows customers to perform fund transfers online.
+
+Roles/Responsibilities:
+
+Understanding the Business requirements, Application and function specifications, Design documents.
+Involved designing and developing of templates for the Test Plans and Test cases. Involved in Preparation of Test Scenarios and review of Test Cases.
+Involved in updating and executing test cases as pergiven requirements. Identified the Test Cases and documented them in Quality Center. Performed GUI, Functional, Regression, Ad-hoc and Smoke Testing. Prepared various reports based on different stages of Testing.
+Worked with developers to communicate regarding issues in the application.
+Coordinated the testing effort towards End-to-End testing to verify the proper functioning.
+Developed test scripts to Performed Integration testing, System testing, Regression testing, User Acceptance testing (UAT) and Back End testing of an application.
+Involved in developing detailed test plan, test cases and test scripts for Functional and Regression Testing.
+Created Test input requirements and prepared the test data for data driven testing.
+Data validation and Database integrity testing done by executing SQL queries.
+Performed quality assurance reviews on all System Development Life Cycle phases.
+Follow up with Development team on defect resolution. Updating daily status to Release Manager which includes issues, action items, defect status etc.
+
+Environment: Windows XP, Manual Testing, Black Box Testing, Microsoft Office Excel, QC, Junit, Waterfall.
+
+Contact this candidate

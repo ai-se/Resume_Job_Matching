@@ -1,0 +1,95 @@
+
+Christopher Singleton
+Bellevue, WA *****
+425-***-****
+ac5coq@r.postjobfree.com
+www.linkedin.com/in/christophersingleton
+www.chrissingleton.us
+
+Business Intelligence Developer, Data Engineer, SQL Developer
+Proficient using advanced T-SQL, Kusto Azure Integration into Power BI (including DAX for report dashboard developments), SQL Server Analysis Services (SSAS) with DAX, ETL using T-SQL Scripts, SQL Server Integration Services (SSIS) with advanced C Sharp techniques and database modeling.
+
+Over 8 plus years in Information Technology in the Fortune 100 sector, including Microsoft Corporation, Costco Corporation, and smaller companies. Associates of Applied Science degree in Information Sciences with the following relevant technical proficiencies:
+
+• T-SQL, Joins, Subqueries, Unions, Cross Apply • Views, CTE’s, Stored Procedures, Functions
+• BI Full Stack (SSIS, SSAS, SSRS) Development • Indexing, Triggers, Partitioning, Optimizing
+• Kusto Azure Scripting, Power BI & Tableau Desktop • ASP.Net, C Sharp, JS, HTML, CSS, AJAX
+• C# objects, Inheritance, Polymorphism, Delegates • Extract, Transform & Load, SQL, C# (ETL)
+• Cube: Hierarchical/Relationship Configuration • Scripting: Tabular DAX /Multidimensional MDX
+• Normalized OLTP/De-Normalized OLAP Modeling • Star / Snowflake Schema Design, Data Mart
+• SSRS, Tableau, Excel Pivot Table Reporting • Visual Basic Scripting, VBA, DOS Scripting
+• Network/VPN Configuration: Microsoft Azure, Linux • Data Mining (SSAS) Cube structures, Flat Files
+• Agile/Scrum/XP Software Engineering • Data: Validation (Regex), Integrity, Cleaning
+
+Experience
+Business Intelligence Developer 05/2018 – 07/2019
+Microsoft Contractor Redmond, WA
+
+• Created Kusto-Azure code through Lens Explorer for extracting, parsed aggregating data and analyzed criteria-based data on a Kusto Azure data lake and an Information Customer Management (MASICM) system, validated using Visual Studio online SQL database (RDBMS) that is also used for system checks / balances while creating CTE’s and Views using T-SQL.
+
+• Transformed data into Power BI and extract from Kusto directly for modifying creations. Worked on five different Azure data lakes having to do with multiple projects, which included Kusto-Azure related concepts with three different teams (MASICM, MASCI Dev-Ops, and MAS Management). Changed dynamic SQL directly into joins and complex T-SQL queries for security purposes. Utilized Microsoft Visual Studio during validation and coding implementations.
+
+• Troubleshooted DAX/back-end T-SQL code applied to Power BI knowledge of data science, analytics to identify performance issues while developing and modifying complex queries.
+
+• Developed analytical dashboards with Power BI Professional (including using DAX functionality) and handled automated, targeted communication channels for products and solutions from many sources. Created search functions, filters, calculated columns and derived columns with while using DAX in Power BI. Modeled similar data structures to validate using T-SQL scripts.
+
+Internship Management – Tutor while working at Microsoft 03/2015 – 07/2019
+Bellevue College Bellevue, WA
+
+Managed an Internship for a Bellevue College Student (Peter-Paul Troendle:
+ac5coq@r.postjobfree.com) while working at Microsoft: The student internship I tutored (was based on satisfying the professor’s criteria in conjunction with an FPGA project to satisfy a need for a Microsoft contractor and for that reason the internship that I managed was divided into two parts. The two parts were based on a succession of steps divided into an allotment of time progressions.
+
+(1) The Professor’s (Mr. Friedrich) criteria were based on an advanced C Sharp (C#) class:
+a. Created a data warehouse database structure that connects to the project for storing the information on the project and output being display.
+b. Displayed quick sort, bubble sort, array sort, <T> List sort and explain the differences, including the advantages and disadvantages. Note that array sort is only based on reference.
+c. Used functionality for stacks, heaps, lists and explain the differences.
+d. Completed File System Operations (FSO) to write out in a text file and read back to the console.
+e. Built interface signatures using inheritance, polymorphic behavior, abstract behavior concepts, including using delegates. To make it more interesting, we used a class library on instances to encrypt the data connections.
+
+(2) The contracting company internship for this student that I managed was base on an FPGA project with a vast algorithm to show graphical output with parallel processing:
+a. Designed and built a data warehouse with data mart structure that allows Artificial Intelligence (AI) near the processor with very fast precise speeds that have virtually no loads.
+b. Showed various parts of the graphical data being streamed on each part of the algorithm and save the information directly to the data warehouse.
+c. Use error control to display output errors and monitor variations of changes of the logic.
+d. Graphed findings based on outputs, speed in nano-seconds with volumes (algorithmic millions of rows) of data through put for analyzing the results.
+
+• T-SQL: Complex query – Views, Stored Procedures, Functions, Triggers, and Indexing
+
+• Data Visualization: Power BI Professional, Tableau Desktop, SSRS, Excel Pivot Tables
+
+• Data Warehouse Design: (OLAP) Data Mart, Star, and Snow Flake Schema’s, Data Modeling
+
+• SSAS: Tabular DAX data mart models, Multidimensional MDX cube, Data Mining, and Analysis
+
+• SSIS: ETL Package creation, data integration / cleaning with various sources and destinations
+
+• .NET: Polymorphism, Inheritance, Encapsulation, Abstraction, C# Object Oriented Programming
+(Stacks, heaps, lists, sorting (bubble sort, quicksort, array sort, algorithms, heapsort in Static vs
+Non-Static, Active Server Pages (ASP), Master Pages, and passing variables by reference to a
+Class Library (DAL) while using Microsoft Visual Studio.
+
+Document Control Specialist CATIA Aerospace Engineering Design 07/2011 – 04/2015
+L & E Tubing (Lafarge & Egge Inc.) Lynnwood, WA
+• Controlled documents, part number system and revision control using the SQL database (add, modify, and delete the information in the database).
+• Proficiently wrote VB, VBA scripts with XML formatting and VB scripts to extract coordinate values of BOEING, BF GOODRICH model files into text files using various programming techniques, File System Operation programming (FSO), attributes and other geometrical information for production control and analysis. Worked with many different aerospace companies while solving technical related issues having to do with the revision in the design of drawings, models and inconsistent documentation.
+• Analyzed blueprints, CATIA Models and all documents, consulted with team members on various problems and how to fix such problems while staying within the guidelines of creating the best solutions. Proficiently designed tubes, sheet metal Parts, fixtures and jigs using CATIA V5 to manufacture specifications, including Geometric Dimensioning & Tolerances (G. D. & T.).
+• Implemented Generative Shape Design to achieve engineering problems on drawings with CATIA. Modeled CATIA documents for coordinates of bends and distances for manufacturing.
+• Collaborated with Quality Control management as a team to insure AS9100c manufacturing quality and implemented A.S.M.E. design standards while designing with CATIA V5. Completed assignments on time energetically while taking note of upcoming assignments for future preparations.
+• Manipulated drawings / models between CAD software’s, encrypt, import / export file type conversions using PGP Symantec. Converted CATIA V4 to V5 CATIA Products (Assembly) and CATIA Part Documents.
+• Installed and configured application software, including CATIA, CATIA Companion, Microsoft office, printer/plotter device and Adobe Acrobat Professional, Symantec PGP File Encryption to un-encryption of BOEING and BF GOODRICH files for documentation, analysis, revision(s), processing.
+
+Business Customer Computer Technical Support 03/1999 – 04/2010
+Costco Corporation (Business Center) Lynnwood, WA
+
+Education
+Bellevue College (Bellevue, WA): Information Systems - Business Intelligence:
+Major: Associate’s in Applied Science Degree of Information Systems (AAS-T Completed)
+• Business Intelligence Database Developer Certificate
+• Business Intelligence Data Analyst Certificate
+• .Net Programming Certificate
+
+Lake Washington Institute of Technology (Kirkland, WA)
+• Engineering Graphics Design: CATIA Certificate
+• Automotive Technician Certificate
+• Structural Steel Detailer Certificate
+
+Contact this candidate

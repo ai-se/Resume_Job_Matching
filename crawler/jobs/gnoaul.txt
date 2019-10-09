@@ -1,0 +1,22 @@
+Job Title = Technician
+
+Technician:
+Requirements:
+Assist supervisor and management with resolution of problems; conduct special assignments as requested and prepare reports and/or analysis, documenting the results with recommendations to management. Assist with the design, development, modification, testing, implementation and maintenance of assigned systems. Troubleshoot problems in assigned area and submit recommendations. May be required to interface with other areas, both internal and external, to resolve problems. Compile and analyze data and produce routine and non-routine reports, presentations, letters, communications and graphics. Assist personnel (both internal and external) by answering questions, supplying information and training. Other duties may be assigned.
+QUALIFICATIONS:
+High School Graduate or GED equivalent required. Two (2) years of college preferred.
+One (1) to three (3) years experience in related field.
+Proficiency with current industry standard PC work and spreadsheet applications.
+Good organizational skills to prioritize multiple assignments, analytical skills and interpersonal skills to effectively communicate with all levels of personnel.
+Ability to make decisions within scope of responsibility where operational guidelines/procedures are non-existent.
+Other related skills and/or abilities may be required to perform this job.
+Working knowledge of MTV or WebClient
+
+Responsibilities:
+Perform analysis of multiple areas within the MTV Processing System such as Membership, Benefits, billing, and any other hard coded systems areas identified by project lead. Manage Managing Agent New Business Automation Process New Business Loads Detailed understanding of Secured Services, MTV, eMVP & eBilling
+Manage 834 error reports
+Skills/Qualifications: Minimum of 2-5 years of Healthcare experience preferred. Knowledge of BCBSM operating systems preferred. General understanding of project phases. Demonstrated excellent written and oral communication skills required. High proficiency with Microsoft Word and Excel required. Strong organizational and follow-through skills, and particularly strong attention to detail required. Strong creative problem solving skills required. Demonstrated flexibility, self-discipline and ability to work independently, as well as within a group, required. Ability to work effectively with multiple internal and external clients required. Ability to handle multiple tasks and implementation timeframes required. Ability to interact effectively with BCBSM representatives at various levels required. Ability to perform as a self-starter, with motivation to consistently produce high quality results required.
+
+
+Go to apply 
+

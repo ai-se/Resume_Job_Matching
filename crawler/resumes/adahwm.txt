@@ -1,0 +1,450 @@
+
+MY RESUME
+GENE MANLAPAZ
+I.T. Professional
+Over 27 Years of Solid I.T. Professional Experience (Network/Hardware/Software)
+
+FIELDS OF SPECIALIZATION:
+
+* Network Infrastructure (LAN/WAN) Design, Implementation, and Administration, with working knowledge of Active Directory, DHCP, TCP/IP, DNS, SMTP, FTP, Firewall, etc.
+* Server (Windows/Novell) Installation and Administration
+* IT Asset Management
+* IT Project Management
+* Computer Troubleshooting and Repair
+* Desktop Support On-Premise and Remote
+* POS (Point-of-Sale) Deployment
+* Software Application Development
+* Technical Writing
+
+PERSONAL ATTRIBUTES AND VALUES:
+
+* Creative, Resourceful, and Resilient.
+* Strong work ethic with an orientation towards constant innovation and process improvement.
+* Innovative self-starter and problem solver.
+* Ability to work both independently and in a collaborative setting with people of diverse backgrounds/circumstances.
+
+CONTACT INFORMATION:
+
+No. 55, 7th St., Aguilar Compound, BF Resort Village, Talon Dos,
+Las Piñas City, Metro Manila, 1747 Philippines
+Mobile Phone: +63-933******* (Primary)
+Alternate Phones: +63-925*******, +63-915*******
+Landline: +632-******* (Philippines)
+E-mail: adahwm@r.postjobfree.com
+LinkedIn Profile: https://www.linkedin.com/in/gene-manlapaz-99b05535/
+Skype ID: gene.manlapaz
+
+PROFESSIONAL EXPERIENCES ( Most recent to oldest )
+
+IT MANAGER
+BL HARBERT INTERNATIONAL LLC
+NEC, Diplomatic Enclave,
+Islamabad, Pakistan 44000 (Project Cost USD$480M)
+Apr 14, 2014 – May 29, 2019
+5 Years, 2 Months
+
+Duties and Responsibilities:
+* Directly responsible for the administration, upgrade/update, and over-all health of the entire IT Systems, including, but not limited to, Network Infrastructure (LAN/WAN/WAP, Fiber-Optic, etc.), Windows 2008 Servers (RAID), Network Attached Storage (NAS), FortiGate Firewall, Internet, Enterprise Printers, IrisAccess and iCAM7000 IRIS Readers, etc.)
+* Ensure operation is maintained at acceptable levels, including recovery and reconfiguration procedures.
+* Evaluate and forecast network and storage capacity against projects growth.
+* Monitor network service facilities to ensure reliability and availability.
+* Configure and deploy Wireless AP and routers at field offices.
+* Review operational procedures and workflow.
+* Plan and implement changes to workstations and/or servers environment.
+* Support/Manage performance and maintains security of Networks & Users Data.
+* Perform periodic backup of company data.
+* Control and maintains access of users to company resources (i.e. Storage, E-mail, Network Printers, etc.).
+* Configure and deploy local and network printers.
+* Facilitate the creation and deletion of Server user accounts in Active Directory.
+* Configure e-mail account of each user on Microsoft Outlook and assist user on how to access e-mail account via Outlook Web App anywhere in the world through their mobile devices or PCs/laptops.
+* Provide technical support to 170+ users in disaster recovery, contingency test, software installation, etc.
+* Facilitate the procurement of IT equipment, and software applications.
+* Ensure updated documentation and log work calls, and resolve support calls.
+* Ensure that all Enterprise-Level equipment are covered by a Service Maintenance Agreement with reputable vendors.
+* Ensure that PCs/laptops are set up and equipped with pre-defined standards/applications (i.e. Microsoft Office Suite, etc.).
+* Ensure that PCs/laptops, upon approval from the Senior Project Manager, are setup and equipped with special applications (i.e. a variety of Autodesk Products, BlueBeam, Adobe Acrobat Professional, On-Screen Takeoff, Timberline Accounting, etc.).
+* Provide technical resolution of hardware and office applications problems.
+* Check and monitor appropriateness of environmental conditions for the IT equipment and devices (i.e. UPS, Enterprise Printers, Network Switches, Shredders, etc.)
+* Ensure that data from PCs/laptops are completely wiped prior to re-deployment or decommissioning.
+* Lead the Warehouse Team in supporting the Supply Chain Management System (HarDHAT ERP).
+* Provide any other ad hoc requests approved by the Senior Project Manager.
+
+Key Accomplishments:
+* Successfully prepared on-time the network infrastructure on 2 new separate temporary apartments for the February 2019 office transfer requirement.
+* Performed IT inventory and created a comprehensive IT Asset Management EXCEL spreadsheet to properly record equipment details, value, location, user assignment, etc. of all IT equipment/devices.
+* Bridged multiple off-site offices to the Main office using WAP devices (i.e. Ubiquiti airMAX NanoBeam, Engenius ENS202EXT).
+* Kept the data on all computers secured and protected from theft, or any form of unauthorized access using SecureDoc or BitLocker – U.S. DoD-recognized encryption system.
+* Kept a virus-free network environment.
+* Setup a dedicated backup workstation – an add-on to the DR Plan.
+* Increased internet-related productivity after evaluating and signing up a reputable and better ISP. Negotiated and received FREE upgrades for 2 years.
+* Increased the life span of all Enterprise Printers/Copiers/Scanners through sound Service Level Agreement arranged with reputable vendors.
+* Significantly reduced the computer deployment time from 3 days to 1 day only.
+* Significantly reduced the cost of Stored Material on HarDHAT ERP.
+
+IT OFFICER
+RMS ENGINEERING AND CONSTRUCTION PTY LTD
+Comoro River Road, PO Box 130, Dili, Timor Leste
+Phone: 670-***-****
+Sep 17, 2008 – Mar 17, 2014 ( 5 Years, 7 Months )
+
+Duties and Responsibilities:
+* Directly responsible for the administration, upgrade/update, and over-all health of the entire IT Systems, including, but not limited to, Network Infrastructure (LAN/WAN/WAP, etc.), Windows 2008 Servers (RAID), Internet, Enterprise Printers, CCTV, Time and Attendance, CHRONOS eStockCard Inventory System, etc.)
+* Ensure operation is maintained at acceptable levels, including recovery and reconfiguration procedures.
+* Evaluate and forecast network and storage capacity against projects growth.
+* Monitor network service facilities to ensure reliability and availability.
+* Configure and deploy Local Server, Wireless AP and routers at field offices.
+* Review operational procedures and workflow, recommend improvement, and create IT Policies and Procedures.
+* Plan and implement changes to workstations and/or servers environment.
+* Support/Manage performance and maintains security of Networks & Users Data.
+* Perform periodic backup of company data.
+* Control and maintains access of users to company resources (i.e. Storage, E-mail, Network Printers, etc.).
+* Configure and deploy local and network printers.
+* Facilitate the creation and deletion of Server user accounts in Active Directory.
+* Provide technical support to 50+ users in disaster recovery, contingency test, software installation, etc.
+* Facilitate the procurement of IT equipment, and software applications.
+* Ensure updated documentation and log work calls, and resolve support calls.
+* Ensure that PCs/laptops are set up and equipped with pre-defined standards/applications (i.e. Microsoft Office Suite, etc.).
+* Ensure that PCs/laptops, upon approval from the Senior Project Manager, are setup and equipped with special applications (i.e. a variety of Autodesk Products, Adobe Acrobat Professional, MYOB Premier Accounting, etc.).
+* Provide technical resolution of hardware and office applications problems.
+* Check and monitor appropriateness of environmental conditions for the IT equipment and devices (i.e. UPS, Enterprise Printers, Network Switches, Shredders, etc.)
+* Provide any other ad hoc requests approved by the Chief Representative.
+
+Key Accomplishments:
+* Performed IT inventory and created a comprehensive IT Asset Management EXCEL spreadsheet to properly record equipment details, value, location, user assignment, etc. of all IT equipment/devices.
+* Configured and deployed a Windows Server 2008 R2 Server and an FTP Server.
+* Configured and deployed an FTP Server.
+* Addressed software compatibility issue by establishing a common Windows OS platform on all computers.
+* Kept a virus-free network environment.
+* Stabilized network connectivity and allowed centralized network monitoring.
+* Implemented latest server technology to ensure that all business-related documents are kept safe and secured.
+* Implemented sound backup procedures, including an off-site backup scheme to ensure historical archives are kept.
+* Setup a secured IT office to ensure that all IT equipment/devices/machines are kept safe and properly monitored.
+* Facilitated a more efficient & effective means of accessing on-line and in real-time the company’s accounting system MYOB PREMIER.
+* All computer specifications are profiled, along with device drivers for effective troubleshooting.
+* Safeguarded important data on individual computers from the fairly high fluctuation of the Island power by implementing a UPS-Plus-AVR combination scheme.
+
+IT ASST. MANAGER
+PALASIA HOTEL PALAU
+P.O. Box 10027 Koror, Republic of Palau 96940
+Phone: 680-***-****
+Sep 1, 2007 – Aug 27, 2008 ( 1 Year )
+
+Duties and Responsibilities:
+* Administration and maintenance of the hotel systems: Fidelio PMS (Front Office), Quick Book Accounting System, Network Systems (Novell and Windows™), Internet Gateway PC, Telephone System (SMDR), VingCard Door Access System, CCTV System, workstations and stand-alone computers.
+* Represent management in the handling of guest complaints and ensure appropriate follow-up with respect to Hotel issues.
+* Maintain a thorough understanding of the policies and procedures for all emergency situations and ensure they are handled in accordance to the hotel's policies and procedures.
+* Study, evaluate, and recommend improvement on the Hotel’s IT Policy & Procedures.
+* Create artistic design for banners, coupons, and flyers for in-house promotion or special occasions.
+* Maintain hotel website.
+* Ensure operation is maintained at acceptable levels, including recovery and reconfiguration procedures.
+* Evaluate and forecast network and storage capacity against projects growth.
+* Monitor network service facilities to ensure reliability and availability.
+* Plan and implement changes to workstations and/or servers environment.
+* Support/Manage performance and maintains security of Networks & Users Data.
+* Perform periodic backup of company data.
+* Control and maintains access of users to company resources (i.e. Storage, E-mail, Network Printers, etc.).
+* Configure and deploy local and network printers.
+* Provide technical support to 50+ users in disaster recovery, contingency test, software installation, etc.
+* Facilitate the procurement of IT equipment, and software applications.
+* Ensure that PCs/laptops are set up and equipped with pre-defined standards/applications (i.e. Microsoft Office Suite, etc.).
+* Provide technical resolution of hardware and office applications problems.
+* Check and monitor appropriateness of environmental conditions for the IT equipment and devices (i.e. UPS, Enterprise Printers, Network Switches, etc.)
+
+Key Accomplishments:
+* Performed IT inventory and created a comprehensive IT Asset Management EXCEL spreadsheet to properly record equipment details, value, location, user assignment, etc. of all IT equipment/devices.
+* Resolved and stabilized network connectivity issues through implementation of a carefully planned network design.
+* Setup Wireless Internet Facility in the Hotel’s public area.
+* Fixed long-term issue on the Reservation which affected room blocking – the root cause of erroneous data resulting to improper hotel management.
+* Proper documentation of Hotel systems.
+* Kept a virus-free network environment.
+
+TECHNICAL SUPPORT ENGINEER
+TOUCHSTAR SOFTWARE
+9-C Strata 2000 Plaza, Emerald Avenue, Ortigas Center, Pasig City, Philippines 1800
+May 2006 – Aug 2007 ( 1 Year, 4 Months )
+
+Duties and Responsibilities:
+* Corresponds with customers via inbound phone calls, email and instant messaging to elicit customer requirements and provide technical support in an accurate and timely manner.
+* Ensure all customer-related activities are properly and accurately logged via the Salesforce CRM Tool.
+* Performs system assessment remotely on the client site using either LogMeIn or GoToMeeting.
+* Draws on knowledge, tools, and resources, to assist and resolve the customer issues promptly.
+* Identifies and resolves technical problems promptly using tools such as online search engines and the TouchStar Knowledge base.
+* Collaborates with relevant TouchStar resources to arrive at best answers.
+* Develops alternative solutions for customer concerns.
+* Properly escalate unresolved issues to appropriate internal teams.
+* Provide prompt and accurate feedback to customers.
+* Installs, configures, and navigates software applications (i.e. Microsoft Windows, Networking Architecture, Relational Databases, TCP/IP, etc.) with no supervision.
+* Actively engages in efforts, including attending the English Accent Training Program, to improve competency in customer service.
+
+Key Accomplishments:
+* Created user’s manual on several TouchStar Software add-on utility programs to aid TouchStar Software’s Global Technical Support Team.
+* Created statistical analysis and monitoring tool to assess performance and functionality of the TouchStar Software system running on client’s site.
+
+TECHNOLOGY MANAGER
+THE HERITAGE HOTEL MANILA
+Roxas Boulevard corner EDSA, Pasay City, Philippines 1300
+Phone: 632-***-****
+Oct 2002 – Feb 2005 ( 2 Years, 5 Months )
+
+Duties and Responsibilities:
+* Administration and maintenance of the hotel systems: Fidelio Systems (Front Office, Food and Beverage, Sales & Catering, Back Office), Network Systems (Novell), Internet Gateway PC (Linux SuSE), Call Accounting System (DATACOM), workstations and stand-alone computers.
+* Analyzes all requirements for IT, equipment, supplies and outside services.
+* Facilitates the procurement of IT equipment, software applications, and outside services.
+* Prepares expense and capital budget recommendations and justifies increased IT capital investment through cost/benefit analysis.
+* Takes part in the development of long-range computerization plans with the formulation of goals, consistent with the objectives of the Hotel.
+* Responsible for the performance, safety, and security of the Hotel’s IT hardware and software.
+* Audits IT facility to ensure that the established policies are followed and that appropriate controls are in place.
+* Safeguards confidentiality of information processed by the department.
+* Perform periodic backup of company data.
+* Prepares and implement Disaster Recovery Plans for hardware breakdown, or system downtime.
+* Ensures that hardware and software are covered with Service Maintenance Agreement.
+* Evaluate and forecast network and storage capacity against business growth.
+* Proactively monitor network service facilities to ensure reliability and availability.
+* Review IT operational workflow and procedures, and submit improvement recommendation.
+* Plan and implement changes to the Servers environment.
+* Maintain security of network and user data.
+* Control access of users to Hotel IT resources.
+* Configure and deploy local and network printers.
+* Provide technical resolution to hardware and software issues.
+* Check and monitor appropriateness of environmental conditions for the IT equipment and devices (i.e. Server, UPS, Enterprise Printers, Network Switches, etc.)
+
+Key Accomplishments:
+* Facilitated the upgrade of obsolete Server. Peak performance of the server was reached. Resulting data throughput increased effectiveness and efficiency of employees involved in computer-assisted hotel operation.
+* Deployment of individual Uninterruptible Power System (UPS) for all workstations. Integrity of hotel-data was protected. Data corruption due to power outages/fluctuations/loss was eliminated.
+* Provided essential information in the implementation of In-Room Broadband Access, acquired from collaborating with several vendors during on-site surveys, preliminary discussion, and submission of formal proposals.
+* Created and distributed troubleshooting manuals for several hotel systems, acquired from day-to-day activities. Thus, problem isolation became easy, and problem resolution applied readily on-the-fly.
+
+INFORMATION SYSTEMS OFFICER
+THE PENINSULA MANILA
+Corner of Ayala and Makati Avenues, Makati City, Philippines 1226
+Phone: 632-***-****
+Oct 1997 – Oct 2002 ( 5 Years, 1 Month )
+
+Duties and Responsibilities:
+* Support the information requirements of all levels of business activity and for all areas of end user computing, such as but not limited to the Fidelio Systems (Front Office, Food and Beverage, Sales & Catering, Back Office), Network Systems (Novell),, Call Accounting System (FCS), workstations and stand-alone computers.
+* Provide technical (network/hardware/ software) support to end-users, clients/guests, and employers alike.
+* Troubleshoot and determine problems arising from various situations and prepare report addressed to concerned department.
+* Installs software systems, trains end users in the day-to-day operations of the system, formulates required manual support and control procedures, and provides ongoing operational support.
+* Designs, develops, and implements customized systems applications not being addressed by the existing software applications.
+* Ensure proper periodic backups of existing databases necessary for the continuous and smooth day-to-day operation.
+* Review products offered by different vendors.
+* Plan and coordinate the integration of office automation equipment and applications into the company’s computer network and into future information systems design.
+* Coordinate with vendors the repair of defective computers and accessories, including printers and fax machines.
+* Coordinates implementation of, and test plan to continue establishment of data processing activities at off-site location in case of emergency.
+* Provide recommendations and improvements in hardware and computer systems.
+* Perform other duties that may be assigned from time to time.
+
+Key Accomplishments:
+* Created troubleshooting manuals for several hotel systems, acquired from day-to-day activities. Thus, problem isolation became easy, and problem resolution applied readily on-the-fly.
+* Minimized end-user support by conducting technical seminars and trainings. Thus, maximizing IT manpower resources for larger projects.
+
+PRODUCT MANAGER
+HOPESEA INFORMATION SYSTEMS (PHILS.), INC.
+Metropolitan Avenue, Makati City, Philippines 1200
+Phone: 632-***-****
+Apr 1991 – Oct 1997
+6 Years, 9 Months
+
+Other Positions Held:
+* PRODUCT SPECIALIST (Jul 1996 - Feb 1997)
+* SR. SOFTWARE ENGINEER (Jul 1995 – Jun 1996)
+* JR. SOFTWARE ENGINEER (Jan 1993 – Jun 1995)
+
+Duties and Responsibilities:
+* Directly responsible for major activities involving several systems, such as, but not limited to, RetailerPRO Retail Management / Point-of-Sale System, and SecureData Security System.
+* Formulate pricing structures, conceptualize product brochures, and create marketing plans and strategies.
+* Review technical specifications and evaluate new products, specifically POS hardware.
+* Network infrastructure design and implementation.
+* Ensure that System Development Life Cycle (SDLC) is strictly followed for software solution projects being undertaken.
+* Assist members of the development team in some aspect of Software Development.
+* Provides assistance to clients in the installation and conversion of software systems, trains end users in the day-to-day operations of the system, formulates required manual support and control procedures, and provides ongoing operational support.
+
+Key Accomplishments:
+* Development of RetailerPRO (previously known as RetailPRO) – a Retail Management System for the Philippine retail market.
+* Deployment and implementation of RetailerPRO for several clients – the biggest of which is ENCHANTED KINGDOM at Sta. Rosa, Laguna, Philippines.
+
+* Computer Technician (Apr 1991 – Dec 1992)
+
+Duties and Responsibilities:
+* Network infrastructure design and implementation.
+* Configure resource sharing over the network through LANSmart Network Operating System.
+* Performs troubleshooting and repair of computer, and peripherals such as, monitors, CPU, disk drives, and keyboards.
+* Performs troubleshooting and repair of Point-of-Sale Terminals and peripherals such as, cash drawer, POS printer, customer display, and POS keyboards.
+* Performs product demonstration to clients.
+* Performs system upgrade.
+
+SKILLS AND PROFICIENCES:
+
+* Network Infrastructure Design and Implementation (LAN/WAN). - Network infrastructure (LAN/WAN) design and implementation, with working knowledge of DHCP, DNS, TCP/IP, NDS, SMTP, etc.
+
+* Server Configuration, Deployment and Administration. - Server Configuration, Deployment and Administration.
+- Linux SuSe Administration (1 year only).
+- Novell NetWare Configuration and Administration (12 years).
+- Windows Server Configuration and Administration (>15 years).
+01. Domain Controller
+02. Active Directory
+03. DHCP, DNS, etc.
+04. File Services
+05. Print Services
+06. Windows Update Services
+07. Group Policy Management
+08. Security Groups
+09. Windows Server Backup
+10. Windows PowerShell
+11. Event Log Management
+
+* Firewall Configuration and Administration. - Configuration and administration of FortiGate 80C Firewall.
+
+* Network-Attached Storage Administration. - Configuration and administration of Synology DiskStation DS412+.
+
+* Antivirus. - Highly familiar with the configuration, deployment, and administration of popular antivirus solutions (i.e. ESET, TRAPS, Symantec, Kaspersky, AVG, etc.)
+
+* Technical Writing. - Creates user manual and illustrated guide.
+
+* Microsoft Office Suite. - Highly proficient in Microsoft Office applications (Word, Excel, PowerPoint, Publisher, Visio, Outlook, Access).
+
+* Microsoft Office 365 (O365). - Microsoft Office 365 (O365) Configuration and Administration.
+
+* Asset Management. - Performs complete inventory and creates comprehensive IT Asset Management EXCEL spreadsheet to properly record equipment details, value, location, user assignment, etc.
+
+* Computer Troubleshooting and Repair/Assembly. - Ability to troubleshoot and repair computer (PCs/laptops) issues.
+
+* Cloud Computing and Virtualization. - Sound understanding of, and familiarization with, cloud computing (i.e. AWS, Microsoft Azure) and virtualization (i.e. VMware, Citrix) technology.
+
+* POS (Point-of-Sale) Development and Deployment. - Using CLARION, a Rapid Application Development tool, developed a Retail Management System capable of running on various POS (Point-of-Sale) terminals which can be deployed as stand-alone or on a network.
+
+* Fidelio PMS System Administration. - Administration of Fidelio PMS System (Front Office, Food & Beverage, Sales & Catering, Back Office)
+
+* MICROS 8700 HMS System Administration. - Micros 8700 Hospitality Management System Administration.
+
+* Call Accounting Administration. - Administration of Call Accounting Systems (i.e. FCS Systems (Call Accounting, Voiced Minibar, Winfax), DATACOM Call Accounting System).
+
+* Door Access System Administration. - Administration of VingCard Door Access System.
+
+* Adobe Suite. - Proficient in the use of Adobe Suite (Photoshop, Acrobat, Illustrator).
+
+* Security: IrisAccess Setup and administration of IrisAccess® iData EAC Software, and iCAM7000 Series IRIS Readers.
+
+* Encryption. - Highly proficient in the use of U.S. DoD-recognized encryption system (BITLOCKER and SECUREDOC).
+
+* Typing Skills. - Typing Speed at the rate of 90+ WPM.
+
+* Public Speaking. - Conducts Training and Seminars.
+
+SEMINARS/TRAINING ATTENDED:
+
+* Microsoft Office 365 (O365) Basic Administration Training Course
+(Aug 17, 2015, On-Line Training Course, Sandra Batakis - http://sandranetwork.com/)
+* RetailPRO® Certified Technician Training Course (Retail Merchandising System)
+(Nov 7-18, 2005, Dusit Hotel Nikko – Philippines, Island Pacific)
+* Lotus Notes Training
+(Jun 26, 2002, The Shangri-La Hotel EDSA – Philippines)
+* Touchscreen Retrofit Training Course
+(Oct 25, 1995, Microtouch – Singapore)
+* Sarema XT (Intelligent Cash Register) Training Course
+(Oct 22-24, 1995, Sarema – Hong Kong)
+* Train-the-Trainor Training Course
+(Nov 2000, The Peninsula Manila – Philippines)
+* The 7-Habits of Highly Effective People Training Course
+(Mar 1998, The Peninsula Manila – Philippines)
+
+SEMINARS/TRAINING CONDUCTED:
+
+* User's Troubleshooting Seminar
+(July 2002, The Peninsula Manila, Makati, Philippines)
+* Infotrak Time and Attendance System Orientation
+(May 2000, The Peninsula Manila, Makati, Philippines)
+* Windows and Microsoft Office Training Course
+(August 1999, The Peninsula Manila, Makati, Philippines)
+* SecureData Training Course
+(March 1996, Hopesea Information Systems Phils., Inc., Makati, Philippines)
+* Local Area Network
+(September 1992, Philippine Christian University, Taft Avenue, Manila, Philippines)
+* Disk Operating System
+(October 1990, Technological University of the Philippines – Taguig Campus)
+
+EDUCATION:
+
+Bachelor in Technology (BT) - Major in COMPUTER TECHNOLOGY
+Technological University of the Philippines (TUP)
+Taguig Campus, Taguig City, Philippines May 1988 – March 1991
+
+PERSONAL DATA:
+
+Date of Birth : 12 October 1971 Passport No. : P8910060A
+Place of Birth : Manila Date Issued : 26 Sep 2018
+Nationality : Filipino Date Expire : 25 Sep 2028
+Religion : Catholic Place of Issue : PE ISLAMABAD
+Languages : English and Tagalog (Filipino) POEA eRegistation No. : 201**********
+Height/Weight : 5 ft 4 in / 143 lbs (65 Kilos) Social Security No. : 03-9792240-6
+Civil Status : Married Tax ID No. (TIN) : 100-908-506
+Spouse’s Name : Carmela B. Manlapaz Pag-Ibig No. : 000*********
+Mother’s Name : Dolores C. Manlapaz POP ID No. : T000921977
+Father’s Name : Gener M. Manlapaz (deceased) PhilHealth No. : 070*********
+Address : No. 55, 7th St., Aguilar Compound, BF Resort Village, Talon Dos, Las Piñas City, Metro Manila, 1747 Philippines
+
+PHILIPPINE GOVERNMENT EXAMINATIONS TAKEN/RESULT:
+
+National College Entrance Examination : 99%
+Career Service Professional Examination : 87.01%
+
+PROFESSIONAL REFERENCES:
+
+MR. BRIAN KELLY
+Senior Project Manager
+BL HARBERT INTERNATIONAL LLC
+New US Embassy Compound Project at Islamabad, Pakistan.
+E-mail: adahwm@r.postjobfree.com
+Tel: +92-300-*******
+* closing Project Manager for BL HARBERT New US Embassy Compound Project at Islamabad, Pakistan.
+
+MR. ZACHARY CARTER
+Senior Project Manager
+BL HARBERT INTERNATIONAL LLC
+820 Shades Creek Pkwy. Ste. 3000, Birmingham, Alabama, United States
+E-mail: adahwm@r.postjobfree.com
+Tel: 205-***-****
+* former Project Manager for BL HARBERT New US Embassy Compound Project at Islamabad, Pakistan.
+
+MR. RICHARD SIPPEL
+General Manager at The Mining Pty Ltd
+Darwin Northern Territory
+PO Box 684, Parap NT 0804
+E-mail: adahwm@r.postjobfree.com
+Mobile: +61 (0408) 702-402
+Tel: +61-08-894*-****
+* former Chief Representative of RMS ENGINEERING AND CONSTRUCTION PTY LTD
+
+MR. RAYMOND STOVER
+VP of Sales at MyCallCloud
+10754 Belle Creek Blvd., Suite 109
+Henderson, Colorado 80640
+E-mail: adahwm@r.postjobfree.com
+Tel: +1-888-***-****
+Cell: +1-720-***-****
+* former Director of Manila Operations at TOUCHSTAR SOFTWARE
+
+MR. ROBERT GABITAN
+Senior Sales Manager
+Oracle (Philippines) Corporation
+33rd Floor. Zuellig Building
+Makati Avenue corner Paseo De Roxas
+Makati City, Philippines 1225
+E-mail: adahwm@r.postjobfree.com
+Tel: 632-***-****
+* former Senior Sales Manager at HOPESEA INFORMATION SYSTEMS (PHILS.), INC.
+
+MR. PAUL HADLEY
+Former Senior Business Manager (RETIRED)
+BL HARBERT INTERNATIONAL LLC
+NEC Project at Islamabad, Pakistan.
+E-mail: adahwm@r.postjobfree.com
+
+MS. RHODORA LIZA
+De La Salle College of Saint Benilde
+2544 Taft Avenue, Manila, Philippines 1004
+E-mail: adahwm@r.postjobfree.com
+Tel: 632-***-****
+* former ISD Manager at THE PENINSULA MANILA
+
+Contact this candidate

@@ -1,0 +1,50 @@
+Job Title = Technician
+
+Job Details
+
+Technician
+Position ID: # EB-
+Date Posted: 8/20/2019 4:10:01 PM
+Location: Denver, CO
+Industry: Industrial
+Job Type: Full Time
+
+Job Description
+
+The Industrial Maintenance Technician III (Tech III) can lead other service technicians, design solutions for difficult problems, able to manage outside contractors, be on call for emergencies, ability to handle multiple projects and daily activities, and meet time lines. Develop plans on how to accomplish departmental and distribution goals.
+
+Basic Skills/Systems Preferred:
+(candidates do not need to possess all of the listed attributes)
+Experience and proficiency in the following areas:
+•Automated conveyors systems and controls
+•Electrical and electronic principles
+•Blueprint and electrical schematic reading
+•Knowledge of CMMS programs
+•Preventative maintenance procedures
+•Industrial electrical
+•Industrial controls
+•Industrial Electronics
+•PLC programs
+•Knowledge of N.E.C.
+
+Job Posting { "@context" : " "@type" : "JobPosting", "title" : "Technician", "description" : "The Industrial Maintenance Technician III (Tech III) can lead other service technicians, design solutions for difficult problems, able to manage outside contractors, be on call for emergencies, ability to handle multiple projects and daily activities, and meet time lines. Develop plans on how to accomplish departmental and distribution goals.
+
+Basic Skills/Systems Preferred:
+(candidates do not need to possess all of the listed attributes)
+Experience and proficiency in the following areas:
+•Automated conveyors systems and controls
+•Electrical and electronic principles
+•Blueprint and electrical schematic reading
+•Knowledge of CMMS programs
+•Preventative maintenance procedures
+•Industrial electrical
+•Industrial controls
+•Industrial Electronics
+•PLC programs
+•Knowledge of N.E.C.
+", "identifier": { "@type": "PropertyValue", "name": "Orion Talent", "value": "EB-" }, "datePosted" : "8/20/2019 4:10:01 PM", "employmentType" : "FULL_TIME", "hiringOrganization" : { "@type" : "Organization", "name" : "Orion Talent", "sameAs" : " "logo" : " }, "jobLocation" : { "@type" : "Place", "address" : { "@type" : "PostalAddress", "addressLocality" : "Denver", "addressRegion" : "CO", "addressCountry": "US" } }, "baseSalary": { "@type": "MonetaryAmount", "currency": "USD", "value": { "@type": "QuantitativeValue", "value": 0.0000, "unitText": "Annual" } }}
+Please Login or Register to apply. Return to Search
+
+
+Go to apply 
+

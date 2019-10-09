@@ -1,0 +1,186 @@
+
+Laksmi narayana Peela
+adai2e@r.postjobfree.com- 475-***-****
+USA Visa Status: H1B.
+
+SUMMARY
+Over 13 years of Object-Oriented Software Design and Development experience in the domain of Insurance, Banking, securities and financial applications using Internet technologies based on Java and J2EE Technologies.
+Highly interactive communication skills with clients in core decision making meetings.
+Good and very co-operative Team player, fluent communicational skills and innovative, self-starter and self motivated. Consistently got good reviews of being a good team player.
+Highly productive and results-driven in team and individual projects, strong research and time management skills.
+PROFESSIONAL SYNOPSIS
+Expertise in Software Development Life Cycle processes right from Inception Requirements Analysis, Design, Development, Testing and Deployment though the Implementation.
+Extensive project implementation skills using both Java and J2EE technologies (Java, ORM, JPA, Spring boot, XML, Json, Maven and PCF Cloud) with various middleware technologies and databases.
+Strong Experience in MVC (Model View Controller) architecture by using Struts framework and spring boot framework and sprint security
+Experience in implementing middleware technologies like JMS and in J2EE Design Patterns
+Experiences with persistence on backend using HIBERNATE.
+Proficient in Web Services implementation with SOAP/Json and WSDL.
+Strong Working Knowledge on spring boot.
+Hands-on experience with J2EE Architecture and Application servers Web logic and JBOSS
+Hands on experience with using IDE’s like RSA, Eclipse, RAD, My-Eclipse for Java Programming.
+Hands on experience with using build tolls like Ant and Maven.
+Experienced in Integration Testing, monitoring, troubleshooting and supporting J2EE based applications and infrastructure.
+Hands on experience with using Version Control Systems CVS, Rational Clear Case, Subversion and Bitbucket
+Experience in designing/developing and coding applications using Object Oriented Analysis &Design and Transaction Management and visio for design documentation.
+Hands on experience on UNIX.
+Academic
+Master of Computer Science, Andhra University, India.
+Bachelor of Computer Science, Andhra University, India.
+Core Competencies
+Languages : Java, J2EE, Java 8.
+Web Development : JSP, Servlets, AJAX
+Middleware : J2EE, EJB, JDBC, JNDI
+Frameworks : Struts, Spring, Hibernate, Spring boot, Sprint security, ORM
+Databases : Oracle, DB2, MYSQL
+Application Servers : Web Logic, Web Sphere and JBoss
+Design Méthodologies : UML (Rational Rose), J2EE Design Patterns, MVC
+Version Control Tools/IDE : SVN, VSS, Win-CVS, Eclipse, RAD.
+Operating Systems : Unix, Windows.
+Build/Testing Tools : Maven, Ant
+SDLC : Waterfall and Agile Model
+Cloud Environment : PCF (Pivotal cloud foundry)
+Messenger : Kafka
+IDEs and other tools : Eclipse, STS (Spring Suite Tool), TOAD, My Eclipse, Splunk
+
+Certification
+Sun Certified Java Programmer
+SOA Solution Designer -2007
+Career Path:
+CURRENTLY WORKING AS SENIOR TECHNICAL LEAD IN HCL TECHNOLOGIES LTD FROM 2012 TO TILL DATE.
+WORKED AS A SENIOR ASSOCIATE IN SAPIENT FROM 2009 TO 2012.
+Worked as a SENIOR SOFTWARE ENGINEER in WIPRO from 2005 to 2009.
+Worked as Software Engineer in IBM from 2004 to 2005.
+
+Professional history
+Client: Retail Financial International Holdings June 2018-Till date
+Location: Stamford-CT
+Project: Credit Transformation
+
+Environment: Spring boot, Maven, PCF, Bitbucket, Jenkins.
+
+Retail Financial International Holdings is building a new Credit acquisition system leveraging cloud technologies and micro services.
+
+As part of the Credit Transformation change, Syn-apps is critical changes to migrate the legacy application to Cloud environment. For new Card process for all the synchrony customers, Travel by pass process to activate the syn cards for customer travel outside the location. Integration of the payfone service to Syn-apps application for the better customer experience and Pay-fone service integration.
+
+Contribution and Responsibilities:
+
+Closely worked with the Product Owner and Business teams to discuss the clarity and feasibility of the functional requirements.
+Consumed web services which were written using Json Restful.
+Deployment of the application in Cloud environment using Jenkins pipeline.
+Create the services in Pcf to generalize the environment and application configuration.
+Bind the related configurations to the application.
+Monitored application logs in Dev, IT, ST and Performance environments to support the build team.
+Coordinated with the QA team to help develop their test-cases.
+Code walk through with J2EE standards / Architecture team and transition to Support team
+Log4j framework was used for logging
+Maven is used to build and deploy the application
+Bitbucket has been used as version control system and Eclipse with spring boot is using to develop applications.
+My-Sql workbench for database operations.
+Leading the team and involved in on-boarding and training new resources and execution of daily job for each resource in the team.
+Splunk reporting for dashboard the application log in UI.
+Effectively used Agile and scrum meetings.
+
+Project: GRIM and Carbon curve applications. Location: Bangalore
+June 2012- June 2018
+
+Environment: Java, J2EE, JSP, Spring, Struts, XML, Log4J, SVN, Maven, JUnit, Ant, HP Quality center, Toad, SQL developer, Putty, Win-Scp, Unix, Windows, my-Eclipse
+
+Carboncurve:
+
+Business requirements to enhance the current version of the Carboncurve (web-based tool to calculate and capture the potential energy and carbon savings from standard and non-standard energy conservation measures) application to meet the needs of the Eco PMO (Deutsche Bank internal management office to measure and support energy saving targets and projects).Carboncurve is a secure web-based tool developed by Global Technology (GT) and Corporate Real Estate Services (CRES) to calculate and capture potential energy and carbon savings for standard and non-standard Energy Conservation Measures (ECMs). Originally developed to support the Global Climate Partnership Fund (GCPF) and European Energy Efficiency Fund (EEEF), Carboncurve will be enhanced to replicate the current Energy Initiative Application (EIA) process for the internal Eco PMO which is currently managed on a SharePoint site.
+
+Grim:
+The obligatory trade reporting of UK Gilts to London Stock Exchange is handled by an application called “Grim” within the Deutsche Bank infrastructure which receives the trade data from Trade Manager. The objective of the project is to define the business and legal requirements on UK Gilts primary market deals which need to be excluded from the Gilt trade reporting to the London Stock Exchange through the GRIM application. The reporting should exclude all primary market deals done the 1st tranche of a new issue or any other following tranches (tap) as well as our purchases between Deutsche Bank and other market makers, since only the seller is obliged to report to London Stock Exchange. The existing logic in GRIM filters the above mentioned trades insufficiently and causes complaints addressed by the London Stock exchange to Deutsche Bank’s compliance team, creating the risk of fines being imposed by the regulator . Further to the suppression of primary market deals, trades with low trading volume should be reported. The current logic in GRIM is rounding down to zero and suppressing the trade reporting which causes an underreporting.
+Contribution and Responsibilities:
+Design patterns such as Factory pattern, command, Adapter and Singleton has been implemented.
+Consumed web services which were written using soap over xml and Restful. Also exposed all the Business process classes as web services using soap with XML.
+Used JSTL and implemented Custom Tag libraries for the JSP’s
+Monitored application logs in Dev, IT, ST and Performance environments to support the build team in resolving build/deployment issues using tools like Putty, Winscp.
+Worked J2EE Infrastructure and Run time analyst to build different environments and to deploy external configuration files/ properties files.
+Coordinated with the QA team to help develop their test-cases.
+Code walk through with J2EE standards / Architecture team and transition to Support team
+Maven is used to build and deploy the application
+TortoiseSVN has been used as version control system and Eclipse is using to develop applications.
+Involved in the implementation of all the releases and in resolving production issues.
+Toad and SQL developer has been used to connect to database.
+Experience on leading the team and involved in on-boarding and training new resources and help them during task execution.
+
+Aug 2011-June 2012
+Project: Universal Banking Location: Bangalore
+
+Environment: JAVA, J2EE, JSP, log4j, Maven, spring, Junit, Unix, Putty, Win-scp, J2EE with Banking Tool.
+
+Universal banking business is one of the world’s leading providers of solutions and services to retail, corporate and wholesale banks and financial institutions. Misys Universal Banking solutions enable financial institutions to carry out the essential tasks across retail, corporate and wholesale banking, e.g. managing direct debits, deposits, retail lending, treasury, trade finance, cash management and corporate lending, and ensuring the highest service to customers over every available channel. These solutions help banks to meet their business objectives in these areas, including streamlining operations, launching new products, reduce costs, improve efficiencies, and improve customer experience, increasing revenues and profits while minimizing risk..
+
+Contribution and Responsibilities:
+Involved in design and development of Document provider service.
+Working on Fixed deposit module for Universal Banking
+Design Patterns such as Adapter and singleton pattern have been implemented.
+Responsible for code reviews and estimating the timeframe for the tasks.
+Communicated with the business Analyst for requirements clarification.
+
+Sept 2009-July 2011
+Project: Ecenter Location: Bangalore
+
+Environment: ATG, JAVA, J2EE, JSP, XML, log4j, Maven,, Junit, UNIX, Putty, Win-scp, Jboss
+
+Sprint Nextel is communication Services Company having 48.8 million customers. This is a website for the Sprint, which a third largest telecom service provider company in US. Sprint.com is more interactive and user friendly to the customer for Sprint. Business can change any content dynamically at any time. This dynamic content attracts the customer and it has integration of various services. Ecenter is the module in MySprint for business users. This was an advance part of Sprint 2.0 project. Here we built an experience for business users of Sprint. I played a developer role here implementing a very complex user profile repository design, many aspect of personalization along with business user profiles.
+
+Contribution and Responsibilities:
+Involved in design and development of Document provider service.
+Working on integrating to the third party application like Right now and Registration
+Design Patterns such as Adapter and singleton pattern have been implemented.
+Responsible for code reviews and estimating the timeframe for the tasks.
+Communicated with the business Analyst for requirements clarification.
+Working on the Interfacing system for processing the data to the downstream systems
+
+Jan 2009-June 2009
+Project: DMG Location: Bangalore
+
+Environment: JAVA, J2EE, JSP, XML, XSD schemas, log4j, Maven, JavaScript, CSS, Html JMS, IBM RAD, Junit, Unix, Putty and Win-scp.
+
+DMG is used primarily by trading and risk & settlement applications in the forex (FX) environment that require counterparty or reference data. Or any application that requires Counterparty data. The Data Management Group system, DMG, is a central repository for static data. The DMG system handles centrally the core information and Static Data for counterparty’s going through Zurich-FX systems, DESY Trading and DBO BackOffice systems (PM/MM/FX), ‘E’business (Ecredit) and Equities business (YEP)
+
+Contribution and Responsibilities:
+Involved in design and development of Document provider service.
+Design Patterns such as Adapter and singleton pattern have been implemented.
+Responsible for code reviews and estimating the timeframe for the tasks.
+Communicated with the business Analyst for requirements clarification.
+Working on the Interfacing system for processing the data to the downstream systems
+
+Client : NYSE June 2005 – Dec 2008
+Project: Intermarket Market Surveillance Information System Location: Nyse -New York
+
+Environment: Java, Oracle 9, XML, Servlets, Actuate, Oracle Database 10g,J2EE,JSP,Java Servlets,Struts, Tomcat Web Server,WebSphere,Finance,Security,Java,Eclipse,JUnit,Securities,Spring,
+
+Market Surveillance is the New York Stock Exchange division responsible for monitoring trading activities on the Floor and trading by member firms of NYSE-listed securities, both on a real-time basis and after the fact. The division also investigates trading abuses, recommends formal or informal disciplinary actions and refers matters to the Exchange's Enforcement division or to the Securities and Exchange Commission (SEC) for matters outside NYSE jurisdiction Market Surveillance also has responsibility for: Floor member education and Floor official training, specialist performance evaluation, intermarket cooperation, development of regulatory rules, implementing the Exchange’s allocation policy. Market surveillance application can broadly be classified in three categories Alert generation system: These are the system which generate alert on trade/quote/order data Alert management system: This set of system manages alerts generated….and assign to analyst to assist in their analysis and Alert support system: This set of data is for in-depth supporting data around the alert like insider trading/Blue sheet data etc.The ISIS system (Intermarket Surveillance Information System) is a core surveillance system, will scanning huge trading data and come out with helpful patterns .These patterns will be related to Members performance as well as surveillance and will acts as probing ground for more detailed surveillance analysis by required analysts
+Contribution and Responsibilities:
+Involved in the full life cycle of the project including requirements gathering, coding, testing and creating of functional document.
+Extensively working on the eActuate for Report generation
+Developed Action forms, Form beans, Java Action Classes using Struts.
+Implemented various business functionalities like dropdowns, transformations, left navigation, top action header and search in the front end GUI.
+Performed Unit testing using JUNIT.
+Used CVS keeps track of all work and all changes in a set of files, and allows several (potentially widely separated) developers to collaborate and Carried out Unit testing for the developed modules.
+
+Sept 2004 – March 2005
+Project: Order Processing System. Location: Bangalore
+
+Environment: Java, Servlets, XML, Eclipse, Oracle, Toad, Windows NT, iPlanet Web Server, Sublime
+
+Order processing system is a complex software application which dealt with creation of Orders/placing the orders for the customers of AT&T with respect to the products or services provided by AT&T. This involved interfacing with lots of external systems for Billing, Provisioning, Status tracking, etc. The front end part, which implies the UI using which the order is placed, takes lots of processing after the order is placed by customer like Order Decomposition, where we decompose the Order and send it to appropriate systems for processing it( Ex: Billing, Provisioning etc ). This part of order decomposition is the centralized part of the whole application where all the processing starts from here. Interfacing with other systems was done using XML over HTTP. This was the basic way of communication where in we used to send XML request with respect to the business details which has to be sent to that system and wait for a response from it. Here there was a concept of synchronous and asynchronous where the response could be any of these, based on the system which is processing it. From architecture point of view, we had followed Model View Controller (MVC) architecture. But AT&T had their own implementation of this.
+
+Contribution and Responsibilities:
+Client interaction for handling the requirements and development issues, also including discussions on business logic involved in the application. Interfacing with the external systems ex: Billing. Requirement analysis, Coding and Test Case/Plan.
+
+June 2004 – Sept 2004
+Project: EUAM Location: Bangalore
+
+Environment: Java, Servlets, JSP, EJB, Struts, Eclipse, Oracle, Toad, Windows NT, Web Logic, XML Ant, Banking & Finance.
+
+This application is developed for maintaining the AT&T user accounts. The User accounts will be maintained in the form of tree hierarchy. Hierarchy node is the root node for this tree. Then Bundle Aggregators, Invoices, CDGs Sub Accounts, Circuit aggregators and Services will be in the tree. We can add plans and statements on nodes.
+
+Contribution and Responsibilities:
+
+·Responsible for fixing the tickets (user’s issues). Worked in RTB (Run The Business).
+
+Contact this candidate

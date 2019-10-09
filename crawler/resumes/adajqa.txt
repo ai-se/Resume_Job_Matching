@@ -1,0 +1,218 @@
+
+CURRICULUM VITA
+
+MOHAMMAD MAHTAB ALAM
+Email: adajqa@r.postjobfree.com / Skype ID: mahtabalam70
+Kuwait: +965-********
+
+Subject: Post Applied for -: Instrumentation Supervisor
+
+Being given to understand that there is exist some vacancies for the above mentioned
+Post for abroad in your esteemed organization. I would like to apply for the same. My particulars are as under for your kind consideration.
+
+I have nearly 17 years of comprehensive experiences in the field of process control and instrumentation. Relevant experience comprises rehabilitation and modernization of oil & gas facilities. Electrical and instrumentation control system predominantly in the fields of oil & gas plant. Experience in project activities from “concept “of troubleshooting in the all area.
+
+Abroad Work Experience -: 14 Years
+
+Indian Work Experience -: 04 Years
+
+Objective: To work with a firm where my experience and extensive knowledge of instrumentation and controls and any other industrial automation can be utilized.
+I, with full confidence responding to you that can impress you if I am given an opportunity to prove myself that I can suit to almost satisfaction of my superiors.
+
+HANDLING OF TEST EQUIPMENT & INSTRUMENTS
+
+Smart transmitter of Rosemount with hart communicator like temperature transmitter,
+Pressure transmitter, flow transmitter, level transmitter, level troll, differential pressure
+Transmitter, I/P converter, control valve, ON/OFF valve such as ESDV, SDV, MOV etc.
+Knowledge in handling the test equipment like Druck calibrator, RTD calibrator, thermocouple calibrator Dead weight tester, fluke multimeter, Hart communicator of fisher Rosemount, FOXBORO with HHT, Honey well with SFC, ELSAG BAILEY etc.
+
+EXPERIENCE:
+
+Company : Tecnicas Reunidas (TR)
+Position : Instrumentation Supervisor
+Project : KIPIC Al-Zour Refinery EPC-055A Package
+Main Process Unit
+Country : Kuwait
+Period : 28 Dec. 2018 to Till Date
+
+Worked as a console (DCS) operator for distributed control system, Logic, sequence and function checked of ESD/F&G system with associated cause & effect indications, alarm and start-up overrides, graphic and related configured data.
+Responsible for documentation of any instrument for pre commissioning acceptance for future acceptance.
+Responsible to Carryout installation, Troubleshooting, Loop Test, Logic Check and Function Test of all field instruments such as fire and gas detector (FGS), Hooter (Sounder), Beacons, Manual call Point, Smoke Detectors, MCC (IRP) Loops, and Marshalling / System Cabinets Internal (Alarm) loops, Temperature Transmitter (T/C, Skin, Multipoint, and RTD), Pressure Transmitter, Flow Transmitter, Level Transmitter, Control Valves, On/Off Valves, ESD Valves and Deluge Valve.
+Excellent working knowledge on all types Process Instruments and DCS to the reduce breakdowns and to increase the reliability of the plant.
+Experience in HART and FF Topology, for Foundation Field Bus (PEPPERL + FUCHS) Segment this includes segment verification, download, Configuration, testing and commissioning of segments.
+Responsible to Carryout Site acceptance test (SAT) of DCS, IPS, BMS & F&G Marshalling & System Cabinets, Workstations, Consoles, Analyzers Racks and Analyzer Houses by compiling approved ITP and Company standards and requirements.
+Honeywell Experion Process Knowledge System (EPKS)–R500.2
+Experion Process Knowledge System (EPKS)–R432.1
+Honeywell Safety controller–C300 and S300 Processor modules.
+
+Verification of transmitter software configuration checked hardware configuration according to instrument loop diagram, such as device type, module type no, channel & slot no, prior to represent to the client.
+Familiar to use of Emerson HART Field Communicator 475, Emerson Trex Communicator, Bentley Nevada TK3, Beamex MC6 Multifunction Calibrator, Multi Meters, Hand Pumps, RTD Calibrator, Thermocouple Calibrator and Druck Pressure Calibrators.
+
+Company : Heavy Engineering industries & Ship Building Co.
+Position : Instrumentation Supervisor
+Project : GC-17 Debottlenecking, West Kuwait (KOC)
+Country : Kuwait
+Period : 08 Feb. 2018 to 23 Dec 2018
+
+Responsibility:
+
+Responsible for Troubleshooting, Loop Test, Logic check and function test of all field instruments. level, pressure, flow, temp, level troll, differential pressure transmitter control valve, ON/OFF valve such as BDV, ESDV, SDV, Switches and other pressure indicators using test equipment such as HART, and HONEYWELL SFC communicators, pneumatic hand pump, portable druck calibrator and hydraulic pump depend upon the range of transmitter.
+Involved in the trouble shooting for various instrument from field to control room.
+Working as a lead technician for loop checking & function test Logic, sequence and function checked of ESD/F&G system with associated cause & effect indications, alarm and start-up overrides, graphic and related configured data.
+Experienced in Field Instrumentation installation, Troubleshooting, loop check and Function test of several Manufacturers Field instruments such as EMERSON, YOKOGAWA, MAGNETROL, KROHNE, ENDRESS & HAUSER, HONEYWELL, MINE SAFETY APPLIANCES (MSA), BANTLEY NAVEDA, and Control, ON/OFF valves of FISHER, BIFFI, VANESSA VIRGO, and MOV of ROTORK, L&T and Analyzers of SIEMENS and ABB.
+Responsible for documentation of any instrument for pre commissioning acceptance for future acceptance.
+
+Company : Heavy Engineering industries & Ship Building Co.
+Position : Instrumentation Supervisor
+Project : GC- 29, 30, 31 North Kuwait (KOC)
+Country : Kuwait
+Period : 04 Feb. 2016 to 26 Dec. 2017
+
+Responsibility:
+
+All types of process Instrument calibration and Loop checking Glanding and termination primary and secondary cable laying and system cable also from system to marshalling cabinet and termination in marshalling cabinet and operation of system and knowledge about diagram like P&ID. Location layout. Plot plan. Isometric Diagram. Typical diagram. Trench rooting layout diagram. Cable schedule. Termination diagram ETC
+
+Company : Heavy Engineering industries & Ship Building Co.
+Position : Instrumentation Supervisor
+Project : North LPG Tank Form (NLTF) (KNPC)
+Country : Kuwait
+Period : 28 Sep. 2014 to 05 Dec. 2015
+
+Company : National Contracting Company (WLL)
+Position : Instrumentation Supervisor
+Project : Sepco 3 Power Project (ras al Khair)
+Country : Saudi Arabia
+Period : 18 July 2013 to 12 Oct. 2013
+
+Company : Galfar Engineering (Ltd)
+Position : Instrumentation Foreman
+Project : Remote Degassing Station Asab (ADCO)
+Country : Abu Dhabi
+Period : 05 Nov. 2011 to 05 Oct. 2012
+
+Responsibility:
+
+Cable laying primary & secondary glanding & termination and Fire & Gas system PAGA system installation and cable laying glanding and termination of all types of process instrument and Fire Gas Instrument and PAGA Speaker and call point as per company specify diagram and Fire Gas Instrument like XGD.XTGD.XFD.MCP.XGDT. XGDR.XFAS. XFAB
+
+Company : Saipem
+Position : Instrumentation Foreman
+Project : BS-160 South East of Kuwait (KOC)
+Country : Kuwait
+Period : 07 Oct. 2010 TO 31 July 2011
+
+Responsibility:
+
+All types of Instrument calibration and Loop checking Glanding and termination primary and secondary cable laying and system cable also from system to marshalling cabinet and termination in marshalling cabinet and operation of system and knowledge about diagram like P&ID. Location layout. Plot plan. Isometric Diagram. Typical diagram. Trench rooting layout diagram. Cable schedule. Termination diagram ETC.
+
+Company : Kentech International (Ltd)
+Position : Instrument Technician
+Project : Asab AGD-II (GASCO)
+Country : Abu Dhabi (U A E)
+Period : 16 July 2008 TO 06 June 2010
+
+Responsibility:
+
+Perform calibration of transmitter As per approved data sheet ( level, pressure, flow, temp, level troll, differential pressure ), I/P converter, control valve, ON/OFF valve such as BDV, ESDV, SDV, Switches and other pressure indicators using test equipment such as HART, and HONEYWELL SFC communicators, pneumatic hand pump, portable druck calibrator and hydraulic pump depend upon the range of transmitter.
+Involved in the trouble shooting for various instrument from field to control room.
+Working as a lead technician for loop checking & function test
+Worked as a console operator for distributed control system
+Logic, sequence and function checked of ESD/F&G system with associated cause & effect indications, alarm and start-up overrides, graphic and related configured data
+Responsible for documentation of any instrument for pre commissioning acceptance for future acceptance.
+Verification of transmitter software configuration, checked hardware configuration according to instrument loop diagram, such as LCN& UCN node, device type, module type no, channel & slot no, prior to represent to the client Perform calibration of transmitter As per approved data sheet ( level, pressure, flow, temp) Switches and other pressure indicators using test equipment such as HART.
+
+Company : Qatar Kentz (WLL)
+Position : Instrument Foreman
+Country : Doha Qatar
+Period : 16 April 2005 TO 27 April 2008
+
+Responsibility:
+
+HONEYWELL SFC communicators, pneumatic hand pump, portable druck calibrator and hydraulic pump depend upon the range of transmitter.
+Assigned in bench and field calibration of different kinds of valve either modulating or ON/ OFF valve (solenoid type). Of different types of manufacturers using some test equipment like HART communicator in a digital valve controller, powered by a control system. Output card, current injector/ loop calibrator and portable 24vdc power supply in case of solenoid type at same time checking their respective limit switches based on its set point and percent dead band.
+
+Company : Gemmo Impianti Spa. ( LIBYA )
+Position : Instrument Foreman.
+Country : Libya
+Period : 05 Oct 2003 to 29 Sep 2004.
+
+Responsibility:
+
+Worked as a console operator for distributed control system,
+Logic, sequence and function checked of ESD/F&G system with associated cause & effect indications, alarm and start-up overrides, graphic and related configured data
+Responsible for documentation of any instrument for pre commissioning acceptance for future acceptance.
+Verification of transmitter software configuration, checked hardware configuration according to instrument loop diagram, such as LCN& UCN node, device type, module type no, channel & slot no, prior to represent to the client
+
+Company : Tecnimont ICB Ltd
+Position : Instrument Technician
+Period : 23th Oct 2001 to 13th Dec 2001
+
+Responsibility:
+
+Working as a lead technician for loop checking & function test During this job I worked with FIRE & GAS, Involved in the calibration of GDF & GDT.
+Knowledge of P&ID, Location Diagram, Plot plan Involved in the troubleshooting for various instrument from field to control room
+
+Company : Ani Instrument
+Position : Instrument Technician
+Period : 05 Jan. 1999 to 24 Sep. 2000
+
+Responsibility:
+
+Involved in executing necessary preventive & corrective maintenance activities carrying out various types of process instrument works, loop checking and commissioning.
+Worked in the construction, involved in the installation of instruments As Per location layout Diagram like transmitters, gauges & All Instrument. Glanding & Termination in the field instruments, Junction box & in the marshalling cabinet in the control room.
+
+Instrumentation Exposure:
+
+Transmitters smart, Electronic, Pneumatic (Foxboro, Yokogawa & Rosemount)
+Switches (Pressure, Level, Flow, Temperature & Proximity) (Sor, Switzer, Delta, Ashcroft & Hycon)
+I / P Converter (Fisher, Rosemount & Moore)
+Solenoid Valves (Asco, Festo & Harion)
+MOV (Rotork & Auma India)
+Control Valves (Fisher DVC 6000 series, ABB, Drag CCC & Valtek)
+Gauges & Air regulators (Budenburg, Wika, Guru & Ashcroft)
+Temperature Elements (RTD & Thermocouple)
+Level troll (Fisher)
+Flame Scanner (Irish & Honeywell)
+Calibrators and Test instrument Used:
+
+Druck 610 IS (400 bar – 1 bar), M.A.Source (Unimot), Hart – 375 & 275, Beemax Multifunction Calibrator, Decade Box, Temperature Bath & Pressure calibrator (Amtek), Digital Manometer, Scandura.Communicator TK-3 kit.
+Keeping good relationship with co-workers, superiors and staff of different nationalities.
+
+Academic Qualification:
+
+Secondary School Certificate
+
+Technical Qualification:
+
+Diploma in Instrumentation & Control
+
+Computer knowledge:
+
+MS WORD
+MS EXCEL
+POWER POINT
+
+Personal Information:
+
+Nationality : Indian
+Date of Birth : 05/04/1976
+Gender : Male
+Marital Status : Married
+Language : English, Urdu, Hindi
+Passport No. : Z 3199907
+Expiry Date : 10/06/2025 (F)
+Place of Issue : Kuwait
+
+Permanent Address:
+
+S/O : MOHAMMAD DAUD
+VILL : MOGALPURA
+POST : MEHSI
+DIST : EAST CHAMPARAN,
+STATE : BIHAR, PIN: - 845426 (INDIA)
+
+Thanking you.
+
+Yours Faithfully
+(Md.Mahtab Alam)
+
+Contact this candidate

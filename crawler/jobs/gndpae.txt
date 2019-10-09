@@ -1,0 +1,19 @@
+Job Title = Engineer
+
+Other Work/Responsibilities: Minimum Education/Experience
+Masters or PhD degree in Engineering, Physics, Applied Physics, or a related discipline. Departmental Required Skills
+Knowledge of operating principles and physics of RFQ proton / deuteron accelerators, including high and low power RF amplifier systems, amplifier circuitry, RF signal generation and impedance matching.
+Knowledge of particle beam systems and transport optics, including accelerator beam focusing and bunching.
+Knowledge of particle beam transport simulation software (e.g. SIMION and/or similar computer programs).
+Experience working with ionizing radiation.
+Knowledge of LabView application software and controls interfacing.
+Ability to repair and troubleshoot legacy control electronics and other obsolete equipment including vacuum tube technology.
+Proficient knowledge of office software programs including project planning, Outlook, Word, Excel.
+Analytical thinker with excellent verbal and written communication skills.
+Ability to work both independently and within a multidisciplinary team.Preferred Experience, Skills, Training/Education
+A minimum of 3 years of relevant technical experience in a particle accelerator based laboratory environment with demonstrated hands on experience with RF amplifier systems, or an equivalent combination of education and experience.Required License or Certification
+N/A
+
+
+Go to apply 
+

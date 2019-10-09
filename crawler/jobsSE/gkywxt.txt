@@ -1,31 +1,51 @@
+Job Title = Skype Or Selenium Or Qa Or Automation jobs in Raleigh, NC, 27606
 
-Title: QA Automation Engineer
-Location: Greater Hartford CT (Windsor, CT or East Hartford, CT)
-Employment: Contract / Contract to hire
-Onsite Face to face is required after Skype discussions
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to the testing automation processes and tools. * Resolve day to day issues and provide solutions * Be QA subject matter expert ...
+- Dice.com, Oct 09
 
-Required Skills:
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to the testing automation processes and tools. * Resolve day to day issues and provide solutions * Be QA subject matter expert ...
+- Dice, Oct 08
 
-The qualified candidate will have proven experience in the following:
-Minimum 5 years of testing experience
-Minimum 3 year experience in test automation
-Hands on experience in creating automated scripts using leading automation tools like Protractor/Selenium
-Understand core Java concepts and using Java along with Selenium
-Thorough understanding in automation and performance concepts
-Hands on experience on with Test cycle management tools like JIRA/HP ALM
-Experience in testing SOAP / REST services / API Testing
-Strong DB skills with ability to write and understand complex SQL queries
-Team Player with strong communication and interpersonal skills
-Understanding agile concepts - Story points estimations, Fail Fast, Continuous Integration
-Understands the concepts of the BDD/TDD or ATDD
+InfiCare Technologies  – 
+Durham, NC
+... deriving the good quality Test Cases, Test Scenarios, Test Data, Test Estimations, Test Execution and Test Automation (using Python, Selenium WebDriver, Selenium-Java) · 3+ years of actual Test Automation hands on experience using Python, Selenium ...
+- Neuvoo, Oct 07
 
-Thanks,
-Mohammed Rayees
-Sr Talent Acquisition
-Software Technology, Inc.
-100 Overlook Center, Suite 200, Princeton, NJ 08540
-Direct:
+IT Automation LLC  – 
+Cary, NC
+... In our next training Batch, we are focused in Test Automation using Apache tools and related open source technologies. Please contact us for further information. Contact: Santhosh ) Course Content: Java Fundamentals Selenium IDE and Selenium Web ...
+- ZipRecruiter, Sep 26
 
+Deegit Inc  – 
+Cary, NC, 27511
+-Experience on automation testing, -Experience in healthcare domain, -Hands on experience/ Knowledge in Claims (Medicare/Medicaid) -Selenium, java, Automation testing.
+- Sep 26
 
-Apply now
+Aerotek, An Allegis Group Company  – 
+Raleigh, NC
+Job Summary QA Automation Engineer Our software team is looking for QA candidates to join a dynamic group of passionate ... as an end user - Strong troubleshooting Skills - API testing experience - Git/version control - Selenium automation
+- Neuvoo, Oct 03
 
+Cynet Systems  – 
+Cary, NC
+... life cycle in QA and experience in all phases of testing Must be an expert in the concepts of the test process. Strong experience in testing, defect tracking and reporting Exposure to test automation using tools like MF UFT, Selenium Exposure to ...
+- Neuvoo, Sep 23
+
+Experis  – 
+Morrisville, NC, 27560
+Experis IT is seeking an experienced Automation QA Tester. This Automation QA Tester will be working on a new Cloud-Based ... automation experience in Java/Ruby/Python/Perl language in a large scale project. Familiar with Java, Ruby, Selenium, ...
+- Jobs2Careers, Oct 01
+
+Tekniforce  – 
+Raleigh, NC, 27601
+... QA Automation Architect. This is a full time permanent hire position in Raleigh, North Carolina with our client. In this roe ... .NET Hands-on experience utilizing various UI automation technologies (Selenium, Ranorex, Coded UI, etc.) Strong knowledge ...
+- Dice, Sep 27
+
+Aerotek  – 
+Raleigh, NC, 27603
+... This team is looking for a QA Engineer to join a dynamic group of passionate engineers working on these products with the ... and generating test cases Strong Linux/Unix skills as an end user Git/version control Selenium automation Permanent
+- Jobg8, Sep 28

@@ -1,0 +1,325 @@
+
+Lavanya Srirangam
+Email: - adai9n@r.postjobfree.com
+Phone: - 214-***-****
+
+Professional Profile
+Highly motivated and enthusiastic PL/SQL Consultant with proven 15 years of expertise in the design, development, testing and deployment of applications.
+Proficient problem-solver who envisions business and technical perspectives to develop workable solutions.
+Currently working for New York City Health and Hospitals as Sr. data analyst.
+Good knowledge in Quadramed and EPIC systems.
+Good knowledge in designing Star Schema.
+Good knowledge in ETL data loads.
+Excellent PL/SQL programming skills using PL/SQL Packages, stored procedures, functions, triggers, cursors, views, indexes for processing data.
+Experience in developing forms based on views, tables and procedures in tabular and form layouts
+Experience in Advanced PL/SQL Concepts such REF cursors, Collections. Extensively used PL/SQL tables and Oracle Bulk Collect to improve the performance.
+Implemented features including materialized views for better performance of summary tables, Autonomous Transactions, Coding Dynamic SQL Statements.
+Worked extensively on client-server and enterprise application development using Oracle 11g/10g/9i/8i/8.x, SQL and PL/SQL.
+Experience in writing shell scripts to execute one time or scheduled jobs as per the requirements.
+Experience in Data Migration, data loading from flat files to database tables using SQL*Loader.
+Knowledge on tools like EXPLAIN PLAN and TRACEFILE to tune SQL Queries.
+Worked extensively using TOAD, SQL*Plus, PL/SQL Developer and UNIX utilities.
+Experience in Extraction, Transform Loading of Data from Legacy systems to Target production systems.
+Proficiency in development and customization of RICE (Reports, Interface, Conversion and Extensions) components in 11i & R12 Oracle Apps.
+Experience working in UNIX and Windows 95/98/NT/XP/2000 environments.
+Good knowledge in Oracle EBS.
+Extensively worked on developing PL/SQL code for EBS R12 Conversions, Extensions and Interfaces.
+Experience in working with Oracle Interfaces, APIs and util_file Packages.
+Experience in database programming using Oracle 8i/9i/10g databases.
+Has Good Knowledge in BI Publisher and XML Publisher.
+Knowledgeable in Performance Tuning of Queries.
+Experience in creation of TARs/SRs using Oracle Metalink and working with Oracle Support to resolve issues with Oracle applications standard functionality.
+Have got the experience in Post Production support, bug fixing and enhancement.
+Proven expertise in customizing implementations to the tune of client’s requirements and proven record of effective and optimized implementation of the applications.
+Ability to learn new skills and take on greater responsibilities.
+Leading a team, monitoring and guiding the team members.
+Excellent communication skills, adapt in client interaction and understanding business applications.
+Pro-actively identify areas of opportunity and work to finding solutions that meet the business needs of the customer.
+Absolutely capable of working in a fast paced, dynamic, team-oriented environment
+
+Achievements
+Prepared Presentation on XML Publisher which was presented at Oracle applications User Group.
+Got Team Achievement Award at Deloitte.
+Education
+Master of Sciences in Information systems from Osmania University
+Bachelor of Computer Applications from Osmania University
+Technical Expertise
+Languages and Development tools.
+
+C,C++,SQL, PL/SQL, Shell Scripting, Oracle Developer Reports 6i, XML Publisher, BI Publisher, Oracle Forms (6i, 9i, and 10g), SQL*Loader, SQL*Plus, Putty, WINSCP, TOAD, SQL Developer, SQL Navigator, Java, HTML, XML and UNIX shell scripts.
+
+Software
+Oracle E-Business Suite (Oracle Applications)
+Exposure in R12 environment
+Release 11i (11.5.10.2, 11.5.10, 11.5.9, 11.0.5)
+
+Database
+Oracle RDBMS (11g,10g, 9i, 8i)
+
+Operating Systems
+Windows NT/2000/XP/7, UNIX
+
+Knowledge Base tools
+Oracle Metalink and Oracle Forums
+
+Documentation
+AIM Documentation (MD50, MD70, MD120, CV60, CV40)
+
+Others
+MS Office, MS Access, MS Excel & Visio
+
+Professional Experience
+Client : NYC H+H Hospitals Jan 2014 to Till Date
+Role : Sr. Data Analyst
+
+NYC Health + Hospitals is the largest municipal healthcare system in the United States. It is an integrated health care system of hospitals, neighborhood health centers, long-term care, nursing homes and home care of New York City.
+
+Project Description: New York City Health and Hospital Corporation has 8 networks and 22 hospital services. The goal of the project is to bring the patient data from old EMR system (QuadraMed) and build the Business Intelligence reporting platform which can be accessed by clinical staff from the New EMR system (Epic) to support patient care.
+
+Out of 22 hospitals, the new EMR is rolled out in 18 facilities and still needs to be rolled out for 4 facilities.
+
+Responsibilities:
+Coordinating with Business analyst to understand the business requirements, analyzing (Nonfunctional, Functional Requirement) the key enhancements and implementations of projects on each phases/release.
+Understand business requirements and create Conceptual, Logical and Physical models.
+Perform Technical Gap Analysis between Quadramed system and Data Archive database.
+Develop PL/SQL scripts to load the data from Quadramed system to Data Archive database.
+Design and Develop tables, Views, SQL queries, Stored Procedures and Functions to implement complex business logic and optimize system performance.
+Performance tuning the complex SQLs and PL/SQL programs.
+Creating Test plans, Test Cases, Test Scenarios, Test Scripts and Test Data. Perform End to End Performance tests, Functional tests, Data mining, System Integration tests on multi-tier systems.
+Participates in technical architecture and design discussions to determine the most appropriate solution model taking into consideration high performance, availability, failover and disaster recovery.
+Automate the existing processes that are being done manually.
+Review the QA artifacts and track new requirements for the project. Track and report on testing activities, including testing results, test case coverage, required resources, defects discovered and their status, as well as performance baselines.
+Responsible for meetings with respective application team to explain the potential performance bottleneck encountered during the evaluation and also the recommendations techniques to overcome the bottleneck to achieve better application performance.
+Provide walkthrough on the detailed End of Test Report covering the test results and issues encountered during the testing activity.
+Provided go-live support and post go-live support.
+
+Environment: Oracle database 12.8, Toad, SQL and PL/SQL, Winscp and Putty
+
+Client : MORNINGSTAR, INC (Worked with Accenture) Apr 2012 to Aug 2013
+Role : Team Lead
+
+Morningstar, Inc. is a leading provider of independent investment research in North America, Europe, Australia, and Asia. Conducted analysis of the client’s business requirements and translated these requirements into effective Implementation of Oracle Applications R12
+
+Responsibilities:
+Worked closely with the Business Analysts and Business users to understand the business requirements.
+Involved in preparation of MD70s (Technical design documents).
+Designed and developed tables, views, SQL queries, stored procedures and functions to implement complex business logic and optimize system performance.
+Developed a PL/SQL code to convert the data from legacy systems to Oracle 11i & R12 databases.
+Involved in the PL/SQL code review and modification for the development of new requirements.
+Developed custom stored procedures and packages to support new enhancement needs.
+Developed Inbound Interfaces to import the flat file legacy data into the staging table.
+Used PL/SQL features like PL/SQL tables, Pragmas for error handling, implicit, explicit cursors for data processing.
+Used Exception Handling extensively for the ease of debugging and displaying the error messages in the application.
+Optimized query performance with modification in PL/SQL queries, removing unnecessary columns, eliminating redundant and inconsistent data, establishing necessary joins, using Hints, creating useful indexes and Views.
+Executing the scripts and inserting data into the tables.
+Wrote shell scripts that assisted in the migration of data and creation of custom views which served as primary tools for analysis.
+Wrote shell scripts for various Inbound and Outbound interfaces to transfer the data file to the client servers.
+Involved in writing SQL*Loader scripts to migrate the data from the text files, Spreadsheet etc. and populated the Staging tables.
+Adding constraints, tables according to the changes in the design documents.
+Documentation of Tables and Views.
+Worked on an extension which involves developing a custom form on drop shipment sales orders.
+Involved in the complete life cycle of the product from requirements gathering to end of system testing.
+Have done performance tuning for the complex queries in TOAD.
+Worked on XMLP and BI Publisher reports.
+Worked with project team, Offshore & Oracle Support to resolve defects identified during testing.
+Defining Concurrent Programs, Executables and Value sets.
+Involved in preparation of MD70s, Test Cases and Migration Documents.
+Delivered the objects and respective documents by following Oracle’s AIM methodologies.
+Carried out unit testing successfully.
+Extensively interacted with Oracle metalink support to raise TAR/SRs and their resolution.
+Provided go-live support and post go-live support.
+
+Environment: Oracle Applications 11.5.10, R12.1.3, Oracle database 10g, Toad, SQL and PL/SQL, Winscp and Putty
+
+Client: Aleris Ebiz Implementation (Worked with Accenture Consulting) Jan 2012 to Apr 2012
+Role: Consultant
+
+Aleris International Inc is one of the largest private companies in the United States. It is a producer of aluminum rolled and extruded products, recycled aluminum, and specification aluminum alloy manufacturing. The project is being implemented based on onshore and offshore model and is classified into 5 different streams like Reports, Interfaces, Conversions, Extensions and Workflows.
+
+Responsibilities:
+
+Developed Packages, Procedures and Functions to validate data in the staging tables and insert into base tables using open interfaces or API’s.
+Designed and developed an error handling form which handles legacy and Oracle validations before sending the data into the Interface tables.
+Created database objects such as tables, views, synonyms, indexes, sequences and database links as well as custom packages tailored to business requirements.
+Wrote complex PL/SQL code using Bulk collections, Bulk Bind, SQL Loader, Arrays, and Nested Tables.
+Enabled and disabled constraints for faster execution of some queries.
+Implemented features including materialized views for better performance of summary tables, Autonomous Transactions, Coding Dynamic SQL Statements.
+Worked on the implementation of Order to Cash (O2C) cycle including Order Entry, Order Booking, Pick Release, Ship Confirm, and Interfacing to Receivables.
+Created data definitions and design templates for custom reports for order and inventory control using Oracles XML Publisher.
+Developed shell scripts to migrate objects from Development to Testing.
+Conversions: Developed Item Import Conversion program using Import Item Open Interface. Using this program, Created Master items and assign those items to child Organizations along with Item category assignments.
+Developed a PL/SQL code to load On hand quantity data in Inventory using Material Transaction open Interface.
+Worked on Order Import Interface Program to import Sales Orders into Oracle systems instead of manually entering them.
+Worked on developing the Sales Order Conversion to load orders from legacy system into OM.
+Performed AR adjustments using oracle APIs like AR_ADJUST_PUB.
+Created AR customer import using Oracle TCA API’s to create and update existing customer information.
+Extensive experience in Auto invoice and handled multiple issues in auto invoice interfaces.
+Worked on developing few reports in Oracle process manufacturing.
+
+Environment: Oracle Applications 11.5.10, R12.1.3, Oracle database 10g, SQL, PL/SQL and SQL Developer
+
+Client : Tiger Brands (Worked with Accenture Consulting) Oct 2011 – Dec 2011
+Role : Consultant
+
+Tiger Brands is a branded consumer packaged goods company that operates mainly in South Africa and selected emerging markets. The project is aimed at doing technical upgrade of the current Oracle Application 11.5.10 environment to Oracle Application R12.1.3.
+Responsibilities:
+
+Involved in Requirement, Analysis, database design and development and also analysis of the existing databases.
+Developed Technical Design Documents.
+Created DDL scripts for tables, views, constraints and indexes.
+Developed PL/SQL Procedures, functions, packages, triggers
+Maintained the data integrity and security using integrity constraints and database triggers
+Optimized and enhanced the existing procedures and SQL statements for the better performance.
+Developing SHELL SCRIPTS to automate the processes.
+Tested the data by writing complex Sql queries
+Worked on the production issues and database maintenance.
+Writing Mappings for Transformation logic.
+Ensure all Technical Designs and build components are delivered with good quality by meeting object deadlines.
+Extensively interacted with Oracle metalink support to raise TAR/SRs and their resolution.
+Worked with project team, Offshore & Oracle Support to resolve defects identified during testing.
+Delivered the objects and respective documents by following Oracle’s AIM methodologies.
+
+Environment: Oracle Applications R12.1.3, Toad, Oracle database 10g, SQL, PL/SQL, WINSCP and Putty.
+
+Client : Old Mutual Life Insurance Company (Worked with Accenture Consulting) Jul 2011 to Oct 2011
+Role : Team Lead
+
+Old Mutual is implementing an ERP system, Oracle eBusiness Suite R12, to streamline their business operations in the areas of Finance modules (GL/AP/AR/Fixed Assets)
+
+Responsibilities:
+
+Interaction with the client / users.
+Imported data from legacy and feeder systems to Oracle using SQL*Loader and PL/SQL
+Implemented exception handling using autonomous transactions, Pragma init, Locks, used save points, commits & rollbacks to maintain transactional consistency & database integrity.
+Worked on AOL concepts like registering concurrent programs.
+Effectively used Oracle Reports for generating PDF reports according to the client’s requirements.
+Involved in the development of XML Publisher Reports.
+Involved in developing Oracle Workflow for necessary notifications and approval process.
+Prepared Technical Documents, Change documents, Migration Documents, Unit Test Plan and shell script.
+Performed unit testing and integration testing for various development applications.
+Participated in status meeting and walkthroughs.
+Involved in Code Review, Code Walk Through, and Unit Testing.
+Involved with Investigating on business application related issue and perform root cause analysis.
+Solved the production bug issues as per the business priority.
+
+Environment: Oracle Applications R12.1.3, Oracle database 9i, Oracle Reports 6i, XML Publisher Reports, Toad, Oracle Workflow 2.6.2 and PL/SQL.
+
+Client : American Express (Worked with Deloitte Consulting) Jan 2010 to Jun 2011
+Role : Consultant
+
+Established in 1850 in New York City, was among the first and most successful express delivery businesses to arise during the rapid expansion of the United States. Operates in over 130 countries around the globe. Client contracted Deloitte Consulting to analyze the existing reporting capabilities and to extend their reporting to new shapes using new technologies.
+
+In support of the AXP Finance priority to improve financial processes with a sub goal of improving the end to end close process, Oracle E-Business Suite is being implemented. The implementation of the Financial Consolidation Hub (FCH) and Performance Manager (PFT) components of Oracle E-Business Suite in September of 2008 has created the need to process January through August 2008 data in Oracle E-Business Suite and reconcile the results to the 2008 official reporting applications.
+
+Responsibilities:
+
+Gathering and understanding client requirements by going through the functional design documents.
+Involved in preparation of MD70s (Technical design documents).
+Coding the PL/SQL Logic to extract the GL Trial Balances from the Production Instance and loading the extracted data into Reconciliation Instance and from reconciliation instance to production EPF.
+Developed Inbound Interfaces to load the legacy budget and forecast data into EPF.
+Have done performance tuning for the complex queries in TOAD.
+
+Environment: Oracle Applications 11.5.9, Toad, Putty, WINSCP, SQL and PL/SQL
+
+Client: Quantum (Worked with Deloitte Consulting) Jan 2008 to Dec 2009
+Role : Consultant
+Location : Hyderabad, A.P. India
+
+Quantum is the leading global storage company specializing in backup, recovery and archive solutions. It provides comprehensive support to protect the investments. It is Data storage solutions provider.
+
+The project is about Data conversions and extractions. With the acquisition of ADIC, client had to move the ADIC legacy system and its own legacy system to a new system for which the data had to be extracted out of the two legacy system’s and had to be converted into a new system.
+
+Responsibilities:
+
+Gathering and understanding client requirements by going through the functional design documents.
+Involved in preparation of MD70s (Technical design documents).
+Performed data extraction and conversion for Item Costs and IR/ISO(Internal Requisitions & Internal Sales Orders)
+Developed a PL/SQL code to convert the data from legacy system to Oracle 11i database.
+Developed an extension in drop shipment sales orders.
+Used PL/SQL features like PL/SQL tables, Pragmas for error handling, implicit, explicit cursors for data processing.
+Used Exception Handling extensively for the ease of debugging and displaying the error messages in the application.
+Optimized query performance with modification in PL/SQL queries, removing unnecessary columns, eliminating redundant and inconsistent data, establishing necessary joins, using Hints, creating useful indexes and Views.
+Executing the scripts and inserting data into the tables.
+Involved in writing SQL*Loader scripts to migrate the data from the text files, Spreadsheet etc. and populated the Staging tables.
+Adding constraints, tables according to the changes in the design documents.
+Documentation of Tables and Views.
+Involved in the complete life cycle of the product from requirements gathering to end of system testing.
+Have done performance tuning for the complex queries in TOAD.
+
+Environment: Oracle Applications 11.5.9, Toad, Putty, WINSCP, SQL and PL/SQL.
+
+Client: Juniper Networks (Worked with Deloitte Consulting) Jan 2007 to Dec 2007
+Role : Analyst
+Location : Hyderabad, A.P. India
+
+Juniper Networks is an information technology and computer networking products company founded in 1996. It is headquartered in Sunnyvale, California, USA.
+
+Juniper Networks is a key player in today’s global information exchange with purpose-built, high-performance products that enable customers to support a broad range of services and applications.
+
+This project is aimed at designing functional and technical design documents for Conversions, Interfaces, Extensions, Alerts and Reports.
+
+Responsibilities:
+
+Gathering and understanding client requirements by going through the functional design documents.
+Involved in preparation of MD70s (Technical design documents).
+Performed data extraction and conversion for Item Costs and IR/ISO(Internal Requisitions & Internal Sales Orders)
+Developed a PL/SQL code to convert the data from legacy system to Oracle 11i database.
+Developed an extension in drop shipment sales orders.
+Used PL/SQL features like PL/SQL tables, Pragmas for error handling, implicit, explicit cursors for data processing.
+Used Exception Handling extensively for the ease of debugging and displaying the error messages in the application.
+Optimized query performance with modification in PL/SQL queries, removing unnecessary columns, eliminating redundant and inconsistent data, establishing necessary joins, using Hints, creating useful indexes and Views.
+Executing the scripts and inserting data into the tables.
+Involved in writing SQL*Loader scripts to migrate the data from the text files, Spreadsheet etc. and populated the Staging tables.
+Adding constraints, tables according to the changes in the design documents.
+Documentation of Tables and Views.
+Involved in the complete life cycle of the product from requirements gathering to end of system testing.
+Have done performance tuning for the complex queries in TOAD.
+
+Environment: Oracle Applications 11.5.9, Toad, Putty, WINSCP, SQL and PL/SQL.
+
+Client : Smiths Medical (Worked with Apps Associates) Aug 2005 to Dec 2006
+Role : Software Engineer
+
+Smiths Medical is a world leader in the design, manufacture and distribution of medical devices. This project involves the data migration from Oracle 10.7 instances to Oracle 11i instance.
+
+Responsibilities:
+
+Designing Tables, Views, Cursors, Triggers according the requirements given in the design document.
+Writing code for stored procedures, functions according to the requirements.
+Used PL/SQL features like PL/SQL tables, Pragmas for error handling, implicit, explicit and Ref cursors for data processing.
+Used Exception Handling extensively for the ease of debugging and displaying the error messages in the application.
+Implemented features including materialized views for better performance of summary tables, Autonomous Transactions, Coding Dynamic SQL Statements.
+Optimized query performance with modification in PL/SQL queries, removing unnecessary columns, eliminating redundant and inconsistent data, establishing necessary joins, using Hints, creating useful indexes and Views.
+Executing the scripts and inserting data into the tables.
+Involved in writing SQL*Loader scripts to migrate the data from the text files, Spreadsheet etc. and populated the Staging tables.
+Adding constraints, tables according to the changes in the design documents.
+Documentation of Tables and Views.
+Involved in the complete life cycle of the product from requirements gathering to end of system testing.
+Have done performance tuning for the complex queries in TOAD.
+
+Environment: Oracle Applications 11.5.9, Toad and PL/SQL.
+
+Client : Atheros Communications (Worked with Prithvi Inf Sols) Aug 2004 to Jul 2005
+Role : Software Engineer
+Location: Hyderabad, A.P. India
+
+Atheros is a developer of semiconductors for network communications. Atheros has implemented Oracle Applications 11i for standardizing the ERP cycle. This project involves the data migration from Oracle 10.7 instances to Oracle 11i instance.
+
+Responsibilities:
+
+Development of Forms 6i Development and Customizations
+Designing Tables, Views, Cursors, Triggers according the requirements given in the design document.
+Writing code for stored procedures, functions according to the requirements.
+Used PL/SQL features like PL/SQL tables, Pragmas for error handling, implicit, explicit and Ref cursors for data processing.
+Used Exception Handling extensively for the ease of debugging and displaying the error messages in the application.
+Optimized query performance with modification in PL/SQL queries, removing unnecessary columns, eliminating redundant and inconsistent data, establishing necessary joins, using Hints, creating useful indexes and Views.
+Executing the scripts and inserting data into the tables.
+Involved in writing SQL*Loader scripts to migrate the data from the text files, Spreadsheet etc. and populated the Staging tables.
+Adding constraints, tables according to the changes in the design documents.
+Documentation of Tables and Views.
+Involved in the complete life cycle of the product from requirements gathering to end of system testing.
+Have done performance tuning for the complex queries in TOAD.
+
+Environment: Oracle Applications 11.5.9, Toad and PL/SQL.
+
+Contact this candidate

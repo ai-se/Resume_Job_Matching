@@ -1,34 +1,51 @@
+Job Title = Backend Or Ruby Or Amazon Or Java jobs in Raleigh, NC, 27606
 
-Please call Ritesh on for more details
-About the Role:
-Make architecture and technology choices for the backend, design, build and implement.
-Be comfortable working in a product development environment, building version 1.0 from scratch.
-Passionate about delivering high-quality user experience.
-Self-starter, strong sense of ownership, gets things done.
-Capable of making timely decisions while dealing with uncertainties & inadequate information.
-Commitment to building products that dazzle and have fun doing it.
-Experience in a startup environment / agile development environment a plus.
+Spectraforce Technologies  – 
+Raleigh, NC
+... (Kubernetes, Amazon ECS, etc) Linux systems Scripting proficiency (Bash, Python, etc) Technologies you may use include: Java/Groovy Docker Jenkins AWS Git Kibana (ELK) Graphite/Grafana New Relic Linux Terraform
+- Neuvoo, Oct 07
 
-Technical Requirements:
-At least 4+ years of backend systems and services development experience, Hands-on experience is a must.
-Strong knowledge of object-oriented programming and design.
-Proficiency in at least one of the following - Java, Python, Ruby.
-Strong knowledge and hands-on experience using modern databases.
-Solid understanding of backend technologies, development frameworks, server-side architecture, containerization
-Fluent in JSON and building REST APIs
-Strong background and experience in using git, version control, performing code reviews and comfortable working in an agile environment.
-Experienced in CI / CD.
-Strong experience with Unit Testing and automated testing frameworks.
+Amazon  – 
+North Carolina
+... example code in at least one of the following programming languages: Java, JavaScript, Python, C++, C#, Go, PHP, or Ruby. ... environment · Experience writing API reference documentation Amazon is an Equal Opportunity-Affirmative Action Employer – ...
+- Neuvoo, Oct 08
 
-Bonus if:
-Holds a B.S., M.S., in Computer Science
-Worked on a successful product that has touched millions of consumers
-Previous start-up experience is a plus
-Experience with Amazon Web Services
-Willing to hustle
+Amazon  – 
+North Carolina
+... example code in at least one of the following programming languages: Java, JavaScript, Python, C++, C#, Go, PHP, or Ruby. ... environment · Experience writing API reference documentation Amazon is an Equal Opportunity-Affirmative Action Employer – ...
+- Neuvoo, Oct 08
 
-Permanent
+Epic Games  – 
+Cary, NC, 27511
+... with REST services, and familiarity with NoSQL/SQL database concepts Solid software development fundamentals in Go/Java/Python/Ruby with a preference for candidates with Go experience Experience with continuous integration and continuous delivery ...
+- Jobg8, Oct 08
 
+Amazon  – 
+North Carolina
+... example code in at least one of the following programming languages: Java, JavaScript, Python, C++, C#, Go, PHP, or Ruby. ... environment · Experience writing API reference documentation Amazon is an Equal Opportunity-Affirmative Action Employer – ...
+- Neuvoo, Oct 09
 
-Go to apply 
+Ruby Tuesday  – 
+Raleigh, NC, 27601
+BartenderRuby TuesdayRaleigh NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 09
 
+Ruby Tuesday  – 
+Cary, NC, 27511
+BartenderRuby TuesdayCary, NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 07
+
+Cynet Systems  – 
+Durham, NC, 27701
+We are looking for Senior Java Engineers - Middle Tier / Backend for our client in Durham, NC Job Title: Senior Java Engineers - Middle Tier / Backend Job Location: Durham, NC Job Type: Contract W2 candidates are encouraged to apply. We are unable ...
+- Dice, Oct 08
+
+Cynet Systems  – 
+Durham, NC, 27701
+" We are looking for Senior Java Engineers - Middle Tier / Backend for our client in Durham, NC Job Title: Senior Java Engineers - Middle Tier / Backend Job Location: Durham, NC Job Type: Contract W2 candidates are encouraged to apply. We are unable ...
+- Dice.com, Oct 08
+
+CSS  – 
+Durham, NC, 27713
+... Java development experience or other high-level programming in Python or JavaScript. Experience developing in an agile environment with tools like JIRA, Confluence, etc. Experience with CI process and build tools like GitHub, Jenkins, Maven. Create ...
+- Jobs2Careers, Oct 07

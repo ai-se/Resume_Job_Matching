@@ -1,0 +1,47 @@
+Job Title = Technician
+
+Job summary
+Performs technical work in the installation, repair and maintenance of the data communications infrastructure.
+Install structured cabling systems and equipment.
+Pulling and placing cabling…
+Responsible for implementation, coordination, installation, and/or oversight of a wide variety of activities for complex network cable wiring systems for voice, data, and video.
+Uses construction drawings, schematic diagrams, BICSI specification, EIA/TIA codes and system-defined standards to move or install new communications infrastructure.
+Measures, cuts, assemble and installs conduit, pathways or appropriate ceiling supports
+Responsibilities include:
+* Performing network moves, adds, or changes of cooper cable (to include single pair, flat wire, CAT5E, RG58, RG59, etc.) to support communication needs on classified and unclassified Local Area Networks
+* Performing installation of equipment cabinets, ductwork, shelving units to support any equipment requirements
+. Install/Pull voice and data cable
+Measures, cuts, assembles,
+Pulls, splice
+Tests
+Pulling and placing cabling in an up to a 1,000,000 square foot facility: underground, ceilings, tunnels and aerial pole lines.
+
+Minimum requirements
+Experience needed ranges from cat5 to
+fiber and will be based on a project by project basis.
+Entry-Level to Level I Technicians--Will need to be familiar with all EIA/TIA and NEC standards. Capable of identifying, pulling, terminating and labeling Cat3, 5e, Cat6. Basic fiber optic cable experience as well as installing support structures. Some exposure to closet equipment and multi-pair color code terminations would be desirable.
+
+Level II Technicians--Capable of performing all above mentioned tasks including but not limited to terminations of work station outlets and closet equipment. Capable of reading blue prints, identifying cable paths and some assistance with site surveys and bidding. These techs must have some exposure to fiber optic cable terminations (ST/SC/MTRJ connectors). Experience with both ends of basic level testing as well as high level testing and terminations with multi-pair (50+) /strand cable. Training of lower level techs experience is a plus.
+
+Level III Technicians--Capable of performing all above mentioned tasks including but not limited to leading small to large crews (7-30 technicians). Experience with site surveys, bidding and estimating projects and Project Management. High level testing and documentation experience required.
+Other requirements or able to learn the following:
+Fiber to Desk Data Cabling
+Wireless Applications / Multipoint and Point to Point Bridges
+Category 5e/6 Data UTP Cabling
+Coax / Broadband Cabling
+Muti-pair / bundle telephone / Data Cabling
+Fiber Optic Cabling (Multimode / Single-mode / Indoor / Outdoor)
+Innerduct / Conduit raceway systems
+CAT 5
+CAT 6
+FIBER
+PUNCHDOWN/TERMINATE
+Physical Abilities required
+
+TWIC, Valid Passport required, Valid DL
+Disclaimer
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. All personnel may be required to perform duties outside of their normal responsibilities from time to time, as needed.
+
+
+Go to apply 
+

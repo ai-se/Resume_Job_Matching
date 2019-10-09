@@ -1,0 +1,94 @@
+
+SUSHIL RAM.D
+CIRCUIT ENGINEERING
+CONTACT
+Phone
+979*******
+Email
+adajbl@r.postjobfree.com
+Address
+**/*** **** ***** ******
+Royapuram, Chennai -13
+LinkedIn
+www.linkedin.com/in/sushil-ram-d-
+ab695145
+TECHNICAL SKILLS
+PCB LAYOUT DESIGN
+MIXED SIGNAL DESIGN
+BOM
+EMI & EMC
+DRC
+SMPS CIRUIT
+SOFT SKILLS
+ORCAD CAPTURE
+PCB EDITOR
+PLM
+NC MASTER
+SAP
+CIS (CODE INFORMAION SYSTEM)
+PROFILE
+Accomplished as a CIRCUIT ENGINEER with a year and eight months of experience in handling Refrigerator Inverter control PCB boards designs using cadence Allegro 17.2 for PCB layout, Library creation, Creation Footprint & Padstack and Function verification. Committed to help company by developing ideas for Value Engineering and quality improvement projects. EXPERIENCE
+ENGINEER-1
+SAMSUNG ELECTRONICS (DA) OCTOBER 2017 – PRESENT
+Experience in Electronics hardware design and development of Refrigerator invertor Circuit Boards.
+Experience in designing PCB layout, BOM generation and FAI
+Experience in placement & routing the components.
+Experience in designing parts like LED, Rotary switch used in Refrigerator in co-ordination with vendors.
+Experience in Schematic design verification with the actual board
+Experience in finding the root cause for the Field return circuit boards.
+Experience in VA/VE activities in PCB in-order to achieve the yearly target.
+Finalized design improvements & product change points (close CR) before application of quality improvement & cost reduction activities
+Done necessary testing with respective to the change points
+Knowledge of verifying the Gerber file before the application of the change points
+Experience in various stages of New Product Development (NPD). PROJECTS IN SAMSUNG
+VARISTOR IMPROVEMENT:
+Description:
+As the input filter circuit Vasritor component burnt issue in field side raised steeply after the NPD in the year 2018. During Root cause analysing we found that some of the varistor got burst at surge voltage of 500V. So we changed a part with 680V varistor with a withstanding voltage of about 1200V thereby protecting the circuit from high surge voltage.
+Effect:
+VOC for Varistor burnt got reduced from 9.81% 3.28% COIL DELETION ACTIVITY:
+Description:
+In SMPS Circuit we have coil choke purpose is to reduce the EMI/EMC level. As we are exporting some of the refrigerator to the regulated countries like Morocco & Tunisia. As far as domestic country like India Nepal and Sri Lanka which is not a EMI/EMC regulated country So we deleted EMI/EMC filter coils in the main PBA using Cadence allegro.
+Effect:
+A yearly cost saving of about 380K$ won.
+HOBBIES
+MUSIC
+SPORTS
+TRAVELLING
+STRENGTH
+QUICK LEARNER
+TEAM PLAYER
+GOOD INTERPERSONAL SKILL
+FLEXIBLE
+LEADERSHIP SKILL
+TIME MANAGEMENT
+ACHIEVEMENTS
+2019Yr. 2M$ COST SAVING
+WON 5K IN INNOVATION DAY
+1ST PRIZE IN QUIZ AT COLLEGE
+FIELD OF INTREST
+ANALOG CIRCIT DESIGN
+MIXED SIGNAL DESIGN
+EMI EMC TESTING
+SI/PI ANALYSIS
+EDUCATION
+BACHELOR OF ENGINEERING IN ELECTRICAL AND ELECTRONICS ENGINEERING
+VELTECH HIGHTECH ENGINEERING COLLEGE 2013 – 2017 CGPA 7.2 HIGHER SECONDARY GRADUATION
+KUMARAN ASAN MEMORIAL - EGMORE 2011 - 2013 71% PROJECT IN COLLEGE
+POWER GENERATION BASED ON GRAVITY
+Description:
+The main aim of our project is to give prolonged energy source at very low cost. By Using gravity as a source to produce electricity. The basic principle involved in this process is the kinetic energy is converted into mechanical movement of gear wheels and further the mechanical movement is converted into electrical energy. Motor, gear wheels and sensors are being controlled by AT89C52 micro controller.
+Effect:
+Produced an output voltage of about 35V and 0.8A.
+OBSTACLE DETECTING ROBOT
+Description:
+This project has been developed from the idea to navigate the robot in an unknown environment by avoiding collisions. The robot will sense the obstacle in front of it and avoid them by turning itself In another direction. This robot is built using Arduino NANO and ultrasonic sensor. And a LM298N motor driver module to control drives the 5V DC motor operated wheels.
+Effect :
+Successfully detected the objects and turned away from its path. IN-PLANT TRAINING AND WORKSHOP
+INTEGRAL COACH FACTORY –CHENNAI
+Undergone 1 week In-plant training in ICF –Chennai and learnt about the induction and synchronous motors working and manufacturing. WORKSHOP
+Attended 2 days’ workshop in “RENEWABLE ENERGY” in VITS College of engineering, Vellore.
+PAPER PRESENTATION
+ICCET INTERNATIONAL CONFERENCE - MAR 2017
+Presented a paper on “POWER GENERATION BASED ON GRAVITY” and published paper in “SCOPUS” conducted in Madha engineering college, Chennai.
+
+Contact this candidate

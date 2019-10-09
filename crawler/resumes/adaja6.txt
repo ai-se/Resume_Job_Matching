@@ -1,0 +1,114 @@
+
+Curriculum Vitae
+M.Masood.Khan.Instrument Technician I & C Maintenance
+House # K.A 11 Khyber Colony Zarar Shaheed Road Lahore Cant.
+Cell No. +974********. +923*********.Total Experience 11 Years.
+E-mail. adaja6@r.postjobfree.com adaja6@r.postjobfree.com
+Skype Id. masoodkhan687
+REFERENCE, Sr. Instrument Engineer Mr. Ravisankar. Sr.Tech Imran Saddique
+Sr.Tech Pritam (QP) (NGL3).
+CAREER OBJECTIVE.
+To take a challenge position in an esteemed and dynamic organization by utilizing my skills and capabilities with full devotion and commitment in the best interest of organization by contributing on its growth and development.
+ACADEMIC Qualification.
+B.A Punjab University 2009
+F.A Lahore Board 2006
+Matriculation Lahore Board 2003
+Technical Qualification.
+Diploma Instrumentation measurement and control (1st Division) from G.T.T.I 2006.
+CAREER SUMMARY
+More than 11 years of professional experience in the field of Instrumentation and Controls for power plant oil and gas and industry as an Instrument Technician I & C. From November 2013 I am working as an Instrument Technician I & C in Qatar petroleum (N.G.L.3 plant) Maintenance Till Continue. As an Instrument Technician Since February 2012 onward I have worked in UAE and Qatar with Descon Engineering for the Maintenance and Shut-down contract with various Oil & Gas Industries and Power Plants. I have worked as an Instrument Technician in IPS (Industrial Process Solution) from 2008 to February 2012 PAKISTAN.
+EXPERIENCE:
+Working as Instrument Technician in Qatar petroleum (N.G.L) 15/11/2013 Maintenance till Date Last 5 years.
+3.5 year worked in IPS (Industrial Process Solution) as Instrument Technician Maintenance from 5th January 2008 to 5th May 2011.
+Worked as Instrument Technician in (S.G.D) Shah Gas Development Project in U.A.E. 2013.
+Worked as Instrument Technician in Takreer Oil Refinery Ruwais and Umal Nar in Abu Dhabi (U.A.E)
+Worked as Instrument Technician in Das Island(AD Gas) in Abu Dhabi (U.A.E) 2012 Optima No (843755)
+I have experience of IEC Standard and Zone Classifications.
+
+JOB Skills &RESPONSIBILITY
+General Skills
+Instrumentation, Maintenance, Preventive Maintenance, Corrective Maintenance, Installation, Loop Checking, Calibration, Commissioning, Overhauling, Troubleshooting, Repairing, Vibration, PLC, DCS, Process Variable Instruments, Deluge System, Process Loops, Controllers, Control Valves, Safety, Inergen System, Boilers, P&ID, ESD System, Fire & Gas.
+LEVEL INSTRUMENTS:
+Level Transmitter (D.P) Calibration & Installation Rosemount (Model No 3051) Bailey (P.D.T) (Model No 580) Honeywell (Model NO S.T.D 924).
+Level measurement with (D.P) Type Transmitter. (Dry Leg, Wet Leg, Range Calculation) (Zero Suppression, Zero Elevation,).
+Level Trolls calibration in field with water and in the instrument workshop with weight method. (Masoneilan Model No 320) Displacer Type.
+Interface Level measurement with (D.P) Type Transmitter and Range Calculations.
+Interface Level measurement with (Displacer Type Transmitter) calibration in field with water and in the instrument lab with weight method and Range Calculation.
+Level measurement with Guided Wave Radar Type Level Transmitter. (Model, Magnetrol 705 and 706).
+Level Switches Calibration with water displacer type and float type, LSH, LSHH, LSL, LSLL, (Keiso, Mobrey, and Magnetrol Model No 705).
+TEMPERATURE INSTRUMENTS:
+R.T.D Resistance Temperature Detector Checking and Troubleshooting 2 wire and 3 wire Resistance Temperature Detector and bridge circuit for RTD.PT.100. (PT.10, 50, 100, 200, 500, 1000.)
+Thermocouple Installation Checking and Troubleshooting and compensation theory for Thermocouple (K Type & J Type & T Type Thermocouple) and skin type Thermocouple (K Type).
+Temperature Transmitter Calibration (Rosemount 3144P, Inor Meso).
+PRESSURE INSTRUMENTS:
+Pressure Transmitter Installation & Calibration Rosemount (Model No 1151 & 3051) Honeywell (Model No STD 924), (Honeywell ST3000).
+Pressure switches calibration PSH, PSHH, PSL, PSLL (Asco) (U.E.United Electric) (Sor).
+Pneumatic pressure Transmitter (Taylor, ABB).
+Pressure Gauges Calibration in field with Druck calibrator and in Instrument Lab
+With Dead weight Tester. (Budenberg 580)
+FLOW INSTRUMENTS:
+Flow transmitter Calibration & Installation Rosemount (Model No 3051) Honeywell (Model No STD 924) Bailey (Model NO 580) Kent (Model No 1157) Taylor Pneumatic Transmitter Calibration.
+Good knowledge of about primary device for using /\ P like a( Orifice Plate,Venturi Tube,Folw Nozzle,Pitot Tube,Annubar).
+Magnetic Flow meter, Vortex flow meter Installation.
+P.D Flow Meter overhauling.(Smith Flow Meter Model No LC2-S6)
+
+CONTROL VALVE:
+Assemble & disassemble & overhauling of control valve. Valtek Flowserve control valve class 6, Nova Pignone control valve Fisher control valve class 4 & 5 & 6.
+Calibration & maintenance of control valve with positionar (Fisher, Nova pignone). (Valtek Class 6).I/P convertor calibration (Foxboro E69F –T12)
+Positionar (Pneumatic positionar Fisher 2500) (Fisher DVC6010, Fisher DVC 6200) (Pignone Pneumatic positionar), Limit Switches, SOV Valve (Maxseal) (Asco).
+M.O.V valve overhauling troubleshooting. (Biffi, Pignone, Rotork, Auma).
+Fieldbus Foundation
+Basic knowledge of fieldbus foundation system.
+I can Installation & Calibration & Troubleshooting all types of Pressure, Temperature, Level, Flow, and Fieldbus Instruments. (Rosemount 3051). (Rosemount 3144). (ABB. 2600T). (Honeywell ST 3000). (Magnetrol Level Transmitter Radar Type 705).
+I can Calibrate and Troubleshoot of Fieldbus Positioners. (Fisher Positioners 6010). (Masoneilan / Dresser FVP 110).
+VIBRATION SYSTEM:
+Installation experience of Radial, Axial (Thrust), Key Phasor Probes & calibration of Vibration Monitors by Bentley Nevada 3500 system.
+Probes checking by TK-3. Series 3300 & 3500.
+Commissioning Knowledge:
+Loop testing (instruments to Junction Box, JB to Marshalling Cabinet panel further I/O card to DCS).
+Control Valve Stroke Check from DCS and Field.
+Commissioning of All Valves and Stroke Check (X.V Valve, ESV Valve, BDV Valve, Control Valve and ESV Valve Partial Stroke Check.)
+Commissioning & Pre Commissioning working use in Hart Communicator ( 375 & 475) to simulation milliamps percentage and calibration of zero and span and Linearity .
+I have experience in Installation, Cable Test, Loop Checking, Cold Loop/Hot Loop, Open Loop, Close Loop, Feedback Loop, Feed Forward Loop, Split Range Control Valve, and Cascade Loop.
+I have experience drawing reading for Loop Checking P&ID, ILD, Data Sheet, Location Diagram, Cause & Effect drawing and Loop Folder.
+OTHER KNOWLEDGE:
+Loop testing (instruments to Junction Box, JB to Marshalling Cabinet panel further I/O card to DCS) Trouble Shooting.
+Maintenance of equipment Turbine,Compressor, Glycol Furness, ESD Fire & Gas system Moisture Analyzer and H2S Analyzers.
+P.L.C about basic knowledge.(Allen Bradley PLC Model No Logix 5571)
+(ICS Model No T8110B).
+DCS about basic knowledge.
+
+Instrument Using Experience
+Multimeter (Fluke 87III) .MA Calibrator (Fluke 707EX).Druck Pressure Calibrator (DPI320).Hydraulic Pressure Calibrator (Ametek T620.T750.T970).
+Dead Weight Tester (DH-Budenberg 580)(280D),Hart Communicator (Emerson (375.475)
+Temperature Bath (Besancon T51)(Techne DS-35)
+Pressure Module (Beamex PM 106LL.PM LC.PM 106 HC)
+Multi-Function Process Calibrator (Fluke 725)
+Druck Pressure Calibrator (Druck DPI605)
+TRAINING
+I Have Successfully Passed the PTWLEVEL 1 course from Qatar Petroleum (N.G.L).
+Training for H2S/BA (Breathing Apparatus) in Qatar Gas Training Center RAS LAFFAN.
+IT PROFICIENCY
+Proficient in ms office applications especially word, excel, power point.
+KEY SKILLS
+An analytical approach to problem solving.
+Capable of doing jab confidently under stress environment.
+Feel comfortable while working with diversified people.
+Presentation skills, client relation, and identifying customer need are also my strength.
+PERSONAL DETAILS
+Father's Name M.Bahader.Ali
+Date of Birth 10-07-1987
+Marital Status Single
+Nationality Pakistani
+Notice period 30 Days
+Gender Male
+C.N.I.C 35201-9208213-9
+Passport # SW4102133
+Passport Issue Date 26-02-2017
+Passport Expiry Date 25-02-2027
+Skype Id. masoodkhan687
+E-mail adaja6@r.postjobfree.com adaja6@r.postjobfree.com
+LANGUAGES
+Urdu. English
+
+Contact this candidate

@@ -1,3 +1,4 @@
+Job Title = Lead Software Engineer - Permanent or Contract
 
 The role of the Lead Software Engineer/ Project lead at Full Spectrum Software is a dynamic, collaborative and enterprising role. As the chief technical contributor on projects, you will be involved in all aspects of the software development lifecycle, from developing project architectures, roadmaps and strategies through leading a team in detailed design and the successful implementation of the plan.
 While roughly 75% of your time will be spent on hands-on design and development, the remaining time will be spent collaborating with clients, developing solutions architectures, managing the team of seasoned engineers, and authoring technical documents. The ideal candidate is someone who loves learning new technologies and applying their expertise to unique and interesting technical challenges.

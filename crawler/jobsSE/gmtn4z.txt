@@ -1,9 +1,51 @@
+Job Title = Mysql Or Engineer Or Oracle Or Se Or Web jobs in Raleigh, NC, 27606
 
-Duration:0-12 month(s)
+Impact Staffing Group  – 
+Morrisville, NC
+The Database Administrator will implement new database systems and maintaining existing MySQL systems. This position requires a proven ability to create, understand, and implement business requirements for new systems, and to design enhancements to ...
+- ZipRecruiter, Sep 29
 
-Description/Comment:This position is for an experienced systems engineer eager to play an integral role on the Systems Engineering team for the Walt Disney Company. Primary responsibilities include designing, building, and supporting web application systems for a large scale enterprise production environment that hosts a variety of online properties for The Walt Disney Company. The Senior Systems Engineer is expected to have expert level systems administration skills on both the Linux and Windows server platforms, and must have extensive experience with Apache, IIS, and Tomcat. This position will focus on systems and application stability, security, performance, and capacity management, as well as documentation. The role requires participating in an on-call support rotation. This position works closely with various business Engineering and Production teams to gather requirements, troubleshoot issues, and provide stellar customer support. The role requires someone who is creative, proactive, constructive, and highly motivated. The Senior SE must be prepared to work in an extremely collaborative and high-energy environment.
-" Understand how to install and configure operating systems, specifically with expertise in Linux " Proficient in web or server technologies: Tomcat, IIS, Apache (Client), WAS, WCS, MySQL, Oracle, MSSQL, etc., including being able to perform basic setup, configuration, and troubleshooting " Experienced with at least one web server and application server technology, including setup, configuration, performance monitoring, tuning, clustering, and debugging (e.g. JConsole)
+Oracle  – 
+Raleigh, NC, 27601
+... Oracle Service Cloud delivers that and more through our Cross-Channel Contact Center, Policy Automation, Web Customer Service and Knowledge Management SaaS solutions. Incredible demand has created tremendous opportunities for Enterprise level sales ...
+- Jobs2Careers, Oct 05
 
+Oracle  – 
+Durham, NC, 27713
+... If you are web savvy when it comes to identifying prospects, enjoy articulating value,have a genuine interest and passion in ... Responsible for understanding Oracle's product offerings and competitive issues to develop solution proposals encompassing ...
+- Jobs2Careers, Oct 05
 
-Go to apply 
+Oracle  – 
+Morrisville, NC
+... Development Engineer (Co-Op) Spring/Summer and Summer/Fall rotations available Supervisors: Michael Rudd, Senior Manager Cloud Development Tim Brady, Senior Manager Cloud Development At Oracle, you will learn new resume-eye-catching technologies. ...
+- DE Jobs, Sep 28
 
+Oracle  – 
+Morrisville, NC
+**Technical Intern - Third Year** **Preferred Qualifications** Position: Software Development Engineer - Technical Writer (Co-Op) Spring/Summer and Summer/Fall rotations available Supervisors: Michael Rudd, Senior Manager Cloud Development At Oracle ...
+- DE Jobs, Sep 28
+
+Artemis Consulting, Inc.  – 
+Raleigh, NC, 27601
+... POSITION OVERVIEW MySQL Database Administrator 7+ years of relevant database experience with 3+ years of MySQL concentration Onsite Washington D.C. (full-time, full-benefits) As part of this role, you will be providing comprehensive Oracle Database ...
+- Dice, Sep 17
+
+Oracle  – 
+Morrisville, NC
+**Technical Intern - Third Year** **Preferred Qualifications** Position: Software Development Engineer (Co-Op) Spring/Summer and Summer/Fall rotations available Supervisor: George Schraw, Director Cloud Development At Oracle, you will learn new ...
+- DE Jobs, Sep 17
+
+K-Tek Resourcing LLC  – 
+Raleigh, NC, 27601
+Required a Data Scientist with 8+ years of experience & can guide on Text analytics job responsibilities involve: Good experience in Text Analytics projects Developing ML models, work closely with business stakeholders Understand requirement from...
+- Dice, Oct 03
+
+Oracle  – 
+Morrisville, NC
+... To provide the required support to Oracle customers, CFS will use additional compensation to cover extended business hours and/or on-call pay based on in-country laws and Oracle policy. In general, there will be a Primary and Secondary engineer ...
+- DE Jobs, Oct 09
+
+Oracle  – 
+Morrisville, NC
+... To provide the required support to Oracle customers, CFS will use additional compensation to cover extended business hours and/or on-call pay based on in-country laws and Oracle policy. In general, there will be a Primary and Secondary engineer ...
+- DE Jobs, Sep 18

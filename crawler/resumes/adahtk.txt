@@ -1,0 +1,208 @@
+
+MINAL KAPADIA
+adahtk@r.postjobfree.com ️***-***-****
+**** ******** *** ******* ** 77042
+
+Professional Summary
+
+Twenty years of experience in the computing field. Initially working as a Data Storage Administrator, I also ran backup-as-a-service and was an Installation Engineer and Analyst. I have worked as a contractor for most of my career. Lately I have been a consultant for large storage vendors. Most of my experience lies in traditional infrastructure protection and storage systems. However, my broad range of technical competencies and business acumens – along with the ability to simplify technical details into easily understood terminologies – allow me to bridge the gap between upper management and technology specialists.
+I am currently seeking a role in technical infrastructure consulting or big data deployment.
+
+Professional Competencies
+
+Storage and Backup Virtualization SME:
+Storage Backup consulting, design and implementation.
+Disaster recovery and data protection implementation.
+
+Infrastructure:
+Storage-Netapp FAS, EMC Data Domain, Avamar, HPC Clusters.
+Compute- Cisco UCS, Dell PowerEdge.
+Network- Cisco MDS, Brocade, Arista switches.
+Operating Systems- VMware, Linux, Centos, Red Hat.
+
+Qualifications and Certifications
+
+●EMC Backup Recovery Systems and Architecture Exam 2013
+●EMC Data Domain Deduplication, Backup and Recovery Exam 2013
+●Backup Recovery - Avamar Specialist Exam for Storage Administrators 2013
+●Sun Solaris 8 Certified System and Network Administrator – SUN Microsystems
+●Microsoft Certified System Engineer NT 4 – Microsoft Inc.
+●Administering Security on Solaris Operating System (Solaris 9 & 10) – Sun Institute
+●CCNA – Cisco Certified Network Administrator – Avtech Institute, NJ
+●MCSE 2003 Preparation Courses – LasComp Institute NY
+
+Education
+June 1989-June 1992 BOMBAY UNIVERSITY, India B.S., Commerce
+
+References
+Available upon request.
+
+Employment Details
+
+Integrated Enterprises, Houston, TX
+Technical Specialist 08/2017 to present
+•Engineered backup solutions from the ground up in Avamar while working with existing backup strategies that were predominantly Veritas Netbackup
+•Running Powershell scripts to fix the live site issues for office365 Subject matter expert for Avamar Netbackup TSM software and architecture
+•Install configure Netapp Data ONTAP 7mode and Oncommand system manager
+•Creating performance policies ASUP ad hoc reports.
+
+Seagate Technology Houston, TX
+Senior Engineer 04/2016 to 07/2017
+•Lustre software and hardware install in oil and gas field
+•Upgrade ClusterStor software versions using OEM server and virtual image
+•Install configure add virtual storage to Red Hat KVM to run training and lab sessions.
+•Worked on Deployments and Deployment related issues
+
+Integrated Enterprises, Houston, TX
+Technical Specialist 08/2015 to 03/2016
+•Supported customers in implementation of Netapp filers and upgrades.
+•Monitoring and the Azure clusters health Pre and Post deployments
+•Subject matter expert for Netbackup software and architecture
+•Assists the Sales Teams in EMC Backup Solutions and Netbackup
+•Add Database and Sharepoint clients to direct OST backup
+
+EMC, Houston, TX
+Senior Delivery Specialist 12/2014 to 07/2015
+•Responsible for the "Engineer, Design & Build" phase of IT infrastructure service delivery solutions. For e.g. Backup Solutions, Scheduling Solutions, etc.
+•Daily operations include upgrade/install of Netbackup Master 7.5.0.6, Media and Clients with Netbackup client/server software on Windows & UNIX in a cluster environment.
+•Interact with clients to access needs and provide NAS CDoT solutions
+•Created deployment packages for the backup solutions for various operating systems.
+•Provided data analysis for creation of new backup environments, capacity additions and technology refresh to the existing environments.
+•Staged VServer to cater different backup requirements globally and deployed VM backup host across multiple data centers.
+•Assist in migration activities from legacy to new storage systems, focusing planning on a reduced outage window and improved experience for end customer
+•Managed migrations from Netapp filer to Isilon Cluster
+•Created backup policies using Autosys – add, remove and schedule client’s backup.
+•Create Zones and Devices - Provision storage by masking view
+
+KBR, Houston, TX
+Backup Specialist 06/2014 to 07/2014
+•Preventive Maintenance - Complete end to end analysis of Networker environment, health checks, configuration management, CLI scripting with various utilities
+•Tape Library Tape drives- zoning and drives management iscalar 2000
+•Designed and implemented disaster recovery and business continuity services for distributed offices specializing in EMC Avamar, Veritas Backup and EMC DPA.
+•Helped to improve reliability of backups and replications to over 98% at client sites
+•Converted tape-based backup systems to disk based while centralizing and improving DR and BC solutions for enterprises.
+•Align learning’s to create custom business continuity plans and augment inline processes.
+•Managed help for a client to troubleshoot networking, and solve backup replication issues.
+
+HCTRA.ORG, Houston, TX
+IT System Engineer 08/2013 to 01/2014
+•Support Ontap upgrades; export Qtrees, creation and exports through NFS.
+•NAS Administration, Netapps filers installation, snap mirror and quota, Qtrees
+•Streamlined virtual backups to AvamarVE integration with vcenter backup appliance
+•Configured backup replication policies reports RPO RTO in Isilon cluster
+•Install Avamar server add clients schedule, monitor garbage collection blackout window
+•Manage day-to-day backup integration with Quantum Dxi, Iscalar 2000 tape library
+•Provision Virtual machine in storage policy required per application performance.
+•Backup vCenter Server database running on Microsoft SQL, Exchange and Sharepoint
+•DPA custom reports for client’s success rate, backup analysis, capacity and inventory
+•Create and apply custom protection policy for database timefinder replica
+•Configuring Storage Life Cycle policies and troubleshooting SLP backlog issues
+•Tape Library/ DPA Tape drives- drives management including Quantum OST DXI 6702, Data Domain Hitachi VTL, ACS/IBM/Spectra T950 library
+•Lead Architect for Networker and Netbackup enterprise environments.
+•Implement and configure hardware such as tape libraries, Cisco/McData fabric switches and storage virtualization-linux KVM,Vmware
+•Design and implement custom Backup and Storage solutions using technologies such as SRDF, BCV, Flash Copy, DataDomain replication.
+•Setup and configure Data Domain DD880 as VTL's for Netbackup and Networker Servers and setup and configure Oracle, MSSQL,exchange, DB2, LAN free backups.
+•Configure Data Domain OST/Boost and NFS/CIFS shares on DD clients servers.
+•Led a team to certify applications and databases on backup and storage infrastructures.
+
+JP MORGAN CHASE, Houston, TX
+Sr. Implementation Engineer 09/2012 to 01/2013
+•Installation and patching Netbackup Master 7.5.0.6, Media and Clients with Netbackup client/server software on Windows & UNIX in a cluster server environment.
+•Used Operations Manager for performance monitoring & troubleshooting.
+•Support for FAS 3020/3040/6000 - Ontap upgrades and Disk firmware upgrades.
+•Configured Snap Vault on NetApp filer for disk based backup & ISILON NDMP for Tape Backup and Recovery
+•Configured Snap Mirror NetApp filer for Data Replication to remote/local sites.
+•Complete support of Netbackup (with FT, SSO, and NDMP), VTL (FalconStor, EMC), SIR (FalconStor Deduplication Technology) and scalar 2000 Tape Library environment.
+•DD OS Upgrades – troubleshooting, performance analysis and pro-active monitoring
+•Preventive Maintenance - Complete end to end analysis of NetBackup (NBU) environment, health checks, configuration management.
+
+EMC, Houston, TX
+Storage Operations Consultant 10/2011 to 08/2012
+•Manage day-to-day backup integration with DD and Avamar integration with DD
+•Pro-active assessment of the current Development IT infrastructure and improvements.
+•Perform TSM administrative processes-expiration, migration and reclamation.
+•Configuring devices into VPlex view and assign to VMs as virtual hard disk
+•Coordinate and resolve issues related to TSM servers and application maintenance cycle
+•Restarting clone jobs and troubleshooting the failed backups in Networker GUI/CLI
+•Handling Media management & troubleshooting errors during Backup / Restore.
+•Support TSM client life cycle process (install, decommission, migrations/upgrades)
+•Configure Oracle Recovery Manager RMAN tool to integrate with different backup software solution -Connect RMAN to backup/restore database,setup oracle symbolic link with media management library MML, configure backup device settings and policy retention requirement and configuring Automatic Backups for the Control File and Server Parameter File and allocating backup channels to disk and tape
+•Upgraded Data ONTAP and firmware system implementation.
+•Monitored and reported data management systems with OnCommand Insight.
+
+CAPITAL GROUP, San Antonio, TX
+NetBackup Storage Consultant 01/2011 to 08/2011
+•Configured OST with DataDomain in NBU 7.1 environment
+•Performed a POC (proof of concept), setup, configured and tested NBU 7.1 in the Client lab and implemented the solution.
+•Upgraded NBU domains from 6.5.6 to NBU 7.1. Load estimation and capacity planning
+•Zoning FC SAN “fabric” of EDL ports/drives to backup servers and hosts
+•Consolidated 7 NBU domains to 4 NBU domains and created “As-Built” documentation.
+•Performance Monitoring on the devices, pulling out graphs for write hits, latency using performance analyzer on the Unisphere.
+•SRDF replication setup or RPA replication. Adding new host (node) to the existing cluster-o by zoning o creating initiator group IG o adding initiators to the IG o adding this Child IG to the parent (cluster) IG. Adding new devices to the existing hosts
+
+THOMSON REUTERS INC., New York
+Data Protection Consultant 02/2010 to 10/2010
+•Administered backup software to map tape drives over ISCSI and FT.
+•Performed NBU catalog backup and automated the process through shell scripts.
+•Worked on analyzing data and on data retention to identify the CDL VTL solution.
+•Review of existing configuration to create the new one that would map to the new policy and adding new storage units (SLPs), volume pools, schedule names, retention standard
+•Maintained the NBU Avamar environment and managed backup operations of 250 TB.
+
+TRADECOM INC., San Jose, CA
+Storage Backup Administrator 10/2007 to 01/2010
+•Developed procedures backup/recovery and on-off site tape storage rotations/inventory.
+•Worked on performance tuning, daily monitoring and troubleshooting of AIX TSM Backup
+•L2-L3 Backup and restore administration in Symantec Netbackup environment with 3 Master Servers (UNIX), 40+ Media Servers (UNIX), and 2500+ Clients
+•Administered TSM server to monitor and manage enterprise data management processes.
+•Wrote and maintained scripts for automated backup, and the notification of errors.
+•Installed and administered Oracle Reliaty/Veritas Netbackup/TSM in a mixed system environment (Sun Solaris 2.8, SunOS 4.1.x, SGI IRIX 6.5, RedHat Linux 7.x, Windows)
+
+COMPUTER SCIENCES CORPORATION, Wayne, NJ
+IT Administrator 06/2002 to 09/2007
+•Troubleshoot VMware ESX server related issues, maintained virtual server environment, and created/deleted virtual servers
+•Installed, configured and maintained Network Appliance Filer Server(F720/F810/FAS250).
+•Provided daily maintenance-SUN E6500, E4500, T3 partner pair, EMC Clarion and AIX
+•Implementation/testing of vault system, cleaning/monitor devices, volume pools for NBU
+•Performed standard system administration tasks and it includes patching, upgrades
+•Assumed full ownership of support requests, from initiation through resolution and follow-up, while updating service activity tracking system, results in service delivery improvement
+
+AT&T, Somerset, NJ
+UNIX Administrator/Transition Lead 01/2001 to 04/2002
+•Documented, deployed, and automated standard operating procedures.
+•Implemented monitoring, backup, NIS, and disaster recovery in infrastructure.
+
+ADL DATA SYSTEMS, Dobbs Ferry, NY
+Systems Administrator 09/1999 to 12/2000
+•Resolved software / hardware network problems and OS patch update and installation.
+•Installed and configured UNIX in the network (Sun 2.6/2.7; Sun Ultra 10; 450)
+
+Employment Summary
+
+08/2017 to present Technical Specialist- Contract
+Integrated Enterprises, Houston, TX
+04/2016 to 07/2017 Senior Engineer- Layoffs
+Seagate Technology, Houston, TX
+08/2015 to 03/2016 Technical Specialist- Contract
+Integrated Enterprises, Houston, TX
+12/2014 to 07/2015 Senior Delivery Specialist- Contract
+EMC, Houston, TX
+06/2014 to 07/2014 Backup Specialist- Contract
+KBR, Houston, TX
+08/2013 to 01/2014 Technical Specialist- Contract
+HCTRA.ORG, Houston, TX
+09/2011 to 01/2013 Senior Implementation Engineer- Contract
+EMC, Houston, TX
+01/2011 to 08/2011 Storage Consultant- Contract
+Capital Group, San Antonio, TX
+02/2010 to 10/2010 Data Protection Consultant- Contract
+Thomson Reuters Inc, NY
+10/2007 to 01/2010 Storage Backup Administrator- Contract
+Tradecom USA Inc, NY
+06/2002 to 09/2007 IT Unix Administrator -Layoffs
+Computer Sciences Corp, Wayne, NJ
+01/2001 to 04/2002 Unix Transition Lead-Contract
+AT&T, Somserset,NJ
+09/1999 to 12/2000 Systems Administrator- Layoffs
+ADL Data Systems, Dobss Ferry, NY
+
+Contact this candidate

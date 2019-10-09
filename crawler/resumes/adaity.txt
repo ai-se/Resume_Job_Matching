@@ -1,0 +1,97 @@
+
+Graduate Mechanical Engineer with work experience in Machine
+Fixture (work-holding) design as a Design and development engineer. Have worked on special type of work-holding system for CNC capable machine tools.
+Seeking to work as a ‘Product development’ and 'Research and Development’ engineer, in fields of Automotive Industry; Aerospace Industry; Hydraulic & Pneumatic machine industry; Wind, Thermal and Solar power industry; Robotics industry; Capable of making mathematical models of complex
+automotive, hydraulic & pneumatic systems and analyse them. Can use coding to solve computational engineering problems in
+'Matlab' and ‘Python’.
+Ingenious concept design creator, problem-solver, critical thinker, focused and detail oriented.
+Experience
+Design and Development Engineer
+Adept Prosign Pvt. Ltd. (04/2018-present)
+Adept Prosign Pvt. Ltd. is a company specialising in providing solutions for work holding requirements by design and manufacture of special type of chucks and its needed accessories Key responsibilities/achievements:
+o Involved in the design of work-holding systems along with its required Special Purpose machines (SPMs)
+o Use concepts of Design for Manufacturing(DFM)and Design for Assembly(DFA) to develop the designed products faster and easier
+o Creating Manufacturing drawings (process-wise) of designed components, with appropriate GD&T
+o Ensuring the designs are made as per schedule and involvement in overseeing the manufacturing process by designing required fixtures, gauges, moulds, dies
+o Active involvement in the development of the designs which involves making BOM, procurement of raw materials, debugging and problem-solving at every stage, ensuring compliance of manufactured parts to the requirement by measurement and gauging
+o Creating manufacturing (process-wise) drawings of outside customer products
+Subject Matter Expert - Physics and Calculus
+Chegg.com (06/2017-02/2019)
+Chegg.com is an online Education technology company (Ed tech) that is a student first learning platform where Subject Experts provide academic solutions to students in their respective subject. Pururav Joshi
+B.E Mechanical Engineer
+PERSONAL INFO:
+Address:
+103, A-wing, Sai Pushpa Kunja, Raikar
+mala, Dhayari, Pune-411041,
+Maharashtra, India
+Date of Birth: 1993-11-09
+E-mail: adaity@r.postjobfree.com
+Phone: 880-***-****
+SKILLS:
+• ‘Product development’ in the field
+of fixture(work-holding) design
+involving Design, creating
+Manufacturing drawings with GD&T
+• CAD using ‘Solidworks’, ‘Catia’,
+‘Creo / Pro-e’ and ‘Inventor’;
+Drafting in 2D CAD like ‘Autocad
+Mechanical’, ‘Draftsight’
+• Give Design concept solution for
+engineering problems
+• Measurement and gauging ;work
+with instruments such as Digital
+Height gauge, Contour tracer,
+Profile projector, Roundness tester
+• ‘Plastic domain’ knowledge using
+‘Catia’
+• ‘Matlab and Simulink’, Physical
+modelling in ‘Simscape’
+• ‘Object oriented programming’ in
+‘Python’ ; making electronic
+systems using Arduino
+Microcontroller
+Key achievements/responsibilities:
+o answer questions in topics of Physics such as “Algebra Based Physics, Astronomy, Calculus Based Physics, Classical Physics, Electromagnetic Theory, General Physics, Optics, Quantum Physics and Statistical Mechanics”
+o answer questions in topics of Calculus such as “Calculus, Differential Equations and Vector Calculus”
+Intern
+Kumar Solutions Pvt. Ltd. (10/2017-02/2018)
+Key achievements:
+o designed Mandrel Inspection fixture (MIF) and its corresponding Hose Inspection fixture (HIF) in 'Solidworks' according to their specification sheet
+o Worked in Plastic domain in 'CATIA'. Completed ‘Remastering’ in Part modelling and ‘Surfacing’, foam design, close volume, master section and Draft analysis of Plastic parts.
+Education
+2017 B.E Mechanical (06/2013-06/2017)
+Graduated from the MAEER's MITCOE now MIT World Peace University, Karve road, Pune with a score of 63.6 percent, according to the curriculum of Pune University (S.P.P.U) for Mechanical Engineering GATE 2017
+Appeared for GATE 2017 and scored 43.5 marks out of 100, with a GATE score of 462 out of 1000
+HSC from Abasaheb Garware College (06/2009-06/2013) Completed +2 and scored 66.67 percent, according to the curriculum of Maharashtra State Board (H.S.C)
+SSC from Gurukul (03/2008-03/2009)
+Completed 10-th and scored 95 percent, according to the curriculum of C.B.S.E Graduation Project
+Our team modelled ‘Active Yaw Control system (AYC)', an automotive Electro-mechanical system in 'Matlab and Simulink' .We simulated the working of this system on a chosen Vehicle model and studied its effects on vehicle handling. We also suggested a new conceptual design of a 'Torque Vectoring Differential’, to be used in the system and showed it’s certain advantages over the existing design. Pre-final year Project
+Demonstrated the operation and the special features of a particular transmission system of an Hybrid Electric vehicle ‘Toyota Prius’ called as 'Hybrid Synergy drive' .This system is an electronic Continuously Variable Transmission (e-CVT), and I analysed its structure and working using lever models for the Epicyclic gear systems.
+SOFT SKILLS:
+• Critical thinking
+• Problem Solving
+• Ability to accept and learn
+from criticism
+• Flexibility / Adaptability
+• Good communication
+I.T SKILLS:
+• Microsoft Excel
+• Microsoft Word, Paint
+• Internet tools
+LANGUAGES:
+English - write, read, speak
+Rating: Fluent
+Marathi - write, read, speak
+Rating: Native Tongue
+Hindi - write, read, speak
+Rating: Moderate
+Additional Activities
+• Completed a 'Advanced workshop on ‘Matlab and Simulink'
+• Completed 'Elite-techno Group 15 day ATV design workshop' in summer 2016
+• Participated in Autodesk Design competition in 2015 and 2016
+• Completed workshop 'Training workshop on 3d Mechanical design using Autodesk Fusion 360’
+• Attended workshop on 'IV-Tech engines' in Tesla 14
+• Completed online courses of MIT-OCW in 'Introduction to computer science and programming',
+'Multivariable calculus' and 'Differential equations'
+
+Contact this candidate

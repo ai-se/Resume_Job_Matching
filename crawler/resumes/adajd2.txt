@@ -1,0 +1,28 @@
+
+ALEXANDER SUTTON
+937-***-**** adajd2@r.postjobfree.com
+SUMMARY
+Innovative, hands-on optical engineer with extensive experience in optical physics, engineering principles and being a positive team player who is committed to excellence. Expertise includes 3D modeling, designing optical assemblies, utilizing manufacturing tools, and nding solutions to complex optical engineering problems. EDUCATION
+Colorado School of Mines - B.S. Engineering Physics TECHNICAL & PROFESSIONAL SKILLS
+Laser and Optical Design/Theory 3D Modeling (Solidworks Certi ed) Mathematica Modeling & Simulations Analog/Digital Circuit Design Failure Analysis & Investigation Python & C++ Programming Hazardous Materials Safety Training Machine Shop Design/Fabrication Advanced Mathematics PROJECTS
+Planetary Engineering Design Practices
+Worked with a rm to design a satellite system to collect data for the modeling of the Jovian Planets’ atmosphere
+Modeled and simulated the
+ight trajectory of a satellite system using Mathematica and Python
+Designed sensor system assemblies (including optical/imaging sensors) for data collection from a satellite Physics Field Session
+Designed an optical thermometer using principles of interferometry and mechanical alignment of lasers
+Implemented manufacturing processes to create parts and assemblies for a Newton’s cradle in machine shop
+Inspected vacuum and pneumatic systems using pressure and leak testing for mass spectrometry
+Invented a glove that could be used to control LEDs and play musical notes by bending ngers using LabVIEW Electromagnetic Waves & Optical Physics
+Found mathematical solutions to the electromagnetic wave equation, including plane waves, refraction, interference, di raction & polarization with applications in optics, imaging, lasers, resonators & wave guides Analog & Digital Electronics
+Created a video game system using an Arduino in conjunction with analog and circuits and C++ programming Senior Design
+Developed a replacement for silicon based sol-gels using titanium in the manufacturing of semiconductors EPICS I
+Placed in the top 5% (out of 300+) in a competition to design/build all-terrain wheelchair modi cations for charity WORK EXPERIENCE
+Zayo Group - OSP (Outside Plant) Project Management Intern 2017 - 2018
+Reviewed engineering documents & test result data for installation & failure analysis of ber optics
+Managed updates to the labeling system used for large-scale ber optics projects, involving traveling to, inspecting, photographing, reviewing test results & writing reports for over 100 job sites
+Performed eld inspections of ber runs to cell sites along with preparing reports for customers/management
+Volunteered to facilitate the rst intern-led open-table discussion between CTO & intern program
+Presented concept business to senior level executives and investors involving engineering & business models
+
+Contact this candidate

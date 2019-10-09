@@ -1,3 +1,4 @@
+Job Title = Security Engineer
 
 As a member of our security team, you will work in close partnership with the clients management team and the Managed Services / Security Operations team to design solutions, implement security policies, and be the primary security team member at the client.
 Job Duties

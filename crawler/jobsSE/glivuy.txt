@@ -1,10 +1,51 @@
+Job Title = Cyber Or Backend Or Engineer jobs in Raleigh, NC, 27606
 
-Experienced Site Reliability EngineerWindows/PowershellThe Cyber Security Telemetry team is a global team.
-The candidate will work in an agile Scrum team to design, engineer, package, deploy and maintain agents across Windows and Linux operating systems.
-Additionally, the candidate will perform day-to-day operations to maintain the production and development infrastructure on which the software runs.
-The candidate will also document the solution including designs, test plans/results, and, where appropriate, installation instructions and operational manuals.
-The ideal candidate should be passionate about working in an agile team and developing new solutions.Tasks Day-to-day operational maintenance of Cyber Security agents and any associated backend infrastructure, including system administration tasks--- Automating Windows-based tasks using Powershell--- Writing code (in Powershell or Python) to interact with APIs of the deployed solutions--- Document test plans and test results--- Document solutions in wiki--- Maintain relevant industry, information security, and technical knowledgeQUALIFICATIONS:5+ years of experience and excellent skills in Excellent Powershell development skills, including experience working with APIs and source code management--- Excellent systems administration skills on Windows--- Technical solution design, implementation, and integration experience in enterprise environments, preferably with information security software--- Packaging and package integration on Windows--- Decent working knowledge of Linux --
+Focused Cyber, LLC  – 
+Morrisville, NC
+Tenable Engineer ﾖ Morrisville, NC Job Description: Focused Cyber is looking for an individual who will join the security team of a major nationwide organization, with thousands of sites, to continually improve its complex multi-protocol nationwide ...
+- ZipRecruiter, Oct 07
 
+Epic Games  – 
+Cary, NC, 27511
+Epic Games is looking someone to join our Dedicated Server Fleet Management team and build the automation platform that manages our globally distributed fleet of game servers to provide the best possible experience to players worldwide...
+- Jobg8, Oct 08
 
-Go to apply 
+Epic Games  – 
+Cary, NC, 27511
+We are looking for an experienced Engineer to build and own backend services that will push Epic's distribution platform forward. You have heavy experience with highly scalable technologies, and high-traffic web services, as well as a passion for ...
+- Jobg8, Oct 08
 
+ndustrial.io  – 
+Raleigh, NC
+ndustrial.io is a Raleigh, NC based startup looking for a high-quality Senior Backend Engineer to join the team and help us continue to improve the Industrial IOT market. We are looking for someone passionate about their work and who can be a big ...
+- ZipRecruiter, Sep 19
+
+Archer I.T., LLC  – 
+Raleigh, NC, 27601
+ATop Financial Firm in Raleigh, NC is Site Reliability Engineer with Strong (PowerShell or Python), Cyber Security, APIs, ... Tasks: Day-to-day operational maintenance of Cyber Security agents and any associated backend infrastructure, including ...
+- Jobs2Careers, Oct 05
+
+Archer I.T., LLC  – 
+Raleigh, NC, 27601
+A Top Financial Firm in Raleigh, NC is Site Reliability Engineer with Strong (PowerShell or Python), Cyber Security, APIs, ... Tasks: • Day-to-day operational maintenance of Cyber Security agents and any associated backend infrastructure, including ...
+- Dice.com, Oct 02
+
+VACO Technology  – 
+Raleigh, NC, 27604
+Description - The Cyber Security Engineer's mission is to ensure that our bank can identify, defend and respond against both internal and external cyber security threats. We will identify and eradicate threats as early in the kill chain as possible ...
+- Jobs2Careers, Oct 04
+
+Archer I.T., LLC  – 
+Raleigh, NC, 27601
+A Top Financial Firm in Raleigh, NC is Site Reliability Engineer with Strong (PowerShell or Python), Cyber Security, APIs, ... Tasks: • Day-to-day operational maintenance of Cyber Security agents and any associated backend infrastructure, including ...
+- Jobg8, Oct 03
+
+VACO Technology  – 
+Raleigh, NC, 27604
+Description - The Cyber Security Engineer's mission is to ensure that our bank can identify, defend and respond against both internal and external cyber security threats. We will identify and eradicate threats as early in the kill chain as possible ...
+- Jobs2Careers, Oct 07
+
+COllabera  – 
+Durham, NC, 27709
+SECURITY ENGINEER / Vulnerability Management Engineer The Vulnerability Management Engineer is a hands-on role supporting the Vulnerability Management Operations Program. The VMA is expected to perform security audit functions to identify, validate, ...
+- Jobs2Careers, Oct 06

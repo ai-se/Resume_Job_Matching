@@ -1,10 +1,51 @@
+Job Title = Video Or Android Or Embedded jobs in Raleigh, NC, 27606
 
-Role: Multimedia Video Software Engineer Location: San Jose, CA Duration:12+ Months Job Description: 1)Relevant experience in embedded applications/middleware/Android framework, Video Encoder/Decoder is a preferred.
-2)Strong knowledge & experience of C, C++ programming, any Real time embedded system experience is preferred 3)Experience with embedded software development, ARM family is plus.
-4)Good knowledge and experience in Android middleware is needed 5)Strong hardware and Software debugging skills is preferred.
-Experience with T32, JTAG, ICE debuggers and Android debugging is plus.
-6)Good communication skills (both written and verbal), be a team player and customer communication is desirable Thanks & Regards, Jagga RaoSenior Executive - International ConsultingInnominds Software Inc.Email ID: innominds.comDirect: 408 Desk: 408 6565
+Extron Electronics  – 
+Raleigh, NC, 27601
+EMBEDDED HARDWARE TEST ENGINEER Responsibilities include test and debug of embedded hardware for audio and video IP streaming and processing products. Includes developing test plans, setting up test scenarios and automated testing with scripting ...
+- Lensa, Oct 03
 
+Aerotek  – 
+Cary, NC, 27513
+... or other embedded, mobile, or consumer platforms Experience using source code control and defect tools such as Git, Github, Gerrit, Jira, or Jenkins Experience debugging software applications using debugging tools such as Eclipse, Momentics, Android ...
+- Jobg8, Sep 28
 
-Go to apply 
+Aerotek  – 
+Raleigh, NC, 27603
+... embedded, mobile, or consumer platforms • Experience using source code control and defect tools such as Git, Github, Gerrit, Jira, or Jenkins • Experience debugging software applications using debugging tools such as Eclipse, Momentics, Android ...
+- Jobg8, Sep 28
 
+CyberCoders  – 
+Raleigh, NC, 27601
+Embedded Engineer - Linux, C++, JavaScript Embedded Engineer - Linux, C++, JavaScript - Skills Required - Linux, C++, JavaScript, Android, GIT, Embedded, communication Protocol If you are a Embedded Engineer with experience, please read on! Top ...
+- Lensa, Oct 07
+
+Royal Caribbean Cruises  – 
+Raleigh, NC
+Android Engineer Engineering at Royal Caribbean International's digital division plays an integral role in creating and improving systems that are reimagining the cruise vacation industry for guests and crew alike. Join our team of highly skilled ...
+- Neuvoo, Oct 09
+
+Next Generation Technology, Inc.  – 
+Raleigh, NC, 27601
+Requirements Minimum experience 4 years ideal profile 6-8 years Must have Automotive industry experience Solid understanding of wireless protocols, LTE, 5G, UMTS, GSM Full stack development experiences with C/C++, embedded systems, APIs Development ...
+- Jobg8, Oct 02
+
+Piper Companies  – 
+Raleigh, NC, 27604
+Android Developer Piper Companies is currently looking for a Senior Android Developer in the Raleigh-Durham, North Carolina (NC) area to work for a leading technology driven company. The Android Developer will have an opportunity to design, develop, ...
+- Dice.com, Oct 08
+
+CyberCoders  – 
+Raleigh, NC, 27601
+Android Developer (kotlin) Android Developer (kotlin) - Skills Required - Java, Android SDK, RESTful APIs, Kotlin, AWS, Agile, Android Studio Headquartered in Washington D.C. with offices throughout the metro area we are looking to expand our team ...
+- Lensa, Oct 07
+
+Piper Companies  – 
+Raleigh, NC, 27601
+Android Developer Piper Companies is currently looking for a Senior Android Developer in the Raleigh-Durham, North Carolina (NC) area to work for a leading technology driven company. The Android Developer will have an opportunity to design, develop, ...
+- Dice, Oct 09
+
+Airside Mobile  – 
+Raleigh, NC, 27601
+... About the Job: Airside is looking for exceptionally talented Android application developers with a passion for solving intricate problems in the identity management area. The ideal candidate is a self-starter who worked as a primary developer in the ...
+- ZipRecruiter, Sep 27

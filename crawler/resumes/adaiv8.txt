@@ -1,0 +1,225 @@
+
+Arunprasath Krishnan
+E-mail: adaiv8@r.postjobfree.com, Mobile: +1-650-***-****
+
+OBJECTIVE
+Intend to build a career with leading corporate, which will help me to explore myself fully and realize my potential. An effective communicator with excellent planning, organizing and co-ordination skills coupled with an ability to manage stress, time and people effectively.
+
+PROFESSIONAL EXPERIENCE
+Number of Years – 8 years
+System Integration, Design, Development and Debug software applications
+Equipment & NI DAQ Card Selection
+Software development & Integration Special Purpose Machine for Manufacturing Companies and Automated Test System
+Writing Machine Manuals and Technical Documents
+
+CORE COMPETENCIES
+Strong Programming knowledge in LabVIEW – NI-DAQ
+Hands on experience in executing project with NI DAQ system (PCI,PXI, cDAQ & MXI), Modbus (Serial & TCP/IP), OPC Server, TCP/IP, RS-232,RS-485 and GPIB
+Hands on experience in MS SQL, MySQL and MS ACCESS
+Hands on experience in SECS/GEM
+Involved in Equipment,Instrument selection and procurement activities
+Testing and Commissioning in Client Location
+Having good working knowledge with different sensors and Instruments like Power meters, DMM, Oscilloscopes, Power supply, etc.,
+Working Knowledge of PLC and LabVIEW Communication
+Good team player, keen learner, problem solving ability and effective communicator
+Having Good Project Management skills
+Writing Machine Manuals
+
+PROFESSIONAL EXPERIENCE SUMMARY
+LabVIEW Engineer
+Semifab Inc
+Oct 2018 – Till date
+11 months
+Technical Associate,
+Symbiosis e-Serve
+Oct 2016 – Sep 2018
+2 Years
+Testing Engineer (LabVIEW)
+Power Electronics ESPANA
+Jan 2015 – May 2016
+1 Year 5 Months
+Engineer (LabVIEW)
+UTC Aerospace
+Jan 2014 – Dec 2014
+1 Years
+Project Engineer (LabVIEW)
+Procyon Techsolutions
+Dec 2010 – Jan 2014
+3 Years 1 Month
+Electrical Co-coordinator
+Akash Management
+June 2010–Nov 2010
+5 Months
+EDUCATION
+Bachelor of Engineering (B.E)
+Electronics and Communication
+2006-2009
+Diploma
+Instrumentation and control
+2004-2006
+
+DETAILS OF WORK EXPERIENCE
+Project#8
+BARE RETICLE STOCKER
+Communication : TCP/IP, RS232
+Hardware : CDAQ, PDS, ASML Loadport
+Software : LabVIEW 2016, Database MS SQL 2012
+Client : ON Semiconductor, USA
+
+Description
+
+This project has been performed using LabVIEW 2016 for ON Semiconductor, USA. The machine is used to Clean, Inspect the Reticle and Store into the Stocker. After cleaning and inspecting the Particle, the Reticle retrieved from the Stocker. The Reticle transferred from Pod to Pod after Clean and Inspect. SQL is used to maintain the Inventory of the Stocker and Log the history of the Reticle.
+
+Roles and Responsibilities
+
+-Involved in Project Planning & Execution
+-Equipment Selection and Finalization
+-Design and Development of system Integration Software
+-Testing and Commissioning in Client Site
+-Preparing Technical documents and reports
+-Improving Cycle Time Reduction
+
+Project#7
+MOTOR DRIVE TEST BENCH
+Communication : Modbus TCP/IP, Modbus Serial
+Hardware : NI PCI (6229)
+Software : LabVIEW 2015, MySQL
+Client : Power Electronics ESPANA, Spain
+
+Description
+
+In this project we developed the software to test the functionality of Motor Drive. Software Integration Test Process developed in LabVIEW is used to test the Motor Drive Functionality (Pass / Fail Scenarios). LabVIEW code developed from the previously written test cases. After test execution, the results stored in database and finally in test link.
+
+Roles and Responsibilities
+
+-Collecting Project Requirement From Product development
+-Involved in Project Planning & Execution
+-Design and Development of system Integration Software
+-Preparing Technical documents and reports
+
+Project#6
+SOLAR INVERTER TEST BENCH
+Communication : Modbus TCP/IP, Modbus Serial
+Hardware : NI PCI (6059)
+Software : LabVIEW 2013
+Client : Power Electronics ESPANA, Spain
+
+Description
+
+In this project we developed the software to test the functionality of Solar Inverter. Software Integration Test Process developed in LabVIEW is used to test the Solar Inverter Functionality (Pass / Fail Scenarios). LabVIEW code developed from the previously written test cases. After test execution, the results stored in database and finally in test link.
+
+Roles and Responsibilities
+
+-Collecting Project Requirement From Product development
+-Involved in Project Planning & Execution
+-Design and Development of system Integration Software
+-Preparing Technical documents and reports
+
+Project#5
+STEERING TEST BENCH
+Communication : TCP/IP, Serial
+Hardware : NI PCI (6321, 6509) Servo motor, LVDT,
+Torque Transducer, Encoder, Load Cell
+Software : LabVIEW 2011, Database MY SQL
+Client : ZFL, Pune, India
+
+Description
+
+In this project we developed & tested the performance of Automobile Power Steering by acquiring the Load, Distance, Clearance, Angle and Torque of Steering. TCP/IP communication controls the servo motor to Push, Pull and Hold the Steering.
+
+The developed software performs the following tests:
+Yoke Clearance Test
+Sliding Force Test
+Rotating Torque Test
+
+Roles and Responsibilities
+
+-Collecting Project Requirement From Client
+-Involved in Project Planning & Execution
+-Equipment selection and finalization
+-Design and Development of system Integration Software
+-Testing and Commissioning in Client Site
+-Preparing Technical documents and reports
+
+Project#4
+UPS TEST BENCH
+Communication : GPIB, Serial
+Hardware : Power Supply, NHR Load, Power Meter
+Software : LabVIEW 2011, MS SQL 2005
+Client : American Power Conversion, Bangalore, India
+
+Description
+
+In this project we developed the software to test the functionality of UPS. The UPS tested using Power supply, NHR Load and Power Meter. In this test bed, Power supply provides Power to UPS and NHR Load provides load to UPS. Power Meter is used to check the consumption of Power by UPS.
+
+Roles and Responsibilities
+
+-Collecting Project Requirement From Client
+-Involved in Project Planning & Execution
+-Equipment selection and finalization
+-Design and Development of system Integration Software
+-Preparing Technical documents and reports
+
+Project#3
+STEERING COLUMN ASSEMBLY
+Communication : RS232
+Hardware : PCI 6509, ATEQ F520
+Software : LabVIEW 2011, Database MS SQL 2005
+Client : TRW, Chennai, India
+
+Description
+
+In this project the assembled Automobile Steering received. The main aim of this project is to test the Leakage of the Automobile Steering. Read the leak test data from ATEQ unit using RS232 Communication and leak data stored into the Database. Complete Machine Operation has been done using PCI 6509 Digital I/O card.
+
+Roles and Responsibilities
+
+-Collecting Project Requirement From Client
+-Involved in Project Planning & Execution
+-Equipment selection and finalization
+-Design and Development of system Integration Software
+-Testing and Commissioning in Client Site
+-Preparing Technical documents and reports
+
+Project#2
+POWER DRIVE UNIT (PDU) TEST BENCH
+Communication : GPIB
+Hardware : PXI 6020E, PXI 2365, Power Supply, Loadcell, LVDT
+Software : LabVIEW 2013, MS SQL
+Client : UTC Aerospace, Bangalore, India
+
+Description
+
+Power Drive Unit used Cargo Aircraft to load the Container. This machine is used to study the character and functionality of Power Drive Unit. Here LVDT measured the height and Loadcell measured the load during the Power Drive Unit Movement. MS SQL stored the Height and Load value.
+
+Roles and Responsibilities
+
+-Collecting Project Requirement From Client
+-Involved in Project Planning & Execution
+-Equipment selection and finalization
+-Design and Development of system Integration Software
+-Preparing Technical documents and reports
+
+Project#1
+CV MOTOR TEST BENCH
+Communication : GPIB
+Hardware : Mager, NI PXI 8187, PXI 4042
+Software : LabVIEW 8.6, Database MS SQL 2005
+Client : Mica Bosch, Bangalore, India
+
+Description
+This project has been performed using LabVIEW 8.6 for Mica Bosch, Bangalore. The aim of this project is to test the performance of Automobile starter motor. During testing process, read the torque, speed, current & voltage using PXI 4042 and control the Mager instrument using GPIB Communication.
+
+Roles and Responsibilities
+
+-Collecting Project Requirement From Client
+-Involved in Project Planning & Execution
+-Equipment selection and finalization
+-Design and Development of system Integration Software
+-Testing and Commissioning in Client Site
+-Preparing Technical documents and reports
+
+PASSPORT AND VISA DETAILS
+Passport no : L8186951, Chennai valid up to Apr 2024
+VISA : H1B till Sep 2020
+
+Contact this candidate

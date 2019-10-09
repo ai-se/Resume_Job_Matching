@@ -1,0 +1,30 @@
+
+Jui-Hung (Ray)Lu
+Location: Corvallis, OR, *****, U.S.A Phone: 702-***-**** Email: adajls@r.postjobfree.com LisnkedIn: https://www.linkedin.com/in/jui-hung-lu-92001613b/ CAREER OBJECTIVE
+Enthusiastic and highly motivated software engineering graduate student with proven problem-solving and algorithms understanding capability. Experience in Agile management, software application development with CI/CD system, data analysis, and learning algorithms implement.
+EDUCATION
+Oregon State University (OSU) - Corvallis, OR Apr 2018 - Dec 2019(expected) Master of Engineer, Computer Science, GPA: 3.77
+Courses: Algorithms, Database System, Machine Learning, Deep Learning, Reinforcement Learning National Central University (NCU) - Taoyuan City, Taiwan Sep 2012 - Jun 2016 Bachelor of Science, Communication Engineering
+Courses: Algorithms, Data Structure, Computer Communication Networks WORK EXPERIENCE
+Field Application Engineer Feb 2017 - Jun 2017
+GCOM TECHNOLOGIES CO., New Taipei City, Taiwan
+• Be responsible for engineering a system in production, helping with product testing and managing Research Assistant Feb 2015 - Jun 2015
+National Central University, Taoyuan City, Taiwan
+• Provided three approaches using Java and Android application to evaluate video streaming transmission delay
+• Implemented real time video transmission in no Internet environment using Wifi- AP mode or Wifi-Direct mode PROJECT EXPERIENCE
+A Cloud and Flask based Real Estate Predict system AWS, Docker, Jenkins, Python, Restful, Flask Jul 2019 - Sep 2019
+• Developed a machine learning application with 70% accuracy and automatic web crawler for auto data updating and predicting using SoupBeautiful in Python
+• Designed backend server and deployed on AWS EC2 using RESTful API in Flask framework
+• Incorporated application and server to a CI/CD pipeline system using Docker, Jenkins which automated steps in software delivery process and reduced 70% periodically updating work Image Feature Detecting Improvement Research PyTorch, TensorFlow, CNN, SIFT Jan 2019 - Mar 2019 Handcrafter Descriptors vs Learned Descriptors
+• Improved accuracy to 97% by integrating Handcrafter and Learned Descriptors, which accuracy is 23 % higher than Learned Descriptors Model and 32% higher than Handcrafter Descriptors Model
+• Developed CNN models and SIFT models as Learned and Handcrafter Descriptors using Torch in Python Cart-Pole Game DQN, Q-Learning, SARSA Jun 2019
+• Implemented Deep Q Network and achieved 50% faster convergence than Q-Learning and SARSA Signal Character Recognition AdaBoost, Random Forest, KNN, Perceptron Dec 2018
+• Implemented regression, perceptron, KNN, random forest, and AdaBoost without applying any present model and achieved over 96% accuracy with AdaBoost using Python Restaurant Search Engine and Recommendation System Agile, MySQL, PHP, Html, CSS Sep 2018 - Dec 2018
+• Developed product and achieved 90% customer satisfaction by gathering user’s feedback in Agile
+• Designed a backend search engine web and database system using HTML, CSS, JavaScript, and MySQL
+• Created user certification and provide customized searching result based on user’s record using PHP SKILL
+• Programming Language: Python, C, Java, Bash, Haskell, HTML, CSS, PHP, MySQL
+• Framework and Libraries: Linux, PyTorch, Restful API, OpenCV, Flask, Android, Scikit-learn, OOD
+• Tools: Git, AWS, Jenkins, Eclipse, CI/CD, Docker, DevOps, Agile, TCP/IP, Computer Network Model
+
+Contact this candidate

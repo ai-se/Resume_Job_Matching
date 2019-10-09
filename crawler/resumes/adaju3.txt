@@ -1,0 +1,73 @@
+
+Paulo Roberto Ferreira - IT Manager - Project
+Currently in New Jersey – USA - Contact: 973-***-**** adaju3@r.postjobfree.com / www.linkedin.com/in/pauloferreirait/ Work Experience
+20100US - New York – Manhattan – US – Nov. 2018 to present IT Specialist, Projects, Implementator, IT Governance - Studding and developing a possible improvement of IT infrastructure. Including front end (retail) and back end solutions.
+Implementation of IT governance with focus in business continuity, disaster recovery based on high availability, security, processes, accesses, performance and excellence. ITIL Implementation.
+NorthStar – Brazil and New York – NY - US – June 2018 – Nov. 2018 IT Director - Directed multiple small to medium-sized it projects since studding clients infrastructure and putting together a solid project with my team to successful implementation. Conducted and Directed projects, kick-off meetings, defined project objectives and scopes, tracked risks, assumptions, and directed detailed project schedules. Conducted regular meetings, facilitated communications, ensured coordination, and cooperation among team members. Established customer expectations of project scope, deliverable, procedures for project communications and dissemination of information for team members. Directed various executive projects including facility relocation, marketing campaigns, and employee acquisition and training. Identified problem areas and instituted large-scale project campaigns to address them. Led successful campaigns.
+Sykes – Call Center - Curitiba – PR – Brasil – Jan. 2015 – Jun. 2016 IT Manager/ IT Project Manager / Operations Audit Manager Responsible: servers, network, telecom infrastructure and support to attend clients. It local project manager. Customer Care (ideas and changes to increase customer satisfaction). Experience with PCI environment. Budget planning, provisioning and predictive projects for high availability service. Experience with outage and internal processes and procedures creation to adapt and delivery better support standards. Direct report to Local CEO and Regional CEO/VP. IT Audit Manager with software, hardware, process, procedures and administrative. Ensure compliance to business agreements, policies, procedures and regulations along with ability to map controls and compliance requirements. Responsible for Operational Audit.
+LP Brazil OSB Ind. and Com. SA –Paraná – Brasil - Feb. 2013 – Nov. 2014 IT Infrastructure / Coordinator / IT Project Manager / IT Audit IT management, project management, planning, structuration and execution
+(administrative and operational). Handling year budget for investment in the area. Contracts, negotiation, plans to save costs. Team leadership and trainings. PS: Project already implemented and running. Direct report to Local and Regional CEO. Audit
+(Same that I did in Sykes, but here, I had this experience working with industrial software and procedures).
+Administrative Skills
+Managing IT area for
+investments, equipment,
+services and new hires. Budget
+handling, planning thinking to
+save costs and avoid aggressive
+impacts on operational and
+business. Audits (IT and
+Operation) good experience.
+Skills of communication and
+planning with other areas to get
+common goals for all company.
+Know how to handle more than
+one project at the same time,
+from the beginning until
+deployment with focus to get
+objectives accomplished.
+Know how to handle situations
+and not familiar environments
+(critical/emergencies,
+requirements, not planned
+actions trough the project
+implementation).
+Pro-active leadership, planning,
+analyzing potential risks, costs
+and benefits of the projects,
+keeping a motivated and
+focused team.
+Know how to bring trainings
+from team members until end
+users.
+Coaching Leader & Consultant.
+Professional development plan
+(PDM) to each team member.
+Management/Coordination of
+IT Remote Projects and Teams
+Education
+High School Degree – Data
+Processing Technician
+Fluent : English and Spanish,
+Native: Portuguese
+Cargill – Buenos Aires – Argentina- Abril. 2010 – Abril. 2012 Large experience with IT Remote Work
+Specialist IT for architecture / Infrastructure Servers and Network Worked with a global infrastructure and Architecture server’s specialist strategic team. The entire team was composed by around 40 people, but 10 from those, worked only on critical technical situations where the problem was affecting directly the company business itself. I was one of those 10. Responsible for Global COB.
+Accomplishments / Achievements:
+2010 – 2012: Cargill Servers Virtualization Project TARTAN: A global project focused on main Cargill Data Center, Minneapolis USA, successful virtualized 70% of all servers Wintel based. Cargill Domain Controllers Clean UP: A global project to clean up all Cargill Domain Controllers Servers. This project works over 200 thousand users accounts
+2013 – 2014: LP Brazil Curitiba Office Relocation : Louisiana Pacific Brazil local site office relocation. All infrastructure (physical, security, and IT) has been relocated to new office looking to align beside Corp requirements; LP Brazil Integration Project: Already located in the new office integration project was ready to deploy. LP Brazil was sharing network and server infrastructure with a third company. This project was accomplished in 2 execution steps: 1st – administrative offices in Curitiba, and, 2nd factory plant in Ponta Grossa. LP Brazil with my lead was the first Louisiana Pacific Corporation to start to use thin clients in their offices, printing a new stage in entire company in how to work with virtualization processes. A plus in this project was start to work with SAP application virtualized for users in terminal servers. All work I did with hands on. LP Brazil Audit: Establishing a new security compliance for hardware and software office and factory, creating a new and independent local corporate network. Physical and logical security access control. 2015 – 2016: Sykes Brazil New Remote Site: Sykes Brazil was growing fast and needed to deploy a new site in Curitiba increasing it capacity. After 3 months of planning we started to deploy and accomplish the company needs. Me and my team did delivery the new site location in 45 days (half of planed time). The main site and the brand new site have dedicated MPLS between them to ensure security, reliability and redundancy to deliver the services. Sykes Brazil Local Avaya ACD: Planning save costs with rent of Avaya (Infrastructure and services), I designed a project to delivery Avaya Server ACD locally in Curitiba. This project would save for company more than USD1Million yearly. The initial investment would be of USD3Milion. Project was not concluded. Sykes Brazil Virtual Desktop Project:. The main Corp plan was sell to all sites locations this virtualized services. When I deeper analyzed the blue print global project, I realized that wouldn’t be a good solution for smaller sites. So, I projected another plan that was very welcome. My project was so new and innovating that locations as Asia Pacific and EMEA was very interested to build the same project model in their locations.
+Sykes Brazil IT Team: IT area was working below standards in terms of quality and productivity. I was suggested to fire all area and hire a brand new team. I would never do that. Instead of it, I decided to work with them and at the end, after months, I had the most loyal, good behavior, and higher performance team of all Brazilian site. Sykes Brazil Audit: Performed and documented audit procedures, conclusions and findings in accordance with professional standards. Controlled testing as defined by the audit program. Reviewed and evaluated IT systems/operations to ensure compliance with prevailing regulatory laws and requirements, company policies, standards and procedures. Identified root causes of specific problems and developed practical and feasible recommendations. Formulated the final audit reports. With all this procedures we found frauds in customers operations and fixed with proper procedures. Technical Skills
+Projects: Methodology Agile and Waterfall
+Servers: server architecture, physical and virtual environments from Dell, HP, IBM for variable functions like domain controllers, print servers, file servers, terminal servers, virtual desktops and VDI, backup servers (digital/virtual and tapes), firewalls, WSUS, monitoring. Windows servers 2003/2008/2012. Linux Servers. Monitoring tools: HP OVO SYSTEM - DELL DRAC SYSTEMS - HP ILO SYSTEMS -NAGIOS/CACTI SYSTEMS - NETSCOUT SYSTEMS - APACHE SERVERS.
+Virtualization: VMware/VSphere ESXi, Veeam Tools, Citrix Metaframe (XENN desktops, XENN Servers and XENN app – Infrastructure and architecture) Thin Clients (wyse terminals, HP Thin Clients, Ncomputing); Administrative and industrial networks: architecture and infrastructure. Cisco routers and switches. Operational Systems and applications:
+All Wintel based, Linux and ESXi, Citrix.
+Experience in providing support, maintenance, installation of servers and java applications such as JDEdwards (servers located in data center in Canada, USA, Brazil and Argentina, which also served other regions of the company (Cargill) in Europe, Asia and Australia, as well as applications. a variety of crop / yields for soybeans, flour and fuels, runiing virtually within the high availability Citrix Xenapp / Xenserver platform to ensure business continuity even in the event of a system failure. Support Storage and Backup systems.
+Sykes Connect (this non-commercial internal proprietary system) is geared towards meeting IT demand, with the goal of building a global proprietary ticket tracking / attention platform to increase the success indicators of each regional IT area. Planning and design of java applications / tools focused on IT productivity in the form of a ticket system. This system is still used by the company globally, internally divided by IT directives by regional (North America, Central and South America, EMEA and ASIA).
+Planning and design of java-specific applications to meet the demands of customers such as Volvo, Dell, Citibank (which is a Citrix platform and used in a secure PCI / ROC environment required by the banking and card industry) seeking to boost their productivity indicators, service and agility to IT end users / customers served by end user support. Delivery of virtual desktops (VDI on Citrix and horizon) for remote users and clients to perform their routine tasks. Planning, design, design, execution, support and maintenance of this infrastructure. I worked on two major projects with similar goal and infrastructure. It is the first called Tartan in Cargill where the goal was to unify all regional ones into a single central access system only differentiated by the level of access of external remote users / customers-suppliers. The second project called Sykes One / Home, with a similar objective to the first but also aimed at delivering sufficient resources for permanent remote work of call agents, team leaders, supervisors, account managers, ensuring access to all available tools including the owners developed in java
+Telecom: mobile, conventional and VoIP. Cisco and Avaya Systems. Experience with Cisco and Avaya VoIP telephone systems. Project management, planning and design of VoIP-based telecom infrastructure globally and with regional integration in the global company map. One of the major goals achieved was to seamlessly deliver an internal help desk (Sykes) connected by VoIP lines so that users could contact them by phone if needed. Providing sufficient resources for permanent remote customer service and support. Customers have access to and use of VOIP technology remotely with connection to the entire voice communication network of the company. Network – Cisco based systems
+Design, planning and design of enterprise network infrastructure with cisco equipment (routers, firewalls, switches, stacked switches, switch blades, fiber gbic connection technology (external and internal), wireless and cabled surveys to ensure end-user experience in performing its functions.
+MPLS and over internet vpn's design, planning and design for communication between overseas affiliates. Implementation of a new network infrastructure and servers to meet Louisiana Pacific's need to get its branches in Brazil under the same corporate domain, integrating and absorbing the help desk infrastructure, internal extension VoIP telephony. PS : acts directly to operational tasks, bringing support, follow ups and project execution. Consultant.
+Development: C, C++, Java, Visual Basic, Delphi, Apache Servers, PHP, HTML, IIS servers, SAP, Terminal servers as VDI internal and external access, could systems, storages, clusters, Linux, VMware ESXi, VMware Horizon, VMware Veeam, Citrix platform, Exchange, office 365, Windows Azure.
+Extra Experiences:
+Argentina resident for 6 years;
+Travels to Portland – USA – Studying global IT infrastructure, standards and policies of the Company to finish designing/ writhing Brazilian IT project. / NYC Project manager.
+
+Contact this candidate

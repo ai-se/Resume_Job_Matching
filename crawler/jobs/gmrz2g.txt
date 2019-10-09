@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 2nd shift
 4pm-12am

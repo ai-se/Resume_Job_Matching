@@ -1,0 +1,184 @@
+
+Rick Walker
+847-***-**** / 847-***-****(cell)
+adahsu@r.postjobfree.com
+
+SUMMARY
+
+Versatile, results-driven Mainframe Applications Developer, Hands-On Project Leader, and IT Project Manager with more than 20 years designing, developing, migrating, and supporting software, databases and systems.
+Track record of success with insurance, financial, healthcare, retail, and warehouse systems.
+Extensive experience with Mainframe technologies, CICS, Cobol, Telon, C, JCL, SQL, HP-UX, AIX and Windows platforms, DB2, Oracle, Sybase Databases, enterprise-wide upgrades, and full development lifecycle projects.
+Effectively manage multiple projects concurrently, adapting easily to new technologies, teams and tools, including systems implementations using Endevor and ChangeMan.
+Resilient and resourceful in solving complex problems, striving to ensure that issues are resolved to the customer’s satisfaction.
+Excellent communicator and relationship builder, with a proven track record in managing high-performance teams, completing large-scale projects, and partnering with business leaders to achieve a common strategic vision.
+Skilled in developing test plans, including unit testing, user testing, acceptance testing, quality assurance testing, data editing, data manipulation, data conversions, SQL queries, File-Aid data extracting, creating test data, and creating test files.
+
+TECHNICAL SKILLS
+
+Languages: Cobol, CICS, CA Telon, APS Cobol, Micro Focus Cobol, C, JCL, SQL, Korn Shell Scripting, SAS, Focus, Assembler, DYL280, Natural
+Databases/Files: DB2, IMS, Oracle, Sybase, VSAM, QSAM, ISAM
+Platforms/OS: IBM Mainframe, AIX, HP Unix, OS/Z, MVS/ESA, Windows XP/98/95, IBM OS/2
+Tools: TSO/ISPF, Panvalet, Endevor, ChangeMan, DASD, CA-7, CA-11, CEDF, InterTest, Expediter, OMEGAMON, CLIST, File-Aid, Abend-Aid, Animator, CRON, SQL, FTP, EDI, CECI, SDSF, MQ Series, Project Workbench, VSE/ICCF, CA Service Desk
+Methodologies: SDLC (Business Requirements, Impact Analysis, Conceptual Design, Detailed Design, Unit Testing, System Testing, Acceptance Testing, Implementation), Project Management Planning/Tracking
+
+PROFESSIONAL EXPERIENCE
+
+Career Positions Summary:
+Blue Cross Blue Shield – Health Care / Insurance
+Follett Higher Education Group – Warehouse / Inventory
+Property Casualty Insurers Association – Insurance / Regulatory
+Sears Holdings Corp. – Financial / Accounts Payable, Vendor Processing
+Programmers Investment Corp – Distribution, Financial, Reporting
+Zurich Insurance - Managed Healthcare, Claims Processing
+Transamerica – Financial
+University of Illinois – Healthcare / Patient Accounting
+Dupage County - Criminal Justice Information
+
+Blue Cross Blue Shield, Chicago, IL. Jan. 2013 – Jan. 2015 / July 2015 – Sep. 2019
+Sr. IT Consultant / Systems Analyst / Application Developer
+Analyze Batch Extracts, Cobol programs, JCL streams, and DB2 data.
+Mainframe development and maintenance, specializing in Medical and Dental Provider data, utilizing Cobol, DB2, Procs and JCL
+Extensive DB2 development, including in-depth data and system analysis of Provider information.
+HIPAA, data privacy, and data security compliant.
+Converting JCL and DB2 queries to migrate new clients.
+Change Order Coordinator for PREMIER Provider, interacting with various development teams, Change Management, and the Change Advisory Board.
+Experience with Service Now and At Your Service change management tools.
+Extensive experience with Endevor and creating Endevor packages to promote elements.
+
+Key Accomplishments:
+Successfully learned the complex data structure of Provider data in a very short time.
+Developed several new extracts for Medical Provider and Dental Provider vendors.
+Supported the Medicare and Medicaid extracts, which sent provider data to TMG/Cognizant for claims processing. There were 5 separate extracts.
+Became the go-to person in charge of the Change Order process for all of PREMIER Provider, as well as outside groups that interfaced with PREMIER DB2.
+
+Environment: CICS, Cobol, Magna, JCL, DB2, VSAM
+
+Central School District 301, Burlington, IL. Sep 2012 – Jan 2013
+Work assignments as a Substitute Teacher at various District 301 elementary schools, middle schools, or Burlington Central High School.
+
+Continued Education / Job Search July 2011 – Jan 2013
+July 2011 to present: Intensive job search, focusing on Mainframe development, Project Management, and IT Consulting.
+Resumed education attending Elgin Community College for Web Design and Programming.
+
+Follett Higher Education Group, Westmont, IL. Feb 2010 – July 2011
+Sr. IT Consultant
+Mainframe development, maintenance, data conversion, system migration, and project management.
+Performed business systems analysis, gap analysis between Mainframe VSAM files and NT Server files, data formatting, and conversion rules for migrating data to ASP.Net.
+Converted VSAM files to pipe delimited sequential files to be loaded to NT Servers.
+Designed interfaces between the Mainframe and ASP.Net Sub-Systems.
+Developed warehousing and inventory reports utilizing Cobol and JCL in VSE/ICCF.
+Add, update, delete, build, and re-org VSAM files.
+Performed independent project management, taking general specifications and creating business, impact, detail design, and implementation documents.
+
+Key Accomplishments:
+Created programs to dynamically build JCL executed from the Reader Queue every 7 minutes to perform FTP PUTS and GETS between the Mainframe and NT Servers.
+Wrote an interface to GET NT Server Files, process those files to Mainframe VSAM files, and communicate back and forth to keep the Mainframe Warehouse Systems and ASP.Net Warehouse Systems in sync.
+Worked independently, learning VSE/ICCF, Follett’s VSAM file systems, and Follett’s core warehouse business principles.
+
+Environment: COBOL, JCL, VSAM, VSE/ICCF, NT Servers
+
+Property Casualty Insurers Association of America, Des Plaines, IL. Sep 2009 – Oct 2009
+Sr. IT Consultant
+Developed FTP project for Property Casualty Insurers Association of America.
+Followed SDLC guidelines in writing design documents for application programs and reports.
+Wrote new Cobol programs and developed JCL to copy Data Validation Package rules files and all PDS libraries for FTP to various clients.
+Mastered IBM Mainframe utilities IEBCOPY, IEBPTPCH, IEBUPDTE, XMIT and RECEIVE.
+Extensive testing with 32 production rules files, including combining files into one file, then extracting the combined file out to 32 files.
+
+Key Accomplishments:
+Copied all DVP PDS members and program load modules to a sequential file for FTP.
+Wrote JCL to be executed at the client site to create new PDS’s and load all members into each specific PDS from the FTP’d sequential file.
+
+Environment: CICS, COBOL, JCL, DB2, VSAM, TSO/ISPF
+
+Sears Holdings Corp., Hoffman Estates, IL. Oct 2007 – Feb 2009
+Lead Systems Engineer
+Hands on Project Leader for the Accounts Payable/Vendor Processing System for both Sears and Kmart Mainframes.
+Followed SDLC guidelines beginning with business requirements gathering thru post-implementation support, including design, system functionality, test plans, and user training procedures.
+Developed new applications utilizing CICS, COBOL, APS COBOL, JCL, DB2, Oracle, SQL, Endevor, and ChangeMan.
+Extensive SQL coding for existing database reads and new database development.
+Successfully learned both Sears and Kmart Mainframe environments while mentoring inexperienced programmers.
+Managed communication and project coordination efforts between our group and Onshore / Offshore personnel.
+Converted Source Subsidy vendor payments to an automated invoice processing system.
+Supported interfaces between Sears and Kmart financial systems which involved analyzing and modifying C++ code.
+Created an auto-kicked JCL stream to FTP Sears Mainframe 1099 data to the Kmart Mainframe and convert to the appropriate 1099 processing stream.
+Created test files from production DB2 and Oracle tables, performed unit, system, and acceptance testing with those files and QA tables, following a self designed and business unit approved test matrix.
+Analyzed data using SAS to determine usage and format for data conversions.
+Worked with operations and the Data Quality Center to resolve batch issues.
+
+Key Accomplishments:
+Managed a migration project (team of 6) to convert Sears NDJ vendor check processing to Kmart Accounts Payable, containing over 500 elements and affecting cash handling in all 2200 Sears stores.
+Completed a re-write of NDJ Batch Feed processing.
+Saved the company over $750,000 in IRS fines by working extended hours to complete 1099 processing before January 25th.
+
+Environment: CICS, COBOL, APS Cobol, C++, SAS, JCL, DB2, Oracle, SQL, VSAM, MVS/OS/Z, Expediter, TSO/ISPF, File-Aid, Assembler, Endevor, ChangeMan
+
+Atlas Staffing, Inc., Elgin, IL Dec 2005 – Oct 2007
+Account Manager
+Sales account manager for temporary staffing agency.
+Distribute Atlas Staffing literature to companies in the light industrial sector to determine decision maker for temp staffing needs.
+Generate appointments via phone calls to develop new accounts.
+Developed relationships with 300 decision makers in 18 months.
+
+Key Accomplishments:
+Secured 75 new accounts in 2006, generating over 1.2 million dollars in new revenue.
+Migrated customer information from ACT to Internet based tool Sales Force, which enhanced customer follow-up, financial information and reporting.
+
+Programmers Investment Corp., Arlington Heights, IL Apr 2004 – Dec 2005
+Senior Systems Analyst
+Analyzed, designed and wrote new programs, procs, control cards and reporting systems for large and small scale clients, utilizing COBOL, CICS, JCL, DYL280, Assembler, VSAM and sequential file systems.
+Involved in all aspects of business impact, client communication, report design, data format and storage.
+Increased client revenue by providing 24 hour turn-around on key reporting projects.
+Massive client involved acceptance testing, for both data storage and reporting, using new and existing client database information.
+Converted Mainframe sub-systems to an NT Server platform.
+Developed strong skills in modifying Assembler sub-routines.
+
+Key Accomplishments:
+Multi-tasked several reporting projects, completing all projects ahead of schedule, saving thousands of dollars in fines.
+Promoted to lead analyst in charge of company’s largest client.
+Increased revenue from American Express 300% by continually completing projects ahead of schedule and building personal relationships with client liaisons.
+
+Environment: CICS, COBOL, JCL, VSAM, Micro Focus COBOL, MVS/ESA, MVS/XA, SQL,
+Expediter, TSO/ISPF, DASD, File-Aid, DYL280, Assembler, NT Platform
+
+Zurich Insurance, Schaumburg, IL Apr 2000 – Sep 2003
+Project Leader
+Directed development and maintenance of the Managed Care Bill Claim Processing System, supporting the online interface between the AIX and Mainframe platforms, utilizing CICS, COBOL, C, JCL, DB2, SQL, Micro Focus Cobol, and Korn Shell Scripting.
+Supervised 7 systems analysts in applying SDLC and project-management methodologies. Handled all communications with vendors and internal groups, supported budget process/issues and oversaw documentation.
+Led numerous EDI PPO (preferred-provider organization) projects.
+Created reports utilizing SAS to aid in sensitive data formatting and transfer.
+Developed, modified, maintained DB2 CICS programs to improve user and system performance.
+Strong FTP skills, utilizing data transfer over an AT&T Frame Relay Network, PGP encryption, and MoveIt Central technologies.
+Maintained the communication link using MQ Series between the Mainframe and UNIX Systems.
+Tracked tasks, resources and time/labor charges (Project 98).
+
+Key Accomplishments:
+Successfully migrated Managed Care Bill Review System from Mainframe and HP UNIX to AIX, analyzing and modifying Cobol programs, C programs, UNIX scripts, and Micro Focus COBOL programs.
+Completion of project ahead of schedule saved $76,000 in lease/maintenance costs.
+Migrated COMP, COMP-3, Numeric and Alpha-Numeric data from an ISAM file format to a DB2 Database, using SQL, QMF, File-Aid, IDCAMS, SYNCSORT, COBOL and Micro Focus COBOL Programs.
+Efficiently discovered, analyzed and resolved error in VSAM file of a payment-creation interface module (AIX-to-Mainframe) in just 2 hours, preventing substantial user downtime and saving thousands of dollars in production revenue.
+Increased PPO market presence and revenue by 25% to 45% through seamless completion of large-scale EDI PPO projects.
+
+Environment: HP UNIX 10.20, AIX 4.3.3, Korn Shell Scripting, C++, SAS, Sybase, ISAM, CICS, COBOL, JCL, DB2, VSAM, Micro Focus COBOL, MVS/ESA, MVS/XA, SQL, Project 98, Endeavor, Expediter, TSO/ISPF, SDSF, DASD, File-Aid, Abend-Aid, OMEGAON, Animator, CRON, FTP, EDI, Windows XP/NT/98
+
+Transamerica Comm. Finance, Hoffman Estates, IL Mar 1996 – Apr 2000
+Senior Systems Analyst
+Led multiple large-scale projects, developing and maintaining CICS, COBOL, DB2 and Telon programs, primarily for the MAX Financial Online System. Developed numerous financial reports for all sub-systems, utilizing XEROX print control and formatting.
+Developed new subsystems and integrated them into MAX.
+Supported Cash, Purchasing, Payables, Sales, Marketing, and Portfolio Control subsystems.
+Supported and resolved issues in the nightly batch stream in cooperation with the Data Center.
+
+Key Accomplishment:
+Consistently commended for exceptional technical support and customer service.
+
+Environment: Telon, CICS, COBOL, JCL, SDSF, DB2, SDLC, FTP, CA-11, TSO/ISPF, Panvalet,
+Endeavor, Expediter, DASD, Windows 98/95, MVS/ESA, SQL, Project 98
+
+Prior positions available upon request.
+
+EDUCATION
+
+DeVry Institute of Technology
+B.S., Computer Information Systems
+
+Contact this candidate

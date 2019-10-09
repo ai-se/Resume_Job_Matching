@@ -1,3 +1,4 @@
+Job Title = Verification and Validation (V&V ) Engineer JN
 
 Description:
 Verification and Validation (V&V;) Engineer for Software. The selected candidate will work under direct supervision of the V&V; Lead to produce clear and concise V&V; documents for medical devicesJob duties include, but are not limited to:

@@ -1,0 +1,103 @@
+
+SWATHI INJETI
+
+Email : adajm0@r.postjobfree.com Phone: 519-***-****
+
+Career Objective:
+Seeking a position to utilize my skills and abilities in the industries that offers professional growth while being resourceful, innovative and flexible. Willing to work as a key player in challenging and creative environment.
+
+Experience Summary:
+
+A competent professional with 5 years of experience in Software Testing with expertise in Automation and Manual Testing.
+A Test engineer with proven skills in translating the Use cases into Test scenarios, Test cases and performing functional Testing.
+Well acquainted with Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+Proficient in Test Automation using Selenium, handling Elements in Selenium WebDriver and writing XPath expression.
+Experience in identifying object locators and creating Page Factory for all the pages.
+Well versed with TestNG Annotations, Grouping, and Parallel execution.
+Worked on development and enhancement of Data Driven and Hybrid (Data and Keyword Driven) Test Automation frameworks.
+Expertise in writing scripts using Element locators, WebDriver methods, Java and TestNG Annotations.
+Working knowledge on defect management tools like HP Quality Centre v10.0 and JIRA.
+Experience as a Tester with Agile software development process.
+Knowledge of various phases of STLC such as Requirements and Analysis, Design and Construction, Testing, Defect reporting.
+Experience in the execution of Test Scripts on IE, Firefox & Google Chrome.
+Expertise in writing SQL queries against Database for Data Verification.
+Excellent analytical, decision making and problem-solving skills. Technical abilities are complemented by sound communication and user interaction abilities, feasible enough to take new skills efficiently.
+Reliable, dependable and aware of duties/responsibilities in all circumstances.
+Efficient and versatile team player with a positive approach to all tasks.
+Excellent verbal and written communication skills and the ability to interact professionally with a diverse group, customers, executives, managers and subject matter experts.
+Quick learner, self-motivated, good work ethics and flexible to adapt any new technologies.
+
+Technical Skills:
+
+Operating System : Windows XP/7/8/8.1 and Windows 10.
+Automation Tools : Selenium Web Driver.
+Database Knowledge : Oracle, MySQL, SQL server 2010/2012,2014.
+Testing Framework : Hybrid, Data Driven, Page Object Model and TestNG.
+Test Management Tools : HP Quality Centre and JIRA.
+Office Tools : Microsoft Office.
+Domain Knowledge : CRM, Banking, Insurance.
+Environments : C, C++, Python, JAVA, SQL, IE, Firefox & Google Chrome.
+
+Educational Qualification:
+
+Bachelors in Computer Science & Engineering, 2014 JBIT-JNTUH, Hyderabad, IN
+
+Project 1
+Title: Insurance Billing System Oct 2017- May 2019
+Organization: Majesco Ltd.
+Role: Senior Test Engineer
+
+The STG Billing System provides the user with advanced and automated billing capabilities. Automated invoice generation and cancellation allows smooth cash flow and risk management. Ease of use, itemized invoices and detailed inquiry screens, reduces the turnaround time for customer service inquiries.
+
+Responsibilities:
+Assisted the Team Lead and co-lead the team to ensure timely deliverables with qualitative productivity.
+Involve in identification of scope for particular release as a part of Verification and Validation.
+Creating Automation Suite from the modular packs in a Hybrid Automation Framework using Selenium Web Driver.
+Making Project level Changes to the Base Framework.
+Executing Test Cases and publishing the daily regression test results within the team.
+Involved in Sanity, Web Application, SOAP UI and Regression testing.
+Arranging Test Data for the team.
+Data Verification using SQL Queries.
+Logging the defects in bug tracking tool and Coordinating with the development team for defect analysis.
+Maintaining Daily and Weekly status report.
+Training new team members on framework usage.
+
+Project 2
+Title: Account opening with My Account My number Nov 2016- Oct 2017
+Organization: Tristha Global Pvt Ltd.
+Role: Automation Test Engineer
+
+'My Account, My Number' enhances the 'convenience' and 'flexibility' of the customers by allowing them to choose an account number of their own choice. Customers can choose up to 10-12 digits, based on the numbers they prefer- birthdates, favorite numbers, and phone numbers.
+
+Responsibilities:
+Coordinating with the client regarding project issues, defects and deliverables.
+Extensively used Descriptive programming for writing Application Specific scripts.
+POC on the support and implementation of automation framework using Selenium-Web Driver for web-based application.
+Responsible for creating Test Plans, Test Cases and Test Scripts for web application automation.
+Maintaining Daily and Weekly status report.
+Identification, tracking and resolving defects using JIRA and also for creating test plans.
+Knowledge in Backend Testing using MySQL Server.
+Preparing the Requirement Traceability Matrix to trace what happened to the application at certain stage and ownership of the same.
+Being POC between development team and test team.
+Participated in Reviewing Documents and incorporated the review comments.
+
+Project 3
+Title: Customer Relationship Management May 2014 – Oct 2016
+Organisation: Continuum Information Systems Pvt Ltd.
+Role: Software Trainee
+
+Customer relationship management (CRM) is a term that refers to practices, strategies and technologies that companies use to manage and analyze customer interactions and data throughout the customer lifecycle, with the goal of improving business relationships with customers, assisting in customer retention and driving sales growth.
+
+•Understanding the Requirements, Use case documents and Functional Specifications of the Application.
+•Involved in Manual Testing of the Application when needed.
+•Prepared Automation Frameworks using Selenium-Web Driver with TestNG, Page Object Model and Data Driven frameworks.
+•Compatibility testing in combinations of OS and browsers using web driver.
+•Creating automation test scripts using XPATH expressions.
+•Expertise in working with Frames and Testing in cross browser.
+•Attended daily meetings to keep track of bugs encountered during all phases of testing (STLC).
+•Detecting bugs and classifying them based on the severity and priority.
+•Defect reporting using defect management tool and defect verification.
+
+References: Available upon request.
+
+Contact this candidate

@@ -1,3 +1,4 @@
+Job Title = Data Engineer
 
 TITLE: Database Developer (this is truly more of a Data Engineer, the manager is looking for a database background)
 LOCATION: Durham NC

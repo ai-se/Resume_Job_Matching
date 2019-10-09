@@ -1,0 +1,88 @@
+
+* **** **** *******: **/*/****
+CURRICULAM VITAE
+PERSONAL INFORMATION
+Name: Kinan hameed Jarrouje
+Place of Birth: Damascus-Syria
+Date of Birth: 24-12-1984
+Nationality: Syrian
+Marital Status: Single
+Military Status: Exempted
+Address : Lagos – Nigeria.
+Mobile Phone: +963-********* (Syria)
++ 234 906-***-**** (WhatsApp)
+Skype: kinan.jarrouje
+E-Mail: adaisw@r.postjobfree.com.
+Languages: Arabic (Native)
+English (Spoken & Written)
+EDUCATION
+2006: Information Technologies Engineering / Software Engineering: AL-Ba'ath University, Syria- Homs (very good degree).
+CAREER OBJECTIVE
+Seeking a challenging career in the field of Instrumentation. to build on my extensive range of technical skills within a suitably challenging role.
+I am keen to achieve further professional development. EXPERIENCE
+1/1/2017 – 1/10/2019
+• Operation Supervisor Technical Manager at TecnoAccion (Lagos - Nigeria).
+• Fixing the machines lotto (TPS 300).
+• IT admin.
+• Database Admin.
+1/4/2014 – 1/1/2017
+• Suncor Energy (PetroCanada), Homs, Syria as senior Instrument Engineer at GGS-Gas Gathering station.
+1/12/2014 – 1/2/2015
+• Project Instrument Engineer (maintenance and rebuilt the hole station after it was damaged) with Hesco subcontractor (Networking, Cables, Instrument Devices)
+• Maintenance and solve all damaged things in 2 Siemens Gas turbines Generetor.
+• Maintenance and solve all problems in all oil & gas wells. 1/6/2014 - Till now
+• Active member at Syrian Researchers Institution.
+• Scientific content creator: Choosing the best and the newest articles in the field of Engineering and Robotics, Translating them into an easy and proper Arabic language, Editing and shaping them so they fit with our high quality standards. 2 Last time updated: 19/9/2019
+• Member of Editing Team: Monitor the quality of our publications.
+• My profile: http://www.syr-res.com/user/436.html 23/5/2007 – 25/11/2013
+• Syrian Gas Company, Deir Elzour Gas Plant – (CSDGL) as Gas Turbine Instrument Engineer (Type PGT 10B/2, Manufacturer:NUOVO PIGNONE) with excellent experience in gas turbine operation and maintenance the subsystems which related to these turbines and Instrument Engineer as Plant Instrumentation. 12/12/2006 – 12/6/2007
+• Worked as a system analyzer, designer, and programmer in Gold shop management system which is multi-tier distributed system that includes desktop and mobile applications, selling using barcode, built in accounting system, employee’s management, enhancing remote connections, enhancing multi-user enhancing multi-layer security issues.
+This project have been done using Microsoft Development Suite (Microsoft C#
+.Net 2005 with Microsoft SQL Server 2005) and deployed over Windows XP SP2 with .net framework V.2 and Windows 2005 CE with .net compact framework.V.2, and now this system is working at Massouh Jewelry –Homs- Syria.
+TRAINING ATTENDED
+Courses
+• 1 year of training at Deir Elzour Gas Plant,Syria from June 2007 to May 2008
+- 6 months of English courses (Oxford headway)
+- 3 months of technical training (operation and gas treatment, instrument and electric, mechanical, health, safety and environment)
+- 3 months Specific course in Instrumentation (basic Measurement- (1) month, PLC-(1) month, DCS and SCADA-(1) month): INTEX Institute (Egypt)
+• 3 weeks of training at Vitrolles, Marseille, France at Honeywell company in April 2010: Experion Process knowledge System (Experion PKS) (graphics, building and control strategy implementation).
+• Honeywell Fail Safe Control System (FSC) Implementation and maintenance by Honeywell Engineers at gas plant Syria.
+University
+• The project of the 5
+th
+year was Distributed Rendering System for Stereoscopic Viewing with 3D design explorer based on OpenGL with OGRE graphics engine.
+• The project of the 4
+th
+year was FPS 3D game based on OGRE graphics engine and BASS 3D sound technology and enhances the stereoscopic vision. NATURE OF JOB
+• Working as excutive Engineer (Maintenance) for 6 gas turbines (Nuovo Pignone) and Compressor Controls Corporation (CCC), antisurge control system for all turbines and other subsystems.
+3 Last time updated: 19/9/2019
+a. Bentley-Nevada 3300 and 3500 "Troubleshooting & Configuration: vibration monitoring and measurement system for rotating equipments (Speed pickup, vibration, Seismic probes installation, and loop troubleshooting)
+b. CCC (Compressor Controls Corporation) series3+ system troubleshooting.
+c. MOOG systems Troubleshooting, Calibration, and loop tuning for servo Valves (IGV,NCE,SRV and GCV for gas turbines)
+• Working as Instrument Engineer (Maintenance) for LPG & Condensate processing plant. Automated with Honeywell DCS and Allen Bradley PLC.
+• Having good experience with Control Valves and all instrument devices (HART protocol,Fielsbus) and fire&gas systems at Petrocanada site.
+• Planning & carrying out routine maintenance and trouble shooting of the instruments and systems used in the Gas Plant & Remote Compressor Stations which is equipped with GSI compressors.
+• Having good experience with Control networks troubleshooting (Control networks, Modbus networks and Ethernet networks).
+• Having good experience in instrumentations & control systems for Air Dyne air Compressors, AIRCOMP air compressor packages.
+• Documentation of the procedures and file utilities of for the DCS &SSS system.(Loop Drawing, Cabinet Drawings and P&ID and Cause &Effect).
+• Working for creating the basic/detailed database, spare part management with each equipment and the making the PM schedule for total instrumentation in the BENCHMATE.
+COMPUTER SKILLS
+Programming Languages
+• Visual C#.NET.
+• SQL Server 2000 – 2005.
+• MySQL.
+Software and Technologies
+• Microsoft Visual Studio 2008 (Windows Forms Applications Windows Mobile Applications).
+• Microsoft Office(Word, Excel, Access, Power Point, Visio, and Project ).
+• Virtual Reality software and hardware
+Operating Systems
+• Windows 2000 Server, Windows 2003 Server, Windows 2008 Server.
+• Windows 2000, XP, Vista and Windows 7.
+• Windows 2005 CE.
+SPECIAL QUALIFICATIONS
+• Ready to work under pressure.
+• Ready to learn the requirements of any work domain. INTERESTS
+• Sports: basketball, football, swimming and table tennis.
+• Movies.
+
+Contact this candidate

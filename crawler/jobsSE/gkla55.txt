@@ -1,3 +1,4 @@
+Job Title = Software Engineer (Platform)
 
 About TRUCE
 At TRUCE, we believe there’s a better way for businesses to leverage all a mobile device has to offer in the workplace, while still protecting what’s most important – their employees, assets and IP. TRUCE offers the first Mobile Device Management platform to provide flexible, contextual enforcement of a company’s mobile device usage policy. Our patented solution offers employers the ability to manage employee access to relevant apps at the appropriate time and place using contextual indicators. As a result, the distractions of mobile devices are eliminated, helping businesses to reduce accidents, increase efficiency, improve employee safety and create a better workplace.

@@ -1,3 +1,4 @@
+Job Title = Security Systems Engineer
 
 Guidewire Software’s Global Physical Security team is looking for a Security Systems Engineer who will be responsible for the implementation and maintenance of enterprise-wide security technologies and workflows. This position will report to the Global Facilities Security Manager. Responsibilities:
 Interface with facilities, IT, InfoSec and lines of business to create and manage efficient, effective access control practices.

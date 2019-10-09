@@ -1,3 +1,4 @@
+Job Title = Supervisor-Fabrication Shop
 
 Work Schedule:
 1st Shift

@@ -1,0 +1,50 @@
+Job Title = Engineer
+
+This position is responsible for developing, testing and releasing of Highly Automated Driving products for commercial vehicle applications. This includes collecting customer requirements, driving product changes and releases through production, product validation and customer demonstrations. Essential Functions:
+Assignment will include system design, system requirements definition, cross-product communication interfaces, product testing and release.
+Develop product FMEA and coordinate product validation and tracking through DVP&R
+Coordinate product through product development gates (PDC) and quality gates (APSG)
+Work with manufacturing center to produce parts according to specifications. Audit manufacturing process.
+Develop field tools and processes for installation, calibration and service of these systems.
+Develop technical documentation for products.
+Release parts and technical documentation through Teamcenter PLM
+Interface with customers, software developers, systems engineers and management to communicate status of projects.
+Willing to travel (test track, customer locations) as required up to 25%. Knowledge:
+In-depth knowledge of air brake systems is a plus.
+Broad automotive and electronic systems knowledge, preferably related to heavy truck.
+Knowledge of vehicle communication protocols including J1939, UDS and CCP.
+Technical knowledge of Brake systems, Steering systems and Driver Assistance systems, components and impact on overall vehicle performance.
+Familiar with CANalyzer, CANape, TeamCenter and Plant release processes (IPA, PPAP).
+Knowledge and experience with product quality tools such as system FMEA, DVP&R, ISO 26262 and Functional Safety Concepts.
+Knowledge of supplier and OE manufacturing plant processes Experience (Engineer 2):
+A minimum of 3+ years of experience preferably in driver assistance, vehicle dynamics, or vehicles product/systems engineering.
+Hands on mechanical, electrical, automotive experience.
+Experience in the heavy-duty truck, bus and/or automotive market is a plus.
+Strong product design experience.
+Experience in product marketing is a plus.
+Ability to work in a cross-functional team in a dynamic working environment including international team members
+Commercial Driver License (CDL) or willingness & capability to obtain CDL within a year of employment. Experience (Engineer 3):
+A minimum of 6+ years of experience preferably in driver assistance, vehicle dynamics, or vehicles product/systems engineering.
+Hands on mechanical, electrical, automotive experience.
+Experience in the heavy-duty truck, bus and/or automotive market is a plus.
+Strong product design experience.
+Experience in product marketing is a plus.
+Ability to work in a cross-functional team in a dynamic working environment including international team members.
+Commercial Driver License (CDL) or willingness & capability to obtain CDL within a year of employment.
+Greenbelt certified a plus
+Teamcenter PLM experience preferred Skills:
+Ability to assimilate data quickly
+Strong interpersonal, oral, and written communication skills and a positive/proactive work ethic.
+Capable of prioritizing time/resources/ goals and possess strong interpersonal skills to ensure success in a cross-functional, team environment.
+Formulates new processes and strategic thinking and leads the development of new core processes to enhance business unit performance.
+Ideal candidate is a self-starter with demonstrated project management skills
+Supports new projects and programs in anticipation of business needs. Supports teams in planning and decision making.
+Strong customer orientation to enhance business relationships and growth.
+Capable of performing in a highly stressful environment.
+Influences and motivates others, provides direction, removes barriers, supports high impact teams.
+Leads with sense of urgency Education:
+Bachelor’s Degree or Master’s Degree in Mechanical Engineering, Mechatronics Engineering, Electrical Engineering or Systems Engineering required; The demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+Go to apply 
+

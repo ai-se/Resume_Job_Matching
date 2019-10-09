@@ -1,42 +1,51 @@
+Job Title = Tower Or Chain Or Oracle Or Analyst Or Sql jobs in Raleigh, NC, 27606
 
-Overview
-JDA is looking for a Technical Analyst/Engineer to join our Customer Success group in our Dallas, TX office, to support JDA’s cutting edge SaaS based product Luminate Control Tower. The candidate will have opportunity to work with top talents in the industry, supporting and troubleshooting a multi-tenant software suite running in Microsoft Azure system, with ML & AI technology.
-Responsibilities
-Strong domain knowledge in JDA Supply Chain solutions to understand how the JDA solutions can be configured and delivered to better facilitate customer business processes.
-Takes ownership of JDA’s Luminate Control Tower solution and understand how the JDA solutions solve the customer’s business problem and generate maximum value for customers.
-Supports the development and execution of SaaS based product LCT, and related technologies (Mulesoft, SQL, GIT, Kafka, Kubernetes, Ignite, 4Kites and etc) on Azure platform to ensure JDA software consistently meets the customer's business objectives.
-Use customer service, communication and problem-solving skills to solve inquiries from JDA customers.
-Ability to log and respond to customer support requests via phone, e-mail, and web interface.
-Exhibit a commitment to customer service while building customer partnerships.
-Successfully understand and triage customer issues, conducting any necessary technical research (code review, database queries, traces, debug, etc) or team collaboration.
-Provide updates and case status to customers and management.
-Ensures knowledge transfer is conducted with key customer project team.
-Act as product technical liaison between support and development teams.
-Follow operational guidelines for interacting with other associates.
-Ability to work flexible hours, alternate shifts and the ability to carry a pager or cell phone as required by support team.
-Qualifications
-Bachelor's degree (or equivalent) in Computer Science or Engineering or other relevant discipline
-3+ years of experience in Supply Chain with a high level of demonstrated performance
-In-depth knowledge of Supply Chain software solutions and technical architectures
-Knowledge of business processes in Supply Chain industry
-SaaS/Cloud/Azure experience a plus
-Expert in Java and familiar with client and server architecture
-Familiar with SQL query development, database architecture, and query tuning techniques (SQLServer / Oracle)
-Familiar with scripting language, Python for example
-Experience in Mulesoft integration
-Power BI report experience is a plus
-Ability to develop and maintain strong, productive relationships with customers, partners and consultants
-Highly developed analytical and problem solving skills
-Ability to effectively and proactively work independently
-Experienced in defining problems, collecting data, establishing facts, and drawing valid conclusions
-Teamwork mentality
-Creativity and out of the box thinking approach while simultaneously adhering to scope and schedule
-*LI-LN1
-Our Values
+Oracle  – 
+Raleigh, NC, 27601
+...  and/or knowledge of SQL a definite plus. Experience with business process design and development preferred. Travel: Approximately 5-10% travel required. Job: Marketing Organization: Oracle Title: NOAM Marketing and Sales Planning Analyst Location: ...
+- Jobs2Careers, Oct 05
 
-If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
-Check out JDA's blog - Supply Chain Nation - the platform for supply chain trends and innovations.
+American Tower  – 
+Cary, NC, 27518
+SUMMARY: The Supply Chain Organization strategicallysources quality materials and services at the lowest total cost while ... Oracle iProcurementexperience preferred. ENVIRONMENT: Approximately 100% performed inclimate-controlled internal office ...
+- Lensa, Sep 25
 
+American Tower  – 
+Cary, NC, 27518
+SUMMARY: The Supply Chain Organization strategically sources quality materials and services at the lowest total cost while ... Oracle iProcurement experience preferred. ENVIRONMENT: Approximately 100% performed in climate-controlled internal office ...
+- StartwireL2, Sep 24
 
-Go to apply 
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+... To learn more about CCI, visit us online at Job Description Database Analyst Experience with managing data within Oracle. Experience with planning and coordinating data migrations between systems. Expert at creating SQL DML scripts Understanding of ...
+- Lensa, Oct 07
 
+Oracle  – 
+Morrisville, NC
+... Analyst Documentation Writer/Editor **Organization:** Cloud Foundation Services (CFS) **Location:** Morrisville, NC Office **CFS Description** Cloud Foundation Services (CFS) is a strategic component for providing critical cloud services to multiple Oracle ...
+- DE Jobs, Oct 08
+
+Oracle  – 
+Morrisville, NC, 27560
+... A background in ERP Financials/accounting or Supply Chain is required. As an acknowledged authority within Oracle, a Principal Sales Consultant has a breadth of knowledge and understanding of solutions, industry best practices and broad business ...
+- Jobs2Careers, Oct 05
+
+Oracle  – 
+Raleigh, NC, 27601
+... Oracle has led the analytic applications market for more than a decade delivering best practice solutions for sales, marketing, service, finance, procurement, finance and supply chain. Building on that success, Larry Ellison announcedFusion ...
+- Jobs2Careers, Oct 04
+
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+IT Business Analyst Web Application Developer (Oracle SQL Developer/Data Modeler) (Job ID: 588459) 512 N Salisbury St, Raleigh, NC 27604, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with ...
+- Lensa, Oct 07
+
+Advance Auto Parts  – 
+Raleigh, NC
+Career Description Job Description Supply Chain Planning Analyst JOB SUMMARY The Supply Chain Service Analyst is responsible ... JOB REQUIREMENTS Understanding of SQL and relational databases Knowledge of supply chain planning, inventory operations, ...
+- Neuvoo, Oct 08
+
+OFM  – 
+Holly Springs, NC, 27540
+... a top brand in the HNI Corporation enterprise, is in search of a Supply Chain Analyst to join our team Holly Springs, NC! ... internal supply chain and external departments with their data analysis needs Assists IT with the development of SQL views, ...
+- ZipRecruiter, Oct 09

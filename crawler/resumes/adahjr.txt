@@ -1,0 +1,93 @@
+
+Daniel Andrejco
+Greater Washington, DC Area ***** - adahjr@r.postjobfree.com
+571-***-**** - https://www.linkedin.com/in/daniel-andrejco-b336475/
+
+IT/Technology Professional - System Engineer/Administration - Comprehensive Network Operations
+
+Possessing extensive technical experience acquired through progressive roles within diverse industry sectors including government, technology contracting, nonprofit, information technology and digital marketing.
+Adept in the areas of network administration, software updates/implementation, system assessment and consulting, platform & voice systems, server configuration, data recovery and system life cycle management as an individual contributor or part of a cross-functional team.
+
+Project Management
+Process Improvement
+Resource Attainment
+Situational Analysis
+Key Relationship Development
+System Updates/Configuration
+Vendor/Supplier Management
+Platform/Network Integration
+Risk Assessment/Mitigation
+Network/System Analytics
+Solutions Design/Delivery
+Procedural Development
+
+Professional Experience - Key Contributions & Defined Roles
+
+Limited Timeline Solution: Led IT support elements of large-scale office workstation relocation project for 250 associates, a limited timeline initiative to be accomplished in one night. Managed crew of 10 help desk technicians to move hardware, disassembling and marking workstations, printers, and other peripherals, then reassembling in a new location. The project was successful, with office fully operational by next business day.
+
+Collaborative Leadership/Resource Optimization: During video conference room renovation process, all conferencing hardware had to be relocated to a new location. Project required collaboration with construction team and a representative of the company whose business space was directly below new location, as drilling into the floor for new wiring was required. Alignment with vendor/service provider resulted in relocation and hardware set-up, with streamlined, more efficient video communication with other Agility offices.
+
+Network Infrastructure Expansion: New office renovation expanding the company presence in a multi business office building. Amidst tour of construction/office renovation initiative, recognized that no space for LAN expansion. Identified location for LAN room and equipment, connected to existing enterprise infrastructure, and wired new offices. Empowered construction and vendor teams to create LAN space, install hardware, expand existing network and wire offices with CAT-5e, install network switch, Wi-Fi, and patch connections.
+
+Agility DGS; Alexandria, VA 2007- 2019
+Senior IT Manager/System Specialist
+Primary IT/technology resource in two locations, performing server installations and configurations, identified/removed viruses and malware, recovered data, and generated training documentation.
+Oversight of large mobile communications account with AT&T and Sprint.
+Performed user account maintenance and conducted systemic system testing.
+
+The Salvation Army; Washington, DC 2006 - 2007
+IT Technician
+Configured and maintained Microsoft AD and Lotus Notes servers, leading backup, hardware installations and mapped/executed system upgrades; maintained Lucent Definity phone system.
+Directed training to divisional headquarters officers, staff, and surrounding metro area offices.
+
+YellowBrix Inc; Alexandria, VA 2004 - 2006
+IT/Technology Systems Specialist
+Provided comprehensive system management to include workstation server and laptop configurations, tested and installed patches, identified/removed virus infections and recovered corrupt and/or missing data.
+Maintained Exchange 2003 AD, performed/verified backups and oversaw VPN.
+Managed audio communication system and hardware inventory, setting features, updating system greetings, modifying extensions, adding and removing accounts and managing password features.
+Daniel Andrejco Page 2
+
+Americans for the Arts; Washington, DC 1999 - 2004
+MIS Manager
+Reviewed and accepted proposals, maintained support contracts, approved hardware and software requests.
+Coordinated delivery/configuration/breakdown of resources for off-site meetings and convention.
+Managed technical staff, prioritizing and assigning tasks, and conducted performance reviews.
+Configured and maintained extensions, managed voice mail, updated system greetings, managed accounts, programmed phones and reviewed supplier billing/invoices.
+Designed and executed local network resource expansion to two additional space within offices.
+
+Technology Coordinator
+Managed Exchange 2003 AD, guiding daily technical operations including hardware/software installations, mobile device/laptop configurations, lost data recovery, printer maintenance and wireless access points.
+
+PC Help Services; Falls Church, VA 1998 - 1999
+PC LAN Technician (Iridium LLC)
+Received and configured new hardware/workstation equipment/laptops, resolving hardware/software errors, set up email and printers.
+Provided field support to airport staff, Satellite Network Operations Center and an additional annex location.
+
+Additional Experience
+
+Help Desk Manager - Telco Communications Group; Chantilly, VA
+Managed a staff of 10 technicians, planning and execution structured relocation projects and system upgrades.
+Maintained contracts, reviewed proposals, conducted performance reviews and led associate training.
+
+Systems Analyst, National Defense University; Automation Research Systems; Alexandria, VA
+Supported the National War College, War Gaming Facility, International Fellows, students, faculty, and staff.
+Installed hardware and software, executed university wide upgrades, recovered missing data, provided system repairs, tested and configured wireless print hardware and trained faculty, staff and students.
+
+Contract Technician - Aerotek, Inc; Fairfax, VA
+Provided desktop support services for the OUSD/A&T staff in a Novell Netware environment, including issue resolution, hardware/software/integration and oversaw relocation projects. (The Pentagon, Arlington, VA)
+Programmed Nortel SL-100 DSS numbers and features, coordinated system maintenance, corrected failures in communication links and peripherals. (EDS, Herndon, VA)
+Configured new hardware, diagnosed Novell connectivity errors and trained staff to use various applications on PC and Apple hardware in Washington/Baltimore metropolitan area accounts. (Dataserv, Washington, DC)
+
+Education & Training - Technical Skills (Systems & Hardware) - Professional Affiliations
+
+United States Air Force:
+Digital Communications System Technician Course - Northern Telecom (Nortel) SL-100/200 Course
+Central Office Equipment Course - Electronic Principles Course
+
+Electronics Certificate - Mercer County Vocational Institute, Assumpink Center, NJ
+
+Microsoft Windows - Linux/Unix - Apple OS X - Microsoft Exchange - Lotus Notes - Samba - OpenSSH - NFS - FTP Apache - VPN - Terminal Services - Rdesktop - VNC - Vmware Server - Microsoft Office - Project - Visio LibreOffice - Gnome Evolution - Kontact - Chrome, Firefox - Adobe Acrobat - Veritas NetBackup - Symantec Backup Exec - Trend Micro OfficeScan - Computer Associates eTrust Antivirus - McAfee VirusScan ASaP Symantec Anti-Virus - Partition Magic - Ghost Server - Future Systems Solutions Casper XP - Webmin - Heat - RT (Request Tracker) - GLPI Information Resource Manager - Tandberg 3000 - Arkadin (conferencing services) - NEC Elite 192 - Lucent Definity - Nortel Meridian, SL100/200 - Avia Intuity Audix Voice Mail - RIM Blackberry
+
+Member - Institute of Electrical and Electronics Engineers (IEEE)
+
+Contact this candidate

@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Position: Machine Operator
 Location: Yakima, WA

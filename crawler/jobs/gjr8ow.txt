@@ -1,0 +1,8 @@
+Job Title = Engineer
+
+To develop, deliver, test and debug code/engineering plans as per product management agreed priorities for the work assigned in accordance with time, quality and cost standards. (1.) To develop code & plans to meet product or process requirements with appropriate guidance from team leads as per agreed use cases and timelines (2.) To document assigned work in all stages of the project and assure timely communication to all impacted areas. (3.) To participate in project planning meetings, status reviews (4.) To resolve/debug simple issues identified through code testing; and provide support in customer technical issues to overcome the limitations within the product (5.) To support in developing a consumable product in terms of user experience
+SDL2017
+
+
+Go to apply 
+

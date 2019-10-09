@@ -1,0 +1,62 @@
+
+Manideep Ramineni
+adah0f@r.postjobfree.com
+Hyderabad, India
+P : 956-***-****
+Linkedin@ https://www.linkedin.com/in/manideep-ramineni-3a120894 Github@ https://github.com/manideep143
+Career Objective
+To pursue a challenging and satisfying career in the industry, aiming to be a part of an organization where I can enhance my skills and use them effectively to surpass the origanizational goals.
+Technical Skills
+• Data analysis and machine learning
+• Tools - Tableau, Informatica, Tibco BW & EMS
+• Databases – Oracle SQL, MongoDB, PostgreSQL
+• Languages – C, C++, Java, Python & R for data analysis
+• Have knowledge on HTML, CSS, unix and computer networks. Projects
+• Santander bank transaction prediction July 2019
+Analysed and predicted the target varibales using classification ML techniques.
+Used data pre-processing techniques and exploratory data analysis. Link : https://github.com/manideep143/Santandar-bank-transaction-prediciton.git
+• Bike Rental Prediction July 2019
+Analysed and predicted the target varibales using regression ML techniques.
+Used data pre-processing techniques, exploratory data analysis. Link: https://github.com/manideep143/Bike-count-prediciton.git
+• Cab fare Prediction Aug 2019
+Analysed and predicted the target varibales using regression ML techniques.
+Used data pre-processing techniques, exploratory data analysis and parameter tuning.
+Link: https://github.com/manideep143/Cab-fare-prediction.git
+• Bank Fraud detection Aug 2019
+Analysed and predicted the target varibales using classification ML techniques.
+Used data pre-processing techniques, exploratory data analysis and parameter tuning.
+Link: https://github.com/manideep143/bank-fraud-predicition.git
+• Final year project on data security. Feb 2018
+A new Steganography method for embedding data into the image.
+• Bloodbank & Hospital Management System using JSP & PostgreSQL Oct 2016
+It maintains the details of the hospital management and the availability of blood in the blood bank
+There is a scope of admitting and discharging the patients.
+• Student Social Responsibility (SSR) Project Jun 2016
+Bringing awareness to farmers on saving rain water using Farm Ponds.
+Awareness to students on Yoga.
+• Contributed to Amritavarsham’60
+Pavillion representing Andhra Pradesh Sept 2014 Certifications & Achievements
+• Edwisor certified data scientist Sep 2019
+• Paper Presentation of final year project at ICACCI-2018 Sep 2018
+• Advanced to second round in Cisco-NetRiders Sep 2016
+• Cisco-Certified Network Associate(CCNA) course -Semester I & II 2016
+• Received an award from Indian Association Of Physics Teachers for having been placed in top 10 % Oct 2013
+Work Experience
+Company: Tata Consultancy Services Duration: Jul 2018 – Sep 2019 Designation: Assistant Systems Engineer Place: Hyderabad Responsibilities
+• Worked in the IT sector for Production support
+• Handled various business retail applications and fixed the technical issues.
+• Along with the technical issues, enhanced the application features.
+• During the tenure worked on middleware technologies.
+• Worked on oracle and sybase databases.
+Skilles used: SQL, PL/SQL, Tibco BW & EMS, Informatica, Unix Education
+Bachelor Of Technology, Computer Science
+Amrita Viswa Vidyapeetham, Kerala 2014 – 2018
+GPA 8.36
+Intermediate
+Narayana Junior College, Vijayawada 2012 - 2014
+95.7 %
+10th Standard
+Flora Public School 2011-2012
+GPA 9.3
+
+Contact this candidate

@@ -1,22 +1,51 @@
+Job Title = Android Or Ios Or Visa Or Metal Or Downtown jobs in Raleigh, NC, 27606
 
-The role of the Lead Software Engineer/ Project lead at Full Spectrum Software is a dynamic, collaborative and enterprising role. As the chief technical contributor on projects, you will be involved in all aspects of the software development lifecycle, from developing project architectures, roadmaps and strategies through leading a team in detailed design and the successful implementation of the plan.
-While roughly 75% of your time will be spent on hands-on design and development, the remaining time will be spent collaborating with clients, developing solutions architectures, managing the team of seasoned engineers, and authoring technical documents. The ideal candidate is someone who loves learning new technologies and applying their expertise to unique and interesting technical challenges.
-This is a full-time position at our facility in Southborough, MA. Occasional travel to our clients' sites for collaboration and integration activities may be required.
-Responsibilities:Lead the software development efforts of a team of software engineers.Proactively lead agile team collaboration and communications to ensure everyone understands project goals and the importance of their individual roles.Collaborate with clients to determine project scope and priorities. Work towards translating clients' business needs into software requirements.Perform software architecture and design activities and communicate your designs to clients and internal team members.While partnered with an internal Project Manager, plan project tasks and manage resources to ensure projects are completed on time and within expected scope and budget, with a high level of customer satisfaction and attention to quality.Author and update Functional and Technical design documents.Coach and mentor software developers. Perform code review sessions and suggest improvements when appropriate.Execute with minimal guidance and strong initiative in a fast-paced environment.
-Required Qualifications:A history of successfully managing multi-person product development teams.Because our clients' projects are extremely varied in nature, experience in product development for multiple platforms, including two or more of the following, is required: Windows/.NET, embedded / kiosk environments (bare metal, RTOS, Linux), mobile (iOS, Android), Qt/C++, Web.Demonstrated commitment to high quality.Bachelor's degree in computer science or related engineering discipline.
+Insight Networking  – 
+Raleigh, NC, 27601
+Mobile Developer - iOS, Android Raleigh, NC, US Requisition Number:74301 We areInsight. As aFortune 500-rankedglobal provider ofdigital innovation, cloud/data center transformation, connected workforce, and supply chain optimization solutions and ...
+- Lensa, Oct 07
 
-Essential Skills:10+ years' experience and high proficiency working in two or more of the following development environments:Microsoft WPF / C# / .NETEmbedded environments - bare metal, RTOS, QNX, embedded Linux / C / C++Qt / C++ / QMLMobile (iOS / Swift, Android / Kotlin)Web application and database using modern JavaScript frameworksExpert understanding of object-oriented design principles and modern software development best practices.
-Strong hands-on technical abilities in programming, debugging and troubleshooting.Extremely strong written and verbal communication skills. Communication skills are extremely important as you will be interacting directly with clients.Software project estimation techniques.Experience using TFS, Jira or equivalent.
-Nice to Have:Experience working on regulated medical device software and familiarity with relevant standards and regulations (e.g., ISO 13485, IEC 62304).Experience developing protocols for hardware device control.Experience developing software simulation of hardware devices.Experience as agile SCRUM master.Microsoft Certified Software Engineer
-Experience with any of the following tools and technologies:MATLABMedical Imaging/DICOMImage AnalysisSignal ProcessingSQL/T-SQL
-CompensationCompetitive salary and benefits including 401k, paid vacation time and health insurance.
-1099 candidates are welcome to apply.At this time no Visa Sponsorship is being offered for the role now or in the future.Please no third party applications.We have two roles, one immediate temporary role and one full-time role. Candidates will be considered for both base on availability and location.
-Job Type: Full-time
-Education:Bachelor's (Required)
-Company's website:
+Insight Enterprises, Inc.  – 
+Raleigh, NC, 27611
+Mobile Developer - iOS, Android Raleigh, NC, US Requisition Number: 74301 We are Insight. As a Fortune 500-ranked global provider of digital innovation, cloud/data center transformation, connected workforce, and supply chain optimization solutions ...
+- StartwireL2, Oct 07
 
-Permanent
+Garmin  – 
+Cary, NC
+... Are you an Android and/or iOS developer who loves to create modular components that solve complex problems in a re-usable way? Do you like working on mid- or low-level software that interacts with web services, Bluetooth devices, or performs other ...
+- Garmin, Sep 26
 
+Epic Games  – 
+Cary, NC, 27511
+... Android platform ecosystem Experience developing platform systems Mobile game shipping experience, especially related to compatibility Experience using a next-generation rendering API such as Vulkan or Metal This is going to be Epic! #LI2 Permanent
+- Jobg8, Sep 25
 
-Go to apply 
+CyberCoders  – 
+Raleigh, NC, 27601
+iOS Software Developer (100% WORK FROM HOME) iOS Software Developer (100% WORK FROM HOME) - Skills Required - Mobile Application Development, IOS, Objective-C, SWIFT, XCode, Android, Android Studio, SDK, Google Play, Java If you are a Mobile ...
+- Lensa, Oct 07
 
+Cynet Systems  – 
+Raleigh, NC
+Mandatory Skills: iOS, Objective C, Java Desired Skills: A portfolio of iOS/Android apps in the Play Store/AppStore is a plus Financial services and banking industry experience UX/UI experience Essential Duties and Responsibilities: Design and build ...
+- Neuvoo, Sep 23
+
+AD60  – 
+Chapel Hill, NC, 27516
+... About You You have: * 5 + years of professional iOS development experience * Swift, Objective-C, Kotlin (believe it! — we collaborate directly with our friends on Android) * A deep understanding of iOS design patterns, memory management and multi ...
+- StartwireL2, Oct 09
+
+TransLoc Inc.  – 
+Durham, NC, 27703
+... We?re looking for an iOS software engineer that is passionate about the craft of iOS software design and development. As a ... following: RxSwift, dependency injection, map-based UI, Android, API development, automated UI testing Experience working ...
+- Lensa, Oct 07
+
+AD60  – 
+Chapel Hill, NC, 27516
+... As a member of the mobile engineering team, you will be responsible for designing, building, and owning the Android ... development experience for AndroidTV and FireTV devices * Dabbled iOS development * Previously worked in a a client services ...
+- StartwireL2, Oct 08
+
+Cynet Systems  – 
+Raleigh, NC
+... 5+ years of experience in enterprise application design and programming 3+ years of experience in developing commercial iOS and/or Android applications Proficient with git or other distributed source code control systems Familiar with Agile software ...
+- Neuvoo, Sep 23

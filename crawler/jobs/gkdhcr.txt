@@ -1,0 +1,46 @@
+Job Title = Engineer
+
+There are 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we’re all about at John Deere. And it’s why we’re investing in our people and our technology like never before in our 175-year history. Here the world’s brightest minds are tackling the world’s biggest challenges. If you believe one person can make the world a better place, we’ll put you to work. RIGHT NOW.
+Primary Location: United States (US) - Iowa (US-IA) - Waterloo
+Function: Product Engineering
+Title: Engineer - 60823
+
+Your Responsibilities
+As an Engineer for the Product Engineering Center, located in Waterloo, IA, you will perform drivetrain dynamic system modeling including: torsional vibration, friction element thermal simulation, hydraulic systems modeling, NVH (gear rattle, coupler selection, etc.), and lube flow modeling. In addition, you will:
+Evaluate shift performance through model-based system simulation
+Use and contribute to programming-based (Matlab and Python) work processes
+Provide consultation to Drivetrain engineers in Waterloo for dynamic system modeling
+Visa sponsorship is available for this position.
+What Skills You Need
+2 or more years of experience with drivetrain components and systems
+Experience using 1D dynamic simulation tools (AMESim preferred)
+Knowledge of model-based system development
+Demonstrated excellent interpersonal and communication skills
+Demonstrated ability to collaborate and integrate with other functional teams
+Experience with managing a large project with time schedules and other critical milestones
+
+What Makes You Stand Out
+Other areas of experience or interest that will help us place you on the right team include:
+
+Experience correlating simulation results with physical testing
+Experience with AMESim
+Experience with diesel engine transient modeling
+Background in the agriculture or off-road industry
+Experience with Matlab and Python
+Experience with Simulink
+Advanced degree in Engineering
+Experience with PTC Creo
+
+Education (or equivalent work experience)
+Ideally, you will have a degree or equivalent work experience in the following:
+
+Bachelor's degree in Mechanical or Agricultural Engineering
+
+What You'll Get
+At John Deere, you are empowered to create a career that will take you to where you want to go. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. We offer comprehensive relocation and reward packages to help you get started on your new career path. Click here to find out more about our Total Rewards Package.
+The information contained herein is not intended to be an exhaustive list of all responsibilities and qualifications required of individuals performing the job. The qualifications detailed in this job description are not considered the minimum requirements necessary to perform the job, but rather as guidelines.
+John Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.
+
+
+Go to apply 
+

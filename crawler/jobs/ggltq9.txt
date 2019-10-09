@@ -1,0 +1,48 @@
+Job Title = Engineer
+
+At Northwestern Mutual, we are strong, innovative and growing. We invest in our people. We care and make a positive difference.
+
+What's the role?
+
+Apply engineering best practices in order to analyze, design, develop, deploy and support client facing web applications and services. Develop software and systems on test driven development and continuous integration practices; establish monitoring and automation processes. In a DevOps environment, you move between diverse tasks with cooperation and persistence, helping to bring out the best in those around you.
+
+Bring Your Best! What this role needs:
+
+* Experience with engineering best practices to include analyzing, designing, developing, deploying and supporting software solutions, and/or infrastructure implementations/upgrades.
+
+* Specific technical requirements: JavaScript expertise (Node, React), HTML/CSS mastery, competency with CSS preprocessors (LESS, SASS) and build tools (Webpack, Rollup).
+
+* Strong problem solving skills with a good sense of ownership and the ability to work with a limited set of requirements.
+
+* Team player who brings out the best in fellow engineers and works well with product owners and designers.
+
+* Effective communication skills: explain technical solutions to both engineering and non-technical teammates.
+
+* Ability to explain technical solutions to technical teams and non-technical teams.
+
+* 2+ years of experience
+
+* Desired experience with large enterprise projects, interest in mentoring junior devs, experience with analytics tools (Adobe Analytics, New Relic, Heap), familiarity with Docker & Kubernetes, familiarity with Java
+
+Grow your career with a best-in-class company that puts our client's interests at the center of all we do. Get started now!
+
+We are an equal opportunity/affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender identity or expression, sexual orientation, national origin, disability, age or status as a protected veteran, or any other characteristic protected by law.
+
+Req ID: 26482
+
+Position Type: Regular Full Time
+
+Education Experience: Bachelor's Desired
+
+Employment Experience: 0-2 years
+
+Licenses/Certifications:
+
+FLSA Status: Exempt
+
+Posting Date: 09/23/2019
+SDL2017
+
+
+Go to apply 
+

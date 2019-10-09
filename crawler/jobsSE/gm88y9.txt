@@ -1,3 +1,4 @@
+Job Title = Sr Customer Care Engineer
 
 GENERAL SCOPE & SUMMARY
 Provide remote technical and application problem resolution and escalation assistance related to Aspect products. Diagnose, troubleshoot, repair and debug complex computer systems and software. Respond to situations where end users have failed to isolate or resolve problems in malfunctioning equipment or software.

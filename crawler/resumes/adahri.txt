@@ -1,0 +1,98 @@
+
+P. Avinash
+Phone: +91-814*******
+Email: adahri@r.postjobfree.com
+Objective:
+To be an executive of a progressive organization that gives me scope to learn new things, build skills in accordance with the latest trends and implement my learning in the form of best practice.
+Experience: 1 years
+Organization: Concentrix
+Period: May 2016 to feb 2017
+Job Role: Trainee
+Project: Uber Process
+About
+This project is mainly focused on reviewing the Queries of Riders and Drivers to which policy they falls under. This enables the Service to work smarter and reduces the lose in future. Roles and Responsibilities:
+● Review the Queries which are coming to Bin and label them.
+● Maintaining various trackers which helps in improving the team performance.
+● Handling Hurdles for improving the quality of team.
+● Giving Presentations to Clients, Managers, Delivery Leads about Process.
+● Analyzing Quality of Team and giving respective feedback. Experience: 2 year
+Organization: Seneca Global IT Services
+Designation: Software Engineer
+Job Role: UI/UX Developer
+About
+The role of a User Interface (UI) developer is to provide the user interface solution to the end user, including the final look, feel and behavior of the interface in different contexts. They role of a UI Developer is the transformational combination of the roles of both the Web Designer and the Web Developer. This user interface requires strong design skills with a focus how the program engages the user in a positive experience. The design process includes consumer research into how people use the technology. This role is different than a UI Designer. Roles and Responsibilities:
+● Create Web Application front-end as per design comps and information architecture.
+● Integrate application front-end with application business layer.
+● Follow best standards and practices for accessibility and browser compatibility.
+● Collect feedback from design and technical staff on website development needs.
+● Stick to established coding standards and group procedures individually and in teams.
+● Plan and estimate projects and reports hours to administrate deployment.
+● Ensure design consistency with client’s development standards and guidelines.
+● Optimize applications for maximum speed.
+● Collaborate with back-end developers and web designers to improve usability.
+● Write functional requirement documents and guides.
+● Familiarity with browser testing and debugging.
+● In-depth understanding on entire web development process - design, development and deployment.
+Technical skills:
+Core java, HTML, CSS, Bootstrap, MEAN stack, Angular.js
+OS- Linux, Windows
+IDE-MyEclipse, Visual Studio Code, Netbeans.
+Project:
+Academic Project:
+AN IMPROVED PIXEL SIEVE METHOD FOR VISUAL CRYPTOGRAPHY. In this project an improved version of pixel sieve method is proposed. For this purpose, the utility of current pixel sieve method has been examined. The examinations of current pixel sieve method suggest that an improved pixel sieve method can be projected. Therefore, an attempt is made in this project to present a projected method which could be best applied.
+Responsibilities:
+• Based on cross merge and key shifting schemes, we iterate the sieve and cross merge method several times with different shifted keys on the original image.
+• Pixel Sieve method was proposed recently to encode an image into shares, but the encryption quality is poor. In this project an improved version of pixel sieve method is proposed to achieve more security than existing pixel sieve method. Project 2:
+Project Title : Online Course Management
+Team Size : 5
+Role : Team Representative.
+Operating System : Ubuntu 16.04
+Web Technologies : Angular 6, Node.js, Express.js, HTML, CSS, Bootstrap . IDE : Visual Studio Code
+Database : MongoDB
+Project Description:
+Online Course Management free online management courses have been developed by top universities, business schools and specialist organisations, to help you develop your management skills and understand a range of trends that are affecting business leaders today. As learning becomes more digital, universities are adopting new technologies to reach a wider audience of learners. Our 144 partners carefully design each online course, so that you can study with them no matter where you are. Pick a course
+Browse our course list to find something that you’d like to learn about. We have courses in a diverse range of subjects and are always adding more. Courses vary in length. Most are six to ten weeks long but we also have some shorter two and three week courses.
+Perhaps you might want to invite a friend to take part with you? You can do this via email and social media when you join.
+Choose to upgrade your course, or do it for free
+On almost every course you will have the choice to upgrade or learn for free. You can do this at the start, or at any point during or after the course. Here’s the difference between doing a course for free or upgrading:
+Free:
+• Access to the course for its duration + 14 days, regardless of when you join (this includes access to articles, videos, peer review steps, quizzes)
+• No access to course tests
+• No certificate
+Upgraded:
+• Unlimited access to the course, for as long as it exists on our website (this includes access to articles, videos, peer review steps, quizzes)
+• Access to course tests if there are any
+• A Certificate of Achievement or Statement of Participation when you’re eligible Responsibilities:
+• Understand and Analyze the Client Requirement, Specifications.
+• Creating tickets and assigning to team members. Preparing story boards.
+• Conducting every day scrums, client standup meetings.
+• Involved in UI designing of web forms (HTML, CSS, Bootstrap, Angular 6)
+• Client-side scripting
+• Client-side validation
+• Created a RESTful API
+Educational Background:
+QUALIFICATION
+COLLEGE/UNIVERSITY YEAR
+Aggregate
+B.Tech
+(C.S.E)
+Raghu Engineering College, 2016
+Affiliated To JNTU-Kakinada
+64.7
+Personal Strengths:
+● Working long hours without frustration.
+● Quick learning
+● Adoptability
+● Hard work
+● Flexibility
+Profile:
+Name : Pilli Avinash
+Father Name : PNS Murthy
+Date of Birth : May 11 1994
+Marital status : Single
+Languages known : English, Hindi & Telugu.
+Declaration:
+I hereby certify that all the information provided above is true to the best of my knowledge. Place:
+Date: (Avinash.P)
+
+Contact this candidate

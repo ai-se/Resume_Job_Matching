@@ -1,3 +1,4 @@
+Job Title = Senior Engineer- Full Stack Developer (.Net)
 
 We are looking for a highly motivated and self-driven individual to help build out our platform. We are seeking a .NET developer responsible for building .NET applications using C#, VB Script, Java Script, T-SQL). Your primary responsibility will be to design and develop these layers of our applications, and to coordinate with the rest of the team working on different layers of the infrastructure. A commitment to collaborative problem solving, sophisticated design, and quality product is essential.
 Responsibilities

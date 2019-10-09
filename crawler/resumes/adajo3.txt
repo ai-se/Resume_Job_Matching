@@ -1,0 +1,273 @@
+
+Savita K.Jagatap
+
+Mobile : +1-586-***-****
+Email : adajo3@r.postjobfree.com
+
+Objective:
+
+To work in a challenging and dynamic environment, and to contribute to the success and growth of the organization, which I represent.
+
+Professional Synopsis:
+
+Having 7+ years of experience in Quality Analysis and Testing (IT Industry).
+Worked on multiple domain projects parallels.
+Knowledge of Software Development Life Cycle (SDLC) & testing methodologies.
+Worked on various domains like Banking, Financial, Emergency services, Health care,manufacture,Automobile Standalone applications(using tools), Web Applications.
+Hands of experience in Manual and Automated Testing on web and standalone applications.
+Worked on “Web service testing” using SoapUI tool, created test suits,
+Run web services by using different parameters.
+Exposure to QTP, Win runner, Basic knowledge of Load runner, Visual Source safe & having knowledge Test Director.
+Having 2+ years experience in QTP, and 6 months in Load Runner.
+Hands of experience in “Agile Model” and “Water fall model”.
+Involved in sprint plan, Testing Estimation, Scrum meetings, MTP.
+Experience in QC(Quality center), ALM (Application life Cycle Management(next version of QC)) and Rally(bug tracking tool for Agile model),JIRA.
+Knowledge of Selenium tool using IDE and RC.
+Having good working experience with Quality process (ISO, CMM, and CMMI).
+Done PQD(Product Quality Development) on different projects.
+Expertise in problem solving and tracking bug report using Bug Tracking tools.
+Coordinating with the onsite people and from offshore.
+Liaison with the clients on daily basis.
+Part of Training & development team to train new engineers and new tools as & when required.
+Ability to work in tighter schedules, efficient in meeting deadlines
+
+Professional Summary:
+
+Name of Organization
+Period of Employment
+Designation
+Inosys Technologies,Bangalore(India)
+June 2017 to July 2018
+QA Engineer
+Blue Star Infotech,Bangalore(India)
+July 2008 to July 2014
+Senior Software Engineer
+HP Bangalore (Contract through BSIL)
+April 2012 to May 2014
+QA Lead
+V2 Soft Pvt.Ltd.Bangalore(India)
+April 2006 to June 2008
+Test Engineer
+
+Technical skills:
+
+Languages
+Java, C, C++, VB 6.0 BASIC, Pascal, FORTRAN, COBOL
+RDBMS
+PL/SQL, Oracle 8i, MS Access
+
+Operating Systems
+Windows 8, 7, Windows 9X/NT/2000/XP Vista, UNIX
+Automated Test tools
+QTP, Win Runner, Load runner & Test Director.
+
+Web service tool
+SoapUI
+
+Web testing tool
+Selenium
+Defect Tracking Tools
+JIRA, TestTrackPro (TTP), Rally, ALM, QC (Quality center)
+Configuration Management Tool
+Visual source safe, WINCVS
+
+Project profile:
+
+1.
+Project Name: sowdesi.com
+Client
+Windice OPC Pvt.Ltd
+Organization
+Inosys Technologies
+Duration
+July 2017-July 2018
+Role
+QA Engineer
+Domain
+E-commerce
+Testing method
+Manual Testing
+Bug Tracking Tool
+JIRA Using Agile methodology
+Responsibilities
+Involved in Business Requirement meeting and creating documents.
+Responsible QA to create test cases and execute them.
+Responsible QA to test each module and to create test execution report and bug report.
+Responsible QA for Smoke and Regression testing, Ad-hoc testing.
+Responsible QA for SIT(System Integration Testing ) and QA Signoff.
+Responsible QA to enter Bugs in bug tracking tool and discuss with dev team for different status until status “closed”.
+Involved in UAT meetings.
+
+2.
+Project Name: Voluntary Product Accessibility Template (VPAT)
+Client
+HP
+Organization
+HP
+Domain
+Manufacture,Retail
+Duration
+April 2012- May 2014
+Role
+QA Lead
+Testing method
+QTP, Manual
+Bug Tracking Tool
+ALM,QC Using Agile methodology
+Responsibilities
+Involved in BRD (Business Requirement Document) discussion.
+
+Involved in ADD (Analysis design doc), CSS (Customer specification software) review.
+Involved in Sprint plan, Scrum meetings.
+
+Involved in Test plan.
+
+Involved in weekly meetings with business people in discussion of requirements and in UAT.
+
+Responsible for creating test cases for each sprint and creating regression test cases.
+Responsible for creating Smoke and regression scripts using QTP.
+
+Responsible QA to test each story (Requirement) in each sprint.
+
+Sending reports to onsite for executed test cases, and bug report.
+
+Responsible to run Smoke QTP scripts before each build through ALM.
+
+Responsible for SIT (System integration testing) and QA signoff.
+
+Responsible to validate UAT defects.
+
+Responsible QA to verify and retest defects until defect close.
+
+3.
+Project Name: ESO (Emergency Service Organization)
+Client
+ESO
+Organization
+Blue Star Infotech
+Duration
+August 2008 – December 2011
+Domain
+Health care
+Role
+QA Engineer
+Testing method
+QTP and Manual testing
+Bug Tracking Tool
+Rally, using Agile methodology
+Responsibilities
+Responsible QA for creating test cases for each sprint and creating regression test cases.
+Prepared test cases for “Smoke test”.
+Involved in Sprint plan, Scrum meetings.
+Preparing the QTP scripts by using QTP tool.
+Regression testing using the QTP scripts.
+Running the scripts in different environments (depends on client requirement)
+Run smoke test cases in different environments, and reporting to clients for test case results.
+Running test cases when developer completes the set of requirements.
+Sending Defects report to related developer and make sure to fix the defect completely.
+Authorized QA to accept the story.
+Ad-hoc testing.
+Updating the Rally for each defect and updating the status of defects and stories.
+Maintain Rally status sheet for each sprint.
+
+4.
+Project Name: Route One
+Client
+Route One (USA)
+Organization
+V2Soft Pvt.Ltd. Bangalore
+Duration
+June 2006 – June 2008
+Domain
+Financial, Retail
+Role
+Test Engineer
+Testing method
+Automation testing using QTP,LR and Manual testing
+Bug Tracking Tool
+TTP(Test Track Pro)
+Responsibilities
+Preparing the QTP scripts by using QTP tool.
+
+Running the scripts in different environments(depends on client requirement)
+
+Monitoring the QTP scripts without failure.
+
+Regression testing using the QTP scripts.
+
+Prepared Load Runner Basic scripts, and executing them (for checking performance of the appln as per client requirements) as well reporting to clients.
+
+Executing the test cases to check the functionality of the application against the user requirements.
+Reporting the defects and log issues in TTP(Test track pro) Bug tracking tool.
+
+Direct interaction with client daily for status and about issues discussion and updations.
+
+Collecting the requirement and preparing documentation based on client discussion.
+
+Handling team and train them on testing tool.
+
+5.
+Project Name: Star mobile and Star scan application
+Client
+Chrysler (USA)
+Organization
+V2Soft Pvt.Ltd. Bangalore
+Duration
+July 2006 – June 2008
+Domain
+Auto communication
+Role
+Test Engineer
+Testing method
+Manual testing(Black box testing)
+Bug Tracking Tool
+JIRA
+Responsibilities
+Preparing the functional test cases.
+
+Testing the SM and SS devices on different bucks and on different ECU’S .
+Verify the report, which sent by junior engineers, giving Training to them when different Bucks and Ecu’s will be provided by clients.
+
+Executing the test cases to check the functionality of the application against the user requirements.
+Reporting the defects through Bug Tracking tool (JIRA).
+
+Discussion of the issues with the client directly.
+
+Report the status (bugs sometimes) and issues to client directly on daily bases.
+
+Work updating to client in weekly meetings.
+Training the team about the application.
+
+Educational Qualifications:
+
+M.Sc. (Computer science)
+
+Karnataka University, Dharwad. During 2001-2003.
+
+Bachelor’s Degree B.Sc. (Physics, Mathematics and Computer Applications)
+
+J.S.S College, Dharwad. During 1998-2001.
+
+Achievements:
+
+Received “Best team of the Month” from “Rout One” USA (Client) in Financial Domain for Completed QTP scripts for Project, in short period of time.
+
+Received “Best Trainee” award from Blue Star InfoTech, Bangalore for the testing material training.
+
+Received “Star tester award quarter 2012” from HP. Bangalore
+
+Received “Spot Award” from Blue star InfoTech in February 2013.
+
+Others:
+
+September 2018-Present:
+
+Updating on Agile documents.
+
+Learning Selenium concepts and TFS.
+
+Updating on ISTQB concepts.
+
+Currently enrolled in “Selenium Java framework “ and “Automation testing with HP UFT 14.00”,”Agile and scrum overview-certification info” on Udemy.
+
+Contact this candidate

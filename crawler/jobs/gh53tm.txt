@@ -1,3 +1,4 @@
+Job Title = horizontal boring mill operator cnc
 
 set-up and operate a doosan DB130c horizontal boring mill ( 5.1 dia spindle 40 hp )
 machining large weldments castings and other fancy devises.

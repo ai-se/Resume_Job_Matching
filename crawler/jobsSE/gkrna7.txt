@@ -1,20 +1,51 @@
+Job Title = Qa Or Mri Or Engineer Or Estate jobs in Raleigh, NC, 27606
 
-MRI Software is seeking a Software QA Engineer to join our team in our global headquarters! To support our rapid growth, we are seeking a talented, motivated QA Engineer that bring a passion for releasing quality products for our customers. This role will work closely with MRI Software customers and team members to ensure products and services work in a fully integrated manner as expected by the customer.
-RESPONSIBILITIES:
-Define and execute manual test strategies, using industry Best Practices in the design
-Interpret the results of manual and automated tests at both the Application Program and user interface layers
-Understand industry best practices and recommend where and when to apply them on both an immediate, and long-term basis
-Applies defined software testing practices and procedures to drive quality and testability of products and services.
-Creates clearly documented plans, designs and results
-Founded in 1971, MRI Software is a leading provider of innovative real estate software applications and hosted solutions. MRI’s comprehensive and flexible technology platform coupled with an open and connected ecosystem meets the unique needs of real estate businesses—from property-level management and accounting to investment modeling and analytics for the global commercial and residential markets.
-Direct project involvement and leadership of projects delivering enterprise software solutions
-Bachelor’s Degree in Computer Science, Engineering, Math or Physics majors, graduation from Technical School, or equivalent work experience required.
-2-5 years in Software Quality Assurance Engineering
-Experience in Accounting Software is a plus
-Experience with Artificial Intelligence preferred but not required
-Successful experience in manual test development and strategic implementation
-MRI Software delivers innovative applications and hosted solutions that free real estate companies to elevate their business. Our flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Sydney, South Africa, New Zealand, and Canada with over 1200 team members to support our clients and their unique needs!
+WillowTree Apps  – 
+Durham, NC, 27701
+... They work in close collaboration with teams of software engineers, project managers, and many other experts in order to debug and build cutting-edge mobile products that allow us to push boundaries Software Engineering QA Engineer Do you want to ...
+- StartwireL2, Sep 24
 
+Piper Companies  – 
+Cary, NC, 27513
+... QA Engineer in Cary, NC to work for one of the leading support and consulting companies in the transportation industry, providing real time data, IT insight, business intelligence and supply chain information to transportation professionals to keep ...
+- Dice.com, Oct 08
 
-Go to apply 
+TekShapers  – 
+Cary, NC, 27511
+QA Engineer Cary NC Functional Testing (Claims Testing, EDI testing, Integration Testing, ETL Testing, Gateway Testing/ Billing Testing, Enrollment Testing ) Or .NET, C#, MS SQL, Domain knowledge (Medicare), Stored Procedures Contract 12 Months
+- Dice, Oct 01
 
+SCHWAB & CO  – 
+Raleigh, NC
+Staff QA Engineer Job Locations US-NC-Raleigh Requisition ID 2019-45524 Posted Date 3 hours ago(10/7/2019 2:20 PM) Category Engineering Position Type Full time Your Opportunity The PC Core Technology (PCCT) Team represents a centralized domain ...
+- Neuvoo, Oct 08
+
+Piper Companies  – 
+Cary, NC, 27511
+... QA Engineer in Cary, NC to work for one of the leading support and consulting companies in the transportation industry, providing real time data, IT insight, business intelligence and supply chain information to transportation professionals to keep ...
+- Dice, Oct 09
+
+TekShapers  – 
+Cary, NC, 27511
+QA Engineer Richmond VA Functional Testing (Claims Testing, EDI testing, Integration Testing, ETL Testing, Gateway Testing/ Billing Testing, Enrollment Testing ) Or .NET, C#, MS SQL, Domain knowledge (Medicare), Stored Procedures Permanent
+- Jobg8, Oct 02
+
+Vaco Technology  – 
+Raleigh, NC, 27601
+... The Lead QA Engineer will engage cross-functionally to build consensus within the engineering development and support teams and take responsibility for the complete testing of our product. Responsibilities Contribute towards organizational goal of ...
+- Dice.com, Oct 01
+
+Vaco Technology  – 
+Raleigh, NC, 27601
+... The Lead QA Engineer will engage cross-functionally to build consensus within the engineering development and support teams and take responsibility for the complete testing of our product. Responsibilities Contribute towards organizational goal of ...
+- Dice, Oct 01
+
+Spectraforce Technologies  – 
+Raleigh, NC
+Duration: 3+ months (Project will go into 2020) Summary: Develop and execute software test plans in order to identify software problems and their causes. This position will work closely with Developers to develop and automate scripts and frameworks...
+- Neuvoo, Oct 02
+
+ndustrial.io  – 
+Raleigh, NC
+As a QA Automation Engineer, you will be working on the Software Engineering team to make sure our products are built with testing in mind from start to finish. You will be responsible for designing, developing, and maintaining ndustrial.io's end-to ...
+- ZipRecruiter, Oct 08

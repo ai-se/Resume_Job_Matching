@@ -1,0 +1,87 @@
+
+Subbalaxmi Putcha
+Phone: 437-***-**** adaiuq@r.postjobfree.com Toronto, ON
+
+Subbalaxmi has a great blend of technical and QA skills with 6 years of experience in Media/Web/Mobile/Banking applications. She is a quick learner with strong analytical, communication and leadership skills to enable clients deliver strategic initiatives on time, within budget and scope.
+
+TECHNICAL SKILLS
+
+General Tools : Microsoft Office Word, Excel, PowerPoint
+
+Project Specific Tools: HP ALM-v11, Selenium Web Driver, Bugzilla, JDK 12.0.2, Webservice - SOAP UI, Slack,
+SQL Server 2012, CRM- Salesforce, Google Borg system, Map Maker (USA, UK, Canada)
+
+Operating Systems : Win NT/2000/XP/7,10
+
+EXECUTIVE SUMMARY
+
+A quick learner with breadth of knowledge and hands-on experience in:
+Working as a Free Lancer on diverse projects (50+) inclusive of Mobile Apps, Web Banking and Product Testing has enhanced testing skills by manifolds.
+Experience with Automation of Regression Test cases using SOAP API.
+Experienced in Design and development of Automation Framework using Selenium Web Driver.
+Experienced in publishing Key Performance Metrics for testing.
+Experience with executing manual testing (happy path and negative testing; documentation of test case steps)
+Participated in the Agile project structure (estimation, tasking, attending planning, tasking, and Scrum meetings).
+“Hands on” web-based projects with AGILE, Waterfall and Hybrid approach.
+Reported defects through the HP ALM (HP ALM ticket story, and following the ticket workflow)
+Communicate clearly and concisely between developers and the client (Scrum, HP ALM tickets, written test plan documents)
+Collaborated with development team to create test cases with detailed coverage for all layers of the system (GUI, web service APIs, and database)
+Depth knowledge of Software Development Life Cycle (SDLC), understanding various phases like Requirements, Analysis/Design, Development, Testing and Deployment Reporting bugs and helping programmers to fix the bugs.
+Implementation of Different Testing Techniques like Boundary value analysis, Equivalence partitioning.
+Experience on different types of testing like Black box, Functional, Security, Usability, SIT and Regression
+
+PROFESSIONAL EXPERIENCE
+
+Freelance-Applause App Quality, Inc (UTest) May’16- Jan’18
+Tester ID- 301826
+
+Worked on over 50’s of projects in Mobile/web/Banking sectors with over 200+ bugs filed in various platforms.
+Involved in esteem Amazon Alexa Product testing for the state of Ohio
+Tested various Mobile Apps like “Tastemade” “Science Journals” “Google Music” “Vivid Seats” “Fantasy Football” and various others.
+Filed the highest number high severity bugs on several web-based applications (Medical, Shopping and Banking)
+Marked as a “Favorite Tester” by 2 Project owners
+
+Verizon Data Services India, Hyderabad Team: 50+ March’12 –Aug’14
+Analyst
+Gathered requirements for 100+ business process and developed BRD with all the gathered requirements along with the scope, assumptions, key objectives, business process, quality metrics, costs and project completion criteria.
+Participated in brainstorming for all requirement and design reviews.
+Lead the Test Scenario walkthrough for two modules with client and other stakeholders.
+Created Test Strategy and Test Plans with execution of 80+ test cases.
+Creation of defects and tracking it to closure
+As a POC took knowledge transfer sessions for Asset Manager and Order Management modules.
+Mentored a team of 2 in ramping up in the project and successfully delivered the modules as per business requirement
+Provided support to tech and business development teams in investigating issues after first implementation and
+helped resolve them.
+Was awarded “Star Performer of VDMS” for leading “Asset Manager” module successfully.
+
+Verizon Data Services India, Hyderabad Team: 40+ May’11 –March’12
+Software Engineer
+Developed High Level Test Cases based on the Functional Design Specifications or other supporting documents.
+Performed Gap Analysis of Requirements
+Involved in Test Scenario, Test Case and Traceability Matrix preparation.
+Bug Reporting and tracking it to closure
+Handled Test Results Documentation, Daily and weekly status report preparation
+Regression Testing and Dry Runs
+Attend Cross-Application training to enhance the domain and End-to-End knowledge
+
+Rofous Software Private Ltd, Hyderabad Team :20+ Apr’10 - May’11
+Software Test Engineer
+Project successfully launched for US and for East Canada states across all platforms. (Mobile and GPS)
+Gathered data for creating 100+ Test cases for challenging countries like Canada.
+Was Accountable for keeping Track of the assigned issues, QC rejected and auto rejected issues of the labelers.
+Was a part of very esteem Prime Quality Control Member within 6 months.
+Handled 4 applications one for each country of USA, UK, Canada, Mexico.
+Was a part of Bug-tracking and Bug reporting team for challenging countries like Canada and Mexico.
+Lead the team of 7 labelers over client calls and e-mails.
+Received “Best Labeler” title for two consecutive moths (Jan’11 and Feb’11)
+
+EDUCATION
+
+Bachelor of Technology - Electronics and Communication Engineering 2009
+Mody Institute of Technology and Science, Rajasthan, India
+
+VOLUNTEER
+
+Isha Foundation (Non-Profit Organization), USA
+
+Contact this candidate

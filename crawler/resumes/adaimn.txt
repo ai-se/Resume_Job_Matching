@@ -1,0 +1,94 @@
+
+Patrick Kelliher
+**** ***** **. *** *********, CA 94122
+Cell: 415-***-****
+Email: adaimn@r.postjobfree.com
+Technical Experience:
+** ***** ** ********* ******* and information technology experience with extensive hardware and software installation, integration and maintenance. Excellent communication and people skills established through my years of providing customer service and working in team environments to resolve customer technical related issues. A self-starter that is well organized and capable of multitasking with numerous responsibilities while meeting deadlines. Expertise in:
+● Troubleshooting hardware, software, and operating system issues.
+● Hardware repairs for branded and non-branded PCs, laptops, and peripherals.
+● Data recovery with a number of software programs.
+● Providing user support by means of remote access tools.
+● Ticket creation and resolution via Salesforce and Zendesk and Jira.
+● Translating technical language to easy-to-understand terms. Technological Inventory:
+Operating Systems:Microsoft Windows, Sun/Oracle Solaris, Red Hat and Ubuntu. Software/SaaS:VMWare, MS Office, G Suite, Adobe (Illustrator, Photoshop, Acrobat) Primus knowledge base, TweetDeck, PayPal and VeriSign payment solutions, Digital River, Interwoven, Worldox, OpenText Hummingbird, Autonomy iManage and SharePoint Document Management Systems, WebEx, Microsoft Live Meeting, Go-to-meeting online meeting and remote desktop, Putty, Tableau, Stripe, Mandrill/MailChimp, Slack, Heroku, Git, GitHub, AWS S3, GCS, Google BiqQuery.
+CRM:Salesforce, Zendesk, Jira.
+Programming:HTML, Bootstrap, Materialize, CSS, JavaScript (ES5, ES6), Node.js, Express,js, React.js (JSX), Reactstrap, MySQL, MongoDB, Linux Bash scripting. imgix Jan 2019 to May 2019
+San Francisco, CA
+Support Engineer
+● Responded to incoming Zendesk support tickets related to technical questions, service incidents, and other variable conflict issues associated with the the imgix API.
+● Utilized Google BigQuery to run MySQL database queries to provide reporting data to imgix customers.
+● Provided support to customers, in terms of service and software functionality, incident resolution, and configuration.
+● Served as an advocate for customers on product decisions and ticket resolutions.
+● Escalated product enhancement and API related issues to the engineering team to resolve complex support issues.
+● Contributed to the overall success of customers and imgix's customer support initiatives. Opus 2 June 2016 to March 2018
+San Francisco, CA
+Application Support Specialist
+● Provided phone and email tier 1 and 2 support to both SaaS and enterprise licensed users for the entire Opus 2 product suite (Magnum, Forum, and Annotate).
+● Served as technical resource and escalation point for the tier 1 support team as well as product marketing and sales.
+● Diagnosed back-end, network and server related issues via the Linux command line, editing Apache, Nginx, Tomcat, PHP, and Docker config files and grepping associated log files.
+● Troubleshot and tested client-reported and internally-reported product defects and liaised with QA and software engineering via Jira and Slack for the deployment of fixes.
+● Applied hotfix patches in coordination with software engineering.
+● Wrote and modified existing Linux Bash scripts.
+● Trained internal staff on technical and product issues. Microsoft (MileIQ.com - Contract through Robert Half) Feb 2016 to June 2016 San Francisco, CA
+Customer Experience
+● Triaged customer facing MileIQ mobile app and web related support inquiries via Zendesk.
+● Worked with engineering and QA groups to address and track device and mobile iOS and Android related issues via Jira.
+● Diagnosed, reported and addressed mobile app event related issues via MixPanel.
+● Resolved billing inquiries via the Stripe, Google Play and iTunes payment gateways.
+● Worked closely with marketing and growth teams.
+Zillow.com (HotPads.com) June 2014 to Aug 2015
+San Francisco, CA
+Technical Feed Operations
+● Created, tested, and verified partner submitted XML feeds; reporting directly to Co-founder (now director of operations).
+● Developed and managed relationships with key partners and administrators to ensure adoption and usage of our service.
+● Triaged issues to appropriate teams, working with account managers, support teams, partners and engineers.
+● Continually identified issues within our administrative tools and technical documentation to increase productivity.
+● Worked with engineering to bring about parser parity among widely used XML rental specifications.
+● Coordinated with fraud team to bring partners listing quality into compliance.
+● Grepped log files to identify listing issues.
+● Trained and on boarded new hires on the feed operations team.
+● Converted over 500 partner feeds to the Zillow Rental Network after the Zillow’s acquisition of Trulia, resulting in a seamless transition and contributing to 120% YoY UU growth.
+● Spearheaded the real-time feed campaign for rental listings on the HotPads, Zillow and Trulia networks.
+Tracker Corp. (Contract through Robert Half) Oct 2013 to May 2014 San Francisco, CA
+QA
+● Assisted in the layout, design, look and feel of the Tracker 8 Immigration casework software,using Adobe Acrobat 9 and internal form mapping tools.
+● Created custom fields to collect form data.
+● Tested and tabbed forms to verify functionality. Workshare, Inc. May 2009 to Nov 2011
+San Francisco, CA
+Technical Support Engineer
+● Assisted IT departments of various size law firms with install of Workshare document comparison software suite, WS Professional, WS Personal, and WS Protect.
+● Provided technical support for 10,000 enterprise level clients with up to 2,500 users: Pre-deployment pilot testing, packaging and scripting, network rollout & post-deployment issues.
+● Acted as a liaison between lawyers utilizing the Workshare software suite and the Workshare development engineers.
+● Utilized VMware Virtual Lab testing network, build-up of virtual work spaces to replicate clientenvironment and issues
+● Monitored Workshare twitter traffic using TweetDeck.
+● Provided integration support to Workshare Server clients.
+● Utilized Salesforce to track and note support calls.
+● Supported sectors in the legal and professional services industries, including 62% of the Fortune1000 such as; DLA Piper, Cleary Gottlieb, Baker & McKenzie, Cisco, IBM, Accenture etc…
+PayPal (VeriSign Payment Services) Nov 1999 to Sept 2007 San Jose, CA
+Technical Support Engineer
+● Provided both bank and technical support related answers to Merchant/Developer inquiries aboutVeriSign services, i.e. Payflow Pro and Payflow Link and Merchant account related questions.
+● Assisted developers and merchants in the integration of the Payflow Pro SDK into a vast array of operating systems and programming languages as well as integration and debug assistance with both the minimum and custom integrations of the HTML based Payflow Link payment service,including pointing out and explaining how to collect posted transaction data via ASP and other server side scripting languages.
+● Part of a team that fielded 200 emails a day and 13,000 calls per month.
+● Dealt with tracking and detecting processor specific errors that were causing Merchants the inability to receive funds into their Merchant Bank accounts, such as performing SQL queries,accessing remote server logs via terminal services and corresponding with merchant banks and processing networks to locate and resolve such issues.
+● Assisted with transitioning VeriSign Payment Service support department into using the Primus knowledge base to more accurately resolve customer support issues on a first call basis.
+● Provided the USPS (United States Postal Service) with customer and technical support for theVeriSign Payflow Pro service, this required passing a very involved background check due to strict USPS security policies.
+CATS (Computer Assisted Testing Service) Jan 99 to Nov 99 Burlingame, CA Network
+Helpdesk / Desktop Support
+● Provided technical support for TCS’s (Testing Center Supervisors) who were administering FAA,FCC and IT tests, Calling into their servers to troubleshoot and replace lost or missing files via PCAnywhere 32, 4.5 and 5.0 as well as provide over the phone support for PC hardware and software related issues.
+● Created and maintained dual boot Win98/CATS Dos 6.22 based machines and WinNT4.0workstation/CATS Dos 6.22 based machines.
+● Performed in house repairs of both hardware and networking related issues, i.e. formatting and installing new software, printer connectivity issues, swapping and troubleshooting cards, etc…
+Sable Technologies, Inc. 1994 to 1998
+San Mateo, CA
+Senior Hardware Technician
+● Responsible for troubleshooting and repairing WinNT based data information system terminals,printers, communication devices and other related peripherals.
+● Contacted customers to inform them of billable repairs due to negligence, addressing the invoice and placement of equipment.
+● On-site technical repair of major account issues, i.e. wiring issues, system failures, hardware repair, etc…
+Education:
+● UC Berkeley Extension - Full-Stack engineering bootcamp (March 2019 to August 2019)
+● CCSF - San Francisco, CA
+● College of San Mateo – San Mateo, CA
+● GE Access – Sun Solaris Certificate
+● Microsoft - Certified MS Professional
+
+Contact this candidate

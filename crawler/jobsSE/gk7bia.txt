@@ -1,3 +1,4 @@
+Job Title = DevSecOps Engineer
 
 Job Title - Product Security Engineer (DevSecOps)
 

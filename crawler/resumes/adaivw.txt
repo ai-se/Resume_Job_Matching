@@ -1,0 +1,112 @@
+
+Nag Mummadisetty
+408-***-****
+adaivw@r.postjobfree.com Linkedin
+
+Program Manager
+Experience in Cloud Computing Technology and Agile Frameworks driving multiple Engineering teams delivering reliable IT solutions.
+Career Highlights
+18 years of experience performing various roles as Program Manager, Project Lead, Solution Train Engineer, Release Train Engineer and Technical Lead in mid-size to large scaled organizations.
+Working as a Program Manager for Philips Healthcare Informatics, Cloud-based Health Suite Digital Platform (HSDP) leveraging SAFe principles and coordinating with multiple distributed product teams.
+Recognized for setting the agile environment using the best practices that demands continuous learning, adaptation and optimization of procedures, artifacts and the way of working.
+Actively collaborating with Product Management, Engineering, Operations and cross functional teams to communicate overall program status, milestones and manage dependencies.
+Experience in various Project Management Methodologies and proficient in Agile Frameworks (SAFe, Scrum, Kanban, XP) and ALM tools (TFS, Jira, Confluence, Salesforce, Rally-CA Agile Central) accelerating releases and reducing costs.
+Effectively and consistently work with the Portfolio team to review roadmap and create visual boards and key metrics that help in prioritizing the business requirements and in decision making of the strategic initiatives.
+Demonstrate problem solving skills to diagnose and assess project risks and identify possible solutions to deliver high quality results.
+On-board teams to ALM life cycle using Agile, Scrum, and SAFe practices to ensure programs are developed and deployed with QMS quality and timely delivery to Operations deploying to Production environment.
+Handle conflict management resolving issues and building strong association with Engineering, Product Management, Operations, development and cross-functional teams.
+Ability to communicate at all levels clearly and concisely, both written and verbally has been my strongest quality in delivering excellent results.
+Enthusiastic team member recognized for excellent presentation skills across many organizations.
+Certifications, Training and Awards
+Certifications from Scrum Alliance:
+oCSM (Certified Scrum Master),
+oCSP (Certified Scrum Professional),
+oCSPO (Certified Scrum Product Owner)
+Nominated for Philips Women Leadership Program: 2018 Cohort in Bellevue, WA
+Trained in Scaled Agile Framework (SAFe), Project Management (PMI-PMP)
+Certified Collaboration Architect from Conteneo Collaboration Cloud Idea & Decision
+SCJP - Sun Certified Java Programmer in Java.
+Performance Awards/recognition in Lawson, Philips and Xansa.
+Interests in Product Workshops, Meet-ups, Panel discussions, Focus-groups, Scrum Events.
+
+Technology Stack
+
+Project Management: PMI Framework, MS Projects, Rally Agile Development tools, Jira, Excel, Word, and Power Point.
+ALM Frameworks: Scrum, Kanban, XP, SAFe
+Cloud Computing – AWS, IAAS, PAAS, Cloud foundry, Service brokers, FHIR
+Resources/ Tools: Rally, Jira, Bug Tracker, Salesforce, SVN, Jira schemes, Atlassian-Jira, Confluence, Service Now, Slack, Microsoft – TFS, GIT, Teams
+Experience
+Program Manager/RTE/SAFe STE Jun’2016 to till date
+Philips Healthcare (www.philips.com), Foster City, USA
+Philips
+
+Health Suite Digital Platform (HSDP): Philips Health Suite digital platform provides key components to enable the development of Cloud-based consumer and healthcare solutions. HSDP gives Philips and its partners the Cloud expertise and capabilities to connect devices, collect electronic health data, aggregate and store data securely, analyze data, and create solutions on the Cloud.
+
+Technology Stack: Cloud computing – AWS, IAAS, PAAS, Cloud foundry, Service brokers, FHIR, Microsoft – TFS, GIT, Teams, Atlassian-Jira, Confluence, Service Now, Slack, ALM- SAFe Framework
+
+Responsibilities:
+Actively collaborating with globally distributed product teams, PdM (Product owner, Product manager) and Solution Architects to align the execution for program increments.
+Partner with multiple stakeholders in HSDP to ensure business requirements/features are aligned with the regulatory and QMS standards within the program backlogs.
+Was recognized for setting the agile environment that facilitates the Scum/Dev teams for active release/sprint planning, feedback loops, retros that assess and improve on engineering tools and processes.
+Work with Platform Service teams to align on business priorities and the readiness of parallel releases leveraging Scaled Agile Framework solutions and principles.
+Work with Support, Operations and Senior management team for prioritization of business requirements to ensure accurate traceability from product backlog/non-functional requirements to incoming Client features.
+Communicate to Portfolio team on quarterly release milestones on Philips Pedestal (ALM tool) by compiling the data from multiple backlogs (Ops, NFRs, Platform service capabilities, Snow Portal-Incident management system, Jira, Confluence)
+Create better tracking models (Kanban boards, charts, roasters) for the impediments and assess key metrics for continuous inspection and improvement while keeping track of the release goals.
+KPIs in TFS/Jira/Confluence dashboards: Program risks/dependencies, Portfolio approvals, Support tickets, API, Incident tickets, Documents, Sprint plan/cycles, Test coverage, Content checks/rules, Release plans, Ops /PSRA (Privacy and Security Assessment), Release milestones and timelines.
+Facilitate and drive weekly synchronization meetings/SoS/Stand-ups/Reviews with Scrum Masters, RTE’s, Testing Team, Program managers to evaluate scope and prioritize cross functional team dependencies so as to meet external commitment to clients and quarterly release goals.
+Believer in gamification benefits that uncovers hidden data, was recognized to create fun techniques for release retros, planning/estimation techniques, backlog refinement sessions and many more group events.
+Coordinate with different microservices teams for building integrated and unified backlogs, organizing multi-team planning sessions providing holistic view of delivery.
+Work closely with engineering management to track development progress while identifying and removing inefficiencies continuously.
+Collaborate with IT/Operations for release train deployments, Dry-runs, Performance testing acceptance, Regulatory documentation (Customer release notes, Design docs, Test reports, Safety & Security) for both defect/enhancements and regulatory (QMS/ISO) releases.
+Provide visibility and transparency into the process by giving insights into many aspects of work deliverables both internal and external dependencies to meet the release timelines.
+Overall engineering improvements as part of strategic initiatives and feedback cycles.
+Primary focus on empowering teams to self-organize and adapt to emerging business needs and make adjustments to the overall success.
+
+Scrum Master/Sr.Engineer/Reports Tech Lead Dec’2012 to Jun’2016
+Quantros, Inc. (www.quantros.com), Milpitas, USA
+Quantros Inc
+
+Quality Management Solutions (QMS): Delivered in a secure Software-as-a-Service (SaaS) environment, QMS Suite is designed to optimize quality data collection, processing, analysis, and submission for both chart-abstracted and electronic clinical quality measures, helping the health care facilities focus on what’s most important, improving patient care and maximizing reimbursement.
+Responsibilities:
+Building a stronger agile team is essential to deliver working software and as a scrum practitioner successfully mentored and facilitated the delivery teams.
+Supported the Product Owner for constantly re-prioritizing the backlog based on business values and market conditions and helped creating well-formed and accurate user stories.
+Was recognized for setting the stage and creating an environment that facilitates the Scrum team for early Sprint reviews and fast feedback.
+Many In-patient releases and Out-Patient addendums are delivered (quarterly/half yearly) that recorded all time high performance with minimal post release defects/zero audits.
+Relative Mass evaluation and Planning Poker are few techniques adopted for refining and grooming the backlog and sprint planning.
+Daily Stand ups and co-ordination with different functional teams to highlight key issues, mitigate risks, clear blocking issues and go beyond to get decisions under aggressive regulatory deadlines is one of my key responsibilities for the team.
+Work closely with IT Operations team for release train, deployments, SVN branching, Code merging, User guides documentation for both defect and regulatory application releases.
+Being a systems thinker timely updates are tracked and posted into Rally and Scrum board maintaining several metrics in Rally for management teams.
+Information Radiators (KPIs) like Burn down charts, Rally(now CA Agile Central) custom reports, Release progress, Velocity charts, Risk Burn down charts and defect matrix are provided with visibility to the team for the continuous inspection and improvement while keeping track of the sprint goal and eliminating risks.
+Worked very closely with cross functional teams in order to maximize the positive and minimize the negative social and environmental effects of the project on the team.
+
+Sr. Engineer/Team Leader Oct’2009 to Nov’2012
+
+As a senior team lead received appreciation and recognition for re-engineering of reporting module. Provide end-to-end solutions on the RRM platform (SaaS applications) based on industry best practices and market conditions and close collaboration with test teams, ops for deployments to stag/prod environments.
+Work with higher management on research, design, develop, demonstrate and test high quality functional and marketing prototypes.
+Customized Jira to align with business processes and actively worked to prioritize, assign, track, report and audit software bugs, project tasks and change requests.
+Hired, trained and managed both onsite and offshore teams to enable round the clock development and mitigate the geographical risks and conflicts.
+Was appreciated to capture and centralize information on wiki confluence, create knowledge base articles and power point presentations to Sales and client services teams on RRM reports.
+
+Sr. Technical Lead Apr’2007 to Sep’2009
+Johnson and Johnson, Titusville, New Jersey
+Responsibilities:
+As a technical lead played a key role in design, implementation and development of the Healthy Planet Framework that is comprised of multiple leading Open Source objects integrated into Service Oriented Architecture. ‘
+Successfully delivered several high-profile individual projects, with budgets ranging $10M.
+As a Jira Administrator for the Global web solutions team maintained different projects over Jira and created Project roles, managed user groups, defined components, configured fields and screens.
+
+Tech Lead and Senior Engineer Mar’2004 to Nov’2006
+Lawson Software, St. Paul, MN, USA
+Achievements at Lawson:
+Excellent performance award in the Lawson SEA (Self Evident Applications)
+Outstanding Performance Award for the Lawson Maintenance Project 2005-06
+Outstanding Performance Award for the Lawson Self Services Applications Quarter1/’06-07
+
+Sr. Software Developer 2001 to 2004
+Convoy Soft Solutions, Bangalore, India.
+Software Developer/ Programmer Analyst 1999 to 2001
+Convergys Info soft Pvt Ltd, Bangalore, India
+Education
+M.C.A, Masters in Computer Applications, Andhra University, India
+Hobbies and Interests: Gardening, Swimming, Travel and Reading
+
+Contact this candidate

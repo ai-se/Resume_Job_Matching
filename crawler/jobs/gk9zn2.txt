@@ -1,0 +1,14 @@
+Job Title = Technician
+
+SAIC is seeking qualified IT support technicians to join our team. In preparation for the eventual award of multiple contract opportunities by the Federal Aviation Administration (FAA), SAIC is accepting resumes to fill technician positions (multiple levels of experience) in both our Washington DC, and the William J Hughes Technical Center (Atlantic City, NJ) locations.
+The SAIC Team has a long, successful record of support to the FAA, applying expertise and innovation to solve complex and dynamic problems while maintaining the US worldwide lead in aviation safety. The SAIC Team is seeking a diverse range of skillsets; management, business management, financial and budget analysis support, technical expertise in the areas of engineering navigation systems, NAS operations, Air Traffic, Management Information systems (MIS), IT, and other technical areas related to Navigation support.
+The successful candidates will resolve technical problems and answers queries by telephone or self-service ticket in support of internal and/or outside customer computer hardware, software, network, system/application access, and telecommunications systems. Address and correct any hardware, LAN/WAN and applications or COTS software, or connection issues to minimize work interruption. Ensure backup, recovery, and data restoration from workstations during upgrades or when a problem with the system is diagnosed. Support users in the use of computer equipment by providing necessary training and assistance. Assist with setting up new equipment and upgrading existing systems. Configure the systems and updating them with latest software upgrades and security measures. Regularly monitor software, hardware, security and connectivity issues. Perform regular performance and efficiency checks of computers
+AA and Eight (8) years or more experience; Bachelors and five (5) years or more experience.
+Knowledge of software requirements, development (design, code, and unit test) analysis, and operational testing for highly complex, real-time, safety critical software systems for aviation and navigation systems.
+Knowledge of C, C++, object-oriented development in UNIX-based workstation or PC environment.
+Knowledge of DESIREE and/or APPIAN framework
+FAA experience is a plus
+
+
+Go to apply 
+

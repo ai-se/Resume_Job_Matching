@@ -1,0 +1,36 @@
+Job Title = Engineer
+
+Education and Required Skills:
+
+MS (or BS with 2 years’ experience) in Mechanical, Electrical (or similar) engineering
+
+Excellent understanding of basic MEMS device design theory of any of the following sensors: PMUT, CMUT, microphones, gyroscope, accelerometer, resonator or any other comparable physical sensor.
+
+In-depth understanding of various MEMS fabrication techniques
+
+Experience in MEMS layout using tools such as L-Edit, Cadence, or similar.
+
+Familiarity with layout verification methodologies such as DRC, LVL, LVS etc.
+
+Demonstrated proficiency in MEMS device characterization
+
+Proficient in data analysis and statistical analysis using MATLAB, Python or similar.
+
+Working knowledge of test equipment such as signal generator, oscilloscope, spectrum analyzer
+
+Organized; excellent written, verbal communication skills and ability to convey information clearly and precisely.
+Preferred Skills:
+
+Experience in FEA simulation and modelling (using ANSYS, COMSOL etc)
+
+Hands-on experience with piezo acoustic MEMS transducer fabrication and characterization
+
+Practical experience in C, C++
+
+Working knowledge of analog and digital circuits
+
+Experience in signal processing
+
+
+Go to apply 
+

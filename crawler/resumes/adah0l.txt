@@ -1,0 +1,91 @@
+
+TRAINING
+
+MADRID SOFTWARE TRAINING SOLUTIONS, New Delhi
+Successfully completed a 4 months of software learning of Artificial Intelligence with Python. Learnt Machine Learning, Deep Learning and software tools including,tensorflow, opencv and nlp,numpy,
+pandas.
+
+NIIT PVT.LTD, New Delhi
+Successfully completed training for Android application Development. The training consists of Building applications .
+
+EDUCATION QUALIFICATION
+S no
+Class/ Degree
+Name of Institution
+Percentage
+Year
+1.
+B. tech
+Maharshi Dayanand University
+75%
+2015-19
+2.
+12
+St.Paul’s School
+78%
+2015
+3.
+10
+St.Paul’s School
+80%
+2013
+
+ACHIEVEMENTS
+Worked for College newsletter as the writer and managing the team.
+Secured 1st position in android application development Hackathon competition in college.
+Achieved 1st and 2st position in Debate competitions in college .
+
+PROJECTS COMPLETED
+AI – Sentiment Analysis on IMDB dataset.
+CIFAR10_image_classification using convolution network algorithms.
+Worked on Amazon Fine Food Reviews for data cleaning, converting scores to positive and negative remarks.
+Worked on cancer dataset applying various classification and regression algorithms.
+Worked on MNIST dataset.
+Object Detection using open-cv.
+
+DECLERATION
+I hereby declare that all the above stated information is true to the best of my knowledge.
+Date: 30/9/2019
+Place: New Delhi
+Bharti Arora
+
+Dear Sir/Ma’am,
+
+I would like to apply for the position of Ml engineer in your organization as advertised on Social Media/ Job Portal.
+
+I had spent the past 5 months doing number crunching and artificial intelligence, I am keen in developing my skills & career in the field of data analysis. I have always been a numbers person, with exceptional mathematics computer skills and data structures.
+
+As much I’m into Machine Learning and data analysis, the analysis of data that really helps me to explore the relationships between numbers, and translate digits into stories. In the age of Data, these stories become actionable solutions and strategies for businesses, and I take pride in my ability to make data accessible to both executive decision-makers and frontline sales staff.
+
+On a personal level, I am detail-oriented, organized, and precise in my work, my room may not be clean but I keep my spreadsheets and graphs crystal clear. I have strong communication skills with a knack for clear and illuminating presentation. I’m ready to learn more and sharpen up my skills also I really enjoy being part of a motivated team of smart people.
+
+Please find my contact information at the top of this letter, as well as on my enclosed resume. I appreciate your time spent reading this letter, and look forward to connecting in the future.
+
+Yours Sincerely,
+
+Bharti Arora
+ML ENGINEER
+Malviya Nagar, New Delhi, 110017
+ML Engineer
+SKILLS
+Bharti Arora
+858-***-****
+Malviya Nagar, New Delhi, 110017
+adah0l@r.postjobfree.com
+R E S U M E O B JE CT I V E
+Data Scientist with near 5 months of experience executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data classification and regression models, using predictive data modeling, and analyzing using algorithms to deliver insights and implement action-oriented solutions to complex business problems.
+Python/Java/c++/c
+Resourceful
+Pandas/Numpy/Machine Learning
+Data Structures
+Deep Learning
+Adaptive
+Handling Pressure
+Problem Solving
+EXPERIENCE
+Android application development, Gurgaon-Feb-May, 2019 (Internship)
+Modifying android application to correct coding errors, upgrade interfaces and improve overall performance.
+Worked closely with software development and testing team members to design and develop robust applications solutions to meet client requirements for functionality, scalability and performance.
+Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.
+
+Contact this candidate

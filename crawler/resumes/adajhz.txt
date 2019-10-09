@@ -1,0 +1,145 @@
+
+SHANMUGAM. J
+
+Linux Administrator
+Mobile No: +91-908*******
+Mail Id : adajhz@r.postjobfree.com
+Career Objective:-
+
+Be the key person in creative environment to utilize and refine my personal skills and abilities in the Modern Technology that offers Professional growth while being resourceful, innovative and challengeable
+
+Career Summary:-
+
+A Professional outstanding, self-motivated career with experience in IT industry with major focus on Linux administration, BAU Activity,Patching activity, Backup and restore, cluster administration, AWS Docker Ingenious problem finder, with capacities to lucratively point out errors in early stages to avoid time/cost expenditures. Excellent leader with success in coordinating efforts within the internal external terms to reach and surpass expectations.
+
+Innovative and exceptionally creative to foster ideas that impel the organization towards a result-oriented direction. Impeccable management and leadership skills with abilities to work independently as well as a team. Driven by new challenges and adept at adapting to any cultural and business environments.
+
+Skill Set:-
+
+Operating System
+Linux, Centos, Ubunto,Amazon linux
+Cloud
+AWS
+Patching
+YUM
+Cloud
+AWS
+Configuration management Tool
+Ansible
+Ticketing Tool
+Servicenow
+Containerization
+Docker, Docker swarm
+Web Servers
+Apache
+Hardware
+HP PROLIANT BL460C GEN10 SERVER
+Infrastructure as Code
+CloudFormation.
+
+Employer & Project Details
+
+Organization : Softtek India Pvt Ltd, Bangalore,India
+Designation : Technical Specialist
+Duration : Dec2017 –May2019
+Project : SouthWest Airlines, USA
+Responsibilities
+
+Configured and maintained multiple Linux systems
+Design and implementation of a monthly security patching cycle for 300+ Linux systems
+Introduced emergency patch process in accordance with Change Management Office
+Configure multipathing, Network Bonding and IP plumbing
+Hands on experience with Redhat cluster issues
+creating template as per various business requirements
+Proficient in Kernel and OS Patching Linux environment
+Operating System Patching & upgrade for Multiple Linux Servers using Ansible playbooks
+monitor Disk space and space as needed in LVM setup administration
+Identified and rectified performance problems
+installed and upgraded packages and patches on RHEL6/7 servers using RPM,YUM and third party software applicationSetup NFS server and FS mount different servers
+Hands on experience with Redhat cluster issues
+Extensively worked with business,Application,Database,Network and SAN team for project requirement
+Understanding SAN/NAS concept
+RCA provide for related issues
+Regularly applying patches for Redhatlinux servers by using yum and besclient tools
+Performing Snapshots, Cloning, Migrations,VMware storage migration
+Managed system storage requirements, access controls and permissions.
+Adhere to SLA response and resolution times and ensure cases are regularly updated
+Monitor Production Server Health of different parameters (CPU Load, Physical Memory, Swap Memory, Hard disk, Mysql service, Http service and response time) via monitoring tools.
+Scheduling jobs using crontab, Create SWAP Memory.
+Expert in configuring and maintaining Amazon Web Services which include services like Amazon EC2, ELB, EBS, Auto-Scaling, S3, IAM, Cloud Watch.
+Configure Ansible control server with nodes
+Developing Ansible Playbooks and Roles to install AWS instance with the required packages.
+Worked on Docker and created virtual instances with Docker.
+Created Docker images using Docker files to support containerization of applications.
+Configuring the Docker containers and creating Docker Compose for different environments.
+Having Experience in Containerization technologies like Docker and Docker-Compose, Containerized application using Docker by creating custom Docker images and maintaining them in private repository
+Working docker files to create docker images. Deployed docker containers for microservices running tomcat applications.Managed these docker containers
+
+Previous Employer & Project Details
+
+Organization : IBM (I)Ltd,Chennai
+Designation : Technical Service Specialist
+Duration : Jan2016-Nov2017
+
+Project
+POSTI,Finland
+
+Responsibilities
+Installation, Configuration, Administration and Trouble shooting of linux servers,Esxi server,Vsphere client
+Creating and Managing Virtual Machines and Templates and P2V migration
+Performance and monitoring servers
+Linux file system management
+LUN mapping, space management
+Configure password less communication
+VSphire client activity
+ACL Permissions
+User/Group management
+Installing RPM’s and also having experience of YUM.
+Configured the NFS server and NFS clients
+Handling Redhat cluster issues
+Monitoring and Backup configuration
+Snapshot administration, Snap restore, Snap mirror, etc
+Kernel tuning and performance monitoring
+OS kernel update
+Root Cause & System Log Analysis and reporting
+
+Company: WIPRO Technologies. Chennnai
+Designation: Sr. Administrator
+Duration : Mar14 – Jan2016
+
+Responsibilities
+Strong knowledge in Linux (CentOS,Ubuntu,Redhat,).
+Configured and Administration DHCP Server, SAMBA SMB server, and BIND 9 DNS server on RHEL.
+Creating and maintaining user and group accounts
+Using Crontab for automating various Administrative tasks
+Software installation, configuration and maintenance in Linux using RPMs and tar packages
+Configured a Mail server using Postfix running on Centos and implemented RAID and LVM
+Setup NFS for centralized administration of user accounts and configuration of files *Configured and manage the Squid Proxy Server, Web server (Apache)
+Backup and Restoration of data from the tape using scp, tar
+Remote administration using SSH
+Knowledge about Boot process and run levels
+
+Experience details
+
+Business Associate in CROWN Solutions India (P) Ltd, Chennai, Client: TCS from June2013 – Mar2014
+Linux Administrator in FUTURE FOCUS INFOTECH (P) LTD. Chennai, Client: TCS from Feb2012 – May2013
+
+Technical support Executive in ITech Services, Chennai June2011 – Feb2012
+
+Desktop support
+
+Customer Support Engineer in TERA Software (p)Ltd From Dec 2005 –May 2007
+System Administrator in PYRAMID Groups from Jun2007-Jun2009
+Tech support Engineer in Origin IT &Facility solutions (p) Ltd from July 2009–Oct2010.
+Systems Engineer in CSSCorp (P) Ltd., Chennai from Nov2010 – May2011
+
+Education Details:-
+
+B.Tech (Information Technology) from Jayam College of Engineering and Technology, Dharmapuri, Tamilnadu April 2002-2005(First class)
+Certification
+
+Redhat Certified system administration (EX200)- Certificate Number:140-017-575
+
+J. SHANMUGAM
+
+Contact this candidate

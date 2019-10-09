@@ -1,0 +1,120 @@
+Job Title = Engineer
+
+Overview
+
+Do you enjoy working with hardware and technology to build a system that meets a customer needs?
+
+Are you passionate about technology, enjoy being hands-on, and leading others?
+
+The Engineer is responsible for providing post-sales engineering and consulting design and implementation services related to hardware and software technologies; and providing presales support by assisting the development, review and validation of customer solutions.
+
+Responsibilities
+
+* Partners with business leaders to deliver services that support company objectives and that are consistent with Winning Together values.
+
+* Assist in identifying design options for systems infrastructure.
+
+* Supports Presales activities including:
+
+* Analyzing technical needs, requirements, and state of a customer current infrastructure and operations;
+
+* Identifying opportunities and developing technical solutions to meet customers' needs and requirements;
+
+* Reviewing and validating solutions to ensure compatibility and consistency with Computacenter Fusionstorm Inc standard methodologies.
+
+* Interacts with Solutions Architects, other Engineers and vendors to adjust designs to meet the customer's needs.
+
+* Develop levels of effort for systems development and testing.
+
+* Perform the build, configuration, testing and maintenance of servers, storage, virtualization and networking related hardware and software.
+
+* Prioritize and perform research on technical problems with minimal guidance
+
+* Identify research, analyze and resolve system malfunctions and operational problems.
+
+* Develop design/testing/implementation and change control documentation
+
+* Meet schedules and goals for work..
+
+* Track project tasks against project plan and meet project achievements.
+
+* Provide status to management on work as required.
+
+* Communicate technical information to non-technical personnel, vertically and horizontally within an organization.
+
+* Assist with the definition, development, installation and administration of solution demonstrations in the Computacenter Fusionstorm Inc labs.
+
+* Possess excellent verbal and written communication skills, customer service and analytical skills.
+
+* Work well with people from many different disciplines.
+
+* Work with other IT support personnel and service providers to resolve technical problems.
+
+* Rapidly learn new technologies and paradigms
+
+* Shift flexibility
+
+* Participate in vendor training to maintain and grow skills and knowledge of existing and new products.
+
+* Supports Sales efforts to meet Regional financial goals.
+
+* Understand and abide by all security and operational polices.
+
+* Embrace and support Computacenter's mission and core values.
+
+Qualifications
+
+* Knowledge of a wide range of hardware and software technologies.
+
+* Knowledge of Linux and Python basics a must.
+
+* General server knowledge
+
+* Understanding of server, storage, virtualization and networking technologies, procedures, operations and standard methodologies.
+
+* Bachelor's degree in Computer Science, Information Technology or related field.
+
+* Minimum of 2 years as a systems engineer or similar.
+
+* CCNA, A+ certifications a plus
+
+* Legally eligible to work in the United States
+
+* Strong technical writing skills to develop system documentation
+
+* Ability to build technical solution drawings
+
+* Strong verbal and written communication skills.
+
+* Motivated to develop and maintain skill set and product knowledge to improve value and to deliver quality services to our customers.
+
+* Act as team lead
+
+* Professional self-starter, able to work collaboratively
+
+* Projects a professional image and strong business insight during customer interactions.
+
+* Possess a sense of urgency, strong organizational and follow up skills.
+
+* Ability to multi-task and work efficiently
+
+* Ability to work independently
+
+WHY COMPUTACENTER?
+
+Computacenter is a leading independent technology partner, trusted by large corporate and public sector organizations. We help our customers to source, transform and manage their IT infrastructure to deliver digital transformation, enabling users and their business. Computacenter is a public company quoted on the London FTSE 250 (CCC.L) and employs over 15,000 people worldwide. In US we support some of the country's best-known businesses with regional headquarters in both San Francisco & New York City and an Integration Center in Silicon Valley.
+
+WE OFFER A GREAT BENEFITS PACKAGE!
+
+There's so much more to enjoy about being at Computacenter Fusionstorm Inc. than just having a rewarding career. In addition to offering competitive compensation plans and long-term career opportunities, Computacenter Fusionstorm Inc. provides an attractive mix of benefit plans to contribute to its employees' good health, future financial security and peace of mind.
+
+You must be authorized to work in the United States.
+
+Computacenter Fusionstorm Inc. is an Equal Opportunity Employer with a strong commitment to supporting and retaining a diverse and talented workforce.
+
+No AGENCIES, please. We are not obligated to pay any fees for any individuals we decide to hire.
+SDL2017
+
+
+Go to apply 
+

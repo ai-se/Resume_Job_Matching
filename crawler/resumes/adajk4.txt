@@ -1,0 +1,55 @@
+
+SUHA ALOBAIDI
+Houston, TX *****
+Phone: 832-***-**** Email: adajk4@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/suha-alobaidi/ Github: https://github.com/Suha19 Portfolio: https://suhaalobaidi.dev SUMMARY
+Full Stack Web Developer able to build web applications from the ground up. Skilled in information gathering, planning, design, development, testing and delivery and maintenance. Passionate about software architecture and design, combined with sensitivity to serve the needs of the business with a balanced delivery of high quality solutions.
+TECHNICAL SKILLS
+Programming Languages:HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, JSON, NODE.JS, MYSQL, PHP, MSSQL, MONGODB, HANDLEBARS, REACT, & ANGULAR
+OS: UNIX, Windows
+PROJECTS
+WikiFoodia
+https://github.com/Suha19/wikifoodia https://whispering-earth-68482.herokuapp.com/
+● A full stack application allowing users search for, create and share meals.
+● Technologies Used: - HTML, CSS, JavaScript, MySQL, Node JS, Sequelize, Passport - APIs, ORM, Heroku, Express, Bootstrap, Google Fonts, Rubber Duckie. TeleTale
+https://github.com/Suha19/TeleTale https://teletale.herokuapp.com
+● TeleTale is a Full Stack Application based on The Telephone Game. With TeleTale you can write and share stories with people from all over the world. Players can read, add, and vote on stories that they like. This is an easy to use application, all you have to do is create your own account and start interacting!
+● Technologies Used: HTML5, CSS, JavaScript, Bootstrap, JWT authentication, APIs, Heroku, Node.js, Express.js, React.js, Redux, MongoAtlas
+BeeNeat
+https://github.com/mgmarti/BeeNeat https://mgmarti.github.io/project-1/
+● The Idea for this project is to help the user to organize, bookkeeping and spend more time on things that matter.
+● Technologies Used: JavaScript, Jquery, and Firebase, Bootstrap, Unsplash API, Google Maps API.
+Chili Taco
+https://github.com/Suha19/Chili-Taco https://salty-scrubland-10289.herokuapp.com/
+● Is a food-truck app that lets users input the names of tacos they'd like to eat.
+● Technologies Used: MySQL, Node, Express, Handlebars and a homemade ORM. I used Node and MySQL to query and route data in my app, and Handlebars to generate my HTML. EXPERIENCE
+Web Developer and SEO Specialist 2019-present
+E-Web Results Houston, TX
+● Developed, enhanced and maintained websites using RESTful API,HTML, CSS, Javascript, PHP and other languages.
+● Built an ecommerce webapp to sell products online. Increased company sales by 58%.
+● Created scripts to import XML files.
+● Developed keyword stats, search engine rankings, keyword suggestions, and keyword placement.
+● Operated with MySQL, Linux operating system, and Apache web server Computer Technician 2018- 2019
+CSAT Solutions Houston, TX
+● Troubleshoot 95% of hardware/software issues within 30 minutes to meet company standards..
+● Install and maintain computer operating systems hardware and software packages to ensure they are current and meet clients needs.
+●
+● Veri ed fresh hardware and software for compatibility with company systems.
+● Uphold technology procedures in coordination with information technology teams to meet company processes.
+Office Clerk 2016-2018
+Vero's Party Houston, TX
+● Maintained customer relationships, handled shipping, communication logistics, and office assistant responsibilities while meeting and exceeding all obligations within the company.
+● Increased customer retention by 22% through monitoring and responding to client emails in a timely manner.
+● Decreased clerical errors by 15% and lowered scheduling mistakes by 32% with excellent attention to detail.
+Database Analyst 2010-2013
+Minister of Education Baghdad, Iraq
+● Proposed solutions to improve system efficiencies, leading to a 15% reduction in operating costs for the year.
+● Utilized Microsoft SPSS statistical software to track and analyze data to successfully interpreted data to identify key metrics and draw conclusions..
+● Designed and built statistical analysis models on large data sets using MySql. EDUCATION
+UT Austin Coding Boot Camp Certificate: Houston, TX 2019 A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS. Collaborated with other developers on group projects and established a project work ow using Github.
+Bachelor's Degree of Software Engineering: Al Rafidain University Great knowledge in programming languages, developing, testing and debugging code in C++, C# and Visual basic.
+MTA: Database Fundamentals: Microsoft
+2016
+Earners of the MTA: Database Fundamentals certi cation have demonstrated introductory knowledge of and skills with databases, including relational databases, such as Microsoft SQL Server.
+
+Contact this candidate

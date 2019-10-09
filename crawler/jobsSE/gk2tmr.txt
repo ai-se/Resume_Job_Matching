@@ -1,12 +1,51 @@
+Job Title = Ui Or Java Or Oracle Or Developer Or Mq jobs in Raleigh, NC, 27606
 
-Position Title: Sr.
-Software Engineer - Java AND UI Location: Charlotte, North Carolina Job Type: Fulltime or Contract to Hire.
-Job Description: Position Summary (Mission): A Software Engineer will develop, maintain and support new or existing software products while applying the best practices of software development.
-Responsibilities include the ability to work independently and as part of a larger team to deliver quality solutions across all phases of the software lifecycle, and all the layers of a software solution.
-Job Accountability Responsibilities Key Measures Works under deadlines and subject to heavy project load Ability to explain concepts with technical staff Ability to work independently but also works effectively with all co-workers; team player.
-Ability to multitask and prioritize (professionally handle issues and assignments in various stages of resolution on an on-going basis) Ability to communicate and follow up professionally (written and oral) both internally and externally within the organization Demonstrated ability to identify and resolve issues effectively Demonstrated high degree of accuracy and attention to detail Strong JAVA fundamentals, good design skills Minimum of 2 years of technical experience Additional Requirements: Education Experience Certification/Training Bachelors degree in Computer Science or equivalent field desired Full life cycle projects, agile preferred Experience with Spring, Hibernate (ORM), MQ, Oracle preferred UI experience - JavaScript, Jquery, CSS preferred.
-Regards, Uday Akula Manager- Talent Acquisition (760) innominds.com
+Virtusa  – 
+Morrisville, NC, 27560
+... Technical Skills J2EE, IBM Websphere, MQ, Oracle Experience coding and unit testing for large implementation projects. Experience with DevOps and tools like Sonar, Jenkins, Selenium, Docker, etc Financial domain industry expertise IVV experience or ...
+- Dice, Oct 04
 
+DISYS  – 
+Raleigh, NC, 27603
+... UI, and complex search functionality. • They are using content search leveraging Apache Solr. Ionic mobile app is being leveraged as well. • There are 8 to 10 Java services to support the platform. • They are looking for a full stack developer ...
+- Jobg8, Sep 28
 
-Go to apply 
+Covance  – 
+Raleigh, NC, 27608
+... Java Developer at our headquarters LabCorp in Burlington, NC or in Raleigh/Durham, NC location. This position is seeking a ... Maven, Nexus Repository a plus * Oracle 109, 11g, 12g Database * Knowledge of IBM MQ and its configuration is a plus SDL2017
+- StartwireL2, Oct 03
 
+Credit Suisse  – 
+Raleigh, NC, 27601
+We Offer The distributed developer candidate working in the application infrastructure team will be responsible to ... stack/tools such as Java, J2EE, JMS or MQ Series, Control-M, Weblogic, JDBC, Spring Boot, Oracle DBMS, RESTful or SOAP ...
+- Jobg8, Oct 02
+
+Brooksource  – 
+North Carolina
+Oracle (OAE) Developer Position Description : Brooksource is seeking a mid – level OAE Developer (3-5 years) to join our ... 0 or higher, Java Script, HTML, XML, CSS, SQL and Oracle 11g/12C ·A good understanding of using jQuery, jQuery UI and jQuery ...
+- Neuvoo, Sep 21
+
+Enterprise Engineering  – 
+Durham, NC, 27701
+" Oracle Developer New Durham, NC We are looking for a strong Oracle Developer to contribute in database applications ... 4 to 5 Years Database development (Sybase\Oracle\PostgreSql) ETL(Informatica) & JAVA MUST be hands on in regard to coding ...
+- Dice.com, Oct 02
+
+Enterprise Engineering  – 
+Durham, NC, 27701
+Oracle Developer New Durham, NC We are looking for a strong Oracle Developer to contribute in database applications ... 4 to 5 Years Database development (Sybase\Oracle\PostgreSql) ETL(Informatica) & JAVA MUST be hands on in regard to coding ...
+- Dice, Oct 02
+
+Oracle  – 
+Morrisville, NC
+**Software Developer 1** **Preferred Qualifications** **Job Title:** Software Engineer 1 **Job Location:** Morrisville, NC * ... Oracle applications to run on the Oracle Cloud. We are not building a monolithic platform nor are we writing JAVA code. ...
+- DE Jobs, Oct 04
+
+Enterprise Engineering  – 
+Durham, NC, 27701
+We are looking for a strong Oracle Developer to contribute in database applications development within data management space ... 3 to 5 Years Database development (Sybase\Oracle\PostgreSql) ETL(Informatica) & JAVA MUST be hands on in regard to coding ...
+- Jobg8, Oct 02
+
+Enterprise Engineering  – 
+Durham, NC, 27701
+We are looking for a strong Oracle Developer to contribute in database applications development within data management space ... 3 to 5 Years Database development (Sybase\Oracle\PostgreSql) ETL(Informatica) & JAVA MUST be hands on in regard to coding ...
+- Dice, Sep 27

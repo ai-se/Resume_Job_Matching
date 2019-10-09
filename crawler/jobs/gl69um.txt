@@ -1,0 +1,20 @@
+Job Title = Engineer
+
+5 years' experience with Programming Language such as C, C++, Java, Python, etc.
+
+* Multimedia/Image processing product SW development experience in Android and Linux.
+
+* Strong algorithmic, data structure and object oriented programming and DSP SIMD optimization.
+
+* Experience with Android framework and SDK tools such as IDE, profiler, debugger, simulators, emulators.
+
+* Experience in camera pipeline and digital image processing blocks, computer vision and machine learning in mobile or connected camera
+
+* Understanding of mobile phone hardware and Android software architecture and development process
+
+Combination of Keywords : Android, Multimedia, Camera, computer vision, DSP
+SDL2017
+
+
+Go to apply 
+

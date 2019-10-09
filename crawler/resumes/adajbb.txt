@@ -1,0 +1,32 @@
+
+Bo Liu
+Tel: (***) *** – **** LinkedIn https://www.linkedin.com/in/christopher-liu-0047b1170/
+E-mail: adajbb@r.postjobfree.com 4613 Fanwood Terrace, Fremont, CA 94538 Education
+University of Pittsburgh MS in Information Science Aug. 2017 – Apr. 2019 Software Skills
+Language over 60000 lines: Java
+Programming Languages: Python, C++, Scala, JavaScript, PHP, R, Zsh, Bash Basics: Data Structure, Algorithm Design, Relational Database Management System, Distributed System, Client-server System, Operating System, Web Standards and Technologies, Machine Learning Web Skills: SpringBoot, MyBatis, Hibernate, Django, RESTful, HTML/HTML5, JSON, XML, Tomcat, Bootstrap, jQuery, React Database and Platform: MySQL, SQLite, MongoDB, Redis, Linux, Mac OS Big data System: Apache Spark, Apache Hadoop, Apache HBase, Apache HDFS, Apache Kafka, Apache Zookeeper Tools: Git, Maven, Gradle, Docker, Postman, Vagrant, Homebrew, MAMP, Vim, Sublime Text Professional Experience
+Software Engineer
+Tianjin Niuniu Technology Co., Ltd. May. 2018 – Aug. 2018 Developed Smart-Niuniu system on Hadoop cluster which could help monitor click status of the third-party advertisement and its payment as well as to analyze the user’s preference
+• Developed advertisement monitoring system that could track each third-party advertisement’s click-relevant figures and payment-related data
+• Implemented the user-based report system that could report user’s statistical data based on various dimensions
+• Implemented auto-running functionality that automatically extracted logs to HDFS and update report-related data in MySQL
+• Developed frontend interface using Bootstrap, jQuery and implemented multi-dimensional diagrams display module using open source API (E-Chart)
+Software Engineer
+Beijing MiningLamp Software System Co., Ltd. Jan. 2015 – Mar. 2016 Developed Android SDK tracking users’ behavior and app’s run-time status
+• Used standard Android API, included but not limited to os, telephony, provider, to acquire app’s status data
+• Encapsulated HttpURLConnection that greatly ease function call for behavioral tracking
+• Designed and implemented solution that automatically captured crash event based on activity’s lifecycle
+• Analyzed error/exception information that help engineer to quickly locate questionable code-block easier Designed and implemented user portrait system based on SMS (unstructured) data on Hadoop/Spark cluster
+• Migrated data from Oracle to HBase using internal tool (DataOne) based on Sqoop
+• Implemented the user’s portfolio information extraction and basic information inference system that extracted and/or inferred gender, age, geographic area
+• Implemented family member inference system and asset status inference system that stored information in HBase
+• Developed the rule detection system that allowed keywords combination test to discover new tagging rule
+• Designed and implemented RESTful API that could discover common tags for group Academic Experience
+Yelp review-based information retrieval system University of Pittsburgh Developed a system that recommended restaurants based on individual needs. Responsible for backend development
+• Cleansed raw data and mapped words from original form to its corresponding stems using open source API
+(Merriam-Webster and datamuse)
+• Used Vector-Space-Model as main model to calculate the similarity between user’s query and documents
+• Proposed and implemented synonyms dictionary system based on corpus and open source API (datamuse) that refines the similarity between query and documents
+• Incorporated user feedback sub-system which is based on user behaviors to enhance the similarity results
+
+Contact this candidate

@@ -1,0 +1,141 @@
+
+Randall C. Finch
+Principal Mechanical Design Engineer
+***** ***** **, ******, ******. 97048
+ac9usr@r.postjobfree.com
+https://www.linkedin.com/in/rand-finch-5a08a412b
+
+Summary
+
+I believe that developing absolute and consistent TRUST is a key to creating and sustaining successful business and personal relationships. Immediate response and follow through with consistent desired results, is what I trust, and it should be the first thing one should expect of our Brand.
+
+Work Experience
+
+Senior Design Engineer - SOLIDWORKS 2017 March 2019 to May 2019
+AIRBORNEECS Port Angeles, WA.
+
+Heat exchanger (Air to fluid, fluid to fluid) Design and drafting - G, D, and T.
+Headed up the tooling effort for test fixtures for prototype componentry.
+Remote access capability and efficient success. (Skype/Teams communication with remote access to PDM)
+
+Mechanical Project Engineer - CATIA V5 March 2018 to March 2019
+FALCON INTER-TECH Rainer, OR.
+
+Spear heading innovative, cost effective, and manufacturable consumer products for a future entrepreneurship venture.
+Researched, brainstormed, and sketched up initial concepts.
+3D modeled and 2D documented Start-Up materials for presentation (Phase 1).
+Initial manufacturing and tooling planning and volume estimation.
+Fabricated an approximated part for preliminary part analysis and conducted tests with Successful results.
+Currently engaged in Phase 2, research and education of Start-up criteria and requirements.
+Currently investigating alternative “Bring to Market” options.
+
+Mechanical Project Engineer - CREO 3.0 (WINDCHILL) March 2017 to March 2018
+LAWRENCE LIVERMORE NATIONAL LABORATORIES Livermore, CA.
+
+Charged with research and development of a kinematic calorimeter diagnostic system to measure and calibrate 192 laser outputs for the NIF (National Ignition Facility).
+Researched and aspect studied the containment, laser positions, coordinate system relations, existing diagnostic delivery systems, and all the given scientific data.
+Conceptualized, created, and documented a “top down” assembly structure (DMU) to occupy the CREO/Windchill environment.
+Developed and tested virtual 3D kinematic encoder motion for the overall system.
+Designed and Occupied assemblies with the base components (PARTS).
+Research and Development of a 3 omega light filtration system.
+Encoder placement and mounting.
+Designed and space claimed the electrical routing, strain relief, and mounting.
+Insured currency of the DMU (digital mock up) and all supporting documentation.
+
+R&D Mechanical Engineer - CREO November 2016 to March 2017
+RLA ENGINEERING HP Vancouver, WA.
+
+Contracted as a member of the Hewlett Packard’s R & D Vulcan 3D printer exterior IPT, responsible for left/right side doors and center panel.
+Door Design, hinge mechanisms, latching mechanisms, and mounting.
+Latch, lighting, and sensor electrical routing.
+Strain relief
+Mounting and constraints
+Fabricated our own prototype hardware (simple brkts, sheet metal parts, and assy’s).
+Access to R & D, tooling, and installation equipment.
+Performed installations and preliminary testing in the shop lab.
+Remote access capability and efficient success. (Skype/Teams communication with remote access to PDM).
+
+Mechanical Project Engineer - CATIA V5 August 2014 to November 2016
+FALCON INTER-TECH Rainer, OR.
+
+Spear heading innovative, cost effective, and manufacturable consumer products for a future entrepreneurship venture.
+Researched, brainstormed, and sketched up initial concepts.
+3D modeled and 2D documented Start-Up materials for presentation (Phase 1).
+Initial manufacturing and tooling planning and volume estimation.
+Fabricated an approximated part for preliminary part analysis and conducted tests with Successful results.
+
+Mechanical Project Engineer - CATIA V5 (ENOVIA LCA) April 2014 to August 2014
+XDIN VOLVO Greensboro, NC.
+
+Director pursued and hired me to be their “CATIA V5 3D Design Expert”. Charged with a new 3D design of Volvo’s 6500 front driver’s side fairing structure.
+3D modeled Injection molded 60” X 30” incredibly durable plastic polymer fairing structure.
+Daily reviews (morning kick off Skype sessions) with Volvo’s management - (2 months ahead of schedule)
+Clear and concise collaboration with supplier, styling, and purchasing.
+Part draft angle and thickness considerations for shut-offs, pull-direction, and gating.
+Model organization (tree) had to be as intuitive as possible.
+Tooling and manufacturing considerations.
+
+Mechanical Project Engineer/Owner - CATIA/SOLIDWORKS December 2008 to April 2014
+SST CONSULTING Seattle, WA.
+
+Conceptualized, 3D modeled, and 2D documented for final release, (2) Flywheel Housings for (2) different ASA engine to SAE transmission interfaces.
+3D modeled aircraft nacelle composite component parts and assemblies for an OEM.
+
+Test Lab Engineer - CATIA V5 (ENOVIA LCA) March 2007 to December 2008
+BOEING Everett, WA.
+
+3D designed test fixtures for 787/747 cabin systems (interior components), component placement studies, and facility mounting.
+Responsible for ordering all parts, materials, and receiving/storing of components and assemblies.
+Electrical schematics for ethernet cabling, power, and ground.
+Remote access capability. (Skype/Teams communication with remote access to PDM)
+
+Mechanical Engineer/Shipside Liaison Design 787 – CATIA January 2007 to March 2007 BOEING Everett, WA.
+Provide engineering guidance for system design and installations for flight test equipment.
+Disposition non - conformances (NCR) in the factory and assist with issues that come up in other locations such as the Strain Gage Lab.
+CATIA V5/ENOVIA mentoring/training to shop personnel.
+
+Research and Development Engineer - CATIA V5 February 2006 to January 2007
+GOODRICH AREOSPACE San Diego, CA.
+
+Innovated and designed solutions for primary and secondary structure for the Pratt and Whitney GTF engine Nacelle Prototype. (Stainless and Inconel 625 sheet and billet)
+We accomplished 100% fit and my ME support and presents during the assembly process proved to be crucial to the projects’ Success.
+
+Mechanical Project Engineer - CATIA V5 (ENOVIA LCA) April 2005 to February 2006
+BOEING Renton, WA.
+
+Recognized for accomplishing and innovating a 3D design for an ESM sensor pressure box and fairing for 737 P-8A Poseidon (Military conversion).
+The fairing required loft surfacing to minimize noise and to meet LO requirements. Structure had to be designed to endure a 31 KIP load. Successfully, l led a team of 5 as the project progressed.
+
+Lead Design Engineer - CATIA V5 (METAPHASE) April 2004 to April 2005
+NORTHRUP GRUMMAN CORPORATION El Segundo, CA.
+
+Had the pleasure of leading 5 talented individuals responsible for all the lower aircraft skin design and interfaces for the DARPA funded JUCAS military project. (Unmanned Bomber)
+The NAVY was our primary OEM which means I was reporting weekly Earned Value to our management. We were well on our way and on time with the documentation phase when the program lost funding.
+
+Mechanical Project Engineer - CATIA V3-V4/ (VPM) April 1993 to April 2004
+FREIGHTLINER/DAIMLER TRUCKS Portland, OR.
+
+Most notable accomplishment, 3D Re-design of a rear suspension bracket to an aluminium casting version- permanent mold. Saved Freightliner millions of dollars and vehicle weight over the years. The patterns were Cut from my original 3D datasets.
+Involved and innovative engineering for most of all vehicles chassis, body, and studio. Had a systems view of the vehicles and involved myself with the ME support. This combination yielded great success.
+
+Lead Tool Designer - CATIA V3 April 1989 to April 1993
+UTICA ENTERPRIZES Utica, MI.
+
+Led 5-7 individuals to successful tooling package deadlines with Sikorskys’ RAH-66 Comanche helicopter. Kevlar composite skins (Invar Lay-up Tools), and a Multitude of MF’s (mill fixtures.)
+
+Aircraft Interiors Designer - CATIA V1-V3 June 1983 to April 1989
+BOEING Renton, WA.
+
+Personally sought out by the VP of the Commercial division to be a CAD Designer for the 727/737/757 interior Cabin Systems and payload interiors.
+
+Education
+Lower Columbia College
+(In Progress), engineering, computer science · (2016 – 2016)
+
+Bellevue College
+AA Equivalent, Mechanical Engineering · (1980 – 1983)
+
+Western Washington University
+Industrial Engineering · (1979 - 1980)
+
+Contact this candidate

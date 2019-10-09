@@ -1,0 +1,148 @@
+
+System Engineer
+Telecom Project Management
+
+Technology-focused leader with carrier and financial industry experience at both Transport and Network levels.
+Articulate communicator skilled in delivering insightful presentations and strengthening relationships with business partners, peers and senior leadership.
+Proven Project Manager with an excellent history of planning/completion of multiple projects on time and within budget.
+Skilled leader and team player within multidisciplinary teams in line with company SLAs.
+
+Multilingual: English, Spanish, French
+Systems Monitoring
+Unix, Linux and Windows
+Field and NOC Technician/Engineer
+Project Management
+Systems Integration Planning
+Technical Writing and Planning
+Client Relationship Management
+NOC Operations & Maintenance
+
+PROFESSIONAL EXPERIENCE
+
+IPC
+Systems Engineer – Certified in IPC Sytems Installation and OAM
+On Site Support for Barclays International
+NTR (NICE) OAM Daily Tasks.
+Voice Recording logs and Administration.
+Logging/OAM of IPC turrets and Hoot units.
+User Administration and reprogram.
+Back end Administration of Traders
+SIP trunks/T1 troubleshooting
+Daily Health Checks
+Trouble shooting new and existing lines.
+Troubleshooting Hoots.
+Trouble shooting Zone issues
+Run Daily Reports for Zones and users,
+
+Judge Group
+System Engineer – Oceans Resort Casino, Atlantic City, NJ
+June 2018 –July 2018
+Realigned Infrastructure to accommodate new Gaming systems and floor games.
+Configured VLAN connections for various voice and data connections.
+Installed LAN connections to ATMs throughout the complex.
+Installed new LAN connection to Nexus switches over VLANs for voice and data.
+Installed IPTV connection to gaming floors, cabanas, bars, restaurants and hotel rooms.
+Ran WiFi connections from LAN switches to external antennae.
+Brought new systems online for opening day.
+NCS Technologies Inc., Piscataway, NJ 11/2015-2017
+CNOC Engineer (Contractor to COMCAST)
+Monitoring/Support of 3 Business Units in Comcast. Enterprise Care (VOIP/SIP/CUCM and Wireless) Support of Amazon Web Service as pertinent to Comcast Network Ops.
+Provide Network support for Comcast Infrastructure new Data Center.
+Provide Network support for New COMCAST Tower for WiFi and VOIP Services.
+Extensive trouble shooting of access points and wireless LAN Controllers, F5 LBs, GTM and LTM.
+Extensive troubleshooting Apps/Dbase/Network issues using a variety of monitoring tools.
+Monitoring of VOIP, CISCO Prime, CUCM, voice gateways, conference bridges, Communication Managers/SIP Trunks.
+Extensive use of JIRA, Remedy, Brouha, Nagios, IRIS & Radiation Board, Riverbed and AWS Monitoring tools.
+Monitoring of national Enterprise routers & switches, including 6509, Nexus, 29xx, 37xx series.
+Produce Root Cause Analysis report on outages and impact as needed.
+Daily use of MS Office Suite, VISIO for reports, diagrams, etc., Sync Box for team reports/SOPs.
+Wrote MOPs/SOPs for both onshore and offshore teams
+Wrote Plans for test and turn-up procedures for Comcast, Teleport, AT&T, UBS, and MCI.
+Team Lead for both onshore and offshore teams for Enterprise Care/Comcast,
+
+FAIRPOINT COMMUNICATIONS, Manchester, NH 2014-2015
+NOC Engineer Contractor
+Monitored network, analysis of alarms, diagnosed, and troubleshot SONET/ROADM and telco systems remotely.
+Extensive use of METASOLV 6 for change management; move of fibers from existing equipment to new; swap fiber pairs.
+Identified trouble points and dispatched field techs to fix and troubleshoot problems on SONET, TELCO & DACS.
+Troubleshot, tested, and restored service to fiber networks and copper cross connects, CSU/DSU, etc.
+Did in depth analysis to determine root cause, move chronic tickets to resolution and closed same.
+Owned trouble tickets from beginning to end, tested equipment and circuits using network management tools including NETSMART 1500 for SONET troubles, REMEDY for T1, DS 3 trouble shooting, CISCO ANA for trouble shooting, driving issues to resolution through analysis, dispatch or escalation procedures as required by SLAs.
+Examined router configs for OSPF, MPLS issues/mismatches.
+Upon discovery of anomalies, created reports to upper management, covering details and suggested recommendations or action items for improvement or elimination of faults.
+
+SPEEDWIRE INC., Mineola, NY 2013-2014
+AT&T Digital Life Technician Contractor
+Provided sales and completed service installation of Digital Life products at customer premises.
+Interacted with customers, upsold equipment and services. Served as a second language resource for teams in non-English situations.
+Served as Team Lead in other Markets, including Northern VA, Philadelphia, Hartford, CT and both South and North Jersey.
+Served as primary Liaison Officer for Permits in all townships in the NY – NJ regional markets.
+Installed and tested T1 circuits for VOIP; installed, configured CSU/DSU for external vendors.
+
+AEGIS INTERNATIONAL, Burlington Twp, NJ 2004-2013
+System Administrator, Network and Phones
+Conducted network equipment, pc, and telephone moves, adds, and changes across the company.
+Controlled and audited telecom billing, recommended changes of equipment and installed same.
+Added, deleted users to networks, assigned IP addresses to routers and work stations and for internet access.
+Installed cabling for telephone and data between offices, installed security systems for IP monitoring.
+
+PROJECT HIGHLIGHTS
+
+Disaster Recovery: Consultant to IBM. Provided telecom expertise for backhaul/disaster recovery strategies for enterprises in Phoenix, AZ, Sacramento, CA and Charlotte, NC.
+
+Government Sector: Consultant to AT&T. Tested and turned up multi-vendor routers for dozens of state and federal government agencies, most notably being a State Dept., mission critical circuit which I worked on for an entire night and into the weekend to bring online successfully, to meet Monday morning deadline.
+
+Financial Sector: Installed multiple circuits, voice and data at AMEX, NYSE, NASDAQ and private trading companies.
+
+UBS Warburg: Project Manager. Conceived, designed and created project plan for SONET infrastructure for UBS Warburg. Pitched project to Board of Directors, secured approval, got financing, sent out RFP to vendors, selected vendor, implemented plan, brought it to completion often working nights with vendor to bring lines into building HQ of the bank at Stamford, CT. Documented and sent out archival documents in online database for projects.
+
+Infrastructure: Installed and field tested various routers as to configuration and shipped both locally and internationally for installation in remote office sites, from Brazil to Europe, Far East and Canada. Wrote SOPs for new Data Center operations at Teleport, Staten Island, NY.
+
+Project Management: Conceived, planned and participated in many projects within the telecommunications sector.
+
+Technical Documentation
+
+I have written training and operational MOPs/SOPs at the platoon, company, brigade and regimental levels.
+I have also written SOPs/MOPs for the Data Center Operations Group at Teleport Communications Group at Teleport Communications Group at Staten Island, NY.
+I have also written RFIs/RFPs on behalf of UBS (Swiss Bank) as a project manager to vendors. I have also written Post Operational Reports for the Projects I have worked on at the bank.
+RCA reports on outages for Fairpoint Communications in NH.
+Written SOPs/RCA for outages in Comcast networks VOIP/WiFi/AWS space.
+
+PROFESSIONAL DEVELOPMENT
+
+Network Technology Bootcamp
+Studying for Metro Carrier Ethernet Certification
+
+TECHNICAL SKILLS
+
+Telecom:
+DS0 and Fractional T, T1 & E1; DS 3; OC 3, OC 12, OC 48, OC 192, DWDM, OTN.
+Technologies:
+Carrier Ethernet, 10GE, 40GE, SONET, SDH; Frame Relay, ISDN, ATM, MPLS; CISCO and NORTEL Routers and Switches; Fujitsu FLM 150, 1200, 2400, FlashWave 4100, 4500, 9500; NetSmart 500, 1500, 2000; Cienna 6500, One Control, CatenaView, CISCO ANA Network Vision; NaviScore OCD, ROADM/ OTN systems, WaveFlow; CSU/DSU, Protocol Analyzers & Sniffers; T-BERD and FIREBERD Test sets. TL1 Commands, Tellabs, Alcatel-Lucent & AT&T DACS.
+Monitoring Tools:
+Amazon Cloud Watch, App Dynamics, HPNA, Nagios, CISCO PRIME Collaboration, CISCO Prime Infrastructure, NMS, MetaSolv 6,TEMS, REACT, One Control. Wave Flow. Riverbed monitor to view netork and Apps issues.
+Networking:
+LANs, WANs, VPNs, Routers, Switches, TCP/IP, IPX, MPLS, DWDM,
+OSPF, RIP I & II, BGP, IS-IS, EIGRP, EGRP, DHCP, DNS, CSMACD, Token Ring
+Software:
+MS Office (Word, Excel, Outlook, Access, PowerPoint, Project)
+VISIO, CORELDRAW X7, Photoshop, Illustrator. UBUNTU
+
+CERTIFICATIONS
+
+NYS Alarm Tech – OSHA 10 Certification
+
+CISCO CCNA 10368337
+
+Education: York College – CUNY – Jamaica NY 1987 -1989
+Computer Science – 2 years
+Metropolitan Institute of Network Technology – Jersey City, NJ (1994- 1995) Graduated
+Went to work at Teleport Communications Group, Staten Island NY upon graduation.
+
+Various vendor courses over the years including CISCO, NORTEL, ADTRAN, etc.
+
+Reuben Coxall
+314 Sheridan Ave., Brooklyn, NY 11208
+adaifd@r.postjobfree.com 917-***-****
+
+Contact this candidate

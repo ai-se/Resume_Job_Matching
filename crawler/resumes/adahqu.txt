@@ -1,0 +1,49 @@
+
+YASSER HIDAR
+Jeddah, Saudi Arabia. 056*******, adahqu@r.postjobfree.com
+Objective
+• To obtain a challenging position in a high quality engineering environment where my resourceful experience and academic skills will add value to organizational operation Professional Experience
+WHIRLPOOL CORPORATION, Benton Harbor, MI Jul 2018 – Aug 2019 Electrical Engineer I, Electronic Hardware Design
+• Designing hardware solutions to drive system optimization and enhance product reliability
+• PCB layout design, applied simulation and component selection for hardware execution
+• Electronic/Electrical circuit model/simulation
+• Prototype assembly, bring up, debugging and functional verification
+• Manage project KPI’s (cost, quality, schedule)
+• ECM (Electronic Control Manufacturing) management until the pilot (connecting with procurement as needed)
+• Interact with system architects/integrators to review and consolidate application requirements WHIRLPOOL CORPORATION, ST. Joseph, MI Sep 2016 – Jul 2018 Electrical Lab Technician, Laundry Controls Development Lab
+• Tested latest software to implement new features on laundry appliances
+• Programmed and flashed ACU and HMI for machines
+• Ran test plans around motor and speed control Programming
+• Documented findings, recorded data and reported back to the software development team Education & Projects
+Purdue University, Hammond, IN August 2011 – May 2016
+• B.S. in Electrical Engineering/Concentration in Electric Power and Energy Systems/Minor in Mathematics
+• GPA: 3.28
+• Relevant Courses – Power Electronics, Power Systems, & Magnetic Fields, Electric Machines and Drives, Linear Control Systems, Energy Systems. Electronics Systems, Signal and Systems, Basic Mechanics, Statistics, and Project Management.
+Senior Design Project Power Output Optimization of a Photovoltaic Array
+• Designed a Maximum Power Output Tracking system using a micro-controller and power electronics to keep the power output of the array optimized.
+• Analyzed and Simulated the effects of shading on a Photovoltaic Array.
+• Simulated and built converters and inverters to be connected to the panels. Energy Audit Report for Schneider Avenue Building in Purdue University.
+• Analyzed types and costs for energy use.
+• Improved operational techniques for the building.
+• Identified opportunities that reduced energy cost for the building by 10% Key Skills
+• Greenbelt Six Sigma
+• 5s Lean Principles
+• Project Management
+• Power World Simulator
+• Labview
+• MATLAP/Simulink
+• MathCad
+• WaveForm Generator
+• Cadence
+• Circuit Analysis & Design
+• AutoCad
+• C++
+• LTSpice
+• Data Analysis
+• Oscilloscope
+Organizational Memberships &Honors
+• Greenbelt Six Sigma Certificate from Whirlpool Corporation 2017
+• Purdue University Semester Honors Certificate Spring 2015
+• Certificate of excellence for leadership from the International Affairs 2014
+
+Contact this candidate

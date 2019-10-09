@@ -1,0 +1,80 @@
+
+George S. Cutlip
+*** ********* *****
+Fairmont, West Virginia 26554-8443
+Cell: 304-***-**** / Home: 304-***-****
+adajbn@r.postjobfree.com
+adajbn@r.postjobfree.com
+https://www.linkedin.com/in/george-cutlip-3ab41756/
+Objective: Seeking Information Technology / Database Administrator position
+Clearance: Top Secret (DoD, April 2014) /SCI Eligible / Willing to take polygraph test
+HIGHLIGHTS OF QUALIFICATIONS
+I have thirty years’ experience in both military and government computer network systems, with twelve years of management experience. I am experienced with loading operating systems (XP, Vista, and Windows 7) to server management (Windows Server 2000/2007, Windows Server XP, Directory and Resource Mgmt., PEGA), as well as Microsoft Office (Word, Excel, Outlook). I have considerable knowledge with VMWare products, including VMWare Viewer, as well as Windows Operating Systems, TCP/IP, Networking, and Security Tools, with the majority of experience on NIPR, SIPR, and JWICS systems. I oversaw three organizational Help Desks, as well as being Workgroup Manager. I am experienced with UNIX, SQL Server, SQL scripting, and Oracle database, utilizing TOAD (Tool for Oracle Application Developers) for reports and troubleshooting. I have also used HP OpenView, Grafana and CA Wiley for database monitoring. I have some experience with Hadoop and Spark. I can work independently or with a group, with solid oral/written communication abilities.
+
+PROFESSIONAL EXPERIENCE
+Database Administrator – Natl. Instant Criminal Background Checks – FBI
+ManTech International, Fairmont, West Virginia April 2013 – June 2019
+
+Oversaw nine NICS databases total, for training purposes as well as real-world usage
+Lead technician on database builds, updating 8 training systems as well as the main operating system, which processed over 26 million transactions in 2018
+Utilized PeopleSoft for day-to-day transactions for ManTech training, timesheets, and e-mail
+
+JIOCEUR Analytic Center (JAC) Highpoint Support - Disseminations
+L-3 STRATIS, RAF Molesworth, United Kingdom 2011 – 2012
+
+Instrumental in educating customers on the creation of and classifications on intelligence documents to be briefed to senior-level military leadership in Washington, D.C.
+Accounted / edited documents daily entering Library of National Intelligence database
+Maintained group accounts and creation of over 500 individual analyst accounts used for collecting and reporting military intelligence throughout Europe, Asia, and the Middle East
+
+Network Operations Center (NOC) Supervisor
+United States Air Force, RAF Molesworth, United Kingdom 2009-2011
+
+Led 6 technicians in data storage facility, who managed/stored data for three separate Local Area Networks, provided end-user support for 745 customers
+Tracked patching and upgrading of 1000 computers in order to maintain the network
+Producer and monitor of reports for operating software for classified military network
+Incorporated $70K backup system for data storage for emergency restoration
+
+EUCOM ECJ6 Watch Officer
+United States European Command (EUCOM), Patch Barracks, Stuttgart, Germany 2010
+
+Monitored, tracked, reported on all SIPR/NIPR circuit upgrades/outages in European theater
+Briefed upper management on EUCOM network issues; improved service for 10 flag officers
+Network Control Center (NCC) Supervisor
+United States Air Force, Osan Air Base, Republic of Korea 2008-2009
+
+Directed 40 technicians on a front-line U.S. military installation, covering all classified and unclassified computer programs and networks spread over 4 sub-sections
+Second-in-command for the protection of critical building at a military base near the DMZ, without which all US communications on the Korean peninsula would be curtailed
+Combat Communications Service Desk Supervisor
+United States Air Force, Tinker Air Force Base, Oklahoma 2003-2008
+
+Headed four-person team ensuring system compliance for 160-person organization
+Installed, configured and upgraded computer hardware and software in adverse conditions
+Base Small Computer Office Supervisor
+Ali Air Base, Iraq 2007
+
+Repaired or replaced 20 classified desktops in war zone to improve information processing
+Maintained 5000 unclassified computer systems under austere conditions in war zone
+Shift Supervisor for Information Management Office for Joint Staff
+Combined Joint Task Force, Camp Lemonier, Djibouti, Horn of Africa 2006
+
+Established first Information Management office at Camp Lemonier, providing professional and centralized network/computer support for 1,000 US personnel in Africa
+Equipment (ADPE) manager for $300K communications equipment account
+Utilized portable satellite equipment (HSWAN) to manage communications for a remote Kenyan base, kept fifty military and civilian personnel securely connected to main base
+Network Operations and Security Center Enterprise Controller
+United States Air Force, Ramstein Air Base, Germany 2001-2003
+
+Provided network support to 30 geographically-separate areas with over 42K customers
+Resolved 143 European-wide classified and unclassified military network circuit outages
+Monitored $35M network, encompassing all US military networks in Europe
+
+EDUCATION
+Glenville State College – Glenville, West Virginia - 1988
+
+Bachelors’ of Science – Business Administration (Marketing and Retailing)
+Community College of the Air Force - 1998
+Associates Degree in Applied Science – Information Systems Technology
+TRAINING AND CERTIFICATION
+Security + Certification (October 29, 2008, and is still valid; Studying for Security +CE), EMC
+Documentum (2013), Leadership and Management Course, System Network Support, Network Management Systems
+
+Contact this candidate

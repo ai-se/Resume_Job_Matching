@@ -1,0 +1,108 @@
+
+Suresh Raya
+214-***-**** adaiui@r.postjobfree.com
+
+ERP Applications Manager
+IT Project Management Builds & Leads Strong Teams Expertise in Oracle ERP Platforms
+
+—Leader. Mentor. Innovator...High integrity, focused and driven leader with MBA actively pursuing management opportunity with an organization where strategic vision, decisive management style, and expertise in leading IT projects and technical teams will be held at a premium.
+—Transformational Leader credited with building and managing highly effective teams of cross-functional domestic and offshore professionals, with the unique ability to overcome objections, build consensus, and drive winning results through synergy; experienced in leading IT projects that exceed the expectations of Fortune 500 corporations.
+—Effective Communicator with the ability to convey complex ideas to audiences of diverse background, education, and business exposure. Well versed in establishing relationships of trust and confidence at all levels.
+—Respected Strategist known for ability to align operations strategies to achieve all performance targets on schedule, leveraging interpersonal skill, presentations, collaborative effort, and industry experience.
+
+Leadership and Executive Management Qualities
+
+—
+—Effective IT Project Management
+—Leadership of Domestic/Offshore Teams
+—Evaluating/Implementing New Technology
+—Collaborating with Executive Management
+—Global IT Deployments and Upgrades
+—Engaging with Fortune 500 Clients
+—Business Analysis and Technical Support
+—Engaging in Business Development Initiatives
+—Using Technology to Meet Business Challenges
+—Effective Communications with Diverse Audiences
+
+P
+rofessional History
+
+Raybatris Technologies Inc., Irving, TX 2018 to Present
+- Development Manager/ Project Manager: (PWC/Denso International)
+Oracle Cloud fusion R13 Financials (GL, AP, AR, Cash Management and Purchasing)
+
+Development manager on a Oracle cloud implementation project representing PWC. Managing day to day development activities for both client team and offshore team.
+
+Owning and maintaining development objects across cross functional teams within Oracle cloud and home-grown applications being built like Cash app and CAMS.
+
+Preparing and presenting in the core team meeting the status of the RICEW items.
+
+Adding and cancelling the development objects into tracker through CR process using Jira. Planning and Supporting SIT activities conversions and interfaces.
+
+2016 to 2018 Orthofix Inc, Lewisville, TX
+Senior BI Supply Chain Lead
+
+–Project Manager for implementation of Esri maps software for generating the geographic maps. Managing/ coordinating with the Esri software vendor, Orthofix business team and internal Orthofix BI team including training and Esri vendor onsite schedule for implementation.
+–Lead cross-functional project teams and collaborated with business partners to determine and translate business requirements into technology and training solutions.
+–Representing BI team weekly meetings with Operations V.P and team to provide the BI reporting support.
+–Actively managing the business requirements gathering, design, develop and help other team members in the operations modules (Inventory, OM, WIP, BOM, Purchasing etc.). Implemented critical reports like loaner report, utilization report, fill report and so on. Provided leadership and initiative to ensure services, delivery, research and project expectations were exceeded.
+–Successfully managed R12 UAT phase for operations related Cognos reports testing and deployment by acting as lead between business team and internal contractors.
+–Operational Management organize, and led projects in the implementation and use of new BI software tools and systems. Lead the integration efforts for merging BI platforms with enterprise systems and applications.
+–Strategy & Planning Assess and cultivate long-term strategic goals for BI development in conjunction with end users, managers, clients, and other stakeholders.
+
+2009 to 2015: Raybatris Technologies Inc., Irving, TX
+- Consulting Lead/ Manager
+–Delivery Lead on a corporate-wide Oracle ERP Applications R12 Implementation Project.
+–Provided oversight and direction for a team of 13 technical resources (onshore and offshore) in the management of a large Oracle eBusiness Suite R12 implementation.
+–Estimated efforts for conversions, extensions, reports, work flow customizations, schedules, and budget management. Planned, led, and executed end to end project management including driving completion of deliverables and client relationship.
+–Led and participated Oracle implementation projects in travel, retail and medical devices across industries across the globe. Ensured client expectations and project requirements were met. Managed cross functional, global technology teams in order to drive solutions delivery.
+–Lead and Participated in designing and developing application interface programs, conversions and various customizations. Served as a technical lead for the forms personalization, workflow customization and building extensions.
+–Responsible for defining and enforcing standards and best practices to be adopted by different development efforts and teams. Maintained overall responsibility for quality of solutions/code in Oracle Applications production deployments.
+–Review functional and technical designs for interfaces, conversions and extensions. Review technical solutions designed for interfaces using oracle fusion middleware technology Oracle SOA, BPEL. Review the designs, interface code and soa adapters developed by offshore & Onsite team and mentoring for interfaces. Deploy and test code in SIT environment.
+–Navigated the business from launch to profitability, building a diverse roster of multi-billion dollar clients that include Carnival Corporation, Rent a Center, and DJO Orthopedics; established a network of professional contacts to foster the development of a pipeline of business opportunities driven by referrals.
+–Assumes a hands-on role to ensure the success of each phase of all client projects, from requirements gathering and technical design to implementation, testing, quality control, and end user training; maintained accountability for establishing timelines governing conversions, interfaces, customizations, reports, and workflows.
+–Exercised the authority to review and approve functional and technical designs, code, and SOA adapters, with a focus on solutions for interfaces using Oracle Fusion Middleware Technology, Oracle SOA, and Oracle BPEL Process Manager.
+–Facilitated the flow of key information and communications between client stakeholders and technical staff members throughout the course of each project.
+Key Client Engagements
+–DJO. Served a key role as Technical Lead in charge of a team of over 12 domestic and offshore developers, serving a key role as part of a project to implement Oracle ERP Application R12 across the enterprise.
+oEngaged with executives, business analysts, and stakeholders at all levels of the organization; collaborated with functional teams to execute design and technical responsibilities, customizing the application to align with the needs of the organization.
+oCoordinated and led coaching and mentoring opportunities for offshore developers to build insight into quality standards and business requirements governing the conversion of data from legacy systems to the Oracle ERP platform.
+
+2008 to 2009: First American Title Corporation, Dallas, TX
+- Systems Analyst, Oracle eBusiness Applications 11.5.10
+Met the challenge of managing the design and deployment of technical processes and software enhancements affecting the custom Oracle ERP SE Statements and AR Custom Print Statements produced by the largest title company in the nation.
+–Directed the efforts of a team of offshore developers, communicating work plans, timelines, expectations, and deliverables in accordance with corporate standards of quality.
+–Envisioned, developed, and implemented new Oracle eBusiness applications, contributing on a functional, technical, and business basis.
+–Identified, addressed, and resolved technical issues affecting production without compromising the productivity or momentum of operations.
+
+2006 to 2008: Essilor of America, Dallas, TX
+- P2P Lead, Oracle Applications 11.5.9
+Fulfilled a critical role leading a Chart of Accounts conversion project, as well as a CEMLI Remediation for On Demand project for this leading producer and distributor of optical lenses under the Airwear, Crizal, DEFINITY, and Varilux brands. Directed the actions of domestic and offshore developers while overseeing development efforts by third party consultants.
+–Led the design and implementation of modifications to existing SAS extracts from Oracle applications to an SAS system, deploying the changes to both QA and production environments.
+–Served an integral role providing production support for Oracle demand planning as well as multiple applications, including P2P, F2C, and O2C.
+–Successfully achieved all project milestones and deliverables on-time and within budget, making a direct and positive impact on organizational performance.
+
+2000 to 2006: Oracle Corporation, Irving, TX
+- Senior Principal Consultant
+Gained invaluable expertise and exposure to a full spectrum of Oracle products and project management responsibilities at this global computer technology corporation, advancing rapidly from an initial role as Principal Consultant to a senior role.
+–Managed multiple implementation projects for global clients spanning the manufacturing, technology, financial, and communications industries, meeting or surpassing all customer expectations.
+Key Client Engagements
+–Worthington Industries. Served as an Applications Technical Consultant contributing to the successful implementation of Oracle eBusiness 11.5.10, providing technical guidance for OM, Shipping – Load Building Extension and Quality/Shop Floor Custom Extension Module for a production facility; created an application that allowed Shipping to crate loads and communicate information to a 3PL provider.
+–Michael’s Stores Inc. Directed the efforts of contractors and technical teams around the globe engaged in the deployment of Oracle Procure to Pay and Financial Management Systems, with oversight of design, build, test, and conversion efforts.
+–PepsiCo. As Applications, Technical Consultant, Created and deployed requisition import adapter to interface with requisitions from Avantis system to Oracle Purchasing for large scale client implementation.
+–Universal Weather. Designed and customized a large-scale Oracle 11.5.8 ERP and CRM implementation that included iProcurement, order line workflow, Service Request notifications, iReceivables, and monthly billing information.
+
+Early Career
+Technical Consultant, UBICS, Pittsburgh, PA
+ERP Consultant, CIL, Hyderabad, India
+Software Engineer, Enjay Software, Hyderabad, India
+
+Education and Technical Proficiencies
+
+MBA – Southern Methodist University Cox School of Business
+
+Bachelor of Science in Electronics and Communication Engineering – Institution of Engineers, India
+
+Citizenship status: American citizen
+
+Contact this candidate

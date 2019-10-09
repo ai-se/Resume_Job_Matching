@@ -1,3 +1,4 @@
+Job Title = Senior Software Engineer
 
 Senior Software Engineer The Senior Software Engineer is responsible for producing and implementing functional software solutions.
 This position will work with the internal development team to define software requirements and provide leadership on operational and technical projects.

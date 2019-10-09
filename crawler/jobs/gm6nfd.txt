@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Schedule: 7pm-7am, rotating schedule
 Operate multiple assembly and packaging robots/stations

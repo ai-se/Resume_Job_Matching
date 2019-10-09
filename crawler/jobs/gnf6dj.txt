@@ -1,0 +1,21 @@
+Job Title = Technical Project Manager - Customer Technical Expert
+
+DescriptionWe are looking for a versatile & out of box innovator who will be at the forefront of cutting AI technology that is disrupting a combined $800 billion (and growing) industry for software build and operate services, selling into both the B2C and B2B markets.
+The Customer Technical Expert will take a project from Design to Delivery.
+These experts play the role of the product to the customer.
+Why We Need This Role Customer Technical Expert (CTE) will help us implement customer projects that are robust in development and technically sound.
+CTE will partner with Customer Product Expert (CPE) to work with the creators from the supply network to ensure that the code development and architecture is robust - that will allow CPE to deliver customer projects with minimized bugs and architecture that allows easy scalability.
+Why You Should Join This role will give you an experience of working on a plethora of bespoke software development projects delivered from an aggregated creator network.
+This role will give you an experience of delivering technical expertise at scale as well an opportunity to help build a programmatic model of working with a large aggregated network.
+Combination of both will be a unique experience and a specialised skill set in the new world of business and technical models.
+First Six Month Deliverables * On time delivery of the project (as per build card) * Code reusability * Code quality - number of bugs in 90 days post shipment * Customer tech team satisfaction feedback (where applicable) * CP Network Rating Requirements * Passionate about loosely held values and ideas.
+We want someone who has experience but is not blinded by the path already taken.
+* 8 plus years solid experience with wide range of web and mobile technologies, including at least 2 - 3 years in Ruby or JavaScript (React or Angular) cloud based ecosystems * 4 plus years solid experience as a technical lead, including at least 2 years in large scale product environment * A proven track record of senior level software engineering and architecture accomplishments in a high-capacity, large-scale, internet-based product platform * Comfortable of leading a team of capacity partner network based (i.e.
+outsourced and offshored) engineers capable of working on projects and at scale unlike any other they've encountered * Solid procedural and object oriented Software Engineering fundamentals.
+Strong understanding of and experience with code review tools and practices * Strong understanding of and experience with testing practices * Strong automation and CI / CD experience.
+Pivotal Tracker or Jira, Docker, CI/CD, GitHub tools experience, some would say you are a master.
+Benefits * Health and Wellness benefits * Performance-based bonuses and stock options * Generous vacation and time off benefits including paid holidays (24 holidays + 8 bank holidays) * Generally flexible working hours * Working in a WeWork office space in the heart of Paddington * A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it * Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

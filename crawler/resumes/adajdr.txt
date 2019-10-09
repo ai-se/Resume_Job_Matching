@@ -1,0 +1,132 @@
+
+HYUGRAE CHO
+adajdr@r.postjobfree.com, +82-10-866*-****
+Yangcheon-gu Shinjungro-11Gil 20 Dongilhighvill Apt 103-201, Seoul, South Korea
+
+Dear Hiring Manager,
+Thank you for the opportunity to apply for the senior software developer role at your company. After reiewing your job description, it’s clear that you’re looking for a candidate that is extremely familiar with the responsibilities associated with the role, and can perform them confidently. Given these requirements, I am certain that I have the necessary skills to successfully do the job adeptly and perform above expectations.
+I am a hard-working professional who has been consistently parised as proactive by my co-workers and management. Over the course of 18-year career, I’ve developed a skill set directly relevant to the senior software developer role you are hiring for, including application software development based on a solid architecture. Overall, I have consistently demonstrated leadership, problem-solving, and communication abilities in every aspect of my software developer and researcher role at Samsung Electronics, and I invite you to reviewe my detailed achievements in the attached resume.
+After reviewing my resume, I hope you will agree that I am the type of competent and competitie candidate you are looking for. I look forward to elaborating on how my specific skills and abilities will benefit your organization. Please contact me at +82-10-866*-**** or via email at adajdr@r.postjobfree.com to arrange for a convenient meeting time with any kinds of format.such as phone interview.
+
+Thank you for your consideration, and I look forward to earing from you soon.
+
+Sincerely
+Hyugrae Cho
+
+HYUGRAE CHO
+adajdr@r.postjobfree.com, +82-10-866*-****
+Yangcheon-gu Shinjungro-11Gil 20 Dongilhighvill Apt 103-201, Seoul, South Korea
+
+SUMMARY OF QUALIFICATION
+
+Project leader with strong communication skill, business administration background (MBA), and 3 years director experience
+R&D process expert in healthcare business field
+Software architect with various kinds of software structure including AI(tensorflow), web server/client, Windows GUI application, embedded Linux and so on
+18 years of professional software developer dealing C++/Java/Python/C#/Javascript
+5 years of collaboration experience with oversea research centers (US, India, Ukraine)
+
+PROFESSIONAL EXPERIENCE
+
+June. 2018 ~ present. Samsung Electronics Ltd. Healthcare Div., Seoul, South Korea
+(Principal Engineer, Project Leader in Advanced R&D Team)
+1. AI for detecting and predicting failure of medical systems.
+- Predicting error alarm or failure from analyzing log information of Ultrasound Medical System with Tensorflow RNN & Image Recognition
+2. Ultrasound Live Streaming Solution
+- Capturing Screen of Ultrasound system, and sending it through compressed video/audio stream with WebRTC protocol
+- Lead this project, and designed the framework and architecture
+
+Mar. 2016 ~ May. 2018 Samsung Medison Ltd., Seoul, South Korea
+(Director of Business Innovation Group)
+1. Healthcare Business Processes & Infra Systems
+- CRM (Customer Relationship Management, B2B Sales Support)
+: Business Opportunity Management System for Medical Device Partners (Distributors / Overseas Corporations)
+- GSIS (Global Service Information System, B2B service)
+: Mobile portal site for service engineer's daily task, issue tracking trouble shooting database.
+
+Oct. 2006 ~ Feb. 2016 Samsung Electronics Ltd. Healthcare Div., Seoul, South Korea
+(Senior Engineer, Project Leader of Advanced R&D Team)
+1. MRI Application / Image Reconstruction Framework
+- Design and implement the main console and image viewer of MRI system
+- Implement RMS(Remote Maintenance System) client
+- Design a pipeline architecture on GPU/CPU of image reconstruction
+2. Ultrasound System Beam Forming Framework
+- Design and implement Beam Forming Framework(Tx module of ultrasound system)
+3. Healthcare Business Infra System
+- Requirement Quality Management System (RQMS)
+: VOC / Service Complaint Escalation and Management
+- Remote Maintenance System (RMS)
+: Remote management of sold products and prediction of failure
+4. Blood Analyzer GUI Framework
+- Design and implement embedded custom framework of GUI based on QT GUI platform to improve productivity of development
+5. Video / Audio homenetwork Protocol
+- Build an architecture of video/audio sharing architecture in a homenetwork environment
+6. Big Data Analysis and Deeplearning
+- Failure Detection of healthcare devices (R / Python)
+- Breast Cancer Detection in Ultrasound system
+
+May. 2006 ~ Sep. 2006 DACOM Multimedia Intrnet Inc, Seoul, South Korea
+(Senior Software Engineer)
+1.DRM(Digital Right Management) Server in Multimedia Center by using Microsoft DRM Engine
+2.Image Viewer of web-hard system
+
+Feb. 2004 ~ April. 2006 Markany Inc, Seoul, South Korea
+(Senior Software Engineer & Team Manager)
+1. Document & Multimedia DRM Systems: DocumentSafer. ContentSafer. Document DRM System’s very strong point is to support CAD and MS Office Application for DRM. Also, ContentSafer’s is to support Windows Media Player and WinAmp.
+2. Image/Video/Audio Watermark
+
+Mar. 2000 ~ Jan. 2004 Telezen Co. Ltd., Seoul, South Korea
+(Junior Software Engineer)
+1. LMS (Learning Management System)
+2. Multimedia Authoring Tools
+3. Multimedia Conference System
+
+EDUCATION
+
+- Master of Business Administration, Sep. 2017 ~ May. 2019
+. Indiana University Bloomington, Indiana, USA
+. Sungkyunkwan University, Seoul, South Korea
+- Master of Electronic Engineering, Mar. 1999 ~ Feb. 2001
+. Sogang University, Seoul, South Korea (CPA : 3.85/4.3)
+- Bachelor of Electronic Engineering, Mar. 1994 ~ Feb. 1999
+. Sogang University, Seoul, South Korea (CPA : 3.14/4.3)
+
+QUALIFICATION AND SKILL
+1. R&D Management
+I have been working on R&D and business innovation at Samsung Electronics' medical device department, and I have learned how to manage R & D and change management according to the characteristics of the task for 12 years.
+In addition, I have experienced not only what I have learned by participating in the development of ultrasound system and MRI, but also the process of R & D and other organic relations with other roles in the field of business by establishing processes and promoting process innovation.
+Recently, I’m learning the importance of collaboration by leading a task force team composed with various members including Samsung’s oversea research centers. Also, as leader of R&D, I have the most important qualification of motivating organizations to achieve common goals as well.
+
+2. Development
+During my 18 years of software development experience, I have learned various development languages such as C ++ / Java / Python / C# / Javascript and have been using these for product development. I have developed the ability to design optimal software architecture while experiencing various products.
+Big Data & AI (Deep Learning)
+. Establishment of medical device failure prediction platform, Real-time prediction engine - Tube failure prediction of X-ray equipment
+. Development of Prediction Platform with Collecting IoT sensor information on a big data platform and using statistical analysis technique
+. Supports the development of engine to discriminate malignant / benign tumors from breast ultrasound images
+C/C++ with QT on Microsoft Windows (5 years)
+Ultrasound Remote Streaming Application (Jun. 2018~)
+MRI Console and Clinical Application (Jan. 2011~Oct. 2012)
+DRM(Digital Right Management) Agent(Jan. 2004~Sep. 2005)
+Multimedia Authoring Application for Cyber Education System(Mar. 2002~Dec.2003)
+Java / JSP / Spring (5 years)
+License Management and Rights Issuing System for DRM(Digital Right Management) (Oct. 2005~Sep. 2006)
+Development of Sequence Development Tool Kit for MRI Application Platform (Mar. 2010~Oct. 2011)
+Remote Service Web Application Version 1.0(Oct. 2012~Sep. 2013)
+Business Opportunity Management System for Medical Device Sales Partners (Mar. 2016~Dec. 2016)
+- Hybrid Mobile Application(Native App with Mobile Web) for Android and iOS
+Global Service Information System for B2B service (Jan. 2017~Dec. 2017)
+- Hybrid Mobile Application(Native App with Mobile Web) for Android and iOS
+Embedded C/C++ with QT on Embedded Linux (3 years)
+Blood Analyzer GUI / Remote Service Agent Application (Nov. 2007 ~ Aug. 2009)
+Home-network Security Platform and Framework (Oct. 2006~Oct. 2007)
+C#.net (2 years)
+Remote Service Web Application Version 2.0(Oct. 2013~Sep. 2015)
+Python (1 years)
+Ultrasound Beamforming Middleware, GUI platform (Sep. 2009~Feb. 2010)
+CUDA (1 years)
+High Performance Image Process Pipeline for MRI Image Reconstruction System(Mar. 2010~Feb. 2011)
+Database Management System (1 years)
+Oracle(3years), MS-SQL(2years), SQLite(2years), mySql(1year)
+3. Management consulting
+In addition to my enough work experience, I graduate MBA course(Executive MBA) of Indiana University and Sungkyunkwan University. It is a selecting program for talent education at Samsung Electronics (level of internal evaluation / interview process).
+
+Contact this candidate

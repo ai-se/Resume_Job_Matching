@@ -1,0 +1,85 @@
+Job Title = Engineer
+
+"
+Job Title: Engineer V
+Location: Brooklyn, OH
+44144
+Duration: 3 +Months Contract with FTE (Full Time)
+
+Job Description:
+Provide infrastructure
+delivery functions for virtualized server environments with specific
+focus on automation the of the server provisioning process using
+common DevOps toolchain platforms.
+Provide middleware delivery
+functions with specific focus on the automation of middleware
+provisioning for Data Analytic & RDBMS platforms using common
+DevOps toolchain platforms.
+Maintain a, ecosystem-wide view of
+the infrastructure delivery organization and provide continuous
+improvement services to Iaas / PaaS delivery models.
+Provide
+strong technical leadership and advocate toward continued progress of
+a DevOps driven infrastructure-as-code delivery model
+Provide
+excellent customer service with best-in-class communication and leadership
+
+Note: Seeking 2 resources, one at level VI and the other at V.
+
+The VI resource would be expected to be a leader on the team
+instantly, pulling people down our desired infrastructure automation
+paths.
+The V resource would be slightly less experienced but have
+the core skillset to eventually become a VI with respect to authority
+& leadership.
+
+Skill/Experience/Education
+
+Ability to think strategically and influence organizational
+direction. Independent thinker and self-starter. Ability to generates
+ideas. Strong innovation mind-set. General knowledge of foundational
+tenants of infrastructure delivery. Desire to grow into abilities to
+administer / manage all aspects of infrastructure delivery via
+training & hands-on experience. Desire to adopt a full stack
+skillset and demonstrate those skills technically &
+organizationally via advocation. Strong datacenter architecture skills
+specific to data / database architectures supporting high-availability
+& disaster recovery. Theoretical understanding of both the
+architecture and value of Infrastructure as a Service (IaaS),
+Platform-as-a-service (PaaS) & infrastructure-as-code via use of
+common DevOps toolchain platforms
+
+SECONDARY SKILLS:
+Administration of Windows /
+Linux OS platforms
+Experience with administration or development
+within common relational RDBMS platforms: Oracle, SQL Server &
+Postgres
+Experience with administration or development within
+common Data Analytics platforms with Hadoop foundations: Hadoop, IBM
+Big Insights, IBM BigSQL, Python, R, Spark
+Experience with
+administration of common enterprise class storage solutions (SAN /
+NAS)
+Experience with administration or development within common
+Data Analytics cloud platforms: Google Cloud Platform (GCP) or MS Azure
+
+Ideal Candidate:
+
+Deep skillset in at least ONE of the following with working
+knowledge of the others:
+Hypervisor administration:
+VMWare
+DevOps infrastructure delivery toolchain platforms:
+Terraform, Ansible, Puppet, Bitbucket
+Scripting: Python, Shell,
+PowerShell
+Knowledge of common data center architecture tenants
+including on converged / hyper-converged architecture, hybrid cloud
+and cloud models - provided by Dice
+
+Full Time
+
+
+Go to apply 
+

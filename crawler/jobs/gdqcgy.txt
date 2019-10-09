@@ -1,0 +1,46 @@
+Job Title = Engineer
+
+Responsibilities:
+
+* Design and implement REST APIs to support partner applications interfacing with a complex 3D modeling application
+
+* Work with other teams to refine project specs and API design & implementation
+
+* Communicate technical plans and schedules with peers
+
+* Fix bugs in all parts of the system
+
+* Proactively communicate status and roadblocks
+
+* Provide technical support to partners as they build applications using the REST API
+
+Required:
+
+* Bachelor's degree in computer science or related field
+
+* Experience and fluency in Java & JavaScript
+
+* Strong mathematical / algorithmic background
+
+* Ability to quickly become comfortable in a large codebase
+
+* Ability to design a good REST API with a strong understanding of compatibility and versioning
+
+* Ability to work independently
+
+* Effective communication and ability to work as part of a team
+
+* Willingness and desire to learn
+
+Preferred:
+
+* Experience developing a CAD application
+
+* Experience developing web, SAAS applications
+
+* Experience developing in a Mac or Linux environment
+SDL2017
+
+
+Go to apply 
+

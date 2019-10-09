@@ -1,3 +1,4 @@
+Job Title = Senior software engineer
 
 Job title: Senior Software EngineerLevel: Senior AssociateReports to: Technical Lead Main purpose of role & level in the business:As a Senior Software Engineer in Kainos, you'll be responsible for developing high quality solutions which impact the lives of users worldwide.
 You'll work as part of a team and report into the Technical Lead.

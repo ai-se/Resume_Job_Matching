@@ -1,3 +1,4 @@
+Job Title = Quality Assurance Engineer
 
 Software Methods is seeking a Quality Assurance Engineer for a 6+ month contract to hire opportunity at our client in the King of Prussia, PA area.
 We are looking for candidates with expertise in designing and architecting robust and scalable test automation framework as well as driving continuous improvement in testing processes.

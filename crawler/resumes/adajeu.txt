@@ -1,0 +1,593 @@
+
+Experience Summary
+Over **.* Years of diverse experience in Performance Testing and Engineering with expertise in requirements gathering, analysis, design, application testing & Quality Assurance of Web based applications, Client Server applications.
+8 + years of strong experience in SAP Performance testing\Engineering.
+Expertise in Test Planning, Test Cases Design, Test Environment Setup, Test Data Setup, Defect Management, Configuration Management.
+Execution of automated test scripts using HP Tools (Test Director/Quality Center, LoadRunner, and QTP), JMeter based on business/functional specifications.
+Proficient in different phases of testing like Sanity Testing, Functional Testing, GUI Testing, Regression Testing, Integration Testing, System Testing, Performance Testing, User Acceptance Testing (UAT).
+Involved in the complete Software Development Life Cycle (SDLC) and STLC
+Interact with Developers and Business Analysts to perform various types of testing throughout Software Testing Life Cycle (STLC) and Bug Life Cycle (BLC)
+Involved in defect reporting, defect tracking and defect reproducing
+Experience in defect\issue tracking tools like TFS\VSTS, Jira, Radar, QC.
+Involved in UAT testing, SIT Testing, Regression Testing and Functional testing
+Prepared Test Plan, Effort Estimation and Regression Checklist.
+Specialized in performance testing applications using load-testing tools such as Load Runner, Performance Center, Wily Interscope, Dynatrace
+Extensive experience in using LoadRunner in Web and Web services
+Strong knowledge of using Single and Multiple protocols in LoadRunner VuGen like Web Http, WebSevices, Ajax TruClient, SAP GUI, SAP Click and Script, Web Click and Script, Citrix ICA, ODBC and Oracle NCA.
+Good in using network sniffers like Fiddler, HTTP Watch.
+Setup monitoring tools and monitor appropriate layers to ensure complete coverage to identify performance issues and provide analysis and recommendations to improve performance of the identified bottlenecks
+Analyze the CPU Utilization, Memory usage, Network usage, Garbage Collection and DB Parameters and DB Reports to verify the performance of the applications.
+Good experience in providing Performance Tuning Recommendations
+Hands-on experience in using monitoring tools like Dynatrace, Splunk, etc.
+Involved in debugging performance bottlenecks by performing log analysis, thread dump analysis, memory dump analysis and other profiling tools.
+Expert in Leading QA Projects and mentoring Team Members
+Effort estimation for undertaking new project and prepare reports for the same.
+Ability to identify root causes and derive corrective actions to meet short and long term business requirements using resourceful approaches.
+Exceptional ability to build productive relationships with business users, test teams, development teams and clients across functional and technical disciplines and thus generating accurate and detailed business requirements.
+Ability to successfully manage multiple deadlines and multiple projects effectively through a combination of business and technical skills.
+Strong business analysis skills and thorough understanding of software development life cycle.
+Worked with business users to validate application meets their needs.
+Publish results and receive appropriate signoff. Prepare detail status reports, and monitoring of all defects and issues.
+Have been acting as an official trainer for the Performance tools LoadRunner
+Ability to master new technologies quickly.
+
+Skills Summary
+Domain
+ERP, Manufacturing, Banking, Aero Space, E-Portal & Securities, Insurance, Oil &Gas
+SAP Modules
+AA, AP,AR,FA,IMM,GL, PFR, OTC,RTR,HSC,HTR& PTP
+SAP Components
+SAP S/4 HANA, ECC, CE, BI, PI, BPC.
+Programming Languages
+C, C++, Java.
+Operating System / ERP Version
+UNIX, Windows XP, Windows Server
+Tools / DB / Packages / Framework / ERP Components
+HP Load Runner, HP Performance Center, HP Sitescope, Dynatrace, JMeter, Visual Studio, Fiddler, Perfmon, OATS/ Oracle8i/9i, MS SQL/ SAP, Oracle, JD Edwards, PeopleSoft HRMS,FAST HANA DB
+Load Runner Protocols
+Web(HTTP/Html), SAP (SAP Web & SAP GUI), Oracle NCA, Web Services, Ajax TruClient, Citrix ICA
+Project/Test Management Tools
+HP-Quality center, Microsoft Test Manager
+Optimization tools
+Perfmon, HTTP watch, Fiddler, Dynatrace, Wily Interscope, Splunk
+Hardware Platforms
+Intel Series
+
+Professional Certifications/ Trainings
+ISTQB foundation level certified.
+HP Load Runner certified
+Work Experience
+
+Project 21
+Project Name
+OTIS- Project OAK
+Team Size
+5
+Start Date
+July 2019
+End Date
+Till Date
+Project Description
+As part of OAK project (separation project for OTIS spin off from UTC), UTC corporate will handover business critical applications to OTIS which will be cloned and cleansed to have only OTIS data. These databases are very critical to the organization in terms of data sensitivity and business continuity. As part of the migration project the team will be doing the Performance testing\tuning for the applications like SuccessFactors, Workday HR, SAP, JDE,Salesforce, QlikView etc.
+
+Role & Contribution
+Responsible for LoadRunner Tool Installation and Configuration
+Responsible for creating Test Strategy, Test Plan and Time line for Performance Testing.
+Responsible for Requirement Gathering for different SAP and Non- SAP Work streams and creating test cases.
+Responsible for creating scripts using Web (HTTP/HTML), SAP Web and SAP GUI Protocol.
+Responsible for automating the Load Runner scripts on SAP FIORI, BI and BOBJ Reports.
+Responsible for co-coordinating with different teams across organization during the test execution and analyzing the test results.
+Responsible for creating scenarios, configuring load generators and executing the test in HP ALM PC
+Responsible for Interface/Backend Testing for OTC & PTP work stream
+Responsible for monitoring the system during the execution and identifying the bottle neck by using SAP T-codes (ST12, ST22, SM66, ST06, ST03 etc.)
+Responsible for co-coordinating and monitoring the SAP systems during Backend/Interface Testing.
+Responsible for creating defects and managed defect like cycle.
+Responsible for creating Performance Report and presenting the results to Business team.
+Responsible for tracking the Performance changes and co-coordinating with deployment team to have changes implemented in the Production system.
+
+Tools
+HP ALM, Load Runner 12.53,
+
+Project 20
+Project Name
+Apple SAP Performance Engineering
+Team Size
+3
+Start Date
+April 2018
+End Date
+June 2019
+Project Description
+Involved in testing the new implementation of SAP S/4 HANA 1610 within
+Apple Inc is a multinational corporation headquartered in California that designs, develops, and sells consumer electronics, computer software and personal computers. It is best-known hardware products are in line of computers, music player, smartphones, and the tablet computer. I have been involved in performance testing a number of Apps running on a variety of platforms ranging from legacy systems to Web and SAP Apps.
+
+Role & Contribution
+Responsible for creating Test Strategy, Test Plan and Time line for Performance Testing.
+Responsible for Requirement Gathering for different SAP Work streams and creating test cases.
+Responsible for creating scripts using Web (HTTP/HTML), SAP Web.
+Responsible for co-coordinating with different teams across organization during the test execution and analyzing the test results.
+Responsible for creating scenarios, configuring load generators and executing the test in PC
+Responsible for monitoring the system during the execution and identifying the bottle neck by using SAP T-codes (ST12, ST22, SM66, ST06, ST03 etc.)
+Responsible for co-coordinating and monitoring the SAP systems during Backend/Interface Testing.
+Responsible for creating defects and managed defect like cycle.
+Responsible for tracking the Performance changes and co-coordinating with deployment team to have changes implemented in the Production system.
+
+Tools
+iEval, Radar, Load Runner 12.53, Dynatrace
+
+Project 19
+Project Name
+SAP S/4 HANA 1610 Implementation Performance Testing
+Team Size
+2
+Start Date
+Jan 2017
+End Date
+Mar 2018
+Project Description
+Involved in testing the new implementation of SAP S/4 HANA 1610 within Tesoro and measuring the Performance of the work stream accessed through UI SAP FIORI for ProjectOne.
+
+Role & Contribution
+Responsible for LoadRunner Tool Installation and Configuration
+Installation of FAST framework
+Responsible for creating Test Strategy, Test Plan and Time line for Performance Testing.
+Responsible for Requirement Gathering for different SAP Work streams and creating test cases.
+Responsible for creating scripts using Web (HTTP/HTML), SAP Web and SAP GUI Protocol.
+Responsible for automating the Load Runner scripts on SAP FIORI, BI and BOBJ Reports.
+Responsible for co-coordinating with different teams across organization during the test execution and analyzing the test results.
+Responsible for creating scenarios, configuring load generators and executing the test in HP ALM PC.
+Responsible for Interface/Backend Testing for HSC, OTC & PTP work stream
+Responsible for monitoring the system during the execution and identifying the bottle neck by using SAP T-codes (ST12, ST22, SM66, ST06, ST03 etc.)
+Responsible for co-coordinating and monitoring the SAP systems during Backend/Interface Testing.
+Responsible for creating defects and managed defect like cycle.
+Responsible for creating Performance Report and presenting the results to Business team.
+Responsible for tracking the Performance changes and co-coordinating with deployment team to have changes implemented in the Production system.
+
+Tools
+HP ALM, HP Load Runner 12.53
+
+Project 18
+Project Name
+JCI – SAP ECC Migration
+Team Size
+2
+Start Date
+Dec 2016
+End Date
+Jan 2017
+Project Description
+JCI to adopt this new change IT systems supported by SAP needs to undergo lot of changes in their current functionality. SAP will be providing necessary changes in the SAP system to comply with the new GST requirement. To measure the performance of the upgraded system performance testing is proposed where singer user manual performance testing and automatic load testing activities would be carried out to check parameters such as System response time, Security, Reliability, Accuracy etc.
+Role & Contribution
+Engage client to gather software requirements/business rules, and ensure alignment with development teams
+Translate stakeholder requirements into deliverables such as functional specifications
+Responsible for creating scripts using Web (HTTP/HTML), SAP Web and SAP GUI Protocol enabling FAST in the test systems.
+Evaluate risks related to requirements implementation, testing processes, project communications
+Tools
+HP ALM
+
+Project 17
+Project Name
+Marsh QSG - USA
+Team Size
+8
+Start Date
+Oct 2016
+End Date
+Dec 2016
+Project Description
+Marsh a global leader in insurance broking and risk management, Marshâs newly formed Qualified Solutions Group is an industry leading placement center built to drive a more effective process and outcome for Property, Casualty, and FINPRO placements and drive much needed change in the industry
+Role & Contribution
+Requirement Gathering and signoff
+Project Plan and Test Strategy document preparation
+Identify the scope
+Installed HP QC and PC
+Configured FAST to the existing test systems
+Design and develop the test cases using FAST automation framework,
+Test Execution with FAST and auto upload results to HP QC.
+Result Analysis
+Tools
+HP Quality Center, MS office
+
+Project 16
+Project Name
+Northbridge Duck Creek Performance Testing
+Team Size
+2
+Start Date
+May 2016
+End Date
+Oct 2016
+Project Description
+Provided Performance Testing Services to Northbridge Duck Creek web application. Duck Creek Policy software is a complete policy management administration. Validating the performance of a Duck creek web application with the load and stress test.
+Role & Contribution
+Microsoft Visual Studio Environment Setup and Configuration.
+Configuration of FAST framework with VSTS tool
+Dynatrace installation\ configuration
+Requirement Gathering and signoff
+Participated in scrum meetings.
+Project Plan and Test Strategy document preparation
+Identify the scope
+Test Execution for 200 and 300 users
+Result Analysis
+Tools
+Microsoft Visual Studio 2015, Dynatrace
+
+Project 15
+Project Name
+IRDA SAP Performance Testing
+Team Size
+4
+Start Date
+Feb 2016
+End Date
+Apr 2016
+Project Description
+Provided Performance Testing Services to IRDA for SAP Netweaver Portal and Business Objects solution covering both OLTP and OLAP systems.
+Load testing will be carried out with 250 concurrent virtual users and stress test using maximum of 350 concurrent virtual users.
+Role & Contribution
+HP Load Runner Environment Setup and Configuration.
+Requirement Gathering and signoff
+Project Plan and Test Strategy document preparation
+Identify the scope
+Responsible for creating scripts using Web(HTTP/HTML), SAP Web with FAST framework
+Execute the baseline and load test for 250 and 350 concurrent users
+Result Analysis
+Tools
+HP Load Runner 12.50
+
+Project 14
+Project Name
+Veolia JDE Upgrade Performance Testing
+Team Size
+5
+Start Date
+Sep 2015
+End Date
+Dec 2015
+Project Description
+Veolia Water application is a JD Edwards application which is involved in water treatment solutions for cities and industries. It provides customized solutions in variety of industrial sectors. To test the performance of the JDE application after migrating JDE 7.1 to JDE 9.0 on the Pre-Production environment to ensure performance. It is a web based application. Done the Load Test for 1000 users for three environments namely AMERICAS, APAC & EMEA.
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Involved in Performance center installation
+Configured FAST in test machines
+Design and develop the load runner scripts using FAST
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02, HP Performance Center
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 13
+
+Project Name
+Ingram Micro Hyperion Performance Testing
+Team Size
+5
+Start Date
+June 2015
+End Date
+July 2015
+Project Description
+L&T InfoTech will provide the below performance testing Services for Oracle Hyperion application system to ensure the application performance are meeting as expected. Executed 50,100, 125 users load test.
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Installed the FAST in existing Load Runner environment
+Preparing Test Plan and Project plan
+Executed load test for 50,100,125 concurrent users using FAST
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02, Fiddler
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 12
+Project Name
+Thales LiveTV Migration Performance Testing
+Team Size
+4
+Start Date
+Mar 2015
+End Date
+June 2015
+Project Description
+To test the performance of the SAP GUI application after migrating OS platform from x to y on the Pre-Production environment to ensure performance. Executed the Load Test for 100,200 and 400 users.
+
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Design and develop the scripts.
+Install and configure the Load Runner in all the test machines.
+Configure the FAST framework in all the test Machines.
+Executed load and stress test for multiple iterations with FAST
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 11
+Project Name
+Performance Testing Monthly Release(Ingram Micro)
+Team Size
+2
+Start Date
+Jan 2013
+End Date
+Dec 2015
+Project Description
+Ingram micro is conducting a monthly update of patches on the production system and that require performance testing to be carried out for updated patched release.
+Role & Contribution
+Test data validation
+Design and develop the Load Runner scripts.
+Implemented FAST framework in regression testing and got the fruitful results by saving 40% of scripting effort.
+Executed Baseline and Load test using FAST framework.
+Executed Volume test
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02, HP Performance Center
+
+Project 10
+Project Name
+Thales Implementation Performance Testing
+Team Size
+5
+Start Date
+Jan 2015
+End Date
+Mar 2015
+Project Description
+To test the performance of the SAP GUI application after newly Implementing on the Pre-Production environment to ensure performance as expected. Executed the Load Test for 100,200 and 400 users.
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+HP LoadRunner installation and configuration
+FAST framework installation
+Preparing Test Plan and Project plan
+Design and develop the scripts with FAST framework
+Test data preparation
+Executed load and stress test by enabling the FAST in controller machines.
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02, HP Performance Center
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 9
+Project Name
+ATMEL SAP Performance Testing
+Team Size
+3
+Start Date
+Sep 2014
+End Date
+Dec 2014
+Project Description
+Atmel SAP Performance Testing is to provide performance testing services for migrated Pre-Production system to ensure the business processes are running in migrated SAP ECC5.0 as intended. To make sure the SAP ECC 5.0 Application performance is not impacted after migration from Solaris to Linux. Atmel Corporation is a worldwide leader in the design and manufacture of microcontrollers, capacitive touch solutions, advanced logic, mixed-signal, nonvolatile memory and radio frequency (RF) components.
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Install and configure the FAST framework in all the SAP machines
+Design and develop the Load Runner scripts using FAST framework
+Executed load and stress test for multiple iterations by enabling the FAST in all the controller and LG machines.
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02, HP Performance Center
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 8
+Project Name
+Enovia Performance Testing (Eaton)
+Team Size
+1
+Start Date
+May 2013
+End Date
+Jul 2013
+Project Description
+Enovia is web based application which deals entire product development life cycle.Eaton is conducting a monthly update of patches on the production system and that require performance testing to be carried out for updated patched release.
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Design and develop the load runner scripts
+Execute the smoke test
+Create the test data for the load, stress and soak testing.
+Executed incremental load
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02, HP SiteScope
+
+Project 7
+Project Name
+OBIEE Reports performance Testing (Eaton)
+Team Size
+2
+Start Date
+May 2013
+End Date
+July 2013
+Project Description
+OBIEE is a web based Application, we have done performance testing on reports generation by providing some prompts values according to business requirement.
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02. HP SiteScope
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 6
+Project Name
+IBM Cognos 8 Reports performance Testing (Eaton)
+Team Size
+2
+Start Date
+Dec 2012
+End Date
+Jan 2013
+Project Description
+IBM Cognos is an web based Application, we have done performance testing on reports generation by providing some prompts values according to business requirement.
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner12.02, HP Performance Center
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 5
+Project Name
+KHOV JDE Enterprise One 9.0 Upgrade
+Team Size
+1
+Start Date
+Dec 2012
+End Date
+Jan 2013
+Project Description
+KHOV Is currently performing an upgrade of their current JD Edwards ERP to ERP 9.0
+
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Design and develop the load runner scripts
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner 9.5
+
+Project 4
+Project Name
+Vehicle JD Edwards 9.0.2 Upgrade
+Team Size
+1
+Start Date
+Nov 2012
+End Date
+Dec 2012
+Project Description
+Vehicle group is planning to upgrade the JD Edwards ERP System from version 8.9 to 9.0.2 and requires support to regression test interfaces into Oracle Financials
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner 11, HP Performance Center
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 3
+Project Name
+HRMS PeopleSoft
+Team Size
+6
+Start Date
+Aug 2012
+End Date
+Sep 2012
+Project Description
+This project is to Provide Performance Testing Services for HRMS on PeopleSoft application Migrate from Dallas location to Chicago
+
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner 9.5
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 2
+Project Name
+OSHKOSH Performance Testing on JDE 9.0 application Upgrade
+Team Size
+5
+Start Date
+Jul 2012
+End Date
+Aug 2012
+Project Description
+This project is to Provide Performance Testing Services for Oshkosh on JDE 9.0 application Upgrade
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner 11, HP Performance Center
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Project 1
+Project Name
+WhiteCap Performance Testing-HD Supply
+Team Size
+5
+Start Date
+Apr 2012
+End Date
+July 2012
+Project Description
+This project is to performance test oracle application for complete Enterprise functionality from Order Management, purchasing, pricing and Inventory. As a part of this project up gradation of HP Performance Center from 9.5 to 11.0 was conducted
+
+Role & Contribution
+Requirement Gathering and Signoff
+Identify the scope.
+Preparing Test Plan and Project plan
+Executed load and stress test for multiple iterations
+Result Analysis
+Report Presentation.
+Tools
+HP Load Runner 11, HP Performance Center
+Key Achievements
+Go Live went Success without any performance bottlenecks.
+
+Educational Qualification
+Education & Credentials
+Bachelor of Engineering (BE Mechanical.) in 2007.
+
+Other Experience
+Title
+LTI – Test Lead
+Start Date
+Mar 2012
+End Date
+Sep 2019
+Title
+Global ERP Solutions Pvt. Ltd. – Software Test Engineer
+Start Date
+Apr 2008
+End Date
+Mar 2012
+
+Contact this candidate

@@ -1,17 +1,51 @@
+Job Title = Embedded Or Ins Or Gps Or Flight jobs in Raleigh, NC, 27606
 
-We have an immediate need for an individual with real-world experience with strong GPS INS experience. This contract opportunity is for approximately 6 plus months. Very competitive hourly rates and medical/dental/vision benefits are available. This project is for a commercial rocket development program. You can work from home with occasional light travel. Good oral and written communication skills are required.
-Job Requirements:
-5+ years recent experience with GPS INS
-Experience with EGI, SIGI or Kalman filters is highly desirable but not required
-Bachelors degree or above
-Good oral and written communication skills
-This position requires candidates to be U.S. Persons (a U.S. Citizen, a U.S. Permanent Residency (I-551), status as a Political Asylee, or status as a Refugee)
-About Performance:
-Performance Inc. is engaged in the design of Real-time Embedded Software. This includes avionics and healthcare applications such as CT Scanner, Synthetic Vision Cockpit Displays, Flight Management System Guidance and Navigation, Platforms (I/O, BITE, Driver, Boot, BSP, DSP, A/D, Dataloader), and Datalink Applications (FANS, VDL Mode 2, ATN, CPDLC). Our customers are both Commercial and Defense related healthcare and avionics manufacturers.
-We have locations in Phoenix, AZ, New Orleans, LA, Grand Rapids, MI, Clearwater, FL, Bothell, WA, and Cedar Rapids, IA. We have been in business since 1998 and have been awarded INC 5000 Fastest Growing Companies and Best Places to Work in Arizona for multiple years.
-To learn more about us:
-Performance Inc. is an Equal Opportunity/Affirmative Action Employer.
+Aerotek, An Allegis Group Company  – 
+Raleigh, NC
+Job Summary Aerotek is currently seeking an Hardware/Embedded Software Engineer! We have a six month contract to hire ... Some travel supporting system design and flight testing will be required. Requirements: BS degree or higher in CS, EE, ...
+- Neuvoo, Oct 04
 
+Flight Safety  – 
+Durham, NC, 27703
+... Ensure classroom equipment, flight training devices (FTDs) and scheduled simulators are ready for client training events. Integrate Crew Resource Management (CRM)/Human Factors training with technical (procedural) training. Utilize Customer's ...
+- Lensa, Sep 30
 
-Go to apply 
+091 Cigna Health & Life Ins. Co.  – 
+Raleigh, NC, 27601
+It's fun to work in a company where people truly BELIEVE in what they are doing! We're committed to bringing passion and customer focus to the business. Onsite Health Educator Cigna Onsite Health At Cigna, we listen to, advocate for, and collaborate...
+- Lensa, Oct 05
 
+Worldwide Flight Services  – 
+Morrisville, NC, 27560
+... prepares all flight documents; interfaces with U.S. Customs; prepares all import and export documentation, and accepts/distributes cargo in accordance with applicable air carrier and Department of Transportation (DOT) regulations. Complies lists of ...
+- Jobs2Careers, Oct 06
+
+Next Generation Technology, Inc.  – 
+Raleigh, NC, 27601
+Requirements Minimum experience 4 years ideal profile 6-8 years Must have Automotive industry experience Solid understanding of wireless protocols, LTE, 5G, UMTS, GSM Full stack development experiences with C/C++, embedded systems, APIs Development ...
+- Jobg8, Oct 02
+
+UNC Health Care  – 
+Chapel Hill, NC
+Description Thisposition may involve support of various hospitals and health care systemswithin the UNC Health Care System, but will be employed by Rex Hospital, Inc.(this includes, but is not limited to, for purposes of payroll, healthbenefits...
+- Neuvoo, Oct 09
+
+Delta Global Services  – 
+Raleigh, NC, 27601
+... Reads and verifies the city and flight number for every bag to ensure correct loading of customer bags. Communicates with Operations, Flight Crew personnel and other ground personnel concerning arrival/departure information in a professional manner. ...
+- Jobs2Careers, Oct 08
+
+UNC Health Care  – 
+Chapel Hill, NC
+Description Thisposition may involve support of various hospitals and health care systemswithin the UNC Health Care System, but will be employed by Rex Hospital, Inc.(this includes, but is not limited to, for purposes of payroll, healthbenefits...
+- Neuvoo, Oct 01
+
+UNC Health Care  – 
+Chapel Hill, NC
+Description Thisposition may involve support of various hospitals and health care systemswithin the UNC Health Care System, but will be employed by Rex Hospital, Inc.(this includes, but is not limited to, for purposes of payroll, healthbenefits...
+- Neuvoo, Oct 07
+
+UNC Health Care  – 
+Chapel Hill, NC, 27517
+This position may involve support of various hospitals and health care systems within the UNC Health Care System, but will be employed by Rex Hospital, Inc. (this includes, but is not limited to, for purposes of payroll, health benefits, retirement...
+- Jobs2Careers, Oct 05

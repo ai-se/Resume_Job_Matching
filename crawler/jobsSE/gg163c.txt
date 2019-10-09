@@ -1,3 +1,4 @@
+Job Title = Development Engineer II
 
 This role is involved in the next generation explicit dynamics solution. Develop and maintain code mostly in C++ and QT. Specify and implement capabilities in Nastran and Dytran nonlinear explicit solutions. Understand and develop user requirements, create design documents, perform coding to implement the designs, initiate the testing of the developed capabilities and assist in correcting any deficiencies. Have massive opportunities to work with highly skilled and experienced computation engineers and scientists.
 

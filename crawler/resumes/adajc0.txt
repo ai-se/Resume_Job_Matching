@@ -1,0 +1,64 @@
+
+Ben Mathew
+Mobile: 321-***-****
+Address: ** ******* ******, **** ****, CA-94014
+Email: adajc0@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/dbm0204
+GitHub: https://www.github.com/dbm0204
+Education
+Florida Institute of Technology
+Degree Name: Master of Science (MS)
+Field of Study: Computer Science
+Grade Point Average: 3.9 out of 4.0
+Dates attended: August 2017 – May 2019
+Graduated with MS in Computer Science by Thesis in May 2019, with first rank in the graduating Class/in the University. The major masters level courses completed are: Computer Science Thesis
+(CSE 5999),Applied Discrete Mathematics (MTH 5001); Android Programming (CSE 5510);Cryptology
+(CSE 5678); Formal Language & Automata Theory (CSE 5210); Data Mining (CSE 4510); Network Programming (CSE 4232); Programming Language Concepts (CSE 4280); Software Design Methods
+& Pattern (CSE 5760) & Audited courses: Machine Learning (CSE 5693) & Robotics (CSE 5694) Florida Institute of Technology
+Degree Name: Bachelor's degree (BS)
+Field of Study: Computer Science
+Grade Point Average: 3.0 out of 4.0
+Dates attended: 2012 – 2016.
+(NB: Initial two years of this degree course was attended at Manipal University, India from 2012 to 2014 and the course was transferred to Florida Institute of Technology where the final two years were studied, and the four-year BS degree awarded in July 2016 by Florida Institute of Technology.) Experience
+Florida Institute of Technology
+Company Name: Florida Institute of Technology
+Dates Employed: Aug 2018 – May 2019
+Location: Melbourne, Florida Area
+During Graduate studies at Florida Tech, I worked as GSA under three senior professors tutoring their students in subjects like Theoretical Computer Science, Java, C++ and Python. Here I graded student’s programming assignments; proctored periodical exams and conducted office hours for classes of strength 60-80students approx. Created and graded programming assignments for the entire class in CS 1001 (C programming), CS 2050 python programming and CS 4250 (Programming Language Concepts). This was achieved by BASH scripts QA Automation Intern
+Company Name: Ascendify Inc
+Dates Employed: May 2018 – Aug 2018
+Location San Francisco Bay Area
+Developed Testing frameworks using Selenium, python, Docker & Kubernetes to perform regression tests and white box tests. Developed automated tests for a cloud platform for Talent Acquisition & Talent Management. Single-handedly ported existing legacy test frameworks to run in containers on Docker on Kubernetes. Used Jenkins, Docker, Selenium, and Allure to develop a continuous integration tool to support common developer workflows. Also assisted external teams with black-box testing. CS Trainee/Software Engineer
+Company Name: US Citrus
+Dates Employed: Sep 2016 – May 2017
+Location: McAllen, Texas Area
+Developed Test Plan for testing US Citrus’s Web Application and automated plans in Selenium Web driver for the e-commerce website. Assisted in Full Stack Development and did automated cross-browser tests using Selenium Grid. Developed Data Management Services for maintaining relative temperature and humidity for greenhouses using Splunk Search Engine API. Developed in-house messaging mobile application for communication and reporting information amongst employer and employees. Technologies used: Jenkins, Docker, Kubernetes, Selenium Allure, AWS and Android Development. Software Automation Engineer
+Company Name: Pied Parker
+Dates Employed: Nov 2016 – Apr 2017
+Location: Palo Alto California (Remote)
+Tested web version of Pied Parker application, which connects users who own private parking spaces to other users who are looking for parking near their destination without having to pay the high prices for street or public garage parking. Wrote and executed automated test cases for various functionalities of the application in accordance with business, technical and functional requirements. Validated application’s GUI for compliance with usability guidelines published by the US Department of Health and Human Services and Industry standards. Performed functional, smoke and regression testing of the new build. Logged and tracked software bugs via Bugzilla tracking system. Coordinated with the development team to resolve issues and verify fixes.
+Software Test Engineer-Automation
+Company Name Harris Institute for Assured Information Dates Employed: Mar 2015 – Aug 2016
+Location: Melbourne, Florida Area
+Developed Automated Testing Framework for Peer to Peer Network (DDP2P) in TestNG Exploited Bug found to Stage Denial of Service Attack on Network.
+• Measured the bandwidth loss in Connected Peers with Wire shark.
+• Studied graphical interpretation of Loss-Bandwidth versus Time
+• Technology Used: Java, TestNG, Wireshark.
+Mobile Developer Research Intern- Android
+Company Name: IIT Bombay Gigabit Networking Lab
+Dates Employed: May 2015 – Aug 2015/ Summer Internship. Location: Mumbai Area, India.
+Developed a Network Management Tool on Android platform which communicates with the local NMS server for performing network management functions. After creating a connection with the local NMS server, it enables the user to perform several operations such as network discovery, service provisioning/de-provisioning, firmware upgrade, etc. Offline network planning is also supported for ECR router family. Specifications: Built for tablets with Android version 4.4 and above. A gratifying aspect for me is that the outcome of this work of mine was being employed as a basic feature in further research work in this Lab. Projects
+Project Name: Master's Thesis: Space and Time Optimization of Relational Schemas in 3rd Normal Form (Jan 2018 – April 2019) {Technologies: Java, SQLite Database} Project: Conducted experiments to measure the space taken by Databases and the time taken for queries to execute on Multiple versions of a Database derived from the same Canonical Cover. The main goal of this experiment was to justify that the Canonical Cover in 3rd Normal Form is not unique and to find correlation between space taken by the database & the time taken to execute queries. The thesis has been published with the following link: https://repository.lib.fit.edu/handle/11141/2895. Project Name: Classification of Heart Abnormalities Based on Heartbeat Rhythm using CNN (Machine Learning) August 2018 – December 2018 Project description: Built a Convoluted Neural Network (CNN) that identifies heart abnormalities based on Mel-frequency Cepstral Coefficients (MFCC). The MPCC samples have been derived from heartbeat audio signals. The classifying model shows an accuracy of 96%. This project is under review of Journal “Artificial Intelligence in Medicine” for publication.
+Project Name: Classification of Patients based on Likelihood of heart diseases using Tree classifiers (Machine Learning) Mar 2016 – Jun 2016 Project description: Implemented a prediction model using decision tree classifiers to predict the likeliness of a patient having heart related diseases.
+• Input for the prediction model included Patient age, gender, weight (in kg), Height (in cm) Blood sugar level, Cholesterol Level, etc.
+• Created unit-test cases for the above prediction model in Pytest
+• Accuracy of Model: 85% & Technology Used: Python, Pytest Project Name: Fixed Bugs On 7-zip Using Microsoft HTML Help API Project description: Fixed Several Bugs that were prevailing in the 7-zip compression software as a Project to the Introduction to Software Engineering Course specifically relating to Help Documentation using Microsoft HTML Help API. Project Name: Android Application: MediReminder
+Project description: Developed and published an android application that keeps track of a patient’s medicine, showing both the dosage and the time the patient needs to take them. This application makes use of android database content provider to store relevant data. This application also alerts the user when it is time to take the medicine.
+Project Name: Speech Recognition Application using Discrete Fourier Transform Project description: Year 2017-2018: Developed a speech recognition application that voice to a time series waveform. The application applies a Discrete Fourier Transform to the above waveform over a time interval of 20 seconds and converts it to an equivalent waveform in the Frequency domain. Conducted extensive speech analysis on given samples with the developed tool. Project Name: Speech Recognition using Convolutional Neural Networks
+(Machine Learning) Project description: Year 2018-2019: Developed a Convoluted Neural Network for a Voice Controlled Gyrocopter that identifies and categorizes keywords spoken by different people into 4 distinct categories, “up”, “down”, “left”,
+“right”. The model is built using TensorFlow as backend. The model shows 91% accuracy on the validation training set. It shows 89% accuracy on the test data set. Skills
+Operating Systems Windows, Linux, Mac OS, Android
+Virtualization Docker, Kubernetes, VMWare, Oracle VirtualBox Languages and Frameworks C/C++, Java, Python, Go, Scala, .Net, Splunk, TensorFlow, React JS, Ruby, HTML5, Maven. Selenium, Aurelia, Cordova, Ionic, Postgres, MySQL, Junit, jQuery, Meteor, PhoneGap, Wireshark, Appium, AWS, BASH, Allure. Tensorflow, PyTorch, PyTest.
+Testing Methodology Whitebox, Blackbox & Grey Box Testing, Regression Testing
+
+Contact this candidate

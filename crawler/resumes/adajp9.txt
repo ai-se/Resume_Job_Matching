@@ -1,0 +1,85 @@
+
+Muhammad Umer *
+Muhammad Umer
+Gulf East Industrial Area,
+Street#**,****#**,****,
+Qatar
+E-mail: adajp9@r.postjobfree.com
+Phone: +974********
+Whatsapp : +659*******
+OBJECTIVE A self-driven individual with multi-vendor experience in designing, implementing & troubleshooting Networks and Systems.Always looking to take up new challenges in the fields of networks, cloud, open-source technologies, automation & infrastructure transformations.
+EDUCATION B.E Electrical
+(Telecommunication) at Military
+College Of Signals
+2009 — 2013
+National University of Sciences and Technology (NUST),Islamabad LGA Telecom Pte Ltd Singapore
+March 2019 — August 2019
+Network Systems Engineer (Contract) E-pass holder
+LGA Telecom Pte Ltd is a leading Internet Service Provider in Singapore.The company also provide Network and Security solutions to the corporate level companies in Singapore.I as a Network System and Security Engineer was in System Integration Team.My job responsibilities are given below:
+Designed and proposed L3VPN solution for core Layer in the ISP cloud by using MPLS data plane and MP-BGP control plane.
+Configured NAT in Fortinet Firewall between private and public cloud in order to provide internet access to different customers.
+Configure and install Layer-3 Cisco 881 and 941 Routers at different sites and troubleshoot problems related to internet services.
+Configure Mikrotik Wifi router at different sites of customers and verify internet and intranet connection and IPSec VPN.
+Configure and troubleshoot Fortinet Firewall and verify failover using VRRP or HSRP protocol.
+Configure EBGP for WAN redundancy and failover towards different curtomers and provide internet services.
+Make Daily and Weekly reports regarding all on-going and up-coming activities and Network Logs.
+Make presentations on NDFD Solution to provide internet and intranet facility to customers.
+Provide Level-2 support to the 24/7 Technical Support team of LGA Telecom Pte Ltd.
+Configure TP-link Archer MR-400 routers and installation of router at Car Parking System for different customers in Singapore and provide intranet access towards LTA.
+Verify connection with Vendor of Car Parking System and integrating their system with LGA router and towards LTA.
+Verify remote connection towards On-site from Office. ZTE Corporation
+May 2014 — Dec 2018
+IP/MPLS Network Engineer
+Worked on Cisco Nexus routers and switches.
+Lock the network design of the project while involving all
+stakeholders.
+Capacity planning of the routers for each phase of the project.
+Produce documentation of the project: LLD/HLD/Integration.
+Plan/PAT document & BOQ preparation.
+Prepare configuration script of the CE’s.
+IP planning & integration of CEs with PE, BSC/RNC & TXN Node.
+Analyze existing network capacity and performance so that current and future needs are ensured.
+Optimize network design and update technical documentation from time to time.
+Upgrade routers upon new OS release.
+Managed team of IP engineers as acting team lead for interim period Managing services of LAN and WAN network of a telecom operator Jazz. Installed and configured the ZXCTN 9000 - E router and configured the VLANs,VRRP and routing protocol OSPF (LAN Protocols).
+Troubleshooting problems related to traffic from CE ZXCTN 9000 - E router to BSC/RNC,microwave and transmission of Mobilink.
+Shifting the network traffic of Mobilink transmission from one CE ZXCTN 9000 - E router to another by using VRRP redundancy protocol.
+WORK
+EXPERIENCE
+Muhammad Umer 2
+Co-ordinating with customer(Mobilink) in order to resolve IP related issues. Lead in designing & implementing of network solution comprising of routers, L2/L3 switches, BRAS, ATM switches, VPN/firewalls, Wi-Fi and other core and access technologies. Conscript and validate MOPs (method of procedure) as for network operations personnel ensuring network safety and mitigating any possible risks in the MOP Packet core network design, site survey, installation, commissioning, integration, acceptance test and cutover.
+Produce technical documentation (design documents, network diagrams, presentations) when necessary. Interacting with operation teams and delivering presentations for technical issues when required. Ensuring installation, configuration and maintenance of ZTE routers,switches and firewalls. Ensuring the commissioning and testing of OSPF, MPBGP (WAN Network), EBGP(WAN Protocol), BGP(WAN Protocol), and MPLS according to the design. Deployment of IPMPLS nodes to cater the requirement of project Handle ABIS/IP Project of 3689 sites.
+Configured and deployed linux base kernel OMMB server and ensured complete connectivity of server with router for the activation of 4G Sites
+Configured and deployed NMS server and configured SNMP protocol to integrate it with routers for network mangement and created NEs.
+Configured,managed and troubleshoot about 20 layer-3 devices in about 10 cities in all over Pakistan and ensure smooth execution of network.
+Achievement:
+Outstanding Performance Award- Jan 2016 ZTE, Pakistan Ovex Technologies
+May 2013 — May 2014
+Network Virtualization Engineer
+Mainly responsible of Datacenter deployment and maintenance. Manage the team to provide level 1 backup support and provide level 2 escalation supports. Plan, organize, control IT data operations on site. Manage the deployment, operation and maintenance of IT systems supporting business activities, in close collaboration and coordination with all teams (Software, Network) IT system contains about 1000 OS instances Linux (Centos) and Windows Server (2012, 2016), Windows Client (10) About 40 different applications to deploy with specific configuration for each OS instances Storage with SAN : Compellent Series
+Live Volume Uniform / non-uniform configuration
+Deployment of operating systems (Windows & Linux) on server / virtual machines on VMware through deployment tools already installed
+Migration of operating systems (upgrade of version, Windows to Linux for some applications) Backup and restore virtual machines
+IT Systems Administration, Installation, Configuration, Audit, Performance analysis and Troubleshooting on all components. Key Technical Skills:
+Networking : Deep Knowledge of network protocols OSPF,BGP,EIGRP,RIP,DMVPN, IPSEC VPN. Datacenter: In depth experience of design, implementation and operations of advance routing & switching as well as virtualized infrastructure deployment.
+Routers and Switches:Hands on experience & expertise on Cisco 941,881, 3500,7200,3600,6500 Nexus series Routers, Switches, Arista 750X Switches and ZTE T8000,M6000, ZXCTN-9000-XE series carrier grade routing & switching platforms.
+Network Virtualization: Designed VMware vSphere based virtualized infrastructure using VMware NSX (vSwitch, Distributed Logical Router, vFirewall, Edge Services Gateway) and VMware Integrated OpenStack (VIO)
+Overlay Network Virtualization and Automation: VXLAN,EVPN,MLAG,OTV and SDN. Leaf and Spine Network Architecture.
+Presentation: Excellent presentation and reporting & diagrams skills using MS Office, Visio, Excel etc Virtualization Platform: VMware ESX 5.5 & 6, VIO, vRealize Automation, OpenStack Datacenter Migration: VNF migration between datacenters (VMware ESXI to OpenStack) Managing & configuring open source Linux firewall.
+Linux Server:Configuring Linux based Kernel OMMB Server and establishing its connection with layer-2 and Layer-3 Devices. Security Protocols:Knowlege of Encyption/Deccryption. AES and DES Algorithm. GSM Network :Basic Knowledge of PHP,FTP and HTTP Knowledge Of GSM 2G and 3G. Social Networking: Network Blogging,Network Marketing IP Planning: IP Subnetting and planning according to the design and making command line script. Network Simulation: Proficient in Microsoft Office,WireShark,Packet Tracer,Putty,GNS3 for network simulation. Areas of Experties:
+Solution Design & Documentation (HLD & LLD).
+Business Requirement Analysis & Preparing Proposals..
+Cloud Automation & Orchestration.
+Spine-and-Leaf Design Implementation.
+Data Center Interconnect.
+IP Core Network Architecture.
+Data Center Virtualization, Multi-Tenancy & Micro-Segmentation.
+NMS Deployment & Integration with NE's.
+Business Continuity and Disaster Recovery.
+Professional Trainings and Certifications
+CCNA(Routing and Switching) CCNP(Routing and Switching) CCIE(Routing and Switching) License No. CSCO12934753 CCIE Security
+MPLS
+VMVARE vSphere 6 VCP6-DCV
+REFERENCES References available upon request.
+
+Contact this candidate

@@ -1,0 +1,18 @@
+Job Title = Engineer
+
+Responsibilities
+Own and architect data models used across various stakeholders
+Write ETL pipelines to deliver on business use cases and needs from stakeholders
+Troubleshoot complex ETL pipelines to understand data lineage and troubleshoot data discrepancies
+Develop well designed, end-to-end data solutions that enable crucial decisions at all levels
+Support project development life cycles through data modeling, transformation, reporting and analytics on big data
+Enable our consumers by designing well structured training and documentationExperience & skills:
+B.S. in computer science or other technical field
+5+ years industry experience building ETL and data modeling
+Expertise in SQL query performance optimization (Redshift, PostgreSQL) and big data frameworks (Hive, MapReduce)
+Experience in ETL development using Python is a must
+Excellent communication skills, oral and written
+
+
+Go to apply 
+

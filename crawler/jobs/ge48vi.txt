@@ -1,0 +1,94 @@
+Job Title = Engineer
+
+Description
+
+Job Requisition:
+
+Engineer
+
+Job Description:
+
+The exciting Intelligence Group is seeking a talented Engineering student (undergraduate or graduate) for an internship as a General Engineer (Civil, Mechanical, Electrical or Mining Engineer) in Reston, VA. The work is performed in a fast-paced, high-energy environment within a government facility. Candidate must bring a creative, yet sound, approach to identifying and solving challenges in engineering and using software tools for modeling and simulation and for building your own tools. The successful candidate collaborates with a government staff and contractor team conducting reverse engineering of above and underground structures.
+
+Clearance will be required to start. We are seeking local undergrad and grad students to nominate for the required clearance. This process will generally take 1-2 years, depending on a number of factors. Local candidates are preferred due to the required in-person polygraph scheduling.
+
+Primary Responsibilities
+
+* Use exploitation products, intelligence resources and engineering expertise to model physics and engineering problems.
+
+* Collaborate with a matrixed team of intelligence analysts, imagery analysts, geologists to translate characterization engineering products into 3-D models for decision-making and weaponeering.
+
+* Work with senior engineer to produce accurate assessments.
+
+* Brief peers and senior officials regarding capability trends and analysis.
+
+* Candidate will be entered into the TS/SCI clearance pipeline with opportunity to pursue a polygraph
+
+Required Qualification
+
+* Pursuing an undergraduate or graduate degree in engineering, mathematics, physics or a similar field.
+
+* Working knowledge of modeling and simulation software such as AutoCAD and Revit MEP.
+
+* Ability to obtain a TS/SCI with polygraph (US Citizenship required per contract)
+
+Preferred Qualifications
+
+* Software development skills – python, java, etc.
+
+External Referral Bonus:
+
+Ineligible
+
+Potential for Telework:
+
+No
+
+Clearance Level Required:
+
+Top Secret/SCI with Polygraph
+
+Travel:
+
+Yes, 10% of the time
+
+Scheduled Weekly Hours:
+
+40
+
+Shift:
+
+Day
+
+Requisition Category:
+
+College
+
+Job Family:
+
+Systems Engineering
+
+2000
+
+Intelligence
+
+Leidos
+
+Leidos is a Fortune 500® information technology, engineering, and science solutions and services leader working to solve the world's toughest challenges in the defense, intelligence, homeland security, civil, and health markets. The company's 33,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Virginia, Leidos reported annual revenues of approximately $10.19 billion for the fiscal year ended December 28, 2018. For more information, visit
+
+Pay and Benefits
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here.
+
+Securing Your Data
+
+Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related information or any other personal information, please report the email to .
+
+Commitment to Diversity
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.
+SDL2017
+
+
+Go to apply 
+

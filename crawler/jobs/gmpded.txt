@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Machine Operator - Medical Device
 Shift/Hours: Monday Friday 7:30am 4:00pm OR 11:00am - 9:00pm

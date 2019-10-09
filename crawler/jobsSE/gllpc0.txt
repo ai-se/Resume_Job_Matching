@@ -1,59 +1,51 @@
+Job Title = Asp.Net Or Embedded Or C# jobs in Raleigh, NC, 27606
 
-As a C# Software Engineer on TRADE, you ll be embedded on an agile development team consisting of 30+ people. You ll get to work directly with other Developers, Product Analysts, Managers, and Directors, all of whom are dedicated to supporting our client s complex technical issues and providing the Ultimate customer experience. In this highly-collaborative environment, you will have the opportunity to grow as a C# Software Engineer and even help mentor others. As one of our team members, you will be part of our continued improvement and growth and expansion of coverage for our HR and Payroll Software Solution.
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+IT EDRS C#.Net Developer (ASP.net/MVC/web services/SOAP/REST/Entity/SVN/WSDL/SQL/SSRS/DTS/IIS) (Job ID: 585641) 2105 Umstead Drive, Raleigh, NC 27603, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT ...
+- Lensa, Oct 07
 
-Here at Ultimate Software, we truly put our people first. We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential. Ultimate is ranked #1 on Fortune's Best Places to Work in Technology for 2019 and #8 on the 100 Best Companies to Work For list in 2019. Ultimate is also ranked #1 on Fortune s 75 Best Workplaces for Women and #5 on its Best Workplaces for Diversity list.
+Computer Consultants International, Inc  – 
+Durham, NC, 27703
+OLV ASP.NET and Java Developer (Job ID: 581914) Durham Fwy, Durham, NC, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with more than 18 years experience providing effective, expert-level ...
+- Lensa, Oct 07
 
-Primary/Essential Duties and Key Responsibilities:
+Cynet Systems  – 
+Cary, NC
+...  O365, AWS), SharePoint (2013+), .NET Core, and Dynamics NET framework versions: Languages C#, Visual Basic .NET, F#, C++ .NET Web frameworks ASP.NET, MVC 1-6, ASP.NET Web API, ASP.NET Web Forms Desktop frameworks WPF, Windows Forms (old school ...
+- Neuvoo, Sep 23
 
-Develop a moderate functional knowledge for all of our supported products (Payroll, Tax, Benefits, ).
-Work directly with clients to resolve their technical issues.
-Be a leader on the team for issues involving your technical area of expertise.
-Work closely with team members for debugging issues and determining root cause.
-Work with core development team(s) to help explain issues and determine next actions.
-Proactively communicate with clients and team members to keep them apprised of issue status and any commitment dates.
-Mentor junior software engineers in your areas of expertise.
-Participate in cross-training to expand your technical skillset.- Proactively communicate with clients and team members to keep them apprised of issue status and any commitment dates.
-Mentor junior software engineers in your areas of expertise.
-Participate in cross-training to expand your technical skillset.
-Proactively communicate with clients and team members to keep them apprised.
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+.Net Developer/Programmer (ASP.net/Vb.net/SignalR) (Job ID: 559094) 116 W Jones St, Raleigh, NC 27603, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with more than 18 years experience ...
+- Lensa, Oct 07
 
-Required Qualifications:
+Cynet Systems  – 
+Cary, NC
+...  O365, AWS), SharePoint (2013+), .NET Core, and Dynamics NET framework versions: Languages C#, Visual Basic .NET, F#, C++ .NET Web frameworks ASP.NET, MVC 1-6, ASP.NET Web API, ASP.NET Web Forms Desktop frameworks WPF, Windows Forms (old school ...
+- Neuvoo, Sep 23
 
-(Knowledge, Skills and Abilities)
+Conduent  – 
+Morrisville, NC, 27560
+... Work on web based applications by developing new web pages using ASP.Net MVC, ASP.Net, C#, SQL Server, WCF, based on the requirements, test the code and deploy to different application server environments. Develop new objects in SQL server using ...
+- Lensa, Oct 07
 
-3 or more years experience as a key C#, ASP.NET software engineer on enterprise projects
-Knowledge of OOP design patterns, SQL, Javascript, jQuery, CSS, HTML, Web forms, Java preferred
-Agile or Lean experience such as Kanban or Scrum Programming methodologies preferred
-Ability to write code and test your own work
-Teamwork is a must
+Northwest Software  – 
+Raleigh, NC, 27601
+... C# Full Stack Developer Raleigh, NC. No remote work. Long Term Employment Job Description: The client requests a C# Full Stack Developer with emphasis on ASP.NET for Web development with experience developing enterprise-class applications, ...
+- Dice, Sep 30
 
-(Experience, Education, Certification, License and Training)
+Northwest Software  – 
+Raleigh, NC, 27601
+... C# Full Stack Developer Raleigh, NC. No remote work. Long Term Employment Job Description: The client requests a C# Full Stack Developer with emphasis on ASP.NET for Web development with experience developing enterprise-class applications, ...
+- Dice.com, Oct 01
 
-A degree in Computer Science, Software Engineering, IT or a related field
+Aerotek  – 
+Raleigh, NC, 27601
+... ● Certificate, Embedded Engineering Additional Skills Preferred: ● Experience with other programming languages (C++, C#, Java, Python, etc.) ● Experience with communication protocols and tools (Wifi, Bluetooth, CAN, TCP/IP, Wireshark, etc.) ...
+- Jobg8, Oct 08
 
-Preferred Qualifications:
-
-Excellent written and verbal communication skills.
-Ability to handle multiple tasks under tight deadlines.
-Strong analytical and problem solving ability.
-Able to manage and maintain multiple concurrent projects.
-Organized, hardworking, dedicated, with a strong sense of accountability.
-Positive can do attitude.
-Strong analysis, task management, and time management skills.
-Team player.
-
-Physical Requirements:
-
-No unique physical demands are required for this job
-
-Travel Requirements:
-
-This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.
-
-Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company s online employment application, please contact .
-
-Permanent
-
-
-Go to apply 
-
+Aerotek  – 
+Raleigh, NC, 27601
+... ● Certificate, Embedded Engineering Additional Skills Preferred: ● Experience with other programming languages (C++, C#, Java, Python, etc.) ● Experience with communication protocols and tools (Wifi, Bluetooth, CAN, TCP/IP, Wireshark, etc.) ...
+- Jobg8, Oct 08

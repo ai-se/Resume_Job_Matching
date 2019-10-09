@@ -1,0 +1,133 @@
+
+MOHAMMED JEELANI ELV/ICT SPECIALIST *
+CURRICULUM SUMMARY
+** **** ********** ******** ***, ELV and
+Security Systems.
+ICT (Information & Communication
+Technology): Design review, Design
+validation and Implementation/Installation.
+ELV (Extra Low Voltage Systems):
+Design review, Design validation and
+Implementation/Installation. Tendering and
+Pre-sales.
+PLC (Programmable Logic Controls):
+Design review, Design validation and
+Implementation/Installation.
+BMS/BACS/BAS (Building Management
+System): Designing, Testing &
+Commissioning, Installation, Sales / Presales
+and Operation and Maintenance.
+SYSTEMS INVOLVEMENT
+• BACS: Rockwell Automation
+• BMS: Siemens, Johnson Controls,
+Honeywell – Alerton, Schneider Electric –
+Continuum, Tridium – Niagra.
+• Lighting Control System: Philips –
+Dynalite, Lutron.
+• Smart Home System: Crestron.
+• Fire Alarm System (Siemens), Access
+Control and Intrusion Detection System
+(Lenel).
+• Cisco.
+Many more systems.
+Mohammed Jeelani
+009**-********
+LinkedIn:
+https://www.linkedin.com/in/moham
+med jeelani 54610315/
+adaiq7@r.postjobfree.com
+adaiq7@r.postjobfree.com
+MOHAMMED JEELANI ELV/ICT SPECIALIST 2
+WORK EXPERIENCE
+
+• ELV Engineer February 2018 – Till date
+Qatar Rail (Deutschebahn) (www.deutschebahn.com) (www.qr.com.qa ) Metro Stations (February 2018 to June 2018).
+• Monitor and control of Qatar Rail site ICT (Information and Communication Technology), ELV (Extra Low Voltage Systems) and Security systems implementation activities.
+• Making sure that work progress is as per employer requirement and standard.
+• Strengthening the coordination between stakeholders.
+• Resolving and finalisation of site issues arises during implementation. Design review of Qatar Rail TOD (Transit Oriented Development) sites (July 2018 to till date):
+• Reviewing the design of ICT, ELV and Security system drawings and documents submitted by consultant/designer and grant approval once the design is perfect and suitable to issue for tender
+• Managing MEP design submissions of TOD and SAW (Station Area Works)
+• Building Services Manager September 2015 – January 2018 Carillion Qatar (www.carillionmena.com )
+• Designated for Msheireb Phase 1B project – BMS, BACS, ELV and Telecom/ICT systems
+• Leading a design team, Testing and Commissioning and Subcontractors.
+• Ability to talk to the client, understand what they need from a Technical perspective and then deliver it to the team
+• Ability to talk Technology from concept to Project delivery
+• Expert in Project Management
+• Expert in design review of ELV systems, ELV Integration and IT/ICT Systems.
+• Assistant Manager – Building Technologies July 2009 – May 2015 Consolidated Gulf Co. W.L.L – Doha – Qatar ( www.cgulfc.com )
+• Heading Pre-Sales for ELV Systems (From July 2009 to August 2010) BMS and LCS
+(From January 2014 to till the date).
+• Designing (August 2010 to July 2011 & December 2012 January 2014)
+• Implementation (From July 2011 to December 2012)
+• In addition to Pre-Sales also involved in leading and managing multiple projects as below in the fields of Designing and Implementation.
+• Responsible to prepare and submit Quotations/offers for BMS/IBMS (Honeywell – Alerton) and LCS, Lighting Control Systems (Philips Dynalite).
+• Design and supervise of installation Testing and commissioning for QP Ras Laffan Emergency and Safety College. Siemens BMS system – Desigo.
+• Design QP TDOC Project in Doha. Honeywell – Alerton BMS system.
+• Qatariyan Schools. Honeywell – Alerton BMS system.
+• Engineering Consultancy for QP Dukhan “ECS for Calibration Center”. FEED and Consultancy Design for Telecom & ELV systems.
+• New Doha International Airport, NDIA, CP 77 (Discontinued). Siemens BMS system – Desigo.
+MOHAMMED JEELANI ELV/ICT SPECIALIST 3
+• AL Hammad Medical City, HMC fitout project. Honeywell – Alerton.
+• Responsible to prepare the tender documents, includes technical and financial submittal.
+• Prepared and submitted the fire alarm tender document for Kahramaa substation.
+• Prepared and submitted the BMS, PAVA and fire Alarm tender documents for QP Dukhan Operation and Management Building and RLC Camp-1.
+• Prepared and submitted the pre-qualification submittal for QP Ras Laffan Emergency and Safety College.
+• Quoted for Aspire Logistics Integrated Building Management System.
+• Quoted for Qatar University Integrated Building Management System.
+• Technical Support for Building Management System to Sales and after sales team and providing BOQ & Proposals.
+• Assistant Manager Systems April 2008 – January 2009 Pacific Control System – Dubai – UAE ( www.pacificcontrols.net )
+• Leading ten commissioning and project engineers team.
+• Responsible to manage and execute three projects of 0.71 million (Monorail). 10.2 million (AL-Fajer) and 16 million (Nakheel HQ-Waterfront). Projects comprises various Extra Low Voltage systems (BMS, IP based CCTV, PA, FAS, Lighting Control, Central battery, BGM, Access Control System and BTU metering).
+• Technical support to sales team including site survey, preparing BOQ, costing and technical & financial proposals, upgrading of existing BMS and Integration using gateway & OPC. (ADCO, Mussallah Tower etc.)
+• Technical Support to site engineers for projects Palm Jumeira Monorail, Nakheel Headquarter and AL-Fajer.
+• Technical Support to commissioning Engineers for Home Automation projects Marinascape 120 flats, Bayside 27 Villas and AL-Barari.
+• Commissioning Engineer March 2004 – April 2008
+Saudi Controls (Johnson Controls) – AL Khobar – KSA ( www.saudicontrols.com )
+• Responsible to prepare sequence of operations of the systems, software programs of AHUs, FAHU, Pressurization fans, Chillers and Pumps etc. In addition, do testing and commissioning of building management system.
+• Commissioned Lab R&D (ARAMCO) BMS system on Johnson Controls Metasys M5 platform.
+• Commissioned Building # 840 (ARAMCO) BMS System. Johnson Controls BACnet protocol based N30 supervisory controller has been used at this project.
+• Commissioned Qatif central hospital BMS using Johnson Controls PMI (Person Machine Interface) and Micrografix Draw5.
+• Commissioned AL-Rashid Mall extension BMS on Johnson Controls Metasys platform using LonWorks protocol supervisory controllers NCM and integrate with existing Mall BMS.
+• Key responsibilities include presenting the BMS in graphical view, Programming in Gx and Fx the field controllers and in DDL (Data Defining Language) the supervisory controller. Binding the control points and data with graphics. Integrating DCS and SCADA points with BMS system. Hand over the system with quality and facilitate the training.
+• Commissioning Engineer June 1998 – January 2004
+Staefa Control System (Siemens Ltd.) – Riyadh – KSA ( www.siemens.com ) MOHAMMED JEELANI ELV/ICT SPECIALIST 4
+• Responsible to prepare sequence of operations of the systems. Software programs of AHUs, FAHU, Pressurization fans, Chillers and Pumps etc. In addition, do testing and commissioning of building control systems.
+• Takes decisions at site for hardware modifications, changing of configurations for interlocking, annunciations and control etc. as per the changes by client.
+• Commissioned Berry gas (ARAMCO) HVAC control system.
+• Commissioned HVAC control system of Saline Water Conversion Corporation, Desalination and power plant (SWCC, Shoaiba-Jeddah).
+• Commissioned Hadeed Mills (Jubail) HVAC control system.
+• Commissioned the HVAC control systems for the number of projects for example electrical SCECO substations, Saudi telecom microwave stations, Shopping complex, Palaces, Hospitals and Industries.
+• Involve in the operation and maintenance of HVAC systems of Imam University.
+• Maintenance Engineer Dec 1993 – June 1998
+AL-Sharq Office Company – Riyadh – KSA ( www.asoc.com.sa )
+• Leading a team of 25 technicians specialized in electrical and electronics.
+• Providing the technical support to technicians during faultfinding and rectifications.
+• Scheduling for the preventive and corrective maintenance of HVAC control systems, Fire alarm system, CCTV system, Audio Visual system, Master clock system, Electrical substations and Generators.
+• Responsible to take approval for spare parts from Saudi telecom officials and manage the consumables.
+• Prepare the maintenance report history and attend meetings with Saudi telecom to discuss issues, maintenance strategies and development recommendations. CAREER SUMMARY
+Twenty Six Years Plus of my work experience covers Managing Projects Pre-Sales in Marketing department, Designing, Installation, Testing and commissioning, Operation, and Maintenance & Servicing of Control system, Building Management Systems and project execution of various ELV Systems and ICT, BMS as a Major. Sending response to RFP, communicating with customer, preparing costing, BOQ and Technical & Financial proposals. Familiar about different network communication protocols (BACnet, Lonworks, Modbus etc), and system Integration with third party. Involve in the Project Management and supervise the technical team. Energetic, self-motivated, eloquent and capable to work with multiple projects efficiently even under pressure.
+
+
+EDUCATIONAL QUALIFICATIONS
+Bachelor of Engineering (Electronics & Communication) first division, from Gulbarga University, Gulbarga-India
+OTHER COURSES AND TRAININGS
+Philips Dynalite Training by Philips.
+LEED Commissioning Training by CTG.
+Variable Speed Drive Training by Siemens.
+Continuum BMS training by Schneider Electric.
+Seminar on Alerton Ascent/Compass.
+
+MOHAMMED JEELANI ELV/ICT SPECIALIST 5
+PERSONAL DETAILS
+Address : H No. 9-3-58/B/47/B/1, Company Bagh, Langer House, Hyderabad 500008, Andhra Pradesh, India
+Contact Number : 009**-******** (Doha - Qatar)
+Contact Number : 009*-****-** 1937, 0091 998-***-**** (India) Date of birth : 10th March, 1964
+Marital status : Married
+No. of children : Four
+Nationality : Indian
+Driving Licenses : Valid UAE Driving License
+: Valid Qatari Driving License
+Availability : Immediately
+
+Contact this candidate

@@ -1,0 +1,66 @@
+
+Khushboo Soni
+Computer Science Student
+An aspiring Machine Learning Engineer Programmer Problem Solver CCDSAP certiﬁed Machine Learning Aspirant Maths Geek adai9t@r.postjobfree.com
+905-***-****
+Mohit Residence Sarni, Betul(460449) Madhya Pradesh, India linkedin.com/in/khushboo-soni-930632140
+github.com/Khushbu0304
+EDUCATION
+07/2016 – Present
+Bachelor Of Technology (CSE)
+Lovely Professional University, Phagwara
+9.45/10
+04/2013 – 05/2015
+Higher Secondary School (CBSE)
+Sri Chaitanya Techno School,
+Visakhapatnam
+81.80 %
+04/2012 – 05/2013
+Secondary School (CBSE)
+Kendriya Vidyalaya, Sarni
+9.6/10
+PROJECTS
+Amazon Reviews Sentiment Analyser
+(06/2019 – 07/2019)
+Technical Skills : Numpy, Pandas, TuriCreate, Python This project uses Machine Learning and Natural Language Processing to classify reviews as positive and negative WikiPedia Article Recommendation System
+(06/2019 – 07/2019)
+Technical Skills : Numpy, Pandas, TuriCreate, Python This project uses Unsupervised Learning and NLP to ﬁnd the articles which are closely related to each other
+Stock Price Prediction (10/2018 – 11/2018)
+Technical Skills : Numpy, Pandas, Sci-Kit Learn, Matplotlib, Python
+Linear Regression is used to analyse the trends and predict the stock price trend
+Investigating a Movie Set (07/2018 – 08/2018)
+Technical Skills : Data Analysis, NumPy, Pandas
+Predictive analysis using numPy and Pandas
+Bike Share Data Analysis (06/2018 – 07/2018)
+Technical Skills : Python, CSV, Matplotlib
+Data obtained from three diﬀerent cities and integrated in single form
+Data Analysis is performed on the bike share data using Python and NumPy
+Various conclusions were made on customer usage.
+SKILLS
+C C++ Data Structures and Algorithms
+Competitive Programming Problem Solving
+Python Machine Learning
+Game Development in Unity using C#
+ACHIEVEMENTS
+5* Coder in HackerRank
+I like to code and solve problems on HackerRank and also on other competitive platforms I actively participates in online challenges. CodeChef Certiﬁed DataStructure and Algorithms
+Programme (03/2019)
+CodeChef Certiﬁed Data Structure & Algorithms Programme (CCDSAP) is a certiﬁcation for assessment of proﬁciency in programming using Data Structures and Algorithms under a proctored environment. Secured 15th position in Code Apocalypse (04/2019) It was a three days competition in which there were three rounds and my team "code_geeks" went to ﬁnal round.
+CERTIFICATES
+Machine Learning Specialisation (07/2019)
+http://coursera.org/verify/98UAW8V8NR7T
+Machine Learning Foundation (07/2018)
+https://graduation.udacity.com/conﬁrm/XDLLKNGJ
+LANGUAGES
+English
+Full Professional Proﬁciency
+Hindi
+Full Professional Proﬁciency
+French
+Elementary Proﬁciency
+INTERESTS
+Social Work Competitive Coding Reading Books
+Solving Maths Problems Teaching
+Watching Shows Listening to Songs
+
+Contact this candidate

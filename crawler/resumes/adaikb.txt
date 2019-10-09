@@ -1,0 +1,72 @@
+
+Amrita Acharya
+Experienced software professional with demonstrated history of building
+and leading software products and applications, using a broad range of technologies.
+*** ******* ****
+Toronto, ON M5P 3N2
+778-***-****
+adaikb@r.postjobfree.com
+EXPERIENCE
+Reev AI Inc, Toronto - Canada — Co-Founder
+Sep 2018 - Sep 2019
+● Expanded and outlined the product vision from an initial concept of automated voice based assessments.
+● Created the product roadmap from the overall vision and managed the project timelines.
+● Set lean development processes and sprint cycles to suit a small technical team.
+● Streamlined the deployment process using Google Kubernetes Engine.
+● Managed and optimized the project expenses to keep the burn rate to minimum.
+● Product(s) worked on - InterviewParrot : a smart interview assistant Apttus, Ahmedabad - India — Technical Manager
+Apr 2017 - Mar 2018
+● Accountable for technical implementation and delivery of custom Apttus solutions for EMEA and Asia Pacific clients.
+● Led cross functional teams of 30+ members including technical leads, software developers and quality assurance engineers.
+● Evaluated and implemented software development and QA best practices to better the solution quality and reduce project slippages.
+● Hired and grew the team three folds in a span of one year.
+● Proposed and helped implement changes in the organization structure to accommodate growing team sizes.
+● Product(s) led - Apttus CPQ, CLM custom solutions. Apple Leisure Group, Seattle - USA — Senior Software Consultant
+Feb 2015 - Feb 2016
+● Designed and implemented web services for a unified travel search and booking platform to support the end- customers, travel agents and call center reservation agents, for a resort management and travel distribution company.
+MANAGEMENT SKILLS
+Team Management
+Project Management
+Resource Planning
+TECHNICAL SKILLS
+JAVA
+SpringBoot
+HTML/CSS/Bootstrap
+SQL/RDBMS
+Google Cloud Platform
+Kubernetes
+REST APIs
+Agile Methodologies
+Data Structures &
+Algorithms
+TOOLS
+Git
+JIRA/Trello
+Confluence
+MS Office
+Google Analytics
+● Designed the database schema to support the services. Used both sql and nosql data storages.
+● Integrated with global travel data providers such as TravelPort and Sabre to fetch and update travel data, using SOAP APIs.
+● Worked closely with product owners to identify and prioritize feature requests, based on technical feasibility and business value.
+Intuit, Bangalore- India — Senior Software Engineer Nov 2011 - Feb 2014
+● Implemented the design for globalization of the company’s flagship online accounting software - QuickBooks Online. The cloud solution was released in more than 100 countries.
+● Owned the data architecture for supporting the localization requirements such as country specific sales tax and formatting.
+● Owned the development of key product features like electronic Invoicing and business snapshot reporting.
+● Product(s) worked on - QuickBooks Online
+Amazon, Hyderabad- India — Software Development Engineer Apr 2010 - Sep 2011
+● Led the implementation of an invoice handling solution for the internal business processing team.
+● Worked with internal business stakeholders to identify and prioritize user requirements and internal back-end requirements, then implemented the solution through an iterative process.
+● Initiated the use of scrum methodology in the team to track project deliverables.
+● Part of the team that managed the automated systems for processing of 20+ billion dollars of payments to the Worldwide Amazon Vendors.
+● Devised new reporting products that sped the financial reconciliation process and reduced operational burden.
+Previous Experience,India -Software Engineer
+Aug 2005 - Mar 2010 (Multiple Companies)
+EDUCATION
+Indian Institute of Management, Ahmedabad - India — Post Graduate Programme for Executives
+Mar 2016 - Mar 2017
+Full-time Residential General Management Programme Ranked in the top quartile of the class.
+Goa College of Engineering, Goa - India — Bachelor of Engineering in Information Technology
+May 2001 - Apr 2005
+First Class Honors with Distinction
+
+Contact this candidate

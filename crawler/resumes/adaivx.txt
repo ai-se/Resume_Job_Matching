@@ -1,0 +1,269 @@
+
+Venkatesh Mahendrakar
+Email: adaivx@r.postjobfree.com Mobile: +1-651-***-****
+Work Status: Green Card
+
+EXPERIENCE SUMMARY
+
+** ***** ** ********** ** Business Analysis, Software development, Maintenance and application services and EAI and B2B and SAP technologies.
+Requirement gathering and the Client interaction. Communicates and coordinates activities with stakeholder
+Service Management (Incident Management, Change Management, Release Management, Problem Management)
+Having good experience on SAP EDI integration using IDOCs.
+Working experience in IBM Sterling B2B Integrator, SIA Frame Work, Sterling File Gateway (SFG),SAP PI+Seeburger Adaptor and GXS.
+Exposure to Software (Product) Development Life Cycle, Software Quality Processes and Testing and Code Review.
+Exposure to Defect tracking and IT Service Manager tools such as HP SM and HP MQC.
+Functional/Technical unit testing and integration testing with SAP backend
+Having good experience on EDI standards including ANSI X12, EDIFACT, Tradacoms, XML and Custom proprietary formats.
+Having good experience in setting up the communication protocols such as FTP, FTPs, SFTP, HTTP, AS2 and VAN.
+Strong working experience in SAP Order to cash (OTC) business processes that involve receiving and fulfilling customer requests for goods or services.
+Involved in the configuration of Partner profiles, Customer master and EDPAR table entries and processing of IDocs for various OTC flows.
+Involves in trouble shooting the business documents across the SAP and EDI landscape.
+Hands on experience with working in different process teams like OTC, LEX, MTO, STP, GTS, RTR, QTM, and FTS and cross-functional experience in various industries.
+Expertise in ANSI transactions such as 850, 855, 856, 810, 820, 867, 875, 880, 832, 870 and EDIFACT transaction such as ORDERS, ORDRSP, DESADV, INVRPT, RECADV, DELJIT and DELFOR,REMADV and VDA-4905 and 4913 and Tradacoms transactions.
+Worked for HIPAA transactions such as 270,271,272,277,278,834,835 and 837 transactions.
+Expertise in creating Business Requirement Documents, Mapping and Functional specifications and test scripts documents for development and testing functions for various SAP to EDI/EAI/B2B scenarios.
+Configuration of multiple Sterling integrator adapters, services and properties files, fine-tuned the application system for better through put.
+Quick learning and implementation capability and worked in various multicultural environments
+Have strong implementation experience in 3PL, Retail, and Supply chain.
+Functional expertise includes- Configuration of special business processes include – Intercompany and Intracompany sales and shipping processes, Consignment stock process and Third party processing.
+Good exposure on working projects with ASAP, waterfall and Agile methodology.
+Created the JIRA stories, Epics, Bugs using the JIRA tool for projet tracking using Agile methodology.
+
+TECHNICAL SKILLS SET
+EDI Tools
+TradEz,DECEDI,GXS AI, AMTrix,SAP XI/PI+ Seeburger EDI adapter, IBM Sterling B2B Integrator V5.2
+SAP Modules
+SAP SD, SAP CRM, STP
+EDI Transactions
+ANSI X12, EDIFACT, VDA,Tradacoms amd HIPAA
+Languages
+Java, BPML
+Data Bases
+Oracle, MS SQL server
+Web Technologies
+XML, HTML
+Testing Software/tools
+HP ALM QC, Manual testing, Tibco EDISIM
+Operating System
+Unix (HP-UX, Tru64 Unix), Open VMS (VAX and ALPHA) Internals and Windows
+
+Onsite Assignments
+Warsaw (Poland) for a period of one week on business for P&G Client
+Eindhoven (Netherlands) for a period of 1 and half month on business for Philips Client
+Professional Experience
+
+Organization
+Industry
+From
+To
+Designation/Role
+Cognizant Technology Services, USA
+IT
+Aug ‘12
+Till date
+Sr. EDI Business Analyst
+Hewlett Packard GlobalSoft Ltd, Bangalore
+IT
+Sept ‘05
+Aug ‘12
+Technical Lead
+Wipro Technologies, Bangalore
+IT
+Nov ‘04
+Sept ‘05
+Associate Consultant
+Hewlett Packard GlobalSoft Ltd, Bangalore
+IT
+Sept ‘01
+Nov ‘04
+Software Engineer
+
+Education
+Bachelor of Engineering (B.E) in E&C from Mysore University, Karnataka, India, in September 2001 (75%)
+XIIth with 71%
+Xth with 86%
+Project Experience:
+
+Project Name: 3M Next Generation Gateway (NGG)
+Project Description: Current EDI Gateway is being migrated to the Next generation Gateway on Sterling Integrator platform and is intended to be the corporate B2B gateway to serve all EDI and Managed File Transfer Integrations within 3M’s trading community.
+
+Next Generation Gateway (NGG) is the global replacement for all legacy EDI applications. Presently legacy EDI applications are running on the different translators such as Gentran iSeries, Gentran Mainframe, Corporate EDI and Sterling Local Instance across the globe.
+
+All these local translators will be replaced with IBM B2B Sterling Integrator 5.2.2.
+Major activities in Gateway are solution design and implementation, partner implementations, creating business process for simple to complex requirements.
+
+Apart from this 3M will be implementing new SAP ERP System software replacing the backend legacy mainframes. The ERP software will enable a better overall customer experience by linking business processes, people and information with one global, seamlessly –integrated platform of standardized business processes.
+Duration: Sept ’14 to Till Date
+About Client: 3M has operations in more than 60 countries and they sell products directly to users and through numerous wholesalers, retailers, distributors and dealers worldwide. More than half of 3M’s revenue is driven through EDI Gateway and has more than 8000 trading partners on Edi. 3M EDI Gateway is the bridge between extending partners and internal business units.
+
+Project Role: Technical Lead /Sr. EDI Analyst
+Project Responsibilities:
+Requirement gathering and the Client interaction. Leading the customer communication
+Development of 850, 855, 810, 856, and EDIFACT transactions ORDERS, DESADV, ORDRSP, RECADV & INOVIC Messages using Sterling integrator (SI) tool.
+Configured the protocals for AS2, SFTP,FTP and VAN.
+Onboarding of Trading partners end to end.
+Modification and enhancement of the Business process.
+Trouble shooting the failed BPs and logs.
+Creating of high level Design and low-level design documents
+Worked extensively on OTC and 3PL transactions both in ANSI X12, EDIFACT and VDA
+Involved in Business meetings with 3PLs & SAP teams for gathering requirements to prepare the MRS.
+Responsible for conducting the Project Management Review meetings and interacting with client Managers on the project status reviews and handling the escalation management and controlling the quality of the project.
+Involved in Planning / Estimating project enhancement requests .
+Responsible for analyzing the business requirement on B2B EDI domain for the 3M client. Also analyzing and designing solutions for the NGG project and coordinating with different trading partners, business partners, IT users to collect EDI requirements for 3M business.
+Configuration of AS2, SFTP and FTP profiles and testing with Trading Partners.
+Tracking the project milestones for US and Europe releases and meeting the deadlines.
+Testing the Transactions and review the test results with MRS.
+Creating the EDI guide lines by using EDISIM software (by feeding the 6 months legacy data)
+Trading Partner On boarding for testing.
+Analyzing the legacy Gentran maps to identify the specific requirements to create the generic MRS.
+Creating/Updating the IDOC data as per business scenario to test the MRS and MAP.
+Debug the Business Process failures and Creating the routing rules and setups in Sterling File
+Gateway.
+Involved in the creating the different business test scenarios for OTC cycle which are used as
+template to test for the all partners.
+Preparation of various documentation like Functional specs document, BPML document,
+Configuration document, cutover document, Support kit document, User training document.
+Analysis of business processes, flows and functions of legacy system. Developed AS
+IS model, TO-BE model, performed gap analysis, mapped business process into SAP/EDI and
+converted all data to new platform.
+Worked on RICEFW objects to meet the client specific requirement. Identified RICEFW
+(Reports, Interface, Conversion, Enhancement, Forms and workflow) objects to meet the client specific requirement. Writing specifications for RICEF also debugging as part of project need.
+Conducted Blueprint Workshops and performed Fit-Gap.
+Maintained the EDPAR table entries for the EDI numbers to the internal SAP numbers for
+SoldTo, Shipto and BillTo partner functions.
+Worked on Enhancement CRs (Change Requests) requiring translation of requirements to SAP
+terms and implemented changes using Jira.
+Configured billing document that includes Invoice corrections, Invoice splitting,
+maintaining copy control rules and rebates agreements. Tested custom billing documents and layout sets.
+Interacting with EDI Trading Partners and SAP business users and Analyzing the past EDI
+production data and creating the EDI implementation guides using EDISIM tool.
+Creating the test scenario’s and test cases for EDI solutions for each B2B trading partners.
+Involving in Functional unit testing (FUT), Product Integration Testing (PIT) and User
+acceptance testing (UAT) including raising and testing/closing ALMQC defects.
+Providing post implementation and production support, extensive routine of day to day
+instance handling.
+Leading Order to Cash transaction deliverables and coordinating with Production team for
+Production changes during hyper care support as well when requires SME involvement for new implementation.
+Working with business/CSR team to identifying the new requirements.
+Working on Change requests for Movement to QA and Production.
+Worked on multiple accelerators to make the testing process more robust.
+Attending the daily Sprints (Agile process on Jira) meeting and update the status and road blocks.
+
+Project Name: eviCore
+Project Description: This project involved in migrating the existing Symphonia system to
+IBM Sterling B2B Integrator and configures in lightwell Oxford framework, installed on top of SI.
+
+Duration: Jan ’14 to Aug ‘14
+About Client: eviCore healthcare is a company that provides Utilization Management services for Health Plans or employer groups. eviCore healthcare's mission is to provide Outpatient Diagnostic Imaging Service programs that improve quality and appropriateness of service.
+Project Role: Developer/EDI Analyst
+Project Responsibilities:
+Requirement analysis and creating of high-level Design and low-level design documents.
+Worked on the creating Sterling mapping specification for HIPAA transactions such as 270,272,278,835 and 837 transactions.
+Unit Testing, SIT and BAT for different types of files namely EDI, XML, CSV, Flat file
+etc. using on SI 5.2.4 using Mapper per customer standards within planned timeline and using of XSLTs.
+Using powerful toolset lightwell oxford framework designed for helping companies achieve faster time- to-benefit for the IBM Sterling B2B Integrator solution, greater efficiency and control, and enhanced visibility as they communicate with their partners, suppliers, and customers
+Creation of Mapping Requirement Specifications (MRS) document for various transactions used by customers.
+Understanding of codes in ICD-10
+Actively involved in system study of current client EDI architecture and proposed process improvements on the existing system.
+
+Project Name: Philips lighting and Health care
+Project Description: The project involved the maintenance and development of Philips lighting middleware transactions and backend SAP ERP systems. There are multiple EAI tools are used to integrate customer EDI /Vendor EDI and B2B as well as A2A transactions. The Philips lighting sector is majorly using the SAP PI 7.0 EAI tool, which compromises of more than 1500 interfaces. There are two backend SAP ERP kernels which are exclusively used for finished products processing and parts processing.
+
+The major transactions are ORDERS, DESADV, and INVOICE for EMEA and 850,810 and 856 for US regions. The end customer will be connected via AS2 protocol through AS2 providers and through Sterling VAN.
+Protocols and communication method used are AS2, SFTP, FTP, JMS and Sterling VAN .
+
+Duration: Aug ’12 to Dec ‘13
+About Client: Philips Electronics India Limited, a subsidiary of the Netherlands-based Royal Philips Electronics, is the leading Health and Wellbeing Company. Today Philips is a simpler and more focused company with global leadership positions in key markets of Healthcare, Lighting and Consumer Lifestyle and Entertainment Electronics across world.
+Project Role: Technical Lead
+Project Responsibilities:
+Involved in the SDLC, Application Infrastructure Support, Release Coordination, Project Planning & Implementation from Gap Analysis till Cut-over Support.
+Creating the mapping specification with involvement of SAP process teams
+Perform Technical unit testing, Functional Unit Testing and integration testing with SAP process teams
+Worked on the major transactions such as ORDERS, DESADV, and INVOICE for EMEA and 850,810 and 856 for US customers
+Strong Experience working on SAP as well
+Performing GAP Analysis on various transactions
+Handling Release Management and Change Management for Lighting Service
+Resolving customer incident tickets of L1,L2 and L3. Trouble shooting complex problem and incidents.
+Implementing the different transactions in SAP PI by creating message map and configuration
+End to End testing-SIT and UAT. Testing files using Seeburger BIC mapper
+Validate and verify all test results against the expected results
+Involved in creating the envelopes and code lists.
+Involved in updating the existing Business Process’s for the better throughput.
+Worked on the System alerts & business tickets and closed within SLA.
+Providing help to the team in their deliverables.
+Involved in change control process to move the maps to QA to Production.
+Involved in the Functional Unit Testing and Product Integration Testing and production move.
+
+Project Name: P&G is an American multi-national consumer goods corporation headquartered in downtown Cincinnati, Ohio. It primarily specializes in a wide range of cleaning agents and personal care and hygienic products.
+Duration: Sept ’05 to Aug ‘12
+Role: EDI Analyst
+I have worked for different projects for P&G. Namely TOM MOD Canada Customer EDI with XI, Wella XI/EDI, NA Region Support, HP SAP XI Global Support for P&G, CEEMEA, Implementation, SAP PI up gradation of Tom Mod Canada from SAP XI 3.0, MySAP Emea and Latin America Upgrade and FLS (Field logistics system) SCM support.
+
+Responsibilities:
+Requirement gathering and client discussion, GAP analysis
+Creating the mapping specification with involvement of SAP functional consultant
+Business Analyst for Order to Cash (O2C) flows for P&G for X12 and EDIFACT transactions
+Analysis of legacy GXS AI maps for all X12/EDIFACT transactions and creating the mapping specification.
+Responsible for development of maps in SAP XI/PI +Seeburger adaptor and configuration
+Go-live and Supporting all transactions in production.
+Responsible for project planning, monitoring and execution
+Conducting PMR meetings with Program managers on monthly basis
+Mentoring the entire team on EAI and EDI technologies
+Involvement in other organizational initiatives, such as audit, recruitment & training activities etc
+Creating of high-level Design and low-level design documents and MRS.
+Involved in Functional/Technical unit testing, SIT, BAT and integration testing with SAP backend with key business users.
+Coordinated with QA team for quality audits process and ensured that the development and testing follow standard QA guidelines and procedures.
+Involving in Functional unit testing (FUT), Product Integration Testing (PIT) and User acceptance testing (UAT)
+Experience in project initiation, set up and planning, estimations, ensuring timely delivery, adhering to quality norms, industry best practices and project closure activities
+Project monitoring and tracking, coordination and regular status reporting to all the project stakeholders, identifying project bottlenecks and corrective actions
+Managing the team across the different geographical regions.
+Involving different teams for setting up Cyclone AS2 and GXS ES setups.
+Validate and verify all test results against the expected results
+Report progress, issues, and risks to the stakeholders.
+Prepare, execute and complete required test phases
+Review all Test cases, code and configurations created by team members
+Defect tracking using HP OVSD and HP MQC
+Migrations of maps and configuration to SAP XI.
+Migrations of maps to compatable structure of MySAP ERP IDOC format.
+Cutover preparation and production move activities.
+
+Project Name: Carrefour
+Project Description: The Carrefour is the world’s second largest retailer with more than 10000 stores in 32 countries. Carrefour has an AMTrix as EAI tool. Which is used to exchange business documents between its trading partner through gateways. Source applications are legacy systems, Unix servers, Win 2000 servers which are logically defined as country nodes. The messages are picked up from these country nodes and made available to C4.net system using FTP, X.420.X435 interfaces and MQ Series Queues. Now the Carrefour is migrating their entire system from AMTrix to SeeBeyond EAI tool.
+
+Duration: Nov ’04 to Sept ’05
+About Client: The Carrefour is the world’s second largest retailer with more than 10000 stores in 32 countries.
+Project Role: Associate Consultant
+Project Responsibilities:
+Understand the existing Business flows and conduct the brainstorm sessions to gather the knowledge of Carrefour legacy system.
+Perform technical reviews and solution assessments .
+Development of map using the XSLT and Seebeyond solutions by understanding of AMTrix EAI system.
+Performing the Unit and System integration Testing with business users.
+Documenting the legacy details in flow chart and MRSes.
+Implementation of the major Order to cash transactions of EDIFACT.
+
+Project Name: DECEDI/TradEz Products
+Duration: Nov ’01 to Nov ’04
+Project Description: DEC/EDI is an EDI product, which addresses the Business-to-Business Segment of Electronic Commerce. DEC/EDI supports all EDI standards like Edifact X12 and Tradacoms. DEC/EDI server is available in Open VMS and Tru64 Unix. DEC/EDI has also Clients available in Windows NT, Open VMS, HP UX, Red Hat Linux and Sun Solaris Machines.
+Supporting all common EDI standards – EDIFACT, ANSI X.12, ODETTE, TDCC, TRADACOMS among others.
+Communication protocols including X.400, X.435, X.25, OFTP as well as direct Internet links via FTP or SMTP gateways
+Projects handled under these products are
+-PEDI Gateway enhancement for Ordinia client
+-DECEDI V4.2 Release activities on UNIX & VMS
+-EDI Implementation Guide
+-Integrated KONTRL Message Support for Swedish Customs
+-ANSI/X12 support for TradEz
+-Implementation of the MQS Gateway support.
+-X12 repetitions Separator Support for DEC/EDI.
+-DECEDI Support
+Development Environment - Tru64 UNIX, Open VMS (VAX and Alpha), Windows 2000, C, Pascal and Oracle.
+Duration: Sept ’01 to Nov ’04
+About Client: The EDI products are owned by Hewlett Packard and there are around 40+ active customers.
+Project Role: Developer
+Project Responsibilities:
+Development, Analysis, Design & Implementation of a new feature.
+Worked on the Retail, Automotive and Insurance tradacoms transactions for the various clients.
+Worked for Tradacoms Standards for Policy and Claims transactions like PROP05, MTAD05, RCON05, PLSA05, HHPR03, HHAJ03, HHRC03, CLNM04, CLPM04.
+Problem analysis, Simulation of problem, Fixing bugs, Testing, Code reviews, Documentation.
+Created the implemtation Guides and
+
+Contact this candidate

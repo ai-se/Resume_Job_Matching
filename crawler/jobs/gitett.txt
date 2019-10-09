@@ -1,0 +1,57 @@
+Job Title = Engineer
+
+YOUR ROLE
+The position is responsible for managing information system security risks. The incumbent specifies and implements information system security concepts to adequately safeguard information assets of SES, its affiliates and commercial platforms.
+The jobholder plans, implements, documents and operates information security systems and provides information security support services to architects and system/application engineers within the organization to meet new and evolving security requirements.
+YOUR RESPONSIBILITIES
+Support the development of a risk management framework for information system related security risks and manage information system related security risks accordingly
+Assess system and application security requirements, threats, vulnerabilities and security risks in complex, heterogeneous systems and throughout their life cycle
+Develop, deliver and maintain comprehensive and consistent security solutions to mitigate identified risks to an acceptable level
+Deliver information security support services to architects and system/application engineers by providing clear, concise and constructive recommendations regarding information system and application security
+Assist architects, system/application engineers in the identification and implementation of appropriate information security controls and hardening of systems to ensure effective safeguarding of SES information assets
+Participate in the definition of policies, processes, procedures, configuration baselines and guidelines to ensure appropriate security risk management throughout the system life cycle
+Define system and application security standards based on industry best practices, which efficiently and effectively mitigate risks, while respecting functionality and operational constraints
+Perform technical security assessments of information systems and applications to identify vulnerabilities and non-compliance with established security standards and recommend effective mitigation strategies
+Support engineering groups with security engineering expertise in the different security domains, such as identification and access management, authentication and authorization, secure design, system hardening, risk management, vulnerability assessment and management, security testing, secure software development
+Evaluate emerging risks and information security technologies to ensure an up-to-date information security risk register and to define and implement effective, state-of-the-art security concepts
+Support security incident response with a focus on the implementation of effective preventive system security controls as well as containment, eradication and recovery of information systems.
+Support the development and promotion of information security policies, standards, processes and procedures and monitoring compliance to the information security policy framework with a focus on information system security
+Support the development and maintenance of SES’s information security awareness program and training program with content dedicated for system engineers to ensure consistent management of information system security risks
+Perform on-call duty services if required
+YOUR PROFILE
+Minimum a Bachelor’s Degree in Computer Science or equivalent with a minimum of four years industry related experience in a large heterogeneous environment
+Sound, hands-on knowledge of and experience with managing system related security risks, including the assessment of system security risks, specification of security requirements, the definition of security concepts, secure system design, implementation of security controls, specification of secure configuration baselines, assessment of security controls and vulnerabilities
+Knowledge of:
+Cloud Solutions (e.g., Azure, AWS, SalesForce, …)
+SSO/SAML, JSON, PowerShell, RestAPI, related scripting technologies advantageous
+Operating Systems (MS Windows and Linux), Citrix/VMWare and applications, including a clear understanding of their vulnerabilities and how to secure them
+Scripting languages including Powershell, Python, etc
+Vulnerability, compliance and patch management for complex, heterogeneous systems
+Virtualization and Data Center technologies and corresponding security technologies
+Identity and Access Management and Strong Authentication Systems
+Public Key Infrastructure (e.g., Public Certificate Management, Internal Certificate Management, …)
+Anti-Virus and Host-based Intrusion Prevention Systems
+Security Information and Event Management
+Data Leakage Prevention
+Security standards, best practices and guidelines (e.g., NIST SP-800 series, DISA STIGs, CIS, etc.)
+Relevant product and general security certifications (e.g., AWS-CSA, GCWN, MCSE-Cloud, CompTIA Cloud, GCED, GCUX, GCIH, GISP, CISSP-ISSEP, CISSP-ISSAP, GPEN, CEH) and knowledge of the satellite industry are a plus
+Solid knowledge of IT security threats, vulnerabilities, security technologies, controls and best practices
+Good project management skills
+Sound analytical skills
+Strong written and verbal communication skills: ability to explain security rationales and controls to non-technical audiences
+Self-motivating with proven ability to deliver on complex and time critical tasks/projects
+Excellent team player and ability to work in international and interdisciplinary teams
+Ability to learn new technologies quickly
+Fluency in English, any other language is considered as an asset
+Willingness to travel internationally
+NATO/EU SECRET clearances are considered a strong asset. Candidate must be willing to undergo a security clearance procedure as this position might require holding security clearance
+We offer you
+A diverse workplace. For SES, diversity is more than a question of gender or race; we welcome different minds and different skills.
+An exciting job opportunity in a fast moving and fascinating industry. Our technology is launching into space on the next generation of rockets.
+Opportunities to further grow and develop in a global and growing company; we believe life-long learning is key to bring the best of SES worldwide.
+A competitive compensation package linked to your performance and further completed with attractive benefits.
+SES is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+
+Go to apply 
+

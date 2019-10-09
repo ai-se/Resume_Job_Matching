@@ -1,37 +1,51 @@
+Job Title = Ios Or Ux Or Engineer Or Scrum Or Vista jobs in Raleigh, NC, 27606
 
-Were looking for humble, but ambitious, razor-sharp Software Engineer, mobile who can teach us a thing or two. We promise to return the favor. Like us, you take product development, UX research and platform engineering seriously; youre passionate about technology. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. Our selection process will emphasize hands on engineering. The ideal candidate must be a master of their domain and be able to contribute as an individual contributor (software engineer and architect).
+Insight  – 
+Raleigh, NC, 27607
+... Innovation team is searching for an experienced, passionate and professional Senior Mobile iOS Developer to join our team. ... best-fit technologies and best practices Work with our Mobile UX Designers to deliver exceptional user experiences What We ...
+- Dice.com, Oct 01
 
-Why We Need This Role
-We are looking for a mobile software engineer to help us develop platform to generate mobile apps for iOS. The industry is in a constant state of flux; tools and frameworks change by the month and so we are looking for someone who is not afraid to learn on the job, and who can take the initiative to identify and implement novel solutions
+Insight  – 
+Raleigh, NC, 27607
+... Innovation team is searching for an experienced, passionate and professional Senior Mobile iOS Developer to join our team. ... best-fit technologies and best practices Work with our Mobile UX Designers to deliver exceptional user experiences What We ...
+- Jobg8, Oct 03
 
-Why You Should Join
-This is a challenging and diverse role that requires you to build both, a new generation of Builder Solution product, from the ground up. Only join this role if you are craving rapid growth, able to create a path in uncharted territory, and comfortable with trying, failing and course-correcting fast.
+TransLoc Inc.  – 
+Durham, NC, 27703
+... We?re looking for an iOS software engineer that is passionate about the craft of iOS software design and development. As a ... working as a member of a cross functional team practicing Scrum/Agile The ability to iterate on solutions and respond to ...
+- Lensa, Oct 07
 
-First Six Month Deliverables
-Collaborate with designers, product managers, and other software developers to deliver compelling products or enterprise wide integrations
-As a part of the engineering scrum team, contribute to the architecture of efficient and reusable components that drive complex applications across the stack
-Build frameworks enabling us to create mobile apps
-Identify and resolve functional, performance and scalability issues
-Requirements
-Passionate about loosely held values and ideas. We want someone who has experience but is not blinded by the path already taken.
-5+ years or more iOS (Swift) development experience
-Strong understanding of and experience with testing practices
-Experience building out 3-5 complex applications from concept to completion (end-to-end)
-Capable of owning technical design for projects of moderate complexity, and understand the tradeoffs in creating good software
-Depth knowledge in in-scope products or systems that enables to debug those effectively and without issues
-Capable of consistently producing high-quality code and aware of best practices and trends
-Demonstrated ability to master at least one major skill outside of core coding such as monitoring, documentation, security, integration testing, visual design, devops, performance optimization
-Demonstrated ability of taking a complex user story, breaking it down into sub-tasks, and completing said sub-tasks with relative ease
-Demonstrated ability of showing initiative beyond knocking tasks off a list or to identify and suggest areas of future work for themselves or their teams
-Benefits
-Health and Wellness benefits including competitive medical, dental, and vision plans
-Performance-based bonuses and stock options
-Generous vacation and time off benefits including paid holidays
-Generally flexible working hours
-Working in a beautiful office space the heart of Silicon Beach in Playa Vista
-A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
-Mission-driven company that is making the world a better place
+Insight  – 
+Raleigh, NC, 27607
+... Innovation team is searching for an experienced, passionate and professional Senior Mobile iOS Developer to join our team. ... best-fit technologies and best practices Work with our Mobile UX Designers to deliver exceptional user experiences What We ...
+- Dice, Oct 02
 
+Cynet Systems  – 
+Raleigh, NC
+... portfolio of iOS/Android apps in the Play Store/AppStore is a plus Financial services and banking industry experience UX/UI ... performance Develop in an Agile Execution environment (Scrum and Kanban) Required Skills and Competencies: Bachelor’s ...
+- Neuvoo, Sep 23
 
-Go to apply 
+Putnam Berkley Group  – 
+Morrisville, NC, 27560
+Are you looking for a high energy, strategic, and fast-paced position as a Scrum Master? Join Relias, the company changing ... City: Morrisville Postal Code: 27560 Job ID: 33680 Nearest Major Market: Raleigh Job Segment: Engineer, Engineering SDL2017
+- StartwireL2, Sep 26
 
+AD60  – 
+Chapel Hill, NC, 27516
+... As a member of the mobile engineering team, you will be responsible for designing, building, and owning the iOS applications that power our clients' solutions. We understand that new discoveries will occur during our process. This is why we strive ...
+- StartwireL2, Oct 09
+
+Insight Networking  – 
+Raleigh, NC, 27601
+Mobile Developer - iOS, Android Raleigh, NC, US Requisition Number:74301 We areInsight. As aFortune 500-rankedglobal ... best-fit technologies and best practices Work with our Mobile UX Designers to deliver exceptional user experiences What We ...
+- Lensa, Oct 07
+
+Royal Caribbean Cruises  – 
+Raleigh, NC
+... Responsibilities: Lead software design, prototype, and development of iOS apps. Contribute best-in-class programming skills ... technology and evaluate technical feasibility Work in an Agile/Scrum environment to deliver high quality software against ...
+- Neuvoo, Oct 02
+
+Insight Enterprises, Inc.  – 
+Raleigh, NC, 27611
+Mobile Developer - iOS, Android Raleigh, NC, US Requisition Number: 74301 We are Insight. As a Fortune 500-ranked global ... best-fit technologies and best practices * Work with our Mobile UX Designers to deliver exceptional user experiences What We ...
+- StartwireL2, Oct 07

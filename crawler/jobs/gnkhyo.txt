@@ -1,0 +1,70 @@
+Job Title = Engineer
+
+Engineer
+
+Mechanical Engineer
+
+Electrical Engineer
+
+Field Service Engineer
+
+Solidworks
+
+Our client, located in Southern NJ, is a rapidly growing company that focuses on the development of advanced processes to clean odorous air streams from industrial and municipal water and wastewater treatment plants. Their odor control processes are the most advanced in the industry, and the company has become the technological leader in the marketplace. The company prides itself on empowering its people and working as a team to finish projects on time for their customers. This is a TREMENDOUS opportunity for the right candidate. Please read the information below and if you feel you have the experience my client is looking for and would like to be considered for this position please apply.
+
+Responsibilities During Service Technician Period:
+
+*Travel, as needed, to fulfill the responsibilities indicated or otherwise assigned related to field installations of odor control systems. Approximately 70% North America travel with most in the USA.
+*Mechanical and electrical startup and troubleshooting of odor control systems including programming adjustments to PLC's and HMI's, servicing of pumps, blowers, other mechanical equipment, servicing of field digital and analog instruments such as pH probes, flow meters, etc.
+*Make training presentations and conduct hands-on training of operators on how to operate systems.
+*Write service and performance testing reports on the operation of equipment.
+*Regular interaction with installation contractors and plant operators on the installation and operation of odor control equipment.
+
+Mechanical Engineering Responsibilities - Overview:
+*Create sales, submittal, and fabrication drawings using SolidWorks in accordance with ANSI drafting standards.
+*Detailed design and BOM preparation of FRP tanks, ductwork, structural steel, and other components per project requirements.
+*Review construction-style specifications to determine project requirements, equipment compliance, materials of construction and the like.
+*Communicate and visit with customers, consulting engineers, and suppliers regarding project and equipment issues.
+*Communicate with equipment suppliers regarding equipment design and serviceability issues.
+
+Electrical Engineering Responsibilities - Overview:
+*Electrical Control Panel (ECP) design, utilizing AutoCAD to develop circuit diagrams and fabrication-ready control panel wiring drawings, including motor control and instrumentation integration
+*PLC and HMI design and programming; primarily Allen Bradley RSLogix 500 and 5000, and Siemens S7.
+*ECP Factory Acceptance Testing (FAT) at regional panel fabrication facilities when necessary
+*Instrumentation integration and design
+*P&ID translation into controls development
+*Provide accurate budgetary estimations for control panels during the sales phase using detailed project specifications
+*Create detailed project electrical engineering submittals, including assessment of bid specification requirements and responses to meet end goals
+
+Process Engineering Responsibilities - Overview:
+*Process design of biological and chemical systems for removal of odor and emissions from air streams.
+*Support of the Research and Product Development departments including:
+oOn-site data collection at operating facilities and R&D pilot units
+oData organization and classification
+oData analysis and kinetic modeling
+oWriting of reports to summarize research
+oWrite abstracts and white papers for select events
+*Ability to learn and operate modeling software for atmospheric dispersion and other air flow challenges
+*Support of the sales team to facilitate new project acquisition
+
+Qualifications:
+
+*Bachelors (or equivalent) degree in Engineering from an accredited college/university
+*Minimum of one year experience in an engineering position related to one or more of the above outlined roles
+*Proficiency and experience creating 3-D models and 2-D fabrication drawings using SolidWorks, AutoCAD or other industry standard modeling software.
+*Proficiency with computers and MS Office software
+*Have good command of the English language
+*Possess a USA passport
+
+Qualifications:
+
+*Bachelors (or equivalent) degree in Engineering from an accredited college/university
+*Minimum of one year experience in an engineering position related to one or more of the above outlined roles
+*Proficiency and experience creating 3-D models and 2-D fabrication drawings using SolidWorks, AutoCAD or other industry standard modeling software.
+*Proficiency with computers and MS Office software
+*Have good command of the English language
+*Possess a USA passport
+
+
+Go to apply 
+

@@ -1,0 +1,69 @@
+
+JEREMY PRICE
+
+**** *. ******** **. **** Beach Gardens, Fl 33410
+Cell 407-***-**** adad8j@r.postjobfree.com
+
+SUMMARY
+I have been administering Atlassian products for the last 4 years mainly working with Jira and Confluence products. I have experience on both Cloud and Server environments for Jira as an admin and a user. Prior to administering I was exposed to Jira 2 years prior, so I have experience as a user and as an admin. I govern over all the upgrades for Jira, the add-ons, and user management access. I will be taking the ACP-100 this year to become an Atlassian certified professional Jira Administrator.
+
+EDUCATION
+ITT Technical Institute • Lake Mary, FL 2012
+Bachelor of Science, Electronics and Communications Engineering Technology
+AC/DC Electronics, Construct Integrated Circuits, Working with Transformers, Filters, Oscilloscopes, Digital Multimeters, Breadboards, Diodes.
+
+CORE COMPENTENCIES/SKILLS
+Software/ Hardware Atlassian Tool Suite Expert
+Assembly Design JIRA Software/ Core/Service Desk
+Proficient with Jira Workflow Designs and schemes
+Customer Problem Solving/ Devops and Agile Methodology
+JavaScript Scrum Kanban
+
+QUALIFICATION HIGHLIGHTS
+• Competent using software including: Window Applications, Apple Products, PowerPoint, Excel and Internet research.
+• Demonstrated ability to meet the needs of patrons, dependable, hardworking, reliable, and punctual.
+• Use clear, concise communication skills in conjunction with organizational skills to perform daily duties.
+• Work well as a team member or independently.
+• Meet or exceeded all performance goals to date.
+• Resourceful, energetic, competent, multi-task and results-oriented.
+• Public speaking and presentation experience.
+
+EXPERIENCE
+
+DSS Inc. North Palm Beach, Fl April -2018 to Present
+Programmer Analysts II – Jira and Confluence Admin
+• Assist in the development of Atlassian Suite (Jira/Confluence Server) using Jira REST API by Atlassian for integration and webhooks.
+• Maintain the level of stability for 3 Jira and Confluence environments (Prod, Stage, Development) and set up user management configurations on Lunix servers
+• Install, maintain and upgrade app for Jira/Confluence (JWME, Portfolio, Tempo Timesheets, Insight, Jenkins, etc.)
+• Create PostgreSQL queries for database reporting.
+
+Bonnier Corporation •Winter Park, FL January-2016 to January-2018
+Jira System Administrator
+• Resolve any system related problems and general inquiries related to JIRA/Confluence applications for Cloud.
+• Create customized dashboards, filters (using JQL), service desk projects, and Confluence spaces.
+• Consistently looking for new plugins to better the application and checking for any upgrades on current plugins.
+• Manage user permissions to the application based on project accessibility and perform training sessions for new hire.
+• Other Add-ons used Bitbucket,Tempo Time Sheets, Hipchat, Portfolio, Github and working with DevOps.
+• Experienced in Jira data migrations. Cloud to Server and also Server to Server.
+
+Kaplan Test Prep •Orlando, FL April-2013 to January-2016
+Level 2 Technical Support
+• Receives inbound calls from clients assisting them with technical issues and concerns. Using JIRA Software/ Core to prioritize cases that are in need of troubleshooting for our software here at Kaplan.
+• Using JIRA Service Desk to communicate with other employees on the pending tickets and creating workflows for the most important tickets.
+• Perform maintenance on student's computers, create documentation, dashboard user training and setting up workflows to create student course access for classes.
+• Using the Salesforce software every day to create cases for each individual student that I have worked with.
+
+Conco Systems • Pittsburgh, PA March-2012 to April-2013
+Service Technician
+• Traveled the country to perform maintenance at various power plants, preserving condenser units, while meeting and or exceeding targeted deadlines.
+• Applied 350 psi of liquid to discharge thousands of cleaners agents through condensing units to fully maximize condenser potential.
+• Applied, inspected and maintained safety rules and regulations.
+
+CONNECTION, • Orlando, FL 2009 to 2012
+Technical Help Desk Technician
+• Assisted Barnes & Noble customers with Electronic Reader issues and concerns.
+• Demonstrated and managed instructions with the use of phones and e- mails.
+• Used troubleshoot methods and performed maintenance on devices such as the Nook, I Phone 4, I Pad, and Windows operating systems.
+• Organized the logistics of defective shipments and return of products.
+
+Contact this candidate

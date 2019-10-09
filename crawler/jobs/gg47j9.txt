@@ -1,0 +1,44 @@
+Job Title = Engineer
+
+Engineer
+
+Khan Academy is a nonprofit education technology organization with a mission of providing a free, world-class education for anyone, anywhere. Over 15 million learners, teachers, and parents around the world use Khan Academy each month. Duck Duck Moose, an award-winning creator of educational mobile apps for children, is now part of the Khan Academy family. We are looking for a talented full-time, in-house Engineer to join our collaborative team of designers, illustrators, engineers and product people. You should have a BA/BS degree in Computer Science, with at least 4+ years of strong mobile, web, or server experience.
+
+Our Engineer will help redefine the way a whole new generation of children learn and interact with media globally. You will work with a small, collaborative team of engineers, product managers, and designers to create outstanding user experiences. Our ideal candidate will have a deep passion for great design, an outstanding attention to detail, an excellent sense of humor, and a love of games and children's media. You will be involved in the ideation, and concepting as well as the development for our growing suite of award-winning iPhone, iPad and Android apps. You will also share our love of learning, a strong understanding of mobile interaction design, and an easy-going, fun-loving (and playful) personality.
+
+Skills and Requirements
+
+* A strong passion for engineering, creativity, and problem solving
+
+* 4+ years of mobile, web, or server experience
+
+* Proficiency in C++ and/or JavaScriptiOS, Android, NodeJS, Angular experience a plusAbility to work in a fast-paced, collaborative environment
+
+* Strong work ethic, organizational skills, attention to detail, and communication skills
+
+* Ability to work locally in our office in San Mateo, CA
+
+Perks
+
+* Competitive salary
+
+* Great Health, Dental, Vision Insurance, 401k
+
+* Generous paid time off (PTO)
+
+* A fun, supportive team and flexible work opportunities
+
+* Weekly team lunches
+
+* The best Chocolate Ice Cream in the World anytime
+
+About Khan Academy Duck Duck Moose
+
+Khan Academy is a 501(c)(3) nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. In 2016, Duck Duck Moose, an award-winning creator of educational mobile apps, joined Khan Academy and formed the Khan Academy Kids team. The company has created 22 top-selling titles and has received 22 Parents' Choice Awards, 19 Children's Technology Review Awards, and a KAPi award for "Best Children's App" at the International Consumer Electronics Show. The Khan Academy Kids team is a passionate group of engineers, artists, designers, and educators. Like all Khan Academy offerings, Khan Academy Kids and all Duck Duck Moose apps are 100% free, without ads or subscriptions.
+
+Please forward your resume to .
+SDL2017
+
+
+Go to apply 
+

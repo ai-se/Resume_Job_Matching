@@ -1,0 +1,79 @@
+
+PRAGAMATHI. L
+Mobile: 908*******/893-***-****
+Mail: adai1a@r.postjobfree.com
+
+Objective
+Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
+
+Educational Qualification
+Completed B.E (Electrical & Electronics Engineering) at Aalim Muhammed Salegh College of Engineering during 2012- 2016 with 69%.
+Completed HSC at Chennai Girl’s.Hr.Sec.school during 2011-2012 with 76.33%.
+Completed SSLC at Institution of Sacred Heart Mat.Hr.Sec.school during 2009-2010 with 73.60%.
+
+Professional Experience
+
+•Working as Software Engineer (Application Developer) in HCL Technologies (Client) for 2 years and 2 months from the duration (2017- till date).
+•Support engineer in HCL Technologies for 10 months.(2016- 2017).
+
+Technical Skills
+•Languages : Oracle SQL, PLSQL and Basics in Unix
+•Database : Oracle 10G,11G
+•Tools : JIIRA
+•Operating System : Windows & UNIX
+
+Roles and Responsibilities
+•Loaded the data using the SQL loader, Imports & UTL files based on file formats.
+•Created Oracle Tables, Views, Constrains, Synonyms, Sequences.
+•Extensive experience in writing stored procedures, functions and views.
+•Extensive experience in writing and tuning complex sub queries, SQL, PL/SQL stored procedures, functions, and triggers.
+•Extensive knowledge of Dynamic SQL and queries.
+•Strong working knowledge on Oracle Database concepts.
+•Tuning of the SQL queries, which takes long time to process the request using Explain Plan, Hints to reduce the response time.
+•Used PL/SQL and SQL*Loader to create ETL packages for flat file loading and error capturing into log tables.
+•Created sub queries, DML, DDL, TCL, GTT, Index organized table.
+•Used set operators, number function, group function, analytical function, single row function in SQL.
+•Developed complex reports –using bulk collect,bulk bind, package, package overloading, DBMS_jobs, XML.
+•Worked with exception handled by using predefined exception, non predefined exception, user defined exception, raise application error.
+•Experienced in plsql collection, collection methods also experience in deployment process.
+
+Awards
+
+•Received performance based award for the month of April 2019 from HCL.
+
+Certification
+•Oracle Certified Administrator(OCA).
+
+Project Details
+•Client: ASB Bank
+•Project name: Investment banking/ Banking in Trading
+•Role: Application Developer using SQLPLUS, Oracle 10g,11g.
+
+Project Description
+•Ensure the data quality and integrity in databases.
+•Fix any issues related to database performance and provide corrective measures.
+•Create complex functions, scripts, stored procedures and triggers to support application development.
+•Designing databases and ensuring their stability, reliability, and performance.
+•Design, create, and implement database systems based on the end user's requirements.
+•Improve application's performances.
+
+Support
+•Resolving network issues, configuring operating systems and using remote desktop connections to provide immediate support.
+•Troubleshooting
+
+Personal Details
+•Father’s Name : Mr. Lakshmanan. L.P
+•Date of Birth : 12/05/1995
+•Gender : Female
+•Languages Known : Tamil & English.
+•Permanent Address : No.5B, Godavari Street, First Main Road, Annanur, Chennai-62.
+
+Declaration
+I Pragamathi. L hereby declare that the information furnished above is true up to the best of my knowledge.
+
+Date :
+
+Place : Chennai
+(PRAGAMATHI. L)
+
+Contact this candidate

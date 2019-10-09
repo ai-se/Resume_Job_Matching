@@ -1,0 +1,152 @@
+
+LUIS FERNANDO LUEVANO MORENO
+adajej@r.postjobfree.com
+52-449-***-****
+
+PROFILE:
+* ***** ** ********** ** IT Specialist and Windows environment (Active Directory, Windows Server, Exchange, DHCP, DNS, Vmware)
+5 years of experience in all phases of application development working primarily as Project Manager
+6 years as Project Leader, as well as technical support and attention to users
+
+PROFESSIONAL EXPERIENCE:
+SAE –
+IT Infrastructure Department Manager
+
+Since: 01/2019
+To:
+Current
+
+Leader of 1 Operative Systems Technician, 1 IT Support Technician and 1 Electrical Infrastructure Specialist,
+Backup administrator and safeguard server information, monitor the servers installed in the SITE under the responsibility of the SAE and services that are provided in backup issues, storage and computer security systems.
+Monitor and manage the physical infrastructure of the servers.
+Manage backup servers and backup information.
+Manage Active Directory services.
+Manage Internal DNS and DHCP
+Monitor and install the Antivirus console.
+Review the maintenance contracts that correspond to this area and supervise the existence of the services that contractually exist based on the need.
+Analyze and generate technological proposals that are considered necessary to make the operation of the area more efficient.
+
+Functional Experience:
+Project Management Professional (PMP). Scrum Master Methodolgy
+
+Tools:
+Active Directory, Joomla, Windows Server, Vmware, CentOS, Redhat Server, HyperV, Qgis, Veeam, Citrix, Storage, 3 Par, VNXe,
+
+IVSOP –
+Systems Coordinator
+
+Since: 12/2015
+To: 01/2019
+
+·Team Leader of 2 programmers, 2 business analyst and 1 technical support to maintenance and developing systems Housing Institute of Aguascalientes ERP
+·Gathering requirements, work planning, defining Scope, planning work calendar, team selection
+·Analysis, design and development of software applications.
+·Budgeting and controlling expenses
+·Main contact with information technology providers
+
+Functional Experience:
+Project Management Professional (PMP). Scrum Master Methodolgy.
+
+Tools:
+MS Project, MS Visio, MS Office, Active Directory, Joomla
+
+PROFESSIONAL EXPERIENCE:
+IVSOP – Head of Solution Development
+
+From:
+06/2013
+To: 12/2015
+·Support team leader of the 4 programmers and 1 technical support for the ERP of Home Institute of Aguascalientes: Gathering requirements, work planning, Progress and .Net programming, team selection and profit control.
+·Analysis, design and development of software applications.
+·Support for special events in support technology.
+·Responsible for managing the build process for the application and solutions
+·Give the appropriate licenses to use commercial packages used
+
+Functional Experience:
+Project management and control. Project estimations. Define functional specifications.
+Program Management Methodology
+Tools:
+MS Project, MS Visio, MS Office, Dream weaver, Active Directory, Joomla
+
+IVSOP - Technical Support Manager
+Aguascalientes, Mexico
+
+Technical Support
+From: 03/06
+To: 06/13
+·Preventive and corrective maintenance of computer equipment
+·Team Work Environment Domain Computers
+·Managing user permissions
+·Responsible for electronic media back up
+·Responsible for the internal network for voice and data
+·Responsible for the website of the institute
+·Telephone Network IP and Analog
+
+Functional Experience:
+Migrations from home networking to domain networking, Structured cabling project by office remodeling, Networking Devices Configurations
+Tools:
+Exchange, Active Directory, Windows Servers, IOS, Joomla Cisco Switches,
+
+EDUCATION:
+Universidad del Valle de México Laurate International University
+
+Aguascalientes, Mexico
+2003- 2007
+Bachelor in Systems Engineering
+
+PROFESIONAL DEVELOPMENT:
+
+Spectrum Tivoli
+Scrum Master
+
+Dafros, Mty
+Aster, Ags
+
+Mar 2019
+Feb 2017
+Project Management Professional (PMP)
+Aster, Ags
+Ago 2014
+Web Development .NET Framework 4
+Desarroll@, Ags
+Jul 2012
+Microsoft Certificate Office
+UPA, Ags
+Mar 2010
+Certificate of Course Completion in Cisco (CCNA 1-4)
+Cisco, Ags
+Nov 2005
+Gui Programming In Progress Open Edge
+Progress, Mty
+Sep 2006
+
+LANGUAGES:
+Spanish native, English fluent
+
+TECHNICAL/MANAGERIAL SKILLS:
+Primary Profile:
+Project Manager and IT Manager
+Secondary Profile:
+Technical support and attention to users
+Hardware:
+Cisco IOS, Active Directory, Exchange, HP Servers
+Operating Systems:
+Windows 7 and older versions, Windows Server 2016 and older versions
+Programming Languages:
+.Net Framework (1year), Progress Open Edge (2 Years), Visual C++ (1 years),
+Databases:
+Progress, SQL
+Other:
+Joomla, Macromedia Flash, Dreamweaver and Photoshop, Hailbreak Mac, Root Android, Qgis
+
+REFERENCES
+
+Fernando Barragán
+Tel. 858-***-****
+adajej@r.postjobfree.com
+
+Cesar Augusto Quezada
+Tel. 84-97-457-****
+adajej@r.postjobfree.com
+
+Contact this candidate

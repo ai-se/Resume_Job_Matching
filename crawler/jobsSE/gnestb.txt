@@ -1,23 +1,51 @@
+Job Title = Visa Or .Net Or Remote jobs in Raleigh, NC, 27606
 
-Senior Software Engineer The Senior Software Engineer is responsible for producing and implementing functional software solutions.
-This position will work with the internal development team to define software requirements and provide leadership on operational and technical projects.
-Responsibilities include but not limited to:Act as a leader in the Scrum process according to the Agile Manifesto and best practices.Be a key contributor to the architectural design of the software.Design key software components using object-oriented techniques.Code and debug software components for all layers of our stack.Develop detailed unit tests for all your code.Conduct code reviews, document, and follow-up on issues.Lead the continuous improvement of the development process.Develop integration tests across multiple components of the software.No Travel expected.
-This position is based at the home office in St.
-Louis and is not remote.
-Education and Experience Requirements:Minimum of Bachelor's degree or equivalent experience required Minimum of 8 years of experience in software engineering roles.
-Excellent verbal and written communication skills.Experience in an engineering role for a software or SaaS company is preferred but not required.
-Must have experience and/or exposure to the following: C#, .Net, WebAPI JavaScriptHTML/CSSAngular (version 4 or latter)TypescriptAutomated Unit Testing (MSTest, nUuit)SQL DatabasesREST, JSON ServicesT-SQLDesign PatternsOO DesignAgileGit Preferred but not required skills include: .Net CoreAzure SQL, Storage, and App ServicesElastic StackRedisService Oriented DesignTDDBDDJira / ConfluenceMobile DevelopmentOAuth ** Visa sponsorship not available.
-Must be eligible to work in the United States.
-** Other DutiesPlease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job.
-Duties, responsibilities and activities may change at any time with or without notice.
-About Aspire Aspire Software offers business management software for landscaping and snow & ice companies.
-Aspire's cloud-based SaaS platform helps landscapers transform their business to provide better services, improve margins, and increase productivity.
-Aspire is the #129 fastest growing software company in the country (Inc.
-5000) and is based in Chesterfield, MO.
-For more information, please visit .
+Serenity Infotech  – 
+Raleigh, NC, 27601
+Title: .Net Developer Location: Raleigh, NC Duration: 08 Months Job Description Expert .NET Developer 5+ years experience ...  Contact: Address: Availability: Availability for Interview: Visa Status: Visa Expiry date (MM/DD/YYYY): Relocation: Rate: ...
+- Jobs2Careers, Oct 07
 
-Permanent
+US Tech Solutions  – 
+Raleigh, NC, 27601
+... No remote work. Qualifications Required Skills: 5+ years of experience in a professional capacity and a Bachelor's Degree in Computer Science, Information Systems or related field. Required skills: • Must be proficient with: o ASP.NET o JQuery o ...
+- Jobg8, Oct 08
 
+CTG  – 
+Durham, NC, 27703
+.Net Developer Durham, North Carolina, United States New Information Technology 5 days agoPost Date 19208887Requisition # ... Job Function: Programming & Application Development Education Level: Bachelor's Degree (16 years) Work Remote: No Travel: No
+- Lensa, Oct 09
 
-Go to apply 
+US Tech Solutions  – 
+Raleigh, NC, 27699
+... No remote work. Qualifications Required Skills: 5+ years of experience in a professional capacity and a Bachelor's Degree in Computer Science, Information Systems or related field. Required skills: • Must be proficient with: o ASP.NET o JQuery o ...
+- Jobg8, Oct 03
 
+Perspective Talent  – 
+Raleigh, NC
+NET Developer Type: Direct Hire Location: Remote available if you live in NC or offices in Ahoskie, Camden, Greenville, Jacksonville, or Wilmington, NC Salary: $50k-$85k/yr .Net Developer Summary This is a full stack developer position responsible ...
+- ZipRecruiter, Sep 29
+
+Vaco  – 
+Raleigh, NC
+... We are looking for a Software Engineer that has a skillset in Salesforce Development with Apex and VisualForce along with some experience with .NET/C#. This position is remote with some occasional travel. Primary responsibilities & duties: ...
+- Neuvoo, Oct 08
+
+Vaco Technology  – 
+Raleigh, NC, 27601
+... We are looking for a Software Engineer that has a skillset in Salesforce Development with Apex and VisualForce along with some experience with .NET/C#. This position is remote with some occasional travel. Primary responsibilities & duties: ...
+- Dice.com, Oct 08
+
+Vaco Technology  – 
+Raleigh, NC, 27601
+... We are looking for a Software Engineer that has a skillset in Salesforce Development with Apex and VisualForce along with some experience with .NET/C#. This position is remote with some occasional travel. Primary responsibilities & duties: ...
+- Dice, Oct 08
+
+1-800-Pack-Rat | Zippy Shell, Inc.  – 
+Wake Forest, NC, 27587
+... Job Type: Information Technology Location: Wake Forest, NC or remote Employee Type: Full Time Experience: 6-8 Years Company ... Developer will be responsible for legacy .net applications light evolution and support, but dominant focus is on ...
+- Dice.com, Oct 03
+
+1 800 Pack Rat | Zippy Shell  – 
+Wake Forest, NC, 27587
+... Type : Information Technology Location : Wake Forest, NC or remote Employee Type : Full Time Experience : 6-8 Years Company ... Developer will be responsible for legacy .net applications light evolution and support, but dominant focus is on ...
+- Jobs2Careers, Oct 09

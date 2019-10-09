@@ -1,0 +1,161 @@
+
+Owen Lavissiere
+
+Phone: 415-***-****
+E-mail: adait3@r.postjobfree.com
+Home Address: *** ******** **. *** *********, CA 94133
+
+Skills
+•Architected, designed, and built solutions, as well as mentoring/assisting others with development
+•Lead or participated in leadership on enterprise wide initiatives
+•Front to back development of applications primarily in the brokerage, insurance and airline spaces
+•Extensive experience in securities trading and data
+•Primary languages: C#, JAVA, Javascript, HTML, PL/SQL
+•Protocols/Standards: .NET, MVC 4, WPF, SPRING, XML, XSLT, WCF, SOA, MVVM, Entity Framework
+•Primary databases: ORACLE, SQL Server, DB2, IMS, DATACOM
+•Caching/NoSql technologies: Gigaspaces, Aerospike, MongoDB
+•Messaging technologies: MQ, RabbitMQ, JMS
+•Web technologies: REST, HTTP, XSD, JSP, ASP.NET, Websphere, IIS
+•Source control: TFS, Subversion, Changeman
+•Platforms: Windows, Linux, UNIX, z/OS
+
+Work Experience
+
+Wells Fargo/Kforce Consulting San Francisco, CA 2017-2018 System Application Engineer
+
+2017-2018
+Bond Analysis
+Technologies: .NET, C#, WPF, SQL Server, Ant, WCF
+Fixed bugs on WPF windows application for municipal bond analysis tool called Muni Matrics
+Created screens for managing escrow to maturity process
+Created data interactions to support UI processes, primarily stored procedures
+Created daily batch jobs that pull data and create excel spreadsheets for trader analysis
+Support QA in testing of changes
+Used agile methodology for project planning
+Create new data and business services with Entity Framework
+
+Charles Schwab & Co. San Francisco, CA 1999-2017 Senior Staff – Application Software Engineering
+
+2016-2017
+Security Master Re-write Team Lead
+Technologies: .NET, C#, MVC 4, ASP.NET, MQ, Java, Linux, Gigaspaces,MongoDB, Aerospike, Websphere
+Mentored other developers on architecture and coding standards
+Helped moved project through enterprise architecture review board(create architecture documents and presentations for the approval process)
+Helped hire developers for the project
+Participated in creating architecture for the application particularly on messaging
+Participated in both local architecture and enterprise architecture on creating solutions, as well as guiding proof of concept to prove the architecture
+Interfaced with architects/directors both in technology groups to implement changes for our system, as well as architects/directors in internal client groups
+Created code to on board new internal client, Alternative Investments; includes creating scripts and code to process updates for new clients
+Coded java rest service to allow internal clients to create and update securities using JAX-RS standard
+Ran proof of concept to establish speed of retrieval for objects from 3 separate caching products, MongoDB, Aerospike, and Gigaspaces; ran tests for retrieval of objects both in JSON and Google Protocol Buffers format
+Updated publishing workflows to improve performance and maintainability
+Researched and implemented changes to improve performance of internal REST service for Issuers data
+Researched and implemented changes to improve performance of job that publishes intra-day changes to all securities
+Assisted with the onboarding of Futures and Future Option security types
+
+2012-2015
+Security Master Re-write – Team Lead/Architect
+Technologies: .NET, C#, MVC 4, ASP.NET, MQ, Java, Linux, Gigaspaces, Websphere, RabbitMQ
+Assisted in on-boarding of new security master product, Goldensource
+Wrote the workflows and scripts, to extract trade confirms and create new securities, that run on the Goldensource Websphere installation
+Wrote MVC 4 .NET service that processes mq messages; loads new and updated securities to the enterprise cache to allow high speed retrieval of data
+Wrote MVC 4 REST service that allows internal clients to access data the mq service places in the cache
+Created, designed and built version strategy for publishing of securities to internal clients
+Created, designed and built the process by which all prices are delivered to internal clients
+Ran proof of concept to integrate RabbitMQ with the Goldensource product
+
+2009-2012
+Mutual Fund Order Management, Trading, Operations and Reporting System - Architect
+Technologies: .NET, C#, WCF, SOA, XML, ASP.NET, DB2, COBOL, CICS, MQ
+Architected, designed and helped build all pieces of the replacement application
+Lead development team of coders and data modelers
+Hired contractor to help with UI coding
+Re-designed/re-architected the mutual funds order entry system used for bulk order entry from Java to .NET for the UI and the services
+Wrote the basic structure of the web services used by the ui for order entry, creation, and list processing
+Lead the team that wrote the code to replace the old Java processing code
+Lead performance testing effort; primary reason for the project was to ensure future capacity of Mutual Funds trading
+
+2007-2008
+Core Brokerage Solutions Architecture
+Technologies: .NET, C#, WCF, SOA, XML, WPF,ASP.NET, DB2, MQ
+POC’s
+Created presentations for senior leadership of the technologies and techniques tested in multiple proofs of concept
+Worked with Core Brokerage Solutions SVP to determine which technologies to test
+Worked with IBM to test products
+Initiated the building of utilities distributed companywide to developers
+
+Tested using Datapower servers to access DB2 with sql wrapped in XSLT
+Tested using java on the mainframe for performance and cost advantages; presented findings to senior leadership
+Created web service that would allow storage and retrieval of signatures in BLOB format
+Created logger for java stored procedures that run on the multiple platforms
+Participated in proof of concept for re-writing customer/account web services in Java using the EJB 3.0 standard
+
+Other Projects
+Evaluated web services testing tools; selected Parasoft as Schwab’s approved SOA testing tool
+Evaluated Rational Developer for System/Z for use at Schwab; ran proof of concept with group of mainframe developers
+Created interface between the Serena source control product and the Relativity code analysis tool; used c# with ZDD to find changed objects and move them from the mainframe to a windows file system
+Created .NET/C# WPF client to do mainframe code analysis; allows users to do impact analysis on mainframe code by parsing COBOL programs, both batch and CICS, and stored procedures, both java and PL/SQL
+
+2006
+Restricted Customer
+Technologies: .NET, C#, Winforms, DB2, SOA, WCF
+Wrote the .NET UI, a fat client hosted on the windows desktop, to allow operations to prevent individuals from trading mutual funds
+Created web services used by the UI to process restriction requests
+
+DB2 .NET Query Tool
+Designed and built a utility that uses a .NET Winform application to run DB2 queries
+Filled a gap between the companies use of Neon and Toad for DB2
+Initially used by the DB2 DBA’s, moved into broader release to 250-300 developers
+
+2002-2005
+Asset Billing System
+Technologies: Oracle, Java, Linux, JSP, DB2, COBOL, JCL
+Participated in the re-write of the Mutual Funds Billings system
+Wrote mainframe extracts to feed customer/account and security master data to the new system
+Wrote scripts to load mainframe data to new system
+Assisted in performance tuning
+Created batch infrastructure using Java to run batch in Linux environment
+Wrote java objects that processed incoming lot data to allow billing of funds companies whose assets our clients held
+
+2000-2001
+Mutual Funds Technology
+Technologies: Java, DB2, COBOL, JCL, CICS, MQ
+Worked on the implementation and support of the Mutual Fund Order Entry System, also know as SCORES. Coordinated installation and testing of software. Technologies used include CICS, DB2, MQ Series, and COBOL.
+Assisted the Mutual Funds production support team, as workload permitted.
+Automatic Investment Plan – Helped support retail AIP system and constructed test environment. Technologies used include Unix and JAVA.
+Assisted in support of various test environments, as well as automation of Mutual Funds Batch Execution process.
+
+2000 Mariner Systems, Inc. San Mateo, CA Application Manager
+Technologies: Java, Linux, HTML, Javascript, IIS, SQL Server, Oracle
+Web Site Construction – participated in systems integration of LEAP learning software created by Ernst and Young into the hardware environment at Mariner Systems. This project included Cisco.partnerelearning.com, www.compliancedge.com, and www.dbg.com.
+Application Support – also assisted in the production support of sites once they had been constructed. Mariner Systems provided staging environments for all customers as well.
+Tools – the above sites were run on the Windows NT Server 4.0, with Internet Information Server 4.0. Database systems used were SQL Server 7.0 and Oracle 8.0.5. Content on the sites was also provided using Real Server 7.0 and Netshow with Windows Media Player.
+
+1999-2000 Charles Schwab & Co. San Francisco, CA Staff Technical Services
+Technologies: COBOL, JCL, FOCUS
+Mainframe Decision Support – participated in support and development of systems for delivery of data to divisions across Schwab, including Schwab Institutional Management and Capitol Markets & Trading.
+Production Support – Responsible for supporting nightly batch processing of information and reporting, including internal audit systems. Primary technologies used are FOCUS, COBOLII, and Syncsort.
+Info Series Rewrite – Participated in research, design, and coding of jobs that create and update daily, weekly, and monthly account balances and positions.
+Yearly Archives – Created yearly archive jobs for Transfer of Account and Leads systems.
+Y2K Responsibilities – Researched systems and created control totals for Y2K reconciliation. Assisted in production support for Y2K weekend.
+
+1997 - 1999 Alaska Airlines Seattle, WA Programmer/Analyst
+Technologies: COBOL, IMS DB/DC, JCL
+Production Support – Gave 24x 7 support for batch and online processes of Alaska Airlines Frequent Flyer System, as well as the Board Room sub-system. Technologies used were COBOL and IMS DB/DC, on the MVS platform.
+New Partner Development – Made system wide changes to allow the crediting of new partners such as KLM Airlines and Thrifty Car Rental. Wrote JCL for accepting data feeds and activity runs.
+New Promotion Development – Made changes to the system to allowing of Frequent Flyer miles from other airlines, such as Northwest, KLM and Trans Pacific. Also worked on promotions for Alaska’s sister airline, Horizon.
+Miscellaneous – Created processes to compress, encrypt, and transfer data for fulfillment of membership cards and statements. Primary tools used were FTP, Winzip, and Winbatch.
+Other Tools – FOCUS, Xpediter, and SYNCSORT
+
+1997 Keane, Inc. Seattle, WA Technician
+Received Microsoft certified training in support of Windows 95, Internet Explorer, and related products.
+Gave phone technical support for both paid and contract customers.
+
+1995-1996 Mass Mutual Hartford, CT Programmer/Analyst
+Technologies: COBOL, IMS DB/DC, JCL
+Training – Received 3 months of instruction in COBOL and JCL on the MVS platform, as well as CA-DATACOM relational database system.
+Collected Premium System – Had Primary support responsibility for the system that tallied monthly premiums by agent, as well as a sub-system that calculated yearly bonus standings for the agents. Created half of the merger interface with Connecticut Mutual. Primary tools were COBOL and CA-DATACOM.
+PROCOMP – Assisted in creation of new Agency Payroll System, for the newly merged company. Wrote sections of the reporting sub-system, using COBOL and DB2.
+Daily Commissions Cycle – Had secondary support responsibility on the system that calculated and reported incoming and outgoing commissions for all agencies. Primary language was ANS COBOL, that had been translated through Autocode.
+
+Contact this candidate

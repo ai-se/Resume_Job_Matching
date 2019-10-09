@@ -1,45 +1,51 @@
+Job Title = H1b Or Ge Or Flight Or Engineer jobs in Raleigh, NC, 27606
 
-Are you interested in being part of a great Technical Support Engineering team which supports market-leading, high-tech companies such as Google, Apple, and Microsoft?
+Born & Bicknell, Inc.  – 
+North Carolina
+Excellent opportunity for a noninvasive cardiologist to work at a great Health System. Candidates should be comfortable with all general diagnostic cardiology procedures, nuclear cardiology a plus. There are medical students and primary care...
+- Jobg8, Oct 01
 
-SmartBear Software is currently looking for an exceptional Customer Care Engineerwho possesses a passion for innovative technology and delights in achieving superior customer satisfaction, while working collaboratively within a team-focused environment. You will work and learn from an experienced and highly impactful team that will ultimately prepare you to become a TechnicalSupport Engineer. We are a growing medium-sized company with locations around the country and around the world. We have played a role in the Uber you ordered, the banking app you use, the item you posted for auction, or that flight you just purchased. Our software is downloaded every 6 seconds ( million downloads a year) and we have over 25,000 customers (Google, Apple, Microsoft, Uber, GE and SalesForce to name a few) in 194 countries. We have real products, real customers and great compensation.
+Flight Safety  – 
+Durham, NC, 27703
+... Ensure classroom equipment, flight training devices (FTDs) and scheduled simulators are ready for client training events. Integrate Crew Resource Management (CRM)/Human Factors training with technical (procedural) training. Utilize Customer's ...
+- Lensa, Sep 30
 
-Benefits of This Position
+GE Transportation  – 
+Durham, NC, 27703
+Role Summary:Responsible for managing the long-term success of GEs relationship with a set of key accounts to achieve the goals and objectives identified by the customer and GE Healthcare. Drive orders and sales growth. Develop and execute a One GE ...
+- Jobs2Careers, Oct 06
 
-You will be supporting customers with proven technology that produces measurable results and is continually being expanded with innovative, new products
-You will be working in a collaborative, entrepreneurial environment along with our sales, marketing, and product teams
-You will be provided tools and training to elevate your performance and be an industry and product specialist
+Worldwide Flight Services  – 
+Morrisville, NC, 27560
+... prepares all flight documents; interfaces with U.S. Customs; prepares all import and export documentation, and accepts/distributes cargo in accordance with applicable air carrier and Department of Transportation (DOT) regulations. Complies lists of ...
+- Jobs2Careers, Oct 06
 
-Responsibilities
+Delta Global Services  – 
+Raleigh, NC, 27601
+... Reads and verifies the city and flight number for every bag to ensure correct loading of customer bags. Communicates with Operations, Flight Crew personnel and other ground personnel concerning arrival/departure information in a professional manner. ...
+- Jobs2Careers, Oct 08
 
-Troubleshoot and solve technical support issues with external customers (via email, screen share, live chat, Communities, phone, etc.)
-Create, document and track the progress of new customer issues as they become available
-Collaborate with fellow support colleagues and other internal organizations, e.g. development, to achieve superior customer service
-Obtain the necessary knowledge and skills to become progressively proficient with responsible products
-Be the customer advocate when providing feedback to internal organizations
-Achieve issue resolution and escalation goals
-Look for ways to improve productivity of issue resolution and better ways to help customers
-Develop new videos and articles that help educate and inform users
-Mentor and coach other CCEs
+DAL Global Services  – 
+Raleigh, NC, 27601
+Description: Position Summary: Under the supervision of the station manager or duty manager, the Supervisor is responsible for supervising employees on assigned shifts to ensure that the daily activities are performed safely and efficiently, while...
+- Lensa, Oct 08
 
-Qualifications
+Duke University Health System  – 
+Durham, NC
+... Paramedic II – Duke University Health System - Duke Life Flight Duke University Health System seeks to hire a Paramedic II who will embrace our mission of Transforming Lives Transforming Care. Duke University Health System’s Life Flight team ...
+- Neuvoo, Oct 08
 
-Bachelors Degree in Computer Science or related field or equivalent experience
-Excellent verbal and written communication skills
-Working knowledge of operating systems, e.g. XP, Vista, Win7, Server 2003/2008
-Working knowledge of office productivity suites (MS Office, Google apps)
-Authorized to work in the United States (minimum of H1B)
-One to two years experience as a Customer Care Engineer
-Working knowledge of software testing tools and processes
-Working knowledge of software development tools and processes
-One to two years Programming and Scripting Experience
-Working knowledge of application lifecycle management, APIs, SQL, and network and server administration
+DAL Global Services  – 
+Raleigh, NC, 27601
+Description: POSITION SUMMARY Under the supervision of the Station Manager, the Duty Manager is responsible for ensuring the daily operation runs in a safe, efficient and cost effective manner. ESSENTIAL FUNCTIONS/TASKS Oversees and coordinates team...
+- Lensa, Oct 03
 
-About Us
+Coyote Technical and Executive Sourcing  – 
+Raleigh, NC, 27619
+Mechanical Engineer/MEP Engineer My client is looking for a Mechanical Engineer with proven experience developing plans and specifications for building systems in the healthcare or higher education market sectors. Position Description The successful ...
+- Sendouts, Oct 06
 
-SmartBear is behind the software that empowers developers, testers, and operations engineers at over 20,000 of the worlds most innovative organizations including Adobe, JetBlue, MasterCard, and Microsoft. More than 6 million people use our tools to build, test, and monitor great software, faster. Our high-impact tools are easy to try, easy to buy, and easy to use. These tools are backed by a team of people passionate about helping you create software that transforms our world. Those tools are SmartBear tools. That team is SmartBear. For more information, visit:, or follow us on LinkedIn, Twitter, or Facebook.
-
-SmartBear is an equal employment opportunity employer and encourages success based on our individual merits and abilities without regard to race, color, religion, gender, national origin, ancestry, mental or physical disability, marital status, military or veteran status, citizenship status, age, sexual orientation, gender identity or expression, genetic information, medical condition, sex, sex stereotyping, pregnancy (which includes pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), or any other legally protected status.
-
-
-Go to apply 
-
+Precision System Design, Inc.  – 
+Raleigh, NC, 27601
+Our innovative non-profit client in Raleigh-Durham, is looking for a senior Firewall Engineer to have an immediate impact on the client's next generation Firewall solution. Looking for someone with strong knowledge in configuration, deployment and ...
+- Oct 08

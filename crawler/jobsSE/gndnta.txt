@@ -1,3 +1,4 @@
+Job Title = Sr. Electrical Engineer JN
 
 Description:
 The Electrical Engineer is responsible for developing the Senior Living Alert System, PERS/wearable medical devices across sensors, microprocessor, Wi-Fi, GPS and Cell module and other RF components. This engineer may also be evaluating third party medical devices and IOT devices and integrating solutions into the Senior Living system and PERS service system of Age & Caregiving

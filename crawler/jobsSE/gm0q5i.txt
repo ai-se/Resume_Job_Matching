@@ -1,3 +1,4 @@
+Job Title = Build and Release Engineer - SRE
 
 Marin Software are looking for a Build and Release Engineer who will be a key member of the SRE team responsible for ongoing operational support, innovation in the delivery of our new products and services, and ensuring the highest possible availability, resilience, and performance of our SaaS platforms.
 The Engineer will work on a variety of software development and deployment projects, ensuring that each version and release is thoroughly tested for performance and reliability.

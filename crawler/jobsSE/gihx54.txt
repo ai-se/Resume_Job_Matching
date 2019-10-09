@@ -1,3 +1,4 @@
+Job Title = Staff Software Engineer SaaS Architecture
 
 This position will be a technical advisor for designing and defining our desired architecture for Tableau’s SaaS services. This person will be responsible for working with various teams across the Development organization to understand their products and work with them to design SaaS/Cloud solutions. The SaaS Architecture Engineer will know the state of design decisions and implications of most areas of the product while engaging with many individuals and key stakeholders on the Development team to ensure that products are being designed and built for Cloud scale deployments. This person will collaborate with engineers across the company and define and document design patterns to support our SaaS initiatives. Assist in development of SaaS capabilities and platform as required.
 Some of the things youll be doing include…

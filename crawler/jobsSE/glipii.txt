@@ -1,27 +1,51 @@
+Job Title = Mainframe Or Os Or Ibm Or Sales jobs in Raleigh, NC, 27606
 
-Rocket Software is a leading global developer of software products that help corporations, government agencies and other organizations reach their technology and business goals. 1,300 rocketeers on five continents are focused on building and delivering solutions for more than 10,000 customers and partners. This sales engineering role will support Account Executives and Inside Sales Representatives with new and existing partner relationships and with direct customers to identify, progress, and close software revenue opportunities.
-We are looking for experienced technical professionals with an extensive enterprise software sales background who can successfully be the technical sales lead on software opportunities to progress and close business. The candidate must function well as a member of a dynamic team, while having the ability to also work independently to progress and close business. Ideally, you are located in the Pacific Northwest (Oregon, Washington and northern California) or West (Colorado, Utah, Idaho, Montana, Nevada, Wyoming) region.
-Essential Duties and Responsibilities
-Build demo solutions based on prospect requirements; and assist partners do the same.
-Demo solutions to customers and partners with or without sales support.
-Successfully convey technical details to non-technical audiences; and credibly convey technical concepts to more technical audiences.
-Use knowledge and skills to help qualify business opportunities by understanding and addressing user requirements and their technical environments.
-Provide ongoing mentoring and guidance on software components, design methodology, and delivery concepts to partners and peers.
-Handle objections professionally; answer questions proficiently and coherently; and deal with challenges assertively and persuasively.
-Self-manage multiple and varying assignments and administrative tasks to completion.
-Offer technical advice and support to our community of partners and to peers.
-Ability to demonstrate and help customers complete assessments and evaluations on IBM mainframe z/OS storage management and backup/recovery products, and other Rocket z/OS products, such as Performance Essential, Catalog Recovery plus, and Rocket-acquired Mainstar products.
-Strong information gathering skills.
-Strong written and verbal communication skills.
-Highly motivated person who is comfortable taking on a variety of technical and business tasks to satisfy customer and partner demands.
-Detail-oriented with ability to rapidly learn and take advantage of new concepts and technologies.
-Strong problem-solving ability.
-Ability to travel up to 50%.
-Ability to work independently and engage team support when required.
-Ability to prioritize and manage workload to meet proposed deadlines.
-Must be comfortable working in a rapidly changing and sometimes unstructured environment.
-Excellent verbal and written communication skills in English asa primary language.
+IBM  – 
+Durham, NC, 27709
+**Introduction** At IBM, Technical Solution Architects work to understand needs and then create complex high-quality ... with mainframe Z, Power and iSeries **Key skills:** + Broad design expertise across VPC design, IAM definition, OS tuning ...
+- Nexxt, Oct 08
 
+IBM  – 
+Raleigh, NC, 27608
+**Introduction** At IBM, Technical Solution Architects work to understand needs and then create complex high-quality ... with mainframe Z, Power and iSeries **Key skills:** + Broad design expertise across VPC design, IAM definition, OS tuning ...
+- Nexxt, Oct 08
 
-Go to apply 
+Sirius Computer Solutions  – 
+Raleigh, NC, 27608
+... focused Mainframe z/OS Engineer. This role can be based from most major US cities, and can be a telecommute role. **Position Summary:** The primary purpose of this position is z/OS operating system installation and customization using the IBM ...
+- Nexxt, Sep 17
 
+IBM  – 
+Durham, NC, 27709
+... team of global consultants as we strive to accelerate sales, deliver client engagements, and build IBM's market eminence. ... processes are in place to continuously refresh platform, maintain proper OS levels, and proactively apply security patches. ...
+- Nexxt, Sep 17
+
+IBM  – 
+Raleigh, NC, 27608
+... team of global consultants as we strive to accelerate sales, deliver client engagements, and build IBM's market eminence. ... processes are in place to continuously refresh platform, maintain proper OS levels, and proactively apply security patches. ...
+- Nexxt, Sep 17
+
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+... Database Administrator (DB2/IBM/Mainframe/JCL/Easytrieve/REXX) (Job ID: 580416) 501 N Wilmington St, Raleigh, NC 27603, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with more than 18 years ...
+- Lensa, Oct 07
+
+State Employees' Credit Union  – 
+Raleigh, NC, 27603
+... daily tasks using z/OS, CICS and other software tools to manage a multi-platform, GDPS Sysplex, z/OS mainframe environment. ... configuration troubleshooting issues Support and monitor IBM Virtual Tape server storage system Continually monitor and ...
+- Dice, Sep 20
+
+HCL Global Systems  – 
+Durham, NC, 27701
+... (z/OS) Location: Durham, NC Duration: Long Term Contract This role will be responsible for moving data from their mainframe ... manage replication between DB2 for Z/OS and from DB2 Z/OS to Oracle using QREP and IBM CDC Monitor replication performance ...
+- Dice, Sep 16
+
+State Employees' Credit Union  – 
+Raleigh, NC, 27603
+... Extensive knowledge of mainframe software installation (expert level SMP/E experience), customization, and administration of IBM DB2 and third party products. Installation experience with DB2 is a required. z/OS, ISPF, JCL, and TSO skills are ...
+- Dice, Sep 20
+
+State Employees' Credit Union  – 
+Raleigh, NC, 27603
+... Extensive knowledge of mainframe software installation (expert level SMP/E experience), customization, and administration of IBM DB2 and third party products. Installation experience with DB2 is a required. z/OS, ISPF, JCL, and TSO skills are ...
+- Jobg8, Oct 02

@@ -1,0 +1,31 @@
+Job Title = Engineer
+
+Location: Baltimore, MD
+Salary: 44
+Description: Our client is currently seeking an Engineer
+
+Job Description: Required to have a bachelors degree or equivalent experience and a minimum of 5 years engineering experience performing program and technical tasks in support of nuclear plant operations. Responsible for preparing and revising engineering documents with minimal supervision. Updates engineering data and notes. Incorporates review comments and walk down data into associated engineering products, databases and programs. Supports engineering work functions in support of applicable safety analyses, industry codes, and regulatory requirements. Manages the development, implementation, and evaluation of complex designs, product construction and testing. Typically reports to a head of a unit/department.
+
+- Engineering degree/background
+
+o Photovoltaics Focus/Experience
+
+- PVsyst (PVsyst is a PC software package for the study, sizing, simulation and data analysis of complete PV & Solar systems.)
+
+- Data Analytics and Database Experience
+
+- PowerBI Power User
+
+- Python Power User
+
+- Microsoft Excel Power User
+
+Contact:
+
+This job and many more are available through The Judge Group. Find us on the web at
+
+Permanent
+
+
+Go to apply 
+

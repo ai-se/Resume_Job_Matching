@@ -1,0 +1,68 @@
+
+continued…
+Jennifer Parsons Witley, United Kingdom GU8 5RN
+adaiaf@r.postjobfree.com 079**-******
+linkedin.com/in/jenniferparsons-veit
+IT Leader/Infrastructure Specialist/Consultant
+Over 20 years of progressive experience in public, private, and government sectors Experienced IT manager and Infrastructure specialist with strong track record of modernising billion-dollar organisations with complex business requirements. Proven ability to energise senior executives with dynamic visions for improving IT policies, procedures, processes, and for the potential new technologies. Extensive technical training and certification in virtualization with specific expertise with VMware. Currently operating through a Ltd company to provision consultancy services and can offer hands-on, team lead of managerial expertise as necessary.
+Highlights of Expertise
+• Strategic & Tactical Infrastructure Planning
+• Enterprise Security
+• Vendor & Supplier Relationship Management
+• Incident Response
+• Agile / Scrum / Kanban Exercises
+• VMware virtualization
+• Technology Modernisation
+• Multimillion-dollar P&L Accountability
+• Infrastructure Management
+• Procurement
+• Regulatory Compliance
+• Virtual Desktop Infrastructure
+Career Experience
+OKI Europe Ltd.
+Providing leadership and supporting Europe wide Technology Infrastructure and service management teams. Split between support of the pan European IS Infrastructure, management of third-party suppliers and projects to deliver technology Infrastructure and service improvements. Mentoring and team leadership to Infrastructure analysts, Network and security Admin, Datacentre management, Mail Administrator, Wintel and Linux server management and Backup Admin. Driving the Cloud and Virtualization strategy to reduce cost and efficiencies.
+Head of Technical Services Delivery (Permanent – Jan 2019 to Present)
+• Improved the change management process by introducing a more effective RFC process with a SharePoint approval mechanism, using O365 Flow to automate a Planner task creation for Kanban management of change
+• Enhanced Microsoft OS security by introducing a patch management policy that ensured new patches were applied to both server & desktop OS in a timely manner and as part of a regular schedule, conforming to a ISM window of compliance.
+• Instrumental in developing an evolving program of improvements to standard practice with the introduction of common service policy sets, processes and automated actions
+• Kick-started stagnating O365 Exchange Online project and drove business through the migration testing and batch processing of mailboxes (Lotus Notes to Exchange Online)
+• Developed a strategy to improve infrastructure services, advancing backup capabilities, inclusion of service DR utilising a remote office server room for passive replication Sony Interactive Entertainment Europe.
+Provided consultancy services for SIEEs entire VMware platform(s) across production, production VDI & test and the NetBackup environment, architecting new solutions, upgrades and migrations. Provided BAU services into the Wintel team and worked on a range of Wintel based project activities. VMware & NetBackup Consultant (Contract – Sep 2016 to Aug 2018) Jennifer Parsons Page 2
+• Created a VMware environment replacing Horizon View VDI-service. Achieved all project goals on time and on budget for the near two-year project. Improved resource availability by 25%. Provided consultancy support on a NetBackup initiative.
+• Positioned the company to reduce IT operational costs and improve business continuity by building a strategy to integrate more efficient disk-based backup technology to replace legacy tape libraries.
+• Enhanced SIEEs SQL clustering services with the introduction of new cluster(s) to separate production
+& test environments, whilst migrating all SQL data across storage platforms as part of an overall storage upgrade.
+• Worked with the Network Information Services team to enhance DNS/DHCP services by migrating AD integrated zoning across to the newly deployed Infoblox IPAM service. Ingeus.
+Provided consultancy services to architect, build and implement a greenfield infrastructure based around VMware, JetStor, Cisco and Wintel stack. Developing the Active Directory, PKI services, application services and security hardening across the entire platform.
+Platform/VMware Consultant (Contract – Mar 2015 to Aug 2016)
+• Built an entirely new Wintel virtualization environment as part of a MoJ initiative within a year for a 1,200-user environment. Achieved massive service delivery improvements by replacing the legacy technology. Obtained three contract extensions for various projects.
+• Fortified the integrity of VMware, Wintel, and Microsoft PKI deployments for the MoJ initiative hardening each application while complying with stringent security requirements.
+• Enhanced the operation of BAU/maintenance activities while strengthening scripting capabilities by creating bespoke semi-automated deployment tools with PowerShell & PowerCLI for the virtualized environment.
+Hewett Packard Enterprise Services.
+Provided Wintel services to design, build and implement a VMware/Wintel architected platform to serve government customers.
+Wintel Engineer (Contract – Nov 2014 to Mar 2015)
+• Secured a government sector virtualization project working with Windows servers, VMware ESXi solutions, Cisco networking, and HP storage servers. Effectively complied with all federal IT security compliance standards and regulations.
+Surrey Satellite Technology Ltd.
+Bolstered business continuity, security, and user experience strategies for the Airbus subsidiary that has supported 40+ satellite launches since 1985.
+HEAD OF INFORMATION SYSTEMS (Permanent - 2004 to 2014) Directed a 20+-person staff in the group responsible for service delivery, infrastructure services, and business systems. Forged partnerships with various department leaders to ensure proper configuration and security of enterprise applications.
+• Achieved all goals of creating a new security policy and other IT improvement initiatives while managing a £2m+ annual operating budget.
+• Optimised technology vendor relationships to negotiate cost savings and proper delivery of all SLAs.
+• Attained immediate increases in security incident response times following the creation of new processes.
+• Collaborated with the Business Security Officer to make continued improvements to policies and technology to protect parent company and subsidiary reputation.
+• Improved internal IT service times by 30% by introducing an ITIL-based service management product.
+• Saved the organisation millions of pounds following the launch of a new disaster recovery program.
+• Modernised business operation by creating a remote working strategy that boosted productivity and employee satisfaction.
+• Maintained a hands-on approach as and when needed, taking the technical lead of several Infrastructure project activities, but predominantly virtualisation specific. CHIEF SECURITY OFFICER (Permanent - 2010 to 2014)
+Transformed parent company and subsidiary security practices to adapt to the rapidly changing cyber crime landscape targeting intelligence assets.
+• Partnered with the CISO on developing better IT security risk management and monitoring solutions with third-party suppliers.
+• Implemented several new security technologies during tenure including firewalls, UTM, email filtering, and proxies from both a managerial and hands-on perspective.
+• Proactively recommended and implemented Splunk (SIEM) into the IT environment resulting in greater transparency of potential vulnerabilities and areas of improvement in IT services. NETWORK & SERVERS TEAM LEADER (Permanent - 2000 to 2003) Led a two-person team responsible for overseeing the Cisco network, HP/Compaq servers and other hardware.
+• Revolutionised storage provisioning and data protection with the introduction of the organization’s first SAN solution, NetBackup Enterprise and tape library services.
+• Introduced enhanced network security with the introduction of firewall services, VPN connectivity and enhanced password policies.
+ADDITIONAL EXPERIENCE
+Web Administrator (2000) Townpages
+UNIX Administrator (1999) Virgin Net
+Computer Support Officer (1992 to 1999) University of Surrey Electronics Technician (1990 to 1992) University of Surrey Education & Credentials
+Professional Development & Certifications: BTEC National Diploma & HNC Electrical & Electronic Engineering, BTEC NC Computing, VCP550-DCV, VCA, VCA-DCV, VCA-WM, VCA-Cloud Technical Proficiencies: VMware vSphere, VMware Horizon, Microsoft SQL, Windows Server, Active Directory, WSUS, Windows PKI, Windows PowerShell, Linux, Veritas NetBackup, Qualys Cloud Security, HP Proliant, Lenovo ThinkServer, EMC/HP/JetStor Storage, Cisco Catalyst/Procurve Switches, Dell Wyse Thin/Zero clients, FortiNet firewalls and access points.
+
+Contact this candidate

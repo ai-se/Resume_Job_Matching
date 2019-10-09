@@ -1,3 +1,4 @@
+Job Title = Endpoint Engineer I (Los Angeles)
 
 The Team: Deployments primary task is to handle the hardware lifecycle for equipment deployed to Client colleagues within all USA/Canada locations.
 The support of hardware lifecycle includes: ? Procuring hardware for on-hand inventory ? Receive new and used hardware and ensure proper asset tracking ? Prepare and image computers and deploy as needed ? Support hardware deployment projects ? Support getting hardware repaired or RMA as needed ? Collect hardware as needed ? Prepare the disposal of equipment at end of life for the hardware The Deployment Technician: As the Deployment Technician, you will be helping with the asset lifecycle management of corporate computer assets such as laptops, desktops, workstations, servers, monitors and computer accessories.

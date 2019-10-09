@@ -1,27 +1,51 @@
+Job Title = Risk Or Iii Or Mainframe Or Db2 jobs in Raleigh, NC, 27606
 
-Software Guidance & Assistance, Inc., (SGA), is searching for a Risk & Security Engineer III for a Contract assignment with one of our premier Insurance clients in Cary, NC .
+SunTechPros, Inc.  – 
+Raleigh, NC, 27601
+... of 5 years DBA and troubleshooting experience in DB2 Distributed/Mainframe Expertise on QREP and CDC is a must Experience ... Burchette, III Senior Recruiting Manager SunTechPros, Inc. Mobile Office Empowering Technology Solutions A Minority Business ...
+- Dice, Oct 03
 
-Responsibilities :
-Develops risk management policies and procedures.
-Review, evaluate, implement and maintain compliance checks against company database[s]. Identifies data sources, provides data flow diagrams and documents the process.
-Performs a variety of tasks.
-Work under general supervision; typically reports to a project leader or manager.
-Identify and makes recommendations regarding critical points of failure.
-Test plans with various operational and support groups in IT.
-Required Skills:
-Bachelor's Degree in Computer Science, Information Systems, or other related field or equivalent work experience.
-5 10 years Audit review experience with testing practices, policy checks and access management background required.
-5-10 years of IT work experience in information systems support, administration, risk management, and audit principles.
-5 years of Mainframe or Database testing experience in the field or in a related area.
-Mainframe experience to govern, review, evaluate, implement and maintain compliance checks against company database[s].
-Familiarity with standard mainframe, DB2, & UNIX concepts, practices, and procedures.
-Relies on experience and judgment to plan and accomplish goals.
-A certain degree of creativity and latitude is required.
-Preferred Skills:
-Automation experience via Artificial Intelligence recommended.
+IT People Corporation  – 
+Cary, NC, 27511
+Risk& Security Compliance Engineer I - w/Mainframe DB2 & Access Management, Cary NC We have an immediate long-term contract opportunity for a Security Engineer with Mainframe/DB2 Support & Access Management experience for a great company in Cary! ...
+- Dice.com, Oct 07
 
-Permanent
+IT People Corporation  – 
+Cary, NC, 27511
+Risk& Security Compliance Engineer I - w/Mainframe DB2 & Access Management, Cary NC We have an immediate long-term contract opportunity for a Security Engineer with Mainframe/DB2 Support & Access Management experience for a great company in Cary! ...
+- Dice, Oct 07
 
+IT People Corporation  – 
+Cary, NC, 27511
+Risk& Security Compliance Engineer I - w/Mainframe DB2 & Access Management, Cary NC We have an immediate long-term contract opportunity for a Security Engineer with Mainframe/DB2 Support & Access Management experience for a great company in Cary! ...
+- Jobg8, Oct 08
 
-Go to apply 
+SPECTRAFORCE TECHNOLOGIES Inc.  – 
+Durham, NC, 27701
+Position: DB2 DBA Duration: 6+ months Location: Durham, NC Special Instructions: Looking for a strong Db2 DBA to help move data from mainframe Db2 zos to Oracle database. Required Qualifications: DBA having minimum of 5 years DBA and troubleshooting ...
+- Jobg8, Oct 02
 
+Smart Source Technologies  – 
+Durham, NC, 27701
+Mid Level DB2 DBA Location: Durham, NC Duration: 6 months ( extendable ) Rate: $60-64/Hr. on W2, DOE This role will be responsible for moving data from their mainframe systems to an Oracle database via CDC as well as replicating it using Q ...
+- Jobg8, Oct 02
+
+SPECTRAFORCE TECHNOLOGIES Inc.  – 
+Durham, NC, 27701
+Position: DB2 DBA Duration: 6+ months Location: Durham, NC Special Instructions: Looking for a strong Db2 DBA to help move data from mainframe Db2 zos to Oracle database. Required Qualifications: DBA having minimum of 5 years DBA and troubleshooting ...
+- Dice, Sep 27
+
+Kairos Technologies  – 
+Durham, NC
+Looking for a strong Db2 DBA to help move data from mainframe Db2 zos to Oracle database. Location: Durham, NC Duration:Long term contract (6 month increments) This role will be responsible for moving data from their mainframe systems to an Oracle ...
+- Oorwin, Sep 19
+
+Kairos Technologies  – 
+Durham, NC
+Role: DB2 DBA Location: Durham, NC Duration:Long term contract Looking for a strong Db2 DBA to help move data from mainframe Db2 zos to Oracle database. This role will be responsible for moving data from their mainframe systems to an Oracle database ...
+- Oorwin, Sep 17
+
+Smart Source Technologies  – 
+Durham, NC, 27701
+Mid Level DB2 DBA Location: Durham, NC Duration: 6 months ( extendable ) Rate: $60-64/Hr. on W2, DOE This role will be responsible for moving data from their mainframe systems to an Oracle database via CDC as well as replicating it using Q ...
+- Dice, Sep 19

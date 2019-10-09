@@ -1,3 +1,4 @@
+Job Title = Urgent of Ping Federation Tier 3 Support Engineer
 
 Role: Ping Federation Tier 3 Support Engineer Location: Indianapolis, IN Duration: 6+ Month Interview: Phone & Skype Responsibilities: The Federation Services team is responsible for the administration and operation of the PingFederate and PingID platform and the support of federation services for the client s users and 3rd party vendors.
 Federation services will work with other IDM services to effectively create a solution to meet the user s needs.

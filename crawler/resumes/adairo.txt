@@ -1,0 +1,107 @@
+
+Steffi Chettiar
+Mobile No: +971-**-*******
+Email: adairo@r.postjobfree.com
+
+Professional Summary
+
+• Working as SAPUI5/SAP Hybris C4C consultant at Easa Saleh Al Gurg Group, Dubai, United Arab Emirates.
+• SAP UI consultant with more than 5 years of experience in software development and integration.
+• Advanced knowledge of SAP UI5 and SAP Gateway oData services.
+• Proficient in analysis and design of UI5 application.
+• Exposure in SAP Hybris Cloud for Customer (Sales) functional areas.
+• Experienced in handling design and development of UI single handedly.
+• Sole developer and consultant in UI technologies in the current company.
+• Experienced in interacting with clients, sales and business analysts to develop business case for project.
+• Experienced in full project life cycle from design to implementation to deployment.
+• Advanced problem solving and managerial skills.
+Technical Proficiency
+
+Technologies/Framework: SAP-ABAP, SAP Gateway oData, SAPUI5, SAP Fiori, SAP Screen Personas, JavaScript, jQuery, Java, Swift, HTML, CSS and C/C++.
+
+Professional Experience
+
+SAPUI5/Fiori Consultant - Easa Saleh Al Gurg Group L.L.C. November 2015-Present
+
+Project Description
+
+Project Name SAP Hybris Cloud for Customer (Sales)
+Client OFIS Al Gurg Office Furniture, Better Life L.L.C., Al Mashrabia Furniture
+Role SAP Hybris Cloud for Customer Functional Consultant
+Roles Performed • Constant interaction with client to gather requirements and do necessary customizations.
+• Responsible for defining the org structure and creating business roles.
+• Well versed with analytics.
+• Implement design and layout changes based on user requirement.
+• Handle workflow configuration.
+• Advanced knowledge of scoping and business configurations in C4C.
+• In charge of providing user training and support.
+Description SAP Hybris Cloud for Customer will be implemented across different business verticals in Easa Saleh Al Gurg group of companies.
+
+Project Name Warehouse Management Application (Custom SAPUI5 Android Mobile Application)
+Client Better Life L.L.C., Interiors L.L.C., ID Design & Technical Trading LLC.
+Role SAP UI5 Developer
+Roles Performed • Create basic CRUD as well as advanced oData services using association and navigation.
+• Consume SAP gateway oData services in SAPUI5 application.
+• Develop UI screens single handedly based on the design provided whilst following the best practices.
+• Register SAPUI5 application in SAP Mobile Platform.
+• Capture barcode information through the app using the barcode scanning device.
+• Implement complex coding logic for MIGO, PGI, inventory check, inventory count, delivery schedule and delivery acknowledgement.
+• Develop signature pad custom control for delivery acknowledgement from customer.
+• Integrate camera functionality in SAPUI5 app to capture customer ID proof.
+• Convert SAPUI5 application into android app using cordova libraries.
+• Generate apk using android studio and upload on google store.
+Technology used in project Developing tool Eclipse, Xcode
+Skills JavaScript, JQuery & HTML5
+Description Warehouse Management Application covers all warehouse operations like inventory inward, inventory outward, inventory check, inventory count, delivery management and delivery acknowledgement.
+
+Project Name Customer Feedback Application (Custom SAPUI5 iOS Mobile Application)
+Client Better Life L.L.C., Interiors L.L.C., ID Design
+Role SAP UI5 Developer
+Roles Performed • Gather requirements for Customer Feedback Application.
+• Develop mobile app which receives optimum information from the customer.
+• Convert SAPUI5 application to iOS app using Cordova libraries.
+• Make configuration changes in Xcode in order to make the app compatible with different iOS versions.
+• Generate the ipa file and make the app available in desired devices.
+Technology used in project Developing tool Eclipse, Xcode
+Skills JavaScript, JQuery & HTML5
+Description Customer Feedback App receives utmost information from the customer including personal details and overall consumer experience. This app has been beneficial to the company in analyzing the performance of staff and improving customer service.
+
+Senior Software Engineer - Capgemini India Pvt. Ltd., Mumbai June 2013-July 2015
+
+Project Description
+
+Project Name SAP UI Smart
+Client Capgemini SAP UI Competency Team
+Role SAP Gateway Odata Service and Fiori Developer
+Roles Performed • Develop gateway services for SAPUI5 applications.
+• Extend gateway services for standard Fiori applications.
+• Enable launchpad configuration services in the back-end.
+• Configure Fiori apps on Launchpad.
+• Develop sap gateway oData services for SAP My Path-HR appraisal portal for Capgemini employees.
+Technology used in project ERP ERP-SAP ECC 6.0
+Skills SAP Gateway, Sap Fiori, SAP Screen Personas
+Description Center of Excellence for SAP UI applications. It provides the technology infrastructure on which research and experiments in new technologies can be done, allowing the development of new offerings in the SAP UI space.
+
+Project Name Anglian Water
+Client Anglian Water Services UK
+Role SAP Gateway Odata Service Developer
+Roles Performed • Develop basic (CRUD) and advanced gateway services.
+• Experiment and implement gateway services using OOPS concept in SEGW.
+• Work in agile development environment.
+• Analyze and solve defects during the SIT phase.
+• Work closely with SAP Functional Consultants and the team on-shore for aligning the front end to the back end.
+Technology used in project ERP ERP-SAP ECC 6.0
+Skills SAP Gateway
+Description Client Description: Anglian Water is a water company that operates in the East of England. It supplies drinking water to different parts of UK.
+Project Description: This project is the first solution of SAPUI5 which consists of 133 processes from CRM which are replicated into SAPUI5. Gateway Services were developed for the SAP classes and their respective methods, these services helped in directing them to the custom front end that is developed in HTML/CSS/JavaScript for better user experience.
+
+Education, Professional Training & Certification
+
+• Bachelor of Engineering in Information Technology from Mumbai University, India (2013).
+• SAP ABAP Trained Professional (2013).
+• Trained in SAPUI5 and SAP Gateway.
+• Trained in android and iOS application development.
+• Completed openSAP course: Introduction to SAP Fiori UX.
+• Completed openSAP course: SAP Screen Personas.
+
+Contact this candidate

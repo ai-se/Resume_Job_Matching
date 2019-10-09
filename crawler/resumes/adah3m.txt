@@ -1,0 +1,79 @@
+
+Floyd Knapp's Work History
+**** ******* *** #*
+Placerville, CA 95667
+adah3m@r.postjobfree.com
+530-***-****.
+
+Strengths: Analog design, sensors, low level /low noise signals.
+Low Power.
+Digital Design.
+PCB Layout.
+Machine control and monitoring.
+Prototyping.
+Embedded MCU's and programming using C and Assembly.
+Working with clients and customers and others.
+Individual and team work.
+Very broad experience range.
+
+I had 'retired' in 2011 and was working on personal projects and occasional development contracts. One was a non-invasive blood analysis system, covered by a NDA.
+
+Feb 5 to Aug 1 2018: 6 month contract with eMotorWerks, in San Carlos. EV Charging Systems. Ran the hardware department. Owned by Enel, the Italian energy giant.
+
+May – August 2015: blood analysis system. Covered by NDA, can not disclose.
+
+June5 2000 – Feb 2003: Lockheed Martin in San Jose. Real-time operational test system for classified satellite down-link. BERT for a real-time analysis of a 3.6 GHz data-rate.Used the new TI Dual Core 6400 series, 500 MHz clock, processors and new Xilinx 4000 series FPGAs. All with the new micro-grid ball array for electroless gold process. Was sole hardware /firmware engineer on project and oversaw the PCB layout and designed the architecture of the FPGAs. (OXFORD).
+
+Feb 1999 – May 2000: Lucent Technologies, San Jose, now closed. Was sole engineer in department and took care of wrapping projects up and handling problems till the facility was closed. Consisted of ASIC respin, prototype reworks and testing, regulatory concerns and CO (Central Office) switching system manufacturing problems. Was sole person for the last 2 months. (OXFORD)
+
+1991 – 1999: Various 2 to 5 month assignments with Oxford for clients all over the west coast. Talley/Gencom (Haptics) was the last one and it was for one year.
+
+1988 -1991: Aerojet General. Contract for the RDO120 Project, a simulator for the Russian rocket motors that were bought from Russia to be used by NASA. After 9 months was kept on for the X-33 Project. A single stage earth to orbit and return craft with a 7 day turn-around. Primary responsibility was for the maneuvering thrusters. These were externally removable, reducing the down-time to 2 hours from the 2 weeks for the Space Shuttle. They were also for replacing the existing shuttles maneuvering thrusters. There were many operational and specification challenges which were overcome successfully. Also got the specific impulse reduced from the Shuttles 3 seconds to less than 0.5 seconds. Provided guidance for the firmware to provide proper functioning and safety checks. Used 'Space Rated' Intel 196 processor. Everything was required to be 'orbit and deep space' rated.
+
+1986-1987 : LP Comm, Sunnyvale. PC based Re-configurable E-1 & T-1 Telecom test systems.
+
+1985-1986 :Nanometrics, Sunnyvale, CA. New model of a Scanning Electron Microscope. This SEM was to be part of a 'Cluster Tool' and as such had to be both manual and computer controlled. Also the size of the wafers was increased to 12 inches which changed the mechanics of the machine.
+
+1984-1985: Forte Data Systems, PC based IBM mainframe terminal emulation. My responsibility was to get QC working and design the color terminal which had not been done by anyone else. The task even included having to slightly modify the 'made in England' CRT display, had to get the colors just right, and increase the scan frequency lock range. Was sent to England for 4 weeks to oversee production startup and clear up any problems and fully explain what the changes were and why and monitor the first production run.
+
+1982-1983 Naval Surface Warfare. (K&K) Electrochemisty test system for 'Coatings porosity and aging' Lab equipment for measuring the 'decay of the coating'. Increased the range of the 'state of the art' by 2.5 orders of magnitude. (10^15). adapted from a lab instrument to a portable. They were able to measure what what theoretically predicted.
+
+1980-1982 Krass West (K&K) Machines for IC packaging and handling. Die scribes, Wire Bonders, Package injection,lead forming and packaging. Worked with their mechanics and designed and produced a TO-3 inspection and packaging machine. The pins were straightened and rejected if a pin was missing, then palatize the devices as 10 rows of 10 devices, moved to loaded carton under the out-stack and got an empty carton from the in-stack. Counted parts, fully monitored operations, used pneumatics for motion. Machine detected all problems before they became real problems. Used RCA 1802 as the Embedded MCU. Wrote the code in Assembly. Also designed and made a machine that would put IC's into shipping tubes while counting parts and detecting all possible faults.
+
+1978 – 1980 EPS (Ecology Protections Systems)(K&K) San Jose CA. Contaminated Waste-Water treatment systems for plating and PCB shops. A continuous treatment system the used ORP and Ph probes and floculats to remove metallic and chemical contaminates from plant discharge. Used Intel 8085 MCU to control and monitor entire process and provide state mandated records. All system values were keypad changeable with a 'lock-out' Key to keep operators from making changes. Kept a complete log of in and out of spec operations and with 3 stages of alarms and a CRT monitor for instant readings. Fully compliant with CA environmental laws.
+
+1977-1980 Barret Electronics: Early robotic material handling systems. Automated Tugs that followed a wire embedded in the floor and read magnetic codes for location information. Used 100KHz pulses for sending location information to all units. This was a completely new systems and I went out to verify the proper installation and to make sure the operators knew how to use the system. If there were any errors of omissions I corrected them as needed. The frequency the buried wire was energized with was changed dynamically at decision points as needed.
+
+1975 – 1976 Hunter Geophysics. Geophysical Instrumentation, very precise Tilt-meters. Showing earth tides over a +/- 10V range. Employed remote leveling which alleviated the biggest problems of installing and calibration. Patented. Used to do real-time modeling of Hydro-Fracks,
+
+1971-1974 USGS, National Center for Earthquake Research. Developed a field deployable seismic Telemetry System. Using 'high-band' radios and narrow-band FM audio tone transmitters and discriminators. Very low powered and ran off 'Air-Cell' primary batteries. Was attached to the UN for a year to do a “micro-seismic earthquake survey” for a year in the Eastern Rift Valley. Changes locations 3 times and live in a tent on safari.
+
+1968-1971: Broadcast and Emergency Communications. Using low band (29 MHz), High-band (160-175 MHz), 450 and 960 MHz bands. AM broadcast stations. FCC First Class license.
+
+Skill Sets:
+Industrial Process and Machine control.
+Machine automation and safety.
+Self-guided industrial machines and systems.
+Embedded systems with 8-32 bit MCU's. Hardware design and MCU programming.
+FPGAs and CPLDs.
+Scientific Instrumentation.
+Fuel Injection and engine controls.
+Telecommunications.
+Aerospace.
+High Voltage and High Current switching supplies.
+Experienced with various ECAD programs. Have Altium.
+Have SolidWorks Pro with Simulation, MCAD.
+Multipule serial protocols.
+Instrumentation and control systems.
+C programming.
+ASM programming.
+Familiar with VHDL, not an expert. Have used it occasionally.
+
+Education:
+USAF, special program. AA issued in 2 months. USAF Academy courses in Solid-State Physics (honors) and Computer fundamentals, at Keesler AFB, MS.
+
+Have had 2 TS clearances, Crypto and nuclear.
+
+US Patent #4955348A.
+
+Contact this candidate

@@ -1,0 +1,96 @@
+
+BABATUNDE M. DAIRO
+*** ******* ******
+Calumet City, IL 60409
+adadme@r.postjobfree.com
+Cell: 708-***-****
+
+SKILLS SUMMARY
+I have over many years of diverse experience as a multi-platform System Engineer in Windows, Novell and UNIX environments. I have strong experience and knowledge in capacity planning, distributed multi-tier enterprise, load balancing and performance tuning. I am a highly skilled level 3 Network Engineer.
+In depth knowledge in all versions Microsoft Windows and Novell operating systems, Cisco OSI, PIX firewall and Enterprise Servers.
+Experience in designing, installing, developing and testing Nodes.
+Proficient in monitoring tools such as Big Brother, Patrol, Tivoli Storage Manager and IBM Director.
+In depth experience in systems integration, hardware and software installations and Server configuration.
+Hands on experience in Active Directory, User set up and assignment of rights to maintain Network security.
+Very strong knowledge in DHCP, FTP, ICMP, TCPIP, IPX/SPX, SMTP, SNPP, VPN, SMTP, DNS/WIN Anti-Virus/and VLAN protocols.
+Worked extensively with EMC storage arrays and Storage Foundation.
+Indept knowledge in designing desktop images using Ghost software.
+Worked with server decommission, re-deployment and formatting drives to Department of Defense (DOD) standards.
+Perform systems backup, monitor performance for capacity planning and disaster recovery.
+
+EDUCATION
+Trained Microsoft Systems Engineer: Planning, Implementation, Maintenance, and Support of Information Systems and Networks built around Microsoft Windows and its BackOffice family of products
+
+Olive-Harvey College DEC 97
+Trained NetWare Engineer and PC Technician: Design, Configuration and Installation of NetWare 3.1x with integration of NetWare 4.1. Heavy concentration in Users Administration, Security, Partition and Replica Management. Performance Tuning and Troubleshooting of NetWare Server include Configuration and Troubleshooting.
+
+Northern Illinois University MAY 92
+Bachelor of Science (Industrial Technology), DeKalb, IL
+College of Engineering
+
+Kennedy-King College, Chicago, IL JAN 90
+Associate Degree Minor in Computer Sciences
+
+TECHNICAL SKILLS
+OPERATING SYSTEMS: Windows Servers 2008, 2008 R2, 2012 and 2016, Windows 7 & 10.
+NetWare 6.0 and Cisco IOS Software.
+
+SOFTWARE: MS Office 2010, 2013 & 2016, iManage, GroupWise, CITRIX, Remedy, ARCSERVE, CERIDIAN, DOCSOPEN (PC-DOCS), Internet Security, Checkpoint Firewall, SeriveNow, ACCESS, Office 365 and Imaging Software.
+HARDWARE: Cisco switches, router, Riverbed, RFID, Compaq, Hewlett Packard, IBM desktops, Serves and Laptops, Memory, Network Interface Card, Network 10 Base 2, Network 10 Base T, Routers and Switches, Scanners, Modem Technologies, HP Printers configuration, Diagnosis and Repair.
+
+CERTIFICATION AND TRAINING
+AWS Solution Architecture Training
+CCNA-Certified Cisco Network Administrator
+CNA-Certified Novell Administrator
+MCP-Microsoft Certified Professional
+Microsoft Network Essential
+
+PROF PROFESSIONAL EXPERIENCE
+JEPPESEN SANDERSON (BOEING) September 2009-PRESENT
+SITE LEAD/ IT SUPPORT SPECIALIST
+Designed, configured, installed, implemented, and supported large network
+Installed, designed, monitored and maintain servers including software and hardware troubleshooting and repair
+Support for Windows 7 & 10, SANs, Windows 2012 &2016 Servers
+Serve as liaison technical personnel between Chicago and Denver offices
+Responsible for the intranet/internet site network connections, servers’ functionality, maintenance, planning and implementation of infrastructure.
+Troubleshoot and resolve Cisco routers, switches and Riverbed Technology equipment
+Manage and support local area network (LAN) and wide area network (WAN
+Provided appropriate support and follow-up with users to ensure user satisfaction with problem resolution
+Delivery of flight critical air navigation documents to the Aircraft (Flight bags)
+Respond to support calls, emails, and internal escalations resulting to customer satisfaction
+Responsible for Airline customer issues at both O’Hare and Midway airports
+Serves as key field support contact point for Jeppesen customers at O’Hare and Midway airport
+Monitor, manage and setup/relocation of the Jeppesen office in Chicago
+Plan and control of the operational process flow for production at the Chicago facility.
+Resolve product and customer issues on demand both internal and external customers. Develop process to improvements for material handling.
+Prepare statistics and reports
+Planning customer delivery schedule
+Staff scheduling and management
+Facility and equipment management.
+
+FIFTH THIRD BANK, Chicago
+NETWORK ADMINISTRATOR
+February 2003 to June 2009
+Managed, installed, configured, and support for CITRIX applications on Windows 2003 and 2008 Servers.
+Designed desktop images using Ghost Software.
+Created, administered, maintains, designed and development of Active Directory services, naming conventions, and enterprise network addressing schemes .
+Designed and maintained Microsoft Exchange Server(s) configuration
+Conducted upgrades for Microsoft Exchange Server 5.5 to Exchange Server 2003
+Maintained workstation(s) and provided support to users
+Performed physical and remote application installations on servers and workstations
+Participant in defining security policy, procedures, and standards
+Conversion of network system infrastructures and applications
+Responsible for the intranet/internet site network connections, servers’ functionality, maintenance, planning and implementation of infrastructure.
+Troubleshoot and resolve Cisco routers, switches and hubs
+Manage and support local area network (LAN) and wide area network (WAN)
+Performed incremental and full backups on daily basis.
+Resolve issues involving telecommunication systems (Telephone and Fax)
+Managed and trained users on email software (GroupWise, Outlook).
+Developed network and remote connectivity technology evaluation, strategy, and direction. Consulted with business units on requirements and develop telecom solutions to meet those needs
+Team member for product evaluations, integration and on-going management for components of the enterprise network
+Involved in the perform enterprise network trending and analysis of traffic patterns for LAN/WAN/Internet
+Responsible for ATM switches and LAN routers engineering (design, configuration, and implementation of Cisco routers and switches)
+Provides training on new network standards and implementation and helps define training requirements for new network technology
+Responsible for the bank computing environment for all Illinois offices, including installation of software and hardware and troubleshooting issues
+
+Contact this candidate

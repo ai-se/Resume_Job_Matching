@@ -1,11 +1,12 @@
+Job Title = Jr Business Analyst/Data Analyst
 
 Overview:
-Data Engineer - Data Warehousing/Data Science/Data Analytics/Big Data
+Data Analyst - Data Warehousing/Data Science/Data Analytics/Big Data
 - Work closely with Data Owners, Business and to work out data sourcing requirements
 - Data Discovery, Data Profiling, and understanding in Source Systems
 - Capture meta data and map data elements to business data requirements
 - Data Quality Checks and Requirements
-- Agile
+- Python/PySpark a plus
 
 Permanent
 

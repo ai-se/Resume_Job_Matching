@@ -1,8 +1,51 @@
+Job Title = Ux Or J2ee Or Intern Or Js Or Scrum jobs in Raleigh, NC, 27606
 
-OpenText Alloy-Fulcrum cloud services platform provides cutting edge solutions to enable B2B integration. As a Software Developer Intern working on the latest microservice architecture and User Experience (UX) for OpenText’s Alloy-Fulcrum, you’ll have opportunity to design and develop with the latest technologies in UX and microservices development. Not only will you learn about technology but also sophisticated cloud deployment and development stack such as Kubernetes. You will also get opportunities to work on big-data data management solutions. We are applying continuous innovation to advance our sophisticated framework and exceed expectations around performance, high-availability, security, test automation, 3rd party component integration management, as well as for our cloud deployments. You are great at:
-•You are a 3rd year student with a background in Computer Science or related field •Ideally you are experienced in: o Java/J2EE o SQL for any combination of SQL Server, Oracle, Postgres. o REST API development•Other languages used include: o HTML5 o JavaScript o CSS3 o Angular.JS•Valuable skills include: o Proficiency in optimization, resource utilization, performance tuning, scalability, security and high-availability oAbility to handle concurrency and scalability issues in multi-threaded applications oFamiliarity with programming concepts related to web servers, application servers, operating systems, networks and protocols oCapability to understand/architect complex systems with many moving parts
-•Strong analytical skills and effective problem-solving ability•Strong interpersonal and teamwork skills in a large, diverse and geographically disperse environment•Experience with software applications design tools, source code control tools, defect tracking tools•Experience with planning and participating in solution reviews, code reviews and documentation reviews•Experience working within an Agile programming team What you will learn: •You will be a member of a small agile development team well versed in scrum methodology. Scrum is widely used within the industry and you will be an expert at the end of the assignment. You may even be asked to perform Scrum Master duties towards the end.•You will have the opportunity to learn the technologies utilized in all layers of a complete software stack.•You will have the opportunity to work with multiple teams geographically dispersed working towards a common goal.
+Credit Suisse  – 
+Raleigh, NC, 27601
+... J2EE, Spring Boot technologies and RESTful Service development. You have basic understanding of relational database concepts and good to have experience on SQL, PL/SQL procedures. You have experience with Agile methodologies and Scrum framework. ...
+- Lensa, Oct 07
 
+Credit Suisse  – 
+Raleigh, NC, 27601
+... J2EE, Spring Boot technologies and RESTful Service development. You have basic understanding of relational database concepts and good to have experience on SQL, PL/SQL procedures. You have experience with Agile methodologies and Scrum framework. ...
+- Jobg8, Oct 02
 
-Go to apply 
+Credit Suisse  – 
+Raleigh, NC
+... J2EE, Spring Boot technologies and RESTful Service development. You have basic understanding of relational database concepts and good to have experience on SQL, PL/SQL procedures. You have experience with Agile methodologies and Scrum framework. ...
+- Credit Suisse, Sep 13
 
+CTS Consulting & Technical Support  – 
+Raleigh, NC, 27610
+... : - Java/J2ee et webservices (REST ; SOAP) - Design patterns - JBOSS; Glassfish ou quivalent - Spring / Hibernate; Swing; FX - Gestion de Qualit et configuration : Maven, Nexus, Jenkins Une connaissance de Javascript (JQuery, Angular JS, Node...) ...
+- Jobs2Careers, Oct 09
+
+Computer Consultants International  – 
+Durham, NC, 27701
+... This resource will install, configure, upgrade, troubleshoot Oracle Data Integrator (ODI), SOS Job Scheduler(JS) and IBM ... Experience setting up physical/logical schemas, configuring J2EE agents as per business requirements. Required. * 5 Years.? ...
+- Jobs2Careers, Oct 07
+
+Computer Consultants International, Inc.  – 
+Durham, NC
+... This resource will install, configure, upgrade, troubleshoot Oracle Data Integrator (ODI), SOS Job Scheduler(JS) and IBM ... Experience setting up physical/logical schemas, configuring J2EE agents as per business requirements. Required. * 5 Years. ...
+- Neuvoo, Sep 09
+
+Computer Consultants International  – 
+Durham, NC, 27701
+This position serves as a J2EE Technical Architect to be responsible for translating the business and functional requirements into specific system, application and process designs. The Technical Architect must provide technical and architectural ...
+- StartwireL2, Sep 30
+
+Cynet Systems  – 
+Raleigh, NC
+In this role the ideal candidate will support existing staff to better manage production maintenance work load distribution of Java based tasks activities . Tasks might include such things as review and change Java to ensure proper handling of...
+- Neuvoo, Sep 23
+
+CTS Consulting & Technical Support  – 
+Raleigh, NC, 27610
+Description Vous tes passionn par du dveloppement J2EE et vous voulez voluez au sein d'une grande entreprise Nous avons besoin de vous pour dvelopper notre activit. Missions dmandes : - Dveloppement des nouvelles fonctionnalits - participation la ...
+- Jobs2Careers, Oct 05
+
+Baanyan.com  – 
+Raleigh, NC
+... Sr Java J2EE Developer Raleigh, NC Contract/C2H Job Description: -Expertise in server side development. -Technologies include: Core Java, J2EE, Multi-threading, Cache Technology(Oracle Coherence/Apache ignite), Spring Framework. Spring Boot, ...
+- ZipRecruiter, Sep 17

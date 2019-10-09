@@ -1,3 +1,4 @@
+Job Title = Parts and Gear Inspector
 
 JOB TITLE: Inspector
 Reports To: Head Inspector

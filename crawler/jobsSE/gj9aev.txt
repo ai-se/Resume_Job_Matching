@@ -1,3 +1,4 @@
+Job Title = Systems Engineer
 
 BTS Software Solutions is a Service-Disabled Veteran Owned Small Business who are community-focused innovators who transform ideas into technology to serve people. We recognize that innovation is only valuable when applied towards a needed solution. Technology has no value without the hard work to turn ideas into reality. Our roots are in helping save Soldiers lives through technology. We bring that ethos to serving our community. We create solutions that touch people's lives - products to communicate, to connect companies with customers, to stay informed, to save lives, and to enhance lives
 

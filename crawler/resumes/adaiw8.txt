@@ -1,0 +1,146 @@
+
+John Christopher G. Camino
+Senior Software Engineer/Analyst Programmer
+
+Contact Information
+Email Address: adaiw8@r.postjobfree.com : Contact No: +639*********
+*** ****** ****** ****** *******, Naic, Cavite
+Objective
+
+• To secure a significant and challenging position that will allow me to contribute my knowledge for the company’s growth and profitability.
+
+Summary
+• Graduate of Bachelor of Science in Computer Science Degree
+• More than 8 years of work experience as Analyst Programmer. Extensive experience in development and deployment of complex UNIX applications.
+• Support and develop tools to manage production support task.
+• Working as a Service Desk Production Support Sub Lead for team handling various reports and client request.
+• With experience in different phases of the software development lifecycle which include analyze, test and deploy conforming to CMMi industry standard.
+
+Technical Skills :
+
+Visual Basic 6.0, SQL, Oracle PL/SQL 10g /11g, Unix Shell Scripting Scripting, Microsoft Office Programs, PERL, Basic C++, HTML/Web Programming, Deployment Management, MySQL, OTRS, Software Quality Assurance – Application Maintenance, Apache Tomcat, Incident Management, Nagios, Service Desk Management, Oracle Forms, Oracle Reports, WebSphere Application Server
+
+Non-Technical Skills
+
+Goal-oriented, analytical, detail-oriented, team player, passionate, fast-learner, quality-oriented and excellence-driven
+
+Experience
+
+Malaysian Electronic Clearing Corporation Sdn Bhd(MyClear) (November 2016 – November 2018)
+Senior Software Engineer, Tentacle SSO SDN. BHD – MALAYSIA
+Deployed in Malaysian Electronic Clearing Corporation Sdn, Bhd (MALAYSIA) as Senior Software Engineer for eSPICK Application. The National electronic cheque information clearing system(e-SPICK), is an image based clearing system where the cheque image and magnetic ink character recognition(MICR) code line data are captured and transmitted electronically to facilitate clearing.
+e-SPICK reduces the risk and costs associated with the physical handling of cheques and improve the efficiency of the entire cheque clearing processes. eSPICK enables customers receive funds on the next business day.
+
+Roles and Responsibility:
+Position: Senior Software Engineer
+• Production Support – Responsible for resolving issues encountered by the client during their use of production environment. Issues are resolved based on standard SLAs communicated to each client.
+• Infrastructure Support – Managed Production and Staging environments including servers and database related concerns.
+• Responsible for testing and deploying enhancement for better performance.
+• Responsible for Monthly SLA report creation and production support task.
+• Responsible in handling daily tickets
+• Providing timely response to all the client requests including on call support outside normal business hours
+• Troubleshooting technical and some functional problems encountered in production environment.
+• Provide onsite support during DR switching
+• Coordinate with vendor if there is any enhancement in production environment
+
+Technology used:
+• UNIX/AIX
+• IBM DB2 for Linux
+• WebSphere Application Server
+
+Scope International Sdn Bhd, Standard Chartered(November 2014 – Oct 2016)
+ANALYST PROGRAMMER, ITAC MSC Outsourcing SDN. BHD –MALAYSIA
+Deployed in Scope International Sdn Bhd, Standard Chartered Group’s Global Technology & Operations Hub (MALAYSIA) as Systems Analyst - Production Support
+As part of Production Support Specialist, my team handles Incidents, Service Request and Problem tickets from business users. We ensures the timely resolution of issues and service requests. I am responsible in monitoring of tickets, introduce or enhance process, monthly statistics, server capacity and other elements within the Production support process of the team. Part of work is also having an SIP(Service improvement plan) to enhance the system process and eliminate manual tasks and to ensure the stability of the application. I make sure that my team’s tasks are within the timeline, monitor the team’s progress and mold my team to become a role model employee of the bank.
+Part of my work also includes being a Systems Analyst of the application. I Act as the Information System Driver of one of the core application of the Team which include coordinating with vendor, country users, and testing team to which the new projects or Change Request that will go through series of phases to ensure minimal risk upon deployment in production. Managing the team and Vendor to ensure stability of the application and process within the group is maintained at all times.
+Technology used:
+• UNIX
+• Oracle SQL Developer 10g / 11g
+• WebSphere Application Server
+• Remedy 7.5 and 8.1
+
+Accenture (August 2010 – September 2014)
+
+Accenture Technology Solutions is a global company of technology specialists that focuses on application development, systems administration work, and software maintenance. They provide practical programming and technology implementation for business.
+
+Oracle is an American multinational computer technology corporation that specializes in developing and marketing computer hardware systems and enterprise software products, particularly its own brands of database management systems.
+
+Technology used:
+• SQL Server 2005 / 2008
+• UNIX
+• Oracle SQL Developer 10g / 11g
+• MySQL Workbench
+• OTRS
+• Nagios Core
+
+Roles and Responsibility:
+Position: Production / Application Support Sub Lead / Analyst Programmer / Software Engineering Sr. Analyst
+Administrative:
+• Ensures that the committed timeline for the clients are met.
+• Task monitoring and daily creation of schedule
+• Documents different processes for the team consumption.
+• Supervise a team in creating daily deliverables and support activities to the client environment
+Technical:
+• Deployment in UNIX Environment (jboss and Apache)
+• Nagios core alarms/monitoring Set up
+• OTRS Ticketing Tool Configuration/Modification
+• Develop tools to enhance the performance of the system
+• Provides supports for issues encountered on production environment
+• Coding and reprocessing orders using Oracle, Microsoft SQL, MySQL and UNIX.
+• Environment setup/configuration(Technical Architecture)
+
+Roles and Responsibility:
+Position: Senior Programmer / Senior Software Engineer
+• Production Support – Responsible for resolving issues encountered by the client during their use of production environment. Issues are resolved based on standard SLAs communicated to each client.
+• Infrastructure Support – Managed Production and Staging environments including servers and network related concerns.
+• Created functional and technical design.
+• Responsible for deploying and setting up the new production application server and web application server. He also created the deployment plan and deployment procedures.
+• Responsible for daily report creation and production support task.
+• Responsible in handling daily tickets, creation and update of process documents
+• Providing timely response to all the client requests including on call support outside normal business hours
+• Troubleshooting technical and some functional problems encountered in production environment.
+
+Roles and Responsibility:
+Position: Programmer / Software Engineer
+• Responsible for deployment activities, daily report creation and production support task.
+• Responsible in handling daily tickets, creation and update of process documents
+• Responsible for deployment activities in LINUX environment
+• Responsible for daily monitoring and analysis of Graphs in Cacti Application.
+• Providing timely response to all the client requests including on call support outside normal business hours
+• Troubleshooting technical and some functional problems encountered in production environment.
+
+TRAININGS AND SEMINARS ATTENDED
+• October 2010 ORACLE PL/SQL BOOTCAMP
+• October 2010 ORACLE FORMS AND REPORTS BOOTCAMP
+• November 2010 ORACLE FUSION MIDDLEWARE
+• December 2010 ORACLE E-BUSINESS SUITE FINANCIALS BOOTCAMP
+• March 2012 – August 2012 Italian Class Level 5 (Berlitz)
+• December 2016 IBM WebSphere Application Server V8.5.5 Administration
+• April 2017 IBM DB2 for Linux: Basic Administration for Linux and Windows
+
+CERCTIFICATIOS / AWARDS RECEIEVED
+• 2012 ACN - Communications Industry Generalist Certification
+• 2013 Project Specific - Business Operator Awardee
+
+Personal Data
+Date of Birth: May 21, 1990
+Sex: Male
+Civil Status: Single
+Languages/Dialects: Filipino, English
+Nationality: Filipino
+Availability: Upon Request
+Education
+2010 Cavite State University
+B. S. Computer Science
+
+2006 Western Colleges
+Secondary Education
+
+2002 Bucana Elementary School
+Elementary Education
+
+Reference
+
+• Furnished upon request
+
+Contact this candidate

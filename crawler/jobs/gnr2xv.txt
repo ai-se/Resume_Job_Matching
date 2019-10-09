@@ -1,0 +1,35 @@
+Job Title = Engineer
+
+Job Post has been updated successfully
+
+Job Share
+Recipient Email Job Description
+Share
+Share Email Facebook Twitter Linkedin
+Print `QA - Engineer Foster city, California - United States Posted - 07/24/19 Overview
+Job Description
+Be part of a small Agile team(3-5 devs) of front-end, backend, mobile & QA engineers
+Work on a variety of projects that develop new ideas into demo-able products
+Work with diverse team of product owners and UX designers in fast paced environment, with quick iterative cycles
+You will be responsible for understanding system architecture & designing test plans, manual testing, triaging and prioritizing bugs and automating manual tests Must Have Requirements
+Develop and execute automated tests and test plans.
+Find, isolate, document, regress, and track bugs through resolution.
+Hands-on Java programming, Automation Scripting, White box testing experience in JAVA & TestNG.
+Experience with Selenium or similar software testing framework.
+Experience in building and executing automated and performance tests for REST based services.
+Experience with Agile Methodologies, Tools (Rally, JIRA, Confluence).
+Hands-on experience working with databases Oracle/MySQL.
+Experience testing software at API level using SOA suite, SOAP UI, PostMan, REST Client etc.
+Familiarity with Continuous Integration (CI) tools such as Jenkins/Bamboo
+Hands-on experience with Eclipse or other IDE development tools.
+Experience with distributed source control systems such as Git.
+Bachelors or Masters in Computer Science or Software engineering
+Good to have
+Familiarity in performance testing using Jmeter or similar tools.
+Familiarity with mobile testing concept and tools.
+2-5 years' experience in payment industry.
+Demonstrated ability to manage multiple projects simultaneously and to resolve scheduling and other conflicts in order to meet all deadlines
+
+
+Go to apply 
+

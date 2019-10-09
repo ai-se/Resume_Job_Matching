@@ -1,0 +1,122 @@
+
+MOUNIR REKIK
+Route Sidi Mansour,
+km *.* Rue Ile Chekly. 3061 Sfax –Tunisia
+adaiac@r.postjobfree.com
+linkedin.com/in/mounir-r-05425768/
++216********
+
+Summary
+As an Information Technology professional, I have a long years’ experience in IT field and strong expertise in IT auditing and GRC consulting, I demonstrated expertise in implementing, maintaining and auditing IT Governance structure, managing IT security risk and applying controls to protect availability, integrity and confidentiality of critical business information and information systems.
+Certifications
+Certified Information System Auditor (CISA), ISACA, Mars 2019 – févr. 2023, Licence N 19155567
+Certified ISO/IEC 27001 Lead Auditor, PECB, juin 2016 – juin 2019, Licence N ISLA1011527-2016-03
+Certified ITIL Foundation v3, EXIN, AMP GROUP, Juin 2009 –Juin –Juin 2015, Licence N 262****-*****
+Certified RedHat Engineer, RedHat Co-op, Juin 2007.
+
+Qualification & Skills
+IT Governance (CoBIT, ISO27001, ITIL, ISO20000),
+IT Change/Transformation Management,
+Risk Management (ISO27005/ 31000, NIST 800-30, CIS-RAM, EBIOS),
+SMSI implementation and auditing,
+Process monitoring (CMMi, PAM-CoBIT),
+Incident management (ISO 27035,CoBit),
+BCP/Disaster Recovery Planning (ISO22031),
+IT Security program planning, developing and managing,
+Vulnerability assessment,
+Pen testing - CEH v9,
+Systems and Network administration
+CIS Controls /Benchmarks / metrics
+Professional Experience - Consultant, Tunisian Internet Agency (ATI) Jan/2003- Present
+The Tunisian Internet Agency is a semi-state institution; its mission is to provide and promote IT services for public institutions.
+Work History
+IT GRC Consultant Manager, Board Adviser, 9/2017-Present
+Regional public transport company - SORETRAS - Tunisia
+Defined and Implemented IT governance & management processes (CoBIT, ITIL)
+Coordinated ISO/IEC 27001 Implementation project :
+oDirected the assessment and remediation of the IT Department to enable successful achievement of ITIL implementation and ISO27001certification,
+o Identified objectives, established gap analysis, Business case and roadmap.
+oDeveloped an information security policy and procedure documents.
+oConducted risk management including IT security risks, according to ISO 27005 and EBIOS.
+oTraining for employees and awareness.
+oDeveloped an information security metrics (technical, effective),
+oMonitored developed processes (CMMi, PAM-CobiT),
+Developed Business Impact Analysis for Disaster Recovery Planning, ISO-22031
+IT audit, Anti-Fraud Consultant 1/2016- 8/2017
+National Agency for Governance and Fight against Corruption- INLUCC - Tunis
+INLUCC is the Tunisian national Office for governance and fight against corruption. His role is to prevent, detect and investigate, independently, cases of corruption in the public and private sectors and transmits them to the competent authorities, including justice.
+Managed the south Tunisia regional Bureau,
+Provided Data classification and analysis,
+Conducted risk assessment, audit and forensic techniques for fraud, anti-bribery / anti-corruption and security breaches detection,
+IT Security Consultant Manager, Board Adviser, 1/2011- 12/2015
+Global Group (GG), Oil and Gas Services. Tunisia - Morocco - Algeria
+Global Group with its subsidiaries Global Industry, Global Iron Works and Globus is the Tunisian leader in engineering support services to Oil and Gas sector and petrochemical industries, with an interest in power generation and marine industries, implanted in Tunisia, Algeria and Morocco.
+Developed IT security policy and procedure documents,
+Defined and implemented IT processes,
+Developed a security awareness and training programs,
+implemented ISO/IEC 27002 controls,
+Participated in IT security risk management,
+Monitored IT controls and processes using developped metrics.
+Conducted risk assessment for the new developed ERP during all phases from business case establishment to post-implementation.
+Participated in selecting, recruiting, and hiring of IT Stuff,
+IT Transformation program Consultant, 1/2007- 12/2010
+Sfax- City Tunisia
+The city of Sfax is the second largest of Tunisian cities, housing around 400000 citizens.
+Accompanied IT department to implement his IT transformation program by providing guidance during analysis, design, development, testing, implementation, post implementation phases, and changes.
+Developed project’s feasibility studies and business cases,
+Developed IT Operations and Security processes and procedures.
+Established communication, awareness and training plan,
+Designed and implemented and Microsoft Active Directory 2K8 services on clustered servers.
+Designed and implemented the network/ security architecture, including WAN, LAN, WLAN infrastructure across 28 sites and approximately 4000 users (routers, switches, Firewalls, IDS, DNS servers and DMZ),
+Implemented a multi-site replication between site domain controllers.
+Created service desk and incident management team,
+Upgraded end user desktop,.
+Developed and tested disaster Recovery Plan.
+IT Support and Service Delivery Consultant, 1/2003- 12/2006
+University of Sfax- - Tunisia ;
+The University of Sfax has approximately 45000 students distributed among 21 higher education institutions, five research faculties, three colleges, twelve institutes and research centers.
+Coordinated the day-to-day operational activities of high-quality IT infrastructure and technology.
+Monitored University’s servers, networks, and computer systems for irregularities and performance issues,
+Assessed department needs and help desk inquiries,
+Established service level agreements (SLAs) and negotiated contracts with IT services and products providers,
+IT security Engineer 10/2001-12/2002
+Tunisian Internet Agency
+Supported the day-to-day IT security activities,
+Audit missions
+Municipality of Sfax Mars 2015
+Threats and vulnerabilities assessment (OpenVas, CIS –Suite, Acutenix, nmap…)
+Shimat Septembre- Novembre 2015
+Conducted risk assessments and reviews for audit utilizing CI Security, in-house and external risk matrices.
+Regional Urban Transport Enterprise of Sfax September 2016
+Developed and administered risk assessments and reviews for the new integrated ERP solution.
+Evaluated IT security policy and procedure documents, and the processes for their development, approval and
+implementation October 2017
+SitNet December 2016
+ISO 27001 Certification pre- Assessment
+ATI February 2017
+ISO 27001 Certification pre- Assessment
+GMPI Jun 2017
+ISO 27001 Certification pre- Assessment
+Hat Network September 2017
+IT Security Policies, procedures, processes Evaluation
+National Institut of Technology – Sfax, Tunisia October 2018
+SMSI evaluation according to ISO27001 requirements
+National Institut of Technology – Sfax, Tunisia Jun 2019
+SIEM/SOC implementation planning, incident management processes definition and BCP/DRP development.
+Reporting
+University of Sfax - IIT Jun 2019
+Reporter of the end study engineer project – Audit and IT risk assessment - deloitte Tunisia
+University of Sfax - IIT Jun 2019
+Reporter of the end study engineer project – SIEM & Cyber security – Cloud Temple Tunisia
+
+Education
+Master Degree, Academic Diplom in Computer Science
+Carl Von Ossietzky University of Oldenburg- Germany
+Affiliation
+Information System Audit and Control Association, ISACA Member.
+Tunisian National Association of Engineers, Member.
+Knowledge Transfer Center, Municipality of Sfax, Founder.
+Langages
+Arabic : native, Frensh : fluent, English :technical, German : fluent
+
+Contact this candidate

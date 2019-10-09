@@ -1,0 +1,157 @@
+
+Md Tariq
+GC Card
+adajuo@r.postjobfree.com
+469-***-****
+
+PROFESSIONALSUMMARY:
+
+Over 6.5+ years of experience, in field of SIEM /Splunk / Information Security with expertise in Implementation and Operation phasesof the project.
+Work profile includes END to END planning & Implementation of Various Network Devices and Business Application with the SIEM Device –QRadar/Splunk
+Headed Proof-of-Concepts (POC) on Splunk ES implementation, mentored and guided other team members on Understanding the use case of Splunk.
+Expertise in customizing Splunk for Monitoring, Application Management and Security as per customer requirements and industry best practice.
+Expertise in Installation, Configuration, Migration, Trouble-Shooting and Maintenance of Splunk, Passionate about Machine data and operational Intelligence.
+Knowledge in Authentication, End Point Security, Internet Policy Enforcement, Firewalls, Database Activity Monitoring (DAM), Data Loss Prevention (DLP), Identity and Access Management (IAM) solutions
+Hands on experience with Change Management working on the incidents and Change Request and coordinating with the APP teams during the cutovers.
+Extract customized Property value using the Regex for devices which are not properly parsed by QRadar DSM.
+Implemented workflow actions to drive troubleshooting across multiple event types in Splunk
+Monitoring of day to day system health check-up, event and flow data backup, system configuration backup.
+Analysis of Offenses created based on different device types of logs via Correlation rules.
+Integrate different feeds to Splunk Environment.
+Enhancement and fine tuning of Correlation rules on QRadarbased on daily monitoring of logs.
+Integration of different devices data to Splunk Environment and also created dashboards and reports in Splunk.
+Recommended and Configure Daily and weekly and monthly reports in Qradar and Splunk based on Compliance requirements.
+A thorough understanding of the Software Development Life cycle (SDLC) including various concepts such as Requirement Gathering, Experience in the development of Client-Server and Web-Based Application
+
+Technical Skills:
+
+Splunk
+Splunk 5.x and 6.x, Splunk Enterprise, Splunk on Splunk, Splunk DB 2 Connect, Splunk Cloud, Hunk, Splunk IT Service Intelligence, Splunk Web Framework
+Operating Systems
+Windows 2000, XP, Win 10, Windows Server, Unix/Linux (Red Hat), Free BSD
+Security / Vulnerability Tools
+Snort, Wireshark, Websense, Bluecoat, Palo Alto, Checkpoint
+Symantec,Qualys Vulnerability Manager, FireEye HX, Sophos, Sourcefire
+RDBMS
+Oracle 11g/10g/9i/8i, MS-SQL Server 2000/2005/2008, Sybase, DB2 MS Access, Mysql
+Networking Protocols and Tools
+TCP/IP, HTTP/HTTPS, SSH, SSL, DNS, SNMP
+Routers, Switches, Load Balancers, Cisco VPN, MS- Direct Access,
+Programming Language
+C, C++, Java with Big Data, Python, UNIX shell scripts
+Monitoring Tool
+Netcool,Dynatrace,tealeaf
+
+WORK EXPERIENCE:
+
+Verizon - Austin, TX Jan 2019 – Present
+Senior SOC/Splunk Analyst
+
+Responsibilities:
+
+Initial set-up, installation and implementation of new SIEM solution (QRadar).
+Migrating existing Reports and Alerts from RSA envision to QRadar.
+Aggregate, correlate, and analyze log data from network devices, security devices and other key assets using QRadar.
+Created SIEM dashboard for QRadar and reconciliation with Storage, Database Server, Workstation and Server and Network Devices.
+Expert in Extracting, Transforming, Analyzing, Visualizing, and presenting data from diverse business areas in insightful ways to enable IS Managers and Directors to take actions.
+Built various types of charts, reports, dashboards, alerts, managed user, role access permissions and permissions to knowledge objects.
+Various types of charts Alert Settings Knowledge of app creation, user and role access permissions. Creating and managing app, Create user, role, Permissions to knowledge objects.
+Developed robust, efficient queries that will feed custom Alert, Dashboards and Reports.
+Worked on Splunk search processing language, Splunk dashboards and Splunk dbconnect app.
+Publishing data into Splunk through configurations such as inputs.conf, severclass.conf, server.conf, apps.conf and Outputs.conf configurations • Design and customize complex search queries, and promote advanced searching, forensics and analytics
+Developed dashboards, data models, reports and optimized their performance.
+Developed Splunk dashboards, data models, reports and applications, indexing, tagging and field extraction in Splunk
+Created Splunk knowledge objects (e.g. fields, lookups, macros, etc.)
+Experience in dashboards and reports performance optimization.
+Developed Dashboards for Business Activity Monitoring, Enterprise Architecture
+Built KPIs dashboards on Patient Enrollment transactions and other business activities
+Built Key Performance Indicators to the Enterprise Architecture team through Splunk
+Created Alerts on different SLAs and thresholds through Splunk.
+Deploy new ESM, Loggers, SmartConnectors / FlexConnectors as required to collect data feeds
+Assist in the proper operation and performance of QRadar ESM, Loggers and connector
+Provide ad-hoc training to analysts focusing on specific client missions, including generic QRadar training sessions and Custom Use Case training sessions
+Evaluate relative QRadar product advancements and provide recommendations to the customer
+Identifies security risks, threats and vulnerabilities of networks, systems, applications and new technology initiatives
+Provides technical support in the development, testing and operation of firewalls, intrusion detection systems, and enterprise anti-virus and software deployment tools
+Knowledge in Authentication, End Point Security, Internet Policy Enforcement, Firewalls, Database Activity Monitoring (DAM), Data Loss Prevention (DLP), Identity and Access Management (IAM) solutions
+Hands on experience with Change Management working on the incidents and Change Request and coordinating with the APP teams during the cutovers.
+Assisted with management and tuning of our perimeter Intrusion Prevention Solution.
+Network traffic visualization to facilitate monitoring and trending analysis.
+Responsible for maintaining availability, reporting and communication of the SIEM between it, its event-sources and the endpoints.
+Responsible for the creation of the logic to correlate attacks across multiple event sources and attempt to make a determination of the possible outcome.
+Implemented forwarder configuration, search heads and indexing on splunk.
+Created Dashboards, report, scheduled searches and alerts, SIEM searches and alerts Metrics
+Identify threats through log analysis and perform risk mitigation.
+Log Source Configuration (Supported DSMs and Unsupported DSMs using scripts).
+System performance and health monitoring ofQRadar (Created a SIEM Webpage using VBScript on IIS Server).
+Monitored events, responded to incidents and reported findings.
+Utilized Security Information and Event Management (SIEM), Intrusion Detection & Prevention (IDS / IPS), Data Leakage Prevention (DLP), forensics, sniffers and malware analysis tools.
+EPS and Utilization monitoring ofQRadar
+Develop comprehensive security event reports to address current and potential security concerns and meet Audit Requirements.
+Experience with programming languages; or scripting languages such as Shell and Python
+Experience in handling clients reported cyber-attacks and incidents.
+
+Capital One - Tampa, FLAug 2016–Dec 2018
+Splunk Engineer
+
+Responsibilities:
+
+Participated in the product selection and installation of QRadar Security Information Event Manager SIEM consisting of multiple collectors and a high-performance MS SQL database
+Configured Splunk Searching and Reporting modules, Knowledge Objects, Administered Data Ingestion, Add-On's, Dashboards, Index Cluster and Forwarder Management.
+Designed and maintained complex Splunk dashboards on Enterprise and Enterprise Security.
+Configured Splunk forwarders and indexers to ingest infrastructure logs.
+Created and configured KPI's in Splunk IT Service Intelligence (ITSI).
+Configured Splunk for dynamic analytics and machine data indexing
+Analysed security-based events, risks and reporting instances
+Prepared, arranged and tested Splunk search strings and operational strings.
+Developed, evaluated and documented specific metrics for management purpose.
+Designed configurations to remove garbage data to avoid much License consumption.
+Designed configurations to override the default metadata information at HF level.
+Deployed basic queries using generating search commands like stats, chart, time chart, tables etc.
+Involved in admin activities and worked on inputs.conf, index. Conf, props. Conf and transform. Conf to set up time zone and time stamp extractions, complex event transformations and whether any event breaking.
+Using SPL created Visualizations to get the value out of data
+Created Dashboards for various types of business users in organization.
+Played a major role in understanding the logs, server data and brought an insight of the data for the users.
+Splunk DB Connect 2.0 in search head cluster environments of Oracle, My-SQL.
+Knowledge about Splunk architecture and various components (indexer, forwarder, search head, deployment server), Heavy and Universal forwarder, License model.
+Provided technical services to projects, user requests and data queries.
+Involved in assisting offshore members to understand the use case of business.
+Involved in helping the UNIX and Splunk administrators to deploy Splunk across the UNIX and windows environment.
+Worked on Splunk search processing language, Splunk dashboards and Splunk DB connect app.
+Experience in AppDynamics APM, Database, EUM, Analytics, Infrastructure Monitoring, and Dashboard modules.
+Splunk Administration and analytics development on Information Security, Infrastructure and network, data security, Splunk Enterprise Security app, Triage events, Incident Analysis.
+Developed Splunk Objects and reports on Security baseline violations, Non-authenticated connections, Brute force attacks and many use cases.
+Splunk ITSI to determine The KPI for the business.
+Performed Splunk administration tasks such as installing, configuring, monitoring, and tuning.
+Install and maintain the Splunk add-on including the DB Connect 1, Active Directory LDAP for work with directory and SQL database.
+Installed and configured Splunk DB Connect in Single and distributed server environments.
+Configure the add-on app SSO Integration for user authentication and Single Sign-on in Splunk Web.
+Automating in Splunk using Perl with Service-Now for event triggering.
+
+Walmart - Bentonville, AROct 2015 to July2016
+Splunk Developer/Admin
+
+Installation and configuration of Splunk product in differentenvironments. Configured Splunk Searching and Reporting modules, Knowledge Objects, Administration, Add-on's, Dashboards, Clustering and Forwarder Management.
+Provided solutions to customer requirements by using AppMon/Dynatrace Managed.
+Coordinated with various Application Teams to understand application architecture for App Mon Instrumentation for Business Transactions Setup to identify application server's outage.
+Experience creating System profiles and sensor groups from Dynatrace client for every individual application.
+Created multiple dashboards by using Charts, Incidents and Dual Charts with customized measures.
+Used Splunk DB Connect Addon to integrate Splunk with Database like SQL
+Expertise in creating and customizing Splunk applications, searches and dashboards as desired by IT teams and business.
+Drive complex deployments of Splunk dashboards and reports while working side by side with technical teams to solve their integration issues.
+Experience in working with Splunk authentication and permissions and having significant experience in supporting large scale Splunk deployments.
+Splunk configuration that involves different web application and batch, create Saved search and summary search, summary indexes.
+Designed and Built Tomcat environment in Stage, Dev and Production environment
+Created and Managed Splunk DB connect Identities, Database Connections, Database Inputs, Outputs, lookups, access controls.
+Experience on Splunk search construction with ability to create well-structured search queries that minimize performance impact.
+Parsing, Indexing, Searching concepts Hot, Warm, Cold, Frozen bucketing.
+Configured and setup Secure Sockets Layers (SSL) for data encryption and client authentication.
+Installed and configured Splunk DB Connect in Single and distributed server environments.
+Experience with Splunk Searching and Reporting modules, Knowledge Objects, Administration, Add-On's, Dashboards, Clustering and Forwarder Management.
+Well versed in both remote and on-site user Splunk Support.
+Building Searches and visualize them using dashboarding capabilities of Splunk as per business requirements.
+Created security-based alerts in Splunk and notable events in Splunk incident review page
+Analysing dashboards to check the Application behaviour. Experience on storing the report on repositories.
+Splunk implementation, planning, customization, integration with Application servers, big data and statistical and analytical modelling.
+
+Contact this candidate

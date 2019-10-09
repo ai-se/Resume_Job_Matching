@@ -1,0 +1,48 @@
+
+LIUDMILA VYATKINA
+Glen Gardner, NJ
+267-***-****, 908-***-**** adai2i@r.postjobfree.com
+linkedin.com/in/liudmila-vyatkina-37686318ankedin.com/in/liudmila- vyatkina-37686318a
+TECHNICAL SKILL
+Operating system: Windows, macOS, Android, iOS
+Programming languages: HTML, CSS, XML, SQL,
+Database: Oracle, MySQL
+Test Automation: Selenium WebDriver
+Networking: TCP/IP, FTP, HTTP
+Virtualization: VMware Player, Oracle Virtual
+Bug Tracking: Bugzilla, JIRA
+EDUCATION
+National Polytechnic University, Russia
+BS in Electrical Engineering
+EXPERIENCE
+Millennium Techies Inc., Plano, TX Nov,
+2016 - present
+Software QA Test Engineer
+• Developed test strategies, test plans, and test
+cases and user stories for software development efforts and SQA strategies using Agile-testing methodology
+• Involved in the design and implementation of
+enhancements and customizations
+• Executed the test cases and documented the
+results, reported the defects and tracked the status
+• Executed SQL queries to ensure the data integrity by checking various kinds of constraints
+• Successfully installed and configured multiple test environments using Virtual Machines
+• Performed functional, performance and end-to-end testing for the applications under test
+• Prepare QA project estimates and work
+breakdown structures for project and QA managers
+• Worked with various QA teams to setup and
+conduct User Acceptance Test for the product
+• Prepare and execute test plan, test cases and
+produce test reports for each release
+• Report all defects found during testing cycle into the JIRA, Bugzilla systems
+• Attend daily QA status meeting to update
+managements with latest project status
+• Work with project managers, business analysts,
+and developers to get issues found during testing cycle resolved and re-delivered to QA team for retest
+• Involved in functional testing, black box testing, negative testing, compatibility testing, and regression testing.
+• Actively participated and Interacted with product management teams in the review and analysis of
+functional requirements
+• Involved in testing various business rules User/ Customer Functionality, Change Process, Configuration Data Requirements, Legacy Data Requirements, and
+Access Permissions Requirements
+REFERENCES AVAILABLE UPON REQUEST
+
+Contact this candidate

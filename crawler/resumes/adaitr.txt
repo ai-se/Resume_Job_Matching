@@ -1,0 +1,103 @@
+
+Ankit
+Kumar
+** *-* **** ***** *th main Btm Stage 2
+Bangalore, Karnataka, 560076
+91-760******* /872-***-****
+adaitr@r.postjobfree.com
+PROFESSIONAL SUMMARY
+• A COMPETENT PROFESSIONAL WITH 2 YEAR OF EXPERIENCE IN IN QUALITY DATA MANAGEMENT AND ACCURACY.
+• EXTENSIVELY WORKED ON NLP, MACHINE LEARNING, DATA MODELLING, PYTHON,FLASK, DJANGO ELASTIC SEARCH, BIG DATA, SCALA, SPARK, HADOOP, REDIS CACHE, AND POSTGRESQL DB.
+• SKILLED IN DEVELOPING THE CODE AS PER THE REQUIREMENT. SKILLED IN UNIT TESTING.
+• PROFICIENT IN ANALYTICAL TOOLS TO ENSURE OPTIMIZATION AND BUILDING SOLUTION MODELS.
+EDUCATION
+Aug 2017 Centre for Development in Advance Computing(CDAC) Knowledge Park Bangalore, Karnataka
+Pg-Diploma Big Data/MLAnalytics
+Jun 2016 United Institute of Technology (AKTU)
+ALLAHABAD, UTTAR PRADESH
+B.tech Computer Science & Engineering
+May 2012 St. Joseph's College
+ALLAHABAD, UTTAR PRADESH
+Intermidate
+Relevant Coursework: PCM
+May 2010 St. Joseph's College
+ALLAHABAD, UTTAR PRADESH
+High School
+PROFESSIONAL EXPERIENCE
+Ninestars Information Technologies Pvt. Ltd., ALLAHABAD, Karnataka Present
+Oct 2018
+Machine Learning NLP Engineer (Data Science)
+Project: Prana(Event Analytics(Social Media/Web))
+Back End Developer/Engineer
+Responsibilities
+Extrating Tweets from twitter using Py-Spark.
+Finding people sentiments on the tweets using in-house Sentiment Service.
+Developing code and analyze the requirement.
+Worked on programming side Core Development.
+Data Modelling and Training
+Environment: Python,PySpark, Stanford Nlp, Elastic Search, Scikit Learn, Flask,Django
+Machine Learning NLP Engineer (Data Science)
+Project: Prana(Auto-tagging)
+Back End Developer/Engineer Data Modelling
+Auto-tagging refers to tagging of Articles (Classification) using NLP service i.e. Stanford Nlp for Pre-Processing and building Ontology with multiple categories and Logistic Regression Multi-Class Model is used for prediction. This involves Keywords Matching, Calculation of Subject & Bi-gram and Keyword Position in articles (text).
+Responsibilities
+Developing code and analyze the requirement.
+Worked on programming side Core Development.
+Data Modelling and Training
+Environment: Python, Stanford Nlp, Elastic Search, Scikit Learn, Flask,Django Project: Prana(Article-Relevancy)
+Back End Developer/Engineer Data Modelling
+Article Relevancy deals with finding the Relevancy Score based on the keywords passed using Nlp i.e. Stanford Nlp for Pre-Processing, find the Prominence Ratio and Keyword position in the article and Logistic Regression Model is used for prediction.
+Responsibilities
+Developing code and analyze the requirement.
+Worked on programming side Core Development.
+Data Modelling and Training
+Environment: Python, Stanford NLP, Scikit Learn,Flask,Django Project: Prana(Article-Summarization)
+Back End Developer/Engineer Data Modelling
+Article Summarization is generating text summary with finding the Subject and bigram in the Article (Text) and then matching these with keywords passed. Responsibilities
+Developing code and analyze the requirement.
+Worked on programming side Core Development.
+Data Modelling and Training
+Environment: Python, Stanford Nlp,Scikit Learn
+Project: Prana(Sentiment Analysis)
+Back End Developer/Engineer
+Sentiment Analysis is finding the sentiments entity level about concerned entities with the help of Positive, Negative, Adjectives and using 10-grams. Responsibilities
+Developing code and analyze the requirement.
+Worked on programming side Core Development.
+Data Modelling and Training
+Environment: Python, Stanford Nlp,Scikit Learn
+Lucida Technology Pvt. Ltd., Bangalore
+Sep 2018
+Oct 2017
+Big Data Engineer
+Project: Store Insight
+Back End Developer
+Nielsen Store Insight is a product which deals with a data collection, acquisition, and processing, reporting data from market which may be either Modern Trade or General Trade for its multiple clients. This deals with collecting data by an Auditor who goes to Stores and collects data as per client's requirements and on the basis of that Period wise reporting is sent to clients as per their specific requirement. There are multiple FMCG as well as telecom clients.
+Developing code and analyze the requirement.
+Worked on programming side (Core development
+Team).
+Interacting with client and taking up their
+requirements.
+Taking Quality Audits
+Environment: Spark, Sacla, Python, Redis,
+PostgreSQL, HBase
+ADDITIONAL SKILLS
+NLP- Spacy, Stanford Nlp, Core Nlp
+Python
+Scikit Learn
+Flask
+Django
+Machine Learning
+Data Modelling
+Elastic Search
+Data Analytics
+Image Processing using CNN(Neural Network)
+Spark
+Big Data
+Scala
+PlSql
+CREDENTIALS AND LICENSES
+Pg-Diploma Big Data Analytics
+Core Java at Appin Labs
+Android at MNNIT Allahabad
+
+Contact this candidate

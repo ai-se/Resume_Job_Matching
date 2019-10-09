@@ -1,47 +1,51 @@
+Job Title = Ruby Or Scrum Or Cs Or Builder Or Vista jobs in Raleigh, NC, 27606
 
-Were looking for humble, but ambitious, razor-sharp Engineering Leader who can teach us a thing or two. We promise to return the favor. Like us, you take product development, API, Analytics and ML or AI platform engineering seriously; youre passionate about technology and, even more so, about leadership. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. We are currently seeking an Engineering Leader to drive technical vision and provide leadership for multiple teams of engineers and other creators in an innovative and fast paced environment. Our selection process will emphasize technical and architectural skills as well as leadership/management/SDLC process/organizational skills equally. The ideal candidate must be a master of their domain. Furthermore, the ideal candidate must be able to inspire, champion and teach when the need arises. We are looking for someone whos is equally comfortable leading by influence or authority. Lastly, we are looking for a rare mix of intelligence, integrity, domain knowledge, verbal agility, and diplomacy which allows you to rapidly earn the trust of technically astute engineers and product astute product management leaders.
+Ruby Tuesday  – 
+Raleigh, NC, 27601
+BartenderRuby TuesdayRaleigh NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 09
 
-Why We Need This Role
-We are looking for a leader to help us build out a portal of tools, services and workflows that our Capacity Partners will leverage as they establish and manage their respective partnerships with us and help us turn clients ideas into a fully functioning software. This includes everything from partner client contract execution to dashboards as well as creator assessment and onboarding tools and tools that allow partners to manage rates or availability of their respective creators. We want to do this to enable our partners to leapfrog their fiscal and operational efficiency as well as their stickiness with us.
+Ruby Tuesday  – 
+Cary, NC, 27511
+BartenderRuby TuesdayCary, NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 07
 
-Why You Should Join
-This is a challenging and diverse role that requires you to build both, an organization and new generation of Builder product, nearly from the ground up. Only join this role if you are craving rapid growth, able to create a path in unchartered territory, and comfortable with trying, failing and course-correcting fast.
+HireNetworks  – 
+Durham, NC
+Ruby on Rails Developer-8128 Our best-in-class legal intake and case management software client is seeking a talented Ruby ... with agile development methodologies including Kanban and Scrum Start-up or experience operating in a highly dynamic and ...
+- ZipRecruiter, Sep 29
 
-First Six Month Deliverables
-Develop and execute strategy for horizontally scalable development of Builder Hive
-Transform Builder Hive into modularized application which can be maintained and grown semi-autonomously
-Grow / transform Builder Hive team to be capable of parallelized (a minimum of 4 largely autonomous teams) development efforts
-Significantly streamline creators onboarding and assessment tools and workflows
-Achieve greater level of quality and fault tolerance through the implementation of hard enforced CI/CD automation, containerization and pipelines & IDE creation and orchestration for all projects / teams
-Requirements
-Passionate about loosely held values and ideas. We want someone who has experience but is not blinded by the path already taken.
-10 plus years solid experience in back end open source based technologies, including at least 4 - 5 years in Ruby or RoR cloud based ecosystems
-4 plus years solid experience as a technical lead, including at least 2 years in large scale platform environment
-CS degree required or equivalent work experience
-Solid procedural and object oriented Software Engineering fundamentals
-3 plus years of relevant experience managing fast-paced and dynamic Scrum team
-A proven track record of senior level software engineering and architecture accomplishments in a high-capacity, large-scale, internet-based product platform
-Capable of technical deep-dives, yet verbally and cognitively agile enough to hold their own in a strategy discussion with senior technical or product leadership
-Comfortable recruiting a team of very bright, experienced engineers capable of working on projects and at scale unlike any other they've encountered
-Very experienced with Agile / Scrum methodologies
-Outstanding communication skills, both written and oral
-Expert understanding of RoR framework
-Solid understanding of AWS services
-Solid experience with containerized applications and serverless functions
-Strong understanding of and experience with testing practices
-Strong automation and CI / CD experience
-Pivotal Tracker or Jira, Docker, CI/CD, GitHub tools experience, some would say you are a master
-Some experience collaborating with ML/AI teams
-Experience in data-driven environments
-Benefits
-Health and Wellness benefits including competitive medical, dental, and vision plans
-Performance-based bonuses and stock options
-Generous vacation and time off benefits including paid holidays
-Generally flexible working hours
-Working in a beautiful office space the heart of Silicon Beach in Playa Vista
-A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
-Mission-driven company that is making the world a better place
+Ruby Tuesday  – 
+Raleigh, NC, 27601
+Server AssistantRuby TuesdayRaleigh NC*Excellent Benefits* The Ruby Tuesday Server Assistant will be responsible for seating the guests and assisting the service team with ensuring that each guest leaves happy.If you would like to be considered for ...
+- Jobs2Careers, Oct 08
 
+Builder Services Inc. of NC  – 
+Creedmoor, NC
+Builder Services Inc. of North Carolina Benefits: Medical and Supplemental Insurance(Dental, Life, Short-Term Disability, Vision, etc.) 401K company match up to 4% Paid Time Off Paid Holidays This position is responsible for cleaning water and fire ...
+- ZipRecruiter, Oct 07
 
-Go to apply 
+Team Ruby Henderson  – 
+Raleigh, NC
+Strucured training in a team enviroment willing to helpAbundant leads, along with programs to train you on how to create your ownComplete closing department support allowing you to work with many more buyersProfit Sharing & Cutting Edge Tech found...
+- Adzuna, Oct 07
 
+Team Ruby Henderson  – 
+Raleigh, NC, 27601
+Strucured training in a team enviroment willing to helpAbundant leads, along with programs to train you on how to create your ownComplete closing department support allowing you to work with many more buyersProfit Sharing & Cutting Edge Tech found...
+- Jobg8, Oct 08
+
+Team Ruby Henderson  – 
+Raleigh, NC, 27601
+... If you're not licensed or currently enrolled in school please do not apply.Why choose Team Ruby?We are one of the Triangle's most innovative, tech savvy and fastest growing Real Estate teams and are looking to continue our growth as we add motivated ...
+- Jobs2Careers, Oct 09
+
+Team Ruby Henderson  – 
+Raleigh, NC
+...  yet helpful in dealing with customer concernsExperience and knowledge of MLS is extremely helpfulAbout Company: Team Ruby Henderson is a world class, full-service real estate company in a family type atmosphere with very high ethics and morals. ...
+- Neuvoo, Oct 03
+
+Team Ruby Henderson  – 
+Raleigh, NC, 27603
+Strucured training in a team enviroment willing to helpAbundant leads, along with programs to train you on how to create your ownComplete closing department support allowing you to work with many more buyersProfit Sharing & Cutting Edge Tech found...
+- Jobg8, Sep 28

@@ -1,29 +1,28 @@
+Job Title = Principal Software Engineer
 
-Are you someone who has a genuine passion and enthusiasm for software development and looking for a position with a growing software company?
-Our Software Development department is expanding, and we have an immediate opening for a Principal level full stack engineer. Our Software Developers work in a Scrum Agile framework developing industry leading software for law enforcement, education, healthcare and other enterprises.
+The Principal Software Engineer provides technical leadership to the development team in designing, building, and delivering high-quality software solutions. Candidate must be up to date on new technologies, patterns, and practices in the software industry. In addition, an important aspect of the position is to mentor, guide, and assist development team members in improving the product, team practices, and individual skills.
 Responsibilities
-Provide technical guidance in design and development activities
-Work with other Engineers/Architects in recommending new technologies to ensure quality and productivity
-Design, develop and troubleshoot applications based on the Microsoft Stack
-Design, develop and troubleshoot all things related to SQL DB development
-Mentor and provide technical leadership to other developers.
-Work with Scrum team to complete sprint backlog items.
-Participate in all Scrum events (planning, sprint, review, retrospective)
-Assist in technical audits and provide recommendations
+Provide technical guidance in software design and development activities
+Work with other Engineers/Architects/Teams in recommending new technologies to ensure innovation, quality, and productivity
+Design, develop and deliver applications based on the Microsoft Stack (.Net Framework and .Net Core)
+Design, develop and optimize all things related to SQL development
+Familiarity and experience with web development concepts such as progressive web applications and usage of SPA frameworks (Angular, React, Vue)
+Mentor and provide technical leadership to other developers
+Work with Scrum team to complete backlog commitments
+Develop effective technical solutions to meet business requirements
+Participate in all Scrum events (standups, planning, story grooming, reviews, retrospective)
+Assist in technical audits, reviews, and provide recommendations
+Collaborate with other engineers in planning, prioritizing and executing assigned tasks within deadlines
 
 Requirements
-Full stack .NET Developer (C#, ASP.NET, MVC/Razor, WinForms, TypeScript, JavaScript)
-Solid understanding of Agile (Scrum) practices
+Full stack .NET Developer (C#, ASP.NET, Web API)
+Extensive experience with Typescript and JavaScript
+Knowledge and experience with at least one of the following: Angular, React, Vue
+Solid understanding of Agile (Scrum/Kanban) practices
 Solid understanding of OOP and well-known development principles
-Positive, upbeat personality, with team spirit
 At least twelve years experience in designing and developing software
-Bachelors Degree in Computer Science or related discipline or comparable experience
 In depth understanding of the benefits of automated testing and the DevOps mentality
-The following are a plus:
-Azure
-Azure DevOps
-Experience in the Public Safety/Law Enforcement software industry
-
+Experience with Azure
 Benefits
 Competitive benefits package
 Medical, Dental and Vision insurance

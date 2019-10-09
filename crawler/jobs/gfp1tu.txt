@@ -1,0 +1,20 @@
+Job Title = Engineer
+
+* Collaborate with Ops Team and other stakeholder groups to create formal program communications related to release, enhancements and process changes.
+
+* Monitor the Incident count and manage workload in their respective queues to ensure that Service Level Agreement and Operational Level Agreement are respected
+
+* Act as a point-of-contact and advisor to the field for deployment and day to day operational issues.
+
+* Coordinate and implement performance metrics and success criteria across initiatives with reporting and data teams
+
+* Identify project risks and mitigation plans as appropriate and drive mitigation solutions to completion.
+
+* Communicate with key stakeholders including development teams, operations, product, divisional stakeholders, etc. as required.
+
+Perform regular operation updates, host weekly meetings, and manage templates, documents and reports.
+SDL2017
+
+
+Go to apply 
+

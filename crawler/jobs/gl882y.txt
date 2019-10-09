@@ -1,0 +1,16 @@
+Job Title = Engineer
+
+I have an urgent requirement for an experienced O365 Engineer to support a customer of an IT Services company.
+You will be based on-site in Hemel Hempstead for 3 months to begin with.
+Daily tasks: * Provide help/Support to the 3rd Line team * Manage mailboxes/Distribution lists * Investigate mail flow issues and identify root cause * Investigate Office client issues and identify root cause * Contact End Users to understand their issues and provide a resolution * Writing PowerShell scripts to resolve issues if they occur in bulk.
+Skills/Experience required: * Experience with Cross Microsoft Active Directory Forest Exchange migrations.
+* Experience using and writing Exchange Online PowerShells.
+* Experience with managing Cloud Only Distribution Lists/Shared Mailboxes/Room Mailboxes * Ability to troubleshoot client Office applications (e.g.
+Outlook 2010, Skype for Business) and the integration between them.
+* A good understanding of ADFS and WAP * General knowledge of Azure AD Connect object synchronisation troubleshooting * Any experience with Quest would be beneficial.
+* Excellent communication skills.
+Please apply online with your CV.
+
+
+Go to apply 
+

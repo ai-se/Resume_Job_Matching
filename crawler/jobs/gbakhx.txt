@@ -1,0 +1,40 @@
+Job Title = Engineer
+
+Engineer
+Location: Charleston, SC
+
+GRSi is actively searching for Engineers to join our growing team. This position is instrumental in providing full lifecycle support to our Charleston SC based Navy customer in the areas of engineering, cybersecurity logistics, configuration management and fleet support. Systems supported are current and future shipboard Information Operations and ISR programs.
+Position Description and Duties:
+Technology Assessments
+Systems Designs
+Systems Analysis
+Programmatic Support
+Acquisition Planning
+Budget Planning
+Systems Engineering of complexIO/ISR systems
+Software development using C++, C#, Java in Unix, Linux, and Windows environments
+
+Knowledge and Tools:
+Required:
+10-15 years of technical experience in support of Navy C5ISR programs, to include: Equipment Support, System Support, and Programmatic Support.
+5-8 years of Program Management experience, to include: Technology Assessments, Systems Design, Systems Analysis, Programmatic Support, Acquisition Planning, and Budget Planning.
+5 years as manager of US Navy Information Operations (IO) or Intelligence, Surveillance, Reconnaissance (ISR) systems. Expereince in systems engineering of complex IO/ISR systems, or software development using C++, C#, Java in Unix, Linux and Windows environmnents. Experience may be achieved simultaneously.
+Current/Active TS/SCI DoD Clearance
+BS in Engineering, Computer Science, Information Systems. Looking for candidates with knowledge and detailed experience with the SSEE, CCOP, DCGS-N programs.
+GRSi is an Equal Opportunity/Affirmative Action employer. Qualified applicants or employees will receive consideration for employment without regard to race, color, religion, ethnic or national origin, ancestry, age, sex, sexual orientation, gender identity, pregnancy (including childbirth or related condition) citizenship, familial status, mental or physical disability status, veteran status, genetic information, other non-disqualifying disability, or any other characteristic protected by law.
+How to Apply:
+To Apply - Submit Your Resume to:
+
+For more information, call: x 409
+The Company:
+Innovation, Collaboration and Agility - at GRSi these aren't buzz words, they're our mantra.
+GRSi is an ISO certified and CMMI/dev-ML3 rated professional services organization with expertise that covers all areas of information technology and professional engineering services -- from systems integration; Agile, Iterative and Waterfall software development; multi-tier infrastructure support; to full spectrum cyber security and enterprise systems support. Regardless of the program or the task, the excellence of GRSi is all about the people. Our greatest asset is our ability to attract and retain highly qualified professionals and our record growth this past year means new opportunity.
+*2018 – Top 5 Gov’t Contractor, MD Tech Council*
+*2018 – Inc Magazine Fastest Growing Companies, 4th year*
+*2017 – Top 5 CEO, MD Tech Council*
+*2017 – SmartCEO Best Run Company*
+*ISO 9001:2018 & ISO 20000 Certified / CMMI-ML3 Appraised*
+
+
+Go to apply 
+

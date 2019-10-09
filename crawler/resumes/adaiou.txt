@@ -1,0 +1,76 @@
+
+H.SREEKANTH
+: adaiou@r.postjobfree.com
+: +91-939*******
+PROFESSIONAL SUMMARY
+Creative professional with extensive project experience from concept to development.
+Research & Development Engineer with experience of 1 Year in Process and Analytical instruments product design and development, Analog and Digital Circuit design and Sensors interfacing etc.
+Skilled in leading the team with motivation and with good and clear communication. CORE COMPETENCIES
+Sound knowledge on programming using C language.
+Good knowledge on Linux commands.
+Experience in wireless technology.
+Creative approach on problem solving with excellent analytical skills.
+Power budgeting, component identification and justification.
+Solid knowledge on PCB design & layout.
+Hands on experience in component placement and mechanical design.
+Better documentation skills.
+Enthusiastic and adaptable to new technologies.
+WORK EXPERIENCE
+May 10’18 to June 30’19 with Polmon Instruments Pvt. Ltd., Hyderabad as R&D Engineer – Instruments.
+Key Responsibilities Handled
+Concepts identification and finalization.
+Product design.
+Design and Development of product.
+Delivering and implementing the project as per the scheduled deadlines; extending post- implementation maintenance support to the technical support team, production and client. Projects Handled:-
+Single Fluid Heat Transfer System
+Temperature monitoring is essential in today’s pharmaceutical and cosmetics industries. Ensuring the optimal temperature for chemical reactions in production process is critical, and so is the need of heating/cooling solution. It is essential that process engineers are able to strike a balance between yield quantity and productivity. Team Size: 4
+Role: Project Leader
+July 12’19 to till with KYUNGSHIN INDUSTRIAL MOTHERSON Pvt. Ltd., as Assistant Engineer – Product Development.
+Key Responsibilities Handled
+Concepts identification and finalization.
+Product design and validation.
+Projects Handled:-
+SP2i
+EDUCATIONAL DETAILS
+Degree/Course Specialization University/Institute Year of Passing
+CGPA
+B. Tech Electronics & Communication
+Engineering
+RGUKT, IIIT-RK Valley 2018 9.08
+Pre University
+Course
+M.P.C RGUKT, IIIT-RK Valley 2014 8.65
+Secondary School
+Certificate
+-
+ZPHS, Palasamudram
+2012
+9.7
+TECHNICAL SKILLS
+Application Software tools: - Mat Lab, OrCAD, Corel Draw, Visio, Multisim. Communication Protocols: - SPI
+Programming Language: - C, Basics of Java
+Operating Systems: - Windows XP, 07, 08, 10, Linux. SUMMER INTERSHIP
+Company Name: Embedded RF Technologies
+Project Title : RFID Based Super Market Model Using Raspberry PI Duration : Two Months
+ACADEMIC PROJECT
+I. Brain Tumor Extraction from MRI Images
+(Under the guidance of M Dinesh Reddy (lecturer), M Tech)
+Primary aim of the project is to detect the brain tumor and extract the tumor.
+The different techniques like K Means Clustering and threshold based segmentation are used to achieve the goal with MATLAB as simulation tool. II. Automatic Drunken Drive Avoiding System for Automobiles
+(Under the guidance of M Sreekanth Reddy (lecturer), M Tech)
+Primary aim of the project is to detect the percentage of Alcohol in ppm.
+Studied the Different Sensors like Temperature Sensor, Light Sensor, Voltage Sensor, Smoke Sensor, Gas Sensor, Fire Sensor, Alcohol Sensor etc. III. MINI PROJECT (Center of Triangle using MatLab)
+(Under the guidance of M Dinesh Reddy (lecturer), M Tech)
+Primary aim of the project is to find the center in orthocenter, circumcenter, and barycenter and in center of a triangle.
+ACADAMIC ACHIVEMENTS
+Selected for Six year integrated course in RGUKT, IIIT for being a topper in SSC in my Mandal.
+EXTRA-CURRICULAR ACTIVITIES
+Coordinator for National fest called Abhiyanth 2K’18.
+Member in Electronics Club, and Coordinator for Techno Events and Technical Fest
+“ECENTRA 2k18” in RGUKT, RK Valley.
+PERSONAL INFORMATION
+Date of Birth : 15 March 1997
+Languages : English, Telugu
+Address : Thamminayanapalli (Vil), Gorantla(M),Anantapuram(Dist),Andhrapradesh.
+
+Contact this candidate

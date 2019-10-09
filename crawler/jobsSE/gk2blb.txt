@@ -1,42 +1,51 @@
+Job Title = Qa Or Oracle Or Writers Or Java jobs in Raleigh, NC, 27606
 
-Description and Requirements
-BMC helps customers run and reinvent their businesses in the digital age by tackling their IT management challenges, championing their innovation, and celebrating their success.
-Every BMC employee has the potential to have a tremendous impact on customer success and when customers thrive, we all do.
+Crossfire Consulting Corporation  – 
+Durham, NC
+... and assisting with QA testing process " Support UAT process Required Skills: Software Skills: " Oracle development " Data ... Knowledge of Big data " Knowledge of RESTFull API with java implementation Essential Skills " Strong problem solving skills. ...
+- Neuvoo, Oct 08
 
-BMC offers bold and fearless career-seekers like you the opportunity to expand your skills, your network, and your horizons as you work to enable customer growth and innovation every day. You will be surrounded by peers who inspire you, drive you, support you, and make you laugh out loud, in an environment that fosters individuality, respect, and personal ambition.
+Atyeti  – 
+Raleigh, NC, 27602
+... QA team on explaining requirements and assisting with QA testing process • Support UAT process Required Skills: • Oracle ... of Python, R • Knowledge of Hive • Knowledge of Big data • Knowledge of RESTFull API with java implementation Permanent
+- Jobg8, Oct 09
 
-This role involves working with a small, high performing team on Server Automation products built ground up to solve complex problems for enterprise IT teams. This job is for a talented developer who has a strong sense of ownership, can make decisions in a fast pace environment, influence change, and enjoys working with customers.
+Ellisor Group  – 
+Raleigh, NC, 27601
+... of RESTFull API with java implementation Work on RERSTfull IP components for ProPL modeling platform with goal to deploy on Azure Cloud Liaze with QA team on explaining requirements and assisting with QA testing process Support UAT process Permanent
+- Dice, Sep 11
 
-Responsibilities
+Credit Suisse  – 
+Raleigh, NC, 27601
+... Security, Boot, Data, Batch Strong knowledge of Core Java is a plus! Deep understanding of single page frontend applications and modern web development with Angular or React Experience with Oracle and other SQL databases: database design, writing ...
+- Jobg8, Oct 08
 
-This position is a customer facing role where user satisfaction is the top most priority. You will work with Support and the customer on product issues to troubleshoot, diagnose, and understand them to help bring timely resolution. This work will involve fixing defects, developing creative solutions and workarounds to problems, or enhancing/improving features based on discussions with product management.
+Oracle  – 
+Morrisville, NC
+... the development and verification of a highly available, scalable, secure, operations stack and development environment to enable Oracle applications to run on the Oracle Cloud. We are not building a monolithic platform nor are we writing JAVA code. ...
+- DE Jobs, Oct 04
 
-As part of this role, you will also work with a large, globally distributed development team to perform requirements analysis, design, develop and test commercial software. Software development experience with a proven track record and practical experience with agile methodologies is required. You will be exposed to real world deployment and usage scenarios from customers and product managers and help translate them to product features that drive the value of the product. You will work with other internal groups like QA and technical writers throughout the development cycle.
-Qualifications
+ApTask  – 
+Raleigh, NC
+... to create specifications and procedures to access and update application data for Java application. Practical hands on building and running PL/SQL queries on oracle. Close interaction with customer team. Close interaction with QA team Experience
+- Neuvoo, Oct 08
 
-8+ years of experience in software development, preferably enterprise software
+Credit Suisse  – 
+Raleigh, NC, 27601
+... stack/tools such as Java, J2EE, JMS or MQ Series, Control-M, Weblogic, JDBC, Spring Boot, Oracle DBMS, RESTful or SOAP ... Able to work with and support QA testing efforts. Have system analyst qualities required to create and maintain application ...
+- Jobg8, Oct 02
 
-Senior level knowledge in Java and a good understanding of databases (SQL Server, Oracle, or Postgres)
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to the testing automation processes and tools. * Resolve day to day issues and provide solutions * Be QA subject matter expert ...
+- Dice.com, Oct 09
 
-Experience in Datacenter, provisioning and virtualization handling
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to the testing automation processes and tools. * Resolve day to day issues and provide solutions * Be QA subject matter expert ...
+- Dice, Oct 08
 
-Experience with Windows and UNIX platforms and application servers like Tomcat/Jboss
-
-Experience using source control tools like Github and build tools like Jenkins and Maven
-
-Strong experience in customer case and escalation handling
-
-Strong troubleshooting and debugging techniques and understanding of web-based technologies.
-
-Excellent verbal, written, and interpersonal communication skills
-
-Ability to work both independently and as part of a team
-
-It is the policy of BMC Software to afford equal opportunity for employment to all individuals regardless of race, color, age, national origin, physical or mental disability, history of disability, ancestry, citizenship status, political affiliation, religion, gender, transgender, gender identity, gender expression, marital status, status as a parent, sexual orientation, veteran status, genetic information or other factors prohibited by law, and to prohibit harassment or retaliation based on any of these factors. BMC never asks for payment from individuals seeking employment with the company
-If you need a reasonable accommodation for any part of the application and hiring process, visit the accommodation request page
-
-< Back to search results
-
-
-Go to apply 
-
+S2SSoft  – 
+Cary, NC, 27511
+... Role: Oracle DBA Admin Location: Rochester NY Duration: Long term Responsibilities: Evaluate the Database Server Hardware. ... Integration, QA and production usage Install MSSQL database and its features and any other tools that access by application. ...
+- Dice.com, Oct 08

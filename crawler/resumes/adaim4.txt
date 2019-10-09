@@ -1,0 +1,94 @@
+
+Name: OGBONTOLU FEMI CCIE Routing and Switching
+Contact Details:
+Mobile: +234********** +234********** Email:adaim4@r.postjobfree.com, Objective:
+With over 7 years of experience in the Field of IT, I am growing my skillset to be more client-centric as a Technology Veteran, focusing more on the business outcomes as against technology pieces, hence I am becoming more vendor agnostic just to ensure that business problems are solved with the right solution, centering more on the big picture that is “end-to-end” as against fragmentary. With this in mind, I stay ahead of those technology components that drive the right business outcomes and solutions. Hence, I possess strong technical skills with multinational work ethics. I also look forward to a mutually beneficial association with a group of dedicated people bound by a Common thread Strengths:
+Networks, Security, Collaboration, Datacenter and Cloud Expert with strong skills in Presales, Presentation, HLD (high level design),LLD(low level design), implementation, migration and integration of networks, security and datacenter solutions. Strong focus on customer satisfaction and tenacity for excellence. Ability to learn continuously from both physical and virtual team. Strong wiliness to learn new things and to grow in the industry.
+Technical
+Certifications:
+• CISCO CERTIFIED INTERNETWORK EXPERT (R&S) (CCIE#61547)
+• CHECK POINT CERTIFIED SECURITY ASSOSCIATE (CCSA)
+• CHECK POINT CERTIFIED SECURITY EXPERT (CCSE)
+• JUNIPER NETWORKS CERTIFIED PROFFESIONAL SECURITY (JNCIP-SEC)
+• JUNIPER NETWORKS CERTIFIED SPECIALIST SECURITY (JNCIS-SEC)
+• JUNIPER NETWORKS CERTIFIED SPECIALIST ENTERPRISE (JNCIS-ENT)
+• JUNIPER NETWORKS CERTIFIED ASSOCIATE (JNCIA)
+• FORTINET NETWORK SECURITY 1-3 (NSE1, NSE2, NSE3)
+• F5 CERTIFIED BIG-IP ADMINISTRATOR (F5-CA)
+• PALO ALTO NETWORKS SECURITY ENGINEER (PCNSE)
+• CISCO CERTIFIED NETWORK PROFESSIONAL(CCNP)
+• CISCO CERTIFIED NETWORK ASSOCIATE (CCNA)
+Software/OS
+Microsoft Kali Ubuntu Cisco (ASA,ISE, IOS, NX-OS, IOS-XR, IOS-XE, ACS, ACI, MDS, UCS) Palo Alto PAN-OS Checkpoint Gaia VMware F5 Juniper( JunOS & SRX) SDN Openstack
+Total IT
+Experience:
+7+ Years
+Synopsis:
+• Performs medium to large scale end-to-end networks, security application and infrastructural assessments for government agencies, Information Technology firms, Telecommunication companies, Banking/Finance and Research Firms.
+• Provide end-to-end architecture review of Datacenter, Security and Networking Infrastructure
+• Provide Consultation, Design & Implementation services to providers, manufacturing, oil and gas and other enterprise-level environment for high-performance, mission-critical Solutions.
+• Implementation of Cisco ISE in a Large Enterprise Environment
+• Excellent relationship with OEMs and Clients.
+• Strong knowledge across multiple OEMs (Microsoft, Cisco, Juniper, Checkpoint, PaloAlto, VMware, F5, Fortinet)
+• Effectively developing, maintaining and demonstrating, as and when appropriate a good knowledge of current practice and awareness of current developments within the area of expertise.
+• Documentation and knowledge transfer of implemented projects.
+• Managing and maintaining implemented site in coordination with Complete System integrators/stake holders.
+• Timely Reporting and escalation for the Problems / issues.
+• Planning for Site Surveys for effective Design, Sizing and Implementation of IT Infrastructure.
+• On Time Scheduling for Project Management.
+• Assisting sales team in technical evaluation of end-to-end Infrastructure of products and projects.
+• Tracking of project inventory and implementation of the project as per the committed scope of works.
+• Troubleshooting of problems onsite and offsite and providing field support to the customers before and after implementation and ensure high level of Customer satisfaction.
+• Work closely with Project Managers to close projects and ensure successful invoicing of closed projects.
+Professional
+Experience: • Detailed projects & works carried out will be provided upon request. Organization: Treten-Networks Limited (Oct.2015-Till Date) Role/
+Responsibilities:
+Designation: Network Security Engineer
+• Responsibilities:
+• Installation and Advance Configuration of High end Security Devices such as Cisco ASA 5585, ASA 5580, Cisco IPS 4270,Checkpoint 21000 appliance and Catalyst 6500 Engin
+• Configuration of IPSec VPN, Remote Access VPN, SSL VPN and Cisco VPN Client on Cisco Firewalls and Cisco Routers
+• Support and Troubleshoot Customers’ Multi-Vendor VPN connections and third party VPN devices.
+• Implement Inter-Geographical Active/standby Failover on FWSM/ASA-SM and support for Inter-VRF Routing over an MPLS Network
+• Advance Installation, Configuration and Monitoring of Cisco Firepower(IPS) and Checkpoint Firewall R77.x
+• Configuration High end Cisco Routers such as Cisco 12000 series, Cisco ASR 9000, Ci CRS Series. Cisco GSR, Cisco 7200 and Cisco 3800, 2900 and 3900 Series.
+• Configuration of High End Cisco Nexus Switches and Catalyst Switches such as Cisco Catalyst 6509, Cisco Catalyst 4500, Cisco Catalyst 3560G and Cisco Catalyst 2960.
+• Strong Knowledge of Linux Enterprise/Unix Operating Systems and Windows Operating System
+• Upgrade and maintenance Cisco Firewalls, IPS and Routers
+• Implement and Configuration of OSPF,ISIS and BGP in an MPLS network
+• Configuration and troubleshooting of Complex MPLS network.
+• Implementation of Full MPLS Network on Cisco IOS and IOS-XR Software
+• Configuring Advance Filtering Techniques on Cisco IOS and IOS-XR
+• High Level Redundancy using HSRP with SSO, IP SLA. On Cisco Routers.
+• Configuration of IPsec VPN, RA VPN, SSL VPN and Cisco VPN Client
+• Configuration and troubleshooting of Complex MPLS network
+• Implementation of Full MPLS Network on Cisco IOS and IOS-XR Software
+• Configuration and Troubleshooting of Dynamic Protocols Such as BGP, OSPF and MPLS
+• Multi-Vendor Security Device support and troubleshooting for VPN Customers
+• Configuring Access Rule polices for all the Internet Gateways.
+• Maintain Data communication Security from end to End Organization: Sec-concept Sept.2011-Sept.2015
+Role/
+Responsibilities:
+Designation: Lead Network/Security Engineer
+• Responsibilities:
+• Advance Configuration of Cisco Routers, Cisco Firewalls (FWSM, ASA and PIX), and Intrusion Prevention System.
+• Drive and Implement the total Security architecture for organization
+• Design and implement Fault-Tolerant Datacenter Network
+• Advance Configuration of Internet gateways and Internet Proxy servers.
+• Implementation of Dynamic Routing Protocols over a VPN Networks
+• Deployment and Integration of Wireless Router into existing Corporate network without compromising Security.
+• Drive the Implementation of Security best Practices across the Data Communications Network
+• Troubleshoots Firewall Access problems, routing issues and perform penetration testing.
+• Performs required maintenance upgrades on Routers, Switches, Firewalls, IPS, Net Forensics both HW and SW
+• Linux Network Services and Security Implementation
+• Provide accurate visibility into the Organization Networks (IP/TCP etc) at Layer 3.
+• Continual Constructive Criticism of existing infrastructure with visible plans for improvement
+• Implementation of Squid Proxy and Web Server
+• Maintain End to end Internal Data Network Security
+• Interface with Planning and Vendor to review designs
+• Monitor Critical Nodes, detect faults and escalate appropriately
+• Usage of different network monitoring tools and security trapping software
+• Ensure network statistical analysis\trending of data are reported – Daily\ Weekly \ Monthly
+References: Reference will be provided upon request. Academic Profile: • Bachelor of Technology (Electronics/Electrical Engineering)
+(LAUTECH), Oyo State, Nigeria
+
+Contact this candidate

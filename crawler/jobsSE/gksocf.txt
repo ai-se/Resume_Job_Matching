@@ -1,3 +1,4 @@
+Job Title = PART TIME TEMP CLOUD ENGINEER
 
 Ultimate Software is seeking a Part Time Cloud Engineer to work in our Network Operations Center (NOC) department. Ultimate Software’s NOC provides world-class monitoring and front line problem analysis and remediation for infrastructure and application platforms, leveraging industry-standard system and application monitoring tools and utilities. Primary responsibilities of this role include troubleshooting environmental issues, analyzing infrastructure and application alerts, executing tasks via scripting, performing post change quality assurance testing, and providing immediate response for incidents in a 24/7/365 atmosphere. Platforms include Microsoft Windows operating systems, Linux, Microsoft SQL Server, IIS, VMWare, Openstack, SolidFire, NetApp, Juniper, F5, Dell, and Java-based systems. This position is demanding and plays an integral role in the success of our organization.
 

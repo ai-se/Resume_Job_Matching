@@ -1,0 +1,83 @@
+Job Title = Technician
+
+Description
+
+Occidental Petroleum strives to become the company of choice for transitioning military and their families by offering challenging and rewarding employment. We recognize the value of your experience and the transferrable skills gained while in service to our country.
+
+Challenging & Rewarding Work
+At Oxy, our opportunities are big, challenging and complex. You can have a direct, immediate impact on our business, as well as a chance to change the industry with advanced technology and innovative thinking.
+
+Your personal and professional growth is a priority at Oxy. At every step of your career, there are multiple ways you can strengthen your professional and technical skills in alignment with our business strategies.
+
+Of course, you will be well rewarded for your passion and work ethic. Our compensation, benefits and career development programs are designed to help you grow in your career, take care of today’s needs and secure a solid future.
+
+Oxy is proud to be a military-friendly company that recognizes the life experience, technical knowledge and leadership skills that you have to share. We invite you to join our military hiring program now.
+
+Military Hiring Program:
+The Permian EOR business unit is excited to transition military veterans into the Oil & Gas industry with our military hiring program. The program will consist of three (3) developmental rotations in roles of increasing responsibility, with a final rotation being into a full time field based assignment.
+
+Production Tech
+
+Objective:
+The primary objective of a Technician is the interaction with Well Analysts, Pump Off Controller (POC) /Inject Well Controller (IWC) technicians, and Lift Specialists to maximize production capacity and profitability. This role collaborates daily to determine producing well exceptions and performs diagnostics to return wells to production.
+
+Essential Job Duties:
+
+Participate daily with Well Performance Specialists (WPS), POC/IWC technicians, Automation Technicians (AT), and Production and Reservoir engineers concerning daily alarm exceptions
+Addresses all daily alarm exceptions
+Troubleshoot injection exceptions
+Clear all "0" rates daily
+Make necessary adjustments in Life of Well Information System (LOWIS)
+Check all wells with casing alert
+Clean, repair, or replace meters & change in LOWIS/ICONICS (automation software)
+Calibrate or replace transducers & change in LOWIS/ICONICS
+Repair or replace motor control valve
+Repair or replace motor controller
+Repair or replace casing monitors
+Replace batteries in Remote Telemetry Unit (RTU)
+Replace RTU
+Troubleshoot & replace any top cards in RTU
+POC/IWC
+
+Objective:
+In this assignment, you will be responsible for installation, programming, calibration, preventive maintenance, troubleshooting, and repair of automation facility equipment in order to improve oilfield system operation/uptime and reduce total operating costs.
+
+Essential Job Duties:
+Basic Board Troubleshooting and Programming
+Perform basic Production Field Analyst (PFA) and Injection Field Analyst (IFA) well troubleshooting roles
+Review reports on repair maintenance cost in assigned area
+Record data for bad actor equipment in Computerized Maintenance Management System (CMMS) which is currently Maximo
+Troubleshoot well Programmable Logistic Controller using multi meter and Local Operator Interface software
+Repair and troubleshoot position sensors, position cables, load cells, load cell cables
+Repair and troubleshoot basic power issues including checking and changing fuses in pump panel, resetting overload, and checking contactor
+Troubleshoot radio communication by power cycling, checking link lights, and checking data communication cables and light
+Use Maximo and Akwire to schedule work and perform failure coding on all tickets (plan to transition to SAP in 2018)
+Troubleshoot and repair pickups, cables and meter kits on all fluid and gas meters
+Troubleshoot and repair all transmitter and cables with preprogramed replacement parts.
+
+Well Performance Specialist
+
+Objective:
+For this rotation, you will gain an understanding of producing well artificial lift methods - beam, electric submersible pump (ESP), flowing and plunger lift, as well as provide surveillance and optimization for producing well performance.
+
+Essential Job Duties:
+Responsible for day-to-day well operations
+Identify/work producing well exceptions
+Run time/cycle deviations (zero/very high cycles)
+Shut in and start wells
+Hot watering, chemical treatments, rigless jobs, etc.
+Coordinate well failure activities
+Identify, validate, and react to well failures
+Communicate with PFA on well issues as appropriate
+Execute displacement changes for stroke length (SL) and strokes per minute (SPM) for beam lifted wells
+Operate and coordinate maintenance of Pump Off Controllers (POCs)
+Resolve well and hardware alarms
+Responsible for accurate and timely well tests and downtime
+Validate tests & troubleshoot variances
+Coordinate resolution of problems with Production Field Analysts (PFAs)
+Identify production opportunities via well variances
+Participate in operational planning meetings; provide input during well and pattern reviews; attend integrated solutions meetings; interact with engineers.
+
+
+Go to apply 
+

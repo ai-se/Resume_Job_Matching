@@ -1,0 +1,82 @@
+
+SKILLS
+LANGUAGES
+HOBBIES & INTERESTS
+• Arabic : Native
+• English : Fluent
+• French : Fluent
+Rabat, Morocco
++212*********
+adaija@r.postjobfree.com
+Linkedin.com/in/WalidMoumen
+I have a creative mind and am always up for new challenges. I am well organized and always plan ahead to make sure I manage my time well. ABOUT ME
+• Travelling
+• Sport
+Walid MOUMEN
+Full StackSoftware Engineer
+EDUCATION
+WORK EXPERIENCE
+2015-2020
+Jun. 2015
+Jun- Sep.
+2018
+Jun-Sept.
+2017
+Aug -Sept.
+2016
+ORGANIZATIONS
+ACCOMPLISHED PROJECTS
+• Volunteer in Startup-Maroc
+• Membre in GDG(Google Déveloper Group) Rabat
+• Co-founder of VinciEvents
+22 years old, Moroccan
+Github.com/WalidMoumen
+5th year Engineering Diploma -– Superior Institute VINCI in Computer Engineering and Telecommunication Networks (ISVIIRT), RABAT, Morocco
+Bachelor degree in Physics and Chemistry–MoulayMohamed Ben AbdellahHigh School, LARACHE, Morocco
+Graduated with Highest Honours
+Virtual reality developer intern at RnDFy (Research & Developement For you) – RABAT, MOROCCO
+Hotel reservation in Virtual Reality
+• Objective : Development of a webVr Website allowing customers the opportunity to view their rooms before booking.
+• Programming Language & Technologies : three.js, React.js.
+Mobile Developer internat TeslaTeam– RABAT, MOROCCO Development of a mobile app (Tram-Up)
+• Objective : Tram-Up is a mobile application offering a wide range of services for the tram passengers .
+• Programming Language & Technologies : Ionic 2, Angular 2 .
+• Link to google play :
+https://play.google.com/store/apps/details?id=com.wmm. tramway
+Developer internat EMS– KENITRA, MOROCCO
+Development of a Desktop Application
+• Objective : Implementation of a desktop application for advanced stock management.
+• Programming Language & Technologies : VB.NET.
+Jun-Jul.
+2016
+Web developer internat TeslaTeam– Rabat, MOROCCO Development of a e-commerce WebSite
+• Programming Language & Technologies : PHP, WordPress.
+• Development of a mobile application to perform the security audit (React Native, Laravel).
+• Implementation of a business management application (Angular, Phalcon).
+• Development of a web application for school life management (CakePHP).
+• Development of a website for buy and sell used cars (php, Javascript,Ajax…)
+• Languages : JavaScript,PHP, Java, C/C++
+PL/SQL, XML/XLS, HTML/CSS, C#
+• Mobile Developement : React Native, Ionic,
+Android.
+• Frameworks/ JavaScript Library :
+ReactJs/React Native, Angular,
+Redux,Express Js, jQuery, Tween.js
+• Virtual reality : A-Frame, Three.js
+• Java Plateform: Java EE
+• PHP Frameworks: CakePHP, Laravel, Phalcon
+• Design & Analysis : UML/Design Patterns,
+Merise
+• SGBD : MYSQL, Oracle 11g/12c, Microsoft
+SQL Server
+• Operating system: : Mac OS X, Red Hat
+server/ Ubuntu, Kali-Linux, CentOs,Windows
+Server 2003/2008
+May - Aug.
+2019
+Full-Stack JavaScript Developer Intern at 4D – Rabat, MAROCCO
+Development of a functional module: Oauth2 Server (RFC6749)
+• Objective : Modeling, Development and Implementation of a functional module Oauth2 Server (RFC6749).
+• Programming Language & Technologies : Javascript, NodeJs, ExpressJs, MongoDb, PassportJs, Mocha/Chai, Anguar8, Jasmine/Karma.
+
+Contact this candidate

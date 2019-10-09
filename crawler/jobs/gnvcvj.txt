@@ -1,0 +1,21 @@
+Job Title = Engineer
+
+ektello is working with a media/entertainment leader to find a Principal Software Engineer for a growing Center of Excellence. The primary location is Englewood Cliffs, NJ, but our team is open to some who is in New York, NY, or Philadelphia, PA.
+
+This is a 12-month contract to start. All candidates that will be considered must be able to work on W2 without sponsorship.
+
+Basic Qualifications
+
+Minimum 7 years of full-stack development using modern technologies such as Java, JavaScript (e.g. Node, Go), Scala, etc.
+Comfortable working with a variety of other languages and technologies, including but not limited to node.js and mobile native development
+Proficiency in Java, JavaScript, CSS3 and HTML5, relational databases, NOSQL databases, Git, and Unix administration.
+Experience with true cloud development, including docker and container orchestration tools
+Experience with cloud hosting on AWS or similar public/private cloud providers.
+Competent working with service-based application architectures and familiar with various API protocols. • Experience working in story and task-tracking tools for agile workflows.
+Experience setting up continuous integration and testing frameworks for development projects (IE Jenkins, Chef, Mocha.js, SonarQube, etc.) 9069
+#IndHigh
+#LI-DT1
+
+
+Go to apply 
+

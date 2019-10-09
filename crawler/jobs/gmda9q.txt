@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Job Overview: Machine Operators will 3 types of filling machines: Stick Filling Machines, Tube Filling Machines, and Sachets/Package Filling Machines. Will also run a tablet making machine.
 Shifts: 1st: 6a-430p/ 2nd: 420p-3a (BOTH M-Th) Friday is optional

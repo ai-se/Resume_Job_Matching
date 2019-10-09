@@ -1,3 +1,4 @@
+Job Title = Sr. Automation Engineer
 
 We currently have an exciting opportunity for an Automation Engineer (Ansible) to join our Infrastructure Operations team. The successful candidate would be providing exceptional service and uptime necessary to provide millions of end-users with any time, anywhere access to Q2's Online Banking application. As an Automation Engineer, you will help build tools for automation, analytics collection, provisioning and management of Servers, Storage, Network infrastructure and virtualization. You will develop tools for both on-premise and cloud-based infrastructure across a wide variety of platforms including Linux, Windows, VMware, AWS/GCP/Azure.
 

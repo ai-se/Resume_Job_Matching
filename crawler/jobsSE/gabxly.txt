@@ -1,46 +1,51 @@
+Job Title = Ruby Or Cs Or Engineer Or Scrum Or Vista jobs in Raleigh, NC, 27606
 
-Were looking for humble, but ambitious, razor-sharp Software Engineer significant depth in Ruby. Like us, you take SDLC, CI/CD, API, Analytics and integrations seriously; youre passionate about technology and, even more so, about product development. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. We are currently seeking a senior software engineer to help us realize our technical vision in an innovative and fast paced environment. Our selection process will emphasize technical and architectural skills as well as engineering fundamentals equally. The ideal candidate must be a master of their domain. Furthermore, the ideal candidate must be able to inspire and champion through influence when the need arises. We are looking for a rare mix of intelligence, integrity, domain knowledge, verbal agility, and diplomacy which allows you to rapidly earn the trust of technically astute engineers and product astute product management leaders.
+Ruby Tuesday  – 
+Raleigh, NC, 27601
+BartenderRuby TuesdayRaleigh NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 09
 
-Why We Need This Role
-We are looking for a senior software engineer to help us realize our Builder Product and Enterprise Management systems visions and enable us to continue turning clients ideas into a fully functioning software at massive scale.
+Ruby Tuesday  – 
+Cary, NC, 27511
+BartenderRuby TuesdayCary, NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 07
 
-Why You Should Join
-This is a challenging and diverse role that requires you to constantly operate near bleeding edges of technology. Youll be surrounded by teammates who never say I do not know how or I have never done that before, and constantly opt for how about we try this! Only join this role if you are craving rapid growth, able to create a path in uncharted territory, and comfortable with trying, failing and course-correcting fast.
+HireNetworks  – 
+Durham, NC
+Ruby on Rails Developer-8128 Our best-in-class legal intake and case management software client is seeking a talented Ruby ... with agile development methodologies including Kanban and Scrum Start-up or experience operating in a highly dynamic and ...
+- ZipRecruiter, Sep 29
 
-First Six Month Deliverables
-Collaborate with designers, product managers, and other software developers to deliver compelling user-facing products or enterprise wide integrations
-As a part of the engineering scrum team, contribute to the architecture of efficient and reusable components that drive complex applications across the stack
-Create integration and unit testing tools and hooks that enable availability and scalability
-Identify and resolve functional, performance and scalability issues
-Requirements
-Strong drive and sense of ownership of the challenges we take on, coupled with a team-oriented, can-do attitude
-5 plus years of relevant experience managing fast-paced and dynamic software engineering teams
-Working knowledge of standard CS fundamentals (data structures, algorithms, complexity analysis)
-A systematic debugging and problem solving methodology
-Experience in globally geo distributed environments is a strong plus
-Devops experience are strong plus
-Have built your own Gem.
-Integration of third party APIs, scraping, heavy data processing.
-CS degree required or equivalent work experience
-Capable of technical deep-dives, yet verbally and cognitively agile enough to hold their own in a product dialog
-Experienced with Agile / Scrum methodologies
-Expert understanding of object oriented and procedural Software Engineering, Data Engineering and cloud computing fundamentals
-Expert understanding of Ruby
-Expert understanding of SQL and NoSQL database architecture, strong understanding of RDS and data streaming services
-Strong understanding of and experience with testing practices including unit testing, integration testing, acceptance, and load testing
-Strong automation and CI / CD experience
-Strong software and data security expertise
-Pivotal Tracker or Jira, GitHub, CD/CI tools experience, some would say you are a master.
-If I asked your previous team members about you, they would say you were a great teammate and they would very much welcome an opportunity to work with you once again
-Benefits
-Health and Wellness benefits including competitive medical, dental, and vision plans
-Performance-based bonuses and stock options
-Generous vacation and time off benefits including paid holidays
-Generally flexible working hours
-Working in a beautiful office space the heart of Silicon Beach in Playa Vista
-A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
-Mission-driven company that is making the world a better place
+Kforce  – 
+Durham, NC, 27703
+Kforce is immediately seeking talented Senior Ruby on Rails Engineer for our global networking technology services client in Morrisville, North Carolina (NC). Our client innovates everywhere; connecting people, things, processes, and data, reshaping ...
+- Lensa, Oct 07
 
+Putnam Berkley Group  – 
+Morrisville, NC, 27560
+Are you looking for a high energy, strategic, and fast-paced position as a Scrum Master? Join Relias, the company changing ... City: Morrisville Postal Code: 27560 Job ID: 33680 Nearest Major Market: Raleigh Job Segment: Engineer, Engineering SDL2017
+- StartwireL2, Sep 26
 
-Go to apply 
+Anew Recruit  – 
+Durham, NC, 27701
+Ruby on Rails Software Engineer * with Node.js US-NC-Durham Job Description Looking for a Senior Software Engineer in our Durham, NC location, with Ruby on Rails expertise What You'll Do: Contribute to all aspects of the services under the team's ...
+- Jobg8, Sep 28
 
+Ruby Tuesday  – 
+Raleigh, NC, 27601
+Server AssistantRuby TuesdayRaleigh NC*Excellent Benefits* The Ruby Tuesday Server Assistant will be responsible for seating the guests and assisting the service team with ensuring that each guest leaves happy.If you would like to be considered for ...
+- Jobs2Careers, Oct 08
+
+Resolvit Resources LLC  – 
+Morrisville, NC, 27560
+Bringing Solutions That Make Business Better Join Resolvit as a Junior Scrum QA Test Engineer and be part of a creative, forward-thinking team. Our success at deploying skilled, highly knowledgeable experts has landed us on the Inc. 5000 list of ...
+- StartwireL2, Sep 26
+
+Team Ruby Henderson  – 
+Raleigh, NC
+Strucured training in a team enviroment willing to helpAbundant leads, along with programs to train you on how to create your ownComplete closing department support allowing you to work with many more buyersProfit Sharing & Cutting Edge Tech found...
+- Adzuna, Oct 07
+
+Team Ruby Henderson  – 
+Raleigh, NC, 27601
+Strucured training in a team enviroment willing to helpAbundant leads, along with programs to train you on how to create your ownComplete closing department support allowing you to work with many more buyersProfit Sharing & Cutting Edge Tech found...
+- Jobg8, Oct 08

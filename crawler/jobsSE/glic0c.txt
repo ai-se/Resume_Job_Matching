@@ -1,3 +1,4 @@
+Job Title = Sr. Palo Alto Engineer/Architect
 
 We are looking for Sr.
 Palo Alto Engineer/Architect in Atlanta GA Qualifications:6 + years of experience required Responsibilities: The Architect develops and maintains the high-level design plan for the overall applications, data, and infrastructure architectures.

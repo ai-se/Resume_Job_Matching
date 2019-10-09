@@ -1,0 +1,68 @@
+
+Edward
+Parker
+Salt Lake City (area), Utah
+385-***-****
+adahuw@r.postjobfree.com
+WWW.linkedin.com/in/edward-j-parker
+Summary
+Skilled Network Engineer, with 15+ years’ experience in Routing, Switching, and Securing Local and Wide area networks (LANs / WANs). Configured multi-vendor solutions with Cisco, Check Point, Juniper, IBM, Nokia, and others. Maintained troubleshot network infrastructure and security systems using various SIEM Systems, network diagnostic and troubleshooting systems. Deployed multiple sized LAN, WAN, firewalls and other equipment to large plants and small offices.
+Highlights
+• Security Information and Management
+Systems (SIEM), Black Stratus, Qradar, Splunk
+• Checkpoint, Nokia, Palo Alto, Firewalls
+• Cisco Router and Switch configuration,
+deployment and testing
+• Network analysis with Cisco diagnostics,
+NetBrain, Log Magic, and Omni Peak, sniffer,
+NAMs, packet analyzers and TCP dumps.
+• Juniper Router and Switch configuration
+and troubleshooting
+• Data center design configuration and
+deployment.
+• Malware analysis and tracking
+• Change management systems Remedy, and
+Service Master.
+Experience
+Network Engineer-Security Operations Specialist / BT Americas, Dallas, TX 2006-2019 Enhanced Soc Specialist BMS, Novartis, PepsiCo, P&G, Quiler(OMW) account 2010 –2019:
+• Monitor and analyze outputs from Security Information and Events Management systems for major customers
+• Located events and malware infections, to the end device.
+• Evaluated events and infections for their severity and risk.
+• Participated in a follow the sun 24 X 7 support model. Network Engineer – P&G and Heinz accounts 2008 – November 2011
+• Configured Network High- and Low-Level Network Designs (HDL) for the sites
+• Engineered test and turn up (T&TU) plans for the network equipment and circuits.
+• Designed cutover and rollback plans.
+• Analyzed, document and map the existing Cisco network sites.
+• Troubleshoot and remediated any network issues during the cutover to the new circuit and provided critical care for the day after the change.
+Network and Firewall Engineer- Safeway account- 2006 - June 2008
+• Configured site-specific routing, address translation, backup connections, and user access with multi- vendor routers, switches and firewalls.
+• Configured firewall rules to meet specific customer requirements.
+• Designed high availability pairs (VRRP), VLAN interfaces, and routing.
+• Troubleshoot extracted firewall logs and diagnostic outputs for VPN and other connections. 2
+• Provided detailed packet analysis of application performance on the network.
+• Designed and implemented VPN partners connections.
+• Maintained proper change procedures to comply with PCI and Sarbanes Oxley requirements. Network Engineer / Convergys (Juniper Networks Account), Ogden, Utah 2005-2006
+• Provided carrier grade support for Juniper router systems. Other Relevant Experience
+Network Engineer / United Health Care - Ingenix Division, Salt Lake City, Utah
+• Built and managed their Salt Lake City data center network.
+• Built cross country WAN connections.
+Test Engineer / Evans & Sutherland, Salt Lake City, Utah
+• Managed a multi-million-dollar test program set development project for a DoD Contract. Education
+Bachelor's in Electronic Engineering Technology / Weber State University, Ogden Utah Recent Studies-Training
+CCNA 201*-***-*** & CCNA Security 210-260 Video Boot Camp CompTIA Security+ SYO-501
+Splunk Fundamentals
+Certifications/Licenses
+IBM Qradar SIEM Foundation 2018-2020
+Other Training / Previous Certifications
+• Cisco Certified Network Associate (CCNA) – 2010-2013
+• Wireless Network Administrator. Aug. 2010
+• Juniper Enterprise Routing July 2010 Juniper
+• Enterprise Switching June 2010 (JNCIA-EX)
+• Juniper Networks SRX Firewalls July 2009
+• Checkpoint NGX Firewall-1 Management I & II – March 2007(CCSA-2008)
+• Juniper Networks Training M&T Routers March 2006 (JNCIA-M & JNCIS-M)
+• Juniper Networks Training – BGP, IS-IS, MPLS, OSPF – November 2005
+• Sniffer Inc. Troubleshooting with Sniffer - 2004
+• Cisco Certified Network Professional - 2002
+
+Contact this candidate

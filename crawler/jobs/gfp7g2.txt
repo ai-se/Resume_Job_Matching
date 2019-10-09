@@ -1,0 +1,24 @@
+Job Title = Engineer
+
+Job Title
+
+WebSphere Commerce Admin, Seattle, WA
+
+Relevant Experience (in Yrs)
+
+6-8 years
+
+Technical/Functional Skills
+
+* The ideal candidate should have strong hands on experience in Java, J2EE and WebSphere Commerce Suite and Apache Solr.
+
+* Good knowledge in WCS Subsystems such as Catalog, Order, Member, Payment, Marketing etc.
+
+* Possess Good knowledge of WCS Admin tools. Good understanding of integrating the Associated topics: ip, maintenance, network, network administrator, router, sccm, scom, scom sccm.
+
+* server, system center configuration manager Associated topics: administrator, infrastructure, ip, maintenance, network, network administrator, scom sccm, system administrator, system center configuration manager, tcp.
+SDL2017
+
+
+Go to apply 
+

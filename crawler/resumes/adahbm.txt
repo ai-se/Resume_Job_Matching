@@ -1,0 +1,157 @@
+
+James Poli
+650-***-****
+Fremont, Ca. *****
+adahbm@r.postjobfree.com
+https://www.linkedin.com/in/jmpoli
+
+Career Summary
+
+QA Engineer for mobile consumer electronics and enterprise mobility with an established history testing multiple platforms and architectures
+
+Skill Proficiencies
+Log Analysis
+Auto/Manual QA Testing
+ARM Device Firmware Testing
+Mobile Device Management
+Embedded System Testing
+Mobile Device Security
+Client/Server architecture
+JIRA/Confluence
+Appium/Quality Center
+Device REST API Testing
+Mobile Frontend/Backend Testing
+ADB Commands
+Mobile Device Troubleshooting
+Device Networking (DLNA, NFC)
+Bluetooth/Bluetooth Low Power
+Mobile Technologies HTTP, HTML, Android SDK
+Enterprise Messaging
+4,5G/LTE, HSDPA, GSM, CDMA Device Testing
+
+Professional Accomplishments
+Mobile Device QA Lead Engineer
+Experience testing Android, Blackberry, Goodlink, iOS, PalmOS, Symbian, WebOS, and Windows Mobile devices
+Supported deployment of 70K+ enterprise devices
+QA Testing on multiple Android platforms (Smart watches, TV Dongles, Soundbars etc.)
+Tested numerous architectures in a wide range of consumer and enterprise use
+Discovered extensive range of bugs on numerous products before MP
+Extensive device application testing with web applications (REST)
+Written thousands of test cases
+Subject Matter Expert for mobile device platforms
+QA Testing of both software development and hardware (mobile platform) manufacturing
+
+Work History
+September 2018 – May 2019
+Matrix Precise onsite @ Kaiser
+Technical Project Manager
+●Delivered mobile software solution and mobile platform to multiple service areas
+●Trained and served as the escalation point for local support
+●Registered multiple UX/UI bugs
+●Provided escalation triage and troubleshooting for implementation escalations
+●Provided technical analysis of implementation complexities
+●Discovered multiple bugs through QA testing
+●Liaison to service area stakeholders
+
+June 2017 – July 2018
+IMVU Inc
+IT Project Manager
+●Ran daily scrums of Infrastructure, Operations, and IT teams
+●Ran service failure post mortems
+●Managed projects and project requests from other teams
+●Managed service requests using JIRA
+
+April 2017 – June 2017
+Samsung Mobile Electronics
+Android QA Test Engineer
+●Created test plans and steps for testing Samsung Bixby enabled devices
+●Performed functionality, negative, and smoke tests
+●Helped develop UX based testing for voice commands
+●Reported bugs to engineering teams
+●Tracked bugs through to resolution
+
+February 2017 – April 2017
+HCL America onsite @Google
+Technical Account Manager
+●Manage ODM/OEM/SIs through device certification
+●QA Testing candidate devices for certification
+●Triage technical issues and track through to resolution
+
+November 2015 – February 2017
+Seabridge Software
+Android Applications QA Lead
+●Creation of all test plans and cases
+●QA of App Store Implementation and Management
+●QA of UI/UE for app store
+
+May 2015 – November 2015
+Neu Image Technology
+Android Applications Lead QA
+●Conducted meetings with software developers
+●Creation of test plans and QA processes
+●Responsible for all bug tracking and resolution
+●App Store Implementation and Management
+●Android CTS testing
+●Supported device monetization through testing
+
+July 2014 – February 2015
+Intel Corporation
+Android QA Analyst
+●Performed Python based automated device testing
+●Built testing lab for device platforms (Smartphone, tablet, iOS, Android TV, and gaming consoles)
+●Created functionality test plans and performed QA functionality for Android TV and Android gaming consoles
+●Conducted technical issue triage on Android platforms for developer relations
+●Supported Windows Tablet Developer Relations/iOS
+
+April 2011 – April 2014
+Envision Peripherals Incorporated
+Android Platforms QA Lead
+●Created test plans, carried out tests and reported results of tests on development and production models of multiple platforms for Android ARM MIDs and directly reported to the Tablet Evangelist
+●Created testing procedures for accessories such as Bluetooth and 4G/LTE data connections
+●Device security testing/encryption testing for LatAm carriers and retailers
+●Android CTS Testing
+●Prototype testing of Android gaming consoles
+●Implemented and managed MDM services for internal use
+●Drove product service architecture (FOTA server, MDM, App Store)
+●Performed all ARM firmware QA testing
+●Designed custom products for bid projects
+●Subject Matter Expert for Android and Windows Mobile tablet line products for all territories
+●Designed and implemented product monetization using preinstalled software
+●Created strategic partnerships with mobile ISVs
+●Drove technical product development, bug resolution and functionality testing
+●Delivered latest functionality to newest devices and accessories
+●Established and cultivated relationships with potential strategic partners
+●SPOC for all Android product escalations
+
+August 2005 – December 2010
+Cisco Systems
+QA Test Engineer – Enterprise Mobility
+●QA testing new mobile applications, hardware, and services across multiple platforms for the Mobility Design and Engineering team using Quality Center
+●Discovered high severity bugs in SaaS and MDM solutions before deployment
+●Implemented UX oriented testing for QA Protocol
+●Managed issue resolution discovered during BYOD implementation
+●Extensive testing of Bluetooth accessories (OBEX and tethering)
+●Extensive device security testing of enterprise solutions
+●Created device integration roadmaps from concept to deployment of Android, Blackberry, Goodlink, iOS, Palm OS, Symbian, WebOS and Windows Mobile
+●Tested mobile apps and service performance across LTE networks
+●Participated in development testing for internal Cisco products
+●Handled escalations and high touch enterprise mobility user technical support issues
+
+February 2004 – August 2005
+Server Support Technician – Good Technology, San Jose, California
+●Improved front line Goodlink User support for enterprise messaging customers
+●Resolved complex customer issues involving Microsoft Exchange Servers
+●Specialized in Goodlink server deployment and issue resolution
+
+March 1996 – January 2004 – Windows Network Administrator at GE Nuclear and Pacific Bell
+
+Education
+Bachelor of Arts – English
+California State University at Chico
+Chico, California
+June 1, 1995
+
+Technologies Used
+Android, Bounty Applications, App Store, Android Compatible, Android Derivative, Google Analytics, Windows 8.1, Exchange, EAS, Google for Work, Android SDK, ARM, x86, Ubuntu, DaVinci (Intel Solution), smartphone and tablet hardware, Mobile Data(3G-4G/LTE), MDM Consoles, Android Certification Test Suite, REST, HTTP, SOAP. Experience with web and mobile technologies – HTTP, HTML, XML, JSON, SQL, Java Script, Node.js, Xcode, Android SDK
+
+Contact this candidate

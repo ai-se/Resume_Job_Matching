@@ -1,0 +1,33 @@
+Job Title = Engineer
+
+Description
+:
+ENGINEER (40035 OR 60240)
+Classification: Exempt
+Date: January 2018
+
+About us:
+Target is an iconic brand, a Fortune 50 company and one of America’s leading retailers.
+
+Target as a tech company? Absolutely. We’re the behind-the-scenes powerhouse that fuels Target’s passion and commitment to cutting-edge innovation. We anchor every facet of one of the world’s best-loved retailers with a strong technology framework that relies on the latest tools and technologies—and the brightest people—to deliver incredible value to guests online and in stores. Target Technology Services is on a mission to offer the systems, tools and support that guests and team members need and deserve. Our high-performing teams balance independence with collaboration, and we pride ourselves on being versatile, agile and creative. We drive industry-leading technologies in support of every angle of the business, and help ensure that Target operates smoothly, securely and reliably from the inside out.
+As an engineer, you serve as a technical specialist delivering the engineering that powers the product. You develop keen insight into the technical architecture and design to deliver robust and scalable software components. You constantly demonstrate the depth of your expertise by solving engineering problems. You are passionate about the quality of software and balance between speed of delivering new features and robustness of the software components you implement. You can handle operational issues with little or no oversight. You actively review code to ensure the software quality and functional accuracy is maintained across the team. You are keen to learn the design and architecture of the product and participate in ceremonies that can influence both. Core responsibilities of this job are described within this job description. Job duties may change at any time due to business needs.
+Use your skills, experience and talents to be a part of groundbreaking thinking and visionary goals. As an engineer, you’ll take the lead as you…
+Use your technology acumen to provide input to assist with evaluation of new technologies and contribute to the design, lifecycle management, and total cost of ownership of services. Contribute to research and proof-of-concept initiatives for new technologies and assist with code review and design review, writes, organizes and maintains code based on designs. With guidance, delivers high-performance, scalable, repeatable, and secure deliverables. Participate in structured construction, automation, debugging, and implementation activities, ensuring architectural and operational requirements and best practices are met. Participate in disaster recovery planning and disaster recovery activities and participate in functional integration and regression testing and ability to automate test scripts. Resolve frequently encountered technical issues and monitors systems capacity with minimal assistance. Search and understand metadata about various data sources and metrics. Adhere to change and incident management standards and expectations.
+
+About you:
+• 4 year degree or equivalent experience
+• 1-5 years of software development experience
+• Demonstrates familiarity with current and emerging technologies in own scope of responsibility, and develops ability to apply these technologies
+• Understands concepts of package solutions and package specific programming language with knowledge of development objects
+• Demonstrates and continuously builds upon domain-specific knowledge
+• Demonstrates proficiency in at least one computer language
+• Understands the concepts of distributed programming and applies it to their domain
+• Possesses working knowledge of transaction codes/master data used within specific domain and participates in building custom solutions in the package
+• Maintains technical knowledge within areas of expertise
+• Stays current with new and evolving technologies via formal training and self-directed education
+Americans with Disabilities Act (ADA)
+Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at for additional information.
+
+
+Go to apply 
+

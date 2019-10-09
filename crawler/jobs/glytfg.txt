@@ -1,0 +1,19 @@
+Job Title = Technician
+
+TECHNICIAN POSITION
+
+Project Overview:
+
+- Desktop Support
+- Project Management
+- Imaging Windows OS
+- Imaging Mac OS
+- Deploying PC hardware
+- Win 7
+- Mac OS 10
+
+The Santa Clara University will undergo a desktop/laptop upgrade over a period of time (TBD). ProActive will direct and coordinate the technical deployment, upgrade and transferring of data. We will produce and maintain an upgrade matrix to ensure all systems are deployed and set up within the projected timelines.
+
+
+Go to apply 
+

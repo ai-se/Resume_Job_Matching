@@ -1,0 +1,86 @@
+
+Network Administrator
+Training Facilitation Network and Systems Administration Hardware Maintenance
+Technical Documentation Project Management Strategic Planning and Execution Workflow Preparation
+
+Qualifications Profile
+
+Detail-oriented and solution-focused professional, with hands-on experience in all facets of network and data center operations encompassing planning, installing, configuring, and optimizing server and information technology infrastructure. Armed with excellent analytical and decision-making skills in identifying challenges and conducting troubleshooting on technical issues to achieve organizational effectiveness and quality performance. Recognized as a team-player and problem-solver, with proven ability to manage systems, projects, and teams in various IT environments; develop procedures to improve information security and business continuity; and build strong and beneficial relationships with diverse level of individuals. Currently hold an active Department of Defense (DOD) Secret Security Clearance.
+
+Education
+
+Associate of Science in Information Technology, with Focus in Networking
+In Progress (Expected Completion Date: Winter 2020)
+Southwest Tennessee Community College, Memphis, Tennessee
+
+Coursework in Information Technology, 2016
+University of West Florida, Pensacola FL
+
+Relevant Experience
+
+TCOM L.P. Bagram Air Base, Afghanistan
+Field Engineer Level 3 Sep 2019–Present
+Provide keen oversight with the execution of assigned work schedule and related crew duties
+Apply technical skills in installing, configuring, upgrading, and maintaining computers, servers, Cisco routers, Cisco and Sixnet switches, modems, and firewalls
+Administer the maintenance of Windows Server 2008 R2, Windows Server 2012 R2, Windows 7, and Windows 10, as well as redundant array of independent disk (RAID) storage solutions
+Take charge of computer and server audits, system updates, and information assurance vulnerability alert IAVA updates
+Test and troubleshoot fiber optics using optical time-domain reflectometer (OTDR) and other network equipment
+Hold responsibility in splicing fiber and terminating CAT 5e, and CAT 6 ethernet, and coax
+Render assistance to Base Defense Operations Center and Tactical Operations Center personnel in supporting mission while providing desired footage and information in PowerPoint format
+Repair electrical components on printed circuit boards and electrical wiring
+Assume accountability for the setup, maintenance, and troubleshooting of very small aperture terminal (VSAT) systems for site communications across the theater
+Communicate with military personnel and chair of command for regular updates and situation reports
+
+Bravura Information Technology Systems, Bagram Air Base, Afghanistan
+Aerostat Senior Systems Technician Aug 2017–Aug 2019
+Facilitated training for other team members to ensure effectiveness of information systems
+Made use of aerostat payloads in troubleshooting fiber and electrical components
+Handled high-voltage electrical systems and hydraulic systems
+Guaranteed consistency in network uptime by at least 95%
+Utilized several network tools such as Putty, SSH, TELNET, and Acronis in small network environments
+Conducted preventive maintenance on site equipment, generators, mobile mooring systems (MMS), and aerostat payloads
+Prepared problem reports and collaborated with system engineers for timely resolution
+Operated and maintained the following systems:
+L3 WESCAM MX series (MX-15, MX-20, MX-25) of surveillance cameras with electro-optical/infrared (EO/IR) capabilities;
+Unattended Transient Acoustic Measurement and Signature Intelligence (MASINT) Sensors (UTAMS); and
+StarLITE radar systems for data analysis
+
+Other Experience
+
+Constellis, Camp Arifjan, Kuwait
+ZBV X-Ray Operator and Technician May 2017–Sep 2017
+
+Florida Army National Guard, Camp Lemonnier, Africa/Pensacola, FL, USA
+Base Defense Operations Center Controller BETSS-C RAID Operator Jul 2015–Jul 2016
+Armor Reconnaissance and Communications Specialist Nov 2013–May 2017
+
+Professional Development
+
+Training
+Anti-Terrorism Awareness Equal Opportunity Sexual Harassment Prevention
+Risk Management Leadership Physical Condition Marksmanship
+Military Science Force Protection
+
+Certification
+Cisco Certified Network Associate (CCNA), In Progress
+Certified BETSS-C Tower Chief
+Certified Cerberus Operator
+Certified ZBV/BVMT X-Ray Operator
+Certified PTDS PSS-T Operator
+CompTIA Security+/Continuing Education
+First Aid and Cardiopulmonary Resuscitation (CPR)
+
+Course
+Udemy:
+Cisco Certified Network Associate (CCNA), Cisco Certified Network Professional (CCNP), Amazon Web Services (AWS), Python, Active Directory
+CBT Nuggets: Cisco Certified Network Associate (CCNA), Cisco Certified Network Professional (CCNP), and Microsoft Azure
+Pluralsight: Python
+
+Technical Skills
+
+Microsoft Office Suite (Word, Excel PowerPoint, and Outlook) Python
+CISCO IOS PuTTY Fiber Optic Splicing OTDR Ethernet Termination Windows Operating
+Electronics Soldering Electronics Troubleshooting and Repair to the Component Level Multimeter
+Oscilloscope
+
+Contact this candidate

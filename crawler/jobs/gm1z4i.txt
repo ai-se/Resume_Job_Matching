@@ -1,0 +1,70 @@
+Job Title = Engineer
+
+O365 ENGINEER
+
+WHO IS SPR?
+
+SPR is a digital technology consultancy that develops elegant solutions to transform the way people do business. We're 300+ strategists, developers, designers, architects, consultants, thinkers, and doers in Chicago. We work with 160 clients in 10 unique industries – everything from corporate finance and global logistics to local breweries and Chicago startups.
+
+We think about the end users and rigorously apply the latest technologies and frameworks to address our clients' needs. We enable companies to do more with data, engage with other people, build disruptive solutions, and operate productively. To do this, we hire smart technologists and sharp business leaders who are excellent communicators and have an interest in working on multiple projects across industries.
+
+SPR offers a great environment for employees to learn, to build systems that make an impact, and to tackle exciting challenges. With our office's "Maker Space", you can explore your IoT side and develop fun projects with 3D printing and CNC machining. We operate in a fun, casual work environment and have great benefits including: competitive salary, bonuses, generous vacation time, big fitness incentives, and medical/dental/vision insurance.
+
+By joining the SPR team, you'll be using your brain, working hard and making an impact through your projects – and you'll be rewarded for it.
+
+WHAT IS THE POSITION?
+
+The O365 Engineer will be challenged implementing solutions using the Office 365 toolset alongside the internal IT team at SPR. The Engineer must be a passionate self-starter interested in becoming an Office 365 expert. The Engineer will be a mentor who will help develop others' natural talents. The Engineer will collaborate with team members to learn and contribute their own ideas to the success of projects.
+
+RESPONSIBILITIES
+
+* Support SPR's internal Sharepoint environment; review the environment with SPR SMEs and document technical specifications, forms, workflows, approvals and security permissions for all sites
+
+* Identify areas where best practices may have not been used and provide recommendations to SPR SMEs
+
+* Help resolve reported issues in the O365 production environment working with the SPR IT team
+
+* Provide input into and help document solution designs and technical strategies
+
+* Educate and guide internal customers while providing excellent customer service
+
+* Support the development of strategies and guide the implementation of O365 corporate governance
+
+PERSONAL AND PROFESSIONAL QUALIFICATIONS
+
+* Analytical skills, with excellent problem-solving and troubleshooting abilities in the face of ambiguity
+
+* Experience in communicating with users, other technical teams and management to collect requirements, identify tasks, provide estimates and meet production deadlines
+
+* Able to manage your own time, and work well both independently and as part of a team
+
+* Possess excellent interpersonal and organizational skills
+
+* Ability to handle diverse situations, multiple projects, and rapidly changing priorities
+
+* Great attitude and commitment to get the job done
+
+* Understanding of computing systems, software, and data structures
+
+* Experience with Office 365 and feature capabilities
+
+* Experience with creating and configuring SharePoint Sites, Pages, Web Parts, Lists, Libraries, and other out of the box SharePoint Assets
+
+* Skills and experience in at least one object-oriented programming language (e.g., Java or C#) or JavaScript framework (e.g., Angular, Node, or React) – Nice to have
+
+* Experience in migrating from previous versions or third-party systems
+
+* Ability to work on a team and take direction
+
+EDUCATION & EXPERIENCE
+
+* Bachelor's Degree, preferably in Computer Science, Engineering or Science / Technology-based disciplines
+
+* The O365 Engineer should possess a minimum of 3-4 years of experience working with on-premises versions of SharePoint, Office 365, or related Microsoft technologies in a technical capacity.
+
+If this sounds like the kind of challenge you would be up for every day, we would love to hear from you.
+SDL2017
+
+
+Go to apply 
+

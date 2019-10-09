@@ -1,0 +1,126 @@
+
+Anitha Cell: 978-***-****
+SAP Sr. Programmer Analyst adajup@r.postjobfree.com
+
+SUMMARY:
+
+** *****’ experience as SAP ABAP and PI Technical Consultant in development of applications using ABAP/4 and integration using SAP PI/PO in SD MM WM PP and FI modules
+Expert in Problem Solving, Debugging, Requirement Gathering, writing technical designs for Interfaces, reports and translating business requirements into technical designs, Unit and system integration testing, technical flow Diagrams.
+Experience in integration using SAP PI/PO. Worked on FILE, IDOC, RFC, XI, SOAP, REST and ABAP PROXY adapters.
+Experience in integration between SAP and salesforce.com.
+Experience in developing interfaces using ALE, IDOCs, EDI, BAPI, RFC, WebServices, QRFC.
+Experience with NetWeaver Gateway and OData Services, HANA.
+Experience in ABAP and JAVA mapping, developing XSLT.
+Involved in various phases of the project development from requirements gathering to deployment.
+Experience in creating interface based External Schemas which includes XSD, WSDL using XML
+Experience on Integration Monitoring for Processed XML Messages (Main Payload, Error, Trace).
+Strong experience in SAP R/3 ABAP/4 in Developing, Implementing new and Extended Functional requirements in various modules like SD, MM, WM and FI.
+Excellent Experience in developing all components of RICEF objects from design to support phases.
+Expertise in end to end handling of user requirements including design, build, test and demo.
+Excellent functional knowledge of SAP MM and WM processes. Cycle counts, created bins, bin to bin transfer, Migo, transfer orders.
+Excellent experience developing Classical and Interactive reports, Interface Development, Dialog Programming (Module Pool), sap scripts, VOFM, BAPI, BTE, function modules smartforms and user exits
+Experience in Object Oriented ABAP programming, ALV.
+Requirements gathering, translating business requirements into technical requirements.
+Experienced in working with Customer Enhancements using user exits and BADI’s
+Experience in creating and maintaining standard SAP Dictionary objects
+Experience in Data Migration and Data Uploads using BDC (session method & call transaction method) and Legacy System Migration Workbench (LSMW),
+Excellent communication skills both written and verbal
+Experience in production support incident handling
+
+.
+PROFESSIONAL EXPERIENCE:
+
+EMPLOYER: Fresenius Medical Care Waltham, MA Aug 2011 – Till Date
+Role: Sr. Programmer Analyst ABAP/PI
+
+Fresenius Medical Care North America is the largest provider of Dialysis, renal care products and services in the nation, including state-of-the-art dialysis machines, dialyzers and pharmaceuticals.
+Responsibilities:
+
+Analyzing business requirements, enhancing specifications and preparing technical design, Integration testing documenting & business sign-off.
+Worked as a Sr. programmer in ECC and SAP PI.
+Delivered case management project by developing interfaces between SAP ECC and salesforce.com to send patient information and their prescription delivery information for them to view in case management system.
+Delivered Stapes project to receive all the purchasing details from Staples and create purchase orders and invoices.
+Developed BTE to track and send customer master data creates and changes to Salesforce via PI
+Developed new IDoc interfaces to create and change purchase requisitions in SAP R/3 and capturing errors in a custom table.
+Developed a program to re-process errors from the custom table
+Developed PI system usage report to help monitor system load during data loads and take necessary action.
+Worked on InforEAM (Enterprise Asset management) project and developed inbound and outbound interfaces between SAP ECC InforEAM and to send material master, vendor, Info records, source list, PR, PO, Goods movement and cycle count information using ALE and IDocs.
+Developed interfaces between SAP ECC and MES to send material master, production order and stock data transfer from bin to bin information using File adapter
+Developed synchronous interface for material consumption and material removal via PI using integrated scenario.
+Developed OData services for Orders and delivery interface from SAP R/3 to salesforce.com in NetWeaver Gateway.
+Developed an interface for sending stock data for production orders from ECC to external system via PI using SFTP adapter and integrated scenario.
+Developed OData Services for Dr. First interfaces from SAP ECC using NetWeaver Gateway and SAP PI.
+Developed interfaces using ABAP proxy, ALE, IDocs, SOAP and OData
+Developed interfaces between SAP and salesforce.com to send customer sales area information using SOAP adapter.
+Developed ALV reports for device release report, Failed fax report, Warranty report, inactive materials
+Worked on user exits/BAdi’s in WM, MM and PP area.
+Developed smartform for Warehouse inventory list via cycle counting
+Worked on some enhancements to the IDoc interface for purchase orders.
+Inactive Material report:
+Inactive materials having no movements in any plants
+Inactive materials having no movements & not being used in any active BOM’s (BOM has no deletion flag) in selected plants (remove those materials being used in BOM’s from report #2)
+Data Loads:
+Year-end standard cost loads
+Material master loads
+Info record loads
+Equipment loads
+
+RF Menus/ Module pool programming
+
+ADC transactions: Bin to Bin (Multi): Creation of ADC transaction that allows stock to move to multiple Bins
+Create and change cycle count document LI11N and LI12N
+YS03: Modifications to transaction YS03 to handle the serialized parts. So added functionality to handle the serial numbers.
+Picklist: Change transaction YS36HH and YS36TM to add difference indicator
+Transfer Order audit
+
+EMPLOYER: SILTEK CORP
+
+Client: Philips Healthcare, Andover, MA April 2010 – July 2011
+SAP ABAP Technical consultant
+
+Responsibilities:
+Created 9 custom tables for Compliance monitor report in the finance area, generated table maintenance generators and created transaction codes to maintain data in these tables. Copied the Compliance monitor program from Philips Lighting system to Philips Healthcare system and made changes to the program relevant for Healthcare Kernel.
+Created LSMW tools to load data in these custom tables and uploaded data into these custom tables using the LSMW tools.
+Modified the IDoc interface between SAP and Clarity. Added 4 new fields to the outbound Idoc structure from SAP to clarity and modified the IDoc function module user exit to populate the data in these fields.
+Modified the jetform print program to print 3 additional fields (contact person text, mode of transport, payment terms text) in the PO output for the Japan Sales Organization
+Created a new Chinese language sapscript layout for PO by copying the English version of the layout for Goldway project. Copied the existing English version layout and modified the texts to Chinese texts and modified the addresses in the form.
+Created a new BADI implementation in the sales order user exit in order to send email notification when a sales order is created in the RTS storage location. I used the user exit userexit_save_document of MV45AFZZ program to achieve this functionality.
+Modified the existing EDMR material master function module to update the classification view. A new class and characteristic is created in SAP to store the support channel value. EDMR sends the support channel value and is updated in SAP using the RFC function. I modified the function module to create/update/delete the classification view in SAP to store the support channel value in SAP.
+Modified the EDMR material master interface to store material description in multiple languages.
+Created 4 new Jetform layouts for China by copying the existing US layouts. Modified the Logo, addresses and page layouts.
+Applied one OSS note using transaction SNOTE for fixing an issue in the SAP Delivery creation program.
+Environment: SAP R/3, Version ECC5.0, ECC6.0
+Done QAI to check if the developers have followed Philips naming conventions and guidelines.
+
+EMPLOYER: Digiknots Sep 2003 to Jan 2007
+Sr Software Engineer
+
+Responsibilities:
+
+Worked on developing reports in the area of sales and distribution, Materials management and production planning.
+Search and apply OSS notes to solve issues in standard SAP software.
+Troubleshoot issues by debugging and identifying the root cause.
+Worked on pricing requirement routines to block certain pricing conditions in sales order management.
+Worked on production support tickets by investigating issues, finding a root cause and implement corrective action.
+Created an interface from the web to SAP to create sales order using BAPI.
+Created RFC function module to create purchase order from the web using BAPI.
+Created an upload program using BDC to upload customer master data.
+Created a report to show purchase order details, including line items, quantities and confirmation.
+Developed a report to extract and display open sales orders details including delivery details.
+Created/modified dialog programs using screen painter, menu painter.
+Created SAP script layout for order acknowledgement by copying the standard layout and modifying to suit the business needs.
+Worked on enhancements in print programs related to outputs in invoices and sales orders.
+Covert custom classical reports in to ALV reports
+Development, testing, bug-fixing and handling the changes coming up during the maintenance period and Post Go-live support
+Worked on performance optimization of existing long running reports.
+Created new ABAP dictionary object tables, data elements and structures
+Created new user exits in MV45AFZZ to populate custom fields in VBAP.
+Developed a report to extract customer master data from SAP.
+Developed reports to extract material master, stock data and open purchase orders
+Developed a BDC program to transfer material stock from one storage type to another storage type.
+
+EDUCATION:
+
+Bachelor of Engineering in from Jawaharlal Nehru Technological University, 2002
+
+Contact this candidate

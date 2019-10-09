@@ -1,0 +1,97 @@
+
+Sreelakshmi Chittamuru Email: adaiv2@r.postjobfree.com
+Permanent Resident (Green Card) Phone: 248-***-****
+
+Over 5 years of Professional experience in Infotainment testing and Software Testing (Certified Scrum Master). Excellent experience in testing of Process used FMEA Bug Life Cycle, DOORS, Black Box testing, Test case analysis, In Vehicle testing and writing test cases, database and web based applications using manual testing techniques and tools focused on Infotainment. I have an attitude of accepting the new challenges and willingness to make it happen efficiently
+
+PROFESSIONAL SUMMARY:
+Experienced in automotive industry working in various Infotainment domains like Navigation, Bluetooth, Wi-Fi, Radio, Interface Voice Recognition, Android Auto and Apple CarPlay.
+Experienced in Vehicle and Bench Testing.
+Good understanding on CAN, LIN Protocols.
+Good working knowledge on Comprobe Analysis software for diagnostics.
+Experience and good knowledge on SDLC and STLC.
+Experienced in deriving Test cases/Test Scenarios from Use Cases/Functional Specifications/Business Requirements.
+Experienced in preparation of Test Strategy Documents, Test Plans and Best Practices in Testing Life Cycle.
+Involved in Functional–System Integration Testing, GUI Testing.
+Experienced in Implementing Test Executions and Technical Check out.
+Experienced in processes used in FMEA, Bug Life Cycle (JIRA and BUGZILLA), Bill of Material and DOORS.
+Experience in testing of third party music application Pandora, Amazon music, Spotify and iHeart Radio.
+Experience in testing of inbuilt applications like Google Play music, iTunes, Apple music and LG music.
+Working knowledge on Nissan connect.
+Experienced in Black Box Testing, In-Vehicle Testing, Test Case Analysis and Writing Test Cases.
+Experienced in using IBM Rational DOORS for requirement management.
+Experienced in documenting defects, including steps to reproduce and working with Developers and Functional Designers to resolve issues with effective route cause analysis.
+Extensive experience in Functional, Integration and Regression testing.
+Expertise in Basic side by side customer reports for different OS versions on monthly basis.
+Experienced in address and communicate any Testing Issues/Risks/Concerns with test team and test manager.
+Interpersonal skills and ability to work in a team as well as individually to meet deadlines.
+
+SKILLS SUMMARY:
+TOOLS : JIRA, Bugzilla, Vehicle - Spy, CANalyzer, Clear Quest, R, SAS.
+Operating Systems : Windows 98/2000/XP, Win 7, UNIX
+Requirements Management : DOORS
+Scripting Languages : C/C++, Python
+Communication Protocols : CAN, LIN
+
+PROJECT PROFILE
+Project #1
+Role : Infotainment Software Test Engineer
+Company : Teledyne LeCroy, Farmington Hills, MI
+Environment : Windows, DAISY, Comprobe Analysis
+Duration : Oct 2018 to Till Date
+Responsibilities:
+Worked on Bluetooth and Navigation domains.
+Writing and executing test cases for certain features of navigation like Favorite places.
+Test scenario writing for Points of Interest, Rest areas, Zoom in Zoom out functionality, address book, Destination etc.
+Test case writing after analyzing requirement document.
+Voice recognition testing for blue tooth functionalities, Verifying Meta data files.
+Performing black box testing, sanity and smoke testing for Navigation applications.
+Infotainment diagnostics testing using OBD tool for DTCs, Read DIDs and PIDS.
+Bluetooth pairing testing.
+Wi-Fi testing. Connecting with available Hotspots, connectivity over secured & Unsecured Wi-Fi networks, Distance testing with Wi-Fi testing. Connecting Car Kit Wi-Fi with IOT Wi-Fi & vice-versa.
+Maximum Number of devices connectivity for both Wi-Fi & Bluetooth.
+Preference of connectivity testing.
+Testing for Seek up and seek down button testing for audios, books, playlist and volume.
+Reporting and logging bugs into bug tracking tool
+Performing retest and regression testing.
+
+Project #2
+Role : Infotainment Software Tester
+Company : Teledyne LeCroy, Farmington Hills, MI
+Environment : Windows, DAISY, C, C++, Comprobe Analysis
+Duration : August 2017 to Oct 2018
+Responsibilities:
+Responsible for Gathering Requirements, Developing Test Plans, Design and Execution.
+Assisting in Design of Test Plans & Writing Test cases, Test Scripts and Test Steps.
+Involved in Test Case Review, Test Case Execution and Tracking Test Case Results
+Coordinate with Customer's Testing Team at Onsite & assist onsite team in Manual Test Execution.
+Testing Navigation Route Voice Guidance of Text and Wave file Messages with the help of Audio Resource and Speech.
+Testing in target by flashing with different software and by replacing different library
+Fixing internal and customer defects related to automotive infotainment diagnostic.
+Handling priority interrupts while route guidance like phone call, Voice commands etc. with the help of Audio Resource manager and Speech subsystem
+Conducted black box validation testing for Apps, BT/Connectivity, Tuner, in Vehicle and On Bench Testing.
+Wi-Fi testing. Connecting with available Hotspots, connectivity over secured & Unsecured Wi-Fi networks, Distance testing with Wi-Fi testing. Connecting Car Kit Wi-Fi with IOT Wi-Fi & vice-versa.
+Writing Positive Test Cases, Negative Test Cases and Corner Test Cases
+Report and log issues into the bug tracking system RTC, including track files and necessary steps to recreate Using JIRA and BUGZILA.
+Coordinating / Attending the status meetings for any project related issues.
+Resolving Testing related issues with QA Managers and Analysts
+Experienced with supporting Test Cycles, compiling Test Status Reports, participating Defect Status meetings, Project Status meetings and interacting with Project Managers, Operations Teams and Engineers.
+
+Project #3 : HPLC CSV & Company Fact Sheet Testing
+Company : Quiver Technologies, Hyderabad, India
+Environment : Windows, Web services
+Role : Manual Tester/QA Analyst
+Duration : May 2014 to Aug 2017
+Responsibilities:
+Develop procedures, templates and work instructions for implementing Quality Assurance best practices and testing standards
+Involved in Functional – System Integration Testing and Performance Testing
+Design & develop test plans and test cases to ensure and gauge product quality.
+Part of review meetings for BRD and to come up with Test strategy
+Reviewing test cases based on requirement and check list document.
+Creating and maintaining the test cases using HP Quality Center
+Reviewing test cases from requirements and confirm on the coverage through requirements using traceability matrix.
+Creating and maintaining the test cases using HP ALM.
+Reviewing Knowledge Management Documents and basic understanding documents for the Project and maintaining Knowledge Repository.
+Organized walk through with UAT/ Business users for test plan and test results.
+
+Contact this candidate

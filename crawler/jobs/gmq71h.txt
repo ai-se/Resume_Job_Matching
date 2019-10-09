@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Job Purpose:
 Under the direction of the Production Manager, the Machine Operator is responsible for the set-up, operation and cleaning of encapsulation machines.

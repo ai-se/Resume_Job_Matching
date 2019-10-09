@@ -1,0 +1,32 @@
+Job Title = Engineer
+
+The Engineer will serve as a technical lead for the Biotechnology Manufacturing facility in ATO for the facilities and engineering team. It will provide technical support to complex engineering equipment and processes. Entry level experience in design, qualification, operation, maintenance and improvement of biopharmaceutical equipment will be required to support day to day manufacturing activities as well as to participate in improvement projects. Applies diverse engineering principles to the design and implementation of major system modifications, process and/or capital projects. Organizes, analyses and presents interpretation of results for operational issues or engineering projects of significant scope and complexity. General equipment knowledge to perform basic troubleshooting of equipment failures or malfunctions and/or the development of technical assessments. General knowledge on Biopharmaceutical equipment operations and processes such as single use technologies, Media / Buffer Prep solutions, Inoculation, Bioreactors, Harvest, Chromatography and Tangential Flow Filtration as well as Clean Utilities. Knowledge in Automation systems and processes such as RDs, Delta-V and PLC. Basic knowledge in the design of maintenance and reliability activities such as job plan, data sheets and equipment reliability technology. Experience in validation processes such as execution of Installation / Operation / Performance qualification documentation. Experience in cleaning validation execution and documentation. Knowledge of Operational Excellence practices such as lean manufacturing and lean maintenance. Employ basic engineering techniques and/or modifications within area of engineering expertise. Serves as a peer-recognized engineering technology specialist with overall responsibility for determining methodologies in that area. Application of engineering knowledge in planning and conducting low complex projects. Demonstrate project management skills and application of concepts. Experience in investigation of deviations, development of corrective and preventive actions and generation and implementation of change controls.
+
+Education Requirement - Bachelors with degree in engineering, chemical engineering preferred
+
+Assist in the identification of critical quality parameters and process attributes for new equipment or facility modifications.
+
+Assist in development and review of User Requirements Specifications (URS).
+
+Suggest design modifications to address risks and design in quality and safety.
+
+Organizes, analyses and presents interpretation of results for operational issues or engineering projects of significant scope and complexity.
+
+Perform basic troubleshooting of equipment failures or malfunctions and/or the development of technical assessments.
+
+Recommend, evaluate, and manage performance of contract resources
+
+Provide oversight for verification deliverables developed by outsourced/contract verification staff.
+
+Act as a liaison between Engineering and Quality Assurance during project planning, execution, and closeout
+
+Ensure that validation protocols are executed and documented in accordance with cGMP good documentation and safety compliant practices.
+
+Ensure safety during commissioning, validation, maintenance and manufacturing activities
+
+Support Manufacturing and QA with Performance Qualification (PQ) activities.
+SDL2017
+
+
+Go to apply 
+

@@ -1,0 +1,78 @@
+
+VIVEKKUMAR M
+Email:adailz@r.postjobfree.com */*** MGR street Sachidhanandhapuram
+Contact No.: 956-***-**** Thalampur,Chennai -600130. CAREER OBJECTIVE:
+To work in challenging environment demanding all my skills and adapt myself in different fields and realize my potential where I get the opportunity for continuous learning. ORGANIZATIONAL EXPERIENCE:
+Tenure Designation Organization
+From : June 2018
+To : Till
+Testing Engineer Jasmin Infotech Pvt. Ltd. Chennai From : November 2015
+To : June 2018
+Hardware Testing Engineer Data Patterns (India) Pvt. Ltd, Chennai.
+(Specialist in Defense and Aerospace
+Electronics Systems)(Indus Teqsite Pvt .Ltd)
+From :May 2014
+To : May 2015
+Testing Engineer (Apprentice
+Trainee)
+Numeric Power Systems
+Chennai
+PROFESSIONAL SKILLS:
+Knowledge in Testing of Aerospace and Defense products
+Knowledge in Testing and debugging of Power supply and Relay boards.
+Knowledge in Testing and debugging of ADC and Communication boards.
+Knowledge in Testing of Processor boards.
+Knowledge in Boards and System debugging
+Module and System installation in client place
+Good knowledge in Understanding schematics and data sheets
+Knowledge in EMI-EMC testing
+Knowledge in Board level screening (Stabilization bake & Thermal shock).
+Knowledge in Hardware Development Life Cycle
+Knowledge in Schematics drawing in Cadence Orcad
+Prepared test procedure, generated test report and test log.
+Familiarized on ERP (Enterprise Resource Planning).
+Preparation of Electrical Interface Definition (EID).
+Familiar in using Xilinx Impact for FPGA programming.
+Familiar in using ADM sequencer for Power Sequencer programming.
+Familiar in using Code Warrior for Processor boards programming TECHNICAL SKILL SET:
+Tools Xilinx Impact, ADM Sequencer, ADC Analyzer, Cadence Orcad and Free Scale Code Warrior
+Bus Standards cPCI, PCI, VME & VPX
+Protocol I2C & SPI
+Operating Systems Windows and Linux(For Board testing) Instruments Handling Power supply, Multimeters(3 and 6 ), Oscilloscope, Function generator, Signal generator, Rheostat, Clamp-meter PROJECTS:
+Checkout Equipment(COE) :
+Checkout Equipment (COE) for “BrahMos Missile” is a Versa Module Eurocard
+(VME) based 3 – Bay test system used to check the credibility and functionality of the electrical sub- systems of the Device Under Test (DUT), that is the BrahMos Missile. VHF/UHF Wide Band Fast scan Receiver :
+The VHF/UHF wide band fast scan receiver designed for monitoring and receiving the signal between 30MHZ to 1000MHz frequency in spectrum and provide spectrum overview for Security purpose. The VHF/UHF Wide band Fast Scan Receiver has outstanding feature set for wide band scanning of lactical transmission, finding threats or detecting interference in the HF spectrum.
+460W Power Supply:
+28V input 460W Power Supply It converts 28V input 12V(30A), 8V(8A), 5V(40A), 3.3(15A) and-12V(1A) with the total output power of 460W.It has on-board micro-controller to monitor the health status of all output voltages and send the status to user through I2C interface. Roles And Responsibilities:
+Module level functional testing & debugging.
+Failure mode and De-rating analyzing.
+Board level screening (Stabilization bake & Thermal shock).
+System level integration & testing.
+Bill of Material Preparation.
+Test report and test procedure preparation.
+ACADEMIC ACHIEVEMENTS:
+Qualification College University Year Marks Diploma in E.C.E
+Central
+Polytechnic
+College Chennai
+DOTE 2014 76
+10th
+Padma Adarsh Hr
+Sec School
+Vaniyanchavadi
+Chennai
+State Board 2011 86.8
+PERSONAL DETAILS:
+Father’s Name : K M Maruthan
+Date of Birth : 09th May 1996
+Gender : Male
+Nationality : Indian
+Languages : Tamil & English
+Marital status : Single
+Hobbies : Listening music, Learning New things and Playing Chess. Address : 1/294 MGR street Sachidhanandhapuram Thalampur,Chennai -600130. DECLARATION:
+I do hereby declare that the particulars of information and facts stated herein above are true to the best of my knowledge.
+Place: Chennai Yours Sincerely,
+Date: [Vivekkumar M]
+
+Contact this candidate

@@ -1,0 +1,44 @@
+
+Parag Kumar
+Project Engineer @ Wipro Digital (Holmes) Mob : 800-***-****
+Bangalore, IN. Email : adaiqc@r.postjobfree.com
+Pro le
+Computer Science graduate from Birla Institute of Technology, Mesra. Enthusiastic to explore the eld of Machine Learning and inquisitive to learn latest cutting-edge technologies. Currently working on my skills in Tensor ow, Docker and improving coding pro ciency. Education
+BIT Mesra,Ranchi Bachelor of Engineering in Computer Science - 7.77/10 2013 ~ 2017 Gyan Bharti Residential Complex,Gaya CBSE, XIIth in PCM - 90.4% 2011 ~ 2013 Bal Vidya Niketan,Gaya CBSE, Xth - 95% 2010 ~ 2011 Work Experience
+Wipro Digital Project Engineer (Holmes) Aug 17 - Present. Alight Solutions ( Jan 19 - Present )
+Working on Wipro's biggest client Alight Solutions HR shared services (HRSS). It is a division that handles operational tasks, such as Accounting, HR, Payroll, Compliance.
+It involves Anomaly detection on employee data by
+automating manual labor and data validation under
+important business rules.
+Technology used: Python, Django, Outlier detection, Docker Pharma Co-vigilance (Aug 18 - Dec 18)
+An automated cognitive solution to fast track the manual Adverse Drug Reactions (ADR) reporting process by the Pharmacists to the Argus System. Major components of the solution are Audio to Text conversion and NLP for populating relevant attributes to Argus System.
+Technology used : Python,Watson,Django,Spacy,LSTM . Google Finance Ownership (Feb 18 - July18)
+GFO works on to extract ownership and stake for companies using data scraped through google search and company pro le listing.
+Trained and applied IEF onto the dataset to extract ownership details and % of ownership for di erent entities.
+Technology used: Python, NLP, Spacy.
+Information Extraction Framework (Aug17 - Jan 18)
+IEF is an NLP system focused on information extraction in nancial, healthcare and other industries. It uses NER, Coref, Relation Extraction and sentiment classi cation.
+Majorly worked on replaced Stanford NER with spaCy NER for better performance and made a pipeline for coreference resolution using spaCy and tagged, trained datasets. Technology used: Python, Java, spaCy, Stanford CoreNLP Certi cations
+IBM Certi ed Application Developer - Watson V3 Certi cation, Jun 2017 ~ Present Build Chabot with Watson Conversation, Jun 2017 ~ Present IBM Cloud Essentials, Jun 2017 ~ Present
+Skills
+Programming Database Technologies
+Python
+Java
+C++
+C
+Sql
+PostgreSql
+Machine Learning
+IBM Watson
+Ocr - Tesseract
+Django Rest Framework
+Docker
+Courses
+Udemy
+Practical Deep Learning with Keras and Python.
+Machine Learning A-Z™ Hands-On Python & R In Data Science. Deep Learning with TensorFlow Deep Neural Nets in Python. Python for Data Science and Machine Learning Bootcamp. Docker Mastery: The Complete Toolset From a Docker Captain. Coursera
+Machine Learning Stanford University by Andrew Ng. Extra-Curricular
+Conducted AI weekly meet for the team to enhance understanding of Machine Learning concepts. Interests
+Competitive Programming, Problem Solving, Badminton
+
+Contact this candidate

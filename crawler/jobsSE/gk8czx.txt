@@ -1,77 +1,51 @@
+Job Title = Vb Or .Net Or Pl Or German Or Grove jobs in Raleigh, NC, 27606
 
-Technical Support Engineer
-LocationUS-UT-Pleasant Grove
+Serenity Infotech  – 
+Raleigh, NC, 27601
+Title: VB.NET Developer Location: Raleigh, NC Duration: 12 Months Job Description: DHHS is seeking a Technical Specialist to support the WIC - Crossroads system and provide technical assistance to the performance/load testing. Duties and ...
+- Jobs2Careers, Oct 07
 
-Job ID2019-4486CategoryProduct ServicesPosition TypeRegular Full-TimeOverview
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+.Net Developer/Programmer (ASP.net/Vb.net/SignalR) (Job ID: 559094) 116 W Jones St, Raleigh, NC 27603, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with more than 18 years experience ...
+- Lensa, Oct 07
 
-One Identity Software offers award-winning products that simplify IT management for our customers. One Identity Software provides critical components to expand, enhance and simplify IT operations through enterprise solutions in four strategic areas: systems management, security, and information management. These industry leading solutions enable IT organizations to simplify operations, maximize workforce productivity and deliver faster results.
+Cynet Systems  – 
+Raleigh, NC
+... Required: Minimum of five (5) years’ experience programming and design of web-based distributed systems Experience with VB.NET, WPF Browser Application, Microsoft Enterprise Application Blocks, HTML, HTTP, XML, SOAP, WSDL, UDDI, Web Services, Visual ...
+- Neuvoo, Sep 19
 
-Our Identity Manager solutions allow customers to control access and achieve governance while providing leading edge simplicity in a modular and integrated approach. This is one of the fastest growing and exciting business areas covering a range of industry leading solutions in the increasingly important business areas of Identity Governance & Access Management.
+Perspective Talent  – 
+Raleigh, NC
+... .Net Developer Qualification Associated Degree 4+ years experience in full stack .Net application development Knowledge of ASP.Net, VB.Net/C#, Javascript, HTML, CSS, Kendo UI, Bootstrap, Entity Framework, SQL Preferred: One or more Microsoft ...
+- ZipRecruiter, Sep 29
 
-As a Support Engineer, you will be supporting North American/Global customers for the One Identity Management solutionResponsibilities
+US Tech Solutions  – 
+Raleigh, NC, 27601
+Job Title: .NET Developer/ C# Full Stack DeveloperLocation: Raleigh, NCDuration: 12+ months and possibility of extensionType ... developing and maintaining scripts as well as programming in Oracle PL/SQL • Solid understanding and working experience with ...
+- Jobg8, Oct 08
 
-Engineers will work as part of a Global team to provide a high standard of technical support to customers utilizing the Identity Manager Solution. Stellar customer service and handling skills and the ability to interface, collaborate and prioritize customer issues with development and effectively communicate solutions to customers is crucial to the role. An ability to work across regional boundaries with Country and Product Managers to ensure product quality and stability and a determination to professionally manage and resolve a number of potentially complex issues on Windows, Novell, and IBM platforms is required.
+NetSource, Inc.  – 
+Raleigh, NC, 27601
+" Please note that this is a 1 year contract position. Ability to develop solutions using PowerShell, VBScript, etc. to identify and/or remediate problems/issues/requirements related to Microsoft Workplace Modernization efforts: Windows 10 SAC and...
+- Dice.com, Oct 01
 
-As a successful Support Engineer you will be able to work independently to test and debug customer issues in lab environments and operate as a key member of a virtual product team spanning across continents and time zones. A flexible attitude and capacity for absorbing information and keeping up to date with Technology is essential. You will gain exposure to enterprise environments incorporating AD/LDAP, E-Mail systems, ERP systems and database deployments. Therefore a good cross-platform technology background is desired. Customer service and teamwork are our core principles and having fun in the process is expected.
-For the right individuals with a passion to deliver top quality customer service there are excellent opportunities to progress within the Technical Support Organization.
+State Employees' Credit Union  – 
+Raleigh, NC, 27603
+... Position Requirements/Skills: .NET/VB/C# or Java programming experience or related course work, familiarity with multiple Operating System differences for applications, proficiency gathering and documenting requirements from business users, ...
+- Dice, Sep 20
 
-As a One Identity Support Engineer you will gain exposure to some or all of the following technologies:
+US Tech Solutions  – 
+Raleigh, NC, 27699
+Job Title: .NET Developer/ C# Full Stack DeveloperLocation: Raleigh, NCDuration: 12+ months and possibility of extensionType ... developing and maintaining scripts as well as programming in Oracle PL/SQL • Solid understanding and working experience with ...
+- Jobg8, Oct 03
 
-Operating Systems: Windows Server
-Databases: Microsoft SQL Server, Oracle
-Target Systems: Active Directory, Exchange, LDAP, SAP, Sharepoint
-Networking: DNS, LDAP, HTTP, SMTP
-Web: IIS
-Virtualization: ESX, VMWare Workstation
-Languages: C# .NET, Powershell, VB .NET
-Cloud: Cloud access provisioning, Identity federation, Security Assertion Markup Language (SAML)Qualifications
+driftwood grove  – 
+Raleigh, NC, 27601
+Looking for scientist to work with a growing company that is expanding Experience with laboratory experiments, process scale-up from lab to pilot plant and/or transferring a process from pilot plant to a commercial facility. Hands-on manufacturing...
+- Jobs2Careers, Oct 05
 
--2+ years’ experience managing and troubleshooting Active Directory (User/Group Administration, ADSI Edit, Replication, Permissions, Group Policies)
--2+ years’ experience with enterprise network configuration, DNS and troubleshooting methods
--2+ years’ experience in Technical support, Development or System administration
--Candidate must have a strong customer orientation, excellent phone etiquette and an excellent work ethic
--Candidate should possess excellent communications and multitasking skills
--Be able to work under pressure with calmness and composure
--Work independently and also in a team, with strong troubleshooting and diagnostic skills
--Experience with VB .NET or experience in another programming language and the willingness to learn VB .NET
--Experience in a similar customer service work environment
--Must be independent, self-motivated, a team player and have a people-oriented personality
--Able to be professional and have timely management of personal work load covering multiple problems
--Keep up to date with emerging technologies and latest Microsoft product versions
--Awareness of Change Control Process
-
-Preferences
--Familiarity with debugging tools/techniques (e.g. WebEx)
--Knowledge and experience with Object Oriented Programming
--Knowledge of Transact SQL (T-SQL) or PL/SQL scripting
--Knowledge of database design (entity-relationship model, normalization)
--Working knowledge of LDAP, Understanding of Schema and Kerberos
--Experience with Internet Information Services for Windows
--Knowledge of VBScript, PowerShell, C#
--Knowledge of SQL Server
--Exposure to Linux and Unix systems
--Ability to work flexible hours
--Additional language skills (especially German)
--Technical Writing Skills
--Familiarity with debugging tools/techniques (e.g. WebEx)
-
-Company Description
-One Identity enables organizations of all sizes to better secure, manage, monitor, protect, and analyze information and infrastructure in order to help fuel innovation and drive their businesses forward. With over 5,000 team members around the globe, we intend to continue to grow revenues and add value to customers.
-
-When you join our team, you will have the opportunity to build and develop products at a scale few others can provide. Our product portfolio serves a large base of customers and we are addressing the strategic imperatives for enterprise businesses. Working with some of the most talented employees the industry has to offer, we provide enhanced career opportunities for team members to learn and grow in a rapidly changing environment.
-
-Why work with us?
-- Life at One Identityt means collaborating with dedicated professionals with a passion for technology.
-- When we see something that could be improved, we get to work inventing the solution.
-- Our people demonstrate our winning culture through positive and meaningful relationships.
-- We invest in our people and offer a series of programs that enables them to pursue a career that fulfills their potential.
-- Our team members’ health and wellness is our priority as well as rewarding them for their hard work.
-
-One Identity is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: One Identity is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at One Identity are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. One Identity will not tolerate discrimination or harassment based on any of these characteristics. One Identity encourages applicants of all ages.
-Come join us. For more information, visit us on the web at
-
-Options
-
-
-Go to apply 
-
+NetSource, Inc.  – 
+Raleigh, NC, 27601
+Please note that this is a 1 year contract position. Ability to develop solutions using PowerShell, VBScript, etc. to identify and/or remediate problems/issues/requirements related to Microsoft Workplace Modernization efforts: Windows 10 SAC and...
+- Jobg8, Oct 02

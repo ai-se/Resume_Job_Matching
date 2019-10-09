@@ -1,0 +1,9 @@
+Job Title = Engineer
+
+Familiarity with modern avionics architectures, components and system engineering processes is preferred.
+Technical areas of primary interest include avionics architecture and requirements, acceptance test procedure development, and avionics laboritory design, for both military and civil applications.
+Tasks include all aspects of avionics integration, including requirements analysis and allocation, supplier technical management, system/subsystem design, integration, and verification.
+
+
+Go to apply 
+

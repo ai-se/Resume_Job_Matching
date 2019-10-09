@@ -1,0 +1,86 @@
+
+Aloka. A
+Contact
+Tel : 088********
+e-mail : adah8k@r.postjobfree.com
+Linkedin : www.linkedin.com/in/aloka-a
+Github: https://github.com/Alokaraj/ML
+Career Objective:
+To work in a challenging environment demanding all my skills and efforts to explore and adapt myself in different fields, and realize my potential and contribute to the development of organization with impressive performance.
+Education Qualification:
+ME/ Information Technology
+University Visvesvaraya College of Engineering, Bangalore 01. Secured 75.15%
+BE/ Information Science Engineering
+SEA College of Engineering & technology, Bangalore 49. Secured 53.38%
+2
+nd
+PUC
+Sahyadri PU College, Kolar, 563101.
+Secured 51.16%
+(10th) SSLC
+Mahila Samaja School, Kolar, 563101.
+Secured 68.64%
+Skills
+Programming Languages: Python, Basic C++.
+Technologies: Machine Learning Algorithms, Deep learning.
+Models: Pandas, Numpy, Matplotlib, Sklearn, Tensorflow, Tflearn, OpenCV.
+Web Technologies: HTML.
+Database: MySQL.
+OS: Windows, Linux.
+IDE: Jupyter Notebook, Pycharm, Spyder, Visual Studio.
+Concepts Known: Operating System, Networking, Data Structures. BE Project
+Title: “Secure Data Retrieval for Decentralized Disruption-Tolerant Military Networks”. Language: Java.
+Team Size: 4.
+Description:
+we provide a multi authority CP-ABE scheme for secure data retrieval in decentralized DTNs. Each local authority issues partial personalized and attribute key components to a user by performing secure 2PC protocol with the central authority. Each attribute key of a user can be updated individually and immediately. Thus, the scalability and security can be enhanced in the proposed scheme.
+Responsibilities:
+Supported team members in project design and architecture. Developed the Attribute-based Encryption module.
+Involved in project documentation
+Work Experience
+Company: Emproto Technologies.
+Designation: Image Processing Engineer.
+Duration: May 2019 – Till Date.
+Projects Name:
+• Information extraction from documents like Aadhar, Pan, Driving License using C++, Tesseract, OpenCV.
+• Text recognition and extraction from the food wrappers using C++, Tesseract, OpenCV.
+• Worked on Color with Asian Paints App using OpenCV C++. Course: Machine Learning
+Institute: Zenrays Technologies.
+Duration: 4 Months.
+Company: NOKIA.
+Designation: Student Trainee.
+Period: 1 Year.
+Duration: September 2017 – August 2018.
+Projects Name:
+• Smart Installation Deployment Engine (SIDE) Script Automation for Home Subscriber Server (HSS) and Home Location Registrar (HLR) Installation using Python.
+• Traditional Project Data (TPD) creation using Python.
+• Testing using P-ART Regression tool.
+Machine Learning Algorithms
+• I have successfully completed Machine Learning training from Zenrays Technologies Private limited Banglore.
+• Worked with different Machine Learning Models to obtain the Results for classification, regression and clustering.
+• Expensive knowledge of Math over Cost function, Activation function, Gradient descent, Forward propagation and Backward propagation.
+• Moderate knowledge over Image Processing & Text Processing. Projects: Github: https://github.com/Alokaraj/ML
+• Regression using Multivariate Linear Regression Model from scratch for Data Airfoil Dataset.
+• Classification using Support Vector Machine Model for Iris Flower Dataset.
+• Classification using Artificial Neural Network Model for Bank dataset to predict weather the customer leaves the bank or not.
+• Classification using Convolutional Neural Network Model for Image Dataset to predict cat or not.
+• Classification using Convolutional Neural Network Model for MNIST Dataset to predict the handwritten 0- 9 numbers.
+• Built an effective Chatbot Model.
+• Classification using Multinomial Naive Bayes classifier Model for Ham & Spam dataset.
+• Kaggle Compitation: Titanic Disaster using Random Forest Classifier Model to Predict survival. obtained 76% score.
+• Web scrapping using Beautifulsoup Module.
+• Text identification and extraction from images using Tesseract, OpenCV, C++, Python. Personal Details
+Date of Birth : 24
+th
+July 1993
+Fathers Name : Annappa
+Gender : Male
+Languages Known : English, Hindi, Kannada, Telugu. Permanent Address : #35 Ganesha Nilaya, 2
+nd
+cross, SVG Layout,
+Ginkethimnnanahalli, Varanasi, Ramurthy Nagar,
+Bangalore 36.
+Tel. : 088********, 070********
+I hereby declare that the information furnished above is true to the best of my knowledge and belief. Place: Bangalore (Aloka.A)
+Date :
+
+Contact this candidate

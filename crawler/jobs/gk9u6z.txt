@@ -1,0 +1,55 @@
+Job Title = Engineer
+
+Description
+
+L3Harris is dedicated to recruiting and developing diverse, high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customer's mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.
+
+About L3Harris Technologies
+L3Harris Technologies is an agile global aerospace and defense technology innovator, delivering end-to-end solutions that meet customers’ mission-critical needs. The company provides advanced defense and commercial technologies across air, land, sea, space and cyber domains. L3Harris has approximately $17 billion in annual revenue, 50,000 employees and customers in more than 130 countries
+The Systems Engineering position is part of a team that supports the requirements, design, development, test, and integration of complex, specialized hardware/software systems installed on ground and airborne communications platforms.
+The System Engineer is expected to:
+-Understand physical architectures incorporating voice, video, and data capability across multiple security domains
+-Review and evaluate electrical wiring diagrams to ensure design details trace to system requirements
+-Understand test, integration, verification, and validation planning
+-Write effective verification test procedures ensuring system performance and capabilities meet system requirements
+-Translate the voice of the customer into system level requirements
+-Perform requirement traceability
+-Develop and evaluate trade studies for accuracy and completeness
+-Write subsystem specifications based on system level requirements
+-Evaluate alternative solutions and establish preliminary system designs
+-Review and evaluate diagrams to ensure design details trace to system requirements
+-Prepare effective presentations to communicate technical information to non-technical professionals
+
+Qualifications
+
+-A Bachelor's degree in an engineeringdiscipline (Electrical, Systems, Software, Physics, etc.) and a minimum of 10years systems engineering experience
+-Hands-on experience with testing,integrating, and verifying software and/or hardware
+-Aircraft communication systemintegration and communications ground/flight test support
+-Knowledge of requirement traceabilitymethods and purpose
+-Knowledge of the systems engineeringtrade study process
+-Experience writing subsystemspecifications based on system level requirements
+-Experience conducting verificationtesting
+-Excellent written, oral, and presentationcommunications skills
+-Experience working with subcontractorsand US Government customers
+-Experience developing, authoring, andimplementing system test plans
+-Very strong leadership attributes and analytical problem solving
+-Willingness totravel Strongly prefer:
+-Active Secret security clearance withan investigation date of less than 5 years
+-Aerospace/aircraft experience
+-Configuration and integration ofaircraft radio sets, satellite communications systems, or cryptographicequipment
+-Analog and digital video distributionand interconnecting technologies integration
+-Voice over IP (VoIP) integration
+-Antenna transmit and receivecharacteristics for various antenna types Desired:
+-Active Top Secret security clearancewith an investigation date of less than 5 years
+-Security+ Professional Certification
+-Network+ Professional Certification
+-Cisco Certified Network Associate(CCNA) Professional Certification
+-RF distribution systems including RFdown-converting, up-converting, transceivers, non-blocking switching, andelectrically phase matched distribution architectures
+-Agile experience
+-Model-based Systems Engineering andSimulation experience
+Positionrequires the ability to obtain and maintain a DoD security clearance at theSecret or higher level which requires U.S. citizenship.
+L3Harris Technologies is proud to be an Affirmative Action/Equal Opportunity Employer. L3Harris is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. All applicants will be considered for employment without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, characteristic or membership in any other group protected by federal, state or local laws. L3Harris maintains a drug-free workplace and performs pre-employment substance abuse testing and background checks, where permitted by law. US Security Clearance Required:None
+
+
+Go to apply 
+

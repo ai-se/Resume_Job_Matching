@@ -1,0 +1,113 @@
+
+MUHAMMAD ZUBAIR CHUGHTAI
+SUMMARY CONTACT DETAILS
+§ 10+ years of experience in Management Information Systems, ERP Systems, IT Consultancy, Integration with financial systems (SAP – FI/CO), Digital payments, IT infrastructure, POS & Project Management.
+§ A diverse experience of different industries like Software Development, Education Sector, Hospitality and Retail Industry in Information Systems & Information Technology domains, aimed in compliance with organizational goals to achieve the best.
+§ Experiences in Custom Development and implementation of Collaboration Systems and Point of Sale (POS) systems & ERP systems and development of SOPs; Database development and implementation experience.
+§ Country opening of Metro Cash & Carry and Merger of Metro and Makro Pakistan. As project manager in domain of check out and ERP systems from Metro side. New POS system deployment with IT Infrastructure.
+803 - A, Gulshan e Ravi,
+Lahore, Pakistan.
++92-300-*******
+adajfs@r.postjobfree.com
+adajfs@r.postjobfree.com
+§ Experienced in Information Modeling, Business Process Reengineering, improvement of business processes, understanding the business needs, developing and implementing IT solutions to gain competitive edge.
+§ Effectively utilized agile software development methodologies to deliver enterprise applications and solutions.
+§ Looking at bigger canvas to isolate issues which hinder to achieve organizational goals. TECHNICAL SKILLS
+TECHNOLOGIES
+Oracle 9i/10g/11g, Developer 2000 (Form 6i, Report 6i), PLSQL, Teradata, MS-SQL Server 2008 R2, Microsoft Server 2003 / 2008 /2012, VMware - vCenter, SQL / T-SQL, TOAD, Entity-Relationship Diagrams (ERD), Query Optimization, Database Normalization, HP Service Management, HP Quality Center, Mercury
+MANAGEMENT
+Project Management, Demand Management, Service Level Management, SOP development, Budgeting
+& Forecasting, Analysis & Design, Implementation, Training TRAININGS
+§ Care & Growth Leadership by Schuitma South Africa
+§ Hiring & Selection (Professional interviewing skills) by Tahir Hussain Khan (Pit Stop Training international)
+§ Team building & Motivation by Qaiser Abbas (CEO Possibilities)
+§ Leadership coaching and feedback by Fakhir Shah (Managing Partner Shuitema)
+§ Self-Effectiveness Prioritizing by Suleman Ahmer (CEO Timelender)
+§ Introduction To Business Finance by Metro Head of Finance
+§ Commercial Communication Capabilities by Kamran Kyani Country Manager Gem Stone international
+§ Oracle Certified Professional (OCP) DBA Track Oracle university (Techno-ED (pvt) Ltd) Lahore -2007
+§ Project Management Professional (PMP) Flash course Pakistan Institute of Management Lahore -2016 EDUCATION
+MSc. In Computer Science
+ILM (Institute of Leadership & Management) Affiliated with Hamdard University, Karachi, Pakistan.
+1999 – 2001
+Bachelors in Science (Double Mathematics, Physics) University of the Punjab, Lahore. Pakistan
+1997 – 1999
+WORK EXPERIENCE
+METRO Cash & Carry (A Fortune 100 Global Company)
+Manager ERP
+§ Implementing of new ERP application in Metro C&C Japan, project kicked off will take more than one year. Customized Metro's own ERP system which is handling more than 20 countries requirements. Data migration dynamic business logic to support more than one business lines.
+METRO Cash & Carry (A Fortune 100 Global Company)
+Nov 2017 – Present
+Tokyo, Japan
+Feb 2007 – Present
+Manager ERP Lahore, Pakistan
+§ Support in customization, maintenance and administration of Metro ERP system and checkout server, also to be involved in corporate projects which affect the backbone systems of the organization
+§ Integration with other Financial applications (SAP ECC 6.0 – FI/CO).
+§ Migrated systems of 2 separate organizations (METRO C&C Pakistan & MAKRO-Habib Pakistan Ltd) in domain of Transactional Systems into one Unified System
+§ Managing development and administration of HR system (Oracle 9i and Application server 10g)
+§ Digital payment (branch less banking) integration.
+§ Ad-hoc report generation from standard BI tools
+§ Developing SOPs related to checkout and ERP domains with internal audit department
+§ Budgeting of IT infrastructure related to POS, ERP system upgrade and store mobile devices and system scales
+§ Taking care of IT infrastructure of entire of IT department.
+§ Creating the requirements for expansion of MCC Transactional Systems and developing the software model for POS and ERP in Pakistan
+§ Taking care of POS system and infrastructure and planning for operations and new store openings
+§ Standard data migration, maintenance and administrative activities on core ERP and Transactional Systems
+§ Taking care of Metro Cash & Carry Pakistan’s cellular requirements and planning Team Size:
+10 under functional supervision
+Role:
+Project Manager / Technical Administrator
+Environment /Technology:
+Oracle 9i, SQL PLUS, PC DOS 7 (IBM), DOS Based in-house developed DB, Microstrategy, EGT Enterprise Governance Tool, HPSM (HP – Service Management), HPQC (HP – Quality Center), Mercury, Microsoft Servers 2008 /2012, VMware – vCenter METRO Cash & Carry (A Fortune 100 Global Company)
+Manager Transactional Systems
+§ Project Manager and Technical Administrator of Billing system (Checkout lines) Integration with Oracle based ERP
+§ Creating the requirements for expansion of MCC Transactional Systems and developing the software model for transactional system in Pakistan
+§ Managing development and administration of All weighing Scales, PDT’s system and integration with core ERP
+§ Ad-hoc report generation from standard BI tools
+§ • Standard data migration, maintenance and administrative activities on core ERP and Transactional Systems
+§ Taking care of Metro Cash & Carry Pakistan’s cellular requirements and planning Team Size:
+10 under functional supervision
+Role:
+Project Manager / Technical Administrator
+Environment /Technology:
+Oracle 9i, SQL PLUS, PC DOS 7 (IBM), DOS Based in-house developed DB, Microstrategy, UML, EGT (Enterprise Governance Tool), HPSM (HP – Service Management), HPQC (HP – Quality Center), Mercury Pearl Continental Hotel Lahore
+Database Administrator / Software Engineer
+Jun 2004 – Feb 2007
+§ Installation, Configuration and Database Connectivity of Oracle 9i and Developer 2000 (6i)
+§ Development, Implementation, Testing and Maintenance of Back Office Modules of ERP (General Ledger Module, Inventory Module, Purchase Module, Receivable Module, Payable Module, Sales Module) and Front Office Modules
+(Reception/Check-in System, Cashiering / Check-Out System, Reservation System, Guest History/Profile System, Telephone Operator System, House Keeping System, Laundry System, Point of Sale System)
+§ Database Backups and Recovery, Database User Creation and Security, Database Monitoring and Tuning
+§ Responsible of all other Software system in PCHL
+§ End User Training
+§ Ad hoc Reporting from Database System
+Team Size:
+3
+Role:
+Software Engineer / DBA
+Environment /Technology:
+Oracle 9i, Developer (Forms 6i, Reports 6i)
+Government College University Lahore May 2003 – Jun 2004 Programmer
+§ Developing and Managing complete Examination system for record keeping of all students and teachers
+§ Manage the billing of the internal and external Examiners Team Size:
+2
+Role:
+System Designer / Developer
+Environment /Technology:
+Oracle 9i, Developer (Forms 6i, Reports 6i)
+NetSol Limited Nov 2002 – May 2003
+Junior Developer
+§ Collaborate with a team of System Analysts and Software Engineers to design, develop and deploy a Result Management System project for SAF GAMES using Unified Modeling Language (UML) in head office Islamabad Role:
+Developer
+Environment /Technology:
+ASP.NET, VB.NET, UML
+INTERPERSONAL SKILLS
+§ Works well independently and as part of team.
+§ Analytical and problem solving attitude.
+§ Communicate ideas clearly and effectively.
+§ Service-oriented personality.
+§ Ability to work under pressure.
+§ Flexible and quickly adaptable to changes.
+§ Able to work in multi-cultural environment.
+§ Enthusiastic and self-motivated personality.
+
+Contact this candidate

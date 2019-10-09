@@ -1,0 +1,82 @@
+
+Hany Ibrahym
+Kew Garden Queens*****
+Cell: 917-***-****
+Email:adai88@r.postjobfree.com
+SOFTWARE QA ENGINEER
+
+Summary:
+
+8+ years of solid experience in testing Web and Mobile applications on several OS
+Strong experience in QA principles, methods, and processes
+Automation Testing using Selenium IDE /WebDriver.
+Proficient at designing and implanting quality process for continuous process improvement.
+Excelled in finding, documenting and reporting bugs using various bug-tracking systems: JIRA,
+Bugzilla, Elementool, HP ALM.
+Hands-on experience with Waterfall and Agile Software Development Methodologies
+Excellent analytical and interpersonal skills, ability to effectively collaborate with diverse Cross functional teams. Quickly learn new processes and adapt to changing environments.
+Strong understanding of Internet technologies, Web and Mobile applications architecture
+Background in designing interactive media for web
+Work with variety of web tools including CMS, HTML editing programs and databases
+Self-motivated contributor with initiative and drive
+Team player, understand how own work is important to the team’s success
+Ability to multitask in an effective and organized manor
+US citizen.
+
+TECHNICAL SKILLS:
+
+Platforms: Windows 8/7/XP, Mac OSX, Linux/Unix, GIT
+Mobile Platforms: Windows Phone, iOS, Android OS, Blackberry, Symbian
+Programming: Java, HTML, CSS, XML, JavaScript, SQL
+Database: Oracle, MS SQL Server
+Test Automation: Java-Selenium IDE/WebDriver, Sikuli (basic)
+Web Testing Tools: Firebug, Safari Web inspector, DOM Inspector, Chrome Developer Tool
+Debugging Tools: Net Tool, Chrome Developers
+Virtualization: VMware, Oracle Virtual Box
+Bug Tracking: Elementool, Bugzilla, JIRA, HP ALM
+Browsers: MS IE, Edge, Safari, Chrome, Firefox, Opera
+Applications: MS Office, MailChimp, Wufoo, TestRail
+
+Sharestates Investors LLC Quality Assurance Engineer / QA Analyst/NY 03/17-7/19
+
+Developed, maintained and managed detailed project plans with tasks, deliverables, and resource allocation via Change Management process.
+Performed maintenance, regression, ad-hoc, and emergency testing. Identified, researched, reported, and tracked software defects to resolution via Incident Management System. Provided production support 24/7.
+Create and perform standard release regression test verification.
+Automation Testing using Selenium IDE. Using Cucumber and TestNG.
+Managed the creation, updates and status of issues detected during the test execution phase.
+Take ownership of testing process in the assigned team (Visualization)
+Use distributed version control system GIT / Linux on daily basis
+Write Test Plan and Test Case using TestRail
+Report bugs and improvements through JIRA
+Actively participate in multiple meetings with team members and leadership all over the world
+Present ideas on how to improve our application
+
+NSC Global LLC Quality Assurance Engineer New York /NY 02/14-01/17
+
+Managed the retest, updates and status of issues reported by other project stakeholders
+Worked collaboratively with cross-functional team members to advise and ensure proper testing on projects
+Performed functional, usability, compatibility, release acceptance and regression testing
+Modified existing test cases to increase testing coverage
+Created negative and positive test suits for different modules of the application
+Reported bugs through “HP ALM” system
+Designed test suits and test cases for both production and testing environments
+Executed test cases/test suits for regression and release acceptance testing
+Discussed suspended bugs, features versus bugs, deadline, new release and assignments
+Automated simple features using GUI automation tool “Sikuli”
+
+Northwood Investors LLC Software QA Engineer New York/NY 02/12-01/14
+Performed exploratory, functional, compatibility and integration testing in QA and production
+environments
+Validated application functionality for variety local Internet providers such as Verizon, AT&T, TMobile, Simple Mobile
+Created and executed test cases for all components: Registration, Messaging, Events, Places
+Performed regression testing for new build/release
+Analyzed software failures, reported issues to Elementool
+Followed up on previously reported bugs, performed bugs verification
+Performed compatibility testing including Android Virtual Device
+Communicated with QA team members and developers to resolve testing issues
+Installed Android SDK and set up mobile device emulator to test the application on Android
+
+Education
+2010 BS in Computer Science, Queens College,Queens, New York
+
+Contact this candidate

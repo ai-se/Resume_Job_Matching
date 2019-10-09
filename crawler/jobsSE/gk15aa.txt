@@ -1,22 +1,51 @@
+Job Title = Skype Or Embedded Or Java Or Gc jobs in Raleigh, NC, 27606
 
-Title: Senior Software Engineer Location: Milwaukee, WI Duration: 06-12+ Months.
-Interview: Phone and Skype.
-Only USC/GC.
-The ideal candidate has expert level knowledge and experience in writing testable Java code, constructing valuable unit tests and implementing all of the organization''s code quality standards and practices.
-By being embedded within application engineering teams this individual will get to perform hands-on feature development as well as contribute to efforts to develop a grassroots movement for sharing best practices around writing unit tests as well as testable code throughout the company.
-What To Expect: Within the first month - Begin learning and contributing to the project codebase to which you are assigned.
-Become an active individual contributor to the overall project s initiatives which includes Java/Maven for application development, gitlab for source code control, gitlab ci for continuous integration/continuous delivery and Docker/AWS/Kubernetes for deployment.
-You will start to handle minor bug fixes, develop features that support the project, and begin writing testable code with appropriate tests in place.
-Within two months -Full integration into the project where you are capable of developing features and demonstrate your ability to write highly testable code with all appropriate tests completed.
-Engage with other SDETs as well as project stakeholders to define and maintain the project s backlog and begin to take ownership of all aspects of the project s SDLC.
-Begin to mentor, guide and assign work to junior engineers to assist you in your endeavors Within three months Become a driving force in all aspects of the assigned project and contribute to the overall goals of the SDET organization.
-Take ownership of the project and work with other senior staff as well as senior leadership to deliver effective and efficient solutions by setting reasonable and achievable goals.
-Job Requirements: - Bachelor''s degree or Associate''s degree in Computer Science or a related field - 7+ years professional DEVELOPMENT experience in Java (Must have Dev experience, not just Java Testing experience) - White box testing experience REQUIRED - 5+ years writing and debugging multithreaded Java applications - 3+ years'' experience with REST / SOAP services and clients - Working knowledge of the Spring Framework - Working knowledge of JUnit testing - Experience with Github or Gitlab for source code management - Bachelor''s degree or Associate''s degree in Computer Science or a related field.
-Additional Requirements: - Proven results of delivering while working within an application engineering team.
-- Proven experience of mentoring team members.
-- Ability to take initiative and work with minimal supervision.
-We value autonomy here and want you to be the type that thrives in that environment.
+Aerotek  – 
+Raleigh, NC, 27603
+...  firmware and software • Minimum (3) years of solid experience with automation (scripting languages - such as Python, Perl, Java, Ruby and/or automation tools, such as Selenium, LoadRunner, SmartBear, TestStand) • Review the user requirements, use ...
+- Jobg8, Oct 02
 
+Aerotek  – 
+Raleigh, NC, 27601
+... ● Certificate, Embedded Engineering Additional Skills Preferred: ● Experience with other programming languages (C++, C#, Java, Python, etc.) ● Experience with communication protocols and tools (Wifi, Bluetooth, CAN, TCP/IP, Wireshark, etc.) ...
+- Jobg8, Oct 08
 
-Go to apply 
+Aerotek  – 
+Raleigh, NC, 27601
+... ● Certificate, Embedded Engineering Additional Skills Preferred: ● Experience with other programming languages (C++, C#, Java, Python, etc.) ● Experience with communication protocols and tools (Wifi, Bluetooth, CAN, TCP/IP, Wireshark, etc.) ...
+- Jobg8, Oct 08
 
+Extron Electronics  – 
+Raleigh, NC, 27601
+EMBEDDED HARDWARE TEST ENGINEER Responsibilities include test and debug of embedded hardware for audio and video IP ... Experience writing automated test scripts and programming using Python, C, C++, Java, Visual Basic, HTML, XML, VBA and ...
+- Lensa, Oct 03
+
+Signalscape  – 
+Cary, NC, 27518
+... Primary Responsibilities: Perform research and technical analysis of embedded low-level code, operating systems and machine-software interfaces Develop code using appropriate languages such as Machine, Assembly, C, C++ and Java Perform reverse ...
+- Lensa, Oct 07
+
+Aerotek  – 
+Raleigh, NC, 27603
+... ● Certificate, Embedded Engineering Additional Skills Preferred: ● Experience with other programming languages (C++, C#, Java, Python, etc.) ● Experience with communication protocols and tools (Wifi, Bluetooth, CAN, TCP/IP, Wireshark, etc.) ...
+- Jobg8, Sep 28
+
+System One Services  – 
+Raleigh, NC, 27601
+Senior Embedded Software EngineerRaleigh, North Carolina Apply Type:Direct-Hire Category:Energy Job ID:143657 Date Posted:08 ... Certificate,EmbeddedEngineering Additional Skills Preferred: Experience with other programming languages (C++, C#, Java, ...
+- Lensa, Oct 07
+
+proexstaffing  – 
+Raleigh, NC, 27699
+Need Mid-Level Full Stack Developer (Only USC, GC, EAD) Location: RTP, NC Duration: 6-month contract assignment with the possibility of extending Rate: open on c2c or w2 all inc Requirements: 3+ years of experience Java web application and REST ...
+- Jobs2Careers, Oct 08
+
+Sage IT  – 
+Morrisville, NC, 27560
+Position: Java Developer (10 yrs exp) Location: Morrisville, NC. Visa: USC, GC, GC-EAD, H1 Job Description: Primary - Java development, Spring Boot, Micro services development exp, No SQL - Couch Base, Cassandra exp. should have Production Support ...
+- Jobs2Careers, Oct 01
+
+Sage IT Inc  – 
+Morrisville, NC, 27560
+Position: Java Developer (10 yrs exp) Location: Morrisville, NC. Visa: USC, GC, GC-EAD, H1 Job Description: Primary - Java development, Spring Boot, Micro services development exp, No SQL - Couch Base, Cassandra exp. should have Production Support ...
+- Jobg8, Oct 02

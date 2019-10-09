@@ -1,0 +1,26 @@
+Job Title = Technician
+
+Technician
+
+Location: Sunset Hills, MO
+
+Duration: 3-4 months
+
+Description:
+
+Education: Some College Coursework Completed
+
+Typical responsibilities/duties:
+
+* Provide QA/QC support for spatial realignment activities. Participate in projects to develop and improve the client GIS system model and related applications. Using GIS Software, post as-built changes required due to construction projects, Maintain and update land base (e.g., subdivisions, municipal annexations, roads, etc) and Coordinate resolution of error reports including TLM, OAS and ADMS. Check finished mapping and detailed drawings for quality, accuracy, and adherence to standards. Create, maintain, and prepare special maps, drawings, or reports as required. Provide maps and specialized drawings for division and internal customers as required for design and maintenance such as feeder and street lighting maps, real estate exhibits, and for periodic quality assurance and reliability inspections. Maintain and update information in Transformer Load Management system. Assist in the development of procedures, processes, and methods for system record maintenance. Assist with special assignments such as change management, Continuous Improvement, software upgrades/enhancement projects, mapping & design related tools (i.e. tagging & numbering programs), etc. Maintain the security of confidential and sensitive information obtained in connection with Company business. Facilitate efficient utilization of GIS and other mapping products by co-workers.
+
+Qualifications:
+
+* Associates Degree from an accredited college or university in a technical field is required, preferably in Computer-Aided Design or Engineering Technology. Bachelor's Degree from an accredited college or university preferred. Proficiency with GIS, MicroStation, Auto CAD, or other CAD-related software preferred. One or more years of experience in designing, analyzing, or interpreting construction drawings preferred. Experience in utility design, construction, or supervision including distribution line, surveying, and estimating with knowledge of utility standards, procedures, and distribution systems preferred. In addition to the above qualifications, the successful candidate will demonstrate: Good decision-making, communication, and human relations skills. Possess and maintain a valid driver's license. Provide, properly insure, and operate personal vehicle for Company business. Proficiency with Microsoft Office products preferred. Project Management skills requiring guidance/direction from leadership or experienced peers. Ability to work within project time frames; resources allocation; organization/prioritization. Displays positive attitude and focuses on teamwork and cooperation.
+
+As an equal opportunity employer, ICONMA prides itself on creating an employment environment that supports and encourages the abilities of all persons regardless of race, color, gender, age, sexual orientation, citizenship, or disability.
+SDL2017
+
+
+Go to apply 
+

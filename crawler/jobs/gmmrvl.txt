@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 SHIFT:
 5:45 pm - 6:00 am

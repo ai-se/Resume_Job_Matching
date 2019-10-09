@@ -1,3 +1,4 @@
+Job Title = Senior Software Engineer, Full Stack (Java, C++)
 
 At Tableau, our mission is to help people see and understand data. We build products and features that transform the way people use data to solve problems. Data Catalog is Tableau s new exciting Data Management offering centered towards this mission that helps IT and business users manage, increase the trust and improve the discoverability of their ever-increasing data.
 

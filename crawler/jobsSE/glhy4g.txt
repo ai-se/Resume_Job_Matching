@@ -1,8 +1,51 @@
+Job Title = Devops Or Skype Or Ruby Or Chef jobs in Raleigh, NC, 27606
 
-Role: DevOps Engineer Location: Downtown Chicago, IL Duration: 3 month plus contract Interview: Phone and Skype Who can start in a week.
-Need this person to run point on grabbing connectivity, IAM policies, and setting up AWS accounts.
-(Must Haves) Hard Skills: Experience with AWS/Networking/Security Experience with Terraform Container orchestration Scripting Chef/Ruby
+Piper Companies  – 
+Raleigh, NC, 27601
+... Puppet, Ansible, or Chef) Strong scripting experience in one or more of the following languages: Bash, Python, Ruby, or Powershell In depth knowledge of cloud technologies (i.e. AWS, Azure, Open Stack etc). Compensation for the DevOps Engineer ...
+- Dice.com, Oct 06
 
+Piper Companies  – 
+Raleigh, NC, 27601
+... Puppet, Ansible, or Chef) Strong scripting experience in one or more of the following languages: Bash, Python, Ruby, or Powershell In depth knowledge of cloud technologies (i.e. AWS, Azure, Open Stack etc). Compensation for the DevOps Engineer ...
+- Dice, Oct 06
 
-Go to apply 
+Ruby Tuesday  – 
+Raleigh, NC, 27601
+BartenderRuby TuesdayRaleigh NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 09
 
+Ruby Tuesday  – 
+Cary, NC, 27511
+BartenderRuby TuesdayCary, NC*Excellent Benefits Available*The Ruby Tuesday's Bartender guides guests through food, beverage, and promotional menus while providing service to the bar guests. Will prepare alcoholic and non alcoholic beverages and ...
+- Jobs2Careers, Oct 07
+
+BB&T  – 
+Raleigh, NC, 27611
+... seeking a skilled DevOps engineer to join our group as we implement DevOps across our broad spectrum of development teams. ...  Python, Ruby, .NET (Java and Python strongly preferred) * Experience using infrastructure as code tools (Terraform, Chef, ...
+- StartwireL2, Oct 06
+
+Spectraforce Technologies  – 
+Raleigh, NC
+... support Cloud services Work on a collaborative team in an Agile / DevOps environment The ideal individual is relentlessly ... (Python, Ruby, Java, Node.js, .NET, etc.) Experience developing solutions using infrastructure orchestration tools (Chef, ...
+- Neuvoo, Oct 03
+
+IBM Corporation  – 
+Durham, NC, 27709
+... * Good working knowledge of prevailing DevOps tools such as Ansible, Jenkins, Puppet, Chef or the equivalent * A working understanding of code and script (PHP, Python, Perl and/or Ruby) Preferred Technical and Professional Expertise * Docker runtime ...
+- StartwireL2, Oct 08
+
+IBM  – 
+Raleigh, NC, 27608
+... Management Tools or Ops Automation tools such as Ansible, Puppet, CHEF, Slatstack **Preferred Professional and Technical ... devops and application teams + 2+ Experience with CI, repository management, and review tools (Jenkins, Git, etc) + 2+ Ruby ...
+- Nexxt, Sep 18
+
+IBM  – 
+Durham, NC, 27709
+... + Experience worker with containers (Docker, Kubernetes) + Good working knowledge of prevailing DevOps tools such as Ansible, Jenkins, Puppet, Chef or the equivalent + A working understanding of code and script (PHP, Python, Perl and/or Ruby) * ...
+- Nexxt, Oct 06
+
+IBM  – 
+Durham, NC, 27711
+... Experience worker with containers (Docker, Kubernetes) Good working knowledge of prevailing DevOps tools such as Ansible, Jenkins, Puppet, Chef or the equivalent A working understanding of code and script (PHP, Python, Perl and/or Ruby) Preferred ...
+- Ivy Exec, Sep 25

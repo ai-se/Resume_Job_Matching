@@ -1,0 +1,95 @@
+
+Summary of Qualifications:
+Extensive experience in process control system (DCS / PLC / HMI / SCADA) design, programming, configuration, commissioning, start-up and maintenance.
+SCADA "Schneider Wonderware – Schneider Televent"
+DCS "Foxboro IA system - Yokogawa Centum CS System"
+SIS "Triconex - Trident - HIMA"
+PLC "AllenBradley - HIMA - Siemens"
+HMI "Foxboro Foxview - Rsview"
+Strong knowledge of Programming Languages: Ladder logic, Function blocks, Cause and Effect matrix, Sequential charts, Structure Text, HLBL, Visual Basic, and Assembly.
+Strong Network configuration Skills: “Cisco / RuggedCom / HP”: Switching, Static/Dynamic Routing, VPN (IPsec / GRE), VRRP
+Computer Proficiency: Windows Server “Terminal Servers, Thin Clients, Active directory / Domain Control / DNS / DHCB / NPS”, MS Office Suite, VB scripting, SQL scripting and Excel scripting.
+Capable of understanding client requirements, developing design documents and preparing engineering work packages.
+Strong knowledge of analyzing and troubleshooting technical problems.
+Ability to execute multiple assignments on schedule and on budget.
+Strong communication and organizational skills.
+Project Management skills "Alberta Workforce Essential Skills (AWES) training".
+Valid full Canadian driving license with clean driving record.
+APEGA P.Eng and eligible to ASET CET
+
+Employment History:
+
+Control System Programmer Analyst 2017 – Current
+City of Winnipeg – Water and Waste department
+
+Projects:
+1.Water Services, Water and Waste revamp project
+Key Responsibilities:
+Designs, develops, implements, configures and supports process control/SCADA systems for the Water Services Division.
+Supports and enhances usability of hardware and software for a variety of Operator Interfaces.
+Integrates process control systems using various hardware and software solutions suitable for an industrial environment.
+Supports, administrates and implements improvements/upgrades to Water Services Division security and access control system hardware and software systems.
+Resolves operational issues encountered in relation to process control and security/access control systems.
+Responds to requests for and develops ad hoc reports and automated reporting systems to compile and analyze computer based information and data for operational, regulatory, and technical needs.
+Develops, coordinates and performs routine preventative maintenance checks and programs for all process control and security system hardware and software utilizing work management software to schedule and track maintenance tasks and resources.
+Prepares and maintains standard operating procedures, work planning documents and change records and follows standardized incident, problem resolution and change management processes.
+
+DCS - SIS Lead Engineer 2013 - 2016
+Invensys acquired by Schneider-Electric
+
+Projects:
+1.Kashagan Offshore Oil Field (Caspian Sea) - SAT / Commissioning / Start-Up
+2.Karapitan Onshore Oil Field (Caspian Sea) - SAT / Commissioning / Start-Up
+3.Karachaganak Petrochemical revamp – Engineering / Configuration / FAT / Installation / SAT / Commissioning / Start-Up.
+Key Responsibilities:
+Prepare equipment specifications, design calculations, SLD layouts, cable schedules, and inter connection diagrams.
+Develop design documents, drawings, and material estimates.
+Evaluate technical bids and provide recommendation.
+Represent company during Factory / Site Acceptance Test (FAT / SAT).
+Provide scheduling and estimating support to project management group.
+Assign work to intermediate and junior staff members and monitor progress and quality of work.
+Technical liaison for project activities related to control & automation involving Distributed Control Systems (DCS), Programmable Logic Controllers (PLC) and Human Machine Interfaces (HMI).
+Develop control system functional requirements based on discussions with client, technical data from Piping and Instrumentation Diagrams (P&ID), and company/industry standards and specifications.
+Review drawings and design documents to ensure designs meet project requirements.
+Provide technical leadership and support during installation, testing, and commissioning of IPCSs.
+Implement quality management during engineering design, procurement, and installation, testing, and commissioning stages of the project.
+
+Senior Control System Engineer 2006 - 2013
+Egyptian Projects Operation & Maintenance
+
+Projects:
+1.Egyptian Styrene & Polystyrene Production (ESTYRENICS) - Engineering / Configuration / FAT / Installation / SAT / Commissioning / Start-Up.
+2.Egyptian Linear Alkyl Benzene (ELAB) Petrochemical Plant - Engineering / Configuration / FAT / Installation / SAT / Commissioning / Start-Up.
+3.Middle East Oil Refinery (MIDOR) revamp - Engineering / Configuration / FAT / Installation / SAT / Commissioning / Start-Up / Maintenance.
+
+Key Responsibilities:
+Prepare design documents, drawings, and material estimates.
+Provide scheduling and estimating support to project management group.
+Perform Factory / Site Acceptance Tests.
+Perform installation, start-up and commissioning of process control systems.
+Plan and perform preventive and remedial maintenance on DCS / ESD / FGS / PLC systems.
+Provide customers with technical support during installation and start-up of IPCS.
+Manage other control & automation engineers and technicians for effective execution of assigned work.
+Provide operational training on control systems products: Foxboro / Triconex / Controllogix.
+Develop instrument and system maintenance agreements.
+Troubleshoot and prepare site reports detailing technical issues and implemented and/or recommended solutions.
+Develop system upgrade plans and lead implementation of upgrade projects.
+Provide on-demand customer training as required.
+Education:
+Bachelor of Science in Electrical Engineering, Alexandria University, Egypt 2002 - 2007
+(Canadian World Education Services evaluation report: Four years Canadian Bachelor of Science degree)
+
+Training:
+Televent SCADA (Schneider-Electric training certified – Calgary, AB)
+Wonderware Application Server (Wonderware Canada East certified – Oakville, ON)
+Bridge to Project Management "Alberta Workforce Essential Skills (AWES)"
+Emergency First AID certified
+Basic Offshore Safety Induction and Emergency Training(OPITO certified)
+H2S training and HSE Induction (OPITO / AGIP KCO certified)
+Foxboro I/A Series Introduction to configuration - 2000v8 (Invensys training Certified)
+Foxboro I/A Series System and software Maintenance (Invensys training Certified)
+Triconex / Trident System and Software Maintenance (Invensys training Certified)
+Basic and Advanced Process Control training.
+ControlLogix5000 (Maintenance and Troubleshooting)
+
+Contact this candidate

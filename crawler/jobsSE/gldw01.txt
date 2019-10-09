@@ -1,35 +1,51 @@
+Job Title = Desktop Or .Net Or Native Or Springs jobs in Raleigh, NC, 27606
 
-SunIRef:it Senior Software Engineer Cherwell Software 20 reviews - Colorado Springs, CO 80921 Cherwell Software 20 reviews Read what people are saying about working here.
-Cherwell (@Cherwell) empowers organizations to transform their business through the rapid adoption and easy management of digital services.Cherwell's adaptable platform has enabled thousands of organizations to modernize their business operations with customizable service management, automation, and reporting across the enterprise.
-Friction makes work slow and frustratingCherwell helps organizations achieve meaningful and measurable digital service transformation, faster.
-We are looking for a Senior Software Engineer to join our team in Colorado, Seattle, or work remote in the US.
-Who Will Love This Job A team player: You collaborate with other team members to solve problems and work together to achieve deadlines and departmental goals.
-A learner: You learn quickly and maintain a diverse workload in a fast-paced environment.
-A problem solver: You use rigorous logic and methods to solve difficult problems with effective solutions.
-You probe all fruitful sources for answers and you can see hidden problems.
-You look beyond the obvious and you don't stop at the first answer.
-A smart cookie: You are bright and intelligent.
-You deal with concepts and complexity comfortably.
-People describe you as intellectually sharp, capable and agile.
-Someone who is action-oriented: You enjoy working hard!
-You enjoy working hard!
-You are motivated to learn more about things you find challenging.
-You are not afraid of acting quickly and you are willing to jump on problems quickly.
-What You'll Do We are looking for a software engineer with considerable expertise building enterprise-level web applications to join our innovative Engineering team.
-You will work on an Agile/Scrum team to develop different features for our product and will share your experience and knowledge to be a mentor to other developers.
-The ideal candidate is a strong developer with an eye for architecture who has built many of the following: Highly-scalable web applications Modern Client Side javascript oriented websites Web services Native desktop applications Native mobile applications Server-side components What You Should Have Ability to work within a very collaborative, team-oriented environment Expert knowledge of C# and .Net 4.0 or later; Java experience may be considered.
-Familiarity with Object-Oriented Programming concepts, including SOLID principles, Continuous Integration, Unit Testing, and Mocking Experience developing web applications and web services in C# and .Net Experience with client-side web technologies like JavaScript, Angular, Bootstrap, React, HTML, CSS, and other modern JS libraries TypeScript WinForms or WPF desktop development An eye for a good user experience N-tier application development experience using WCF, Web Services, Windows Services, and IIS Using decentralized source control such as Git (or similar) Experience building frameworks and meta-data based applications Experience with software development in a compliance-oriented environment such as 508, FEDRAMP, FISMA and HIPAA Application globalization and localization Relational Database experience such as SQL Server a plus.
-Basic understanding of Windows Server and IIS.
-Web or desktop application security Why Cherwell?
-Who you are: You like working with intelligent and driven colleagues You share our enthusiasm for a work environment that is fast-paced and growing You enjoy being collaborative and pursuing others' success as strongly as our own You are constantly challenging yourself to bring positive impact to those around you You prioritize being socially responsible and contributing to a greater purposeThe benefits you love: A competitive salary and benefits package, including health, dental, vision, & more Generous PTO plan for employees that includes up to 8 hours for community service 401K with employer matching program Commuter perks for some locations Cherwell Software is an Equal Opportunity Employer Minority/Female/Disability/Veteran.
-We do not tolerate discrimination against any applicant on the basis of gender, sexual orientation, race, religion, national origin, ethnicity, veteran status, disability or age.
-Cherwell encourages diversity in hiring, recognizing that this enriches the work environment and that a broad variety of perspectives enhances decision-making and creativity.
-If you require accessibility assistance applying for open positions in the US, please send an email with your request to If you are a recruiter or placement agency, please do not submit resumes to any person or email address at Cherwell Software prior to having a signed agreement from Cherwell's Talent Acquisition department.
-Cherwell is not liable for and will not pay placement fees for candidates submitted by any agency other than its prior-approved recruitment partners.
-Furthermore, any resumes sent to us without a written signed agreement in place will be considered your company's gift to Cherwell and may be forwarded to our recruiters for their attention.
-Thank you.
-Cherwell Software - Just posted report job - original job If you require alternative methods of application or screening, you must approach the employer directly to request this as Indeed is not responsible for the employer's application process.
+HCL America  – 
+Cary, NC, 27518
+... Service Center Remote desktop connectivity applications like SMS, Bomgar, WebEx, Live Meeting, and Windows Native tools MS Office Suite (XP, 2003, 2007): MS-Word, MS-Excel, MS-PowerPoint, MS-Outlook, MS Project, and MS Visio Internet browsers (e.g. ...
+- Jobs2Careers, Oct 05
 
+HCL America Inc.  – 
+Cary, NC, 27511
+... Service Center Remote desktop connectivity applications like SMS, Bomgar, WebEx, Live Meeting, and Windows Native tools MS Office Suite (XP, 2003, 2007): MS-Word, MS-Excel, MS-PowerPoint, MS-Outlook, MS Project, and MS Visio Internet browsers (e.g. ...
+- Jobg8, Oct 02
 
-Go to apply 
+Disys  – 
+Raleigh, NC, 27610
+... use of our desktop, mobile and application resources. The team makes direct contribution to our IT efficiency initiatives with direct and measurable contribution to the success of the firm. Within this team we have an opening for an C# .NET web ...
+- Jobs2Careers, Oct 09
 
+DISYS  – 
+Raleigh, NC
+... use of our desktop, mobile and application resources. The team makes direct contribution to our IT efficiency initiatives with direct and measurable contribution to the success of the firm. Within this team we have an opening for an C# .NET web ...
+- Adzuna, Oct 07
+
+Systel  – 
+Cary, NC
+... (Azure, O365, AWS), SharePoint (2013+), .NET Core, and Dynamics NET framework versions Languages C#, Visual Basic .NET, F#, C++ .NET Web frameworks ASP.NET, MVC 1-6, ASP.NET Web Api, ASP.NET Web Forms Desktop frameworks WPF, Windows Forms (old ...
+- Neuvoo, Oct 08
+
+Themesoft  – 
+Cary, NC
+... (Azure, O365, AWS), SharePoint (2013+), .NET Core, and Dynamics NET framework versions • Languages C#, Visual Basic .NET, F#, C++ .NET • Web frameworks ASP.NET, MVC 1-6, ASP.NET Web Api, ASP.NET Web Forms • Desktop frameworks WPF, Windows Forms (old ...
+- Neuvoo, Oct 08
+
+VDart Inc  – 
+Cary, NC
+... (Azure, O365, AWS), SharePoint (2013+), .NET Core, and Dynamics NET framework versions • Languages C#, Visual Basic .NET, F#, C++ .NET • Web frameworks ASP.NET, MVC 1-6, ASP.NET Web Api, ASP.NET Web Forms • Desktop frameworks WPF, Windows Forms (old ...
+- Neuvoo, Oct 04
+
+Insight  – 
+Raleigh, NC, 27607
+... Database technologies (SQL Server, Oracle) Microsoft .NET framework Object-oriented design and implementation Web API .NET Core Microservices Windows desktop and server operating systems Web technologies such as HTML, JavaScript, XML, jQuery, etc. ...
+- Jobg8, Oct 03
+
+Profile500 Corporation  – 
+Cary, NC, 27511
+... (Azure, O365, AWS), SharePoint (2013+), .NET Core, and Dynamics NET framework versions Languages C#, Visual Basic .NET, F#, C++ .NET Web frameworks ASP.NET, MVC 1-6, ASP.NET Web Api, ASP.NET Web Forms Desktop frameworks WPF, Windows Forms (old ...
+- Dice, Oct 01
+
+VDart Inc.  – 
+Cary, NC
+... (Azure, O365, AWS), SharePoint (2013+), .NET Core, and Dynamics NET framework versions Languages C#, Visual Basic .NET, F#, C++ .NET Web frameworks ASP.NET, MVC 1-6, ASP.NET Web Api, ASP.NET Web Forms Desktop frameworks WPF, Windows Forms (old ...
+- Ceipal, Oct 02

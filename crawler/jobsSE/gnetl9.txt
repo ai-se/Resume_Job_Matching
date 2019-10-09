@@ -1,14 +1,51 @@
+Job Title = Sales Or Engineer Or Remote Or Os Or Se jobs in Raleigh, NC, 27606
 
-Pre-Sales Engineer The Sales Engineering team at Dorado is responsible for assisting the Sales team in all aspects of the sales process including RFI/RFP, meetings, presentations, demonstrations, lab-trials and installations.
-Dorado Sales Engineers support the outside, inside and channel/partner sales teams.
-The SE must have excellent customer relationship skills as well as in-depth network / technical knowledge.
-Sales Engineers are the primary link between our customers and our product line and corporate resources ensuring customer satisfaction.
-RESPONSIBILITIES· Make sales contacts, research customer needs and develop application of products and services· Develop and deliver sales presentations, demonstrations and close sales· Participate in development of new products and modification of existing· Evaluate product and service marketability· Following up on sales leads and making calls on potential customers· Making presentations, demonstrations, performing lab trials and proof-of-concept for clients, OEMs, users, partners, etc.· Maintaining up-to-date understanding of industry trends and technical developments that effect target markets· Establishing and maintaining industry contacts that lead to sales· Ability to travel at least 60% of the time REQUIREMENTS· Bachelors degree in engineering or a related technical field and 4-5 years of field sales experience, or equivalent, required· Hands on Networking and Network Management experience· Solaris, Linux and Windows OS knowledge· In-depth knowledge of target market industries· This is a remote position.
-We are looking to fill roles in the Southeast US/Texas Territory, as well as, in the Mid-Atlantic/Northeast.
-PREFERRED EXPERIENCE· Well developed sales skills· Excellent oral/written communication skills· Well developed presentation skills· Excellent customer relation skills· In-depth knowledge of target market industries
+RiverPoint  – 
+Morrisville, NC
+RiverPoint Group has an immediate need for a skilled RF Design Engineer for a long-term contract that can be REMOTE or sit ... due to increased data load on the network Working with sales and marketing to identify the impact of new features on ...
+- ZipRecruiter, Oct 05
 
-Permanent
+HKA Enterprises  – 
+Morrisville, NC
+This is a work from home position The Engineer contributes to the RF Design of SmartGrid networks including: candidate ... due to increased data load on the network Working with sales and marketing to identify the impact of new features on ...
+- ZipRecruiter, Sep 23
 
+Sirius Computer Solutions  – 
+Raleigh, NC, 27608
+Sirius' growing Managed Services division is seeking an experienced, customer focused Mainframe z/OS Engineer. This role can be based from most major US cities, and can be a telecommute role. **Position Summary:** The primary purpose of this ...
+- Nexxt, Sep 17
 
-Go to apply 
+Silver Peak Systems  – 
+Raleigh, NC, 27601
+We are looking for an Inside Pre-Sales Systems Engineer (SE) to overcome and remove all technical barriers in the sales ... Suite (Power Point, Excel, Word) Microsoft Windows, Apple OS X, Linux operating system experience Personal Skills Team ...
+- Jobs2Careers, Oct 09
 
+Vaco  – 
+Raleigh, NC
+... a Software Engineer that has a skillset in Salesforce Development with Apex and VisualForce along with some experience with .NET/C#. This position is remote with some occasional travel. Primary responsibilities & duties: Experience with Sales Force ...
+- Neuvoo, Oct 08
+
+Vaco Technology  – 
+Raleigh, NC, 27601
+... a Software Engineer that has a skillset in Salesforce Development with Apex and VisualForce along with some experience with .NET/C#. This position is remote with some occasional travel. Primary responsibilities & duties: Experience with Sales Force ...
+- Dice.com, Oct 08
+
+Vaco Technology  – 
+Raleigh, NC, 27601
+... a Software Engineer that has a skillset in Salesforce Development with Apex and VisualForce along with some experience with .NET/C#. This position is remote with some occasional travel. Primary responsibilities & duties: Experience with Sales Force ...
+- Dice, Oct 08
+
+Archer I.T., LLC  – 
+Raleigh, NC, 27601
+A Top Financial Firm in Raleigh, NC is Site Reliability Engineer with Strong (PowerShell or Python), Cyber Security, APIs, and Automation. Job Description - Site Reliability Engineer - Windows/Powershell The Cyber Security Telemetry team is ...
+- Jobg8, Oct 03
+
+Silver Peak  – 
+Raleigh, NC, 27601
+... Spanish) Sales Raleigh, North Carolina Apply We are looking for an Inside Pre-Sales Systems Engineer (SE) to overcome ... Suite (Power Point, Excel, Word) Microsoft Windows, Apple OS X, Linux operating system experience Personal Skills Team ...
+- Jobs2Careers, Oct 07
+
+COllabera  – 
+Raleigh, NC, 27601
+This role is mostly remote with some local travel. You are a Principle Network Engineer who will be part of the advanced network infrastructure group working on the 5G Network assessment delivery for a major telecommunications corporation. We need ...
+- Jobs2Careers, Oct 09
