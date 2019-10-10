@@ -1,36 +1,51 @@
+Job Title = Micro Or Devops Or Software Or Av jobs in Raleigh, NC, 27606
 
-Description:
-Specific Roles and Responsibilities include:
-• Assist in developing an automated framework for Security Tool deployment and development, leveraging various scripting languages and open source solutions
-• Plan, implement, upgrade and monitor security measures related to computer networks and software testing and validation procedures, programming and documentation (IDS, IPS, AV, HIPS, FW, EUBA, SIEM, Sandboxing)
-• Develop plans and implement systems and procedures to effectively secure company information, infrastructure, intellectual property, and users against accidental or unauthorized modification, destruction or disclosure.
-• Work autonomously in an area of specialization to analyze internal security and provide relevant information to internal and external customers, suppliers, and partners.
-• Implement and design Intrusion Monitoring (IDS/HIDS) to monitor use of files and regulate access to safeguard information and provide Incident First Response.
-• In connection with the above duties, apply knowledge and/or skills of Python and Shell Scripting; cloud technologies and computer forensics; security posture assessment and requirements based hardening; Firewalls, Intrusion Detection, and Malware Analysis. Extensive SOC automation and tool integration experience.
+Innominds Software  – 
+Cary, NC, 27511
+... Devops Engineer Location: Cary, NC Duration:6+Months Experience: 10+ Years Job Description: Exposure on PPM administration ... Executive - International Consulting Innominds Software Inc. Email ID: Direct: Desk: *6565 - provided by Dice Contractor
+- Dice.com, Oct 04
 
-Requirements:
-• Python scripting, expert level
-• Devops container/orchestration tools (Kubernetes, Docker, Puppet, etc)
-• Experience automating AWS deployments
-• Understanding of CI/CD deployment models
-• Docker and Kubernetes experience preferred
-• Familiarity with REST API design
-• Puppet / automation / docker
+Innominds Software  – 
+Cary, NC, 27511
+... Devops Engineer Location: Cary, NC Duration:6+Months Experience: 10+ Years Job Description: Exposure on PPM administration ...  Jagga Rao Senior Executive - International Consulting Innominds Software Inc. Email ID: Direct: Desk: *6565 Permanent
+- Jobg8, Oct 05
 
-Nice to haves:
-• IDS / IPS / Network Security
-• Log aggregation platform experience
-• Linux administration
-• 5+ years in Information Security
-• Past experience with Incident Response and investigations
+Latitude, Inc.  – 
+Cary, NC, 27513
+... panels Coordinate the creation and integration of AV control system programs Troubleshoot and debug AV systems Peer review code from fellow programmers to ensure accuracy and efficiency Maintain software project documentation in company database ...
+- ZipRecruiter, Oct 04
 
-Bonus Skills
-• Client NSX / Micro segmentation
-• Endpoint security solutions
-• CASB
-• PowerShell
-• EUBA Solution design
+IBM  – 
+Durham, NC, 27709
+Software Developers at IBM are the backbone of our strategic initiatives to design, code, test, and provide industry-leading ... (SQL, NoSQL) + Experience developing within micro-services architecture and DevOps Technology like Jenkins, Travis CI, etc. ...
+- Nexxt, Oct 06
 
+Latitude, Inc.  – 
+Raleigh, NC
+... panels Coordinate the creation and integration of AV control system programs Troubleshoot and debug AV systems Peer review code from fellow programmers to ensure accuracy and efficiency Maintain software project documentation in company database ...
+- Neuvoo, Oct 04
 
-Go to apply 
+Latitude Inc.  – 
+Raleigh, NC
+... panels Coordinate the creation and integration of AV control system programs Troubleshoot and debug AV systems Peer review code from fellow programmers to ensure accuracy and efficiency Maintain software project documentation in company database ...
+- Neuvoo, Oct 03
 
+IBM Corporation  – 
+Durham, NC, 27709
+Software Developers at IBM are the backbone of our strategic initiatives to design, code, test, and provide industry-leading ... (SQL, NoSQL) * Experience developing within micro-services architecture and DevOps Technology like Jenkins, Travis CI, etc. ...
+- StartwireL2, Sep 21
+
+LifeSize  – 
+Durham, NC, 27701
+... As a member of the DevOps team you will help us design and implement our deployment automation that will support our micro ... Docker * Experience with network configuration * 1+ years of software development in Python * 3+ years of experience with ...
+- StartwireL2, Sep 13
+
+Oracle  – 
+Morrisville, NC
+**DevOps Software Developer 2** **Preferred Qualifications** **CFS Description** **C** loud **F** oundations **S** ervices  ... regions Enable service deployments to the Kubernetes based micro service platform in multiple cloud tenancy regions - ...
+- DE Jobs, Oct 09
+
+Telecomm Software  – 
+Raleigh, NC, 27601
+... It also offers opportunity to utilize both automation and manual testing skillsets to influence Software Development Lifecycle methodology transition to DevOps. You Offer Bachelor's degree preferably in Computer Science or equivalent experience You ...
+- Jobg8, Oct 02

@@ -1,3 +1,4 @@
+Job Title = Associate Software Engineer
 
 Associate Software EngineerThe Associate Software Engineer is responsible for building high-quality, innovative and fully performing software that complies with coding standards and technical design.
 The Associate Software Engineer will actively work with the internal development team in an Agile environment to gather user requirements, define system functionality and write code.

@@ -1,0 +1,56 @@
+
+Jaydeepgiri Goswami
+Hinjewadi Phase II, Pune, IN P: +91-982******* adajq7@r.postjobfree.com
+
+SUMMARY
+
+To pursue challenging opportunities while being able to dispense my maximum potential to the benefit of organization and at the same time gain expertise and knowledge on the road to mutual growth and success.
+
+Technical Skill Set
+
+Core ABAP (RICEFW), RFC & ALE-IDocs, SAP Scripts & Adobe Form, WebDynPro, ABAP – OOPS, Enhancement Framework, ODATA & ABAP on HANA
+
+EXPERIENCE
+
+Infosys Ltd – Hinjewadi Phase II, Pune, IN
+Senior Systems Engineer Nov 2016 – Present
+Analyzed a myriad of performance bugs as a part of Incident Management team to improve the
+efficiency of existing systems.
+Made numerous changes in the Layout in PDF forms and SAP Script, to implement the Page
+wise Subtotal on all the pages which was related to Portuguese government requirement.
+Implemented Sales Order Enhancements, by leveraging the Enhancement
+Framework such as use of BADI's and Implicit Enhancements to achieve management and review of country
+specific business data.
+Created custom DDIC tables to facilitate logging and management of customer specific Sales Order attributes of incomplete logging as a part of Additional Tab on Header and Item level during creation/change of Sales Order using BADI’s and User Exits
+Added custom tables and Additional tab on the Header as well as the Item level using BADI's.
+Also Made Use of User Exits to achieve Extension of Incompletion Log's based on Business
+Requirements.
+Developed IDOC Extensions(ORDERS05) for processing business related fields while creation of a Sales Order based on the received XML file by utilizing core concepts of Customer Exits and Function Modules
+Designed extension of existing SAP BDC Program to accommodate custom fields for Sales Order Creation for better information management.
+Adjusted existing WebDynPro Component Methods and Layout to drive validations as per as business process for improved security and consistency.
+
+Achievements and Trainings
+
+Training: Undergone 4 months of Advance ABAP training with focus on SAP ABAP,
+Successfully Completed SAP ODATA Backend Training,
+Successfully Completed ABAP on HANA + HANA Modelling Training
+Successfully Completed SAP FICO Training with focus on basics and Configuration.
+
+Awards: SAP INSTA AWARD, Successful on-time delivery of critical Objects in Crucial Time for Italy E-ordering
+Project, Eli Lilly
+SAPerb AWARD, Overcame Obstacle and shown Commitment through notable Contribution towards Success of Project/initiatives.
+
+EDUCATION
+
+Atharva College of Engineering – University of Mumbai, IN June 2016
+Bachelor of Engineering in Computer Engineerings
+Cumulative GPA: 8.03/10
+
+PERSONAL
+
+Date of Birth: 06th December 1994
+Languages: English
+Marital Status: Single
+Nationality: Indian
+
+Contact this candidate

@@ -1,3 +1,4 @@
+Job Title = Data Engineer
 
 Software Guidance Assistance, Inc., (SGA), is searching for a Data Engineer for a Contract assignment with one of our premier Financial Services clients in New York, NY . Required Skills Several years of programming experience with a higher level language (Python preferred) Basic familiarity with Apache Kafka or a similar messaging system Basic experience with Linux environments, bash scripting, and can handle basic 'sysadmin' tasks from time to time A strong preference for automating processes, workflows, infrastructure creation and more.
 We're a small team so the more we automate the more time we'll have to focus on the next set of features to create Preferred Skills Several years of experience with a JVM based language Cloud services (GCP, AWS or Azure), including infrastructure as code principles and tools (Terraform, CloudFormation) Modern DevOps mindset, approach to problems and tooling.

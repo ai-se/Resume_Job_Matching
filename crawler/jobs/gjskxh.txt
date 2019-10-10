@@ -1,0 +1,64 @@
+Job Title = Engineer
+
+Job #: 1005832
+
+Office 365 Engineer
+
+Apex Systems, the Nation's 2nd largest IT Workforce Solutions organization, has an immediate and exciting opportunity for an Office 365 Engineer role for one the largest Financial firms in Columbus, Ohio. This opportunity is for a 3 month Contract-to-hire position.
+
+Applicants must have 5+ years of IT support, implementation and upgrade experience in an enterprise level environment. If you'd like to receive Job Alerts from Apex that match your specific criteria, visit itcareers.apexsystemsinc.com.
+
+If you are interested in the position please send your resume to Brandon Skeen at
+
+Company & Group Details of the Office 365 Engineer:
+
+* The Office 365 Engineer will work as part of a collaborative team in a fast paced enterprise environment.
+
+* The individual will need to be able to design and implement, have a self-starter mentality while being able to be a team player, and a willingness to learn, utilize and implement new technologies.
+
+* Will work with leadership to help design the roadmap and product catalog for both current and future applications and their support.
+
+* Be a well-balanced Engineer with security of MCAS and Intune, performance availability of Exchange, Yammer, SharePoint, Ironport, and emerging technologies.
+
+* Work for one of the region's Top Financial Firms.
+
+The organization offers several perks including but not limited to: training opportunities, great benefits, an onsite café and Starbucks, heavily involved with the community and philanthropy.
+
+Requirements for the Office 365 Engineer:
+
+* Will provide oversight and collaboration for the engineering, design, and implementation for Office 365, Yammer, Teams, SharePoint Online, Intune, Azure AD.
+
+* Expert in the configuration and administration security policies of MCAS and Intune.
+
+* Responsible for the performance, availability and upgrades.
+
+* Support the migration of Exchange environment from 2016 to Exchange Online and Intune enrollments including testing and validation.
+
+* Assist in the migration of Skype (on premise) to Teams.
+
+Technologies for the Office 365 Engineer:
+
+* 5+ years of: configuration, design, implementation, migration, and upgrade experience in an enterprise environment.
+
+* Experience in O365 MCAS and Intune policy configurations and Azure AD reporting.
+
+* Responsible for the adherence to general and specialized risk and security controls.
+
+* Performance and availability for Office 365, Yammer, SPO, Skype, Teams, Intune, Azure AD, Ironport.
+
+* Develop the solutions roadmap, product catalog, and vision for future application support.
+
+* Documentation of systems configuration, standards, and KPI's.
+
+* Degree in Computer Science, Engineering or a related field or equivalent work experience.
+
+* Please note that as a contract employee of Apex Systems, you'd be eligible for Health, Dental, Vision and Life Insurance; Short Term Disability; Hospitalization Coverage; Direct Deposit; Weekly Pay Periods; Training and Development Programs; Corporate Discounts/Perks and our Referral Program.
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at -6178.
+SDL2017
+
+
+Go to apply 
+

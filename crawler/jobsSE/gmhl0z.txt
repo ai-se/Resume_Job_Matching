@@ -1,19 +1,51 @@
+Job Title = Php Or Mysql Or Js Or Hadoop Or Greater jobs in Raleigh, NC, 27606
 
-Applications Operations Engineer Covent Garden, London Marin Software Application Operation Engineers are technically excellent, inquisitive problem solvers with a wide variety of skills to solve a wider variety of issues - swiss army knives of the engineering and support world.
-They love complex data and are passionate about building tools to help customers and colleagues solve problems faster.
-AppOps are an essential part of the excellent customer experience we expect to provide to every one of our customers.
-Application Operations is a global team with a follow-the-sun working model and we are seeking an AppOps Engineer to join the group based in our London office.
-What you will do at Marin * Use your problem solving and communication skills to provide 2nd level support, investigating and resolving the most complex and challenging Marin application and system issues * Challenge your inquisitiveness and develop expert understanding of multiple applications' process flow and systems on our search and social Ad-tech SaaS platforms using Apache, Tomcat, MySQL, Java, APIs, microservices, Hadoop, Spark, PHP, Python, Bash, CI/CD pipelines, Node.js, Kafka, AMQ, AWS - to name some of the technologies we support.
-Learn from our highly experienced team and get hands-on with it all.
-* Prove your ability to stay calm under pressure - we own and drive the resolution on critical production application issues.
-Communicate the statuses, perform root cause analysis, develop workarounds, repair data and provide post resolution reporting for high severity incidents impacting our customers and internal users * Show your scripting chops - develop tools and processes to speed up and improve the quality of issue resolution and increase the reliability of Marin's application suite.
-Proactive tooling projects account for up to 40% of an AppOps engineer's time.
-* Write scripts to extract and manipulate large data sets from MySQL across > 200 production instances and HBase - 3PB storage in production * Setup, configure, maintain and monitor assigned business application(s) and related systems * Monitor the applications and systems alerts and attend to them proactively * Be an active part of the wider organisation - develop and maintain effective relationships with engineering and customer support teams Minimum Requirements * 2+ years of applications support experience with web based applications (SaaS preferred) in a Linux environment * Strong MySQL or equivalent RDBMS queries * Strong BASH/shell scripting skills or other scripting languages * Ability to prioritise multiple tasks * Confidence to take action independently and safely * Sense of innate urgency to complete projects on time and with high quality * Open communicator and can jump in to help other team members * Educational background in Computer Science, Electrical Engineering, Mathematics or Data Science preferred Plus Skills Experience with Nagios and Cacti monitoring tools will be a plus MySQL administration and/or Performance tuning is a plus Familiarity with Apache web server will be a plus Previous experience in search advertising (Google/Yahoo) will be a plus Experience with Hadoop or similar big data platform About Marin Software Marin Software Incorporated (MRIN) provides a leading cross-channel advertising cloud for performance marketers to measure, manage and optimize more than $6 billion in annualized ad spend across the web and mobile devices.
-Offering an integrated SAAS platform for search, display and social advertising, Marin helps digital marketers improve financial performance, save time, and make better decisions.
-Advertisers use Marin to create, target, and convert precise audiences based on recent buying signals from users' search, social and display interactions.
-Headquartered in San Francisco, with offices worldwide, Marin's technology powers advertising campaigns in more than 160 countries.
-For more information about Marin's products, please visit:
+CyberCoders  – 
+Chapel Hill, NC, 27515
+Full Stack Programmer - PHP, Javascript, MySQL Full Stack Programmer - PHP, Javascript, MySQL - Skills Required - MySQL, PHP, JavaScript, UI/UX If you are a Full Stack Programmer with experience, please read on! **Top Reasons to Work with Us** We ...
+- Nexxt, Sep 29
 
+CyberCoders  – 
+Durham, NC
+... well as enhancing back-end performance What You Need for this Position At Least 3 Years of experience and knowledge of: - MySQL - PHP - JavaScript - UI/UX - Linux - Apache - Bootstrap What's In It for You - Competitive Base Salary (DOE) - Flexible ...
+- CyberCoders, Sep 12
 
-Go to apply 
+Laksan Technologies  – 
+Durham, NC, 27701
+... Experience - 3+years Primary Skill 1(Musthave skill) -Node JS Skill2 (Should have skill)-Java Skill The following technical ... (NodeJS, PHP, Java, etc. Experience with cloud-native application development such as JavaScript, HTML, CSS, SQL (MySQL, ...
+- Dice, Sep 24
 
+INE  – 
+Cary, NC
+... for in a Senior PHP Developer: 5+ years development experience in PHP BS/MS degree in Computer Science, Engineering or a related subject Working knowledge in applying TDD or BDD practices. Solid understanding of database concepts (MySQL / MariaDB) ...
+- ZipRecruiter, Oct 08
+
+INE  – 
+Durham, NC
+... and tools if necessary Qualifications Software development experience in PHP Working knowledge in applying TDD or BDD practices. Solid understanding database concepts (MySQL / MariaDB) Good knowledge of version control tools and of developing web ...
+- ZipRecruiter, Sep 15
+
+NC State University  – 
+Raleigh, NC, 27601
+... Review design ideas and provide work estimates.Minimum Education/Experience Bachelor s Degree in Computer Science or related field.Departmental Required Skills Previous experience working in a LAMP (Linux, Apache, MySQL, PHP) environment. Knowledge ...
+- Lensa, Oct 07
+
+Inceed  – 
+Morrisville, NC, 27560
+... A great company in Morrisville, a leader in their industry with a laid back culture, is looking for a MySQL DBA to join their team on a permanent, direct hire basis. They have outstanding benefits including fully paid health, dental, and vision ...
+- Jobg8, Oct 02
+
+HireNetworks  – 
+Morrisville, NC, 27560
+MySQL DBA - 8 186 The MySQL Database Administrator will implement new database systems and maintaining existing MySQL systems. This position requires a proven ability to create, understand, and implement business requirements for new systems, and to ...
+- Jobg8, Oct 02
+
+HireNetworks  – 
+Morrisville, NC
+MySQL DBA - 8186 The MySQL Database Administrator will implement new database systems and maintaining existing MySQL systems. This position requires a proven ability to create, understand, and implement business requirements for new systems, and to ...
+- ZipRecruiter, Sep 13
+
+Techbytes Solutions Inc.  – 
+Durham, NC
+Role: UI Engineer with Strong PHP Location: RTP, NC Duration: Long Term Position: Permanent Experience: 6+ Years Rate : $70K-$90K/Year Interview: Phone and Skype or F2F Here is the JD: 6+ years of UI/UX development using HTML, CSS & JS frameworks. ...
+- Dice, Oct 08

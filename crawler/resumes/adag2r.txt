@@ -1,0 +1,47 @@
+
+Resume
+Personal Information
+Name: Mohammad Taheri
+Date of Birth: July 24, 1991
+Nationality: Iranian
+Marital status: Single
+Email: adag2r@r.postjobfree.com
+Phone: 98-935-*******
+Address: Dolat St., Shariati Ave., Tehran, Iran
+Education
+2017 2019 M.Sc in Information Technology Engineering Network Systems Azad University Science and Research Branch Tehran, Iran 2011 2013 B.Sc in Information Communication and Technology Engineering (ICT) Network Systems Ghiaseddin Jamshid Kashani Higher Education Institute Ghazvin, Iran 2009 2011 Associate Degree in Information Technology and Communication Daneshestan Higher Education Institute Saveh, Iran Professional Experiences
+Mobin One Kish Co. (Information Technology Services) Sept. 2015 present Computer System Specialist
+Some of my major duties and responsibilities are as follows:
+Identify and implement system data, technological equipment and software components required for optimum performance;
+Design and maintain intranet and internet websites, translate conceptual Web page designs into HTML or script templates;
+Oversee computer network security and establish procedures to backup data;
+Monitor systems in order to identify potential system errors and obtain appropriate resources for the resolution of complex problems;
+Provide training and technical guidance for the development and troubleshooting of computer systems;
+Track and analyze reports in order to determine where improvements can be made in business procedures;
+Coordinate with project teams for new project implementations in production as per business policies.
+Asiatech Co. (Internet Service Provider) Sept. 2013 Dec. 2013 Network Operator
+Monitor data communications network;
+Receive telephone call from users with data communications problems and instruct users to enter specified commands into computer to resolve problem;
+Inspect communications wires and cables;
+Coordinate installation of communications lines.
+Parspooyesh Fanavar Co. (Computer Software Company) Sept. 2012 Sept. 2013 Computer Network Technician
+Implement and maintain computer networks, connections and cables;
+Maintain and monitor network based software;
+Provide hardware support for the computer systems;
+Provide technical guidance for users with on the job network and computer problems;
+Troubleshoot system failures to ensure long term efficiency of network. Professional Skills
+• Windows server 2008 active directory, Windows server 2008 MCITP, Virtualization server, VPN, Firewalls
+• Linux LP1
+• CCNP certified R&S, CCNA certified R&S, Network Design
+• MikroTik R&S
+• TCP/IP, IPv6, NAT, DHCP
+• SolarWinds, Cacti, Nagios, Zabbix
+• Oracle, SQL
+• Wireless Networking, WiMAX, 3G, DSL
+• CRM, WordPress
+• VoIP base, SIP
+• PHP Backend, PHP CodeIgniter, PHP Laravel, MVC, Html Languages
+English: Fluent (IELTS Band Score: 6)
+Farsi: Native
+
+Contact this candidate

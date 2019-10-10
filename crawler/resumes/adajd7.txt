@@ -1,0 +1,68 @@
+
+Rajat Kumar *** Seneca Hill Drive,
+Toronto, ON M*J4S7
+Mobile: +1-437-***-****
+Email: adajd7@r.postjobfree.com
+https://www.linkedin.com/in/rajat-yadav/
+Professional Summary:
+Full-stack luminary test automation specialist with 13 years of hands-on experience in architecting test automation framework, operational excellence and consumer delight fronts.
+• Hands-on experience in leading core automation team as part of Testing Center of Excellence (COE), that worked on automation frameworks for both GUI and Rest API's to improve quality and reduce time of development cycle:
+6+ years of hands-on experience in designed Rest API automation framework and test scripts using Java, Rest Assured, TestNG and WireMock.
+4+ years of experience with GUI BDD driven automation including Web based and mobile App using Java, Selenium, Cucumber and Appium.
+4+ years of experinece in functional and database testing using Mysql queries and shell scripting.
+• Hands-on experience in integrating functional automation with CI/CD pipeline and tools (using Jenkins, Git Jira).
+• Hands-on experience in trouble-shooting, creating automation test strategy and identifying automation opportunities in an agile (scrum) environment.
+• Proficient in analyzing requirements, test planning, developing, executing, debugging, and maintaining complex automated test cases, and test status reporting.
+• Experience working in agile paradigm, and collaborating with dev manager, SDETs, BAs and consumer delight team for end-to-end project delivery. Skills::
+• Ability to create automation
+framework
+• Experience in agile paradigm
+• Deft in OOPS and design concepts
+• Strong operational / debugging
+• Good problem-solving skills
+Tools and Technologies:
+• Programming / Scripting: Core Java, Unix shell
+• Frameworks: Selenium, Rest-Assured, TestNG, JUnit, Cucumber, Extent/Allure report, Spoon
+• Tools: Git, SVN, Maven, Jenkins, JIRA, WireMock, Bugzilla, JaCoCo, SonarCube
+• Database: MySql
+Experience:
+Associate Director (QA Manager) Makemytrip, India April-2018 – Aug-2019 Responsibilities:
+• Debugging and working with team for enhancing GUI automation frameworks, Selenium test scripts and creating BDD feature files using Cucumber.
+• Developing and executing automated test scripts for testing RESTful API’s using Core Java, REST Assured, TestNG and WireMock.
+• Hands-on experience in designing and implementing test automation scripts and integration with continuous delivery (CI/CD) pipeline.
+• Hands-on experience in minimizing regression time by integrating test automation scripts with continuous delivery (CI/CD) pipeline using Jenkinks, and publishing KPI dashboards using SonarCube and JaCoCo.
+• Hands-on experience in monitoring and debugging of production application issues, providing root cause analysis and technical solution for faster resolution.
+• Preparing and publishing key metrics like sprint velocity, burn down charts, and agile health check, with all stakeholders.
+Senior Manager (Principal QA II) Makemytrip, India April-2017 to April-2018 Responsibilities:
+• Creating API automation test cases for newly added lines of code to improve automation coverage using Java code coverage library (JaCoCo).
+• Creating and debugging failure injection tests (FIT) in automation framework to test application resilience by injecting failures in the application at runtime.
+• Automating Non-Functional requirements (NFR) for mobile application to improvise battery, memory etc.. using android studio and ADB commands.
+• Conducting code reviews, bolstering best coding practices and design principles to eliminate cruft in automation scripts.
+• Debug, comprehend and resolve technical problems faced by team to automate test cases.
+• Actively participating in sprint planning, backlog grooming meetings and radiate team’s progress through team velocity and burndown charts. Manager (Principal QA I) Makemytrip, India April-2015 to April-2017 Responsibilities:
+• Intrinsically working as full-stack automation engineer to create and enhance API automation frameworks and test scripts.
+• Hands-on experience of behaviour driven development (BDD) to automate GUI application using Cucumber and Selenium.
+• Debugging production issues and providing the technical assistance in identifying the source of the problem.
+• Working on distributed version control tools like: Git and gerrit to conduct code reviews, and provide feedback basis best coding practices. Lead Engineer Makemytrip, India April-2013 to April-2015 Responsibilities:
+• Understand software internals, debug problems using log files, and write automated tests according to customer real-world scenarios.
+• Testing of multiple cross-functional releases while maintaining the highest quality standards with agility.
+• Creating effective automation test scripts to support cross-platform testing
+(Chrome, IE, Safari, Firefox etc.).
+• Gathering requirements, maintaining technical project plans and diving into the technical details to understand the nuances and complexities involved. Lead Engineer Wize Commerce, India May-2008 to Mar-2013 Responsibilities:
+• Creating test plan which includes description and scope of the features to be tested, environmental setup, training requirement, test approach.
+• Performing browser compatibility testing of the application on different browsers like Internet Explorer, Google Chrome and Safari on different platforms like Windows, Mac and UNIX.
+• Creation of automated script through UNIX shell scripts to fetch and validate test data for mysql database.
+• Performing audit prepare a report of configurations (iRule, load balancing methods, persistence) of F5 load balancer.
+Software Engineer RDM, India May-2006 to Mar-2008 Responsibilities:
+• Examining product hierarchy and perform white box testing using JUnit framework to ensure functionality is stable and quality production ready.
+• Participating in technical walkthrough to gain understanding and find defects.
+• Ensuring defects are properly logged, tracked until closure using JIRA and publish weekly status reports.
+• Analysing functional requirements (use cases) for completeness, accuracy and break product into small functionality for improved testability. Education:
+• Master Of technology (MTech) BITS Pillani, India 2014 to 2016
+• Bachelor Of technology (BTech) Kurukshetra University, India 2001 to 2005 Certifications:
+• Oracle Certified Associate, Java SE 8 (OCA)
+• Certified Scrum Master (CSM)
+• International Software Testing Qualifications Board (ISTQB) Certified Tester Accolades:
+• Awarded CEO's ring of honour for outstanding contribution in test automation that helped move MakeMyTrip several nothches up in technology by achiving quality and agility in releases.
+
+Contact this candidate

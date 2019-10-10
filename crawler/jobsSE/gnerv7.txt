@@ -1,22 +1,51 @@
+Job Title = Qa Or Service Or Manager Or Support jobs in Raleigh, NC, 27606
 
-About RedRock Software: RedRock Software is headquartered in Las Vegas, NV.
-The system was created by hospitality technology experts providing a modern and integrated supply chain management (SCM) software system.
-RedRock Software's revolutionary product is a web-based, enterprise management system, providing full "source to pay" for hospitality operators.
-The SCM tool provides Strategic Sourcing and E-procurement, Materials Management, Supplier Relationship Management, and Food Cost Analysis, all in a single integrated supply chain management solution.
-RedRock Software offers a competitive salary, medical benefits and paid time off.
-Technical Support Engineer Overview: Technical Support Engineers are responsible for supporting our Customer Service Manager with customer calls and emails, initial triage, root cause analysis, as well as responding to service requests.
-They are expected to fully understand RedRock Software's products, answer customer questions, diagnose system issues, and escalate defects to the appropriate team members to ensure a quality customer experience.
-Duties and ResponsibilitiesDevelop and maintain an in-depth working knowledge of RedRock Software products.Work with the Customer Service Manager and end users to collect information about potential defects, as well as lead the user through diagnostic procedures to determine the source of an issue.Recommend or perform actions to resolve customer issues.Reproduce customer errors in lab environment, document defects and known limitations (using JIRA & ZenDesk) and communicate to Development and/or QA teams.
-.Refer customers to appropriate information sources for experienced problems, including knowledge base articles or product documentation.Monitor the customer support queue, respond to customer inquiries, keep customers informed of their issue status, and ensure RedRock Software meets its Service Level Agreements (SLAs).Expected to take the initiative regarding self-education, anticipating customer needs, problem solving, and using sound judgment for escalating issues to ensure customer satisfaction.Participate in QA and test releases when neededOccasional travel may be required to support the Project Implementation Team.
-Less than 30% domestically.
-Qualifications and RequirementsBachelor's Degree in Computer Science, Information Technology, Information Systems, or similar.
-2+ years experience in product/customer support is preferred.
-Demonstrated problem solving and troubleshooting experience/abilities.Experience in a software company that implemented and sold software products in a competitive marketplace.Thorough understanding of web-based technologies, mobile applications and Windows.Ability to work independently and in a team environment.
-Strong written and verbal communication skills.Must be able to work from a dedicated home office/work space with minimal supervisionExperience with Microsoft Exchange, O365 and Active Directory (AD) configuration and administration a plusKnowledge of AD schema and objectsFamiliarity with DNS, Networking and security.Advanced SQL Experience Preferred but not requiredMicrosoft Exchange/Active Directory certifications is a plusOffice365 CertificationsJIRA experience a plusExperience with system upgrades.
-Role LocationCandidate is preferably located in the Las Vegas, Nevada Area.
+IQVIA  – 
+Durham, NC, 27703
+... position within QA and requires both strategic vision and personal tactical execution. Summary of Responsibilities: Collaborates with Quality counterparts at customers and with internal project teams to proactively promote, support and facilitate ...
+- Lensa, Oct 07
 
-Permanent
+IQVIA  – 
+Durham, NC, 27713
+... position within QA and requires both strategic vision and personal tactical execution. Summary of Responsibilities: Collaborates with Quality counterparts at customers and with internal project teams to proactively promote, support and facilitate ...
+- Jobs2Careers, Oct 06
 
+Apex Systems  – 
+Raleigh, NC, 27601
+QA Tester If interested, please send your resume to Lauren at [Click Here to Email Your Resum ] JOB DESCRIPTION: Serve as Tester Mid reporting to Tester Senior or Test Manager Under general supervision, carry out procedures to ensure that all ...
+- Jobs2Careers, Oct 06
 
-Go to apply 
+Apex Systems  – 
+Raleigh, NC
+QA Tester If interested, please send your resume to Lauren at JOB DESCRIPTION: Serve as Tester – Mid reporting to Tester – Senior or Test Manager Under general supervision, carry out procedures to ensure that all information systems products and ...
+- Neuvoo, Sep 28
 
+BioAgilytix  – 
+Durham, NC
+... Our fully integrated laboratory services support every stage of biologics development, from early discovery through pre ... Essential Responsibilities Able to perform Quality Assurance (QA) audits, inspections (internal/external) and monitoring ...
+- Neuvoo, Oct 08
+
+CELLECTIS  – 
+Raleigh, NC, 27601
+... Provides input based on knowledge and experience on QA Operations, procedures and CGMP issues. Provides Quality Assurance related support to all GMP departments Ensures timely issuance, review and approval of QA certificates, closure of Batch ...
+- Jobs2Careers, Oct 05
+
+Insigma  – 
+Raleigh, NC, 27699
+Job Title: QA Manager Job Location: Raleigh, NC Experience: 10 Years Need a QA manager with good experience in Salesforce. Healthcare back ground is a plus
+- Jobs2Careers, Oct 08
+
+BioCryst Pharmaceuticals, Inc.  – 
+Durham, NC, 27701
+Job Title: Clinical QA Manager Department: Quality Assurance/ Regulatory Affairs Location: Durham, NC JOB SUMMARY The ... * Participate in the evaluation and qualification of CROs and other service providers * Assist with the preparation, ...
+- StartwireL2, Oct 06
+
+Cellectis  – 
+Raleigh, NC, 27611
+QA Operations Manager Raleigh, USA The Quality Assurance Operations Manager sets expectations and assures completion of ... and experience on QA Operations, procedures and CGMP issues. * Provides Quality Assurance related support to all GMP ...
+- StartwireL2, Sep 28
+
+FUJIFILM USA  – 
+Morrisville, NC, 27560
+... We are seeking a highly motivated individual to join us as a QA Validation Manager in our Contract Manufacturing site ... Represent QA Validation for internal and external audits and regulatory inspections Provide cross-functional support within ...
+- Lensa, Oct 06

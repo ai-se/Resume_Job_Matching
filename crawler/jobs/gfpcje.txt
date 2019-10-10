@@ -1,0 +1,43 @@
+Job Title = Engineer
+
+Experis is looking for experienced Engineers for Chemical Company in Pasadena, TX!
+**Contract Opportunity – Competitive Salary**
+This role is part of the Reliability Group supporting plant operation and reliability improvement efforts. Working in a team environment, it carries responsibility for implementing reliability best practices, developing and optimizing preventive maintenance tasks, and supporting maintenance activities. The position interacts with other technical groups on site (process engineering, maintenance, and capital project groups), corporate technical networks and peers, and vendors/suppliers as needed to resolve problems and improve plant reliability and performance. The position is located in the Bayport Industrial District in southeast Harris County adjacent to both La Porte and Pasadena, TX.
+
+Key Responsibilities:
+Monitor equipment performance and make improvement recommendations
+Apply data analysis techniques to develop engineering solutions to repetitive failures and other problems that adversely affect plant operations including capacity, quality, cost, safety, environmental, and regulatory compliance issues
+Consult with peers at the site and across the company
+Provide technical support/expertise within your discipline in the design and installation stages of projects for new assets and modification of existing assets to minimize life cycle cost and maximize asset availability
+Lead or participate in incident investigations and root cause analysis
+Systematically define, design, develop, monitor, and refine an asset maintenance plan that includes:
+o Value-added preventive maintenance tasks
+o Effective utilization of predictive and other non-destructive testing methodologies designed to identify and isolate inherent reliability problems
+Apply value analysis to repair/replace, repair/redesign and make/buy decisions
+Participate in interdisciplinary reliability improvement teams to guide efforts to ensure reliability and maintainability of equipment, processes, utilities, controls, and safety systems.
+Provide technical support within your discipline to production, maintenance, project, and process engineering groups
+
+Requirements:
+BS degree in Electrical Engineering with a minimum of 4 years relevant experience in the refining, petrochemical, chemical process, or power generation industries is preferred.
+Strong interpersonal leadership skills are critical due to the requirement for effective communication of complex issues across the organization as well as for mentoring and consensus building.
+The successful candidate must exhibit an understanding of business drivers, management of change requirements, reliability processes, and maintenance workflow.
+The individual must have or develop basic proficiency in the following areas:
+Interpretation and application of industry codes and standards (i.e. IEEE, ISA, NFPA, NEC)
+Process instrumentation and control valves
+Motors, motor controls, and drives
+Analyzers and sample systems
+PLC maintenance, troubleshooting, and programming
+Distributed control systems
+Project management
+Reliability Engineering concepts
+Reliability data analysis techniques
+Predictive and Preventive Maintenance concepts
+Basic knowledge of power distribution systems
+Basic knowledge of Safety Instrumented Systems (SIS) design and logic
+Ability to apply computer software tools (SAP, Microsoft Office, Meridium, CAD)
+The successful candidate must have strong commitment to safety
+
+
+
+Go to apply 
+

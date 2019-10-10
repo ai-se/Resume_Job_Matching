@@ -1,0 +1,272 @@
+
+Experience Summary (General)
+Following up the Pre-Construction Services Phase, and work closely with all project team members involving the design, constructability, cost estimate, and subcontracted work into a detailed Construction Schedule.
+Prepares and updates cash flow projections, combining the cash flow and earned value and track the real status of the progress and detects early cost deviations.
+Review and prepare independent cost estimates for subcontract change orders and review
+Contract documents and modifications to determine scope of work and equitable cost allowance of scope change.
+Prepare most of the construction management team’s monthly summary reports.
+Experience in Engineering, Procurement and Construction (EPC) project and coordinate procurement processes for Labor, material delivery, equipment, services, schedule construction, and drive completion to meet schedule and budget expectations.
+
+Experience Summary (Technical)
+Create and develop projects Schedule into P6 Master Schedule and reporting tools for the project’s life cycle. Update information into Master Schedule and perform the report updated and post the reports and schedule to the web portal for viewing for the management of the projects on monthly basic.
+Prepare Work Breakdown Structure WBS and logical sequence of activities for accomplishing project and establish the capital cost budget from the estimate in accordance with the project WBS.
+Review and analysis of the baseline schedule, and monthly update schedules, monitoring and evaluating the actual physical progress of the work to assure that the general contractor is performing the work in accordance with their schedule.
+Review, develop, analyze and updated details project schedule for logic, duration changes, milestone changes, etc.
+Review and develop detailed project schedule using specialized Critical Path Method CPM analysis and perform schedule variance analysis.
+Work closely with all engineering and construction issues and conflicts that impact the schedule and perform Time Impact Analysis (TIA) for delay analysis.
+Create recovery and mitigation schedule and perform “What-if” scenarios.
+
+Experience in USA:
+
+SIEMENS Mobility Inc.
+Scheduler Manager September 14, 2017 to present
+
+Siemens is a global technology for engineering excellence, innovation, quality, reliability and internationally for more than 165 years. The Company is organized in eight Divisions: Power and Gas, Power Generation Services, Energy Management, Building Technologies, Mobility, Digital Factory, Process Industries
+We are constantly developing new, intelligent mobility solutions that increase availability of infrastructure, optimize throughput and improve passenger experience. It’s in how we electrify, automate and digitalize infrastructure that we’re setting the benchmark for tomorrow’s mobility
+
+Key responsibilities include:
+•Concept for schedule management (e.g. structure, reporting, data integration...) in the respective project according the requirements.
+•Programming of schedules and integration of detailed schedules into the overall schedule including visualization of the critical path.
+•Determine and align relevant internal and external schedule interfaces and consider contractual requirements in the schedule.
+•Control of schedules, continuous control of schedule compliance, project progress and timely updating of schedules. Continuous data backup and archiving of schedules and related documents according to project requirements
+•Analysis of schedules (scenarios, critical path, buffers...).
+•Prepare and maintain detailed schedules including Engineering, Testing, Procurement, Manufacturing, and Filed Services phases for both Tender and Project planning purposes
+•Assist Project Managers with the variations/claims and justifying the slippage. Critical Path Analysis in addition to incorporation of scope changes and updates into the schedules on a Monthly basis.
+•Preparation of multiple layouts for each project using activity codes, and project codes and of weekly and monthly reports for the Project Engineers / Project Managers
+•Preparing Master schedule for all projects type (Supply, Prime and Small) to have the Baseline according to Earned Value Technique. Developing Executive Summary schedules for the Project Managers.
+•Provision of reports in order to support the project and functions in terms of schedule management.
+1.Enterprise Master Schedule Earned Value Report
+2.SPI Trends Analysis
+3.CPI Cost Performance Index
+
+ARCADIS U. S. Inc., March 9, 2015 to August 23, 2017
+Cost Controls Scheduler San Francesco, CA
+
+The Program & Construction Management (PM/CM) division had operated and works closely with under the ARCADIS Infrastructure and Environmental divisions to pursue and execute work.
+The ARCADIS U. S. Inc. has been selected by Pacific Gas & Electric (PG & E) to perform projects and construction management services for the implementation and to provide the overall coordination, planning and management necessary to control project cost, schedule and quality from the initial needs through project closeout.
+Projects: 1- The Topock Compressor Station is located in Needles, California.
+2- The Hinkley Compressor Station is located in Hinkley, California.
+RESPONSIBILITY
+To provide cost control, scheduling, and claims support for PG & E Chromium Program Management Office (PMO) capital projects. Duties include project cost control and monitoring, cost reporting, variance analysis, CPM schedule development, force account review and analysis, claims analysis, and change order tracking. To supporting Cost and Schedule Analyst(s) and assist Program Cost Control Manager.
+
+1. Responsible for maintaining consultant and contractual invoice control, including log and invoice review for accuracy; coordinate necessary approvals, maintains record of expenditures by contract, and monitor entry of data into financial system.
+2. Responsible for coordinating the processing of change orders and purchase requisitions including the assembly of supporting documentation, preparation of file maintenance and monitoring and tracking of approval process.
+3. Responsible for coordinating the processing of verifying payment request with processing of progress payment documents.
+4. Supports producing program monthly schedule updates and management reports to communicate effectively with executives, managers, contractors, and clients.
+5. Supports management, force account review and analysis, claims analysis, and change order
+tracking
+
+RESPONSIBILITY as a Scheduler:
+
+As of staff scheduler of a cost Controls Team, my responsibility to share in the develop program schedules for PG & E Capital Project for all types of construction, procurement, and sequences of work, alternative methods of construction mean and methods
+1-Adding the approved New Buys (NBs) in the monthly cycle MPS in Oracle
+Primavera P6.
+2-Update the approved SCOs in the monthly cycle MPS in Oracle Primavera P6
+3-Update P6 Data from Supplier Monthly Schedule Updates
+PARSONS - Parsons Government Services (PGS)
+
+Scheduler Lead/ EVM September 23, 2013 to January 23, 2015
+Se
+
+.
+FSD - Project Control Division (PCD)
+Location: Pentagon Renovation Program. Washington D.C.
+Parsons have been more than 10 years of onsite PM/CM support during all phases of renovation for diverse facility types
+At the project’s peak, Parsons’ onsite staff included more than 200 project managers, engineers, cost estimators, schedulers, and construction inspectors.
+Responsibilities are including:
+1.Prepares an integrated master schedule (IMS) for all ongoing
+Design/Build and or Design/ Bid/ Build projects.
+2.Supports the Project Controls Division (PCD) which provides a broad
+array of construction management services to the Pentagon Reservation and
+RRMC.
+3.Provide preliminary schedules for source selection and contract durations during acquisition phase. Provided scheduling support services during the strategic planning, mission analysis and project development phase.
+4.Integrate Master Schedules (IMS) of approx. 100 funded projects for
+Engineering Construction Management (ECM) across EAD, CMD, and PCD.
+5.Evaluation and analysis of building infrastructure requirements, to Include but are not limited to developing staff papers, (e.g. issue papers w/ report, options and recommendations), draft policies and procedures, SOWs, correspondence, tracking logs and spreadsheets. Efforts include evaluation and integration
+of system requirements, development of technical statements of work and technical requirements for studies and analysis.
+6.Supports PCD in the Performance Execution Metrics Reports and Schedule analysis and
+forecasting for in progress projects, required for the higher Management.
+7.Lead a team of Schedulers supporting a Design/Build and or Design/ Bid/ Build
+projects to Pentagon Renovation Program using Primavera P6 and MS Project.
+8.Developing Statement of Work (SOW): Assist Engineering Controls Management (ECM)
+Project Teams with the preparation of Statement of Work (SOW) to establish
+contractual
+submission timeline for initial schedules, baseline, and monthly reports.
+9.Prepares schedules for construction project, AE studies, or maintenance work once SOW requirements are defined, for used in determining period of performance (POP) that is then include in the solicitation; and for any contract
+change order.
+10.Developing level and baseline construction schedules and tracking actual work
+progress using Primavera P6 software.
+11.Reviews all schedule submission received from the contractors and provides recommendations and comments to the Contracting Officer Representative
+(COR) and Construction Manager for acceptance of each submission.
+12. Provide expertise in the areas of project controls, scheduling, and earned value
+management, and construction activity. Reviews the invoice requirements to
+ensure that they are accurate according to Budgeted Cost, Actual Cost, and
+Earned Value (calculated based on Physical Percent Complete Setting).
+13. Reviews change order request for impacts to the schedule.
+14. Develops, maintains and monitors Critical Path activities, provide
+Critical Path analysis and provides “alerts” on items impact schedule.
+15. Analyzes project planning and schedule update, as well as delays.
+16. T rack government and contractor delays, stated or implied, for schedule
+impacts and potential claim resolution.
+
+Louis Berger Group, Inc. For Washington Suburban Sanitary Commission WSSC
+Project Scheduler Specialist February 25, 2013 to June 28, 2013
+Location: Baltimore, MA
+
+WSSC is the 8th largest water and wastewater utility in the nation, with a network of
+more than 5,500 miles of freshwater pipeline and nearly 5,400 miles of sewer pipeline.
+The majority of Louis Berger Water Service LBWS’ new work is taking place in Baltimore and includes designing a water main, managing a sanitary sewer overflow Consent Decree Program and providing construction management services for the city.
+LBWS is also managing a sanitary sewer overflow consent decree program for Baltimore County.
+Working with LBWS to develop a P6 Master Schedule and Reporting tool for
+Consent Decree, in WSSC Laurel, Maryland. Primavera P6 Master Schedule
+Implementing various rehabilitation programs that will extend the useful life of
+the aging sewer system in multiple locations in Montgomery and Prince George’s Counties by renewing its sewer pipes.
+Responsibilities on this project includes to the P6 master schedule, providing schedule maintenance, predicting cash flow along the program’s lifecycles, producing monthly progress reports. Developed user manuals and direction for the step by step on Primavera P6 software. This project Involve a huge schedule structure with more than 11,000 activities.
+Infrastructure Systems Group (ISG) management in WSSC Laurel,
+Maryland for the following projects:
+a. Water Main and Sewer Relocation Unit team (40 projects).
+b. Water Analysis Unit (55 projects to renew the service life of water main).
+c. Water Rehabilitation Unit (190 projects for meter vault replacement).
+
+LBWS developed a web portal inside the WSSC firewall for the posting of all schedules and reports for viewing by the team. To do so we did the following steps:
+Prepare template with related definitions and logic/relationships for all tasks
+in the project life cycle.
+1. Create project codes and related Values in P6 Web, activity codes and load related information for the projects into the schedule.
+2. Budget and Cost Loaded data project by project.
+3. Assign baseline schedules for each project in the Master Schedule.
+4. Meet WSSC PMs to update each project and develop the status reports of Primavera P6 layouts and Graph/ Excel.
+5.Generate the required reports based on the update schedule.
+Some tasks to be update on monthly basis, the LBWS scheduler shall post the
+updated schedules and status reports to the WSSC web portal for viewing by Project Managers and Management Team.
+
+BC &I (Shaw Group Inc.)
+Scheduler December 1, 2012 to February 1, 2013
+Project: Rapid Repair Program City of New York, NY, USA.
+Project Controls Schedule for the NYC RRP project (Hurricane Sandy Recovery Program), which includes the following responsibilities:
+1. Initiate the Baseline Schedule by blocks/Zone level.
+2. Review and updated the three-Week Lock Ahead schedule daily.
+3. Report any major changes to the in progress and not yet start blocks.
+4. Coordinate with the Contractor Scheduler to review and revised any inconvenient data and to
+monitor the progress closely and to maintain accurate data input.
+5. Scope Updates/Review.
+6. Critical Issues.
+7. Attend daily meeting to discuss (Daily performance for active blocks,
+Availability of work Orders in Scheduled Blocks, and High priority status
+
+AECOM Canada, Ltd.
+Scheduler July 19, 2012 to October 26, 2012
+Simandou Iron Ore Project-Railroad.
+Location: Toronto, Canada
+
+The AECOM Simandou Project is comprised of two principle components:
+A 650 km-long Trans-Guinean railway to transport iron ore from the mine to the coast.
+Rio Tinto (RTIO) contracted the engineering services to Fluor as an EPCM contract with AECOM as a sub-consultant. AECOM is providing the engineering services for the rail and port components which are expected to account for half of the Project’s total cost.
+The Simandou Project will be the largest integrated iron ore mine and infrastructure Project ever developed in Africa.
+I work with AECOM Scheduling Team to Update a Master schedule of
+Deliverables and services which are include:
+1.Monthly Level Schedule Update: The Level 1, Level 2 and Level 3 Project Schedules will be updated and issued monthly, and impact of the changes for that reporting period.
+2. “3-week look-ahead schedule” will be reviewed in the Project Weekly Status meeting. And weekly progress summaries.
+3. Develop a Level 4 Schedule for the Simandou Project life cycles as follows:
+Stage 1 – Conceptual and Order of Magnitude,
+Stage 2 – Preliminary Engineering Assessment (PEA)
+Stage 3 – Derivable of Definitive Engineering (DE)
+Stage 4 – Derivable of Details Design (DD)
+Stage 5 – Construction (with testing and commissioning and 1st year Operation)
+
+EPC Consultants, Inc. San Francisco, CA for Bureau of Environmental Services
+Scheduler/ Cost Controls Engineer November 28, 2005 to May 23, 2012
+Location: City of Portland; Portland, Oregon.
+Willamette River Combined Sewer Overflows CSO Tunnel Program.
+
+1- The East Side CSO ESCSO Tunnel, Portland, OR, $450 million, 2005-2011
+The projects used Cost-Reimbursable-Fixed-Fee. This alternate contract method successfully eliminated all claims and disputes for both projects. The entire program was completed on-time and under-budget with no outstanding contractual issues and no claims.
+
+The project contains 6 miles of 22-ft diameter sewage conveyance/storage tunnel that will collect and intercept overflows from existing combined sewers and carry sewage and storm water to Swan Island Pump, and 6,000 linear feet of small diameter tunnels and gravity open-cut pipeline. The Eastside CSO tunnel constructed 85 to 165 feet below ground and 7 separate large shafts located along the alignment to very difficult connections to live sewers.
+
+2- Swan Island Pump Station Phase 2 $9 million, 2009-2011
+Project Estimator/Project Controls Scheduler: Second phase of construction for the 210 MGD underground Swan Island Pump Station installing 3 large pumps, motors, VFDs, and the associated piping, and mechanical and electrical equipment necessary to complete the pump station.
+
+3- The Portsmouth Force Main project is the last leg of the CSO Program and will convey up to 120 mgd of combined sewage through one 66-inch diameter force main. Beginning at the Swan Island Combined Sewer Overflow Pump Station, the Portsmouth Force Main Segment 1 and 2 extends 11000 lf of micro-tunneled pipeline to the Columbia Blvd Wastewater Treatment Plant.
+
+All of these contracts have had schedule issues and claims related to time and extended overhead. Responsibilities include Preparation the estimating for the changes on the subcontracts on the ESCSO and attend and participate in all of our negotiations for the Pump Station.
+Responsibilities include review and analysis of the baseline schedule, as built and monthly update schedules, monitoring and evaluating physical progress to assure that the general contractor is performing the work in accordance with its schedule. Review the project schedule each month for the ESCSO. The project has had numerous schedule evaluations to adjust for seasonal weather issues and major equipment deliveries and such. The consequence is that the team has managed the project to meet the contract time milestones successfully.
+Prepare the monthly summary report, which includes the updated schedule, summary of construction, city forces, progress photos, schedule issues, cash flow, cost event summary and contingency expenditures against the cost to date.
+In addition, the responsibility of reviewing subcontract change orders, and provides independent projection comparison of the schedule estimate at completion to the general contractors. Several of these changes required schedule analyses of the subcontract durations.
+Utilize report and preparation of charts & graphs to support and present analyses for project controls and evaluation.
+
+Experience in Saudi Aribia,
+
+Scheduler/ Cost Controls Engineer
+M & M Company Ltd. April 2002 to July, 2005
+Location: Riyadh, Saudi Arabia
+Al-BILAD compound project which consists of site development/utilities infrastructure and
+construction of 34 villas at JUBAIL Industrial City of Royal Commission for JUBAIL and YANBU.
+Responsibilities of Scheduler engineer and cost control to producing various reports, creating, integrating and maintaining schedules by Primavera P3 and Prepare cost estimate.
+
+Senior Lead Engineer
+El-SEIF Engineering Contracting Est., Riyadh, KSA 2000 to 2001
+
+Kingdom Tower Project, Riyadh
+Responsibilities as the Senior Lead Engineer for Levels 1, 2, 3 and 4 of the East Podium included following up all structural, architectural and finishing works to assure that work progress was completed in accordance with the CPM master schedule. Notify the project manager of any issues/obstacles revealing a potential work delay to assure schedule mitigation, complete with a sample mock-up. Reviewed and studied all shop drawing/details and responsibility for inspection, RFIs and coordination with QA/QC consultants. The Kingdom Tower Project was a $1B multistoried structure managed by Bechtel Company, USA and designed by Ellerbe Becket, the Netherland.
+
+Project Controls Assistant Manager August 1998 to October 1999
+National Telecommunication Co. Ltd., Riyadh, Saudi Arabia
+Main Contractor: AT & T - Lucent Technologies (LTII), USA.
+ASB-TEP6-TEN- SC-386 Telephone System Project- Saudi Telecommunication Company STC.
+As Project Controls Deputy Manager, responsibilities included the direct supervision of the technical staff in handling planning and scheduling (Primavera Project Planner P3), pricing and budgeting section, cost proposals section, production monitoring section, and the document control section. The project consisted of the completion of a section of a contract installing a new telephone system in Saudi Arabia linking Makah, Medina, Hail, Jeddah and Riyadh with laying the cables for the new System out Site Plant (OSP) being the main task.
+As Regional Construction Manager on the $500M project, responsibilities included communication with client, reporting to operation manager & project control center, providing information & support required to coordinate with government departments, defining work requirements and assuring that all work was completed in conformance with project specifications as well as with the standards of the local agencies. Responsibilities also, include organizing test performed by the quality control testing laboratories, follow up work orders/letters of intent, pre-construction surveying & route layout for each work order, submitting for new permits from local municipalities, test pits, site diary and flimsy, red line drawings and incorporation into the PAT binders, and implementation of safety procedures.
+
+12926 SE 156th Ave.
+Happy Valley, 97086
+Mobile : 503-***-****
+E-mail: adajc9@r.postjobfree.com
+
+Education
+Bachelor of Science in Civil Engineering, March 1978
+Aleppo University
+
+Courses
+- Oracle Primavera P6 v.16
+- Excel, Word, MS Project 2010
+- e-Builder.
+- Auto-desk Construct-Ware.
+- TILOS (Linear -Project),
+
+Year of Experience
+I have a 30 year’s civil work experience of project management in Planning, scheduling and budgeting and cash flow analysis, delay analysis, recovery schedule and materials procurement schedule.
+
+Work Experience with:
+- Siemens Mobility, for MAS Electric, King County, NYC Transit, SANDAG, MRS, and Santa Clara VTA, …
+- ARCADIS U.S. Inc., for PG & E (Chromium Program Management Office).
+- Parsons Government Services (PGS) for Pentagon Renovation Program to Integrate Master Schedules.
+- Louis Berger Group (LBG) for WSSC in Infrastructure Master Schedule.
+- CB & I (Shaw Group) in NYC RRP.
+- AECOM in Transportation Railway infrastructure.
+- City of Portland in CSO Tunnel Program.
+-Lucent Technologies (LTII) in telecom infrastructure OSP.
+-Royal Commission for JUBAIL Saudi Arabia in site development and utilities Infrastructure.
+-Hyundai Engineering & Construction Co.
+Related Experience:
+
+Over 10 years of experience in the areas of the Scheduling and Planning, claims analysis, and project management and controls.
+
+Scheduling Experience:
+
+Initiate, integrating and maintaining CPM schedules by Primavera P6 v8.1 with Breakdown Structure (WBS) for assigned projects, and provide various report through software tools.
+
+Ability to analyze and report negative float paths by performing critical path reviews and creating recovery schedule as required from management staff.
+
+Understanding of effective project control programs, including cost control and contract administration.
+Related Experience:
+project management and controls. Over 12 years of experience in the areas of the Scheduling and Planning, claims analysis, and
+
+Scheduling Experience:
+
+Initiate, integrating and maintaining CPM schedules by Primavera P6 v16.1
+with Breakdown Structure (WBS) for assigned projects and provide various report through software tools.
+
+Ability to analyze and report negative float paths by performing critical path reviews and creating recovery schedule as required from management staff.
+
+Understanding of effective project control programs, including cost control and contract administration.
+
+Contact this candidate

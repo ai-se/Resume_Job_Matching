@@ -1,0 +1,83 @@
+
+Pallab Kishore Bera
+MCA,B.Sc(Hons)
+H.No-*, *th Cross, Hemanth Nagar,Marathahalli,Bangalore- 560037
+adaie4@r.postjobfree.com +91-801*******
+
+OBJECTIVE EDUCATION
+Qualification
+Year
+Board/University
+Percentage
+Secondary
+2009
+WB Board
+83.4
+Higher-Secondary
+2011
+WB Board
+84.3
+Graduation
+2014
+Burdwan University
+58.2
+MCA
+2018
+MAKAUT(WBUT)
+79.6
+
+CAPABILITIES & SKILLS:
+
+Java & Automation:
+Good understanding and experience in OOPS principles - inheritance, encapsulation, polymorphism, and Core Java principles - collections, multithreading, synchronization, exception handling.
+Automating Web Application Testing using Selenium WebDriver .
+
+Python:
+Have good understanding in python programming language including numpy,scipy matplotlib and various library.
+Worked in opencv(cv2) project and different machine learning project using algorithm like regression,support vector machine, naïve bayes, decision trees etc.
+
+Database:
+Experienced in working with relational databases, such as Oracle, SQL Server, PostgreSQL, My SQL.
+Experience in non-relational Database(NoSQL) Design, Development using MongoDB.
+Manipulated data using CRUD (create, read, update and delete) operations of MongoDB database management system and handled database access and data transmission based on RESTful web service
+Experienced in using the Git. Hands-on with the GitLab.
+
+STRENGTHS
+Hardworking, dedicated to work and quick learner.
+Co-operative and Optimistic.
+Flexible and adaptable to new working environment.
+
+INTERESTS AND HOBBIESS
+Playing Chess.
+Painting and listening music.
+
+PERSONAL DETAILS
+Date of Birth :- 21/08/1993
+Nationality:- Indian
+Languages Known :- English, Bengali, Hindi.
+
+DECLARATION
+I hereby declare that the above mentioned details are true to the best of my knowledge and belief.
+
+Place: Bangalore
+Date: September 29,2019
+
+Highly focused and Self-motivated individual, having excellent analytical and problem-solving skills. Have worked on several Java projects and Python Data Science projects using various Machine Learning algorithms. Currently improving my skills in predictive modeling and broader AI
+PROJECT UNDERTAKEN
+Project 1
+Facial Recognition System (Jan 2018 – May 2018)
+Ardent Computech Pvt Ltd.
+Technology Used:- Supervised machine Learning,Python, Opencv, cnn, tkinter
+Description:- A face recognition system that can detect human face and some emotions.
+
+Project 2
+Mining Twitter Data and Performing Sentiment Analysis (Feb 2018 – Mar 2018)
+Ardent Computech Pvt Ltd.
+Technology Used:- Python, Azure ML
+
+Project 3
+Data Security in Distributed Database (Nov 2017 – Jan 2018)
+Heritage Institute of Technology
+Technology Used:- HTML, PHP & MySQL
+
+Contact this candidate

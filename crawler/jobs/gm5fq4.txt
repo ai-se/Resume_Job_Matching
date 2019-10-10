@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Machine operators will be responsible for entire process of completing work orders. From interpreting customer color codes, setting up saws, reading tape measures and operating saw equipment. They will also be responsible for pulling their parts from the warehouse and placing finished parts in the warehouse.
 

@@ -1,0 +1,59 @@
+Job Title = Engineer
+
+Engineer in Springfield, MO
+
+AMRI provides global contract research and manufacturingservices to the pharmaceutical and biotechnology industries.
+
+The Engineer is an integral part ofthe AMRI team, contributing to our success by overseeing and managing theprocess control network operations in a cGMP environment, effectivelycontrolling the chemical processes at the site, and assuring compliance withall federal, state and local regulations.In addition, develop and implement new control systems (software andhardware) for new projects and improvements.
+
+Join our talented workforce, where a commitment to excellenceand a customer focused attitude is everything. We pursue excellence because ourwork has the power to improve patients lives with the pharmaceuticals wedevelop and manufacture.
+
+Inthis role, you will:
+
+Function as system administrator for the process control network ensuringcompliance with cGMP regulations through integrity, security, training,maintenance, archiving, and upgrades.
+
+Evaluate, model, and perform needed process design calculationsfor new processes to the site including; mass and energy balances, cycle times,heat transfer calculations and scale up considerations.
+
+Seek approval for suggestedchange(s), modify PLC software after approved, modify existing Graphical UserInterface (GUI), validate change, and train all necessary operators.
+
+Supervise and oversee theinstallation of automation projects.
+
+Integrate automation intochemical processes to optimize financial performance.
+
+Develop PLC and Graphical UserInterface (GUI) software for projects.
+
+Maintain and enforce PLC, PC, andGUI standards for the process control network.
+
+Troubleshoot the process controlnetwork software, hardware, and field instrumentation.
+
+Perform and document preventativemaintenance for the control system software and hardware. Educatemaintenance on preventive maintenance practices as they relate to testing productionvessels.
+
+Monitor, test, and install (wherejustifiable) new developments in the automation field for new or existingprocesses.
+
+Author or review instructions(batch sheets, SOP s) as necessary to ensure safe operations while followingManagement of Change protocols.
+
+Support Continuous Improvementactivities at the site.
+
+Use; Rockwell RSLogix5,RSLogix500, RSLogix5000 Software, Rockwell FactoryTalk View and Red LionSoftware, Rockwell Panelview Builder Software, Rockwell RSSQL and RockwellRSView32
+
+Required
+
+BS in Engineering
+Minimum of 5 years experience or training in FDA, EPA, and OSHA regulated chemicals manufacturing, or the equivalent combination of education and experience.
+
+Preferred
+
+Chemical Engineering Degree
+Ability to use CAD; however, aptitude and willingness to be trained in CAD based design development is essential.
+Familiarity with GMPs, process validation, environmental, health and safety standards.
+Ability to install, program, and troubleshoot PLC s.
+Ability to program and design graphical user interfaces.
+Ability to interface typical process instrumentation (such as temperature transmitters, pressure transmitters, level indicators, etc.) with the process control network.
+
+All interested applicants must apply online. AMRI is an Equal Opportunity Employer, we value diversity and inclusiveness. Minorities/females/veterans/individuals with disabilities/sexual orientation/gender identity are encouraged to apply.
+
+Shift:
+
+
+Go to apply 
+

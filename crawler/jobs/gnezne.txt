@@ -1,0 +1,44 @@
+Job Title = Full Stack Engineer
+
+Who We Are
+Empirix is a leading provider of customer-centric business solutions. We provide a unified view of end-to-end user behavior and communications across networks. Service providers and enterprises worldwide rely on Empirix to accelerate new revenue, while optimizing operational costs, user experience, and customer loyalty. Our innovative solutions portfolio delivers business analytics, proactive testing, and monitoring to transform customer, network, and service behaviors into real-time actionable intelligence.
+The Role
+The Full Stack Software Engineer is a key position where you will be part of a small, but growing team having a significant impact on our culture and direction of our technology offerings. Here at Empirix, we value code quality, a passion and curiosity for coding and technology, and expect our engineers to take ownership and responsibility for everything we deliver.
+Our solutions comprise of software components currently written with C++,Java, .NET, AngularJS, Javascript, HTML5, and CSS and hosted in private cloud or on premise. We also utizlize MS SQL data stores and evaluating NoSQL DB
+
+We have a number of internal projects that we support for the core business, but our primary product is Hammer that generates about 40 million phone calls per year for performance testing and monitoring infrastructure. Our industry demands quality and accountability and we expect the same of our team members.
+Other responsibilities include:
+Develop and enhance our Cloud Platform for quality, robustness, security, and scale.
+Participate in all aspects of product development from feature definition and estimation, to architecture, implementation, documentation, testing, deployment, measurement, and refinement
+Design and develop our next generation line of products by taking collaborative ownership of front-end components and style implementation, as well as back-end component designs, implementation, deployment, and performance monitoring
+Required Skills:
+5+ years of relevant work experience
+Strong knowledge of Java, C++ and Ruby Javascript (Node.js) RESTful APIs (consuming or developing) NoSQL databases (Redis, ElasticSearch, DynamoDb, MongoDb, etc) SQL databases (mySQL, Postgres, etc)
+Linux & Windows experience
+Telecom Experience
+Team player who is comfortable working in a virtual environment
+Motivated self-starter
+Work ethic a must
+Fluent in English
+Bonus if you have:
+Amazon AWS experience (EC2, Lambda, CloudFormation, DynamoDb Route53, etc)
+Kubernetes
+Event-driven architectures or distributed systems
+Machine learning
+CSS experience
+HTML experience
+React Native / iOS / Android development
+
+Be Prepared to show off:
+
+Your programming skills
+Your previous projects
+Your personal homepage
+Your Stack Overflow account (if any)
+Your open source contributions (if any)
+Empirix does not accept/pay fees for unsolicited resumes from third party agencies/vendors.
+As part of our dedication to the diversity of our workforce, Empirix is committed to Equal Employment Opportunity without regard for race, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity or religion.
+
+
+Go to apply 
+

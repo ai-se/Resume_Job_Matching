@@ -1,0 +1,175 @@
+
+Chaitanya Gollapally Email: adaibv@r.postjobfree.com
+Senior Quality Assurance Analyst Mobile: 618-***-****
+
+EDUCATION
+
+Master’s in Computer Applications
+
+PROFESSIONAL SUMMARY
+
+** **** ***** ** *T experience in analysis, testing and implementation of applications with Manual and Automation of Web and Client/Server Applications
+Proficient in analyzing the Business Requirements, System Requirement Specifications, Functional Requirement specification, Design Documents to formulate Test Plans, Test Strategies, and Test Cases.
+Experience in Full life cycle of software projects including system analysis, design, development, testing, implementation and user training.
+Experience in various web-based, client-server and distributed multi-tier applications deployed on multiple platforms
+Experience in conducting Integration, System, Functional, Regression, GUI, Stress, Performance and UAT Testing.
+Experienced in Test Script language (TSL) to automate the testing
+Proficient in manual testing and automated testing in Mercury Interactive Tools – QTP, Selenium, Test Director and Quality Center.
+Experience in performing back-end testing
+Good communication and inter-personal skills
+Accustomed to work in a team environment with tight schedules and capable of working efficiently under pressure, manage multiple project and cross train sub-ordinates in other Functional areas
+Quick learner and ability to work independently and as well with team
+
+TECHNICAL SKILLS
+
+Testing Tools
+QTP, Test Director, Quality Center, Rational Robot, Bugzilla, Clear Case, Clear Quest, SOAP UI, JIRA, Selenium
+Languages
+C, C++, Java, VB Script, VBA, XML
+Front End
+Visual Basic, HTML
+RDBMS
+MS SQL 2000/70, MS ACCESS, Oracle, Sybase, PL/SQL
+Operating System
+Windows, UNIX, MS-DOS
+Middleware
+TIBCO, MQ, Documentum Message Broker
+COTS
+Siebel, Documentum, MS SharePoint
+S/W Configuration Mngt. Tools
+VSS (Visual Source safe), Rational Clear Case, Clear Quest
+Networking Concepts
+TCP/IP, FTP, Telnet
+Microsoft Suite
+MS Word, MS Excel, MS Visio, Powerpoint, Communicator
+
+PROFESSIONAL EXPERIENCE:
+
+Department of Sanitation, New York, NY Sr. QA Analyst
+SMART Jan’ 18 – Present
+
+Daily support on application issues after go live
+Coordinating with Application development, backend development team, and users
+Fix deployments and version controlling on different environments
+Prioritizing the workload and fix deployments to production
+Thoroughly analysis of issues root cause and assign it to the appropriate group
+Triaging the defects raised by users
+Had Extensive communication with Developers, BA, PM and other QA testers
+Performed Smoke testing, integration testing, regression testing & Database testing
+Extensive testing of web services using soap UI and SSRS Reports
+
+Environment: Angular JS, MongoDB, Rancher, DockerXML, JSON, Bit bucket, SSRS Reports,
+SQL, Jira, Confluence.
+
+DOITT, New York, NY Technical QA Specialist
+Nov’ 16 - Nov’ 17
+311 P2V (311 Hardware Refresh): Move 3-1-1 Infrastructure to supported Oracle Hardware – the Oracle hardware that the 3-1-1 environments are hosted on are both End of Life and End of Premium Support life.
+
+• Verify all the integration points for every environment moved to virtual.
+• Execute regression scenarios once integration points are up
+• Troubleshoot the issues using Soup UI
+• Communicated the issue to appropriate team
+• Attended daily meetings to report the issues and provide the possible solution
+• Used ALM to track the test execution and for defect tracking
+• Had Extensive communication with Developers, BA, PM and other QA testers
+• Performed Smoke testing, integration testing, regression testing & Database testing
+
+Environment: Seibel CRM, ALM 12.5, Java, Team Site Content Management, Interwoven, WebLogic, GIS, JSP, MS Office, XML, SOA, SOAP, JDBC, Unix, IBM MQ series, Agile, Web Services, TOAD, SQL Developer
+
+Department of Sanitation, New York, NY Sr. QA Analyst
+Nov’ 14 – Nov’ 16
+• Analyzed the Functional Requirement Document (FRD), Design Document, Wire-frames, and Use Case, and developed necessary testing and artifacts.
+• Performed automation Smoke testing, Functional Testing, and End to End Regression testing on every release and logged valid defects per request
+• Logged defect reporting and tracking using Jira
+• Participated in scrum meeting, QA Demo, Retrospective meeting on every Sprint
+• Had Extensive communication with Developers, BA, PM and other QA testers
+• Performed Smoke testing, Functional testing, User Interface (UI), End to End, system testing, integration testing, Regression testing, and User Acceptance Testing, Sanity, & Database testing.
+• Performed Backend/database testing by developing SQL queries and validating data integrity using MySQL.
+• Use of SOAP UI for web services
+• Participated in process improvement between QA and Development teams
+• Participated in daily status meetings, and conducted walk through for team members
+• Strong familiarity with IPhone and android operating systems and applications
+• Provided updates released biweekly to consumer base.
+• Triaged mobile device applications issues.
+• Created Test data on Mongo DB with JSON format.
+• Created smoke and regression scripts using Selenium.
+• Developed the Test Automation Framework using Selenium for the automation
+Testing of the application.
+• Developed Automation test scripts using Selenium, TestNG and Java.
+• Debugged the automation test failures and opened defects to track the issues.
+
+Environment: Selenium, TestNG, Java, Ready API/SOAP UI, REST, SOAP, Java, Oracle, MongoDB, Rancher, Docker, Linux, XML, JSON, Angular JS, Bitbucket, Maven, Extent Reports, SSRS Reports, SQL, Jira, Confluence.
+
+Accenture Sr. QA Analyst
+DOITT (311) Dec’13 – Jun’14
+DOITT (MOCS – APT) Jan’12 – Dec’13
+DOITT (Enterprise Correspondence) Jun ’11- Dec’11
+DCLA (Phase III) Feb’11 to June’11
+
+Lead the testing services for the Home Page Redesign module of "311 Online" web based application.
+Managed day to day QA activities for team of 4
+Utilized Quality Center for test planning, execution and defect tracking
+Analyze existing Quality Assurance procedures and recommend new procedures based on the analysis.
+Developing the Test Plan and Test Cases for System Testing by analyzing System Requirement document, Data Dictionary and Business Requirement Document.
+Design Analysis and review meetings with Design team
+Ensure that software products are appropriately quality assurance tested
+Created Test results for each testing cycle and provided a test summary to all stake holders within the team and management
+Responsible for Smoke, Functional, Integration, Cross Browser and Regression Testing of 311 Online web application on different environments.
+Prioritize and execute the manual Test scripts based on the projected metrics and project deadlines in HP Quality Center.
+Work closely with Development Team to review test defects identified during validation and verify that all defects are fixed in the incremental build.
+Test interfaces and data mapping of various external data source systems (FISA, OASIS and LAW) using TOAD and SOAP UI for system integrations update or changes
+Perform system testing for 311 online web application on various Mobile sets with different Wireless providers.
+Perform Database validation using TOAD by querying Oracle Database for data correction, completeness and transformation.
+Test web services based functionality using SOAP UI
+Load and maintain test cases in Quality Center
+Assist the support team in deployment
+Field visits to different city agencies
+Providing support and fix application issues
+Daily status report with QA matrix
+Independently organized and co-coordinated UAT testing, designing and developing UAT test plans, test scenarios and test cases.
+Environment: Documentum 6.5, Documentum 6.7, Siebel 7.8, Siebel Tools, Siebel Call Center, Informatica Power Center, MS Visio, Jasper, Mercury Quality Center 11.0, Java, Team Site Content Management, Interwoven, WebLogic, Seibel CRM, JSP, MS Office, XML, SOA, SOAP, JDBC, Unix, IBM MQ series, Agile, Web Services, TOAD, SQL Developer
+
+IBM Siebel QA
+NYCHA (NICE) Sep’10 to Jan’ 11
+
+Designed & developed Test cases using the solution design documents, business rules and their state models.
+Functional testing of Siebel application as per business
+Trouble shooting issues encountered during testing
+Mentoring UAT team and trained them in Siebel Applications
+Conducted User Acceptance Testing at the client site and trained the users about the system.
+Collecting feedback from users and tracking them in clear quest
+Mapping test case ids with Defects and Requirements in Requirements tracking tool.
+Responsible for Seibel application testing and training.
+Environment: Siebel Public sector 8.2, Java, XML, SOAP, Oracle 11i, AS/400, Clear Quest 7.0, Share Point, UCM, and IFP.
+
+DOITT QA Analyst
+DCLA (Phase II) Feb’10 to Aug’10
+Participated in requirement review meetings
+Developed Test Plan, Test Scenario and Test Scripts
+Defined test scope for both functional and regression testing for every release
+Automated regression test cases of portal application using QTP
+Performed end to end testing from portal to Siebel
+Verification of Actuate reports.
+Verification of web service calls between systems.
+Performed end to end testing from application intake to payment request in Siebel
+Security testing (Tamper data).
+Verifying XML for new enhancements
+Environment: Win XP Pro, Siebel Partner Portal 8.0, J2EE, MQ-Series, Oracle, XML, QTP 10.0, Quality Center, Actuate Reports, Share Point, Caliber, Toad, Web services.
+
+Interactive Data Corp, NY QA Analyst
+Sigma IG, HY, Money Markets Aug'09-Feb’10
+
+Test Money Markets (Europe, US, Asia), Investment Grade(US) and High Yield(US) asset class of Sigma application
+Identify scenarios specific to IG or HY for the same functionality in Sigma
+Perform Bug verification in QA for bugs opened by users in UAT and follow up.
+Discuss with Business to identify any real-time scenarios available in Production but not testable in QA and work with them to test in Prod like environment.
+Plan testing around Call, Put sink schedules and Call Announcements
+Release 3PM, 4PM closing prices
+Schedule conference calls with Developers, Business users to analyze requirements, discuss release timelines and defects
+Monitoring the components of the application in QA to verify memory outages, errors or exceptions in the log.
+Environment: Sybase, Bugzilla 4.0.5, Quality Center 11.0, Excel, Windows
+
+MBT, INDIA Technical Associate (Jan'06-Sep'07)
+Tata Consultancy Services, INDIA Assistant Systems Engineer (May'05-Jan'06)
+
+Contact this candidate

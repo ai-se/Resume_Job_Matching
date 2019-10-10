@@ -1,3 +1,4 @@
+Job Title = Sr. V&V Engineer for Products and Systems JN
 
 Description:
 Seeking a Senior Verification and Validation (V&V;) Engineer. The selected candidate will work as a V&V; Lead to coordinate all V&V; activities necessary to support the release of new and updated medical devices. Focus will be assessing and testing the requirements of electromechanical medical devices at the system level, with some knowledge of sub-system and software level testing preferred. Examples include ventilators, sleep therapy devices, oxygen concentrators, personal wellness devices, and the accessories necessary for proper functionality of these types of devicesJob duties include, but are not limited to:

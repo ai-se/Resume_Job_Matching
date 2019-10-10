@@ -1,0 +1,12 @@
+Job Title = Engineer
+
+Responsibilities:
+Testing, Hardening, Deployment, Patching of Linux servers, hypervisors, storage systems, firewalls and services (eg: DHCP, DNS, etc)
+Critical Design Review (Define Objectives, Technical Requirements, Security)
+Procurement (Technical Requirements, Scoring)
+Troubleshooting during crisis scenarios
+Security Compliance Audits
+
+
+Go to apply 
+

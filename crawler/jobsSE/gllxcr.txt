@@ -1,3 +1,4 @@
+Job Title = Software QA Engineer
 
 Software Guidance & Assistance, Inc., (SGA), is searching for an Software QA Engineer for a Contract assignment with one of our premier consumer services clients in Bellevue, WA. As an Engineer, should have ability to read and interpret technical languages (i.e JavaScript, C++, etc).
 

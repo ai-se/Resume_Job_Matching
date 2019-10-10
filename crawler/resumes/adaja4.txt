@@ -1,0 +1,168 @@
+
+David Povlak PMP
+Pleasant Hill, CA ***** adaja4@r.postjobfree.com 925-***-****(M)
+
+MuleSoft 02-19 through current
+Sr. Program Manager (Consultant to review PMO and Delivery organization)
+Consulting program manager brought in by executive leadership to conduct extensive review of existing PMO and delivery organization with possibility of re-building based on findings.
+
+·Conducted interviews of ELT, engineering org, delivery org, support org and key customers
+·Building a detailed assessment of positives, deltas and room for improvement
+·Program assessment of MuleSoft Government cloud application
+·Conducting a review of all existing suppliers and contractors and moving them to Salesforce accounting and aligning with new policies
+·Reviewing existing tools and processes for project management and delivery
+
+Restoration Hardware 10-17 through 01-19
+Portfolio Manager- Infrastructure and Applications
+Portfolio manager for all of the infrastructure and applications portfolios. Built and implemented IT PMO including tools and practices.
+
+·Managed all of the infrastructure and application portfolio
+·Built and lead infrastructure and application PMO
+·Agile Coach for all of infrastructure
+·Implemented project priority process and rankings
+·Develop life cycle management approach to smooth IT spending and avoid capital spikes
+·Designed and implemented new organizational design and workflow
+·Created initiative to determine total cost of IT per user to implement chargebacks to BU’s
+·Changed overall IT strategy on purchasing and licensing by working with vendors to consolidate applications and tools
+·Built and managed a team of 6 people
+
+Macy’s.com 07-16 through 10-17
+Program Manager
+Program Manager on the multiple site hosting and security programs deploying and implementing Agile practices and tools with a focusing on coaching and working with engineering teams.
+
+·Interfaced with Senior leadership to keep them aware of project status and blockers
+·Agile Coach for Info-Sec and infrastructure teams
+·Came into program and developed a tiger team team to identify project deltas based on outages and security issue and refocused priorities from expansion to security and hardening
+·Managed relationship between Macy’s.com development teams and external infrastructure support organization within Macy’s corporate
+·Developed and implemented program standards, communications and strategy to articulate when goals and milestones would be delivered
+·Developed and implemented new program and project methodologies (Hybrid agile/SaFe)
+
+Albertsons/Safeway 07-14 through 07-16
+Program Manager
+Program Manager on the Safeway and Albertsons merger. Lead on Network Integration, Pharmacy, PCI, Identity and Access Management Integration and IT Facilities Integration. Leadership team member of the PMO tools and delivery team
+
+·PCI Remediation program manager
+·Developed portfolio planning process for new IT infrastructure team
+·Built PMO for infrastructure uplift merger team
+·Built PMO for Pharmacy merger
+·Developed IT Shared Services program plan organization and structure
+·Turned around IT Facilities integration project and became full PM
+·Leadership team member for PMO and IMO teams to develop and implement standards
+·Project manager for data center integration between Albertsons and Safeway
+·Program manager for AIX new frame install and existing Frame uplift
+·Managed PMO and delivery teams of 20 people
+
+Chevron 01-11 through 06-14
+Program Manager
+Program manager on implementation of new life cycle management organization, hardware upgrade, and Windows 7 deployment for 100,000+ user base
+
+·Designed and implemented new IT Lifecycle Management organization to manage global IT change on an ongoing basis
+·Globally deployed Project Management centers of excellence
+·Developed new deployment model saving corporation $50mm over previous deployments
+·Implemented application life cycle management
+·Globally deployed Project Management centers of excellence
+·Led effort that built organizational capability for hardware deployment globally including forecasting tools, capital planning, and reduction of deployment time
+·Manage all aspects of desktop uplift program totaling $12m
+·Direct report to ELT on new endpoint delivery organization
+·Interface with Desktop team managing all aspects of support projects
+·Managed business process engineering and workflow design and implementation
+·Managed a PMO and delivery team of 35 people
+
+Blue Shield of California 09-08 through 11-10
+Enterprise Program Analyst/Program Manager
+Program manager on Shield Advance modernization program focusing on communications, process and organizational strategy, tool development and QA and operational readiness for external claims processing system Facets.
+
+·Program Manager for all QA, Testing and systems readiness portfolios
+·Worked with existing PMO team lead on creating systems PMO process and procedures
+·Responsible for gathering and building metrics for reporting to C level
+·Technical team Project Sever and planning expert
+·PMO tools Architect for technical teams needs
+
+Kaiser Permanente 09-07 through 09-08
+Portfolio Program Manager
+Co-lead Revenue Cycle Initiative focusing on communication planning, organizational strategy and creating the RCI PMO workflows for internal and external applications
+
+·Built and lead Revenue Cycle PMO
+·PMO Architect for technical and communications needs
+·Program Manager for all SCAL RCI programs and portfolios
+·Responsible for building communications plan and status reporting mechanism for Sr. Leadership including the CIO
+·Worked with overall PMO team lead on creating PMO process and procedures
+·Created the work flow process for the PMO
+·Program Manager for Project Server 2007 Implementation
+
+Chevron 06-06 through 09-07
+Program Manager
+Program manager working with the Directory Design group to help develop, refine, budget and communicate portfolio initiatives
+
+·Project Manager for basic RBAC implementation
+·Worked with internal product manager to define five year strategy for all access management and RBAC
+·Implemented workflow process for EDD portfolio manager to report status for upper management
+·Worked with team lead on issues related to staffing, budget, and planning
+·Revived the application server migration project to restart program and work with project stake holders to re-baseline deliverable dates, budget and scope
+·Member of the leadership team for directory design
+
+Kaiser Permanente 09-05 through 05-06
+Sr. Program Manager
+Program manager responsible for the remediation of all Windows NT and 2000 applications and hardware
+
+·Built NT remediation PMO team
+·Managed a team of 10 program, project managers as well as technical leads
+·As part of the senior management team responsible for presentations for executive management
+·Worked with program managers in managing all data and budget for program
+·Led Oracle 10g farm implementation and migration
+·Responsible for interfacing and escalation with senior management in the IT and application development organizations
+·Migrated an application portfolio of over 2000 applications
+
+Bare Escentuals 01-05 through 09-05
+Sr. Program Manager
+Program manager to plan expansion and growth of the organization from an IT perspective
+
+·Developed organizational strategy for IT
+·Program Manager for Desktop uplift, hardware refresh
+·Program Manager for server redesign and upgrade
+·Program Manager for VOIP implementation and network rebuild
+·Project Manager for Exchange 2003 rollout including Blackberry to 125 users
+·Project Manager for Data Center redesign and outsourcing
+·Initiated and Led Vendor Management, Contract Negotiation, Procurement meetings
+
+Charles Schwab, San Francisco 01-03 through 12-04
+Sr. Project Manager
+Project Manager for migrations of the Technology, Real Estate, Executive Strategy, and Enterprise Finance divisions to Windows XP from Windows NT and Windows 2000
+
+·Managed a staff of six
+·Worked close with business units and acted as a liaison to the Technical team
+·Worked with department leads on reconciling software inventory
+·Worked closely with Program Manager to communicate daily and weekly status of my groups
+
+Spherion (Genentech) South San Francisco, CA 8-01 through 12-02
+IT Project Manager
+Managed all support organization for Servers, Desktops, Messaging, and Networking
+
+·Managed a department of 50 with 7 direct reports
+·Macintosh OSX Rollout for 2000 users
+·Windows 2000/XP Project Manager including Lotus to Exchange Migration
+·Helped redefine corporate IT needs. Meet with department heads for technical needs analysis and requirements gathering
+
+Asera (Kleiner, Perkins portfolio company) Redwood Shores, CA 11-98 to 7-01
+Enterprise-Wide Analyst/Program Manager
+Manager of Sr. IT staff with responsibilities for architecture and future technology for all locations
+·Managed all IT project portfolios
+·Managed all IT facilities integration including MACS
+·Windows 2000/XP and Exchange 2000 Project Manager including Active Directory Architecture for the deployment of 5,000 plus users
+·WAN/LAN Project Manager Lead a project initiative to increase network capacity for users, including 25 international locations.
+·Developed plan to Help Desk and Outsource Email at a Cost Savings of over $2.5 million per year
+
+Kleiner, Perkins, Caulfield and Byers (Starr Technologies) 11-98 through 7-01
+Sr. Systems Engineer/Project Manger
+Senior member of the staff responsibilities included all aspects of information technology
+
+·Apple evangelist and product expert
+·Help develop Windows and Exchange Active Directory structure
+·Project Manager for migration Netscape mail to Exchange
+·Managed a staff of seven
+
+Education and Certifications
+University of California at Berkeley (attended) 1993 to1995
+PMP 2004
+
+Contact this candidate

@@ -1,0 +1,86 @@
+
+JOHN R. DOMINICS
+**-** ******* ******
+Maspeth, NY 11378
+Tel: 347-***-**** Email: adah4b@r.postjobfree.com
+OBJECTIVE
+Looking for a Position in Trade Support/Application Support in a company that provides an open environment with many opportunities for continuous growth.
+
+SKILLS
+Operating Systems: Windows 7/10 Windows Server, UNIX AIX,
+Software: Office 2010/2016, Outlook 2010/2016, Active Directory, CITRIX, JAVA, RSA, Putty.+
+Platforms Used: Windows Server, Unix-Aix, VMware
+Hardware: Complete PC builds, Software/hardware installs and Network cabling
+Administration: Server/Workstation/Laptops
+Market Data: Bloomberg, Broker TEC-Sync, Market Axxess, Yieldbook, Reuters, BGC Trader, HAVER, APEX, Blackrock Anser, ICAP, Garban, ETC, Tullet,, Credit Match,, BONDS PRO,, Espeed, Instinet, Autex, ION,, INTEX-CALC, Dealerweb, Tradeweb, GFI, FXALL THEICE,,NY Fix connectivity amongst many more
+
+WORK EXPERIENCE
+Nomura Securities International Inc. 07/09 - Present
+Trade Floor Support / Application Support
+Responsible for supporting a 450+ user Fixed Income + Equities Trading Floor that including Rates, Mortgages, Research, FX, Structured Products, Credit, Proprietary Trading and Operations
+Primary Support contact for FI Trading floor
+Provide support for a vast number of third party FI trading applications Market Axxess,
+Tradeweb, and Broker Tec.
+Provided support for market data applications such as Bloomberg
+Assisted in QA testing of the new software prior to being released in Production.
+Provide Application Support for all Fixed Income Traders
+including market data issues, Tibco issues for in-house feeds, and in-house Excel add-in
+issues.
+Fed Line Support Including quarterly Fed Line test and annual SIFMA tests.
+Work with database groups, server groups and developers to resolve application issues.
+Internal software Account Creation and Trade mappings for market data applications/accounts
+Respond to Traders request on issues with live application trading systems/connectivity issues.
+Worked on Windows 10 Migration
+Product knowledge of Equity and Deriv side of floor, including Risk and Trade
+
+CBS Television Distribution 06/07 – 07/09
+Systems Administrator
+Provide support for the Linux-based Avid I-News and AVID Newscutter XP and the Avid Unity digital video editing system for a nationally syndicated news magazine.
+Responsible for all aspects of server maintenance such as upgrades, backups, database cleanup.
+Responsible for the acquisition, conversion and ingest of externally acquired audio and video.
+Responsible for the maintenance of all newsroom, control room, editing and graphics client machines.
+Function as sole help-desk contact for a 120+ user environment, fielding all hardware and software related issues, and training new users.
+Setup install and configure Windows XP/Windows Server 2003/Outlook 2003.
+Manage phone switch and AVAYA voicemail system.
+
+The Depository Trust & Clearing Corporation (DTCC) 06/03 – 06/07
+PC Technical Analyst
+Provide accurate, timely solutions to end-user computer and network problems to ensure continuous end user productivity.
+Responsible for the daily operations of the PC/Workstation based LAN system software, hardware and peripheral.
+Perform general problem solving and assistance on software applications using basic troubleshooting and technical skills.
+
+JOHN R. DOMINICS PAGE 2
+
+Prudential Securities 12/96 - 11/02
+PC Technician Trading Floor/
+Identify and troubleshoot problems relating to hardware, software, and LAN/WAN connectivity problems for 600 Traders and Analysts.
+Dedicated support for Fixed Income Division, Municipal, Corporates, Government Bonds and Sales.
+Act as liaison between Managing Directors, Vice Presidents, Upper Management, Traders, System Engineers and Vendors.
+Responsible for the testing of Windows 2000 environment and managing software rollouts/OS upgrades.
+Support and upgrade workstations and upgrade market data applications including Bloomberg, Reuters, ILX, Instinet and Autex.
+Configured and installed NT 4.0 workstations to run off Novell and NT LAN, Perform basic Windows 2000/NT UNIX/AIX (CITRIX) administration.
+Manage group projects including new software rollouts and OS upgrades.
+Accomplishments
+Built ghost images of Dell GX1/GX110 workstations using ghost software for efficient installations
+Help Desk Technician – Team Leader
+Handled day-to-day operations of technical support center comprised of 8 agents supporting a multi-platform, multi-location infrastructure.
+Determined the call’s severity/priority and ensured that problems/requests were escalated to be resolved within the pre-established timeframes (Service Levels).
+Represented the customer to the support team and management relaying product and program feedback.
+Generated daily, weekly and monthly analyses of quantitative and qualitative data obtained from CCMIS and REMEDY to achieve team effectiveness and accomplishment of shared goals.
+Accomplishments
+Administered programs to establish call center metrics by reducing abandon rates, diminishing average speeds to answer, and reducing call queues to adhere to corporate business needs.
+
+Paine Webber (Consulting) & Lehman Brothers (Consulting) 05/94 – 12/96
+MIS – PC Help & Desk Sr. Global Systems PC Help Desk
+Provided prompt, courteous telephone support to customers on a variety of software applications and platforms as well as hardware products.
+Troubleshoot IBM RISC 6000 server problems by utilizing all necessary resources within the company to proactively resolve issues.
+Worked closely with vendors and internal groups to support and upgrade market data applications.
+Recorded the customer’s call information in a call tracking software application such as APRIORI.
+Provide technical support to resolve common user logon, hardware software application and printing problems using Windows NT, NW-admin, P-console and SMS.
+Served as a technical support advocate interacting with external vendors to resolve hardware outages.
+Assisted users on Windows 3.1 and NT 3.5.1 Workstation including map network drives.
+
+EDUCATION
+LaGuardia College – AAS – Data Processing/Operations
+
+Contact this candidate

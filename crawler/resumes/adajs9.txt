@@ -1,0 +1,90 @@
+
+Dominique Murrle
+917-***-**** adajs9@r.postjobfree.com
+
+Summary of qualifications
+Hands-on Technology Infrastructure Director responsible for the design, implementation, and monitoring of mission-critical systems and applications. Extensive experience in Systems and Network Administration with a primary focus on MS Windows Servers and VMware. High retention rate of employees by finding the right balance and building a great work environment.
+
+Superior ability to manage multiple projects simultaneously in deadline-driven environments.
+Proactive leader recognized for team-building skills and white gloves customer service.
+Long experience developing procedures, policies, executive briefings, and presentations.
+Effective communication and team management skills.
+
+Technical Skills
+Virtualization: Azure, VMware, Hyper-V, Disaster Recovery, Data Center Migrations.
+Platforms: Azure, Office 365, Windows Server 2016, 2012, Windows 10, 7, Ubuntu, CentOS.
+Security: Cisco ASA, SWG Trustwave, Checkpoint, Websense, SonicWall, ATT VPN, Cisco VPN, RSA Servers, e-Policy Orchestrator, Sophos, Trend Micro, Symantec Norton, Avast, WSUS, AD Group policies, MS Bitlocker, Ivanti Shavlik.
+Disaster Recovery: Replications, EMC Networker, Veeam, Symantec Backup Exec, CA Arc Serve, Symantec Ghost Solution Suite, Sysprep, Data Center Migration, Replications, Crashplan.
+Programming: Visual Studio, ASP, HTML, Scripting – Automation.
+Networking: SDWAN, Cisco, BGP, WAN, LAN, MPLS, Point to Point VPN tunnels.
+Storage: Dell VXrail, EMC VNXe, Data Domains, RAID, LUN, SSD.
+Others: MS SQL Server 2016, LANDesk 8.5, ZENworks, Nexthink
+
+Professional Experience
+Rolex Watch USA 10/2016 Present
+Head of IT Infrastructure and Operations (hands-on) – 500 users - 5 sites
+Executed a complete overhaul of the Rolex IT by re-architecting the legacy infrastructure. Re-organized a team of 12 Systems Engineers for project and operations. The changes solidified the team back together and increased user satisfaction. Initiated a training program to identify the skills gaps to cross-train the Engineers and brought professional certifications as part of everybody yearly objectives and development goal. Deployed Cisco Finesse Contact center with Colabrio Recording for IT to be able to establish full metrics and then extended the Contact center to the business side for our external facing customers. Leveraged a mix of in-house Engineers and consultants to accelerate the transformation.
+
+Maintained the Azure footprint infrastructure.
+Create plans and budget for the year.
+Review and engage vendors to accelerate projects completion.
+Run a cost-saving program to reduce recurring cost and saved $2 million on three years.
+Lead the team to consolidate five Datacenters to two by implementing an SDWAN and Hyper-Converged solution with Disaster Recovery.
+Successfully ran the initiative to upgrade our Active Directory from 2003 to 2016.
+Migrated the phone systems and contact centers from PRI to SIP / unified communication.
+Overhauled all the floor IDF’s closets for the 5 sites.
+Migrated the 500 video Cameras surveillance back end from Flexpod to hyperconverged.
+Replaced the legacy seven years old wireless with Guest self-provisioning and Cisco ISE.
+Organized to get our new Dallas building with the Datacenter online on schedule.
+Replaced all the Polycom video conferences with the All in One Cisco MX700/MX800 systems.
+Created, maintained, and organized the deployment of a Windows 10 LTSC Company build to 500 users.
+Deployed and supervised the maintenance of the ERP (Dynamics AX)
+Kroll Bond Ratings - SEC Regulated Entity 8/2011 10/2016
+Director, IT Infrastructure – 250 users – 3 sites
+
+Assist the CTO to oversee day-to-day operations for all the technology Including VMware, Servers, SQL Server 2014, EMC SAN, Data Domain, Networker, desktop support W7/W8.1/W10, IP telephony, hardware, and software support, leading the Office 365 and Azure migration.
+Hired and trained five additional team members to help support the growth from start-up to maturation, organized weekends and after-hours support, build up the infrastructure for the company.
+Designed and installed a Disaster Recovery site in Texas (different grid); Cisco ASA, RSA, Backup DC, file replication, and encryption at rest.
+Planned and executed multiple office moves and new offices installations from ground-up.
+Designed and maintained the VMware, vCenter / Networker infrastructure.
+Planned and implemented the backup strategy for the overall infrastructure.
+Implemented the monitoring and syslog for all the systems.
+Introduced and maintained the ticketing systems, change management, and documentation.
+Designed and deployed the call center to increase customer service satisfaction, ensure the best response time and best customer service during Day / Night and weekends.
+Reduced imaging time through development of universal imaging for the workstations and software packaging.
+Introduced GPO deployment for Bitlocker and TPM on all the laptops.
+Responsible for budget and procurement for software/hardware, reduced cost, and delivery time.
+Migrated more than 100 SQL Databases and DB replications to new servers.
+Passed successfully a random Microsoft license audit for the whole infrastructure.
+Deployed two EMC VNXe encrypted at rest with site to site replications for the end user files.
+Hired consultants to assist on specifics tasks.
+Introduced mandatory patching, and on premises antivirus central management.
+Visual studio programming for internal needs, audits, reviews, and security.
+Ubuntu and CentOS deployment and maintenance.
+
+Bunge, LTD 6/2004 - 8/2011
+Senior IT Analyst – 25’000 users.
+
+Oversaw infrastructure technology and facility-based systems, including server administration W2003 / W2008 R2, desktop support W7, hardware, and software support.
+Provided technical support for audio-visual equipment, telecommunication devices, and office security, including access cards.
+Handled procurement duties and provide technical support and routine maintenance for PCs, peripherals, systems, and networks.
+Assisted with implementations that range from stand-alone or departmental packages to major, multi-user systems.
+
+City of Geneva 1/2001 – 5/2004
+Systems Engineer – 5’000 users.
+Administered and supported a WAN/LAN with 2,200+ workstations located throughout the City of Geneva (Netware, Cisco, VoIP).
+Deployed ZENworks on 2,200+ heterogenic Microsoft Windows workstations.
+Packaged and deployed city’s anti-virus protection software.
+
+Intras health insurance 6/1999 – 12/2000
+Systems Administrator – 400 users.
+Administered, configured and troubleshot a WAN/LAN with 400+ workstations at 17 insurance agencies throughout the Country (interconnected with Windows NT 4.0 and Citrix Metaframe).
+
+Education/Certifications
+Master, Electrical Engineering / five-year degree.
+Bachelor, Analyst programmer, / two-year degree.
+Apprenticeship, Machinist / four-year degree.
+Microsoft Certified Professional MCSE, MCP, MCSA, MCITP, MCTS.
+Transcript ID: 903219 Password: 12345678
+
+Contact this candidate

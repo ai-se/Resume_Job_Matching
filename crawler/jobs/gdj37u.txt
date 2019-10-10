@@ -1,3 +1,4 @@
+Job Title = CNC Operator
 
 We are looking to hire a CNC Operator to join our team!
 You will be responsible for CNC equipment setup, operation and quality checking of your parts coming out of the machines. Knowledge of CAMWorks is a plus.

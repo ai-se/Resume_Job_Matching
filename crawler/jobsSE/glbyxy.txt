@@ -1,51 +1,51 @@
+Job Title = Cisco Or Ccna Or Avaya Or Voice Or Wan jobs in Raleigh, NC, 27606
 
-Title: Sr.
-Avaya Engineer Location: Parsippany NJ Duration: 24+ Months.
-Interview: Phone and F2F Abilities/Key Competencies/Skills a.
-Good oral and written communication skills.
-b.
-Ability to work long hours under pressure during system outages and implementations.
-c.
-Task Oriented individual with willingness to tackle issues.
-d.
-Team Player.
-e.
-Takes ownership of projects and completes them on time.
-f.
-Ability to handle multi-tasking and frequently changing priorities.
-Technical Skills: a.
-Technical expertise of telecommunications systems and management of complex telecommunications environments and infrastructures.
-b.
-Demonstrated technical and executable expertise with both legacy and emergent voice technologies in Enterprise and Contact Center environments.
-c.
-Extensive experience with diverse voice and call center technologies, such as but not limited to, TDM-SIP gateways, media servers, Cisco CUCM, Avaya Red and Blue systems, and TDM PBXs, voice mail, Network Region design, Carrier circuits, video conferencing systems, conference calling applications, and ancillary support systems such as e-911 and call accounting.
-d.
-Expert knowledge of Multi-Site configuration and hybrid design of enterprise IP and TDM environments.
-e.
-Expert knowledge of WAN/LAN technologies and H323 /SIP call routing technologies and protocols, including TCP/IP, routers, Clients, servers, switches, hubs, firewalls, DNS, DHCP, QoS and sub-netting.
-f.
-Demonstrated ability to perform complex problem isolation within Enterprise Contact Center and Voice environments including UCM, UCCE, Avaya Aura platform, and various Voice Gateways.
-g.
-Demonstrated ability to perform coordination and problem isolation with carriers.
-h.
-Solid understanding and experience utilizing SIP technology and interoperability.
-i.
-Experience with installation and support of international locations a plus.
-j.
-Demonstrated technical and executable expertise with multiple voice communications platforms, Avaya, AWS, Cisco, Oracle/ Acme, Genesys, NICE, and a fundamental understanding of cloud-based communications technologies.
-k.
-Knowledge of Multi-Site configuration and hybrid architecture of enterprise agent and non-agent recording methods is preferred.
-l.
-Direct, practical experience with voice biometrics/ analytics, WFM, Clients, and Call Recording.
-As well as extensive experience with various networking and troubleshooting tools, such as Wireshark, Netscout, Solarwinds, and PCAP analysis Experience/Certificates/Education Education: Bachelor''s degree in Engineering, Computer Science, Telecommunications or similar field and/or equivalent related work experience of at least 7+ years.
-3+ years in a contact center environment is a plus.
-Training: a.
-Oracle/ Acme Certification preferred.
-b.
-CCNA Voice and CCNA Collaboration preferred.
-c.
-SIP School and Advanced VoIP certifications a plus.
+Avaya Inc  – 
+Durham, NC
+... High level knowledge of LAN technologies (CCNA preferred) PMP (Project Management Professional) Certification required. ITIL® Foundation certification preferred Knowledge of Avaya Unified Communications and Contact Center solutions is considered a ...
+- Neuvoo, Oct 08
 
+TEKsystems  – 
+Durham, NC, 27703
+This team is looking for an SD-WAN engineer to work across multiple geographic regions supporting some of Cisco's newest ... vManage, Nexus switches, Catalyst family and Variants of Cisco UCS * CCNA certification or higher * Software experience, ...
+- Jobs2Careers, Oct 06
 
-Go to apply 
+TEKsystems  – 
+Durham, NC, 27701
+This team is looking for an SD-WAN engineer to work across multiple geographic regions supporting some of the newest ... vManage, Nexus switches, Catalyst family and Variants of Cisco UCS * CCNA certification or higher * Software experience, ...
+- Dice, Oct 08
 
+Cisco  – 
+RTP, NC
+... CCNA R&S or relevant experience + You have knowledge in (2) platform area specific to customer space and in (3) of the following and strong knowledge in all other areas: IP internetworking, LAN Switching, Routing, IP Telephony, CDN, Optical. WAN ...
+- DE Jobs, Sep 27
+
+TEKsystems  – 
+Durham, NC, 27701
+This team is looking for an SD-WAN engineer to work across multiple geographic regions supporting some of Cisco's newest ... vManage, Nexus switches, Catalyst family and Variants of Cisco UCS * CCNA certification or higher * Software experience, ...
+- Dice, Oct 04
+
+PriceSenz  – 
+Wake Forest, NC
+... • Experience with Cisco VoIP, Telepresence and Avaya VoIP systems. • Experience with use of Microsoft Office Excel, Word and SharePoint. • Valid Cisco CCENT, CICD or CCNA Voice or CCNA Collaboration certification. • ITIL 2011 certification
+- ZipRecruiter, Sep 23
+
+Verizon Wireless  – 
+Cary, NC, 27511
+... Major Responsibilities include: Provide Cisco UCC architectural & design oversight and life cycle engineering with the steady state Verizon team for a large integrated customer Cisco Voice & Data Networking infrastructure. Responsible for ...
+- Jobs2Careers, Oct 03
+
+Cisco  – 
+Durham, NC, 27709
+... including frequently extra activities supporting the migration from customer's third party solutions to Cisco's solutions. ...  years of experience in technical consulting or direct customer interfacing/engagement role + CCNA R&S/CCNP Highly desired. ...
+- Nexxt, Oct 05
+
+Cisco  – 
+Durham, NC, 27703
+Who We Are The Global Enterprise Segment (GES) of Cisco's Customer Experience (CX) organization is looking for a skilled ... telecommunications industry or min 7-10 years managing LAN and/or WAN network implementation projects and/or Collaboration ...
+- Jobs2Careers, Oct 09
+
+Avaya, Inc.  – 
+Durham, NC, 27701
+... * High level knowledge of LAN technologies (CCNA preferred) * PMP (Project Management Professional) Certification required. * ITIL® Foundation certification preferred * Knowledge of Avaya Unified Communications and Contact Center solutions is ...
+- StartwireL2, Sep 09

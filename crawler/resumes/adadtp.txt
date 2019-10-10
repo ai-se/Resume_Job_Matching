@@ -1,0 +1,156 @@
+
+CURRICULUM VITAE (CV)
+
+SUMMARY OF QUALIFICATIONS:
+
+Highly versatile skill in a diverse and fast working environment, with well-rounded experience in Procurement/Finance, Facilities/Project Management, Logistics, Sales, HR/Manpower Coordination, Customer Service, Executive Support, System Administration, Quality Assurance, and Contract/Account/Tender Administration.
+
+•Quality Assurance/Quality Control System Management and Administration in the Management of Punch Items/Snags/Defects for the whole Phase 1 of the Doha, Qatar Metro Rail Project ;
+•Monitoring and Achieving Key Performance Indicators’ (KPI) Metrics, Data and Trend Analysis (Graphical, Linear and Tabular Data Spread Sheet Presentations)
+•First-Level Costumer Service and Help Desk Support
+•Systematic procurement procedural processes that reduce redundancy, improve accuracy and efficiency, in the achievement of organizational objectives, in the overall coordination, purchasing and material handling highlighting cost saving strategies without sacrificing profitability.
+•Managed Database Systems – SnagR, Enterprise Resource Planning (ORACLE-ERP) and Construction CSSP (CHEOPS), CAFM (Computed Aided Facilities Management – Concept Evolution)
+•Facility Management Services and building maintenance ensuring minimal breakdown and routine inspection for preventive maintenance.
+•Focused and results-oriented in supporting complex, procurement deadline-driven sales operations; able to identify goals and priorities and resolve issues in initial stages.
+•Maintained on-time and punctual demanding logistical requirements and process to meet deadline driven client demands.
+•Management of tenders, contracts and accounts, financial accruals, documents and maintenance.
+•Implementation and Monitoring of Service Level Agreements (SLA).
+•Emphasis on the Safety, Health and Environment workmanship in the project site.
+•Proven ability to interact in a culture of different nationalities, and can easily adapt to any situation, identify needs of both clients and the company, thus, ensuring good client- company relations.
+•Human Resources administration, management and coordination
+•Emphasis on financial accountability and transparency on financial related tasks based on SOPs.
+•Well versed in Microsoft Office Applications such as EXCEL, WORD and POWERPOINT, Visio, Lotus Notes and Microsoft Outlook.
+
+A.ACADEMIC QUALIFICATIONS:
+
+BACHELOR’S DEGREE: Bachelor of Science in Commerce, Major in Marketing,
+POST GRADUATE STUDIES: 15 Units of Masters in Business Administration
+EARNED PROFESSIONAL EDUCATION and PRE-SCHOOL UNITS
+
+B.WORK EXPERIENCE
+
+QAQC SYSTEM ASSURANCE ADMINISTRATOR (Defect Management Software)
+COMPANY: MITSUBISHI HEAVY INDUSTRIES LTD.
+(Global Leader in the Construction, Delivery and Management of Metro Rails and Hi-Speed Trains)
+
+Period of Employment: December 2017 to August 2019
+Project Site: Doha Metro Rail Project Phase 1
+
+Duties and Responsibilities:
+•Working under the Quality Assurance and Quality Control Team as the Focal Point Person in the Management of the System Software and data base system applications and requirements of the whole Doha Metro Rail Project, Phase 1 in the management of punch items, snags and defects.
+•Operation and maintenance of the system during the Construction-Installation-Testing-Commissioning Phase and Defect Notification Period or Defect Liability Period of the Project.
+•Designed, developed, tested and integrated the concept and workflows of the Defect Liability System Platform/Dashboard along with the spreadsheet project template of the Defect Matrix List.
+•Formulated the Training/Induction Manual, Procedure and Workflows of the System making it as user-friendly as possible.
+•Lead the team of system users (consultant client users, Consortium Member Users, QAQC Inspectors and T&C Engineers) for the implementation of required system functionality.
+•Designed KPI dashboard highlighting KPI Metrics in the Defect Matrix as per train sub-system requirements.
+•Translates project user requirements into workable system workflow
+•Data Source Mapping consistently reflecting the KPI metrics in the dashboard.
+•Data Base extraction and Data Analysis of information details for graphical, tabular, linear presentations highlighting percentage status of Closed, Open and Issued Snags/Defects.
+•Consolidation and migration of existing punch list, NCR registers and the like into SnagR database as per metro rail delivery phase, train sub-systems, issue category, discipline, punch item category, status, and location and punch item owner.
+•Punctuality in fulfilling the uploading of drawings in the SnagR System and maintaining the defect registers
+•Extraction of Inspection Reports and Non-Conformance Reports in the Aconex System
+•Digitize and upload checklists/forms into SnagR
+•Compliance submission of Overall Punch Lists according to the requirements prior to approval and issuance of Handover Certificate and Take-Over Certificates.
+•Organized a Regular Schedule in submitting database reports, matrix and generate Issue Register, Inspections Register and T&C Punch List in daily/weekly basis
+•Complete synchronization and integration and set-up of the system for IOS and Android mobile devices
+•Implemented a series of SnagR System Induction and Demonstration Training to all users
+•Routine Maintenance of the SnagR System and Software until handover to owner
+•Analyze, Investigates and Troubleshoot technical issues related to system requirements and improvement of the functionality of the system to generate needed KPI dashboard.
+
+FACILITIES ADMINISTRATOR CUM PROCUREMENT/CONTRACTS
+COMPANY: MULTIPLEX SERVICES
+(One of the Global Leaders in the Construction and Facilities Services Industry)
+
+Period of Employment: March 2016 to December 2017
+Project Site: Al Bahr Towers (Abu Dhabi Investment Council), Abu Dhabi, United Arab Emirates
+
+Duties and Responsibilities:
+Serving as the backbone of all procurement, finance, document control, HR related services and Facilities Management functions assigned in Al Bahr Towers (Abu Dhabi Investment Council), specifically:
+•Liaison Coordinator in processing the admin requirements of the Facilities Services Team such as: Access and Gate Pass, Annual and Emergency Leaves, Flight Reservations, Passport Renewals, Staff uniforms and PPE, Timesheet and Payroll Management, ID and Visa processing and Medical Appointment, transport services, document control and filing, office sundries, HSE induction, scheduling of Meetings, MEP Tools and Equipment.
+•Assists, Maintains and facilitates Manpower Team database
+•Manpower on-boarding and off-boarding to other Project Sites.
+•Issue RFQs (Request for Quotation) and Request for Proposals as per Bill of Materials issued by client related to reactive installation works and for planned and routine preventive maintenance works.
+•Assist FM Engineer and FM Manager for various proposal activities related to commercial tenders in the preparation, abstract and content, required documentation until coordination of such tender and proposal.
+•Release POs and purchase required materials for MEP Maintenance as per approved list of suppliers.
+•Release POs for sustaining Capital Expenditure – CAPEX
+•Classified a Systematic Matrix of Purchase Orders in the PO Registry as per Mandatory Cost Codes: Variation or Extended Works (Materials with Mark-Up Costs), Ad-hoc, Establishment Costs and Contract Services.
+•Expedite Materials, Inventory and Maintenance of the Material Store Warehouse as per project needs and requirements.
+•Processing of Material Gate Pass entry into the project site as per client procedure.
+•Ensured and Monitored the Service Level Agreement (SLA) Contracts of specialists and contractors as per content and scope of work.
+•Organized the supplier lists for Mechanical, Electrical and Plumbing Materials.
+•Familiarity of INCOTERMs 2010
+•Operated and maintained the Procurement and Financial System in facilitating Purchase Orders (local or foreign) from its Creation, Approval, Release, Delivery, Payment, Invoicing and Closing.
+•Monitor Expiration of Commercial Trade Licenses of all Maintenance Specialists and Contractors for the project site
+•Record and Report Monthly Financial Statement and Financial Accruals against cost codes of the project operations.
+•Monitored and Maintained the Passing Rate of Key Performance Indicators (KPI) Metrics as per internal company standard and client requirements.
+•Developed and Implemented the Basic Handling Procedure of Petty Cash, accounts payables and receivables.
+•On time submission of Invoice payments, management fees and claims for/against the client.
+•Helpdesk support in the recording and monitoring of work orders/job cards in the Concept Evolution CAFM System.
+•Drafts proposals for Routine and Reactive Maintenance Works and Variations or Extended Works.
+•Submit Invoice to Client as per agreed contracts, management fees and works related to variations or extended works.
+•Maintain the Office Supplies of the Site Project Office.
+•Works hand in hand with the storekeeper in maintaining stock for the Material Requests and with the Facilities Coordinator for Authority to Work Permits and for work orders related to materials for its closing.
+•Mobilize the MEP Maintenance Team in close coordination and communication of all work orders raised that needs immediate action and purchase of materials as per samples and specific details of the needed material for repair, installation, servicing, maintenance, stock, replacement, replenishment.
+•Batching of supplier invoice for materials delivered by suppliers and services rendered by specialists forwarding it to Accounts Department for Payment.
+•Take and record minutes of Weekly Client-Project Meetings, Staff Meetings, Helpdesk and Customer Service Meetings, and Monthly Operational Meetings
+•Achieving a Zero Accident in the site area and work place.
+
+ACCOUNT/PROCUREMENT/LOGISTICS and TENDER ADMINISTRATOR
+COMPANY: MANNAI CORPORATION QSC - FACILITIES MANAGEMENT/OIL & GAS DEPT.
+
+The company is the exclusive dealer of GMC, Subaro, Cadillac and leader in providing Oil Products and Services back to back with Facility Management Services in the Oil and Gas Industry in Qatar
+
+Period of Employment: July 2011 up to December 31, 2015
+Project Site: Operations Head Office, Doha, Qatar
+
+Career Highlights and Responsibilities:
+•Managed a portfolio of Accounts and Services as detailed in the Agency/Service Agreements, Tenders between Global Accounts- Principal and the company being the exclusive agent in the delivery of Oil Products and Services to our clients in the Oil and Gas Industry.
+•Formulated and systematized the procedures in the Fabrication requests in procuring and buying materials needed to reduce redundancy to meet needs utmost priority and immediate action.
+•Negotiated and submitted proposals and offers on a regular basis as per required bid closing dates of Request for Quotations and tendering.
+•Coordination of manpower assignees to offshore sites throughout the duration of the assignment from on-boarding to off-boarding which includes access card processing, helicopter transport schedule as applicable, completion of required documentation, safety requirements, work certification and authorization, renewal of expired Certification, scheduling of required trainings and other related support inquiries.
+•Organized the portfolio of Accounts and Supplier lists for Fabrication and Direct Sales in the spreadsheet as per structural materials, lifting equipment, services and third party certifications and consumables, codes, job cards and material grades and specifications.
+•Ensured the functionality of the ORACLE ERP system in the issuance of Purchase Orders (local or foreign) from its Creation, Approval, Release, Delivery, Payment, Invoicing and Closing.
+•Expedited and coordinated the punctual shipping, gate pass requirements and delivery of materials off to our Oil and Gas Clients and updated regularly the inventory list of the materials that needs to be replenished, fabricated and manufactured.
+•Designed the contents of the Comparative Purchase Evaluation Analysis, Purchase Indent/Authorization Details and CAPEX forms and Purchase Orders in considering details for Freight Costs, DDP Charges, Taxes and Custom Clearances.
+•Liaising with the Logistics Department in the implementation of a strict compliance by the supplier on the lead time, provision of Test Certificates and meet delivery arrangements.
+•Established contacts and maintained approved good suppliers for basis of repeat orders.
+•Achieved Sales Targets integrated in the cold calling sales and telesales services related to Direct Sales.
+•Resolved clarifications, conflicts and issues at the initial stages of the offer before closing sales deal and purchase orders.
+•Execute purchase reports against offers under categories of Won, Lost, and Regret on a Monthly, Quarterly, and Yearly Basis.
+•Ageing of Orders that needs to be closed due to unresolved issues.
+
+CONFERENCE CENTER CUM BUILDING SERVICES COORDINATOR
+COMPANY: MANNAI CORPORATION QSC JOINT VENTURE
+TRANSFIELD MANNAI FACILITIES MANAGEMENT SERVICES (TMFMS)
+
+Period of Employment: September 2008 – June 2011
+Project Site: ExxonMobil, Al Wosail Tower, Doha, Qatar
+
+Career Highlights and Responsibilities:
+•Focal Point Person and Front Office Coordinator in managing customer service operations of the conference center at the Al Wosail Tower (Exxon Mobil Doha, Qatar Operations Office) from reservation, planning, preparations, implementation and evaluation. Coordinated scheduling of senior management meetings, departmental activities and training, and other business related functions at the conference center which include 7 main conference rooms and 10 meeting rooms.
+•Upgrading and maintenance of the SCALA audio visual display signage of the Building according to the client's preference of displayed announcements such as Training, Special Events and Programs, Safety Announcement, Meeting Schedule, TV programs and current projects,success stories, and major accomplishments.
+•Formulated the general guidelines and procedures in the reservation of the Conference Center.
+•Documented and provided the details in the OIMS (Office Integrated Management System) as reflected in the Facilities Working Documents.
+•HR and Admin Support for the Soft Services and Hard Services Team (MEP Team, Housekeeping, Mailroom, Stationery/Supply, Help Desk and Conference Center Support Services Staff) with regards to timesheet/payroll processing, access card and gate pass at project site, transportation schedule of staff from accommodation to work site and vice-versa, uniform and PPE requirements, QID/passport renewals, induction of new assignees and employees and preparation of safety tool box meeting topics and agenda.
+•Lease and tenancy agreements are regularly monitored subject for processing, renewal or termination.
+•Proposals were submitted in the improvement of the delivery of services and identified needs of the building services and the conference center requiring immediate action.
+•Recognized and awarded by the client on a quarterly basis the achieved NO Loss Time Injury and Zero Accidents in our area of responsibility.
+•Planned and organized the day to day activities of the AV Technician with regards to the preventive maintenance of the AV Equipment.
+•Resolved immediately the SNAG and PUNCH Lists for building services maintenance (e.g. Carpentry, MEP, and HVAC).
+•Minimal breakdown of AV equipment due to strict implementation of regular routine inspection.
+
+C.CHARACTER REFERENCE:
+
+1.OLUFEMI ADEJARE
+QAQC Engineer
+Mitsubishi Heavy Industries
+Mobile Number: +974********
+Email Address: adadtp@r.postjobfree.com
+
+2.FEDERICO GARMA JR. III
+Admin Manager
+Infrastructure Development Consultancy
+Mobile Number: +974********
+Email Address: adadtp@r.postjobfree.com
+
+Contact this candidate

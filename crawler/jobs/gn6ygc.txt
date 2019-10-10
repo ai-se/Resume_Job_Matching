@@ -1,0 +1,19 @@
+Job Title = Engineer
+
+Our company is a Massachusetts based startup and a world leader in developing high-power, high-brightness semiconductor laser systems.
+We are seeking a self-motivated Lasers and Photonics Engineer with experience in the development of a high tolerance, complex opto-mechanical products which have achieved medium to high volume shipment levels. Experience with high power lasers is a major plus.
+Education: BS, MS, or PhD majoring in Optics or Lasers and extensive background in lasers, fiber optics, and optical systems.
+Experience: 2 to 3 years experience in design, development and manufacturing of two or more of the following areas:
+· High power fiber-coupled diode lasers, diode pumped solid-state lasers, semiconductor lasers, laser-based optical subsystems, laser stabilization, high-power lasers, and optical engineering.
+· Experience with data acquisition software (LabVIEW), data analysis software (MATLAB, IGOR Pro, Excel), as well as machine tools, electromechanical assembly and electrical troubleshooting is desirable.
+· A US citizenship is required.
+Responsibilities:
+· Work with our senior engineers to develop our laser technology and laser systems.
+· Assist in setting up and completing experiments on an optical bench.
+· Optical alignment and optical and electrical assembly and testing.
+· Gathering and presentation of experimental data as related to laser design and manufacturing.
+· Fiber coupling of high power diode and semiconductor lasers for high power laser products.
+
+
+Go to apply 
+

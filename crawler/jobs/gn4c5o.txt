@@ -1,0 +1,49 @@
+Job Title = Engineer
+
+Requisition Number: 73041
+As an Engineer, you'll work in a dynamic environment supporting our clients. You'll have the opportunity to utilize your technical skills and continue to learn new ones. This position will require on-call and after hours support as needed.
+What you'll do at Insight:
+* Provide day to day support for approximately 150,000 endpoints and the SCCM environment, complete operations tasks, and provide level 5 technical support across a global enterprise, as well as assisting peers with problem-solving and escalation.
+* Support the SCCM implementation and ongoing operations across the overall environment.
+* Work collaboratively across a variety of business units to implement new technology and support existing technologies.
+* Build and configure solutions in the development, test, and production environment; including documenting the processes, infrastructure and design.
+* Work tasks as assigned by Senior Engineers and management while maintaining vendor relationships.
+* Provide status updates as needed.
+* Other duties as assigned.
+What you'll need to join Insight:
+* Experience with:
+* Active Directory
+* SCCM
+* Microsoft Operating Systems
+* Powershell Scripting
+* Networks\\Firewalls
+* Desktop Support\\Imaging
+* MDT
+* McAfee ePO
+* Microsoft Office 2013, 2016, and O365 support
+* Assisting users with troubleshooting and data retrieval
+* Ability to support a large number of in-house, proprietary programs from troubleshooting to installation.
+* Capability to research problems, determine solutions, and create procedures to prevent repeat of issues.
+* Ability to use ticket tracking system to manage workload
+* Ability to develop reports for organization management, regulatory agencies, and audit firms on a recurring and as-needed basis.
+* Ability to multitask with strong organization and time management skills.
+* Must be able to respond effectively to inquiries or complaints within a timely fashion.
+* Willingness to occasionally work outside of normal business hours to support customer's global presence.
+The position described above provides a summary of some the job duties required and what it would be like to work at Insight. For a comprehensive list of physical demands and work environment for this position, click here.
+Today, every business is a technology business. Insight Enterprises, Inc. empowers organizations of all sizes with Insight Intelligent Technology Solutions and services to maximize the business value of IT. As a Fortune 500-ranked global provider of digital innovation, cloud/data center transformation, connected workforce, and supply chain optimization solutions and services, we help clients successfully manage their IT today while transforming for tomorrow. From IT strategy and design to implementation and management, our 6,800 employees help clients innovate and optimize their operations to run smarter. Discover more at insight.com.
+* Founded in 1988 in Tempe, Arizona
+* 7,400+ teammates in 19 countries providing Intelligent Technology Solutions for organizations across the globe
+* $7.1 billion in revenue in 2018
+* Ranked #417 on the 2018 Fortune 500, #12 on the 2018 CRN Solution Provider 500
+* 2018 Dell EMC Server Partner of the Year, 2018 Intel Retail Solution Partner of the Year, 2018 Microsoft Worldwide Artificial Intelligence Partner of the Year
+* Ranked #23 on the 2019 Fortune 50 Best Workplaces in Technology and #5 on the Phoenix Business Journal 2018 list of Best Places to Work (Extra Large Business)
+* Signatory of the United Nations (UN) Global Compact and Affiliate Member of the Responsible Business Alliance
+Today's talent leads tomorrow's success. Learn about careers at Insight: jobs.insight.com.
+Insight is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.
+Posting Notes: Memphis Tennessee (US-TN) United States (US) None None US - Memphis, TN
+#LI-US
+#GLDR
+
+
+Go to apply 
+

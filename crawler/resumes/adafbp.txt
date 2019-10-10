@@ -1,0 +1,49 @@
+
+Objective: Apply my technical expertise and experience to your company
+
+PROFESSIONAL SUMMARY:
+Ambitious and adaptive infrastructure technician with the willingness and ability to learn, teach and execute effective cyber methodologies in an ever-evolving field. Outside thinker and dedicated force multiplier who possesses the leadership traits to increase efficiency and productivity. Knowledgeable in Systems servers and Information Technology administration. Devoted to both personal and workplace development, content creation, and data analysis; implementing the experiences gained from a diversified pool of professional endeavors. Competent at adapting to new surroundings while remaining accurate and effective.
+●Personnel Management
+●Data Systems Administrator
+●VMWARE proficient
+●4 years enterprise level experience
+●Microsoft Exchange Administrator
+●Proficient in PKI logon
+
+EXPERIENCE:
+Personnel Management:
+●Served as the Systems Administrator Chief. Responsible for high-level security implementation of the Persistent Transport Network (TPN) for a Department of Defense installation.
+●Served as the Systems Chief for a NATO operation. Performed leadership and training duties for a team of over 40 employees.
+●Supported multiple exercises with over 800 users
+
+Data Systems Administrator:
+●Over a 3-year period maintained 3 tactical data networks: Mission Secret (MS), Non-classified Information Protocol Routing (NIPR), and Secret Information Protocol Routing (SIPR).
+●Established a Systems Infrastructure for a NATO level operation supporting over 1000 users allowing the usage of communication for troop movements, coordinating resupplies, and efficient planning and execution of operations
+●Managed the calibration reports, physical upkeep, and system evaluation of nearly 8 million dollars’ worth of material assets. Successfully resulting in 0 data loss over three years.
+●Established a training network to successfully strengthen my team of employees over all 3 data networks.
+
+VMWARE Proficiency:
+●Successfully configured a deployable system supporting over 600 users. Successfully supported over 850 laptops, 100 Voice over Internet Protocol (VoIP) telephones and in excess of 50 Video Teleconferences (VTC).
+●Directly supported an excess of 10 operations and exercises all implementing VMWARE protocols.
+●Provided support and daily oversight of VMWARE services for II Marine Expeditionary Force Commanding General and staff in foreign and domestic environments. Operation support included the daily use of email, video conferencing and data communication.
+●Created the VMWARE implemented servers for the II Marine Expeditionary Force which successfully provided the Board of Directors the ability to communicate remotely and control troop movements and planning for three enclaves.
+
+MICROSOFT EXCHANGE ADMINISTRATOR:
+●Administered Microsoft exchange services during 10 operations successfully implementing e-mail communications for over 5000 users.
+●Maintained, monitored and managed the physical upkeep for Microsoft Exchange servers for all 3 enclaves resulting in 0 data loss during the course of my career in the Marines.
+●Trained with Microsoft Contractors over a 1-year period learning advanced troubleshooting techniques, and how to implement PowerShell techniques to identify problems and assess the health of my servers more efficiently.
+
+EMPLOYMENT HISTORY:
+●Systems Administrator Chief 8th Communication, Jacksonville, North Carolina Norway January 2017 - August 27, 2019
+●Systems Administrator 8th Communication Battalion, Jacksonville, North Carolina November 2016 - January 2017
+
+EDUCATION:
+●Active Secret Security Clearance
+●PKI certified 2017 Camp Lejeune, North Carolina
+●VMWARE course 2016 Camp Lejeune, North Carolina
+●Data Systems administration school 2016 29 palms, California
+●High School Education and Diploma, 2013 Countryside High School Clearwater, Florida
+
+.
+
+Contact this candidate

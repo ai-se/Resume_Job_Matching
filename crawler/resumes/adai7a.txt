@@ -1,0 +1,108 @@
+
+YASSER ELBEHIRY
+B.Sc., M.Sc., P.Eng.
+*** ******** ****., ******, ** K4A 1B1, Mobile: 647-***-**** Email: adai7a@r.postjobfree.com
+ELECTRICAL CONTROL ENGINEER
+
+Professional Membership
+P. Eng. Member of Association of Professional Engineers of Ontario.
+
+Areas Of Expertise
+PLC Programming, Siemens SIMATIC S7 S400, GE Proficy Machine Edition, Schnider Unity Pro
+SCADA (Design, Programming and modifications) iFix, Wondeware InTouch, GE Cimplicity
+Wonderware Historian
+Computer programming (Delphi 7, VB6\VBA, C# Beginner)
+Process Control, MES (Manufacturing Excution System),analysis, design & programming)
+Computer networks (TCP\IP, Wireless network)
+Automation systems design and development for steel making
++10 years experience Process Control (Instrumentation, PLC, SCADA and MES) of Steel making
+Instrumentation (Configuration,Calibration), P&ID
+Instrumentation, configuratio and testing using Hart communicator, PI&D
+Preparing work standrds, manuals and training
+Excellent written and verbal communication in English
+FAT (Factory Acceptance Test), SAT (Site Acceptance Tests)
+Start up, commissioning, troubleshooting and support
+Trouble shooting and maintenance
+OHSAS 19001, Risk Assesment, What if analysis
+Professional Experience
+
+Electrical Engineer July, 2015- Now
+IVACO Rolling Mills Ltd., L'Orignal, ON
+Provides engineering assistance (concepts, designs, feasibility studies, preventive engineering, etc.) to the Production and Maintenance departments.
+Reviews procedures to operate or maintain plant equipment, reviews safety procedures for equipment failures and repairs.
+Reviews practices and equipment performance. Recommends changes to the process and equipment.
+For engineering projects: carries studies and defines scope of the project, designs, defines materials and equipment specifications, prepares estimates and budgets, coordinates construction and directs contractors and tradespersons, prepares operating and start up procedures, trains operating and maintenance personnel.
+Approves designs of new equipment and modifications of existing practices, ensures adherence to government codes and regulations.
+Ensures that electrical drawings are updated in coordination with Drafting personnel.
+Performs engineering studies and conducts non-routine tests to troubleshoot faulty equipment or to solve technical problems.
+Assists maintenance departments in troubleshooting electrical/electronic related equipment issues.
+Achievements: -
+Creating maintenance procedures for IVACO meltshop equipment.
+Modifying PLC program improve the equipment performance.
+
+Ladle Slag Detection Project, AMEPA
+Slag detection is a major process problem in steel making industry. Mixing slag with molten steel deteriorates the quality of the final product and destroys refractories. I have been assigned the task to install, commission and integrate AMEPA ladle slag detection system into continuous casting machine process control system. PLC and HMI programming has been done to integrate the system in our industrial automation network. Communication (PROFIBUS and Ethernet) has been established between slag detection system and process control network to exchange data. Project was a complete success. Operation was smooth. System integration was a success. We managed to exchange data and receive the status of the slag detection system during operation.
+
+BAGHOUSE (Fume Treatment Plant) Optimization
+Energy saving, is the BAGHOUSE Optimization project main target. To achieve this task, we are planning to automatically control the percentage of opening of Meltshop plant fume dampers, control the speeds of medium voltage suction motors and burn the dioxins and furans organic particles. I have been assigned the task of reviewing PLC programming, instrumentations’ and drawings of Consteel and Baghouse. Quenching tower area of the Consteel plant has been completely recommissioned, new sensors have been added, A lot of modifications have been made in Consteel and BAGHOUSE PLCs. Drawings have been reviewed and modified. It is still ongoing project.
+Operating hot billets in billet conditioning machine
+The main target is to be able to operate hot billets until it reaches the final inspection table. The main challenge is the very high temperature of the hot billets. It can reach up to 470OC. Such a temperature can easily destroy photo electric cells which define the exact location at which the billet will be stopped on the inspection roller table. We had to investigate the options for new types of sensor which can measure the distance of the approaching hot billet. Laser distance sensor has been employed. Laser beam comes out from the sensor and the reflection of it from the billet cross section of the hot billet defines the distance travelled by the billet on roller table. At a certain st-point billet is stopped.
+New transformers integration into IVACO substation
+Aging transformers, T1 & T2, are being replaced with new ones. The main challenge is to integrate the new transforms in the old substation. Drawings for the existing control, protection and paralleling circuits. Complete analysis of the existing system is being done. New interconnection drawings for connecting new transformers with substation will be created. Communication between transformers’ signals and load controller PLC will be established. Finally, commissioning and energizing will be done.
+Automation & Instrumentation Engineering Manager April, 2006- June-2014
+AlRajhi Steel, Jeddah, KSA
+Led Automation & Instrumentation team (Junior Engineers, Foreman’s and technicians)
+Developed and enhanced the performance of MES, SCADA, PLC and Instrumentation with the team
+Determined requirements (Technical Specs, Modifications and Data)
+Managed projects, defined technical specifications and test procedures, reviewed contracts
+Wrote work standards for non-routine automation and instrumentation tasks as a part of company ISO system
+Worked closely with other departments to confirm the success of the integration of the required modifications
+Achievements: -
+Supervised Meltshop plant startup, FAT, SAT, commissioning, proposed modifications and test procedures for MES, SCADA, PLCs and instrumentations
+Enhanced and modified PLC programs and stations (software & hardware)
+Enhanced the performance of the existing InTouch SCADA stations, added new functionalities, modified existing pages and wrote programming code under InTouch development environment
+Built Customized InTouch SCADA monitoring stations for management
+Proposed, defined technical requirements and commissioned Wonderware Historian server 10.0: One of the main problems was the retention period of the process data (30 days) on each HMI station
+Extended plant Industrial Ethernet networks (TCP/IP) to the administration offices: Wireless network technology was employed to get over the obstacle of the long distance between the plant and the management offices. Managers had access to the plant network
+Designed customized production reports as requested by production department. Delphi 7 code of MES reporting tool (Rep_Creator) was modified to add report creation subroutines and functions
+Built Customized MES monitoring and report generation stations for management.
+Participated in upgrading of the FTP (Fume Treatment Plant) in MS plant revised contracts, defined technical specs, transferred MCC, PLC panels, re-commissioned all the panels and instrumentations, added necessary modifications (New functionalities, new pages) to the SCADA system and connected the new PLC to the plant Industrial Ethernet network.
+Participated in efforts to successfully acquire occupational health and safety management systems OHSAS 18001 for health and safety. Risk assessment had been done. Standard forms and procedures had been prepared.
+
+Chief Automation Engineer July, 2001- April, 2006
+ALEZZ STEEL, Egypt, Sadat City,
+Designed, developed and commissioned MES of rolling mills plant
+Designed, developed and commissioned new HMI\SCADA stations of rolling mills
+Trained operators and engineers on the new applications
+
+Achievements
+SCADA Projects
+Designed complete preparation terminals (SCADA& Process control stations) for mill areas, to replace the old SCADA stations. Access 2000 and iFix Dynamics used to achieve this task. The programming language was VBA (Visual Basic for Application) under iFix Dynamics development environment. The project included plant mimics graphic design and rewriting VBA codes. These stations were programmed, tested, commissioned and operated in ALEZZ steel. Also, training was organized and given to the operators.
+MES project
+MES Project had been developed from scratch by the automation team. I had an honor to be a member. iFix server had been employed to build MES. VBA under iFix had given us the facility to build VB code to communicate with MES ORACLE database through ADO. Communication with the real-time data in Siemens PLC was done by iFix I/O driver. All MES clients’ stations had been designed through iFix using VBA controls
+Developed automatic labeling system. iFix Server Scheduler was employed to achieve the task. Automatic labeling system generates the final product labels. Product data printed on the label was acquired from final product data stored in MES Oracle database server
+MES client stations were developed using VBA under iFix dynamics for all plant areas. Starting from basic material tracking in PLC, up to designing and developing final user interfaces in client stations
+Upgraded the rollshop (Rolling Rings Workshop) application, built with VB6. This project enabled the workshop people to track all movement of rolling rings. It also, enabled them to create reports
+Equipment installation and commissioning and the startup of ALEZZ STEEL REBARS rolling mills
+
+Miscellaneous courses and training
+Attended ELT (Enhanced Language Training) for Engineers, TDSB, Toronto
+FIX DYNAMICS SCADA Software, Cairo University.
+InTouch V 9.5 SCADA software, Wonderware. Dubai
+Wonderware Historian 10, Wonderware. Dubai
+PLC SIMATIC S7, Egypt
+VB6 programming & Introduction to VB.NET, Egypt
+DELPHI programming, InfoSoft, Egypt
+MES, DANIELI Automation, Italy
+Industrial Ethernet Network Communication, DANIELI Automation Italy
+SimovertMasterdrives, Siemens, Germany
+Develop, prepare & evaluate training, Germany
+
+Education
+Menoufiya University; Egypt, M.Sc., Electrical Engineering, 1996 – 2001
+oThesis, “ANN Based Control of Interior Permanent Magnet Synchronous Motor”. June 5, 2001
+oPaper, "Investigation into The Effect of Switching Frequency on the Performance of Current Controlled Inverter Employing Space Vector Modulation Technique", Apr 01, 2001
+oPaper, “ANN-Based Speed Controller of Interior Permanent Magnet Synchronous Motor”, Jan 01, 2001
+Menoufiya University; Egypt, B.Sc., Electrical Engineering, 1989 – 1994, Average grade 72.55% (Good)
+
+Contact this candidate

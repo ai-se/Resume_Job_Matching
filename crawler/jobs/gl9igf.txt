@@ -1,0 +1,37 @@
+Job Title = Engineer
+
+Engineer
+
+Location :- Sudbury
+
+Shift :- Days and on a call rota
+
+This is an amazing opportunity to work in a busy and fast moving Engineering Department
+
+Main Purpose of Job
+To provide support functions to the factory and production facilities by supporting and resolving breakdowns
+To support factory capital projects from inception through vertical start-up, to production.
+Improve factory asset intensity by undertaking identified loss projects and completing actions
+Support to SCADA and Factory Automation Systems
+Work with focused improvement and production teams to identify and resolve underlying reasons for losses and implement software changes to resolve.
+Support multi-skilled shift engineers and assist in identifying the root causes of production losses.
+Ensure documentation and program back ups are updated and correct.
+Capital project support
+Engage with project teams to identify control solutions aligned with the factory's standards.
+Produce software code (Rockwell) to site standards on existing systems to support project implementation.
+Work with third-party contractors to ensure they produce software to site standards.
+Core Production Support
+Work as part of a team to provide on call support (rota) for factory automation issues and breakdown support.
+
+Key Experiences:
+Minimum of 3 years experience with Rockwell suite of applications (RS Logix, Factory Talk, RS View, RSLinx).
+Experience of constructing software from scratch and to produce to a standard structured way.
+Experience of working in closely controlled regulated working environment such as FMCG, heavy industry, pharmaceutical
+Ability to produce high quality documentation of own work. Experience of reading and updating electrical schematics.
+Underlying electrical qualifications (to National Diploma minimum) and experience gained within an industrial controls environment.
+Experience of modifications to SCADA and visualisation software packages (RS View, Panelview)
+PMP Recruitment Ltd is acting as an Employment Agency in relation to this vacancy.
+
+
+Go to apply 
+

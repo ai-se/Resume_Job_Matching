@@ -1,0 +1,29 @@
+Job Title = Technician
+
+Job Title:: Technician
+
+Roles and Responsibilities:
+
+" Build and assist with construction of electro-mechanical test fixtures and engineering prototypes
+
+" Build and assist with construction of prototype flexible endoscopes and endoscopic tools
+
+" Perform tests of endoscopic tools
+
+" Perform other engineering technician duties as-needed
+
+Skill/Job Requirements:
+
+" Experience with mechanical prototyping and test of flexible devices
+
+" Ability to solve technical issues with a basic understanding of mechanical drawings
+
+" Hands-on capability performing compact assembly tasks including soldering, using the hot box, dremel, braider, etc.
+
+" Proven ability to work well in team environment including teaching techniques to other technicians and learning from other technicians
+
+" Proficiency with computers and Excel software
+
+
+Go to apply 
+

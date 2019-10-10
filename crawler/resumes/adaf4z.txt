@@ -1,0 +1,28 @@
+
+Joseph Jarrell
+adaf4z@r.postjobfree.com 682-***-**** San Diego, CA
+Experience
+DEVOPS ENGINEER INTUIT MAY 2017 - OCTOBER 2018
+● Designed, implemented, and maintained a system to ensure full uptime for key resources for deployments. This project leveraged a daemon to sync RSA public keys to the newly created resources and used RPMs pulled by userdata scripts to deploy software and configuration
+● Wrote infrastructure as code using terraform to deploy microservices
+● Wrote services in GOLANG for use by the DevOps team to support microservices
+● Created Jenkins jobs to implement CI/CD pipeline
+● Created Splunk dashboards and queries to monitor and alert on deviations from baseline behavior AMAZON.COM AWS - CLOUD SUPPORT ENGINEER APRIL 2015-MAY 2017
+● Transitioned from networking core profile to deployment focused specialty profile
+● Deep knowledge of the EC2, S3, and ELB services
+● Designed programmatic approaches to accomplish tasks not built into services
+● Experience with zero downtime deployment strategies for CI/CD
+● Troubleshooting experience with Cloudformation, ECS, and Elastic Beanstalk CISCO SYSTEMS, CNG DIVISION NETWORK SUPPORT ENGINEER MARCH 2013-NOV 2014
+● Provided White-glove support to highest priority queue for enterprise customers
+● Supported switches, access points, and UTMs
+PROACTIVE COMMUNICATION NOC TECHNICIAN MARCH 2012 – FEB 2013
+● Worked to help deploy, maintain, and monitor satellite communication links Skills
+● AWS Core Services: EC2, ECS, S3, VPC, ELB, Route53, IAM, Cloudwatch
+● AWS Deployment services: Elastic Beanstalk, CodeDeploy, Cloudformation, Codecommit,
+● Linux, nginx, apache, docker, kubernetes, jenkins,
+● python, golang, bash, git, terraform
+Education
+Saint Olaf College
+BA, Mathematics - 2012
+
+Contact this candidate

@@ -1,11 +1,51 @@
+Job Title = Programmer Or Remote Or Java jobs in Raleigh, NC, 27606
 
--Remote-3-6 month contract-Previous professional experience with C++ and Java for realtime networked applications required-Strong computer science fundamentals required.-Compensation available as a mix of hourly and revenue share We're looking for a talented networking engineer with strong C++ and Java development experience to work remote with us on contract to implement a multiplayer Java server, C++ client architecture over TCP for a video game.
-Must be efficiently implemented so that a small amount of servers can handle a large amount of clients.
-If your idea of scaling involves many layers of 3rd party software and spinning up a thousand ec2 instances this job isn't for you.
-We're looking for efficient custom C++ and Java code using a small amount of strategic library choices and correctly configured servers that can handle many connections.
+NewGen Technologies  – 
+Cary, NC, 27518
+Order #: 105927 Title of Position: SAS Programmers Work site address: 100% Remote Contract Length: Contracts to end Dec 31, 2019 (*renewable) **W2 ONLY, no 3rd party talent Multiple openings available: 1 needs SAS graphic skills **Required Skills ...
+- Jobs2Careers, Oct 07
 
-Permanent
+Syneos Health  – 
+Raleigh, NC, 27610
+Order : 105927 Title of Position: SAS Programmers Work site address: 100% Remote Contract Length: Contracts to end Dec 31, 2019 (renewable) W2 ONLY, no 3rd party talent Multiple openings available: 1 needs SAS graphic skills Required Skills ...
+- Jobs2Careers, Oct 07
 
+Syneos Health (formerly INC Research/ inVentiv Health)  – 
+Raleigh, NC
+Order #: 105927 Title of Position: SAS Programmers Work site address: 100% Remote Contract Length: Contracts to end Dec 31, 2019 (*renewable) **W2 ONLY, no 3rd party talent Multiple openings available: · 1 needs SAS graphic skills **Required Skills ...
+- ZipRecruiter, Sep 24
 
-Go to apply 
+Stratacent  – 
+Cary, NC, 27511
+... Position SAS Clinical Trial programmer Location Cary, NC(100% Remote) Required Skills Bachelor s degree or equivalent, preferably in a scientific discipline such as Statistics, Computer Science, Mathematics, etc. Healthcare or technology-related ...
+- Dice.com, Oct 08
 
+Stratacent  – 
+Cary, NC, 27511
+... Position SAS Clinical Trial programmer Location Cary, NC(100% Remote) Required Skills Bachelor s degree or equivalent, preferably in a scientific discipline such as Statistics, Computer Science, Mathematics, etc. Healthcare or technology-related ...
+- Dice, Oct 08
+
+NeedLS  – 
+Durham, NC, 27703
+5+ years' experience as a CRO SAS Programmer CDISC experience (SDTM, ADaM, Define.xml) Experience leading multiple studies across multiple TAs. Experience with Sponsor interaction and bid process activities Experience leading a project team Conduct ...
+- Postings.com, Sep 29
+
+Capstone IT  – 
+Raleigh, NC
+Capstone is hiring Java Developers for a long term project with our client. This is a position that will require you to start two to three weeks on-site (expenses paid) and then will transition to 100% remote after training and project orientation ...
+- ZipRecruiter, Sep 30
+
+Cynet Systems  – 
+Raleigh, NC
+... This application programmer will be part of a team that is responsible for developing and implementing the changes required ...  both written and verbal Experience developing applications using Java/J2EE, and in-depth understanding of Java programming ...
+- Neuvoo, Sep 23
+
+Insight  – 
+Raleigh, NC, 27610
+Requisition Number: 74615 Insight is looking for an experienced Software/Systems (Java) Architect to work on our global search engine. You will work on a small team that enjoys the challenges inherent in building a large-scale search engine that is ...
+- Jobs2Careers, Oct 08
+
+Amazon  – 
+North Carolina
+The AWS Developer Documentation team is looking for a Senior Programmer Writer, experienced in DevOps and continuous ... · Ability to read and write example code in at least one of the following programming languages: Java, JavaScript, Python, C ...
+- Neuvoo, Oct 08

@@ -1,12 +1,51 @@
+Job Title = Engineer Or Etl Or Qa Or Pl Or Gc jobs in Raleigh, NC, 27606
 
-Following role is for our team.
-Mid-Senior level candidates required for following ETL QA Role roles for Phoenix Area - RequiredMust have strong knowledge and understanding of ETL and SQL.
-Must have 6+ years' experience writing test scripts for ETL and datawarehousing projects Must be able to write SQL Queries and PL/SQL statementsExperience supporting a Test-Driven Development cultureExperience with Agile Development Practices (Scrum and Kanban)MS Dynamics expereince good to haveSelf-starter who can grasp difficult concepts and large architectures quickly and stay on top of new and emerging technologiesAbility to think outside the box and come up with creative solutions when tools don't work Bachelors in computer science or equivalent is a must.
-Excellent communication skills and can do attitude.
-US Citizens/GC/EAD preferred.
+TekShapers  – 
+Cary, NC, 27511
+QA Engineer Cary NC Functional Testing (Claims Testing, EDI testing, Integration Testing, ETL Testing, Gateway Testing/ Billing Testing, Enrollment Testing ) Or .NET, C#, MS SQL, Domain knowledge (Medicare), Stored Procedures Contract 12 Months
+- Dice, Oct 01
 
-Permanent
+Sysmind LLC  – 
+Durham, NC, 27709
+... Testing experience on Data Validations, Integration E2E testing, Testing using Rest API frameworks, Data Conversion, ETL Validations etc. Strong knowledge on Test scenario Preparation 4-6 Years of Minimum Experience Working knowledge on ETL Testing  ...
+- ZipRecruiter, Oct 05
 
+TekShapers  – 
+Cary, NC, 27511
+QA Engineer Richmond VA Functional Testing (Claims Testing, EDI testing, Integration Testing, ETL Testing, Gateway Testing/ Billing Testing, Enrollment Testing ) Or .NET, C#, MS SQL, Domain knowledge (Medicare), Stored Procedures Permanent
+- Jobg8, Oct 02
 
-Go to apply 
+Global Technical Talent  – 
+Durham, NC, 27701
+... looking for a SnowFlake ETL developer. You will be responsible for teaming up with the project sponsors, Analysts, QA, and ... Engineering, Computer Science, etc.) required, Master's degree a plus strong hands-on experience oracle, pl/sql development ...
+- Dice, Oct 08
 
+Credit Suisse  – 
+Raleigh, NC, 27601
+... tools build for QA automation, moving the team from point and click testing to automated, continuously running tests. ... Job: *Quality Management and Testing Title: C# / ETL Tester #132590 Location: NC-Raleigh Requisition ID: 132590
+- Lensa, Oct 07
+
+Cognizant  – 
+Cary, NC
+... • Provide support to the QA team and coordinate for various phases of testing. • Address queries raised by QA within defined timelines. • Investigate critical defects and establish need for fixing. • Raise issues to leads/QA. • Report defect status ...
+- Neuvoo, Oct 08
+
+SPECTRAFORCE TECHNOLOGIES Inc.  – 
+Durham, NC, 27701
+... looking for a SnowFlake ETL developer. You will be responsible for teaming up with the project sponsors, Analysts, QA, and ... Engineering, Computer Science, etc.) required, Master s degree a plus 8+ hands-on experience oracle, pl/sql development and ...
+- Dice.com, Oct 08
+
+Global Technical Talent  – 
+Durham, NC, 27701
+... looking for a SnowFlake ETL developer. You will be responsible for teaming up with the project sponsors, Analysts, QA, and ... Engineering, Computer Science, etc.) required, Master's degree a plus strong hands-on experience oracle, pl/sql development ...
+- Dice.com, Oct 08
+
+Themesoft  – 
+Cary, NC
+QUALIFICATIONS To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations...
+- Neuvoo, Oct 07
+
+Veritude  – 
+Durham, NC, 27713
+We are looking for an ETL Software Engineer to work at Fidelity Investments. This position is based in our Durham, NC office ...  support and monitor existing ETL processes. The primary expertise is in Informatica, Oracle pl/sql, UNIX, Control-m (or any ...
+- Jobs2Careers, Sep 30

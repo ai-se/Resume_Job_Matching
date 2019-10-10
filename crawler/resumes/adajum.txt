@@ -1,0 +1,302 @@
+
+JEHANZEB KHAN
+(Sr. Certified ETL Developer)
+Cell # 732-***-****
+Email: adajum@r.postjobfree.com
+
+SUMMARY
+
+●Fourteen Plus (14+) years of total IT experience and Technical proficiency in the Data Warehousing teamed with Business Requirements Analysis, Application Design, Data Modeling, Development, testing and documentation. Implementation of Warehousing and Database business systems for Financial (WACHOVIA, ABN AMRO), Pharmaceutical (ASTELLAS) and transportation (PennDOT).
+●DW Experience using Informatica PowerCenter 10.1.1/9.5/8.1/7.1/7.0/5.1.2/5.1.1 (Workflow Manager, workflow Monitor, Source Analyzer, Warehouse Designer, Mapping Designer, Mapplet Designer, Transformation developer), Informatica PowerMart 6.2/6.1/5.1.2/, Power Connect, PowerPlug, PowerAnalyzer, Power Exchange, Datamart, ETL, OLAP, ROLAP, MOLAP, OLTP, Star Schema, Snowflake Schema, Autosys, Control M, Maestro, Azure SQL.
+●Four Plus (4+) years Business Intelligence experience using Business Objects XI/6.5/6.0/5.1/5.0, Business Objects SDK, MicroStrategy 8.0x/9.0x/9.2x/9.4x, Web Intelligence 2.5/2.6, Cognos Impromptu 7.0/6.6/6.x.
+●Worked on MicroStrategy platform, supported Interactive Dashboards, scorecards, highly formatted reports, ad hoc query, thresholds and alerts, and automated report distribution. Interfaces include web, desktop (for developers) and Microsoft Office integration.
+●Twelve Plus (12+) years of experience using Oracle 11g/10g/9i/8i/8.x/7.x, DB2 IBM Data Studio 3.1.1, 8.0/7.0/6.0, Sybase SQL Server 12.0/11.x, MS SQL Server 2005/2000/7.0/6.5, Teradata 12, Teradata 13, MS Access 7.0/’97/2000, SQL, XML, PL/SQL, SQL*Plus, SQL*Loader and Developer 2000, Win 3.x/95/98/2000, Win NT 4.0 and Sun Solaris 2.x.
+●Eight Plus years of (8+) of Dimensional Data Modeling experience using Data modeling, Star Schema/Snowflake modeling, FACT & Dimensions tables, Physical & logical data modeling, ERWIN 7.1/4.2/4.0/3.5/3.x, Visio and Oracle Designer.
+●Extensively followed Ralph Kimball and Bill Inman Methodologies. Designed the Data Mart model with Erwin using Star Schema methodology. Developed Logical and Physical data models that capture current state/future state data elements and data flows using Erwin. Designed and Customized data models for Data warehouse supporting data from multiple sources on real time.
+●Architecture design by effective data modeling, implementing database standards and processes. Data profiling and definition of enterprise business data hierarchies.
+●An extensive knowledge of Design Patterns and their application in software design and architecture. Proficient in developing Use Case Model, Analysis Model, Design Model, Implementation Model, Use Case Diagrams, Behavior Diagrams (sequence diagrams, collaboration diagrams, state chart diagrams, activity diagrams), Class Diagrams based on UML methodology using Rational Rose.
+●Architecture design by effective data modeling, implementing database standards and processes. Data profiling and definition of enterprise business data hierarchies.
+●About Eleven (11+) years of Software and Data Analysis/Business Analysis Experience. Hands on experience with Source to target mapping in enterprise datawarehouse environment. Responsible for all phases of the software development life cycle (SDLC), from requirements definition through implementation, on large-scale, mission critical processes; excellent understanding of business requirements development, data analysis, accounting processes, relational database design, systems development methodologies, business/technical liaising, workflow and quality assurance.
+
+ETL DEVELOPMENT/ DATA ANALYSIS SKILLS
+●Data Architecture
+●Enterprise Architecture Planning
+●Data Warehousing/BI
+●Data Modeling
+●Data Analysis
+●Metadata Management
+●Data Migration
+●ETL & OLAP
+●Business Analysis
+●Design and development of mappings & ETLs
+●Reverse Engineering / Forward Engineering
+●Process Models / DFD
+
+ETL / ANALYST RESPONSIBILITIES
+●Responsible for Business Analysis and Requirements Collection.
+●Data warehouse (OLAP) reporting and analysis.
+●Consultation and training in data warehouse reporting and analysis.
+●Performance and delivery of advanced analytics: metrics design and analysis, data mining services, and operations research services.
+●Researched sources and identified key attributes for Data Analysis.
+●Data Quality analysis.
+●Understood the business needs and implemented the same into Data Flows, ETLs, and Workflows.
+●Experience in writing queries/scripts for mapping/ETLs.
+●Experience in conducting GAP analysis, User Acceptance Testing (UAT), and ROI analysis.
+●Work with the Project Management in coming up with BPEs (Ball park estimates).
+●Analysis of the data identifying source of data, data flow and data mappings.
+●Worked extensively in documenting the Source to Target Mapping documents with data transformation logic.
+●Interact with SMEs to analyze the data extracts from Legacy Systems (Mainframes, COBOL, hierarchical Files) and determine the element source, format and its integrity within the system.
+●Transformation of requirements into data structures which can be used to efficiently store, manipulate and retrieve information.
+●Collaborate with data architects in the creation of Data Functional Design documents.
+●Ensure that models conform to established best practices (including normalization rules) and accommodate change in a cost-effective and timely manner.
+●Enforce standards to ensure that the data elements and attributes are properly named.
+●Work with the business and the ETL developers in the analysis and resolution of data related problem tickets.
+●Support development teams creating applications against supported databases.
+●Document various Data Quality mapping documents, audit and security compliance adherence.
+
+EDUCATION & CERTIFICATIONS
+●Masters in Computer Information Systems
+●Bachelors in Computer Information Systems
+●Cloudera in Big data
+●Brain Bench Certified in Data Modeling
+●Brain Bench Certified in Informatica Powercenter
+
+TECHNICAL SKILLS
+
+Data Modeling
+ERWIN 7.1/4.2/4.0/3.5/3.x, Visio, Oracle Designer 2000, Physical Modeling, Logical Modeling, Relational Modeling, Dimensional Modeling (Star Schema, Snow-Flake, FACT, Dimensions), Entities, Attributes, Cardinality, ER Diagrams.
+Datawarehousing & ETL
+Informatica PowerCenter 10.1.1/9.5.0/8.1.1/7.1/7.0/5.1.1 (Workflow Manager, workflow Monitor, Source Analyzer, Warehouse Designer, Mapping Designer, Mapplet Designer, Transformation developer), Informatica PowerMart 6.2/6.1/5.1.2/, Power Connect, Metadata Manager, Power Exchange, Datamart, ETL, OLAP, ROLAP, MOLAP, OLTP, Star Schema, Snowflake Schema, Control M, Maestro
+BI & Reporting
+Business Objects 4.2/XI/6.5/6.0/5.1/5.0, Business Objects SDK, Microstrategy 9.0x/9.2x/9.4x, Web Intelligence 2.5/2.6, Power BIPower BI, Cognos Impromptu 7.0/6.6/6.x, Power play.
+Databases
+Oracle 11g/10g/9i/8i/8.x/7.x, DB2 Data Studio 3.1.1, DB2 8.0/7.0/6.0, Teradata V12/V13/V2R5/, Sybase SQL Server 12.0/11.x, MS SQL Server 2005/2000/7.0/6.5, MS Access 7.0/’97/2000, PL/SQL, SQL*Loader, Developer 2000
+Job Scheduling & Other tools
+CA Autosys, IBM Maestro, Quest TOAD 7.6, Informatica native scheduler, Tivoli TWS).
+Environment
+UNIX (Sun Solaris, HP-UX, AIX), Windows 7 Enterprise, 2003/2000/XP/98, Sun-Spark, SCO Unix, Mainframe DB2, SQL Server.
+Others
+Python, Perl, Cobol, Mainframe Hierarchical database, Java, XML, JavaScript, XML, HTML, Visual C++, VBScript, Hadoop, MapReduce, HDFS, Pig, HIVE, Sqioop.
+Miscellaneous
+Attended countless Workshops (online and in-class) and webinars on Big Data, Data Quality, Azure SQL, Cloud computing & Informatica. JIRA, Certification on Big Data from Cloudera.
+
+PROFESSIONAL EXPERIENCE:
+
+Pennstate Hershey, Hershey, PA April’19-Current
+Senior Data Integration Developer
+
+Enterprise Information Management is a Shared Services division at PennState Hershey. This division
+service existing infrastructure of OHF Data Warehouse and help enhance business operations. It provides architectural,
+business and IT solutions to Hershey Medical Center and PennState College.
+
+Responsibilities:
+
+●Maintains existing Data Warehouse (OHF).
+●Support existing ETL operations and develop new ETLs and framework around them.
+●Lead, design, develop and maintain ETL processes to load Data Marts, support Reporting, and provide Business Intelligence capacities.
+●Serves as a lead in the development of ETL, provide mentoring where necessary, guide and troubleshoot in solving complex reporting and analytical problems.
+●Participate in daily scrum meetings and work collaboratively with other agile team members to provide solutions.
+●Work with web development and testing team.
+●Create complex mappings, sessions and workflows based on the requirement documents.
+●Create sessions, batches for incremental load into staging tables, and schedule them to run daily.
+●Interface and communicate effectively with team members and provide the guidance in the development activity.
+●Performance tune PowerCenter mappings, sessions, workflows.
+●Maintain existing and create new Datastage jobs and schedule them using ActiveBatch.
+●Develops IDQ mappings and workflows.
+●Work with SQL, PL/SQL procedures and functions, stored procedures and packages within mappings.
+●Create reusable transformations and Mapplets in PowerCenter.
+●Create Shell scripts to perform ETL operations.
+●Provide on-call support during business hours to many existing ETL operations.
+●Investigate and fix bugs occur in production environment and provide on-call support to users.
+
+Environment: Informatica PowerCenter 10.2, RedHat Linux, Datastage, ActiveBatch, Informatica IDQ, Mainframe DB2, Data Studio Client 4.1.3, Oracle 11g, Toad for Oracle 12.12.0, MS SQL Server Management Studio 2014 SP1, Erwin Data Modeler, Data Analysis, Business Analysis, Shell Scripting.
+
+Highmark Health Solutions, Harrisburg, PA Oct’18-April’19
+Lead ETL Developer
+
+Highmark Health Solutions is a subsidiary of Highmark Insurance. Contact Management Strategy (CMS) project
+was initiated to facilitate the vendor with their marketing strategy based on customers preferences.
+
+Responsibilities:
+
+●Created mappings and workflows to pull data from Mainframe DB2, Oracle and Teradata.
+●Write Shell scripts for ETLs, to automate workflows in selecting the right file off of NAS drive.
+●Create complex mappings, sessions and workflows based on the requirement documents.
+●Create sessions, batches for incremental load into staging tables, and schedule them to run daily.
+●Interface and communicate effectively with team members and provide the guidance in the development activity.
+●Extensively worked on performance tuning of mappings and sessions.
+●Have taken part in overall architectural discussions with manager and data architects.
+●Worked with SQL, PL/SQL procedures and functions, stored procedures and packages within mappings.
+●Performed Change Data Capture on group of tables.
+●Created reusable transformations and Mapplets where redundant logic was required to be used.
+●Created Unix scripts to perform operations like gunzip, create, archive and move files around directories.
+●Investigated and fixed the bugs occurred in production environment and provided on-call support.
+
+Environment: Informatica PowerCenter 10.2, RedHat Linux, Mainframe DB2, Data Studio Client 4.1.3, Oracle 11g, Toad for Oracle 12.12.0, MS SQL Server Management Studio 2014 SP1, Erwin Data Modeler, Data Analysis, Business Analysis, Shell Scripting, Unix scripting.
+
+CNSI, Rockville, MD Oct’17– Oct’18
+Lead ETL Developer
+
+Lead ETL Developer: CNSI delivers a broad range of health information technology (IT) enterprise solutions and customizable products to a diverse base of federal and state agencies.
+
+Lead ETL Developer: CNSI delivers a broad range of health information technology (IT) enterprise solutions and customizable products to help clients achieve their mission, enhance business performance, and improve the health of over 28 million Americans, has been awarded a multi-year contract to engineer, develop, maintain, and support the Centers for Medicare & Medicaid Services (CMS) next generation Encounter Data Processing System (EDPS) for Medicare Part C claims.
+
+Responsibilities:
+
+●Installed, configured and managed Informatica PowerCenter 10.2.0 server and its components like INFA Administrator Console and services like Repository and Integration services; managing server activations and de-activations for all environments; set up Kerberos authentication on Informatica Server, ensuring that all systems and procedures adhere to organizational best practices.
+●Day to day administration of the Informatica Suite of services (PowerCenter, IDS, Metadata, Glossary and Analyst).
+●Informatica capacity planning and on-going monitoring (e.g. CPU, Memory, etc.) to proactively increase capacity as needed.
+●Managed and updated Interface Control Documents (ICDs).
+●Manage backup and security of Business Intelligence Infrastructure.
+●Design, develop, and maintain all data warehouse, data marts, and ETL functions for the organization as a part of a development team.
+●Developed Python based ETLs for non-conventional sources.
+●Extracted data using Python from files with different format depending on the source origin.
+●Consult with users, management, vendors, and technicians to assess computing needs and system requirements.
+●Review projects to assist the Manager of BI in planning and coordinating project activity.
+●Import, review and modify existing code based on requirement documents.
+●Write Shell scripts for ETLs and to automate ETLs.
+●Creating complex mappings, sessions and workflows based on the requirement documents.
+●Created sessions, batches for incremental load into staging tables, and schedule them to run daily.
+●Collaborates with subject matter experts, business users, project managers and Business analysts to define and execute cross-functional data requirements.
+
+Environment: Informatica PowerCenter 10.2 DT/9.6.1, RedHat Linux, AWS, Oracle 12g/11g, Toad for Oracle 12.1.0, MS SQL Server Management Studio 2014 SP1, JIRA, PL/SQL, Erwin Data Modeler, Data Analysis, Business Analysis, Shell Scripting, Python, SQL * Loader, Excel, Unix scripting.
+
+PennDOT, Harrisburg, PA FEB’08– AUG’17
+SR. ETL DEVELOPER
+
+Penndot (Pennsylvania Department of Transportation) is the government agency for transportation.
+
+Senior ETL Developer: PennDOT Data Integration Facility (PDIF) is a comprehensive Data Warehouse / Business Intelligence (DW/BI) solution for PennDOT. PDIF consists of an enterprise data warehouse in Oracle, an Intranet BI portal developed in Microsoft .NET, data integration services primarily utilizing Informatica and end-user reporting content in Business Objects – all working together to greatly mature PennDOT’s operational and analytical reporting capabilities.
+
+Responsibilities:
+
+●I have been an integral part of some of the agency’s vital projects in Bureau of Business Solutions & Services during the last 9-10 years, it included projects like ARRA (American Recovery & Reinvestment Act) which was enacted by a Presidential order in 2008, PA 511, HOPS (Highway Occupancy Permitting System), CashFlow Project, HAPD (Highway Performance Metric Dashboard), PRP (Project Revenue Planning), EPS (ePermitting Systems), DOTG (DotGrants) which handles multi-billion dollar grants from the Federal Government and FHWA each year, PLACARDS, SMRT (Statistics Measures and Results for Transportation), ROAD (Roadway Management for BOMO), BHR (HR Reporting) and many others.
+●Responsible for development, maintenance and performance of data processes, ETLs, Informatica mappings/ sessions/workflows that load large to excessively large volumes of data from disparate data sources.
+●Managed Oracle/Mainframe DB2/ODBC/Flat files/SFTP/MySQL /SQL Loader/PLSQL jobs on various schedules ranging from near real-time to weekly batches.
+●Maintains Data warehouse metadata, naming standards and warehouse standards for analysis and future applications development.
+●Successfully completed data migrations from some of the old legacy systems at PennDOT. Some of the important projects are MEDS, PLACARDS, HOPS and the current Inspections and Drivers Licensing rewrite project.
+●Communicate with business users, and team members to gain full understanding of each requirement and data source.
+●Building the ETL architecture and Source to Target mapping to load data into Data warehouse.
+●Designed Enterprise logical data model, both 3rd normal form and star-based using the bottom up approach.
+●Data modeling and design of Data warehouse using star schema methodology and conformed granular dimensions with FACTS tables. Implemented Coding standards and Metadata which included naming standards and data type standards.
+●Analyzed and documented the level of effort for all Stages of all ETL projects.
+●Architected the MicroStrategy Projects which involved in creating the Attributes, Facts and Hierarchies.
+●Worked in MicroStrategy Administration creating new users, roles, privileges, shared folders, access controls Lists.
+●Created & integrated Desktop MicroStrategy reports, objects (Filters, Prompts, Metrics, Attributes, Facts, Templates) and generic cubes.
+●Created Dynamic Dashboards with multi layout and used custom Widgets built on flex for specialized dashboard.
+●Developed MapReduce programs to parse the raw data, populate staging tables and store the refined data in partitioned tables in the EDW.
+●Created HIVE queries that helped highway managers spot major traffic congestion points during rush hour by comparing fresh data with EDW reference tables and historical metrics.
+●Involved in troubleshooting MicroStrategy prompts, filter, template, consolidations, and custom group objects in an enterprise data warehouse team environment.
+●Designed interactive and Dynamic Dashboards using Report Services objects like Waterfall, Graph Matrix, Gauges, Micro charts Widgets and Grid/Graph combinations.
+●Created different schema objects like Attributes, facts by using MicroStrategy Architect of the MicroStrategy BI Suite.
+●Developed business requirement specification documents as well as high-level project plans.
+●Interacted with Subject Matter Experts, Program Analysts and end-users to understand requirements and gather key issues involved in the project.
+●Worked with business analysts to identify appropriate sources for Data warehouse and to document business needs for decision support data.
+●Developed standard ETL framework to enable the reusability of repeatable logic across the board. Involved in system documentation of dataflow and methodology. Came up and implemented a solution for Change Data Capture in staging tables.
+●Responsible for design and developing of ETL (Extract, Transform and Load) processes using Informatica PowerCenter 10.1.1, have also worked on prior versions like 9.5.0/8.6.1/8.5.1.
+●Analyze source data coming from Oracle, SQL Server, DB2, Flat file etc. and works with Data Warehouse team in developing Dimensional Models.
+●Used Workflow Manager for Creating, Validating, Testing and running the sequential and concurrent Batches and Sessions and scheduling them to run at specified time with required frequency.
+●Extensively worked in the performance tuning of programs, ETL Procedures and processes.
+Developed PL/SQL procedures for processing business logic in the database.
+●Created sessions, batches for incremental load into staging tables, and schedule them to run daily.
+●Developed Shell scripts, PL/SQL procedures, for creating/dropping of table and indexes of performance for pre-and post-session management.
+●Designed and developed different slowly changing dimension procedures for multiple data extracts based on business requirements.
+●Developed custom alert scripts to notify select group of users. Administering and managing the Informatica PowerCenter 10.1.1.
+●Responsible for developing complex Oracle PL/SQL procedures and workflows for the Data Warehouse and analyze transaction errors and troubleshoot data issues in the portal and reports.
+●Participated and assisted project leaders in project planning using Agile methodology.
+●Execute unit tests and validate results. Perform problems assessment, resolve and document in existing ETL packages, mappings and workflows.
+●Develops and deploys ETL job workflows with reliable error/exception handling and rollback framework.
+●Manage application upgrades, capacity planning and system optimization. Modify ETLs to accommodate changes in the source and business requirements.
+●Document ETL detailed design, prioritize development and enhancement requests. Spearheads development of ETL code, metadata definitions and models, queries and reports, schedules, work processes and maintenance procedures.
+●Manage automation of files processing as well as all ETL processes within a job workflow.
+●Ensures data quality throughout ETL process. Ensures compliance with regulatory requirements for data transmission, storage, and data access including documentation and testing.
+●Collaborates with subject matter experts, business users, project managers and Business analysts to define and execute cross-functional data requirements.
+
+Environment: Informatica PowerCenter 10.1.1/9.5.0/8.0/7.1, Oracle 11g/10g/9i, Toad for Oracle 11.6.0, MS SQL Server Management Studio 2012 SP3, 2014 SP1, 16.5.3, 2005/2000, PL/SQL, Microstrategy 9.0x/9.2x/9.4x, Erwin Data Modeler, Python, Teradata V12/V13, Business Analysis, Erwin 7.1/4.2, Mainframe DB2 8.0, IBM Data Studio 3.1.1.0, Legacy Systems, Business Objects 4.2/XI/6.5, Autosys, Shell Programming, SQL * Loader, Excel, Unix scripting, Hadoop, MapReduce, HDFS, Pig, HIVE, Sqioop, Azure SQL, Azure Data Factory.
+
+WACHOVIA, CHICAGO, IL JUNE’07– DEC’08
+ETL DEVELOPER / DATA ANALYST
+
+Wachovia is one of the largest Financial Organizations
+
+Financial Data Warehouse (FDW): FDW Provided information for data mining and extracted the information needed for Banking services, plans and revenues, new strategies to improve the sales and meet the customer's needs. The Data Warehouse was built using Informatica Power Center for Extracting data from Various Source systems. Erwin was used to Construct Dimensional Modeling and Load Star Schema into the Oracle database with Business Objects as Corporate Reporting tool.
+
+Responsibilities:
+●Responsible for Business Analysis and Requirements Collection. Gathered and analyzed business requirements by interacting with business clients and end-users.
+●Developed Functional requirements (use case modeling), system requirements and design by analyzing the existing Legacy system, other heterogeneous source systems and impact analysis.
+●Responsible for the Dimensional Data Modeling and populating the business rules using mappings into the Repository for Meta Data management.
+●Created the (ER) Entity Relationship diagrams & maintained corresponding documentation for corporate data dictionary with all attributes, table names and constraints.
+●Extensively used ERwin 7.1/4.2 for data modeling and Dimensional Data Modeling.
+●Data Quality Analysis to determine cleansing requirements.
+●Coordinated with source system owners, day-to-day ETL progress monitoring, Data warehouse target schema Design (Star Schema) and maintenance.
+●Incorporated, mentored project staff in the specific disciplines of Software Analysis, Design, and Architecture, Implementation.
+●Generated data requirements and system specifications in an organized fashion for business solutions and for the developers to follow on.
+●Assisted in providing and implementing detailed solutions for building and maintaining the application.
+●Managed and assisted the database team in coordinating the data flow and creating the data warehouse schema.
+●Architecture design by effective data modeling, implemented database standards and processes. Data profiling and definition of enterprise business data hierarchies.
+●Designed and built Datamarts by using Star Schemas.
+●Created Data acquisition and Interface System Design Document.
+●Took part in the process of modeling the different data marts using ERWIN.
+●Developed MicroStrategy Dynamic Dashboards in the Flash Mode using several controls and worked on widgets.
+●Created Metrics, Filters, Custom Groups, Prompts using Microstrategy Desktop.
+●Documented Conversion processes, worked in source target definitions and data mappings. Imported from multiple data sources and flat files. Worked with dimensions, hierarchies, levels, measures, aggregations and fact table granularity.
+●Understood the business needs and implemented the same into a functional database design.
+●Used Use cases for documenting the functional specifications.
+●Worked on Informatica Power Center 8.0/7.1 tool - Union, Source Qualifier, Look up (connected and unconnected), Expression, Aggregate, Update Strategy, Sequence Generator, Joiner, Filter, Rank and Router transformations Upgraded Informatica 7.1 to Informatica 8.0.
+●Various kinds of transformations were used to implement simple and complex business logic. Transformations used were: stored Procedure, connected & unconnected lookups, Router, Expressions, source qualifier, aggregators, filters, sequence Generator, etc.
+●Created and Configured Workflows, Worklets, and Sessions to transport the data to target warehouse Oracle.
+●Wrote SQL, PL/SQL codes, stored procedures and packages.
+●Developed Informatica Mappings/Sessions to populate the Data Warehouse and Data Mart.
+●Error checking and testing of the ETL procedures and programs using Informatica session log.
+●Designed and developed UNIX scripts for scheduling the jobs.
+●Used Business Objects to create various reports.
+●Used Trillium for Data Cleansing.
+●Wrote post-session shell scripts to check status (failure/success) after completion of all batches.
+●Maintained Development, Test and Production mapping migration Using Repository Manager. Also, used Repository Manager to maintain Security and Reporting.
+
+Environment: Data Modeling, Data Analysis, Business Analysis, Erwin 7.1/4.2, Use cases, RUP, Legacy Systems, Informatica PowerCenter 8.0/7.1, Oracle 10g/9i, Trillium 7.0, MS SQL Server 2005/2000, PL/SQL, Business Objects XI/6.5, Microstrategy 8.0x, Autosys, Shell Programming, SQL * Loader, IBM DB2 8.0, Toad, Excel and Unix scripting, Sun Solaris, Windows NT
+
+ASTELLAS PHARMACEUTICALS, DEERFIELD, IL SEP’06– MAY’07
+ETL DEVELOPER / DATA ANALYST
+
+Astellas is one of the leading Pharmaceutical Companies in US. This Sales and Marketing Datamart was to generate reports and analyze the sales of various products. The product data was categorized depending on the product group and product family. It was also used to analyze the usage of product at different times of the year by different cross sections of the market / consumers.
+
+Responsibilities:
+●Business Analysis and Requirements Collection.
+●Designed the Data Mart model with Erwin using Star Schema methodology.
+●Developed Logical and Physical data models that captured current/future state data elements and data flows using Erwin.
+●Designed and Customized data models for Data warehouse supporting data from multiple sources on real time.
+●Architecture design by effective data modeling, implementing database standards and processes. Data profiling and definition of enterprise business data hierarchies.
+●Analysis and design of the ETL architecture, created data templates, trained people, developed and deploy and maintained ETLs.
+●Designed Logical/Physical Staging Database.
+●Designed the Logical/Physical Data warehouse out of Staging Database to facilitate reporting.
+●Reviewed source systems and proposed data acquisition strategy.
+●Designed and Customized data models for Data warehouse supporting data from multiple sources on real time. Developed best practices and procedures for ETL development.
+●Data collection and transformation mappings and design of the data warehouse data model.
+●Parsed high-level design spec to simple ETL coding and mapping standards.
+●Created the Entity Relationship diagrams & maintained corresponding documentation for with all attributes, table names and constraints.
+●Prepared Data Dictionary of the data elements.
+●Was also responsible for Data Analysis and Requirements Collection.
+●Researched Sources and identified necessary Business Components for Analysis.
+●Modeled and populated business rules using mappings into the Repository for Metadata management.
+●Responsible for creating the catalogs in the role of administrator for the report generators using Impromptu.
+●Published Impromptu reports to upfront by using IWR Report Administrator.
+●Created Unix Shell Scripts wrote Scheduler utilities for automating the backup of Database/ Transaction log.
+
+Environment: Data Modeling, Data Analysis, Business Analysis, Erwin 4.2, Use cases, RUP, Legacy Systems, IMS Rx Data, Teradata V2R5/V2R4 (Teradata Manager, BTEQ, Queryman, Bulkload, FastLoad, Database Query Manager, DB2 7.0, MS SQL Server 7.0/2000, Oracle 9i/8i, Shell Scripting, SQL, PL/SQL, Sun Solaris 2.6, Windows NT 4.0
+
+ABN AMRO, ANN ARBOR, MI JUN’05-AUG’06
+DATABASE DEVELOPER
+
+Responsibilities:
+●Design of the overall database using Entity Relationship diagrams.
+●Did reverse and forward engineering of data models and executed scripts out of data models.
+●Wrote triggers, menus and functions in PL/SQL.
+●Involved in building, debugging and running forms.
+●Involved in data Loading and Extracting functions using SQL*Loader.
+●Designed and developed all the tables, views for the system in Oracle.
+●Designed and developing forms validation procedures for query and update of data.
+
+Environment: Oracle 8.0, SQL*Plus, SQL*Loader, PL/SQL, MS Visio, Reports
+
+Contact this candidate

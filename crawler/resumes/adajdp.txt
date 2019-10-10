@@ -1,0 +1,47 @@
+
+Nitin Misra
+Contact:+1-778-***-**** Email:adajdp@r.postjobfree.com LinkedIn:https://www.linkedin.com/w/nitinmishra27/ Github:https://github.com/nitinmishra27 StackOverflow:https://stackoverflow.com/users/1542796/ Summary & Technical Skills
+Having relevant experience of more than five years in software development and one year in data engineering; data-intensive applications. I have been constantly tackling and resolving challenging architectural and scalability problems in the Insurance industry. I worked extensively on planning, testing, debugging and documenting big data pipelines and architectural framework. I am offering a strong understanding of agile development methodologies and version controlling system, also offering hands-on experience on Apache Hadoop, Hive, Drill, Spark, Kafka and Cassandra.
+Technologies/Tools:
+● Programming/SQL Languages: Java, Python, Scala, Kotlin, SQL
+● IDEs: IntelliJ IDEA, Pycharm, Anaconda Studio (Spyder & Jupyter Notebook), VSCode, Android Studio and XCode
+● Distributed Processing Framework/Databases: Apache Hadoop (MapR), Apache Hive Apache Spark Cassandra and Kafka
+Professional Experience
+Big Data Engineer April 2019 - December 2019
+Insurance Corporation of British Columbia, Vancouver, Canada
+● Working on huge data pipelines including terabytes of ‘claims’ data for the past 40 years, which are crucial for the projects RAAP and RFR.
+● While assisting the claims department to remove several redundant practices within the system, worked closely with AOs and CAO to improve the existing ICBC internal framework libraries (Scala).
+● Constantly analysing business requirements, leading the technical architecture for the data pipelines and suggesting appropriate data modelling framework and model changes; interpreting and presenting the end results from the ETL process to the product owners every three-weeks time.
+● Developing complex ETL pipelines using Scala and Apache Spark APIs to migrate legacy EDW data to the Hadoop ecosystem; using TDD to perform unit testing and the end-to-end data testing to ensure the highest quality of data pipelines and reduced development time.
+● Analysing end-user business reports to design and develop snapshots and reporting views on Apache Drill and Apache Hive to be visualised in Tableau (by the business team).
+● Using Stream-sets pipelines to ingest data from multiple sources (Oracle CDC, DB2, SAP files) into MapR file system.
+Senior Android Engineer May 2017 - June 2019
+Insight Network Australia Pty Ltd, Sydney, Australia
+● Provided technical solutions for solving business problems of the Android OS by employing the latest technologies.
+● Refactored and migrated the legacy projects from MVC to MVVM architecture using functional programming (RxJava/Kotlin and Dagger).
+● Applied agile development methodologies using JIRA, constantly used unit tests for new modules and GIT for the version control; provided continuous internal and external builds using BitBucket pipelines
+(CI).
+● Conducted code reviews and helped in project planning and designing user stories using JIRA Associate Software Engineer Jan 2014 - May 2017
+SFWorx Technologies, Faridabad, India
+● Conceptualised, developed and tested native Android applications, including UI, core functionality and third-party SDKs.
+● Managed the full mobile application development lifecycle from planning, requirement gathering, developing, testing and launching on Google play store for beta testing; managed the development of all application components, UI resources.
+● Managed and established a team of web-developers for providing suggestions and formulating back-end design and development.
+Technical Project Experience
+Yelp Data Analysis Nov 2018 - Dec 2018
+Simon Fraser University, Burnaby, BC
+The key idea of this group project was to formulate business strategies for new ventures using Yelp Dataset:
+● Performed ETL using Spark JSON APIs, Spark Data-Frames and Stored it in Cassandra Database.
+● Merged the income dataset of several US counties to garner the insights for the expenditure range and restaurant prices in those areas.
+● Prepared an NLP model to identify fake and original reviews, which assisted to quantify the results accurately; exploratory statistics using tableau or D3 JS. Achievements
+● Contributed towards framework design and development at ICBC, which is currently being used by many developers on a daily basis.
+● Developed MVVM (Model View ViewModel) architecture on guidelines laid by Google’s MVVM using functional programming (using RxJava) and singleton pattern (using Dagger) for solving the issues, which were being used in the MVC (Model View Controller) architecture complex mobile application for Insight Timer Meditation App.
+● Maintained the highest overall aggregate (GPA of 3.7/4.0) in the Computer Science Department (Class Strength - 60) by securing rank #1 in 4 years programme of Bachelors of Technology Education
+Professional MSc. Big Data Sep 2018 - Present
+Simon Fraser University, Burnaby, BC
+Relevant Courses: Big Data Programming-1(CMPT-732), Big Data Programming-2 (CMPT-733), Machine Learning
+Bachelor of Technology, Computer Science & Engineering Aug 2009 - May 2013 Maharshi Dayanand University, Rohtak, Haryana, India Relevant Courses: Database Management Systems, Design and Analysis of Algorithms, Data Structures, Software Engineering.
+Interests
+● Contributing to open source: Answering on stack-overflow and the other websites such as to help fellow programmers/developers like improving existing libraries and creating new libraries for open-source community.
+● Learning to cook food and experimenting with different recipes. Occasional outdoor sporting.
+
+Contact this candidate

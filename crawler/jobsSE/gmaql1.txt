@@ -1,71 +1,51 @@
+Job Title = Selenium Or Qa Or Automation Or Engineer jobs in Raleigh, NC, 27606
 
-Hi,
-Hope you are doing great!
-Please review and let me know if you are interested and available by responding with most updated resume to to take your candidature further. Just in case if you are not available, please share this JD to your contacts in network, who may be interested.
-Title: Automation Engineer
-Location: Tempe, AZ
-Duration: 12+ Months or (Contract to HIRE)
-Years of experience with Java or C# (Development or Test Automation Development)
-Functional Automation
-Experience designing, developing, and maintaining an automation framework
-Frameworks we are currently using:
-Protractor (a framework for Selenium) and Cucumber with TypeScript, or JavaScript
-Selenium with C# or Java
-API Automation and API Performance Testing:
-Experience in this area is preferred and with the tools and languages below is a plus
-Tools:
-API Automation: Karate (Java)
-API Performance Testing: Gatling (Java and Scala)
-Experience with CI/CD:
-Experience with CI/CD tools is preferred
-Experience working with a CI/CD Pipeline is a plus
-Example of tools:
-Jenkins
-Docker
-Additional Qualifications:
-Strong communication skills
-Strong desire to learn new things and innovate
-POSITION SUMMARY:
-The QA Consultant is responsible for feature testing, system testing, and writing automated tests with limited supervision. This position works closely with application developers, business analysts, and infrastructure engineers through all stages of the software development process to ensure that all systems meet organization standards and end-user requirements.
-PRINCIPAL RESPONSIBILITIES:
-The following responsibilities are general duties that a particular employee in this position may or may not be required to perform. The actual duties required of this position will vary.
-Works with project lead and project team to plan, estimate, schedule and execute testing for new applications and including:
-o Establishing, organizing and monitoring testing deliverables
-o Documenting and executing complex software test plans and strategies
-o Ensures traceability of test cases back to project requirements
-o Executing end to end test scenarios
-o Coordinating and supporting user-acceptance test plans
-o Working with project management and development staff to report and resolve complex issues
-o Works directly with appropriate IT personnel to understand project concept, objectives and approach of software development projects.
-Ensures software applications are error-free and meet functional requirements.
-Participate in all aspects of testing at all levels, including functional, system, regression and load testing.
-Records and reports on testing metrics
-Responsible for the overall success of testing.
-Follows documentation standards and ensures support documentation is created and updated as necessary for all standard software.
-Performs other job-related duties as assigned.
-EXPERIENCE, EDUCATION, CERTIFICATION:
-Bachelor's degree in computer science, information technology, management information systems, or related field or equivalent experience.
-5+ years experience performing QA activities.
-KNOWLEDGE AND COMPETENCIES:
-The following key competencies represent qualities, traits and behaviors that a successful employee will exhibit. This list is not exhaustive, as other qualities, traits and behaviors are also desired.
-Strong written and oral communication skills.
-Ability to interact with IT personnel on all levels to resolve complex issues and provide solutions in a timely manner.
-Must have a desire for achieving excellence in customer satisfaction, process and product quality and reliability.
-Ability to interact effectively as either a leader or as a member of a team and work collaboratively with other departments.
-Understands the need for and consistently practices effective teamwork with others.
-Capable of prioritizing and managing assignments, tasks and projects to completion with minimal supervision.
-Ability to maintain a detail oriented approach while multitasking in a fast paced environment.
+Deegit Inc  – 
+Cary, NC, 27511
+-Experience on automation testing, -Experience in healthcare domain, -Hands on experience/ Knowledge in Claims (Medicare/Medicaid) -Selenium, java, Automation testing.
+- Sep 26
 
---
+Aerotek, An Allegis Group Company  – 
+Raleigh, NC
+Job Summary QA Automation Engineer Our software team is looking for QA candidates to join a dynamic group of passionate ... as an end user - Strong troubleshooting Skills - API testing experience - Git/version control - Selenium automation
+- Neuvoo, Oct 03
 
-Thanks and Regards,
+Aerotek  – 
+Raleigh, NC, 27603
+... This team is looking for a QA Engineer to join a dynamic group of passionate engineers working on these products with the ... and generating test cases Strong Linux/Unix skills as an end user Git/version control Selenium automation Permanent
+- Jobg8, Sep 28
 
-Maharsi Technical Recruiter Thoughtwave Software and Solutions Inc
-1444 N. Farnsworth Ave, Suite 302, Aurora, IL - 60505
-Email:
-Phone #) EXT:121: Fax:
-Website:
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to the testing automation processes and tools. * Resolve day to day issues and provide solutions * Be QA subject matter expert ...
+- Dice.com, Oct 09
 
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to the testing automation processes and tools. * Resolve day to day issues and provide solutions * Be QA subject matter expert ...
+- Dice, Oct 08
 
-Apply now
+TransLoc Inc.  – 
+Durham, NC
+... Were looking for a QA Automation Engineer who understands how, when, and what to automate so that your team consistently ...  or relevant experience A minimum of 2 years experience in automation using open-source tools like Cucumber, Selenium, etc. ...
+- ZipRecruiter, Oct 02
 
+Cynet Systems  – 
+Cary, NC
+We are looking for Quality Assurance (QA) Automation Engineer / Lead for our client in Cary, NC Job Description: 10+ years ... Exposure to test automation using tools like Micro Focus (MF) Unified Functional Testing (UFT), Selenium Exposure to non ...
+- Neuvoo, Sep 19
+
+Spectraforce Technologies  – 
+Raleigh, NC
+... (Required) Knowledge of the practical application of engineering science and technology (Required) Design and develop test automation framework and strategies Document software defects, using a bug tracking system, and report defects to software ...
+- Neuvoo, Oct 02
+
+ndustrial.io  – 
+Raleigh, NC
+As a QA Automation Engineer, you will be working on the Software Engineering team to make sure our products are built with testing in mind from start to finish. You will be responsible for designing, developing, and maintaining ndustrial.io's end-to ...
+- ZipRecruiter, Oct 08
+
+IT Automation LLC  – 
+Cary, NC
+... In our next training Batch, we are focused in Test Automation using Apache tools and related open source technologies. Please contact us for further information. Contact: Santhosh ) Course Content: Java Fundamentals Selenium IDE and Selenium Web ...
+- ZipRecruiter, Sep 26

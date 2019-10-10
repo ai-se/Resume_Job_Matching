@@ -1,0 +1,66 @@
+
+Antoine Carl Stewart
+adai3j@r.postjobfree.com 718-***-**** 2210 E. Huntington Dr. Phoenix, AZ. 85040 Willing to relocate to DMV area or NYC
+Professional Objective: To obtain a Senior or Staff Technical position, preferably as a Controls Engineering Lead, Controls Project Engineer, Controls Design Engineer or Controls Supervisor, while contributing/supporting the company to grow. Areas of interest include analyzing, configuring, converting, designing and testing electronic equipment. Additional areas include manufacturing, automation and control systems CONTROLS QUALIFICATIONS
+Experience in Semi-conductor industry and the in Power-industrial turbine industry; both domestic and internationally to support startup and commissioning
+Project leadership in construction, critical and rapid environments to drive control life-cycle
+Ability to identify, install, maintain, modify, replace and troubleshoot PLC5 and Control/Micro Logix PLC’s and I/O modules. Highly proficient with application and design of PLC hardware and software and SCADA
+Adept ability to study and comprehend new technology such as communication protocols and databases
+Provide technical oversight of project deliverables from external contractors. Approve packages for construction while interacting with contractors and internal project teams and stakeholders
+Ability to comprehend Sequence of Operations (SOO) documents in conjunction with A/E firms and/or Engineers and provide feedback to design
+Analyze and review control system design drawings; P&ID’s, control system schematics and networking drawings
+Competent in communicating clearly and effectively, while relating technical issues to business leadership I. Allen Bradley
+Proficient knowledge of RSLogix5, RSLogix 5000, PLC5 and ControlLogix
+Excellent knowledge of FactoryTalk Asset Centre
+II. General Electric (GE)
+Exceptional knowledge of GE CimView Proficy HMI - Cimplicity SCADA system
+Work closely in alarming, controlling, reporting and Human Machine Interfacing. Assist in modifying sequence of operations for process systems
+III. Engineering Lab Coordinator
+HP Computers: Load Windows XP SP3. Install additional memory cards, video card and NIC as well as load and configure Network drivers for development machines
+Prosoft PC 56 module: Configuring and troubleshooting communication module to interface with various Ultra-Pure Water Systems that receive Analytical data CONTROLS ENGINEER EXPERIENCE
+Senior Facilities Engineer: Instrumentation and Controls April 2017 - present Intel Corporation, Chandler, AZ.
+Divisional Recognition Award for Reliability Improvement (2018)
+Intel Education Services Corps Trainer for the Oakland United School District Innovation Workshop (4 weeks, 2018)
+I&C Project Engineer: Discipline Lead in critical construction, dynamic and high tech environment
+Ensure control systems are deployed and commissioned to documented standards
+Project Engineering Lead for PLC5 to ControlLogix Conversions
+Six Sigma Green Belt Project: Responsible for creating the deliverables and roadmap of the Engineering and Technician Electrical, Instrumentation and Controls, and Life Safety Systems team’s Certification packages
+Analyze and resolve production issues independently and as a member of cross-function teams
+Lead complex troubleshooting and difficult/emergency situations for facility management systems
+Manage multiple stakeholder deliverables and requirements
+Mentor junior I&C Engineers
+Facilities Engineer: Instrumentation and Controls January 2012 – March 2017 Intel Corporation, Chandler, AZ.
+Full system ownership and primary engineering contact of a Semi-conductor facility for SCADA and large scale control systems
+Principal liaison for all control systems related issues; coordinated efforts for external activities necessary to support assigned site operations
+Collaborated with other engineering disciplines to establish control systems architectures and control strategies for machines, processes and automation designs
+Coordinated project work internally within the department and externally with other departments to ensure on time completion of projects
+Provided expertise of control design, configuration, integration, implementation, and maintenance/reliability of process control solutions for facilities equipment
+Modified and implemented ladder logic utilizing Allen Bradley RSLogix5 and RSLogix 5000
+Regularly reviewed and edited work plans, P&IDs, scope(s) of work and alarm set points to match specification documentation and align with current process technologies
+Replaced and/or coordinated the replacement of PLC 5 faulted processors and ControlLogix Ethernet modules with new. Upgraded older style PLC 5 processors with newer PLC 5 processors for system robustness
+Participated in on-call rotation (two week durations) I. Senior Controls Engineer: Chandler, AZ. (2013: Temp Assignment -10 week Development Opportunity)
+Provided technical direction and leadership for project and sustaining control system for facilities systems
+Facilitated I&C scope for factory planned interrupt projects: provided technical assistance and coordinated resource allocations for production related activities Controls Field Engineer November 2008 - July 2011
+ProEnergyServices, Sedalia, MO
+Worked hand in hand with Lead in-house Engineer on a daily basis to resolve issues and tasks
+Utilized knowledge of PLC programming to support new business and assigned projects
+Constructed modifications in logic designs, improving operation time and reducing costs
+Reconciled I&C P&ID’s and point to point loop drawings that coincided with networking drawings
+Executed Factory Acceptance Testing (FAT) on Balance of Plant (BOP) controls once its logic and HMI graphics were interfaced
+I. Controls Field Engineer Lead: Caracas, Venezuela (2010: 1.5 months)
+Performed in shop FAT’s via Logix5000 for Balance of Plant (BOP) control cabinets before being shipped to site
+Shadowed Control System Engineering Lead for a 45-day duration
+Reconciled and red-lined network drawings
+II. Controls Field Engineer Lead: Naudero, Pakistan (2010: 2 months)
+Performed in shop FAT’s via RTP control system architecture for Turbine and Balance of Plant (BOP) controls before being shipped to client site
+Shadowed Lead Engineer for a two month duration
+Set up Control System network utilizing Ethernet
+Assisted in the development of ladder logic for RB211 Aero-derivative gas turbines
+Provided Control System and Gas Turbine technical/operational support EDUCATION
+Doctorate of Philosophy at State University of New York at Binghamton December 2023 Industrial and Systems Engineering 3.28
+Masters of Science in Technology December 2011
+Emphasis: Engineering Technology 3.81
+Robert E Goetz Graduate Student Award: 2011, Delta Epsilon Iota Academic Honor Society Inc. – Spring 2010 University of Central Missouri, Warrensburg, MO
+Bachelor of Science in Electronics Engineering Technology May 2008 Savannah State University, Savannah, GA
+
+Contact this candidate

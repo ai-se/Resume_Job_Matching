@@ -1,3 +1,4 @@
+Job Title = Enterprise Accounting Software Implementation Engineer
 
 FlexiInternational Software, a 27-year old enterprise software company, has an immediate opening for an Implementation Engineer based in our Shelton, Connecticut, office. Remote candidates will be considered. Flexi develops commercial enterprise accounting applications for browser-based and client/server deployments.
 Job Responsibilities

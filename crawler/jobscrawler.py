@@ -6,7 +6,7 @@ import sys
 import requests
 from bs4 import BeautifulSoup as bs
 
-df = pd.read_csv("jobs.csv")
+df = pd.read_csv("jobsE.csv")
 
 
 for i, url in enumerate(df.links):

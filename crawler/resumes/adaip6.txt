@@ -1,0 +1,149 @@
+
+KRISHNAKUMAR C
+Microsoft Certified IT Professional
+Email: adaip6@r.postjobfree.com
+Phone: +974-********/50032401
+Acknowledged for strengthening companies to lead in highly competitive markets and delivering innovative Network Engineering concepts and strategies
+Expertise in Design, Support, Administration & Implementation of network projects ; targeting assignments in Network & System Engineering
+CORE COMPETENCIES
+PROJECT MANAGEMENT
+IT NETWORKING(CI S CO,JUNIPER &
+HP)
+S Y STEMS ADMINISTRATION &
+MAINTENANCE
+MICROSOFT EXCHANGE
+ADMINISTRATION & MAINTENANCE
+AVAYA IP TELEPHONY
+ADMINISTRATION & MAINTENANCE
+F I REWALL & VPN PERFORMANCE
+NETWORK INFRASTRUCTURE
+UPGRADE
+DISASTER RECOVERY
+SECURITY SYSTEMS &
+NETWORKING
+CROSS-FUNCTIONAL COORDINATION
+PROFILE SUMMARY
+Microsoft & Cisco Certified Network Professional with rich & extensive 13 years of experience in Network & Systems Engineering in India and 3 years of Gulf Experience; currently associated with Value Medical Complex System and Network Administrator
+Configured, maintaining and administered Microsoft Windows Servers & Exchange Services (AD, DC, Exchange & System Center including other software solutions)
+Acted as Internal Auditor for IT security and Operations.
+The merit of providing network connectivity for externally hosted services using Virtual Private Network (VPN) tunnels, which allowed a secure & reliable way to access Internal Lightweight Directory Access Protocol (LDAP) and backup services
+Backed up and configured Servers Data, OS, Application and VMs(HyperV); implemented the policies for the Computer Systems
+& Networks
+Maintained up-to-date inventory/records of all Core Infrastructure devices through voice communications, network devices, hardware servers and storage upon receiving of the materials, including the Licensing document details regardless of the products/brands
+(Microsoft, Cisco)
+Worked as ISO standard Implementation in SJCET and Redington
+Scrutinized tactical metrics and system performance tools to mitigate end-to-end performance issues and LAN / WAN circuits to verify overall system health
+Coordinated the maintenance of network servers including file servers, VPN gateways, intrusion detection systems as well as desktop computers, routers, and switches
+Designed and implemented Network Security solutions comprising Cisco ASA firewalls, Fortigate Firewalls, Intrusion Prevention System (IPS) and Web Application Firewall (WAF) for both the internal and external network
+NOTABLE ACCOMPLISHMENTS ACROSS THE CAREER
+Coordinated for opening new locations including working with vendors for telecommunications services, cabling, furniture, and fixture installation as well as installing and configuring servers, workstations, and Voice Over Internet Protocol (VOIP) phones for users
+Resolved system slow-down issues through network migrations, reconfigurations, integrations, and troubleshooting
+Directed the Network and Infrastructure Section team comprising of Security, Local Area Network (LAN), Wireless and Data Centre personnel in implementing the organization’s IT standards, framework and strategy
+Lead Architect for network infrastructure design and development, data center design and management as well as management of LAN / WAN, Wireless, Virtual Private Network (VPN), Firewalls, DMS, Web EX and Telepresence
+Proposed a plan for a future hardware replacement and upgrade program including new firewalls, switches, and servers basis evaluation of the current state of the network
+Supervised network administration including user and mailbox administration, security for local and remote users including File Transfer Protocol (FTP) permissions, server maintenance, patches and security updates, malware removal, license management, and software compliance
+Escalation gate for troubleshooting advanced network/systems issues; consistently earned 100% issue-resolution scores by providing excellent service to internal and external customers ORGANIZATIONAL EXPERIENCE
+Since Feb’17 Value Medical Complex, Qatar (System and Network Administrator) KEY RESULT AREAS
+Performing maintenance, backups and system upgrades including service packs, patches, hot fixes and resolving security configuration issues raised by clients; monitoring network performance and analyzing & identifying the issue
+Hospital Software Implementing and administrating (Reception Module, Doctor Module, Lab Module, Pharmacy Module, Accounts Module, Consumable Module and HR Module)
+Providing technical support, working hard to ensure all targets are met and reported to senior management
+Responsible for diagnosing & resolving hardware, software & end users problems.
+Manage all Purchases (ALL Medical Equipment item, All Medicine item and Office Stationery item)
+Manage all type of Insurance Work
+Monitoring network traffic and identifying the issue with help of NMS; collecting and compiling statistics on network and server usage, layouts, hardware configuration details and submitting to Direct Superior
+Examining network performance and ensuring its maximum availability & reliability employing oversight with respect to network security for timely situational incident analysis and remediation; maintaining network security through proper configuration of VPN tunnels and Firewall rules
+Operating within established configuration, documentation and change management policies to ensure awareness, approval, and success of changes made to the network infrastructure
+Establishing the Enterprise LAN environment by designing, system configuration, directing system installation, defining, documenting and enforcing system standards
+Establishing Microsoft Server and Email Infrastructure by designing and maintaining Active Directory, MS Exchange, DHCP, DNS, NPS(Radius), GPOs, Audit Policies and HyperV
+Leading installation of Network Monitoring Solution and Analysis and identifying & solving network issue using NMS
+Preparing and maintaining documentation (network diagrams/topologies) and drawings to assist in communicating the current operational status of networks as well as for change management
+Configuring routing protocols (EIGRP, OSPF), VLANs, and Port Security, High Availability (HSPR), and other LAN Technologies
+Establishing and controlling Network Access Procedures, Protocols Services, Internet Access, VPN, and Voice
+Maintaining back up server’s data, OS, Application, and VMs including configuration and configuration of all the remote connections from Data Center Head Quarters to branches
+Maximizing network performance by monitoring performance, troubleshooting network problems and outages, scheduling upgrades and collaborating with network architects on network optimization Nov’12 – April’16 St. Joseph's College of Engineering & Technology, India (Systems & Network Administartor ) KEY RESULT AREAS
+Identified solutions for software and hardware issues and diagnose technical issues, including account setup and network configuration
+Tracked computer system issues through to resolution, within agreed time limits and interact with clients through a series of actions, either through phone, email or chat
+Managing and configuring IP-Telephone AVAYA system
+Installing and configuring Peachtree accounting software
+Installing, configuring and managing switch 4 HP 1920-48-POE+370 (VLan, Inter VLan Routing,)
+Installing, configuring multiple site through the site to site vpn using DrayTech Vigor 2860n
+Installing and Administration NAS STORAGE WD My Cloud EX4100
+Used remote access to perform troubleshooting when needed.
+Installing, configuring and managing CCTV
+Installing, configuring and managing PBX & IP Phone
+Installing, configuring and managing attendance machine
+Followed up with clients to ensured IT systems were fully functional after troubleshooting; prepared accurate reports and documented technical knowledge in the form of notes and manuals PREVIOUS EXPERIENCE
+July’10 – Oct’12 Teamfrontline LTD, India (Sr.Support Engineer) IT SKILLS
+Server OS: Windows 2012, 2008, AD, DNS, DHCP, Forest, and Sites.
+Installation and configure on SQL Data Mirroring
+Network/Protocol: TCP/IP, OSPF, BGP, SNMP, RIP, STP, RSTP, and MSTP.
+Storage Devices: SAN, NAS, Tape Library
+VMware ESXI 5.1 Installing and Configuring, VCenter server and Guest machines
+Hardware: Cisco ISR Routers (2901), Cisco Catalyst 2960, 3650 Switches, Juniper EX2200, Juniper SSG Firewalls.
+Installing, configuring and managing Symantec Endpoint protection Antivirus,
+Installing, configuring and managing PBX & IP Phone
+Kaspersky Business space security
+Backup Solutions: Veritas/Symantec Backup Exec.
+VPN : GRE / IPSec / DMVPN / SSL
+Wireless: Cisco Aironet APs and WLAN controllers.
+Voice: Cisco Unified Communication Manager 6.0 / CCM Express; Cisco UC500, Avaya IP PABX
+Firewall: Cybaroam, Checkpoint, FortiGate.
+NMS : Solar wind, Wireshark, Open NMS
+Jan’06 – Feb’09 Redington India LTD, India (Support Engineer) IT SKILLS
+Installed & Configured IBM,Dell,HP, Wipro & Fujitsu Tower Server, Rack Server
+Installed & Configured IBM,Dell,HP, Wipro & Fujitsu Blade Server
+Installed & Configured IBM STORAGE DS4300 Unified SAN Storage
+Installed &Configured Storage Partitioning (LUN Masking) to windows / Linux Servers
+Installed & Configured IBM,Dell,HP, & Fujitsu Storage Works 4300 and DL320S G1
+Installed & Configured IBM TS 3100 Ultrium LTO5 Tape Library
+VMware ESXI 5.1 Installing and Configuring, VCenter server and Guest machines
+Hardware: Cisco ISR Routers (2901), Cisco Catalyst 2960, 3650 Switches, Juniper EX2200, Juniper SSG Firewalls.
+Backup Solutions: Veritas/Symantec Backup Exec.
+Data Center Server Managing and Network troubleshooting Sep’2000 – Dec’05 Data Hard System, India (Support Engineer) IT SKILLS
+Troubleshooting the Network Issues.
+Install and Configure Windows Server and clients.
+Install and Configure Domain, AD, CDC and Exchange Server.
+Install and Configure Group Policy Management
+Install and Configure FTP Services
+Installation and Configure IBM,Dell,HP, Wipro & Fujitsu Server and Storage. (Blade and Rack)
+Installed & Configure IBM and HP Tape Drive
+Installation and configure on SQL Server, Oracle,.Net and Java
+Backup SQL Server and Oracle Data base
+Installation and configure on Redundant Array of Independent Disks (Raid) all Levels
+Installing, configuring and managing of Print Server.
+Installing, configuring and managing Exchange 2007
+Mail Client configuration Exchange Server and MS Outlook 2007, 2003 DATA CENTRE PROJECTS:-
+JRG Securities, Cochin, Kerala, Geojit Securities Cochin, Kerala, Muthoot Securitas Cochin, Joy Alukkas Group Cochin, Arya Vaidya Sala Kottakkal,Malappuram, Etihad Airways, Kerala, St:Joseph’s College of Engineering & Technology – Palai, Rajagiri College of Engineering and Technology – Cochin, Viswajyothi College of Engineering and Technology – Muvattupuzha, Indian Navy Headquarters – Cochin, Transformers And Electricals Kerala Limited(TELK) - Cochin, Kerala Agro Machinery Corporation- Cochin ACADEMIC DETAILS:-
+Bachelor Computer Application from Manava barathi University 2009-2012
+ITI Electronics & Communication 1998 - 2000
+CERTIFICATIONS:-
+Completed 3-month Certification course in Embedded
+ITIL 2011 Foundation, Training completed
+MCITP-Server 2012 Administration (Microsoft)
+Completed CCNA Certification course
+Completed RHCE Certification course
+CCNSP – Cyberoam Certified Network and Security Professional
+VCP 5 - VMware Professional on Data Center Virtualization ACHIEVEMENTS: -
+Best Engineer Awarded By HP for the Support Provided during the Period of 2007-2008, 2008-2009
+HP training for Servers, PCs, Printers, Plotters, Scanners & N/W Equipment’s
+IBM server (X series) training
+Fujitsu Server training
+Cyberoam Firewall training
+FortiGate Firewall training
+Benq laptop training
+Epson training for Printers, Plotters and Scanners
+Soft Skills Training on Customer Handling
+PERSONAL DETAILS:-
+Languages Known : English, Hindi & Malayalam
+Address : Markhiya,Building No.201, Doha, QATAR
+Passport No : K 3882491
+Driving License : India and Qatar
+Nationality: : Indian
+Religion: : Hindhu
+Marital Status: : Married
+Date of Birth: : 26-05-1981
+DECLARATION:-
+I hereby declare that the information furnished above is true to the best of my knowledge. Place: Thodupuzha Yours Faithfully
+Date: Krishnakumar c
+
+Contact this candidate

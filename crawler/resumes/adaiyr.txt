@@ -1,0 +1,113 @@
+
+Mohammed Ilyas
+Al Mansora, Doha - Qatar
+Email: adaiyr@r.postjobfree.com Cell: 009**-********
+
+Multi-certified (Azure, AWS, and RHCSA) systems administrator with strong experience managing server infrastructures and data-center operations across Unix, Linux, Windows and cloud platforms. Effectively plan, install, configure and optimize IT infrastructures to achieve high availability and performance.
+Proven ability to create and deliver solutions tied to business growth, organizational development and systems/network optimization. Skilled problem identifier and troubleshooter comfortable managing systems, projects and teams in a range of IT environments.
+Highlights of IT Skills
+
+LAN/WAN/NOC Administration
+Project Management
+Productivity Improvement
+Technical Support
+Systems Installation,
+Configuration & Upgrading
+Security Solutions
+Database Design &Management
+NOS Patches &Updates
+Training & Mentoring
+
+Professional Experience
+-NGA HR India Pvt Ltd - System Administrator — Hyderabad, India, 2014 to present
+-Expert Office Systems - Systems Administrator – Hyderabad, India (2012 to 2014)
+-HCL Infosystems - Desktop Engineer – Hyderabad, India (2010 to 2012)
+
+EDUCATION & PROFESSIONAL DEVELOPMENTS:
+-MCA (Master of Computer Application) from JNT University, Hyderabad - in August 2010.
+-B.Sc. in Computer Science from Osmania University, Hyderabad - in June 2007.
+
+Certifications:
+-AZURE ADMINISTRATOR - ASSOCIATE
+-AWS CERTIFIED SOLUTIONS ARCHITECT – ASSOCIATE
+-REDHAT CERTIFIED SYSTEM ADMINISTRATOR – RHCSA
+NGA HR India Pvt Ltd -- Hyderabad, India,
+System Administrator / Technology Team Lead
+
+Consulted with client companies to provide Web-based and network solutions along with strategic planning and project leadership over systems migration, configuration, administration, upgrades and troubleshooting initiatives.
+Key Contributions:
+Hired as a full-time systems administrator following initial consulting role to manage and maintain a 60+ mixed server environment (Windows/Unix/Linux), ensuring 99.9% or better uptime. Evaluate, monitor and enhance IT infrastructure with an emphasis on availability, reliability, scalability, security, data confidentiality and system integrity.
+
+Roles and responsibility:
+Reengineered company’s systems setup, establishing automated server generation routines, optimizing system performance, installing upgrades/patches, establishing system monitoring and maintaining security protocols.
+Ensured that all server hardware, operating systems, software and procedures aligned with organizational standards and strategic business plan.
+Revamped NetBackup schedule and upgraded 15 Oracle servers. Optimized system availability (averaging 99.95% uptime) and equipped company with scalable systems to support business growth.
+Increased team productivity and automated repetitive tasks by using batch files, PowerShell, and Asinble.
+Acted as escalation point for troubleshooting advanced network/systems issues; consistently earned 100% issue-resolution scores by providing excellent service to internal and external customers.
+Trained employees across multiple departments on network operations including log-in procedures, network management software, permissions, printing issues, security and use of software.
+Directed the implementation and performance tuning of Windows Server environment for client’s global operations. Delivered a major improvement over old VPN system that catapulted productivity of remote sales force.
+Drove a 25% decrease in Web site downtime by migrating RaQ4 server sites and online stores to Linux server. Corrected server configuration problems, wrote scripts to ensure smooth server/reboot functioning, and assisted with a variety of Linux-based inquiries and concerns.
+Replaced major manufacturer’s vulnerable network with robust security through joint architecture of firewall and DHCP.
+Stabilized, expanded and protected client network and PC environment. Built new file servers to maximize Web hosting, terminal server, file/print sharing and domain control performance
+Deliver technical support to engineering teams, aiding optimization of existing system(s) and processes. Support includes monitoring of incidents and their timely resolution
+Setup, build and maintain distributed filesystems, data warehouses and secure Backup and Restore flows
+
+Expert Office System – Hyderabad, India
+System Engineer
+
+Consulted with client companies to provide Web-based and network solutions along with strategic planning and project leadership over systems migration, configuration, administration, upgrades and troubleshooting initiatives.
+Role and Responsibilities:
+Monitor server event logs, performance logs, growth of data on the network, and checking the status of nightly server backups
+Ensures compliance with uptime and performance standards and develops system and product benchmarking and monitoring
+Provide detailed project status reporting as directed by management
+Performs day-to-day maintenance and installation of server, network equipment, virtual machines, messaging, backups and storage
+Work on moderately complex assignments, using judgment to resolve problems and make routine recommendations
+Participate in on-call rotation to provide 24 X 7 production support
+Develop and maintain detailed maintenance and contingency plans and documentation for server infrastructure
+
+HCL Infosystems - Hyderabad, India
+Desktop Engineer
+
+Role and Responsibilities:
+Handling user’s technical queries and providing solution for Computers, Printers, network, and internet connectivity.
+Taking daily backup of domain server and file server
+Network monitoring, System and network optimization, system and network planning, management information system (MIS).
+Installation and troubleshooting of Linux base client OS and connectivity with windows file server for storing data centrally.
+Manage Daily call report, stock report and submit to IT Head.
+Managing, Repairing, and Installation of Computers, Printers and Scanners.
+Manage network and switch.
+Manage wireless devices.
+Install and troubleshoot applications. Checking antivirus update on daily basis.
+Installing software and troubleshooting the PCs
+Installation, configuring and maintaining VM-Ware Servers
+Maintaining Active Directory DHCP & DNS Services
+Updating servers with latest service packs and hot fixes
+Experience on Microsoft OS, Installing and implementing AD
+Installing, Maintaining and Trouble-shooting a LAN environment
+Troubleshooting internet and intranet issues
+Replacing the hardware when required
+Providing hardware troubleshooting for client systems
+Troubleshooting software installation issues
+Granting permissions to the network drives and issues connecting network drives
+Mail related issues in POP3, SMTP, and Web mail
+Creating E-mail boxes and troubleshooting outlook login and usage issues
+Dealing with Remote connectivity issues
+Maintaining Network Printer HP 2050dn and HP 3005
+Troubleshooting for Network and local printer
+
+AVAILABILITY:
+-Ready to relocate in any location
+-Possess no bond with the current employer
+-Currently available in Qatar on Business visa
+
+PERSONAL DETAILS:
+Date of Birth
+: 15th July 1986
+Marital status
+: Married
+Languages Proficiency
+: English, Hindi, Urdu, Arabic
+Reference
+: Available on request.
+
+Contact this candidate

@@ -1,3 +1,4 @@
+Job Title = Senior Cloud Infrastructure Engineer
 
 Would you like to work on one of the most disruptive products in the Business Intelligence industry? Tableau revolutionized self-service data visualization by replacing paper reports with dynamic, interactive data visualizations to help people see and understand data. AtScale organization is responsible for the technology stack builds Tableau server. Our mission is to enage with more people in an organization and colloborate around server content. We are looking for an engineer who would like to be part of that mission.
 We have a great culture with a focus on self-improvement, collaboration and trying to reach our potential as a high performing team. We have difficult problems to solve in automation, performance, Dev Ops, reliability, tooling at scale for hosted clound product. This is a challenging role that will have a big impact on Tableau s success.

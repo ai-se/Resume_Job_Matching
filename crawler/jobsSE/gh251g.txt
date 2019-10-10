@@ -1,3 +1,4 @@
+Job Title = Information Security Engineer
 
 The Information Security Engineer position is responsible for monitoring and assessing the security of all customer-facing products and services provided by JAMF Software, as well as internal infrastructure and services used by JAMF Software. In addition, the position is responsible for providing guidance and technical expertise both during the product/service planning and development process as well as during the development and maintenance of corporate policies and procedures. Finally, the position is also responsible for responding to and managing issues in the Security Response queue.
 

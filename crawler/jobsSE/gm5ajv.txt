@@ -1,3 +1,4 @@
+Job Title = Senior Data Engineer
 
 Role: Senior Data Engineer Location: San Jose, CA Tenure: 12+ Months/ Contract # of Positions: 05 Positions Our Data Warehouse team is looking to add a Senior Data Engineer to their team.
 Qualified applicants will have at least 5-7 years experience in a Data Engineer position and a background in supporting data transformation, data structures, metadata, dependency and workload management.

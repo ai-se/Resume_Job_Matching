@@ -1,0 +1,26 @@
+Job Title = Engineer
+
+Position Title: Production Support Lead
+
+Location : WoodCliff Lake, NJ
+
+* At least 5 years experience in Production support of business critical applications (on .Net, IIS, SSIS, PowerBI, Azure PaaS services tech stack) using ITIL framework - ability to independently troubleshoot and investigate and resolve issues in real time, provide problem resolution end-to-end. Experience in major incident management
+
+* Microsoft certfication on Azure technologies. Strong experience in implementing, monitoring and maintaining Microsoft Azure solutions, including major services related to Compute, Storage, Network and Security.
+
+* Hands on experience in application monitoring using tools like AppInsights, SCOM, OMS etc
+
+* Knowledge of tools like Azure Devops/VSTS, GitHub and familiarity with DevOps Set Up using CI / CD for automated Deployments
+
+* Skills to refine and automate regular processes. Experience in Powershell, VBScript, CLI .
+
+* Experienced in PowerBi report design, administration, troubleshooting of PowerBI reporting performance and functionality issues.
+
+* Good knowledge with SSIS/SSRS/SSAS design and administration.
+
+* Knowledge of Azure cloud infrastructure, IaaS and PaaS services, storage structures, and networ king. Proficiency in using features of Azure Portal, Azure Resource Manager, deployments using ARM templates
+SDL2017
+
+
+Go to apply 
+

@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Responsibilities for Machine Operator jobs include but are not limited to:
 Responsible for bench, broaching, forming and batch processing

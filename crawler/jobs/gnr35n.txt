@@ -1,0 +1,36 @@
+Job Title = Engineer
+
+193175 Engineer - Servo Systems - Entry Level (Open)
+The Servo Systems Engineer will report to the Servo Senior Manager located in our design center in Shakopee, MN.
+About our group
+We work on all phases of servo development from market definition, productization through high volume manufacturing. The Servo Engineer group is heavily focused on embedded servo design and implementation utilizing firmware/hardware integration on custom SOC, Processors, Pre-Amp, and Power Electronics.
+About the role:
+
+Development and deployment of advanced embedded control system technologies to meet the high-density tracking, performance, and reliability requirements of enterprise hard disk drive systems.
+
+Development of real-time embedded firmware and electronics for realization of advanced high complexity control systems
+
+Specification, integration, and validation of electronic and electrical systems to enable realization of the control system requirements
+
+Development, testing and integration of algorithms for position feedback tracking control, vibration compensation, motor control, servo pattern demodulation and seek waveform generation
+
+Developing and maintaining processes for design and validation of embedded control systems
+About you:
+
+Bachelors in Electrical, Mechanical or Aerospace engineering and 0-2 years of experience.
+
+Demonstrated experience in real-time embedded firmware design
+
+Demonstrated experience in object oriented programming and embedded system integration experience
+
+Advanced Matlab and C programming experience
+
+Accomplished lab skills, including operation of oscilloscopes, trace tools, data collection tools, and data analysis techniques
+
+Strong communication and technical leadership skills
+#entrylevel
+** Visa sponsorship is not available for this position Job Family: Engineering Professional
+
+
+Go to apply 
+

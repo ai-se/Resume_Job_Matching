@@ -1,0 +1,57 @@
+
+adai9q@r.postjobfree.com
+214-***-****
+Tony Ogwu Senior Business Intelligence Consultant
+PROFESSIONAL OVERVIEW
+Mr. Tony Ogwu is a business intelligence engineer and software implementation manager with over 7 years of business intelligence, quality engineering, business systems analysis, and business consulting experience. Tony’s project management skills include extensive experience in Data Discovery, Data Modeling, ETL, Metadata Management, Data Warehousing, Database Development, Application Development, Report and Dashboard Design, Enterprise Planning, and Predictive Analytics software. His business analyst skills include process definition, measurement, analysis, improvement, control and validation. He has expertise with software/system analysis, capturing requirement definitions, meeting coordination/facilitation, action/task plan development, generating proposal, data conversion, instructional design/training, application administration training, software testing (System and UAT), technical writing, end user training, and team leadership.
+Roles
+● Analyst
+● Consultant
+● Developer
+● Project Manager
+Industries
+● Media
+● Healthcare and social assistance
+● Retail
+● Professional and business services
+● Finance
+Technologies
+● Power BI
+● SQL Server, SSIS, SAP
+● Adobe Analytics
+● Salesforce
+● Google Analytics
+● Mail Chimp
+adai9q@r.postjobfree.com
+214-***-****
+TONY OGWU
+AdigitalSpace.com
+Education:
+SOUTHERN METHODIST UNIVERSITY Dallas, Texas
+Master of Business Administration (MBA) May 2019
+Concentration in Strategy and Entrepreneurship
+SOUTHERN METHODIST UNIVERSITY Dallas, Texas
+Bachelor of Science (BS) May 2012
+Major: Economics with Financial Application
+Honors: Merit-Based Scholarship, Dean’s list
+Work Experience:
+Zimmerman Advertising, LLC Dallas, Texas March 2018 to Present Project Lead, BI Developer
+● In my current role, I Design Data Architecture, Model Data, write Queries, perform ETL’s, and build Live Automated Power Bi Data Visualization Dashboard. Comparing data of Digital Media Spending in Adobe, Double Click, Amazon and Revenue and Cost from SAP, Salesforce and Hyperion year over year and Actuals to Forecast for Nissan USA and Choose Nissan RENT-A-CENTER, INC Plano, Texas October 2016 to March 2018 Digital Analytics Manager
+● Projects Managed: Web Health Report, Desktop and Mobile Web Experience Medallia Surveys, GitHub and Jenkins Mobile App changes, Hybris Desktop and Mobile changes, Digital Leadership Summary, E-commerce Governance Summary, and Digital Backlog prioritization
+● Develop data visualization solutions with POWER BI and Tableau, formulate reports tracking financial and Supply Chain Metrics and produce recommendations base of findings in Omniture and SAP to increase web generated revenue
+● Work with Digital Commerce and Marketing to improve Rent-A-Center NPS score by 2.5 by understanding and identifying goals associated with Digital/Web/Social Media Marketing and online merchandising feedback and surveys MU SIGMA, INC Seattle, Washington February 2016 to September 2016 Data Scientist
+● Project Managed: T-Mobile Adobe Data Management Solution, Build the automation of the ETL process of SiteCatalyst data, Weekly E-commerce Reporting
+● Lead a 6 person offshore development team to set up a centralized data repository layer with robust Data Governance & Determine models, measures, and dimensions to rationalize SiteCatalyst data and support for Nike’s and then T-mobile’s
+● Develop data integrations and reports using the Microsoft POWER BI toolset (primarily T-SQL and Reporting Services) and VLookup and Pivot Tables in Excel
+BUFFETT SENIOR HEALTHCARE, INC Dallas, Texas October 2014 to February 2016 Digital Analyst
+● Project Managed: Email Marketing Campaign using MailChimp, Constant Contact, and Sendgrid, Google Analytics Reporting, and Online Recruiting using Monster and CareerBuilder, Digital Analysis and Digital Forecast
+● Creating Sales and Financial reporting/dashboards based on findings in Salesforce and SAP
+● Preparation and analysis of monthly schedules for actual results, budget, and quarterly forecasts as well as providing management with an analysis of P&L and BS variances DREAMIT VENTURES, INC Manhattan, New York February 2014 to August 2014 Digital Analyst (Contract Position)
+● Coordinating and analyzing operational data of Mobile App to develop forecasts, identify trends, and identify potential issues which may arise throughout the day
+● Reviewed Mobile App goals and objectives against various metrics and trends to make proactive recommendations to the Mobile App and generate incremental revenue
+● Served as a bridge between development staff and Mobile App Customer, taking requirements from clients and converting them into well-defined tasks for our developers
+DR PEPPER SNAPPLE GROUP, INC Plano, Texas August 2012 to August 2013 Deduction Analyst (Contract Position)
+● Identify, determine causes and resolve all types of deductions in a timely and efficient manner with a clear understanding of the impact to Supply Chain, the balance sheet and the P&L using SAP
+● Ensure accurate and efficient reconciliation and reporting of all open and resolved deductions. Thorough preparation of deduction packages to support the issuance of a credit memo, collection process or claim to process
+
+Contact this candidate

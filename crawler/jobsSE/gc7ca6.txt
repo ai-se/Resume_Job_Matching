@@ -1,18 +1,51 @@
+Job Title = Engineer Or Systems Or Fix jobs in Raleigh, NC, 27606
 
-Top skills:
-Linux Redhat (7)
-Break fix - respond to incidents
-Problem management
-Troubleshoot
-Summary:
-The main function of a systems engineer is to apply the principles of computer science and mathematical analysis to the design, development, testing, and evaluation of the software and systems that make computers work. A typical systems engineer analyzes user needs, and then designs, tests, and develops software to meet those needs.
-Education/Experience:
-Bachelor' s degree in computer science, software engineering or relevant field required. 3 to 6 years experience required.
-Job Responsibilities:
-Modify existing databases and database management systems or direct programmers and analysts to make changes. Write and code logical and physical database descriptions and specify identifiers of database to management system or direct others in coding descriptions. Work as part of a project team to coordinate database development and determine project scope and limitations. Review project requests describing database user needs to estimate time and cost required to accomplish project.
-Skills:
-Verbal and written communication skills, problem solving skills, customer service and interpersonal skills. Basic ability to work independently and manage one s time. Basic knowledge of the full software development lifecycle: from business/systems analysis, through requirements gathering and functional specification authoring, to development, testing and delivery. Basic ability to troubleshoot issues and make system changes as needed to resolve issue. Basic knowledge of circuit boards, processors, electronic equipment and computer hardware and software. Knowledge of computer development software across multiple platforms.
+Apex Systems  – 
+Cary, NC, 27518
+Job #: 1003301 Network Security Engineer opportunity in Cary, NC. * Secret Clearance and Security+ required * If interested, ... customers as needed, and sending customers standardized emails specifying the steps they need to take to fix the problems. ...
+- StartwireL2, Oct 05
 
+Apex Systems  – 
+Durham, NC, 27701
+Job #: 995207 Our client is looking for a Site Reliability Engineer for their office in Raleigh, NC. If you are interested, please send your resume to Katherine at The Team As a member of our Cloud Systems Engineering team, you will be responsible ...
+- StartwireL2, Oct 01
 
-Go to apply 
+MetLife  – 
+Cary, NC, 27511
+Job Location: Cary, NC Role Value Proposition: The Senior Engineer's role as part of the Shared Application Platform ... Investigation of released fix packs, automation, documentation and handing over to operations in collaboration with Senior ...
+- Jobg8, Oct 09
 
+Jasper  – 
+Durham, NC, 27711
+As a member of our Cloud Systems Engineering team, you will be responsible for deploying and supporting the solution within ... Code-level analysis of issues including root cause determination and/or potential code fix. Peer-level customer support for ...
+- Ivy Exec, Oct 01
+
+MetLife  – 
+Cary, NC, 27518
+Job Location: Cary, NC Role Value Proposition: The Senior Engineer's role as part of the Shared Application Platform ... Investigation of released fix packs, automation, documentation and handing over to operations in collaboration with Senior ...
+- Dice, Oct 07
+
+Pra Health Sciences  – 
+Raleigh, NC
+... Applies understanding of company’s general business functions and systems to determine impact of system changes to the ...  analyzing and implementing patches and upgrades to fix operating system problems or vulnerabilities Evaluates new ...
+- Neuvoo, Oct 04
+
+Apex Systems  – 
+Raleigh, NC, 27601
+... of bug, discus fix releases, follow up EFA and Provide business background, check assignment and ETA, monitor communication and updates for partner/customer You will assist the 3rd Party engineers, Account Managers, Sales Engineer, with regards ...
+- Lensa, Oct 01
+
+Spectraforce Technologies  – 
+Raleigh, NC
+Duration: 6 Months Job Requirements 7-9 years of demonstrated experience with designing, implementing and supporting solutions in the core system engineering domains Bachelor’s or Master’s degree in computer science, management information systems, ...
+- Neuvoo, Oct 08
+
+Apex Systems  – 
+Durham, NC, 27703
+Data Engineer If interested, please send a copy of your resume to Morgan McGowan at [Click Here to Email Your Resum ] The ... programming processes Document, and test moderate data systems that bring together data from disparate sources, making ...
+- Jobs2Careers, Oct 08
+
+Apex Systems  – 
+Durham, NC, 27703
+Data Engineer If interested, please send a copy of your resume to Morgan McGowan at [Click Here to Email Your Resum ] The ... programming processes Document, and test moderate data systems that bring together data from disparate sources, making ...
+- Jobs2Careers, Oct 07

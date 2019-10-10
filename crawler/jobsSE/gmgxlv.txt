@@ -1,20 +1,51 @@
+Job Title = Data Or Scientist Or Remote Or Phd Or Greater jobs in Raleigh, NC, 27606
 
-Description We're looking for an intellectually curious, humble, ambitious and razor-sharp Data Scientists with varying levels of industry experience.
-You are someone who is passionate about technology and, even more so, about applying data science, machine learning and artificial intelligence technologies more broadly to real-world problems.
-We embrace those who see things differently, aren't afraid to experiment, and who have a healthy disregard for constraints.
-The ideal candidate must be a master of their domain and should be skilled at taking ambiguous business or product requirements, translating them into hypotheses, finding the right solution, prototyping their ideas and productionise their work.
-This individual will be fundamentally motivated by wanting to drive significant business impact through the application of their knowledge and skills.
-Furthermore, the ideal candidate should be able to inspire and champion through influence when the need arises.
-We are looking for a rare mix of intelligence, integrity, domain knowledge, verbal agility, and diplomacy which allows you to rapidly earn the trust of technically astute engineers and product astute product management leaders.
-Why We Need This Role Our data scientists will be a part of the Intelligent Systems based in London but will work closely and collaborate with global product and engineering teams across 3 locations: London, New Delhi and Los Angeles.
-The Intelligent Systems team manages all of the innovation powered by data science, machine learning and AI (decision making). It is likely to witness significant growth over the course of the next year and beyond.
-This team will take ownership of a whole host of different existing use cases and there is also a significant potential to test out ideas that currently are in the pure research domain.
-Key problems include: * Estimating and accurately forecasting the price and timeline of a new software project taking into account historical information * Efficiently allocating our developer workforce to meet customer demand for projects with a view to maximising business metrics such as profitability and customer satisfaction * Program synthesis and automatic code generation * Monitoring, tracking, understanding and predicting the behaviours of all entities who partake in our ecosystem including customers * Understand the dependency structures (potentially causal) between the different components/features within the software development life cycle and identify bottlenecks * Forecasting customer behaviour * Automating aspects of the quality assurance process in the software development lifecycle * Growth and performance marketing related problems such as budget allocation, attribution and market mix modelling Why You Should Join This is a challenging and diverse role that will require you to be a part of the growth of the Intelligent Systems department from the ground up.
-The problems we face are unique, with some of them still in early stages of sustained academic research.
-Furthermore, this is an opportunity to apply advanced analytics techniques to a truly unique suite of products that in conjunction are aiming to automate the entire software development lifecycle.
-First Six Month goals * Develop an in-depth understanding of the Builder product portfolio * Demonstrate core technical ability by prototyping and establishing the business value of from at least one of the key aforementioned use cases * Establish collaborative working relationships with on-site and remote cross-functional teams * Contribute to the development and the enhancement of the data science pipeline Requirements Essential skills * A PhD or an advanced Masters in a scientific discipline: Statistics, Computer Science, Operational Research, Mathematics, Physics * Experience in one or more of the following areas: Supervised Learning, Deep Learning, Probabilistic Inference, Statistical Modelling, Bayesian Statistics, Unsupervised Learning, Operational Research, Reinforcement Learning and Mathematical Optimisation * Passionate about software development and engineering as a field * Few years of industry experience but more importantly, demonstrable experience at taking concepts and models from conception to production and quantifying business impact * Proficient at programming in Python or R * Real world data querying, data manipulation and feature engineering experience * Knowledge of and experienced at working with cloud technologies * Ability to operate in interdisciplinary teams comprised of product, engineering, business and technology experts Desired skills * Ability to communicate with diverse stakeholders * An entrepreneurial and a can do attitude * Previous experience in a consumer, product or an eCommerce business would be beneficial * Academic research experience would be beneficial.
-Ability to propose bespoke and novel solution to non-standard machine learning problems * Track record of industry recognition which could be
+Pharmaceutical Product Development  – 
+Morrisville, NC, 27560
+... The clinical scientist will also support the clinical trial RFP process and partnering with a feasibility and study operations lead through medical and data analysis to summarize the epidemiology, standard of care and competitive environment for the ...
+- Jobs2Careers, Oct 07
 
+Catalent Pharma Solutions  – 
+Morrisville, NC, 27560
+... PhD and 0- 2 years of related experience; MS and 4 years of related experience, bachelors and 7 years related experience ... Ability to analyze data in support of technical and regulatory documents. Must have previous experience working in a cGMP ...
+- Ivy Exec, Oct 04
 
-Go to apply 
+BioAgilytix  – 
+Durham, NC
+... Serve as lead scientist on assay development project Serve as lead scientist on validation Present data to clients ... or PhD in molecular biology, biochemistry, immunology, biotechnology, or related field with not less than 2 years' ...
+- Neuvoo, Oct 09
 
+Catalent, Inc  – 
+Morrisville, NC, 27560
+... PhD and 0- 2 years of related experience; MS and 4 years of related experience, bachelors and 7 years related experience ... Ability to analyze data in support of technical and regulatory documents. Must have previous experience working in a cGMP ...
+- Jobg8, Oct 08
+
+Catalent Pharma Solutions  – 
+Morrisville, NC, 27560
+... PhD and 0- 2 years of related experience; MS and 4 years of related experience, bachelors and 7 years related experience ... Ability to analyze data in support of technical and regulatory documents. Must have previous experience working in a cGMP ...
+- Lensa, Sep 30
+
+Deloitte  – 
+Raleigh, NC, 27601
+Position summary Hux Data Scientist Locations: New York, NY - Greensboro, NC - Chicago, IL - Raleigh, Durham, Chapel-Hill, ... PhD in a quantitative field (engineering, mathematics, physics, machine learning, statistics or computer science) preferred. ...
+- Jobg8, Oct 08
+
+Proofpoint  – 
+Durham, NC, 27703
+... We need a Data Scientist who will work on a cross functional team to help uncover cyber threats hidden in large amounts of ... Expert level knowledge in statistical analysis, linear algebra, optimization MS or PhD in Statistics, Machine Learning, ...
+- Lensa, Oct 07
+
+Proofpoint Inc  – 
+Durham, NC, 27701
+... We need a Data Scientist who will work on a cross functional team to help uncover cyber threats hidden in large amounts of ... * Expert level knowledge in statistical analysis, linear algebra, optimization * MS or PhD in Statistics, Machine Learning, ...
+- StartwireL2, Sep 28
+
+Global Knowledge  – 
+Cary, NC, 27518
+... Learn more at We are looking for a Data Scientist who will support our product, sales, scheduling and marketing teams with ... of experience manipulating data sets and building statistical models, has a Master's or PHD in Statistics, Mathematics, ...
+- StartwireL2, Sep 25
+
+StoneLaurel Consulting  – 
+Durham, NC
+Not a remote work assignment. The candidate must be a W2 employee of StoneLaurel Consulting, Inc. The consultant will build advanced and complex statistical models and recommend ways to apply the data. You will extract, transform and combine all ...
+- ZipRecruiter, Sep 12

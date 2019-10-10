@@ -1,0 +1,31 @@
+Job Title = Technician
+
+Position Title: Technician
+
+Position Description: Our Eastside client is looking to bring on a Technician to join their growing team with solid troubleshooting skills to help with building prototypes and running test with oscilloscopes.
+
+Job Responsibilities:
+
+Prototype assembly utilizing both verbal and written instructions
+Build and modify test set ups
+Execute and document results of tests assigned by engineers
+Organize and maintain engineering lab equipment, tools and supply stocks
+Execute and document results of design verification tests following written test procedures
+Setup, execute, and record results for ad-hoc engineering tests, building/procuring the necessary equipment, test hardware, cabling and pneumatics/tubing
+Use common electrical tools and equipment to make and record measurements of critical component/assemblies parameters and characteristics
+Job Qualifications:
+
+Requires a high school diploma or equivalent
+2 year electronics/technician degree, or higher
+5 years min working as an electronics technician in an engineering lab environment
+Fine Soldering- ideally surface mounted and IPC-A-610 certified
+Component-level troubleshooting skills
+Preferred, 2 years+ working within a medical device development environment, or other quality system regulated development environments
+Competent with Excel and Word, experience with Mac OS preferred
+Ability to design and build electro-mechanical prototypes and test fixtures
+Ability to organize, procure and manage materials for projects
+About Protingent: Protingent is a niche provider of top Engineering and IT talent to Software, Electronics, Medical Device, Telecom and Aerospace companies nationwide. Protingent exists to make a positive impact and contribution to the lives of others as well as our community by providing relevant, rewarding and exciting work opportunities for our candidates.
+
+
+Go to apply 
+

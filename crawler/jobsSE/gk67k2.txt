@@ -1,28 +1,51 @@
+Job Title = Devops Or Engineer Or Iam Or Sr jobs in Raleigh, NC, 27606
 
-Job Title: Sr. DevOps Engineer
-Location: Pleasanton, CA
-Job Description:
-AWS Specific Requirements:
+Idexcel  – 
+Durham, NC, 27703
+Role: Sr. DevOps Engineer Location: Durham, NC Duration: 6+ months Description: Veritude is seeking a DevOps Engineer for ... 53, etc using CFT and security policies using Security groups, IAM, Git/Stash, etc Will be responsible for adding, removing ...
+- Lensa, Oct 07
 
-EC2
-VPC
-Networking (VPC Gateway, Route 53, ELB)
-Cloud Formation
-Auto Scaling
-Security and
-IAM
-Experience in AWS Automation APIs - codifying, managing and testing infrastructure as code
+IQVIA Holdings Inc  – 
+Durham, NC, 27701
+... * Exposure to DevOps, Continuous Integration and Continuous Delivery experience * Exposure to common IAM solution(s) (e.g. ... Job ID: R1065928 CHECK OUT OUR SIMILAR JOBS * Software Engineer Jobs * Project Engineer Jobs * Jobs in Morrisville, North ...
+- StartwireL2, Oct 07
 
-Common Requirements:
+Innominds Software  – 
+Cary, NC, 27511
+" Role: Sr. Devops Engineer Location: Cary, NC Duration:6+Months Experience: 10+ Years Job Description: Exposure on PPM administration or application. Experience in service/product migration from Data center to Cloud platform ( GCP preferred) Hands ...
+- Dice.com, Oct 04
 
-Minimum experience of Linux operating systems
-Advanced knowledge with the Puppet and Ansible Automation.
-Experience in writing test cases, modules, Jenkins integrations
-Terraform In depth knowledge, with awareness of best practices ( desired skill )
-Experience with monitoring tools like Splunk ( ( desired skill ).
+Spectraforce Technologies  – 
+Raleigh, NC
+Role: IAM Engineer Duration: 6+ Months Description Responsibilities: Performs installation, testing, monitoring, configuration, migration, maintenance and troubleshooting of assigned technology Manages system/application environment and ongoing ...
+- Neuvoo, Oct 04
 
-Permanent
+Randstad  – 
+Research Triangle Park, NC
+DevOps Engineer **job details:** + location:Research Triangle Park, NC + date posted:Wednesday, October 2, 2019 + job type ...  etc using CFT and security policies using Security groups, IAM, Git/Stash, etc + Will be responsible for adding, removing ...
+- DE Jobs, Oct 03
 
+Sirius Computer Solutions  – 
+Raleigh, NC, 27608
+... The Sirius Consulting team is looking for a Container Infrastructure Engineer to join our consulting operations or Platform-as-a-Service (PaaS) and DevOps practice. In this role, you will learn to design and guide implementations of cloud-ready ...
+- Nexxt, Sep 27
 
-Go to apply 
+Blue Cross and Blue Shield of North Carolina  – 
+Durham, NC, 27701
+We are looking for a Sr. DevOps Engineer to join our already skilled team of experts. We want you to have a real passion for technology and apply it to our high-performance culture. You ll be a trusted member of a high energy, tight-knit, creative ...
+- Jobs2Careers, Oct 07
 
+Innominds Software  – 
+Cary, NC, 27511
+Role: Sr. Devops Engineer Location: Cary, NC Duration:6+Months Experience: 10+ Years Job Description: Exposure on PPM administration or application. Experience in service/product migration from Data center to Cloud platform ( GCP preferred) Hands on ...
+- Jobg8, Oct 05
+
+Vensoft Inc  – 
+Durham, NC
+... The engineer will be responsible to design and build automated processes keeping reproducibility, auditability and ... 53, etc using CFT and security policies using Security groups, IAM, Git/Stash, etc Will be responsible for adding, removing ...
+- Ceipal, Oct 03
+
+Practice Fusion  – 
+Raleigh, NC, 27611
+Overview As an Azure Dev Ops Infrastructure Engineer, you'll be directly responsible for the performance and efficient ... Cloud experince is a must, AWS a plus * Azure IAAS, Azure PAAS, Azure DevOps all needed * Azure Kubernetes Services a plus * ...
+- StartwireL2, Oct 05

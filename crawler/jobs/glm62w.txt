@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Machine Operator positions are responsible for following instructions and established safety requirements to operate equipment used in various stages of the cable manufacturing process to meet productivity requirements and create products that conform to quality standards.
 Responsible for following standard work instructions corresponding with job

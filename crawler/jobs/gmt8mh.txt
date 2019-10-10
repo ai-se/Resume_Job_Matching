@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 About Exela
 Exela Technologies, Inc. (Exela) is a location agnostic, global business process automation (BPA) leader combining industry-specific and industry-agnostic enterprise software and solutions with decades of experience. Our BPA suite of solutions are deployed in banking, healthcare, insurance and other industries to support mission critical environments. Exela is a leader in work flow automation, attended and un-attended cognitive automation, digital mail rooms, print communications, and payment processing with deployments across the globe.

@@ -1,3 +1,4 @@
+Job Title = IT Security Engineer III - Palo Alto
 
 Description:
 The Engineer will be a key member of the security function for Client InfoSec initiatives. This individual will be responsible for working effectively with numerous cross-functional stakeholders across the company (Finance, IT, HR, Security, Operations teams, Product Groups, etc.) to engage on all aspects of automating control and process design, testing, implementation, deployment/execution, monitoring, documentation, and remediation to support the Security Operations Center in regard to incident response efforts.

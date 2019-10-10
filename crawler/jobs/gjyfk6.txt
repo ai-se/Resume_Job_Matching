@@ -1,0 +1,53 @@
+Job Title = Engineer
+
+We have a great opportunity for a talented and self-motivated Engineer to join our team at NCS! At NCS, we seek to nurture talents in creating and developing innovative solutions. If you are passionate about new technologies and new ideas, NCS could be a place for you!
+
+Role & Responsibilities:
+The candidate must have demonstrated experience successfully managing large, complex infrastructure support, data center and network operations projects. The candidate must be well-versed in a range of technical areas including:
+Data distribution operations
+Infrastructure security
+IT audits
+Information assurance
+Application administration
+Tier 2-4 technical support
+IT asset management
+Technical infrastructure management (Windows, UNIX, databases, data storage, mainframes)
+Network infrastructure support
+Telecommunications systems support
+Enterprise applications management (O&M)
+
+Staff Management:
+Hire, retain and grow capable and effective project team members
+Allocate team members to physical locations within the data center, and ensure they have the clearances, system access and equipment necessary to perform their tasks.
+Deploy team building and professional development strategies to create high-performing teams
+Closely monitor and manage team members across the program to align with the staffing plans, schedule, and cost constraints and goals
+
+Subcontractor Management:
+Ensure that subcontractor staff are well integrated into the project team
+Monitor subcontractor performance and adherence to SLAs
+
+Quality Management:
+Ensure a high level of quality across all program outcomes
+Identify and execute on opportunities for process improvements
+
+Performance Management and Reporting:
+Utilize performance metrics to track, manage, and analyze service delivery performance; communicate findings and proposed actions internally and to the VA, as appropriate
+Develop and deliver internal and client-facing program reviews, status reports, performance reports and other communications
+
+The ideal candidate should have:
+This position requires 10+ years managing people in a technical environment with knowledge of Data Center Operations.
+ITIL certification (above ITIL Foundations)
+Five years’ experience leading large infrastructure support, data center and network operations programs using the ITIL methodology.
+Demonstrated ability to establish large, geographically-dispersed teams providing operations support work, in a demanding, 365x24x7, customer-service-oriented environment.
+Degree in Engineering, Computer Science, Systems, Business or related scientific /technical discipline (10 years of additional relevant experience may be substituted for education)
+PMI PMP certification, or equivalent.
+Proficiency with MS Office Suite, including MS Project and SharePoint.
+Excellent written and verbal communication skills
+Strong leadership, interpersonal, presentation and negotiation skills to effectively: manage direct and indirect reports, interact with partners and clients, and develop new business
+Strong creative, analytical and problem solving and trouble-shooting skills
+Strong ability to foster collaborative work in dynamic team environment
+Singaporean required as background security clearance is mandatory for selected candidate
+
+
+Go to apply 
+

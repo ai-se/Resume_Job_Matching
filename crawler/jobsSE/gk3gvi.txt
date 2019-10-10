@@ -1,10 +1,51 @@
+Job Title = Asp Or Ic Or Hadoop Or Cs Or Architect jobs in Raleigh, NC, 27606
 
-Description:The Systems Engineering & Integration for the National Systems for Geospatial-Intelligence program delivers full life-cycle systems integration and engineering services to the missions of its customer.
-The program is chartered to provide technical leadership for many of NGA's highest priorities, including the data engineering project efforts.The OpenDataStore (ODS) effort requires support to help them in enabling NGA's future state data architecture.
-The SEIN Engineering support to ODS will include security engineering for developing and maintaining the data security plan for ODS.The Systems Integrator is responsible for the following tasks:* Engineering support for the requirements analysis and breakdown of capabilities from other programs.* Engineering support to provide updates and provide new processes, procedures, and guidance as data services are developed and refined.* Engineering to analyze current data flows into and out of NGA and redesign those flows to go directly to the Cloud.* Support to update and maintain the data repository, data guidance documents, roadmaps, technical briefings, data access design and policies, and ODS backlog.* Engineering to create executable Features in the ODS backlog and tracking of developer progress within the backlog.* Provide plans for testing events and demonstration requirements for all services provided by ODS.* Engineering and Integration of several developer teams and designs to verify they are building to the DSA-G architecture.* Tracking of all ODS Features to the DSA-G requirements for tracking purposes.* Participate in all integration, transition and deployment planning activities and venues to include Release Planning events and product demos.* Provide detailed analysis and independent perspectives on how to architect and engineer ODS to take full advantage of cloud capabilities and services.* Identify all risks, issues and potential areas of concern related to IC or DoD policies, procedures, or efforts that may impact the ODS environment and overall services delivery to the IC and DoD.Required Qualifications:* Bachelor's degree in CS / Math / Science / Engineering / related technical field or equivalent experience* Minimum 1+ year of experience in related field.* Knowledge of cloud technologies and understanding of cloud architectures* Experience with Agile software methodology and SCRUM* Strong interpersonal, analytic, problem solving, organizational and multi-tasking skills* Excellent written, verbal, and presentation skills* Able to work with multiple government customer stakeholders while meeting strict timelines* Ability to work independently and within a team environmentDesired Qualifications:* Proficient with the following technologies/applications: Amazon Web Services, one or more application integration framework technologies such as Cloud Foundry, RedHat OpenShift, Apache Mesos, microservices, and enterprise-scale high performance processing technologies such as Hadoop and Spark* Demonstrated experience with API Management, PaaS microservices/containerization technologies (e.g Docker, Rocket, Mesosphere DCOS)* Understanding of cloud-based authentication and authorization technologies and how to architect them for enterprise-scale use in the cloud (e.g.
-PKI, OAuth, OAuth2, SAML)* Working experience with scripting languages* Knowledge of the NGA organization and programs and ASP vs.
-ISP knowledge* Working experience with GEOINT Services
+Sterling 5, Inc.  – 
+Raleigh, NC, 27601
+Role: Senior Hadoop Administrator Location: Raleigh, NC - (100% On-site) Interview modes: Phone + Skype/F2F Job Type: W2 hire Basic Qualifications Minimum 4-5 plus years of hands-on technical experience implementing, supporting and/or administering ...
+- Dice.com, Oct 09
 
+Alpha Net Consulting, LLC  – 
+Cary, NC
+5+ years of IT experience with 3+ years of experience in Bigdata/Hadoop Admin with good to have MongoDB & Splunk skills. • 5+ years of IT experience with min 3+ years of experience on Bigdata Administration (Hadoop,MongoDB & Splunk) • Good hands-on ...
+- Oorwin, Oct 07
 
-Go to apply 
+DatamanUSA LLC  – 
+Raleigh, NC
+Position: Hadoop Administrator Duration: 6 Months Location: Raleigh, NC Basic Qualifications: • Bachelors degree and Minimum 10 years relevant IT experience. Additional experience may be substituted for degree. • Minimum of 5 years experience with ...
+- Oct 01
 
+SPECTRAFORCE TECHNOLOGIES Inc.  – 
+Durham, NC, 27701
+Position: Senior Hadoop Developer/Data Integration Engineer Location: Durham, NC Duration: 1 year Special Instruction Most important skills: AWS Elastic Map Reduce (AWS EMR) and Hadoop, Spark, and Sqoop. Client have OBIEE and SAS as their primary ...
+- Dice, Sep 27
+
+Analog Devices  – 
+Raleigh, NC, 27601
+... Description ADI's wireless Transceiver Product Group is seeking a transceiver architect who possesses advanced and practical ... Leverage deep personal knowledge of mixed signal IC design and heavy interaction with key IC designers within ADI to explore ...
+- Lensa, Oct 08
+
+Net2Source  – 
+Raleigh, NC, 27601
+... Job Title: Azure Architect Location: Raleigh, NC and Philadelphia, PA Start Date: ASAP Duration: Full Time Job ... We specialize in Contingent hiring, Direct Hires, Statement of Work, Payroll Management, IC Compliance, VMS, RPO and Managed ...
+- Lensa, Oct 07
+
+Analog Devices, Inc.  – 
+Raleigh, NC, 27611
+... Description ADI's wireless Transceiver Product Group is seeking a transceiver architect who possesses advanced and practical ... * Leverage deep personal knowledge of mixed signal IC design and heavy interaction with key IC designers within ADI to ...
+- StartwireL2, Oct 06
+
+TEKsystems  – 
+Raleigh, NC, 27601
+TEKsystems has partnered with a major client seeking a Hadoop Administrator for a long term contract role in Raleigh. On a daily basis the Hadoop Administrator will be responsible for operational management and architecture of a Hadoop ecosystem. ...
+- Dice, Oct 08
+
+Corus360  – 
+Raleigh, NC, 27601
+The Digital Architect is responsible for ensuring alignment with modern engineering principles, enforcing the right design ... ecosystem Data engineering principles and frameworks like Hadoop No-SQL databases like MongoDB, Cassandra Security of data ...
+- Jobg8, Oct 08
+
+Apptad Inc  – 
+Raleigh, NC, 27607
+Stibo Architect Long Term Position Overview The Stibo Architect is a Senior Technical Specialist responsible for design, ... members and knowledge-share Qualifications Bachelor's degree in CS, MIS, or related field 4+ years of relevant professional ...
+- Jobg8, Oct 02

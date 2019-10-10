@@ -1,0 +1,60 @@
+
+KASTHURI G Contact: +918********* Email: adahpj@r.postjobfree.com
+
+Graduated from University College of Engineering Tindivanam (Constituent College of Anna University - Chennai); currently engaged with Selfservit – Chennai
+3.9 + Years of IT experience in MS SQL Server.
+Well versed with Microsoft & database Technologies
+Worked as Software Engineer in Selfservit – Mservice mobile application.
+Troubleshoot the performance issues and tuning the queries to load the huge amount of data dashboard charts in web application.
+Worked on support tickets, maintenance tasks and assigned projects at discretion of the Reporting Coordinator.
+
+Worked as a Senior technical resource in Tata International project, performed the major role in Employee life cycle, Performance management System, Travel, Leave Management, Reports and Payslip.
+Designed and implemented the full cycle of performance management system(PMS) and Created tables, Stored procedures, Views and functions in SQL server 2012 to support the application.
+Developed the detailed report of performance management system, which is used to analyse the overall appraisal process employees.
+Created and automated the SQL Server Agent jobs to schedule the remainder & escalation notification mails to employees those who are eligible for appraisal.
+Developed and implemented the Tata International Employee’s payslip using ireports tool and done the initial level coding in SQL server 2012.
+Designed and implemented the Tata International letter formats (Bonafide Letter, Designation Letter, Transfer Letter, International Transfer, relieving letter, relieving retirement, Employment Contract, etc.) Worked on the demo and readme file for client understanding.
+Maintained and improved the leave logic and scheduled the SQL job agents to process the employee leaves on daily basis.
+Implemented the workflow logic for travel management to route the travel request and settlement to next level.
+Developed the documentation format and readme files for client usage.
+Enhanced the performance of production system software installations, application upgrade and patch installations.
+Given support and troubleshooting the problems in production server. Solved critical problems in scheduled time and improved the performance of project.
+
+Worked as Programmer in Ramco Systems – Orisaa, Sowrasthra Cements Company.
+Designed and developed the Assigning shift usage screen for Orissa cements limited.
+Implemented the PMDB Report – Pocket Margin Data Base Report, Maintain Average Outstanding Period, Freight Upload, Labour& Selling Cost Upload screens used to calculate the sales, invoice and items of the Packaging India private limited company.
+Worked on support tickets, maintenance tasks and assigned projects at discretion of the Reporting Coordinator.
+
+Databases: Microsoft SQL server 2008, 2012
+Versioning Tools: TortoiseSVN (Subversion), Microsoft Visual Source Safe.
+Microsoft Office – Word, Excel
+
+Won 2nd prize in Inter College Drawing competition in Anna University Zone.
+State Rank in Social Science Subject in 10th Std.
+
+B.E CSE
+Anna University –University College of Engineering Tindivanam (’11- ’15) CGPA – 7.5
+Class XII
+Punitha Arulappar HSS – Avudayanoor – 87.58%(School 2nd Rank)
+Class X
+St.Joseph High School, Vaikalipatty – 93.4% (School 2nd Rank)
+
+Have a certification in personality development.
+Participated in one-day aptitude Training Program.
+Participated and won in Kho-Kho at zonal level.
+Participated in Essay writting at Zonal and district level.
+
+Date of Birth: 31th May, 1994.
+Language Abilities: English, Tamil.
+
+*Communication Address & References will be provided on request.
+LinkedIn: https://www.linkedin.com/in/kasthuri-ganesan-b591b4113
+
+Profile Overview
+Technologies Used
+Achievements
+Educational Qualification
+Extra-Curricular Activities
+Personal Dossier
+
+Contact this candidate

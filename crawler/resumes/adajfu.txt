@@ -1,0 +1,145 @@
+
+Saiful Islam
+*** ******* ****, *******, *******. M1H 1G8.
+Email: adajfu@r.postjobfree.com
+Mobile no: +1-437-***-****
+
+PROFILE SUMMARY:
+●6+ years of experience in Software Testing of Web Client/Server and Web Services applications using Manual and Automation Test Tools.
+●Extensively experienced in analyzing, reviewing and understanding of Business/Functional & Testing requirements and writing Test Plans, Test Strategy, and Test Scripting, creating Test Scenarios, analyzing results and preparing result summary report.
+●Experienced in Java development for preparing Test Scripts.
+●Experienced in software engineering methodologies of SDLC like Agile/Scrum and Waterfall methodologies.
+●Proficient in System Testing, Integration Testing, Security Testing, Configuration Testing, Functional Testing, Regression Testing, GUI Testing and User Acceptance Testing (UAT).
+●Experienced with Fast paced environment like Agile and Scrum Methodologies.
+●Strong skills in object-oriented programming (JAVA).
+●Good at defect-reporting and defect-tracking using JIRA.
+●Good skill in Test Management and Tracking, Test Execution, Test Report generation, and Analysis using JIRA.
+●Expertise in problem solving and creating Bug Reports using JIRA.
+●Hands on experience in writing SQL queries and executing procedures to perform backend testing for the expected results.
+●Expertise in back ends testing and writing SQL queries procedures using MySQL.
+●Expertise in SQA (Software Quality Assurance) including Manual and Automation testing using Selenium WebDriver, Java, TestNG, Cucumber & Maven, JUnit/TestNG, JIRA, Rest Assured, Postman & JMeter and Appium.
+●Good Knowledge in designing and developing Automation test scripts in Java implementing test in Selenium Web Driver.
+●Experienced with open source tools Selenium.
+●Experienced in designing customized Behavior-Driven Development, Test Data Driven, and Hybrid Framework using Selenium WebDriver, Java, TestNG, and Cucumber.
+●Experienced in designing and developing Automation frameworks in TestNG; implementing frameworks like POM, POM using Page Factory and Data Driven.
+●Expertise in using Selenium WebDriver to automate tests on cross browser across different browsers such as Internet Explorer, Chrome, Firefox and Safari in different Operating Systems to serve cross platform testing environment using Browser Stack & SauceLab.
+●Experienced in using Jenkins for Continuous Delivery and Continuous Integration for Smoke testing and Regression testing of the builds.
+●Good knowledge with RestFul Web Service Testing.
+●Strong exposure testing applications on different browsers like IE, Firefox, and Chrome.
+●Good Knowledge in maintaining Selenium and Java Automation Code and resources in source controls like Git for improvements and new features.
+●Excellent analytical and programming abilities in using technology to create elegant, flexible and maintainable solutions for complex testing problem.
+●Excellent communication, problem solving skills, coordination, documentation, project planning and interpersonal skills.
+
+TECHNICAL SKILLS:
+
+Testing Tools
+Jira, Selenium, Selenium WebDriver, Appium, PostMan, JMeter
+Programming Languages
+Java, Html, Java script.
+Project & Bug Tracking Tool
+Jira
+Application Servers
+Apache, Tomcat
+Software Development Methodologies
+Agile, Waterfall
+Operating Systems
+Windows, Linux/UNIX, Mac
+Networking & Protocol
+Http, Https, POST, REST
+Web and GUI Tools
+HTML
+Continuous Integration Tools
+Jenkins
+Version Control
+Git
+Project Build / Framework
+TestNG, Page Object Model, JMeter
+Development Ide
+IntelliJ IDEA
+Databases
+MySQL, MS SQL Server
+Build Tool
+Maven
+Project Management Tools
+Jira
+PROFESSIONAL EXPERIENCE:
+SallieMae, Reston, VA
+QA Automation Engineer
+Jan, 2018 – Present
+Responsibilities:
+●Developed Web Client Test Cases based on Business Rules.
+●Worked with developers and testers to verify test cases.
+●Involved in Task Estimation, Prioritization, Creation and Communication to Onsite & Offshore teams.
+●Performed Functional, Negative, Positive, Integration, Regression, End to End and User Acceptance Testing.
+●Involved in Test Execution, Results Analyzing, and Defect Reporting in JIRA.
+●Used JIRA for tracking defects and notifying developers.
+●Analyze testing results, identified issues and reported to the developers and project managed through JIRA.
+●Involved in querying using SQL and updating records and validate database records as expected.
+●Involved in executing the SQL Queries for Data Validation, Record Counting and Non-Duplication Testing.
+●Developed and executed Automation Test Scripts using Selenium and Testing framework.
+●Performed BDD (Behavior Driven Development) with Data Driven Test Automation Framework using Cucumber Features, Scenarios and Step Definitions in Gherkins format.
+●Designed and built automation framework for different web-based software products using Page Object Model (POM) Design to reduce code and for better maintenance.
+●Developed Hybrid Framework for web automation using Java, Selenium WebDriver, TestNG, Maven, and Jenkins.
+●Implemented Test Automation Framework based on Page Object Model, Java, and Selenium & Testing.
+●Involved in User Acceptance Test (UAT) processes and documented and addressed all the issues during the process.
+●Coordinated user acceptance testing with final users & prepared end user documentation for the new system.
+
+Environment & tools: Selenium WebDriver, Cucumber, TestNG, JIRA, Jenkins, Java, XPath, Page object pattern (POM), Maven, Java Script, SQL Server, IE, Firefox, Chrome, Windows, UNIX, MS Word, MS Excel.
+
+Aetna, Hartford, CT
+QA Engineer
+May, 2015 – Dec, 2017
+Responsibilities:
+●Involved in enhancing the Test Scripts for Global Execution.
+●Involved in solving Environmental problems along with Technical Support People.
+●Involved in organizing testing framework and ensured that test functions were performed on defined process.
+●Updated /Added Framework functions/libraries when needed for developing automation scripts.
+●Worked in Agile-Scrum Environment and using JIRA for tracking story and tasks.
+●Executed and managed test cases and report bugs in JIRA.
+●Performed backend testing by writing SQL queries for data validation.
+●Involved in automation Environment setup using IntelliJ, Java, Selenium WebDriver, Java Language bindings and TestNG jars.
+●Identified the automation test scenarios from functional specification document and develop automation test scripts using Selenium Web Driver, Core Java and TestNG.
+●Involved in conducting Data driven testing, cross browser testing and parallel test execution.
+●Created XML suites in TestNG for categorization of tests.
+●Developed and maintained the end to end scenarios for Regression testing using Selenium WebDriver and TestNG and Perform regression testing on every new build of the application.
+●Enhanced Test cases using Java programming features and TestNG Annotations.
+●Involved in Browser testing using Selenium WebDriver Page Object Model.
+●Involved in writing automation scripts for mobile native applications using Appium, Core java and Selenium.
+●Identified objects using UI Automator tool for Android APP.
+●Involved in executing the scripts using Maven and integrating it in Jenkins.
+●Performed Web service testing using Postman tool to send Rest Requests and validate response.
+●Performed manual testing in physical devices emulator and IOS simulator.
+●Performed browser compatibility testing (Firefox, Chrome, IE) of a web-based application to ensure that functionality works fine.
+●Coordinated with products team and ensured that all automated solutions were delivered on time and were of optimal quality.
+●Attended project meetings and interacted with other team members in order to resolve the problems.
+
+Environment & tools: JIRA, Java, XPath, Maven, Java Script, Windows, UNIX, MS Word, MS Excel, MS Outlook, SQL Server, IE, Firefox, Chrome, Windows, Selenium WebDriver, Cucumber, Maven, TestNG, Jenkins.
+
+Accenture Technology Solutions, New York, NY
+QA Tester
+Nov, 2012 – Apr, 2015
+Responsibilities:
+●Developed and maintained test suites, test cases.
+●Analyzed the user/business requirements, functional specs and Use Case documents and created the Test Plans, Test Cases.
+●Created test cases and tested them based on the Business Requirements, Test Scenarios and analyzed the actual results against the expected results.
+●Involved in providing the Testing Effort estimates and provided timely feedback on progress of the testing.
+●Activity Involved in executing the selenium scripts and analyze the test reports.
+●Generated the execution results and sent it across to the team, by way of gathering and analyzing the Test Metrics for the purpose of reporting.
+●Used SQL Queries to perform Data integrity test to retrieve the data from various tables and to test the database.
+●Automated Smoke and Functional test cases using Selenium Web driver, TestNG, Java.
+●Developed automation test cases using TestNG framework and Selenium Web driver.
+●Tested application compatibility for dynamic and static content under various cross browsers using HTML IDs and XPath.
+●Updated the framework for integrating the smoke script with Jenkins for CI (Continuous Integration).
+●Used Maven, Selenium WebDriver, Java and Selenium Grid to create nightly automation scripts.
+●Coordinated with developers and system engineers to fix application defects.
+
+Environment & tools: Selenium IDE, Java, HTML, Mozilla Firefox, Google Chrome, Internet Explorer, Safari, JavaScript, XML, MS Outlook, MS Word, MS Excel, SQL, Windows.
+
+EDUCATION:
+
+●Bachelor of Science
+●Master of Science
+●Master of Business Administration (MBA)
+References available upon request
+
+Contact this candidate

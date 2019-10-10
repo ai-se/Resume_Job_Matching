@@ -1,7 +1,51 @@
+Job Title = Ruby Or Visa Or Rails Or C2c Or Mysql jobs in Raleigh, NC, 27606
 
-ny Visa OK Direct Client C2C OK Web Engineer - Backend Ruby on Rails Sunnyvale, CA Long Term 8+ years in web development Solid skills in backend development and REST APIs 3+ years of Extensive working experience in Ruby on Rails programming Experience with databases such as MySQL, Postgres, OracleDeep understanding of good software engineering practices (version control, code reviews, testing, refactoring, )Our engineering team is responsible for the full stack development of applications.
-So knowledge of front end technologies is a plus.Ability to design data models and work collaboratively with other teams.Knowledge of client side technologies such as Javascript, CSS and HTMLExcellent verbal and written communication skillsComfortable and adaptable in a dynamic and informal environment, and able to respond to changing prioritiesSelf-motivated and dedicated with creative and critical thinking capabilities
+Crossfire Consulting  – 
+Cary, NC, 27511
+... - 3+ years of experience developing applications with Ruby on Rails - 3+ years of software development experience - Thorough understanding of the philosophy and design of Ruby on Rails - Working knowledge of relational databases, Apache, MySQL and ...
+- Jobs2Careers, Oct 05
 
+HireNetworks  – 
+Durham, NC
+Ruby on Rails Developer-8128 Our best-in-class legal intake and case management software client is seeking a talented Ruby ... No sponsorship or C2C arrangements available. If this sounds like a good fit for you, submit a resume today! ...
+- ZipRecruiter, Sep 29
 
-Go to apply 
+Kelly Services  – 
+NC, 27609
+... Key Skills: .Net Core, C#, Angular.js, MySQL, Web APIs, some AWS knowledge would be great Alternate Java or Node skills will be considered if you have only some exposure to .Net if you are willing to ramp up as .Net Developer. There is a mixed .Net ...
+- Jobs2Careers, Oct 06
 
+Kelly IT  – 
+Durham, NC, 27703
+... Zookeeper would be great Familiar with MySQL queries, clustering, replication Hibernate, Tomcat, JSP Multi-threading and cloud technologies, a plus Bonus skills: healthcare industry experience Why Kelly ® ? With Kelly, you'll have direct connections ...
+- Dice.com, Oct 08
+
+Kelly IT  – 
+Durham, NC, 27703
+... Zookeeper would be great Familiar with MySQL queries, clustering, replication Hibernate, Tomcat, JSP Multi-threading and cloud technologies, a plus Bonus skills: healthcare industry experience Why Kelly ® ? With Kelly, you'll have direct connections ...
+- Jobg8, Oct 09
+
+Kelly Services  – 
+Durham, NC, 27701
+... Zookeeper would be great Familiar with MySQL queries, clustering, replication Hibernate, Tomcat, JSP Multi-threading and cloud technologies, a plus Bonus skills: healthcare industry experience Why Kelly -- ?With Kelly, you'll have direct connections ...
+- Jobs2Careers, Oct 08
+
+Kforce  – 
+Durham, NC, 27703
+Kforce is immediately seeking talented Senior Ruby on Rails Engineer for our global networking technology services client in Morrisville, North Carolina (NC). Our client innovates everywhere; connecting people, things, processes, and data, reshaping ...
+- Lensa, Oct 07
+
+HireNetworks  – 
+Morrisville, NC, 27560
+... No sponsorship or C2C opportunities available. Responsibilities of the MySQL DBA : Perform all aspects of database administration, including hardware and software evaluation and installation, database design and implementation, structured testing, ...
+- Jobg8, Oct 02
+
+Anew Recruit  – 
+Durham, NC, 27701
+Ruby on Rails Software Engineer * with Node.js US-NC-Durham Job Description Looking for a Senior Software Engineer in our Durham, NC location, with Ruby on Rails expertise What You'll Do: Contribute to all aspects of the services under the team's ...
+- Jobg8, Sep 28
+
+Kelly Services  – 
+Durham, NC
+... **Key Skills:** t + **Java, J2EE, Spring Boot** t + JavaScript ( **Angular** 2+, preferably Angular 5-7)t + **Kafka** web services or micro-services will put you at the top of the list!t + **Zookeeper** would be great t + Familiar with MySQL queries ...
+- DE Jobs, Oct 03

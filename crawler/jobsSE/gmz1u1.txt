@@ -1,3 +1,4 @@
+Job Title = Lead software engineer
 
 Job Description Job title: Lead Software Engineer Level: Consultant Reports to: Solution Architect Main purpose of role & level in the business: As a Lead Software Engineer in Kainos, you'll be responsible for developing high quality solutions which impact the lives of users worldwide.
 You'll work as part of a team and report to the Solution Architect.

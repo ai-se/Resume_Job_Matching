@@ -1,0 +1,310 @@
+
+Pradeep Awachar
+adahvh@r.postjobfree.com Mob : +1-609-***-****
+Having 18 years of experience in the IT industry as a ETL -Architect with Talend -(Extract transform and load ) tool, Data Analytics and Java Development.
+Hands on experience with technologies - Talend, Core Java, Talend Administrative console, Talend Data Fabirc, Spring, Hibernate, Spark, Struts, Linux, MSSQL, Oracle.
+Experience with – Data Lake, Data Warehouse, Data Mart, Data Analytics, Data Governance, Data Mining, Talend applications, Database, Java application and Framework development.
+Talend exposures - Talend Administrative console set up, Development set up with SVN/GIT Repository, Automate Talend Jobs execution using Autosys.
+Talend jobs deployment - Talend Jobs deployment on linux servers, Talend Jobs deployment using Job Conductor, ANT and Maven set up.
+Experience with Desing and Developing Frameworks - involved in Design and Development of common frameworks and Utilities.
+Amazon cloud-AWS - Familiar with Amazon AWS.
+Big Data - Familiar with Talend Big Data, Hadoop component like HDFS, Spark, Map reduce, YARN, Oozie Workflow Engine.
+Technical team leading - Involved in leading the team of Talend developers in developing and implementing Talend projects.
+Involved in design review, code review, technically managing team.
+Worked on data transformations and data loading extensively.
+Worked with Agile methodology.
+
+Core Competencies –
+Data Analytics ETL Solution Architect ETL tool Talend Java Development Amazon cloud-AWS Big Data Software Design/ Development Technical team management Design review Code review Developing Frameworks Project Management Learning new technologies Client Relations Management
+
+Skills Summary
+Domain
+Shares, Banking, Insurance, Capital Market, Finance, Financial Risk management, Data Mining
+Java & J2EE Technologies
+Core Java, JDBC, Servlets, JSP, XML
+Frameworks
+Spring, Struts, Hibernate, JSF, MVC
+ETL Tools
+Talend, Talend administrator,Talend Data Mapper
+Big Data & Hadoop
+Touch base with Hadoop components like HDFS, Spark, Map Reduce, YARN, Cloudera.
+Spring Framework
+Spring Core, AOP, Spring Transaction management etc.
+Web Technologies
+HTML, JavaScript, Flex, ActionScript, Struts, JSPs
+Servers
+Tomcat, JBoss, Weblogic
+Databases
+MySQL, Oracle, Sybase
+Software’s / tools
+Talend, Spark, Spring, Hibernate, MVN, ANT, Design Pattern, Struts, Flex, Servlet, JSP, Java Script, ETL, TAC, JUnit, Eclipse, HERMES
+Operating System / ERP Version
+Windows 7, Unix / Linux
+Project Methodologies
+Agile, Waterfall
+
+Professional Certifications/ Trainings
+Sun Java Certified,
+Talend Certified,
+Spark Training
+
+Visas
+USA Visa
+
+Canada Visa
+USA H1B Visa – Valid up to March-2021
+USA- B1/B2 Visa – Valid up to Sept -2021
+Canada Work permit – Valid up to March 2017
+
+Work Experience Summary
+The Digital Group Inc.
+April 2017 to Till Date
+LnT Infotech Ltd.
+January-2014 to April 2017
+Global Logic Ltd.
+May-2011 to January-2014
+Capgemini Ltd.
+February-2009 to May-2011
+Symphony Services
+April -2008 to February-2009
+Aviata Soft Pvt. Ltd. (Srishti Infotech)
+March-2005 to March -2008
+Trinity Engineer’s
+July -2002 to February-2005
+
+Work Experience
+Project 1 Organization – The Digital Group
+Project / Client
+American Stock Transfer & Trust Company (AST)
+Team Size
+8
+Start Date
+April 2017
+End Date
+Till Date
+Project Description
+Working as Enterprise Architect in development and Data Analytics area.
+Involved in projects TA Upload Project, Data masking, ACL, OLP, NCOA.
+Purpose of TA Upload project is to process and maintain Stock allocation and Stock transfer transactions.
+Data masking project is about masking and loading huge data at various databases from production to DEV and QA.
+Also involved in preparing input data from different databases for various application within AST.
+Involved in various types of data Analysis and producing different types of outputs along with data management on different levels.
+OLP, ACL and NCOA are processing huge data and produces output in the separate database.
+Role & Contribution
+Individual contributor in development of ETL, Java and Talend code.
+Working as Data Analyst, BI Solution Architect.
+Involved in automation of Data processing, Data Loading and Data Reports.
+Involved in development of framework using Talend and Java like Data Masking Framework, TA Upload Framework.
+Design and Development of common utilities with Talend and Java programs.
+Talend Admin Console Administrator.
+SME for Talend and Java and all the Resources including AST Team.
+Mentor for the Entire Offshore development Team.
+Tools
+Talend, Java, Autosys, Linux.
+
+Project 2 Organization – LNT InfoTech
+Project / Client
+EPS / LOCKBOX / GL Canada – (Citi)
+Team Size
+12
+Start Date
+Aug 2015
+End Date
+Till Date
+Project Description
+In Citi Canada’s Treasury and Trade Services sector has 3 Applications GL Canada, Consolidated Lockbox and Electronic Payment System (EPS) was using BI Pervasive as ETL Tool
+These Application Process input files of different layouts and different types.
+ETL Process was performing multiple transformations, loading data into Database and ETL Process was also generating extracts to downstream systems, Extract to Customers.
+All the above functionality was covered in Java and ETL Jobs of various complexities.
+Role & Contribution
+Data Analyst, BI Solution Architect, Java Programs & Talend jobs Estimation.
+Java Technical Architect / Framework Architect.
+Design and Development of Common Talend and Java Programs /Utilities.
+Worked on Talend Big-data components.
+Design & Development of Logging Framework using Log 4j .
+Design of Common Talend Job lets for Reusable purpose.
+Design & Development of Common Unix scripts for HERMES Deployment.
+Talend Admin Console Administrator.
+SME for Java and Talend for all the Resources including Citi Team.
+Mentor for the Entire Offshore development Team.
+Single Point of contact for Citi Canada Team.
+Tools
+Talend, Talend Big Data, Java, Spark, Perl Script.
+
+Project 3 Organization – LNT InfoTech
+Project / Client
+ETL COE (Citi)
+Team Size
+10
+Start Date
+Feb 2014
+End Date
+July 2015
+Project Description
+ETL COE was a Team of Java associates formed with CMT/CMOT Line of Business of Citi for providing Efficiency to the different Applications, by Resource sharing / collaborating and following other best practices. The focus was on ensuring best usage of Java pool and Talend.
+ETL COE Serviced 7 applications for BAU Support .
+It performed multiple POC to Promote Java and Talend across different groups of Citi.
+It supported very Robust JAVA Framework (PMF) for batch monitoring / Loading.
+Role & Contribution
+Design and Development in Java and Telend.
+Technically responsible for Java deliverables.
+Worked on DIF ( Data integration framework) frameworks development and set up using Core Java, Spring.
+Understand client requirement and Design / Architect of Java Development with the various tools Jenkins, Automated Unix Script, Hermes, Autosys, DIF-Data management Framework, Java, Spring, Hibernate technologies, FAST - Test Automation Framework.
+Working with Citi procedures like Service Now, CMPS and Finance related procedures.
+Deploying jobs on development server with the automated deployment Perl scripts, Creating RPM package using HERMES, deploying package on PROD servers using Service now request, PMF- process management framework, implementing & maintaining server set up & activities with Citi procedures.
+Worked on creating various POC like UI POCs, Talend POCs, Unix Scripting POCs.
+Tools
+Core Java, Talend, Spring, Design Pattern, ANT, Perl Scripts.
+Key Achievements
+Successfully completed citi deliverables as per schedule with Client satisfaction.
+
+Other Experience
+
+Project 4 Organization – Global Logic Ltd
+Project / Client
+Insurance Underwriting (FirstBest)
+Team Size
+17
+Start Date
+May 2011
+End Date
+Jan 2014
+Project Description
+The First Best® Underwriting Management System™ (UMS™) is an integrated business application that has been designed to enable commercial insurance carriers to profit from better underwriting. It is a rich, Web-based platform for submitting applications, underwriting coverage and managing the underwriting process. UMS is built to meet the specific needs of Carrier-side insurance underwriting and it delivers straight-through processing, exception-based underwriting, real-time collaboration, and knowledge management in one integrated solution.
+Role & Contribution
+Design and Development with Core Java, Talend (ETL), spring, Hibernate, Flex, LCDS, Assembler, MVN, MySQL technologies.
+Mentoring development team. Code review, Design Reviews, Individual contribution in the design and development, evolving product framework.
+Defining and driving product road map and deliveries to client.
+Tools
+Core Java, Talend (ETL), Spring, Hibernate, Flex.
+Key Achievements
+Successfully completed product deliverables as per Agile methodology.
+
+Project 5 Organization – Capgemini
+Project / Client
+ARROW ( UK RISK DEPT)
+Team Size
+13
+Start Date
+Feb 2009
+End Date
+April 2011
+Project Description
+Involved in development and handling team for flex and Java development. The Advanced Risk Responsive Operating Framework (ARROW) is the risk management approach used by the FSA (Financial services authority, UK Government) to guide and support its risk based approach to the regulation of the financial services industries.
+This project is related to financial risk assessment analysis. This provides theoretical framework for measuring financial risk and dealing with these risks. This web application is developed using flex 3 with Pure MVC architecture and Java, Oracle.
+Role & Contribution
+Worked on project called ‘The Advanced Risk Responsive Operating Framework’ (ARROW) as Senior Consultant ( Development), with roles of Requirement gathering, Design & development in Flex and Java, and testing.
+Technologies used - Core Java, J2EE, Oracle, Flex 3, Action Script 3, LCDS, Pure MVC Framework
+Tools used - Flex PMD
+Tools
+Core Java, Spring, Hibernate, Flex.
+Key Achievements
+Successfully completed product deliverables as per Agile methodology.
+
+Project 6 Organization – Symphony Services
+Project / Client
+Tina Navigator (Atempo)
+Team Size
+6
+Start Date
+April 2008
+End Date
+Feb 2009
+Project Description
+Combining the best of data protection and storage security, Atempo Tina Navigator offers an advanced, high-performance protection and archival solution for heterogeneous environments.
+Role & Contribution
+Worked on project called ‘Tina Navigator’ as Senior Consultant ( Development)
+Developed UI Generic components to create dynamic forms in flex.
+Duties are Requirement gathering, Design development in Flex and Java, and testing
+Technologies used - Core Java, J2EE, Flex 3, Action Script 3, Blaze DS
+Tools
+Core Java, Spring, Hibernate, Flex, Struts.
+Key Achievements
+Successfully completed deliverables as per schedule with Client satisfaction.
+
+Project 7 Organization – Avita Software
+Project / Client
+DEENAVE -UI ( DEENAVE )
+Team Size
+5
+Start Date
+Feb 2007
+End Date
+March 2008
+Project Description
+Client DEENAVE is providing a total Product Marketing and Sales solution for the various companies like Wipro, Intel, Hp. With Struts this Application is prepared in two parts in generalized format. a. Data Collection, and b. Reports.
+Role & Contribution
+Worked on project called ‘Data Preparation Tool for Mining’ as Senior Consultant (Development), Requirement gathering, Creating different models for different clients with their products. Like inter has their own product. HP has their own products.
+Design development in Flex and Java, and testing.
+Tools
+Struts 1.3.8, Core Java 1.5, Java Scripts, JSP 2, XML, JDBC, SQL Server.
+Key Achievements
+Successfully completed deliverables as per schedule with Client satisfaction.
+
+Project 8 Organization – Avita Software
+Project / Client
+Data Mining Project (Avita Software)
+Team Size
+3
+Start Date
+Sept. 2006
+End Date
+Jan 2007
+Project Description
+This is web based project developed for finding Patterns (facts) from customer databases (Data Mining) with the help of Virtual Miner Enterprise (Engine).
+Role & Contribution
+Worked on project called ‘Data Mining Project’ as Senior Consultant (Development), Requirement gathering, Design development in Flex and Java, and testing.
+Tools
+Core Java, J2EE.
+Key Achievements
+Successfully completed product deliverables as per client schedule.
+
+Project 9 Organization – Srishti Infotech
+Project / Client
+Virtual Miner Engine (Avita Software)
+Team Size
+4
+Start Date
+March 2005
+End Date
+Sept. 2006
+Project Description
+The Engine is developed for Data Mining. This Engine is finding Interesting Patterns or facts from the users databases with the help of Core Classes factory and presentation module. Which are very important for customer business
+Role & Contribution
+Worked on project called ‘Virtual Miner Enterprise Engine’ as Senior Consultant (Development), Requirement gathering, Design development in Flex and Java, and testing.
+Tools
+Core Java, J2EE.
+Key Achievements
+Successfully completed product deliverables as per schedule.
+
+Project 10 Organization – Trinity Engineers
+Project / Client
+ERP solution for Steel Control system (Trinity Engineers)
+Team Size
+8
+Start Date
+April 2002
+End Date
+Feb 2005
+Project Description
+Mini ERP solution for Steel Control system. Steel forging jobs production is completed automated by this ERP for all its documentation and processing.
+Role & Contribution
+Worked on Mini ERP solution development for Steel Control system - The System is taking care about all day to day transaction, for entire production cycles in the following steps
+Customer Schedule for the Month
+Raw Material Inward (Steel)
+Cutting of the Raw Material to Cut Blanks
+Forging of Cut Blank to Product
+Machining of the Product
+Sales Invoices
+Tools
+Core Java, JSP, Sybase, APT.
+KeyAchievement
+Successfully implemented and maintained ERP for Trinity Engineers.
+
+Educational Qualification
+Education & Credentials
+ADCSSAA – Advanced diploma in Computer Application.
+Bachelor of Science.
+MBA (IT)
+
+Contact this candidate

@@ -1,0 +1,34 @@
+Job Title = Engineer
+
+We’ve created a world of choice and built a robust tech platform: working with over 62,000 restaurant partners to serve everything from pizza to sushi, burgers to burritos.
+That was just the beginning, and we’re super proud of it.
+But the best is yet to come.
+Nobody offers more variety when it comes to bringing people food.
+We welcome our customers in to our amazing and expanding selection of cuisines with fresh ways to experience the food they love, and find food we know they’re going to love.
+We inspire our restaurant partners to raise their game.
+Because we have data and insights like no other, we highlight great opportunities to grow and improve their businesses and raise standards across the industry.
+Relentlessly discovering and inventing new ideas and technologies that will make things better for partners and customers, and bringing them together around food.
+We’re proud of what we’ve built, and the countless ways we’ve connected people with food, everywhere.
+Now we can’t wait to make it even better - we’re creating the world’s greatest food community!
+Our Engineering Principles Design and build great software Move fast with confidence Secure, stable, scalable, fast and reliable platform Trust, control and transparency Key responsibilities We don’t divide responsibility for development and operation of our platform, so you and your team will support the changes you make all the way through to operating successfully in production at peak times.
+Our product development teams are growing because we have a huge number of ideas of how to improve the experience customers and restaurants have.
+As an Engineer you will need to play a key role in turning those ideas into reality.
+You’ll need to: Track the progress that you are making towards the wider goals of your team, and transparently communicate that progress to your team and Technology Manager.
+Keep to the processes, standards and designs that your team has agreed.
+Ensure you and others continuously improve by proposing and then implementing new processes, designs and engineering practices that make your team more effective.
+Contribute to the definition of product features, including in workshops with other product development teams.
+Communicate the technical work of your team to other product development teams.
+Take responsibility for supporting your changes all the way through to proving that they work well – and continue to work well – in production.
+If you are a Senior Engineer, we also expect that you: Will become a trusted technical authority and specialist in one or more technical areas of your team.
+You’ll be someone the rest of the team and your Technology Manager can turn to for engineering advice and guidance.
+Collaborate with other product development teams and use their feedback as a basis for improvements.
+Write technically sound, clean, maintainable code – with practical application of established patterns and practices.
+Required skills and experience Required skills and experience C# ASP.NET MVC API Development Amazon Web Services or similar e.g Azure, Google Cloud JavaScript/Angular.JS HTML CSS & Responsive Web Design SQL Server, MySQL or PostgreSQL, DynamoDB Experience working in a Continuous Delivery cycle Working in Microservices Architecture Just Eat is an equal opportunity employer and values a diverse and inclusive workplace.
+All qualified candidates will receive consideration for employment without regard to age, race, colour, religion, genetic information, sex, sexual orientation, gender identity, national origin, disability status, or any other characteristic protected by law.
+For more information about Equal Opportunity in the Workplace please click here.
+Just Eat is committed to working with and providing reasonable accommodation to job applicants with disabilities.
+If you are a qualified individual with a disability and need an accommodation or accessibility assistance to complete the online application, please contact us at for assistance.
+
+
+Go to apply 
+

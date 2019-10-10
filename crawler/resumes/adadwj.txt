@@ -1,0 +1,107 @@
+
+REJI JAMES. T
+#** ********* ***, ******, *******, K2M 2R1
+Tel: 613-***-**** (Home)
+(613)355--6755 (Cell)
+Email: adadwj@r.postjobfree.com;
+
+CAREER OBJECTIVE
+Seeking a position in electronics design/ testing and test automation development.
+
+SUMMARY
+More than 10 years experience in hardware testing, verification, integration and troubleshooting of analog, digital and RF electronics circuits.
+Familiar with electronics communication test procedures, parameters and specifications.
+Experience in using test equipments Spectrum Analyzer, Network Analyzers, Noise Figure Analyzer, Oscilloscopes etc.
+More than five years experience in testing and integration of electronic payload packages used in remote sensing satellites.
+One year experience in automated test software development in VISUAL BASIC, Lab View, HP Basic, Lab Windows/CVI.
+
+EMPLOYMENT HISTORY
+Test Technician Feb 2009- Mar 2019
+
+Honeywell 400 Maple Grove Road, Kanata, ON.
+
+Involved in testing and troubleshooting of High Speed Tranceivers, Cabin gateway units
+Involved in the testing and debugging of AMT 700 Antenna PIM (Passive Inter Modulation ) tests.
+Developed Labview codes to automate Passive Inter Modulation tests and to collect periodical data
+Developed VB codes to automate Test Statistics and Test results archive
+Involved in Root Cause Analysis of PIM test failures.
+Responsible for loading test and customer s/w, Emission tests in SDU (Satellite Data Unit) terminals,
+Responsible for card level testing of control processors for HS-720,HP-720, HSD 440/400i . Splitters, combiners, ARINC motherboard etc.
+Hardware functional testing of Data I/O CCAs
+Involved in the testing and debugging of DBA(Direct Broadband Antenna) products. LNA (Low Noise Amplifiers ), Feeds, Trays and antennas.
+Involved in the testing and troubleshooting of TDCU (Tunable Down Converter Unit).
+Assisting Test Engineers with testing, collecting data RCCAs(Root Cause Analysis)
+
+RF/Electronics Test Technologist Sept 2007- Nov 2008
+
+Nanometrics Seismological Instruments Inc., Kanata, ON
+
+Involved in testing and troubleshooting of various Nanometrics products .
+L band transceiver cards, SSPB(Solid State Power Blocks), Splitter/combiners, TBC(Taurus Back Cover), TECA(Taurus Enclosure Cover Assembly), wave guides etc.
+
+Inspected, tested and adjusted electronic components.
+
+Calibrated electronic equipment and instruments.
+
+Product Test Engineer Nov 2006- June 2007
+
+Skywave Mobile Communications,1145 Innovation Drive,Kanata,ON K2K 3G8, Canada
+Responsible for maintaining and developing test software and hardware.
+Developed test script for Adapter board used with DMR terminals using Lab windows/CVI environment.
+Responsible for improving quality in production test through software improvements, workout calibration procedures.
+Maintaining and updating database and related tools for extracting product test information.
+Work with manufacturing partners to ensure product flows properly.
+Researching and analyzing issues, troubleshooting of test software and hardware, compiling data and preparing reports.
+
+Engineer Space Applications Center, Indian Space Research Organization (ISRO) Ahmedabad, India Jan 1993- Oct 1998
+
+Detector characterization activities of Short Wave Infra Red CCD detector of
+remote sensing satellite payload
+
+Developed software (HP Basic) for automated testing of electronic circuits:
+
+Developed a new technique for gain change and imaging using exposure control for Remote Sensing Satellite payload
+
+Involved in the payload electronics developmental activities of Remote Sensing Satellite payload as follows:
+Modification of video processor circuits. Carried out a comparative study of the video processing circuits with point contact and metallurgical bond Zener diodes
+Designed timing logic circuits
+Carried out stress analysis, Failure Mode Effects and Criticality Analysis (FMECA) of timing logic and bias supply cards.
+
+Involved in the integration activities of Remote Sensing Cameras
+Carried out the Initial Bench Test, EMI / EMC tests, Thermal cycling test, Thermo-vacuum test, and Pre-Flight tests of various payload packages and cards.
+
+QA Engineer Vikram Sarabhai Space Center (VSSC)
+Trivandrum, India Nov1998-Jan 2000
+
+Complied failure analysis report of past 10 years in satellite launch vehicle electronics
+Involved in the ground level testing of Equipment Bay instrumentation packages for Polar Satellite Launch Vehicle
+Involved in the Quality Assurance approval of components used in flight circuits with respect to
+Specification Vs Implementation and space level qualification.
+
+EDUCATION AND TRAINING
+B.TECH (Electronics and Communication Engineering, Pondicherry University, India, May 87-May 1991)
+Optional Subjects: Optical communication, Process control, Television Engineering, Satellite Communication
+
+ELECTRONIC HARDWARE DESIGN (North American Institute of Computer Systems, Ottawa, Canada, April -September 2002)
+Subjects: Advanced switching theory, Hardware Description Language (VHDL), VLSI CAD systems and VLSI architecture.
+PROJECT: Design of a 16-bit microprocessor.
+Designed and tested a 16 bit RISC microprocessor.
+
+Certificate in C/Visual C++ Programming. Computer Maintenance Corporation, India (Jan 2000)
+
+COMPUTER SKILLS
+Programming Languages: HP Basic,,Lab Windows/CVI.
+Application Packages: Microsoft Office (WORD, EXCEL, ACCESS and POWERPOINT)
+
+PERSONAL INTERESTS
+Current affairs, Science and Technology, Traveling.
+
+PERSONAL QUALITIES
+Strong team player
+Aptitude for problem solving
+Good communication skills
+
+REFERENCES
+Available upon request
+
+Contact this candidate

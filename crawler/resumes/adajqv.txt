@@ -1,0 +1,72 @@
+
+Education
+University of California, Los Angeles Fall 2020
+B.S Computer Science
+Work Experience
+Software Engineer Intern – Full Stack Accutive Jun 2019 - Present
+§ Working as a Full-stack developer on Accutive Data Discovery and/or Data Masking (ADM)
+§ Utilizing Java and Spring Boot to write controllers, custom APIs, custom JPQL and Native SQL Queries
+§ Incorporating multiple React.js libraries to build a responsive and cross-browser-compatible front-end
+§ Working closely with QA and Sales team to improve the software in different aspects Paid Summer Research Internship UCLA, TANMS Center Jun - Aug 2018
+§ Translational Applications of Nanoscale Multiferroic Systems (TANMS)
+§ Researched on the interaction between particles within ferrite materials
+§ Quickly learned how to code in MATLAB to write three different codes that simulate the interactions
+§ Wrote a literature review of three research articles and wrote an abstract for the research
+§ Won the best research presentation, presenting for the faculty members and judges IT Student Intern California Department of Transportation, Caltrans Feb - Jun 2018
+§ Wiped configuration of Ciscos’ firewalls, routers, and switches before recycling them
+§ Updated the Security division’s web page using Drupal framework and HTML Top Projects
+DEAZY – Scalable Web App
+Dating spots recommender – UCLA CS Project - Class is being taught by Appfolio’s CTO
+§ Building a scalable web-app with Ruby on Rails – will be deployed on AWS
+§ Users can signup/login, write, edit, delete reviews, rate spots, and search for spots based on categories
+§ Following Agile and SCRUM software engineering principles Music Visualizer – Developer & Technical Lead
+A quarter-long collaborative project between CMMND & Creatvie Labs at UCLA
+§ Utilized three.js library and web-audio APIs to make dynamic animations that would react to the music
+§ Worked closely with other developers, 3D-designers and music producers to make this app Quizzler
+An educational iOS-App for kids to identify the name of objects by voice recognition
+§ Utilized the built-in Apple voice recognition feature to recognize the user’s voice
+§ Utilized Google ML kit, Image Labeling, to label the objects of a desired image
+§ Parents can take photos of different objects and add them to the library of images Blog Posting App
+A web-application for posting blogs
+§ Utilized JavaScript, CSS, HTML for front-end and node.js, express.js, and MongoDB for back-end
+§ Implemented RESTful routing to have the functionality of adding a new post, deleting an old post, and editing one
+Awards
+Research Presentation
+1st place among ten teams
+in UCLA TANMS Center
+Engineering Design
+Best & Most Innovative
+Engineering Design at
+SMUD Solar Boat
+Competition in Sacramento
+Programming Languages
+C/C++
+JavaScript
+Python
+Java
+Ruby
+CSS
+HTML
+Bash
+Software and Frameworks
+Bootstrap
+Rails
+Git
+ReactJS
+JIRA
+SQL
+Skills
+Git and Unix Enthusiast,
+Guitarist, Sport and Gym
+Enthusiast, Team player,
+Leader, Dedicated
+Tutor/Mentor, Fast-
+learner
+Ali Mirabzadeh
+Senior Computer Science student who loves to learn new things in life. A passionate to help my community by creativity and coding
+Phone-Number: 916-***-****
+Portfolio: www.alimirabzadeh.com
+E-mail: adajqv@r.postjobfree.com
+LinkedIn: https://www.linkedin.com/in/ali-mirabzadeh/ Github: https://github.com/alimz758
+
+Contact this candidate

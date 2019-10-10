@@ -1,0 +1,46 @@
+Job Title = Technician
+
+Latitude 32 is seeking a talented individual for board-level electronic component testing and rework; sub- and final assembly, testing and shipping of various consumer electronics products; and assisting with warehouse and inventory organization. The chosen candidate will be motivated, organized, an effective communicator, and a team player.
+Job Responsibilities
+
+This role will be approximately 70% technician duties and 30% assembler duties. Business needs will occasionally require a change to this split.
+Technician Duties:
+· Use lab bench solder tools for both through-hole and surface mount technologies.
+· Debug and troubleshoot electronic and electromechanical assemblies following developed test procedures and fixtures.
+· Perform in-process and final verification testing of electromechanical assemblies, sub-assemblies, and finished products following developed test procedures.
+· Troubleshoot electronics at a block level or further to determine cause and remedy of any failures.
+· Perform required repairs to return products to operational state.
+· Develop and implement procedures for inspection, testing, and evaluation of mechanical, electrical and electronic products for acceptability.
+· Collaborate with engineers in the design and assembly of electrical/mechanical and electronic test fixtures.
+· Ensure products meet internal and external specifications.
+· Undertake product firmware programming using provided tools and fixtures.
+· Document testing procedures and results in a clear and organized manner.
+Assembler:
+· Assemble prototypes and products of medium complexity efficiently and with great attention to quality and detail.
+· Set up, monitor, and clean 3D printer jobs.
+· Test assembled electronic devices for functionality.
+· Manage inventory by providing accurate counts and estimates to Operations Manager and organizing storage of excess parts and completed products.
+· Optimize and organize workspaces as needed.
+· Pack and ship completed products.
+Qualifications and Preferred Skills
+· High school diploma, GED certificate, or equivalent
+· 3-5 years’ related work experience. Preference given to candidates with a background in the consumer electronics industry.
+· Additional training certificates for any listed skills, including corporate certifications, a plus. Please list on resume and be prepared to furnish proof if requested.
+· Proficient with electronic rework bench tools (soldering irons, microscopes, hand tools, tweezers, heat shrink, wiring, etc.)
+· Familiar with electronic test tools (oscilloscopes, power supplies, power analyzers, current/voltage measurement, etc.)
+· Familiar with reading schematics, Bill of Materials, component datasheets, and assembly drawings.
+· Excellent organizational and communication skills.
+· Capable of quickly learning functions of complex electromechanical assemblies.
+· Excellent organizational and time management skills.
+· Basic computer skills, including MS Office.
+· Ability to work both independently and collaboratively.
+Work Environment and Physical Demands
+· Occasionally required to sit, stand, use hands to handle or manipulate tools or other objects, reach with hands and arms, and visually interpret data at close range. Other physical activities may include but are not limited to standing, bending, stooping, walking, and sitting.
+· Must be able to frequently lift equipment or boxes weighing 5-10 pounds and occasionally lift equipment or boxes weighing 15-30 pounds
+· Work takes place in a typical office and occasionally a warehouse with some temperature control.
+· Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of the job.
+Latitude 32 Engineering LLC is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, gender identity, sexual orientation, national origin, genetic information, disability status, veteran status, or any other characteristic protected by law.
+
+
+Go to apply 
+

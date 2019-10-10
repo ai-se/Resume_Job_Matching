@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 The Machine Operator maintains machines to keep production running by performing low level maintenance and troubleshooting.
 Responsibilities Include :

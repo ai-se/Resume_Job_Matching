@@ -1,0 +1,19 @@
+Job Title = Engineer
+
+Spatial Integrated Systems (SIS) is seeking a qualified Engineer experienced in submarine combat systems engineering at our customer site, Naval Undersea Warfare Center located in Newport, RI. Basic duties include technology insertion planning and development for the BYG 1 Combat System Suite. Basic qualifications include a B.S. in Engineering, 6 years’ experience operating and maintaining Submarine Warfare Federated Tactical Systems. Officer of the deck qualified is an added bonus. Specific job responsibilities and requirements as follows:
+Responsibilities:
+* Familiar with the APB/TI life cycle development process
+* Experience in the analysis of baseline changes to the Submarine combat systems and translating them into modifications to updated configurations
+* Functional experience with BYG 1 combat system suite
+* Experience in reading design documents, generating high level interface block diagrams, and producing innovative designs incorporating commercial equipment, to support the development of new technologies, design and operational concept development and analysis of advanced development concepts
+* Familiar with risk assessment and management
+* Experience with common weapons launch console (CWL) or other payload driven launch console variations is desired
+* Some expertise with UUV CONOPS and capabilities also desirable
+Requirements:
+* Bachelor of Science Degree in Electrical, Mechanical, or Systems Engineering
+* Position requires U.S. Citizenship and the ability to obtain a security clearance with the U.S. government
+An active security clearance is strongly preferred.
+
+
+Go to apply 
+

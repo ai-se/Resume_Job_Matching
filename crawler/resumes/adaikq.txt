@@ -1,0 +1,169 @@
+
+Naren
+AWS/DevOps Engineer
+Email: adaikq@r.postjobfree.com Phone: 781-***-****
+
+Summary :
+
+•Around 7+ years of experience in Process Automation, Build, Deployment Automation, Release Management, and Cloud(AWS) Services including end-to-end code configuration, building binaries & deployments in entire life cycle of enterprise applications.
+•Extensive experience as a system administration in RHEL, CentOS, Ubuntu, SUSE Linux, Oracle Enterprise Linux, OSX, and Windows.
+•Experienced in all phases of the Software Development Life Cycle (SDLC) with specific focus on the build and release of quality software. Experience in Waterfall, Agile/Scrum and most recent Continuous Integration (CI), Continuous Deployment (CD) Practices.
+•Experience with in-depth knowledge in DevOps management methodologies and production deployment Configurations.
+•Experience in handling AWS (storage, Application services, Deployment and Management) Provisioning and in-depth knowledge in services like EC2, S3, Route 53, IAM, Load Balancing, Auto scaling, Cloud watch, Cloud Front, VPC.
+•Excelled on creating AMI (amazon machine images) that utilizes ELB (Elastic Load Balancer) and Auto Scaling.
+•Hands on experience in using AWS Java and Python SDK for creating applications to customize the resources in AWS.
+•Experience in using of version control tools like GIT and SVN.
+•Experience with SaaS (Software as a service), PaaS (Platform as a Service), and IaaS (Infrastructure as a Service) solutions.
+•Experience in virtualizing the servers using Docker for the test environments and dev environment needs and gained knowledge in cluster tools like Mesosphere and kubernetes.
+•Experienced DevOps Practice for Micro Services Architecture using Kubernetes for Orchestration.
+•Designed architecture, developed products to integrate apps with REST Web Services, APIs.
+•Expertise in using open source projects like Ansible, Chef, Puppet for continuous delivery and deployment.
+•Implemented automation with Ansible and Puppet for application testing, deployment, and development.
+•Improved continuous integration workflow, project testing, and deployments with Jenkins. Implemented code coverage and unit test plug-ins with Maven in Jenkins.
+•Worked with bug tracking tools like JIRA, ServiceNow and Bugzilla.
+•Hands on experience in Automated testing web-based applications using Junit and selenium.
+•Skilled in monitoring and analyzing servers using Nagios, ELK Stack, New Relic, and AppDynamics.
+•Experience in Python and Shell scripting to automate infrastructure related manual tasks.
+•Experience with a lot of data stores including MySQL, Oracle and MongoDB etc.
+•Practical experience with Linux/Unix system administration and troubleshooting.
+
+Education:
+•Master’s from New England College, Henniker, NH - May 2018
+•Bachelor's from Dayananda Sagar Institutions, Bengaluru, India – May 2011
+
+Technical Skills:
+
+Cloud Technologies: Amazon Web Services (AWS), Azure
+Version Control Tools: SVN, CVS, GIT
+Repository Management: Artifactory, Nexus, Docker hub.
+Build Tools: Ant, Maven, Graddle
+CI Tools: Jenkins/Hudson, Bamboo, Teamcity
+Continuous Deployment Tools: Rundeck
+Configuration Management Tools: Puppet, Ansible, Terraform
+Bug/Issue Tracking: Jira, ServiceNow, Bugzilla.
+Web/ Application Servers: Nginx, Apache Tomcat, Web logic, WebSphere, JBOSS
+Web Services: REST
+Operating Systems: Windows Family, Unix, RHEL, Ubuntu, CentOS
+Scripting Languages: Shell, Python
+Database: Oracle 11g, MySQL, DB2, Redshift, SQL server
+NoSQL: Mango dB, Dynamo dB, Cassandra,
+Testing Tools: Junit, JMeter, Selenium
+Containerization tool: Docker, Kubernetes, Mesosphere
+Virtualization: VMware, Xen Server
+Monitoring Tools: Nagios, Ganglia, Splunk, New Relic, Kibana, App dynamics, Apache Zookeeper.
+
+Work Experience:
+
+CDK Global, Seattle WA Feb 2019 - Present
+DevOps Engineer
+
+Description: Project objective is to develop a world-class experiential commerce solution to help brands architect the most relevant End to End product life cycle needs of any retailer/manufacturer with latest technologies and tools for managing the testing, implementation, and deployment of large-scale, high-availability web infrastructures for interactive, and scalable sites.
+Responsibilities:
+•Provided day to day Build and deployments in pre-production and production environments.
+•Configure, monitor and automate AWS as well as involved in deploying the content cloud platform on Amazon Web Services using EC2, S3 and EBS.
+•Installation, Configuration and Management of RDBMS and NoSQL tools such as Mongo DB.
+•Creating S3 buckets and maintained and utilized the policy management of S3 buckets and Glacier for storage and backup on AWS.
+•Experienced with Java Spring based frameworks for build/automaton tools using Maven
+•Implemented Continuous Integration Environment using Jenkins.
+•Experienced with source code administration to Manage and configure GIT and resolved issues regarding source code management, manage branching and merging, and code freeze process.
+•Implemented Continuous Integration using Jenkins and GIT.
+•Used Nexus to improve build stability due to reduced reliance on external repositories.
+•Ownership for Azure SQL server DB deployment & managed the continues integration & continues deployment.
+•Planning and implementation of data and storage management solutions in Azure (SQL Azure, Azure files, Queue storage, Blob storage). Implementing scripts with PowerShell for Runbooks.
+•By using Nexus created a central storage and access to artifacts and metadata about them exposing build outputs to consumer such as other projects and developers, but also QA or operations teams or even customers.
+•Used Terraform to map more complex dependencies and identify network issue.
+•Written scripts in Python to automate the log rotation of multiple logs from nodes.
+•Automated Scheduled Builds/Emergency Builds and Release using Maven for Enterprise application (J2EE).
+• Automated configuration management and deployments using Ansible playbooks and YAML.
+•Created Ansible Playbooks provision Apache Web servers, Tomcat servers, Nginx, Apache Spark and other applications.
+•Leveraged Docker Engine to run Multiple Tomcat Instances as Containerized App Servers.
+•Developed Docker images to support Development and Testing Teams and their pipeline and orchestrated Docker images and Containers using Kubernetes by creating whole master and node.
+•Assisted developers in integrating their code with the main stream and merged conflicting code to ensure release to test environments.
+•Experienced with JIRA for defect tracking.
+•Developed Shell Scripts for manual deployment of the code to the different environments and E-mail the team when the build is completed.
+•Created Shell scripts for building and deploying java application to target environments.
+•Configured and monitored all the nodes using Splunk and Nagios.
+
+Environment: AWS, Jenkins, Python, Maven, Splunk, Tomcat, Nagios, REST, Kubernetes, Terraform, JIRA, Mongo dB, GIT, Shell, Docker, Ubuntu, Ansible.
+
+Arzeda, Seattle, Washington Jan 2018 – Feb 2019
+AWS Engineer
+
+Description: Arzeda, The Protein Design Company, is a synthetic biology company that creates novel proteins, enzymes and specialty chemical products that compete on performance, cost and sustainability. As an AWS Engineer, worked within the AWS Operations team to implement, manage, maintain, deploy, troubleshoot and support internal and customer AWS environments.
+
+Responsibilities:
+
+•Installing, configuring and administration of Red Hat Linux and Tomcat servers where the applications are running behind jump host.
+•Developed and implemented software release management strategies for various applications according to agile process
+•Creating Multiple AWS instances, Creating Elastic Load Balancer and Auto scaling to design cost effective, fault tolerant and highly available systems.
+•Launched Amazon EC2 Cloud Instances using Amazon Web Services and Configuring launched instances with respect to specific applications
+•Created IAM policies, Users, Roles for delegated administration within AWS to manage resources to users.
+•Created Amazon VPC to create different subnets for web servers, databases & application servers over NAT instance as per the requirements.
+•Migrated existing DNS to AWS Route53 to manage all the DNS records and assigned the public DNS to the elastic load balancer.
+•Responsible in working with the Source code control which involves build and integration from GIT.
+•Installed, Configured and automated the Jenkins Build jobs for Continuous Integration from GIT.
+•Complete lab setup for Single-On of application with Azure & Local AD containers
+
+•Working with Azure Service Fabric, exclusively to create microservice application, used Stateful partitions with named service and secondary replicas for scalability and availability Ability to write Shell & Perl scripting.
+•Configured and maintained Jenkins to implement the CI process for major releases and integrated the tool with Maven to schedule the builds.
+•Build, manage, and continuously improved the build infrastructure for global software development engineering teams including implementation of build scripts, continuous integration infrastructure and deployment tools.
+•Created configuration management Ansible playbooks deployments to provision production environment.
+•Usage of Ansible playbooks for creating base AMI'S for multiple environments in deployment process.
+•Created Ansible Playbooks with Python SSH as the Wrapper to Manage Configurations of AWS Nodes and Test Playbooks on AWS instances using Python before pushing to production.
+•Working Experience on Docker container services creating Docker Hub, Docker Images and handling multiple images primarily for application and domain specific configurations.
+•Worked with engineering, development, and testing teams to ensure all the infrastructure must bind to build environment to avoid application conflicts.
+•Using bug tracking tool JIRA all the logs are monitored and fixed by contacting engineering and dev teams.
+•Improved system level monitoring using ELK and ServiceNow tools to ensure alerts for infrastructure as code practices.
+
+Environment: AWS, RHEL, ELK, GIT, Jenkins, Maven, Docker, Ansible, Python, ServiceNow, Jira, Shell/Bash, SQL.
+
+Altimetrik India Pvt Ltd, Chennai, India Feb 2014 – Jul 2017
+Software Engineer (Release / Build Engineer)
+
+Description: Altimetrik is a business transformation & technology solutions provider to enterprises in areas of Digital, Connected Solutions and Consumer Technologies. As a Software Engineer, responsible for managing version control tools, repositories, releases, branching, merging, documenting build processes, administering build machines and users in a highly dynamic Agile environment.
+
+Responsibilities:
+
+•Developing new comprehensive Hudson / Jenkins command line tool to increase the efficiency of commonly repetitive tasks.
+•Managed Hudson/ Jenkins based build system for continuous delivery framework in Linux Environment.
+•Collaborated with team members and other software engineers across multiple platforms teams for meeting the requirements to implement the software build needs.
+•Developed unified base OS image for family of embedded Linux systems, configuring boards for different personalities via boot-time scripting.
+•Designed and supported installation scripts and procedures across multiple product lines and platforms, ensuring smooth and successful installations and upgrades by internal teams and customers.
+•Developed/managed Puppet manifest for automated deployment to various servers.
+•Deployed Puppet dashboard and Puppet DB for configuration management to existing infrastructure.
+•Constructed the Puppet modules for continuous deployment and worked on Jenkins for continuous integration.
+•Troubleshooting various production related outages.
+•Setting and Maintenance of source code repository.
+•Installation of JIRA, and customization of JIRA for workflow, look & feel, fields, user & group management etc.
+•Coordinated in CVS to Subversion migration.
+•Migrating the data to DEV and QA Oracle database before doing code roll-out.
+
+Environment: Jenkins, JIRA, JUnit, SQL, Puppet, Tomcat, CentOS, Unix, SVN, CVS, Bash/Shell.
+
+William Hare Group, Chennai, India May 2011 – Jan 2014
+Linux Administrator
+
+Responsibilities:
+
+•Installation and Configuration of Red hat, SLES 9, 10 servers.
+•Installation, configuration and management of Apache Tomcat servers.
+•Installation, configuration and maintenance of local and Network based Printers.
+•Troubleshoot various systems problems such as application related issues, network related issues, hardware related issues etc.
+•Experience in Shell scripting (ksh, bash) to automate system administration jobs.
+•Automated tasks using bash, cron shell scripts.
+•Involved in installing subversion version control and creating and administering repositories.
+•Involved in taking the weekly backups of the repositories and managing the repositories.
+•Installing and configuring various services like DNS, DHCP, NFS, Send mail, Apache Web Server, NIS, Samba, SSH, Telnet, http, RPM Package Management & Yum.
+•Creating users with root’s privileges and users with limited root’s privileges called the sudo users.
+•Setup and Configuration of Puppet Configuration Management.
+•Troubleshoot issues with Linux Systems and Configuration files.
+•Management of RHEL 5 and 6 Servers and performed Migration.
+•Setup Red Hat Kickstart server facility.
+•Configuring and installing Apache Web Server deployed in Linux environment.
+•Patching and upgrading systems for Security and bug fixes using Red Hat Satellite server as well as Performing upgrades of administrative tools and utilities.
+•Monitoring System Performance and alert logs, Disk and CPU utilization using Nagios and performing system monitoring for production applications.
+•Maintaining system accounting files, application logs and error log files.
+
+Environment: Red Hat Linux, DNS, DHCP, NFS, Apache Tomcat, Red Hat Kickstart Server, Global File System.
+
+Contact this candidate

@@ -1,25 +1,51 @@
+Job Title = Entry Or Vb Or .Net Or Mri Or C# jobs in Raleigh, NC, 27606
 
-Are you looking for a place to jump start your career in software development that offers in-depth training programs and career advancement opportunities? If so, MRI Software is the place for you! We are currently looking for a Entry-Level Software Engineer to join one of our Product Development teams! Under the Agile development methodology, this developer will work cross-functionally with other groups both inside and outside the department including Product Management and Documentations as well as create and test code in our dynamic team setting. You will be able to gain a deeper understanding of specific programming languages such as C# and VB.Net, through our in depth training program.
-Founded in 1971, MRI Software is a leading provider of innovative real estate software applications and hosted solutions. MRIs comprehensive and flexible technology platform coupled with an open and connected ecosystem meets the unique needs of real estate businessesfrom property-level management and accounting to investment modeling and analytics for the global commercial and residential markets.
+Serenity Infotech  – 
+Raleigh, NC, 27601
+Title: VB.NET Developer Location: Raleigh, NC Duration: 12 Months Job Description: DHHS is seeking a Technical Specialist to support the WIC - Crossroads system and provide technical assistance to the performance/load testing. Duties and ...
+- Jobs2Careers, Oct 07
 
-BA/BS Degree in Computer Science, Software Engineering or related software engineering experience
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+.Net Developer/Programmer (ASP.net/Vb.net/SignalR) (Job ID: 559094) 116 W Jones St, Raleigh, NC 27603, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with more than 18 years experience ...
+- Lensa, Oct 07
 
-Knowledge of multiple object oriented programming languages, including C#, VB.Net
+TechMileage Software Solutions  – 
+Raleigh, NC
+C#/.Net back-end developer Qualifications 3- 5 years of strong experience with .Net technologies Strong knowledge in C# and .Net Strong Object Oriented programming skills and understanding SOLID principal Very good understanding of Data Structures ...
+- Neuvoo, Oct 03
 
-Ability to work in a team setting and contribute unique ideas to the group
+TechMileage Software Solutions  – 
+Raleigh, NC, 27601
+3- 5 years of strong experience with .Net technologies Strong knowledge in C# and .Net Strong Object Oriented programming skills and understanding SOLID principal Very good understanding of Data Structures and Algorithms Experience with NoSQL ...
+- Dice.com, Oct 04
 
-Good communication and interpersonal skills
-MRI Software delivers innovative applications and hosted solutions that free real estate companies to elevate their business. Our flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Sydney, South Africa, New Zealand, and Canada with over 1200 team members to support our clients and their unique needs!
+TechMileage Software Solutions  – 
+Raleigh, NC, 27601
+3- 5 years of strong experience with .Net technologiesStrong knowledge in C# and .NetStrong Object Oriented programming skills and understanding SOLID principalVery good understanding of Data Structures and AlgorithmsExperience with NoSQL databases ...
+- Jobg8, Oct 08
 
-BA/BS Degree in Computer Science, Software Engineering or related software engineering experience
+CyberCoders  – 
+Youngsville, NC, 27596
+Senior .NET C# Developer Senior .NET C# Developer - Skills Required - .NET, C#, Windows, Big Data, SQL Server If you are a Senior .NET C# Developer with experience, please read on! Based in Youngsville, NC - we've been in business for 25+ years and ...
+- Lensa, Oct 07
 
-Knowledge of multiple object oriented programming languages, including C#, VB.Net
+TechMileage Software Solutions  – 
+Raleigh, NC, 27601
+3- 5 years of strong experience with .Net technologiesStrong knowledge in C# and .NetStrong Object Oriented programming skills and understanding SOLID principalVery good understanding of Data Structures and AlgorithmsExperience with NoSQL databases ...
+- Jobg8, Oct 08
 
-Ability to work in a team setting and contribute unique ideas to the group
+TechMileage Software Solutions  – 
+Raleigh, NC, 27601
+3- 5 years of strong experience with .Net technologies Strong knowledge in C# and .Net Strong Object Oriented programming skills and understanding SOLID principal Very good understanding of Data Structures and Algorithms Experience with NoSQL ...
+- Dice, Oct 04
 
-Good communication and interpersonal skills
-MRI Software delivers innovative applications and hosted solutions that free real estate companies to elevate their business. Our flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Sydney, South Africa, New Zealand, and Canada with over 1200 team members to support our clients and their unique needs!
+Cynet Systems  – 
+Raleigh, NC
+... Required: Minimum of five (5) years’ experience programming and design of web-based distributed systems Experience with VB.NET, WPF Browser Application, Microsoft Enterprise Application Blocks, HTML, HTTP, XML, SOAP, WSDL, UDDI, Web Services, Visual ...
+- Neuvoo, Sep 19
 
-
-Go to apply 
-
+TechMileage Software Solutions  – 
+Raleigh, NC
+3- 5 years of strong experience with .Net technologiesStrong knowledge in C# and .NetStrong Object Oriented programming skills and understanding SOLID principalVery good understanding of Data Structures and AlgorithmsExperience with NoSQL databases ...
+- Adzuna, Oct 07

@@ -1,0 +1,48 @@
+Job Title = Engineer
+
+THIS IS A CORPORATE POSITION
+
+Responsibilities
+
+Papa John's International is a global pizza company that is passionate about technology. We are looking for an associate level Software Engineer that has a demonstrated ability to learn new technologies, implement next generation technologies and ideas, and grow their understanding of software development principals. In this role, you will be supporting multiple areas of the business and ensuring day to day functions continue to operate smoothly.
+
+To be successful in this role you must be an exceptional learner with broad engineering fundamentals and have what it takes to design, document, and implement code. We are looking for a candidate who is self-driven, can constantly research and suggest latest technologies, independently troubleshoot technical issues, and work with teams of software engineers, test engineers, and product managers.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+* Working within a team, ensure all applications and processes within Papa Johns International are operating to the standards of outlined SLAs.
+
+* Convert designs and specifications into code. Compile code and correct errors detected in compilation process. Analyze code to find causes of errors and revise code. Test code using structured testing methodology and confirm programs meet specification.
+
+* Work with team members to prototype, refine, test, and debug programs to meet needs.
+
+* Consult with Product Managers, Product Owners and/or users to gather information about program needs, objectives, functions, features, and input/output requirements.
+
+* Provide technical assistance by responding to inquiries from others regarding errors, problems, or questions about developed software. Train internal and end users and monitor/support software after implementation.
+
+* Write and maintain technical specifications, documentation to describe program development, coding, testing, changes, and corrections, installation and operation of developed software. Review written documentation by other of installation and operation of software.
+
+* Manage individual project priorities, deadlines and deliverables.
+
+Qualifications
+
+* BS degree in Computer Science, similar technical field of study or equivalent practical experience.
+
+* 2+ years' experience in software development
+
+* 2+ years working in agile software development environment
+
+* Working proficiency and communication skills in verbal and written English.
+
+Overview
+
+Exciting things are happening at Papa John's corporate restaurants. Work where the best ingredient is YOU!
+
+Great things are happening at Papa John's! If you are looking for a fulfilling career with an international company, flavored with challenging work, mixed with professional development opportunities, a competitive salary and a collaborative team environment, then look no further! Papa John's seeks people who share our philosophy for success, are looking for quality business practices and meaningful work. All these combine to produce not only the best pizza, but also the best team members!
+
+Papa John's has over 5,000 locations in 44 countries and territories around the world. We offer a competitive benefits and compensation package. Driven to be the best. Better Ingredients. Better People. ®
+SDL2017
+
+
+Go to apply 
+

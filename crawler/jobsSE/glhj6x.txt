@@ -1,6 +1,51 @@
+Job Title = Big Or Etl Or Hadoop Or Engineer jobs in Raleigh, NC, 27606
 
-Must have experience - Hadoop SQL Hive Scala Python Spark ETL Some Data Modeling Should have ETL DWH background Shell scripting
+TiVo Corporation  – 
+Durham, NC, 27703
+... for system upgrades Qualifications: 5+ year experience implementing complex ETL pipelines BS/MS in CS or Engineering Write complex SQL and ETL processes Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase. ...
+- Lensa, Oct 07
 
+TiVo Corporation  – 
+Durham, NC, 27703
+... Working experience with one or more of the tech stacks: Hadoop/MPP/Presto Extensive experience SQL query optimization/tuning and debugging SQL performance issues Design and build ETL/ELT process to move data through the data processing pipeline. Be ...
+- Lensa, Oct 07
 
-Go to apply 
+Kairos Technologies  – 
+Durham, NC
+Big Data / Hadoop Developer to work in Durham, NC Overview We are looking for senior software engineers with expertise in ...  basic shell scripting, operating AWS instances and environments ETL (Informatica) and data warehouse design Public / hybrid ...
+- Oorwin, Oct 07
 
+Cynet Systems  – 
+Durham, NC, 27701
+" We are looking for Big Data / Hadoop Developer for our client in Durham, NC Job Title: Big Data / Hadoop Developer Job ... ETL (Informatica) and data warehouse design. Public / Hybrid Cloud platforms and practices (ideally AWS). An understanding ...
+- Dice.com, Oct 07
+
+Kairos  – 
+Durham, NC, 27701
+Big Data / Hadoop Developer to work in Durham, NC Overview We are looking for senior software engineers with expertise in ...  basic shell scripting, operating AWS instances and environments ETL (Informatica) and data warehouse design Public / hybrid ...
+- Dice.com, Oct 07
+
+Kairos  – 
+Durham, NC, 27701
+Big Data / Hadoop Developer to work in Durham, NC Overview We are looking for senior software engineers with expertise in ...  basic shell scripting, operating AWS instances and environments ETL (Informatica) and data warehouse design Public / hybrid ...
+- Dice, Oct 07
+
+Cynet Systems  – 
+Durham, NC, 27701
+We are looking for Big Data / Hadoop Developer for our client in Durham, NC Job Title: Big Data / Hadoop Developer Job ... ETL (Informatica) and data warehouse design. Public / Hybrid Cloud platforms and practices (ideally AWS). An understanding ...
+- Dice, Oct 07
+
+Cynet Systems  – 
+Durham, NC, 27701
+We are looking for Big Data / Hadoop Developer for our client in Durham, NC Job Title: Big Data / Hadoop Developer Job ... ETL (Informatica) and data warehouse design. Public / Hybrid Cloud platforms and practices (ideally AWS). An understanding ...
+- Jobg8, Oct 08
+
+TiVo  – 
+Durham, NC, 27701
+... system upgrades Qualifications: * 5+ year experience implementing complex ETL pipelines * BS/MS in CS or Engineering * Write complex SQL and ETL processes * Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase. ...
+- StartwireL2, Sep 27
+
+Cubic Technologies  – 
+Durham, NC, 27701
+" We are hiring a Big Data / Hadoop Developer to work in Durham, NC Contract W2 / Full time with CubicIT Overview We are ...  basic shell scripting, operating AWS instances and environments ETL (Informatica) and data warehouse design Public / hybrid ...
+- Dice.com, Oct 02

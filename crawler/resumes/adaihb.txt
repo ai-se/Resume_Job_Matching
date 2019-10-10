@@ -1,0 +1,199 @@
+
+Curriculum Vitae
+
+Ahmad Abdulaziz Athar
+Email: adaihb@r.postjobfree.com
+Mobile: - +965********
+
+Professional Summary
+A proven IT professional with 20 yrs of experience in design, implementation and operations of IT infrastructure / System engineering / Datacenter operations using VMware, Microsoft, HP & DELL-EMC technologies. Lead IT projects in complex environments and process aware. Good team player with excellent communication skills.
+
+Target job :- Senior/Leadership role in IT infrastructure / Operations
+
+Academic qualification
+Bachelor of Science ( IT )
+Diploma Electronics & Communication Engineering
+
+IT Certifications
+VMware Certified Professional (VCP – DCV 3.5, 5.0, 5.5 & 6.0)
+VMware Certified Professional ( VCP 5.5 – Cloud )
+Hyper-V Certified
+ITIL - Foundation
+MCTIP – Exchange 2007
+MCSA ( Windows 2012 )
+MCTS ( Microsoft Certified Technology Specialist )
+MCSE (Microsoft Certified Systems Engineer - 2003)
+MCSA ( Microsoft Certified System Administrator - 2003 )
+MCSE (Microsoft Certified Systems Engineer – 2000)
+MCP ( Windows 2000 )
+MCP ( Windows NT 4.0 Since 1999 )
+
+Skills
+VMware vSphere 6.5/6.0/5.5/5.1/4.1/4.0/3.5
+Virtual Center, Update Manger, vROPs, SRM, HA, DRS, vMotion, vDS
+VSAN, VMware NSX, VMware Log Insight
+Nutanix HCI
+Microsoft Azure – Office 365
+Amazon Web Services
+RSA SecureID Administration
+Project Management (Undergone formal PMP Course)
+Redhat Linux Administration (7.x) ( Undergone formal RHCSA Training )
+Hyper-V Administration
+Storage (EMC Clarion/Celerra/Centera, HP 3PAR & P2000 MSA)
+EMC VPLEX, Recovery Point Solution
+Backup (Veeam, Veritas / BackupExec, EMC Networker with DataDomain)
+Blade servers administration (HP BL Series 490, 460 & 465 G7 & G8)
+HP C7000 Blade enclosure, Onboard Administrator, Virtual Connect & ILO
+Antivirus ( Symantec, MacAfee, Microsoft Forefront )
+HP SUM, HP ONEVIEW
+Exchange 2010/2007/2003/2000
+Active Directory (2000/2003/2008/2012)
+Windows Clustering (Physical – VMware based)
+System Center Operation Manager (SCOM)
+System Center Configuration Manager (SCCM)
+Windows 2012/2008/2003/2000/NT/98
+DNS, DHCP, File & Print Servers
+WSUS, Shavlik Protect
+Blackberry Administration
+
+Total working experience and employment profile : - 20th year
+
+Professional Experience
+
+American University Of the Middle East
+Period :- Apr 2017 till date
+Designation :- IT Infrastructure Manager
+Leading the infrastructure team of AUM
+Managing the support team to resolve day to day incident cases
+Managing the Helpdesk / ServiceDesk team for effective IT services delivery
+Ensuring IT services delivery within the defined SLA and periodic review
+Asset management of Servers, Desktops, Laptops, Printers etc
+Reviewing the user feedback for continual improvement
+Responsible for the operations of multiple datacenters covering all facets of datacentre i.e. Racks solution, power, cooling, cabling, FM200 etc
+Having HP / Dell server hardware and HP, EMC, IBM & DELL storage, Veeam & Veritas / NetBackup backup solution
+Knowledge of hyper-converged platforms like Nutanix, DELL-EMC, HP Simplivity & Microsoft S2D
+Utilizing cloud services like Azure & AWS for hosting business applications
+Hosting student mailboxes on Microsoft cloud ( Office 365 )
+Reviewing KPI’s regularly and working on continual improvement opportunities
+Following ITIL practices with focus on change management
+Engaging with cross function departments for projects implementation
+Preparing yearly budgets requirements
+Planning of business solution with TCO & ROI calculations
+Meeting internal and external auditor and adhering to compliance requirements of the industry / business
+Planning tech refresh, renewal of support and AMC as required
+Initiating projects with well-defined scope of work and deliverables
+Hosting infrastructure to support 17,000+ students and staff
+Using Microsoft Azure cloud services for business needs
+Serving business applications like Banner, Moodle, CRM, Exchange, AD & academic software’s and in-house applications
+Hosting all business services securely using 2FA / MFA solution
+Implementation of Data Loss Prevention ( DLP ) solution ( ForcePoint ) as per organization requirements
+Implementation of Data Access Governance solution ( StealthBits ) for review of business-critical data and its access
+Hosting security solutions like Gallagher and Genetic CCTV solution for AUM campus
+Securing the business data by implementing leading AV / EDR solution to defend against the latest cyber threats like Ransomware and other malware's
+Strong focus on Change Management, CMDB, SOP and review of internal processes periodically
+Microsoft Hyper-V based environment hosting all the business workloads
+Responsible for operations of multiple Data centers for service high availability
+Utilizing Veeam Availability suite for business services availability across multiple data canters
+Managing desktops using SCCM for deploying security patches, software packages, OSD and software inventory
+Disaster recovery planning and periodic testing
+
+Al Elm Information Security Co. – Riyadh, Saudi Arabia
+Period :- Jan 2013 till Mar 2017
+Designation :- IT Infrastructure Consultant
+Client :- Ministry Of Interior ( Saudi Arabia )
+Senior member of the IT Infrastructure team hosting MOI e-Services (www.moi.gov.sa) and responsible for its operations
+Design and plan the compute, storage and network infrastructure to host MOI applications
+Planning system design and implementing best practices to improve availability, reliability & performance of business application
+Selecting rack solutions suitable to host different hardware like servers and network devices
+Evaluating datacenter requirement of power, space and cooling to host new hardware
+Installation and configuration of vCenter on Windows and vCenter Appliance
+Creating Datacenter, Clusters and configuration of DRS, HA, vMotion
+Monitoring of VMware farm with vRealize Operations Manager ( vROPs )
+Creating Dashboards, Configuring alert, defining threshold in Vcops / vRealize Operation manager to send email notification
+Experience in enterprise class Intel based server hardware including server blades, RAID and SAN Technologies.
+Familiarity with storage technologies such as SAN/NAS and Storage Protocols such as iSCSI/NFS.
+Lead the implementation of new VMware infrastructure based on HP G8 blades, vSphere 5.5 & EMC VPLEX storage
+Lead the migration of complete VMware environment from vSphere 4.1 to 5.5
+Implemented 2 factor authentication for enhanced security using RSA SecureID
+Managing software and hardware token assignment and day to day support
+Evaluated ( POC) VMware NSX for Network Virtualization and achieve micro segmentation
+Planning & implementation of DR solution for MOI portal using EMC Recovery Point
+Knowledge of HP 3PAR, EMC VMAX and VPLEX solutions
+Planning & implementation of backup solution using VEEAM
+Framing backup policies as per RPO & RTO defined by business inputs
+Good work experience of HP proliant rack and blade servers
+Comfortable in performing Driver & Firmware upgrade of HP blade servers, Onboard Administrator & Virtual Connect regularly
+Proficient with HP Virtual Connect, ILO & Onboard Administrator
+Planning the type of storage connectivity required blade server’s specifications and capacity planning of storage for new infrastructure
+Good experience of working with HP support on break & fix issues right from logging the case till the resolution of the issue
+Practitioners of ITIL change management process
+Assisting IT teams with change management process, preparing change plans, maintaining CMDB and CI’s etc.
+Performing Linux server’s administration on day to day basis
+Creation of Linux templates, deploying RPM packages, creating LVM & configuring networking
+Managing Microsoft infrastructure AD, Group Policies, DNS, DHCP, Exchange 2010, SCCM, File & Print Servers
+
+Dallah Trans Arabia, Jeddah - Saudi Arabia
+Period :- November 2010 - December 2012
+Designation :- IT Infrastructure Lead
+Client :- Ministry Of Interior ( ATVAM - SAHER Project )
+SME for managing VMware infrastructure hosting business application for processing of traffic violations
+Managed Hyper-V servers hosting QA environment
+Managed the VMware farm hosted on rack mount servers
+Planned and migrated the VMware farm on to HP c7000 blade enclosure
+Creating VMware Clusters, configuration of DRS, High Availability & Vmotion
+Implementing standard vSwitch, Distributed vSwitch and Cisco Nexus 1000v
+Creating resource pools and delegating application team permissions to manage their VM
+Managed Microsoft infrastructure ( AD, Exchange 2010, OCS, SCOM, SCCM, SCDPM, SCVMM, Hyper-V & File Print )
+Installation, Configuration and support of SQL 2008 R2 clusters on VMware
+Managed Exchange 2010 environment with cluster (DAG) setup and other roles.
+Administration of Microsoft Forefront for windows servers and Exchange servers AV protection
+Backup of VM’s using EMC Networker and DataDomain appliance
+Good understanding and working experience of iSCSI, Fiber Channel based storage
+Supporting internal users through ticketing system for day today support requests
+To deliver IT services as per agreed SLA's to business users
+Following ISO 2000/ 27001 process and ITIL framework for IT operations
+Good experience of facing external and internal ISO audit Good at vendor management
+Thorough knowledge and implementation experience of ISO standards
+Managing various support contract of vendors like Microsoft Premier Support, VMware production support, HP mission critical support and EMC platinum support
+Managing shift schedules and vacation schedule of team members.
+
+Process & Standards Awareness
+Practitioner of ITIL process and guidelines especially Change Management & Incident management
+ISMS & ITMS standards working knowledge
+Experience of implemented ISO 27001 & 20000 standards
+Successfully faced audits for ISO 27001 & 20000 and achieved certification
+Used different tools like Remedy, HP Service Manager and ManageEngine ServiceDesk
+Maintaining assets documentation, CMDB & CI’s information for change management
+
+Datacenter Commissioning & Operations Experience
+Involved in all aspects of datacenter commissioning & operations
+Smart rack solution for datacenter
+Antistatic flooring & fire proof mirrors and walls
+FM200 solution in place for fire safety
+Multiple power sources ( Raw Power, UPS & Generator ) arrangement to have continuous power availability
+Having proper switching system like ATS in place
+Top of the rack, under the raised floor cable trays design
+Labelling of racks and servers efficiently
+Magnetic & biometric locks for safety
+
+Al-Falak Electronics Equipment’s & Supplies Co, Al Khobar - Saudi Arabia
+Period :- September 2006 till Oct 2010
+Designation :- System Administrator
+Client :- SABIC
+
+Information & System Technologies, Al Khobar - Saudi Arabia
+Period :- September 2002 till Aug 2006
+Designation :- Wintel Administrator
+Client :- MARAFIQ
+
+Imam-e-Zamana Mission, Hyderabad – India
+Period :- April 2000 to July 2002
+Designation :- Systems Engineer
+
+All the above mentioned details are true and best of my knowledge.
+References will be provided on request.
+
+Regards,
+(Ahmad Abdul Aziz Athar)
+
+Contact this candidate

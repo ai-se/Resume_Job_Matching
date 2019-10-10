@@ -1,3 +1,4 @@
+Job Title = Senior Test Engineer
 
 Software Consultants, Inc. (SCI) is a Maryland-based small-business federal contracting firm with a focus on helping government agencies implement their most critical IT initiatives. SCI is headquartered in Vienna VA and has office location in Alexandria VA. SCI is a SEI/CMMI ML 3 and ISO 9001:2008 registered company. We offer excellent benefits and salary packages including Paid Time-Off, 401K, medical/dental/short-term & long-term disability insurance for all full-time employees.
 10 12 years of automation testing experience

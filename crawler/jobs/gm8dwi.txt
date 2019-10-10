@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 This is a 2nd Shift position.Summary Description of Position
 Performs duties related to the production process of a continuous copper coil drawing the copper coil from a 3/8 inch diameter to a usable size of further processingMinimum Requirements and Qualifications

@@ -1,3 +1,4 @@
+Job Title = Senior Information Security Engineer
 
 The Information Security Engineer position is responsible for monitoring and assessing the security of Jamf, its customer-facing products, and any internal and external services and infrastructure provided by or in use by JAMF Software. This individual is responsible for overseeing the critical security processes that monitor for, detect, respond and recover from security incidents. In addition, the position is responsible for providing guidance and technical expertise both during the planning, development and maintenance lifecycle of corporate products, processes and policies. Finally, the position is also responsible for responding to and managing issues in the Security Response queue.
 

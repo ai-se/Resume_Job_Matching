@@ -1,42 +1,51 @@
+Job Title = Trading Or Devops Or Engineer Or Java jobs in Raleigh, NC, 27606
 
-Lead / Senior -- DevOps Engineer - Full-Time-Employee
-Quintessence is a premier provider of Financial IT services to major Wall Street firms. Quintessence provides on-site, off-site and off-shore Financial IT Services.
-Our Direct Client, a major financial firm in NYC, requires a Senior / Lead -- DevOps Engineering with strong hands-on experience in Build Systems (CI/CD), Configuration Management, Git, Jira, Docker, Kubernetes, AWS and Python scripting. Leading small DevOps teams is a PLUS.
-The Lead / Senior DevOps Engineer of Financial Trading Systems will lead a small team (2 to 3 members) of DevOps engineers in the design, development, implementation and support of software build systems and automate the existing build, test, and deployment process. He / She will:
-Lead a small (2 to 3 engineers) DevOps teams
+SunTechPros, Inc.  – 
+Durham, NC, 27707
+... Understanding of cloud security Need to have AWS Certs as well: 1) AWS Certified SysOps Administrator 2) AWS Certified DevOps Engineer Skills required: Experience with core scripting languages such as Python, Ruby, Go and Java, as well as strong ...
+- Jobg8, Oct 03
 
-Integrate automated Financial Trading System builds and build artifacts into test environments, unit test harnesses, and code analysis tools
+Zensar Technologies  – 
+Raleigh, NC, 27611
+... * Sound Knowledge of JAVA, PHP, EJB(JSP, Servlets, and JDBC) with back end SQL, MySQL and oracle. * Worked on all phases of the Software Development Life Cycle. Worked within Windows 2000/ME/XP, Windows NT, MS Office tools, and UNIX environments. * ...
+- StartwireL2, Oct 03
 
-Maintain and enhance external interfaces to build systems and information
+Tecan Trading AG  – 
+Morrisville, NC
+... For the Quality Assurance group we are looking for a: Senior Quality Engineer Location – Raleigh, NC The Senior Quality Engineer serves as Director QA/RA deputy. Works closely with TIG to understand critical to quality design characteristics / ...
+- Neuvoo, Oct 01
 
-Provide design and implementation guidance and train team members in best practices, tool use, and quality assurance
+Tecan Trading AG  – 
+Morrisville, NC
+For our Sales team we are looking for a: Field Sales Engineer, LSB Detection Location: Ontario (Toronto) Canada The Field Sales Engineer for Detection is responsible for direct selling of all Tecan detection products, services and consumables in the ...
+- Neuvoo, Oct 08
 
-Develop build scripts and tools for builds, using most appropriate languages and technologies
+iCiDIGITAL  – 
+Raleigh, NC, 27611
+... POSITION SUMMARY: Blue Acorn iCi is currently seeking a strong DevOps Engineer who enjoys interacting with both customers ... skill set * 3-5 years of experience with DevOps * Programming experience (Java or similar) * Strong Linux/Unix sys Admin ...
+- StartwireL2, Sep 11
 
-Implement SCM strategies and security
+Brooksource  – 
+Raleigh, NC, 27601
+Looking for a Senior level DevOps Engineer: Job Description: Candidates for the Senior DevOps Engineer role work in ... in IT field or equivalent experience * 5+ years of experience in Java * 3+ years working with RESTful services * 3+ years of ...
+- Jobg8, Oct 02
 
-Minimum Experience Required:
-8+ years of Application Management, Configuration, Deployment of experience.
+Sirius Computer Solutions  – 
+Raleigh, NC, 27608
+... a Container Infrastructure Engineer to join our consulting operations or Platform-as-a-Service (PaaS) and DevOps practice. ... scale container platform clusters using Java, Node.js, Docker, Kubernetes, Ansible by Red Hat, and OpenShift by Red Hat. ...
+- Nexxt, Sep 27
 
-Major Plus: Leading small teams of DevOps engineers
-2 years of experience at major Investment Banks, Brokerages, Wealth Management Firms
-4 years of experience with Docker, Kubernetes and AWS
+commercetools  – 
+Durham, NC
+...  Five years' experience as Systems Engineer and Software Engineer (DevOps culture) in an international team Strong Linux skills and excellent skills in one major programming language (Golang, Python, Java/Scala would be great - mainly because ...
+- Neuvoo, Oct 04
 
-Strong experience with scripting technologies including Python, Perl
+CyberCoders  – 
+Chapel Hill, NC, 27514
+Minimum Required Skills: AWS, Linux, Docker, Azure, Apache, ElasticSearch, Agile, SCRUM If you are a DevOps Engineer (REMOTE ... Doing Engineer an incredible experience for developers who are working in web-based environments such as Ruby, Python, Java, ...
+- Dice.com, Oct 03
 
-Experience with administration of Source Code Management tools like GIT for code branching strategy and check in
-
-Demonstrated a solid project where they designed and implemented a cross platform build framework
-
-Familiar with OOP with either C#, Java or C++
-
-Strong knowledge of Configuration Management concepts, build framework design and architecture
-
-Linux, Unix and Windows experience required
-
-The compensation includes a very competitive base salary, a performance bonus and excellent benefits.
-For more information, please call Quintessence at +1-516
-
-
-Go to apply 
-
+Blue Cross and Blue Shield of North Carolina  – 
+Durham, NC, 27701
+... DevOps Engineer to join our already skilled team of experts. We want you to have a real passion for technology and apply it ... JAVA, Git, Jenkins, Docker, Puppet, .Net, OpenShift, etc). * Experience collaborating effectively with vendors and business ...
+- Jobs2Careers, Oct 07

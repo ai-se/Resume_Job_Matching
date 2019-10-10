@@ -1,3 +1,4 @@
+Job Title = DevOps Engineer
 
 HOTB Software Solutions is seeking looking for a highly motivated DevOps Engineer with experience automating high-availability, secure infrastructure. In this role, you will be a close collaborator with our application engineers and a part of the software-development lifecycle. Our ideal candidate is willing to cross layer boundaries and dive deep to resolve production issues. We're a hard working, energetic team that is passionate about our customers and believes that to be successful we should never stop learning.
 

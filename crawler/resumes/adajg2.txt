@@ -1,0 +1,117 @@
+
+Shivakumar K G
+Contact No.: +91-809*******
+E-Mail: adajg2@r.postjobfree.com
+
+ENGINEER - NETWORK MONITORING SYSTEMS
+Network Performance Monitoring and Management
+
+PROFILE SUMMARY
+
+Offering comprehensive experience in the network monitoring space and Tools administration.
+A visionary technocrat with strong abilities in liaising with other functional heads for technology development to improve and execute plan, consistently tracking development against plan and seeking strategies for increasing efficiencies.
+Experience in managing & delivering projects.
+
+EMPLOYMENT DETAILS
+
+OCT 2018 - Till date with Harman International Industries
+Position: Engineer-Network Monitoring Tools administration.
+
+NOV 2016– to OCT 2018 at Randstad India Pvt Ltd (Clients: ACT Fibernet and EFI India Pvt Ltd)
+Position: Engineer-Network Monitoring Systems.
+
+Key Result Areas:
+
+Worked towards the achievement of the strategic and operational objectives of the group located across multiple locations in a 7x24x365 environment.
+Navigated the use of controls, tools and best practices for the network devices to identify anomalous events and performance metrics that may exploit system thereby reducing their impact.
+Responsibilities:
+
+Monitoring the network through various monitoring tools and ensure issues related to network, servers is handled on time.
+Administration and maintenance of monitoring tools.
+Solarwinds Orion-NPM, NCM, SAM, DPA,SRM and IVIM
+DMX Technologies- Everest Infrastructure Management Frameworks
+Nagios- Installation, CheckMK.
+Lansweeper IT asset management.
+Collaborate with technical teams to define, implement, and enhance enterprise monitoring services based on business requirements and Service Level Agreements.
+Provide expertise to leverage MIBs, OIDs, and WMI performance counters to diagnose and troubleshoot network and server problems.
+Collect and analyze network monitoring data to assist with determining root cause of performance issues.
+Work closely with technical teams to detect network faults and performance issues and proactively implement monitoring services and alerts to prevent future occurrences.
+Maintain all network elements (e.g., nodes, interfaces, volumes) including discovery and removal.
+Customization of Orion web console, custom properties, and views to meet business needs.
+Review SolarWinds data to determine capacity requirements.
+Configure custom alerts based on system criticality.
+Perform other IT duties as assigned by management like.
+Creation of Virtual Machines, VM templates, increasing memory,Resource, processors, migrating in production/test environment.
+Administration and maintenance of a Windows and Linux based VMs.
+Trouble shooting VM related issues.
+Co-ordinating with GOC activities.
+Participated in Data Center Power Maintenance and involved with other region maintenance on Server level.
+Raising ticket with Vendor for Hardware related alerts and providing AHS logs.
+
+Solarwinds Orion Network Performance Monitor (NPM)
+
+Monitoring the performance metrics like Device (Router, Switches, Servers and other Core equipment’s) CPU and Memory Utilization, Hardware sensors, Interface Traffic utilization, Interface errors etc.
+Customization of Orion web console, custom properties, and views.
+Configuring Alerts based on Events like Device/Interface Down, High-Traffic utilization, CPU & Memory utilization, HDD Utilization and other custom OID’s status to respective Teams.
+Extracting and Flashing the Reports – Network/Node/Interface Availability, Current status of Nodes, Interfaces, Volumes and Custom OID’s, Daily/weekly/monthly analysis reports.
+Creating Maps in Network Atlas.
+Managing User accounts and limiting Views.
+
+Solarwinds Orion Network Configuration Manager (NCM)
+
+Downloading and Uploading Configuration files.
+Scheduling Automated Device Backup.
+Creating Jobs like – Sending a notification for any changes and deviations.
+Compare configuration files and finding the changes.
+Executing scripts on Devices when bulk changes need.
+Configuring approval request for any changes.
+
+Solarwinds Orion Server and Application Monitoring(SAM)
+
+Monitoring the performance, capacity, and health of Linux and Windows servers.
+Creating Application Templates.
+Monitoring the status and performance of different aspects of an application.
+Creating Dashboards by application type.
+Managing credentials Library.
+Solarwinds Orion Storage Resource management(SRM)
+Monitoring the performance, capacity, and health of Storage devices like IBM, netapp, EMC, etc..
+Creating Alerts, Views and Reports.
+Detailed view into storage arrays, RAID groups, and LUNs makes it easier for you to identify storage performance problems quickly and fix them faster.
+
+Everest Infrastructure Management Frameworks
+New monitoring tool which was tested and implemented across multiple locations of ACT Pvt Ltd.
+Project roles – Planning, Designing test cases, Executing test cases and documenting, Bug fixing.
+
+TECHNICAL PURVIEW
+
+Linux, Windows, VMware .
+Microsoft Office – Excel, Outlook and Powerpoint
+ITIL Process, ITIL tool like Servicenow
+Theoretical knowledge in Lansweeper IT asset tool.
+Network, OSI Model, DHCP, DNS, Routing protocols, SNMP,WMI.
+STRENGTHS
+Flexibility and Adaptability.
+Strong in solving Technical Problems, Teamwork.
+Creating a positive work environment.
+Capable of Learning the Job quickly.
+EDUCATION
+
+Bachelor of Engineering (Electronics & Communication) from Visveswaraiah Technological University (VTU) in 2016 with First Division marks (68.67%).
+PUC (PCMB) completed in Vikasa PU College in 2012 with 83.16%.
+SSLC completed in DVS High School in 2010 and obtained marks of 76.00%.
+Certifications:
+I am completed networking and storage course in UTL Technologies under central government of india
+
+PERSONAL DETAILS
+
+Father : Gangadhar K E
+Date of Birth : 17th September 1994
+Languages Known : English, Kannada, Tamil, Telugu and Hindi
+Address : Kotegangur (post), Shivamogga,
+Karnataka, India – 577204.
+
+DECLARATION: I hereby declare that all the details mentioned above are my own and are true to the best of my knowledge.
+
+Signature:
+
+Contact this candidate

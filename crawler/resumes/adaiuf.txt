@@ -1,0 +1,45 @@
+
+ULADZISLAU SHOKA
+224-***-**** adaiuf@r.postjobfree.com Chicago, IL
+Software QA Engineer
+Quality Assurance Engineer with 3 years of experience in fast-paced Agile Web, Mobile and Networking projects, consumer and enterprise faced. Recent experience in automation. Team player with great work ethic focused on project and business success. Good communication and interpersonal skills. Green Card holder (NO sponsorship needed).
+• Web, iOS, Android, macOS, Windows
+• HTML, CSS, JS, SQL, C#
+• Selenium WebDriver, Postman, git (GitHub)
+• JIRA, YouTrack, Agile, Xcode, Android Studio
+EXPERIENCE:
+Center for progressive development of Grodno Grodno/Belarus 09/2018 – 08/2019 International provider of software engineering and IT consulting services Software QA Engineer 09/2018 – 08/2019
+A Quality Assurance Engineer with great attention to details and a commitment to developing and implementing continuous improvement initiatives through the collection and analysis of data and converting it into actionable information.
+• Familiarized with the company tasks and goals
+• Assigned tasks within the team
+• Trained New Employees and providing the opinion regarding the outcome of their probationary period
+• Tested and verified the software products
+• Worked in Agile environment directly with developers and business analysts
+• Developed solid test documentation including test strategy, test plans, test cases
+• Performed regression testing on new release
+• Developed SQL Queries to test the backend process of the Web Application Cadet School Grodno/Belarus 08/2017 – 11/2017
+State educational institution “Grodno Cadet School” Tutor 08/2017 – 11/2017
+This position required developed communication and time management skills.
+• Organized and provided the students with various activities: competitions, different sports including basketball, soccer, and volleyball.
+• Classes and leisure organization for students
+• Student Performance Testing
+• Monitoring students' psychological states
+EDUCATION:
+• 11/2015 - 05/2017 Software Development Engineer (Bachelor's Degree) Yanka Kupala State University of Grodno
+• 11/2012 - 05/2017 Biologist, Biotechnologist, Teacher of biology (Bachelor's Degree) Yanka Kupala State University of Grodno
+COURSES:
+• 2017 Software Testing Introduction (by EPAM Systems Inc.)
+• 2016 CS50's Introduction to Computer Science (by Harvard University) INTERNSHIPS AND PRACTICES:
+Center for progressive development of Grodno Grodno/Belarus 06/2018 – 09/2018 International provider of software engineering and IT consulting services Intern in QA 06/2018 – 09/2018
+Office assistance in the medical Web project.
+• Working with the documentation process.
+• Testing the software product.
+• Writing test documentation, including the test cases and test steps.
+• Working with the bug tracking system (YouTrack). EPAM Sistems Inc. Grodno/Belarus 03/2017 – 07/2017 International provider of software engineering and IT consulting services Intern in QA 03/2017 – 07/2017
+Office assistance in TV and Web projects.
+• Working with the documentation process.
+• Testing the software product.
+• Writing test documentation, including the test cases and test steps.
+• Working with the bug tracking system (JIRA).
+
+Contact this candidate

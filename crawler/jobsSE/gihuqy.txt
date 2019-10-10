@@ -1,3 +1,4 @@
+Job Title = Cloud Engineer
 
 WHO ARE YOU?
 You are a cloud engineer who has previously overseen technical design, planning, implementation, performance tuning, support and recovery procedures for all corporate, private and public cloud systems, with emphasis on AWS. You will be one of our technical experts with the administration of complex systems and services and deliver world-class solutions to Procares internal and external customers. Additionally, you will contribute to architectural design of our AWS environments, ensuring scalability, stability, operational efficiency and sustainability.

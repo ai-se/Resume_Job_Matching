@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Job Details:
 Mainly work in a cell type environment to complete assembly of the valves.

@@ -1,3 +1,4 @@
+Job Title = Senior Software Engineer
 
 SunIRef:it Senior Software Engineer QC Software - Cincinnati, OH 45241 QC Software designs and implements automation software and controls packages for fulfillment centers within the Supply Chain Industry.
 We specialize in Warehouse Execution Software (WES), Order Finishing Systems, Loop Sortation, and Put-to-Light innovation.

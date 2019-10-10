@@ -1,0 +1,22 @@
+Job Title = Technician
+
+Primary Skills: Analog, Digital, Hardware and Silicon design
+Duration : 4+ Months
+Contract Type: W2 Only
+
+Job Description:
+Candidate will be required to perform technician-level power (analog and digital circuits) and thermal validation on server-based reference platforms using/modifying a variety of test programs (python scripts, Labview & Linux-based applications).
+Responsibilities include running the test applications, recording the data then reporting test results in excel format to the validation teams.
+Candidate will work closely with Hardware and Silicon design as well as validation engineers on the scope of the testing.
+Preferred Skills: Overall working knowledge of python language a plus as well as experience working with server based platforms.
+Minimum Educational Requirements: Associates degree in electrical engineering. To follow up with any questions, please contact Sanket Yede at
+
+Akraya is an award-winning IT staffing firm and the staffing partner of choice for many leading companies across the US. We offer comprehensive benefits including Health Insurance (Medical, Dental, and Vision), Section 125 Cafeteria Plan (HSA, FSA, and dependent care), 401(k) (enrollment subject to eligibility), and Sick Pay (varies based on city and state laws).
+
+If this position is not quite what you're looking for, visit akraya.com and submit a copy of your resume. We will get to work finding you a job that is a better fit at one of our many amazing clients.
+
+Akraya is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to gender, race, religion, national origin, ethnicity, disability, gender identity/expression, sexual orientation, veteran or military status, or any other category protected under the law. Akraya is an equal opportunity employer; committed to a community of inclusion, and an environment free from discrimination, harassment, and retaliation.
+
+
+Go to apply 
+

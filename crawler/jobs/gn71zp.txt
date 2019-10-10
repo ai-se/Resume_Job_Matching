@@ -1,0 +1,35 @@
+Job Title = Engineer
+
+Software Engineer, Core Development, Bristol
+
+My client is a privately-funded company that is owned and managed by trading professionals who have set high standards around trust and leadership in a quantitative trading environment. They trade across all major asset classes on multitudes of electronic exchanges around the world, with a strong track record of success through all market conditions.
+
+They are looking to expand their global Core Development team by hiring exceptional software engineers into their Bristol office which opened in 2017.
+
+Working in the Bristol office has the feel of a small start-up with the benefits of being part of one of the leading quantitative trading firms in the world, with its European head office based in London.
+
+You’ll be joining the core software development team which designs, codes, tests, and maintains our distributed trading platform and supporting services, enabling trading on more than 80 financial exchanges.
+
+What You’ll Do:
+
+As one of the software engineers you will work in small teams to rapidly design, develop, and deploy critical features to the trading platform. Based on your interests and skill sets, they can align you to a number of exciting projects within the Core Development environment where you can have a global impact to the firm. The ideal candidate will be able to dig into the technical details and work with both local and remote team members to efficiently deliver high quality software releases. They want individuals who are instinctively curious self-starters, demonstrating the ability to independently drive tasks and projects to completion in a team environment.
+
+Skills You'll Need:
+
+* A Bachelors’ degree in Computer Science or a related field
+
+* Experience developing large scale software projects in C++, Java or C#
+
+* Ability to work efficiently in a team that is deploying new software daily
+
+* Passion for writing clean, maintainable code and designing robust scalable systems
+
+* Experience working with remote resources and on multi-location development projects
+
+* Excellent written and verbal communication
+
+* Strong analytical, and problem-solving skills along with a self-starting technical attitude
+
+
+Go to apply 
+

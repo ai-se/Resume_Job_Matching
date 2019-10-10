@@ -1,0 +1,143 @@
+
+Ashkan Moqadam (USA Citizen) live in Maryland, USA
+
+Cellular Network RF Engineer/Leader/Manager
+
+Email: adai79@r.postjobfree.com
+
+LinkedIn Address: https://www.linkedin.com/in/ashkan-moqadam-31a47710/
+
+I am an Electrical/Telecommunication Engineer who has worked for Cellular network from beginner to expert and management levels. A great 18 years’ experience in specially in network Optimization, which means; KPI improvement, Parameter Setting/Tuning, Physical tuning, Planning troubleshooting, HW (From site units till Antenna) troubleshooting, OSS command/scripting handling with different Vendors (Ericsson, Huawei, NSN and ALU) and Technology (2G/GSM, 3G/UMTS, 4G/LTE and 5G) are the major parts of my experience that can help any Telecom companies.
+
+Overview and core competencies:
+
+Familiar with Ericsson, Nokia and Siemens (NSN), Huawei and Alcatel-Lucent
+Familiar with the theory concept of GSM/CDMA/UMTS/LTE and 5G technologies
+Hands-on experience in GSM/CDMA/GPRS/EDGE/UMTS/LTE optimization (KPI Improvement)
+Hands-on experience in GSM/CDMA/GPRS/EDGE/UMTS/LTE design/planning
+Hands-on experience in KPI analysis, investigation and improvement of network quality
+Hands-on root-cause analysis of RF issues to meet target KPIs
+Recommending parameter changes to improve performance and preparing status reports
+Recommending physical changes (Antenna Tilt, Azimuth, height) to improve performance
+Operating in compliance with the processes, methods and tools linked to the design/optimization
+Leadership and management skills
+
+Career Snapshot:
+
+Nov. 2017- till now Senior Manager Tata Communications (TCTS)
+August 2015- Nov. 2017 Network RF Consultant, SME Cisco
+May 2015 – August 2015 RF Consultant T-Mobile, USA
+November 2011- May 2015 SME, Senior RF Engineer Amdocs, USA
+April 2011 – Sep 2011 Cellular RF Consultant Aircom International/MTN, Uganda
+Sep 2009 – April 2011 GSM Senior/UMTS RF Engineer Plano Engineering, Georgia & Azerbaijan
+August 2009 – Sep 2009 Cellular RF Optimization Manager SNS, Huawei, Iran
+Jan 2009 – August 2009 Cellular RF Consultant MTN, Afghanistan
+August 2008 – Jan 2009 Lead Senior Engineer Plano Engineering, Kazakhstan
+Oct 2003 – August 2008 Cellular RF Optimization Team Lead MCCI, Iran
+Sep 2002 – Oct 2003 Cellular RF Planner MCCI, Iran
+Oct 2001 – Sep 2002 BSS Integration Engineer MCCI, Iran
+
+Summary of tasks and Achievements of all positions by descending date order:
+
+Senior Manager (Permanent job) – Nov. 2017 – Till now “Tata Communications (TCTS)” (Cisco External employee)
+Working as Product Owner/manager, SME and Market POC and the interface between two clients: Verizon as client and Cisco as internal customer
+Successfully managed and Delivered cSON version 17, 18 and 19 successfully in timely manner
+Successfully Deployed eNodeB FL19 upgrade into cSON
+Successfully managed and Completed cSON dashboard transfer into Matrix in terms of Design, data verification and formulas which saved engineers a big time on troubleshooting
+Successfully managed and Delivered Profile Context Based Automation based on sites morphology which solved the end client’s time working on each cell individually profile assignments
+
+Network RF Consultant, SME (Permanent job) - August 2015- Till November 2017 CISCO Internal Employee
+•Excellent experiences working with Sales, R&D, Deployment and Support teams from product scratch to Day1 activities and from Day1 activities to Day2 services
+•Worked as an SME on LTE SON Load Balancing and Coverage, Capacity and Interference optimization, LTE to CMDA optimization, PCI tuning and LTE to LTE neighbor optimization.
+•Successfully communications about the customer’s needs (With Sales, R&D, Technical Support and Deployment teams) in terms of cost and the possibility to be considered in the current or future build of the product
+•Well-done customer training about the product and all applications
+•Successfully Product documentation preparation for Internal Confidential use and for the Customer generic versions (User Manual creation)
+•Troubleshooting meetings with the Cisco internal departments and teams
+
+Working as a RF Consultant (Contract Job) - May 2015 – August 2015 T-Mobile
+•Worked as a RF Consultant/Leader to improve T-Mobile GSM/UMTS/LTE KPIs in especially, network traffic balancing in LTE and UMTS Ericsson network. The result was improving drop call and throughput in terms of; KPIs, Drive Test benchmark and
+•Technically, I was managing and Training the young engineers on-site.
+•Cluster KPIs monitoring and tracking for the new on-air sites. Meanwhile, I was working on VoLTE related trouble tickets.
+•I was responsible to work on LTE network customer complains (Leading Trouble Tickets issues) and was working on network Layer Management strategy definition for the existing LTE/UMTS/GSM carries. The achievement was to reach less than 3 customer complains per day from more than 30 customer complaint per day!
+
+Working as a RF Engineering Manager/ Product SME (Permanent Position) - November 2011- May 2015 Amdocs/Cellcite
+
+-Performed RF Engineering team management for the all optimization daily tasks and direct communication with the client (AT&T).
+-Performed VIP customers’ (BMW, USPS, etc.) KPIs improvement
+-Worked as a COPS and iCOPS product owner and successfully delivered the first version of iCOPS to South American countries such as (Mexico, Honduras and Claro Brazil).
+-Successfully handled the market request to optimize the “TBF Offenders”, V-ACC and V-RET offender. “Top Movers”.
+-Successfully handled the Pre and Post Optimization on new UMTS carrier (3rdC, 4thC) in term of: Propose the optimum Parameter values, Layer Management, Propagation Delay Analysis, SHO, IFHO, IRAT neighbor definition and strategy and alarm monitoring before and after new site on-airing in different market of ATT projects in USA.
+Cellular RF Consultant April 2011 – Sep 2011 Aircom/MTN Uganda:
+Successfully improved 2G/3G “Paging and Location Update Performance” from an average of 60% to 90%!
+Senior RF Engineer Sep 2009 – April 2011 Plano Engineering, Georgia & Azerbaijan:
+Delivers successfully Parameter Definition Strategy for new and existing 2G/3G sites/cells
+2G/3G KPI Monitoring, 2G/3G KPI improvement
+Customer Complaint Solving, CSSR/HO/CDR Improvement
+Successfully Developed 3G network from 100 sites to 300 sites as a big project in 2 months, Scrambling code generation, Nominal Planning, Antenna Selecting, Tilt tuning, Meet operator (Geocell) scopes, IRAT HO Improvement, UMTS-GSM Neighbor definition/Audit, Parameter Tuning, Overshooting Solutions, HW alarm monitoring for 2G/3G cells in “Plano Engineering” project Geocell network, Republic of Georgia
+Successfully manually delivered “frequency Re-plan (Released 25 ARFCNs from existing network)" project of 6000 Cells in two weeks; BCCH and TCH Base Band and SFH, BSIC Re-Planning for “Plano Engineering” in Azercell network, Azerbaijan which saved company a big money on not paying for the planning tools and while the quality stayed on the same level!
+Cellular RF Optimization Manager August 2009 – Sept. 2009 SNS, Huawei, Iran:
+Successfully managed and Solved the Inter-MSC handoff/handover between Huawei BSS and Huawei/Ericsson NSS in less than a month which save lots of engineering efforts in both Core and RF sides!
+New KPI formula definitions making compatible KPI in multi-vendor network, Irancell of Iran
+Cellular RF Consultant Jan 2009 – August 2009 MTN, Afghanistan:
+Successfully consultancy to decrease Resource Congestion (Transcoder, Signaling Links, SDCCH, TCH) by traffic balancing and new strategy definition for parameter setting without adding even one extra physical unit while other KPIs and PIs were improved simultaneously in MTN of Afghanistan.
+Successfully on-site trainings to RF and Deployment teams
+Results made a huge save on money for the resources and new HWs as the work had been done only on parameter tuning without adding any new resources!
+Lead Senior Engineer August 2008 – Jan 2009 Plano Engineering, Kazakhstan:
+GSM/GPRS Planning and Optimization contains: Parameter Definition Strategy for new and existing bands/sites/cells.
+KPI improvement by working on dual band traffic balancing and Customer Complaint Solving, Meet operator in “Plano Engineering” project in Kcell in Republic of Kazakhstan
+Cellular RF Optimization Team Lead/Manager Oct 2003 – August 2008 MCCI, Iran:
+I have been selected as a best team lead/manager in the entire company for two times, because of the max KPI improvement and lowest customer complaint in my regions which was a multi-vendor operator region with around 13000 cells.
+Cellular RF Planning Engineer Sep 2002 – Oct 2003 MCCI, Iran:
+Successfully worked as a Cellular planner to expand the network from phase 1 to phase 2 (From 7000 cells to 13000 cells).
+Successfully Participated in Site acquisition, Nominal planning by ASSET, Site Physical Planning, Azimuth/Height/Antenna Type/Tilt planning, Tower selection, Configuration Planning, Vendor Selection plan, E1 link route planning, E1 type (HDSL, Radio, PCM) selection, MDF/DDF Planning in “Hamrah-e-Avval (MCCI) in Iran.
+BSS Integration Engineer Oct 2001 – Sep 2002 MCCI, Iran:
+Successfully participate in BSS/NSS installation, HDSL configuration and commissioning, BTS (Nokia, Siemens, Ericsson) commissioning, BSC commissioning, BSS troubleshooting, pre-optimization, network launch of a GSM network in a timely and cost-effectively manner. in “Hamrah-e-Avval (MCCI)” in Iran
+
+Skills/Tools:
+
+Cisco SON (cSON)
+CLI Commands (Unix)
+Matrix
+API/Explorer
+Citrix
+JIRA and Confluence for managing software development
+ATT Tools (CTS, CNN, Nettrack, RMAP, CSR and LSS)
+Ericsson’s OSS Tools: (RNO: RPMO, MRR, FAS, NCS, OPS, BSM, CNA, CNAI, CTR…)
+Ericsson’s OSS-RC Tools: (WNCS, WMRR, RAN-UETR and GPEH Measurements)
+Ericsson’s Business Object (BO)
+WIPS (Alcatel-Lucent WPS 9352)
+WMS (Alcatel-Lucent 9353)
+Nokia’s OSS Tools: (NetAct, NMS, RNW)
+Network Doctor (NSN)
+Huawei M-2000
+Business Object (BO)
+TEMS Investigation
+MapInfo Professional
+MCOM
+FACTS
+ALPT (Verizon KPI tools)
+Truecall (T-Mobile signal prediction tools)
+T- PIM (T-Mobile KPi Tools)
+LTE Ericsson Common Explorer LTE, UMTS and GSM Command line (Citrix)
+Ericsson LTE and UMTS Common Explorer
+Actix Radio Plan (Analyzer, Advanced Queries)
+Actix Spotlight (GSM optimization tools)
+Atoll
+ASSET Enterprise
+COPS (Optimization Tools of Amdocs Company)
+COPS-SON (UMTS-LTE Optimization Tools of Amdocs/Celcite Company)
+Familiar with Ericsson Moshel Commands
+Familiar with SQL
+Familiar with CAPEX (Optimization Tools of Plano Engineering Company)
+Site Master/ Oscilloscope/ Signal Generator/ Power Metter
+MATLAB Simulation Package
+PSPICE packages
+Google Earth in optimization application
+Familiar with Visual C++
+
+Education:
+
+Master of Science in Electrical Engineering – Telecommunications, Azad University, Najafabad-Esfahan, Iran, July 2001, GPA 16.06 out of 20.
+Bachelor of Science in Electrical Engineering – Digital Switching Systems, Telecommunication & Space Science Faculty, Tehran, Iran, Feb. 1999, GPA 14.03 out of 20.
+
+Contact this candidate

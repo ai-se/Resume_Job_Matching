@@ -1,0 +1,94 @@
+Job Title = Engineer
+
+Description
+
+Job Requisition:
+
+0365/Messaging Engineer
+
+Job Description:
+
+The Government Health and Safety Solutions Operation currently has an opening for an O365/Messaging Engineer to support a large healthcare contract in Rockville, MD. The Next Generation IT Services (NGITS) – Engineering contract provides enterprise and infrastructure engineering support to the Department of Health and Human Services.
+
+The O365/ Messaging Engineer primary responsibilities include the following:
+
+* Hands-on design, enhancing and implementation of Office 365 solutions, Active Directory, Microsoft Exchange Server Online, Microsoft Exchange Hybrid, Azure Active Directory, and Active Directory Federation Services (ADFS).
+
+* Design and implement advanced functions of Office 365 including security, governance and compliance (e.g., DLP, IRM, MDM, E-Discovery, In-Place Hold, Retention Tags, and Encryption)
+
+Qualifications
+
+Bachelor's degree or equivalent and eight (8) years of general experience. Six (6) years of general experience is considered equivalent to a Bachelor's degree. With a Master's degree, six (6) years of general experience is required. With a PhD, four (4) years of general experience is required. Experience may be substituted in lieu of degree
+
+Must be a US citizen.
+
+Must be able to obtain a public trust clearance
+
+* Microsoft Certifications in relevant areas preferred but not required.
+
+* Ability to express difficult and complex concepts clearly and concisely both orally and in writing.
+
+* Ability to write clear, logical reports, and instructions.
+
+* Works independently on assigned projects.
+
+* Work effectively and cooperatively with administrators, staff, users, project consultants and vendors.
+
+Meet established priorities and schedules.
+
+External Referral Bonus:
+
+Eligible
+
+Potential for Telework:
+
+No
+
+Clearance Level Required:
+
+Public Trust
+
+Travel:
+
+No
+
+Scheduled Weekly Hours:
+
+40
+
+Shift:
+
+Day
+
+Requisition Category:
+
+Professional
+
+Job Family:
+
+Systems Administration
+
+2000
+
+Health
+
+Leidos
+
+Leidos is a Fortune 500® information technology, engineering, and science solutions and services leader working to solve the world's toughest challenges in the defense, intelligence, homeland security, civil, and health markets. The company's 33,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Virginia, Leidos reported annual revenues of approximately $10.19 billion for the fiscal year ended December 28, 2018. For more information, visit
+
+Pay and Benefits
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here.
+
+Securing Your Data
+
+Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related information or any other personal information, please report the email to .
+
+Commitment to Diversity
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.
+SDL2017
+
+
+Go to apply 
+

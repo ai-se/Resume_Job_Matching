@@ -1,48 +1,51 @@
+Job Title = Tableau Or Native Or Green Or Linux jobs in Raleigh, NC, 27606
 
-WHAT YOU LL BE DOING
+Accenture  – 
+Raleigh, NC, 27608
+... Our contributions don't end with just our clients - as a member of the Linux Foundation and the Cloud Native Computing Foundation, Accenture is on the forefront of defining the future of cloud technologies by contribution and collaboration to the ...
+- Nexxt, Sep 12
 
-The small and effective Server Cloud team successfully ported our popular Tableau Server product to Linux, making it Linux-native and delighting our customers. Building on that success, our teamnow focuses on two areas: continuing to improve the Linux experience for customers using Server in their organization, and containerizing Tableau Server using Docker and Kubernetes to enable autoscaling and blue/green deployments.
+Accenture  – 
+Raleigh, NC, 27608
+... Our contributions don't end with just our clients - as a member of the Linux Foundation and the Cloud Native Computing Foundation, Accenture is on the forefront of defining the future of cloud technologies by contribution and collaboration to the ...
+- Nexxt, Sep 12
 
-We are a multicultural team that welcomes diversity and works closely with one another, supporting each other through code reviews, shared debugging sessions, and mentorship. Through the Server on Linux beta testing process, we have worked extensively with customers to ensure the product meets their needs.
+VMware, Inc.  – 
+Raleigh, NC, 27611
+... * Some specific technical competencies desired: * Kubernetes, OpenShift, Docker & Cloud Native Application development platforms. * Linux - As the de facto base operating system for all public cloud providers and Cloud Native technologies effective ...
+- StartwireL2, Sep 30
 
-We work with a variety of languages throughout Tableau Server, including Java, C++, Bash scripts, JavaScript, and more. We have a strong concentration on Linux, Docker, Kubernetes, and increasingly work in the public cloud, especially AWS.
+Accenture  – 
+Raleigh, NC, 27608
+... Our contributions don't end with just our clients - as a member of the Linux Foundation and the Cloud Native Computing Foundation, Accenture is on the forefront of defining the future of cloud technologies by contribution and collaboration to the ...
+- Nexxt, Sep 12
 
-As a Senior Software Engineer, you will be expected to...
+Vinted  – 
+Durham, NC, 27701
+... Our mission is green: we want to make second-hand the first choice globally. Currently, 22 million people use our platform, ... scripts and oversee TV ad production in Dutch About you: A native Dutch speaker with experience of writing, editing, and ...
+- Lever.co, Oct 08
 
-* Lead the design and implementation of new features,
+SmartIT Frame  – 
+Raleigh, NC, 27607
+... Role: Tableau Developer Location: Raleigh, NC Long Term Contract Exp: 10+ Years Job Description: Technical Expertise Tableau 5 yrs experience including data source setup taxonomy 10yrs Business Objects experience ideally, including data source setup ...
+- Dice.com, Oct 07
 
-* Develop deep domain knowledge and teach others what you know,
+SmartIT Frame  – 
+Raleigh, NC, 27607
+... Role: Tableau Developer Location: Raleigh, NC Long Term Contract Exp: 10+ Years Job Description: Technical Expertise Tableau 5 yrs experience including data source setup taxonomy 10yrs Business Objects experience ideally, including data source setup ...
+- Dice, Oct 07
 
-* Understand and advocate for our team s mission
+Smart IT Frame  – 
+Raleigh, NC
+... Role: Tableau Developer Location: Raleigh, NC Long Term Contract Exp: 10+ Years Job Description: Technical Expertise Tableau 5 yrs experience including data source setup taxonomy 10yrs Business Objects experience ideally, including data source setup ...
+- Ceipal, Oct 07
 
-* Help build Tableau by participating in hiring loops.
+SmartIT Frame  – 
+Raleigh, NC, 27607
+... Role: Tableau Developer Location: Raleigh, NC Long Term Contract Exp: 10+ Years Job Description: Technical Expertise Tableau 5 yrs experience including data source setup taxonomy 10yrs Business Objects experience ideally, including data source setup ...
+- Jobg8, Oct 08
 
-WHO YOU ARE
-
-* TEAM FOCUSED: you will work extensively with your teammates, and with people across Tableau. Working as a team is a core value at Tableau.
-
-* QUICK LEARNER: there is a lot to learn at Tableau, and you will be expected to pick things up quickly, with the help of documentation and your teammates.
-
-* MENTORSHIP: you receive mentorship eagerly, and you will be expected to mentor others.
-
-* CUSTOMER DELIGHT: you are ready to work with and delight our customers, both directly, and helping other departments at Tableau who work directly with customers every day like Sales and Support.
-
-* TECHNICAL SAVVY: you have solid software engineering skills and are looking to become a better developer every day.
-
-* LINUX: you know Linux and are eager to learn more.
-
-* CONTAINERS: you have experience with Docker and Kubernetes
-
-* CLOUD: you have some experience with cloud technologies and platforms or can pick it up fast.
-
-* YOU ARE A RECRUITER! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world
-
-#LI-CX1
-
-Tableau Software is an Equal Opportunity Employer.
-
-Tableau Software is a company on a mission. We help people see and understand their data. After a highly successful IPO in 2013, Tableau has become a market-defining company in the business intelligence industry. Our culture is casual and high-energy. We are passionate about our product and our mission and we are loyal to each other and our company. We value work/life balance, efficiency, simplicity, freakishly friendly customer service, and making a difference in the world
-
-
-Go to apply 
-
+Merge Resources Ltd.  – 
+Raleigh, NC, 27608
+Linux Systems Engineer / DevOps Direct Hire / Raleigh, NC > Agile enterprise seeks technology agnostic systems engineer WHO ... REQUIREMENTS: > US Citizens, Green Card holders, and all other parties authorized to work in the US are encouraged to apply. ...
+- Catsone, Sep 21

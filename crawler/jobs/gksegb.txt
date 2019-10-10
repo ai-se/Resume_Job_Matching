@@ -1,0 +1,49 @@
+Job Title = Engineering Lead - DevOps
+
+Were looking for humble, but ambitious, razor-sharp DevOps leader who can teach us a thing or two. We promise to return the favor. Like us, you take product development and platform engineering seriously; youre passionate about technology and, even more so, about leadership. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints. Thats where you come in. We are currently seeking a Director of DevOps to drive technical vision and provide leadership for a group of DevOps engineers in an innovative and fast paced environment. Our selection process will emphasize technical and architectural skills as well as leadership/management/organizational skills equally. The ideal candidate must be a master of their domain in cloud based DevOps. Furthermore, the ideal candidate must be able to inspire, champion and teach when the need arises. We are looking for someone whos is equally comfortable leading by influence or authority. Last, we are looking for a rare mix of intelligence, integrity, domain knowledge, verbal agility, and diplomacy which allows you to rapidly earn the trust of technically astute engineers and product astute product management leaders.
+
+Why We Need This Role
+We are looking for a leader to help us achieve and maintain maximum potential in areas of scale, security, fiscal efficiency and fault tolerance. This includes everything from authentication to authorization service to programmatic cross cloud resource initiation, orchestration and continuity.
+
+Why You Should Join
+
+This is a challenging and diverse role that requires you to build both, an organization and DevOps vision, nearly from the ground up. Only join this role if you are craving rapid growth, able to create a path in unchartered territory, and comfortable with trying, failing and course-correcting fast.
+
+First Six Month Deliverables
+Develop and execute a DevOps strategy for Builder Platform to support product scale, orchestration and fault tolerance
+Automate creation, orchestration, auto scaling and cross-availability zone failover for the Builder platform ecosystem
+Develop and execute a DevOps strategy for Builder Platform in support of client project environments
+Automate creation, orchestration, auto scaling and cross-availability zone failover for all client applications built via the Builder platform
+Develop and execute a DevOps strategy in support of successful crosscloud service utilization and orchestration
+Automate creation and orchestration of all container based client applications leveraging VKE or similar orchestration product
+Requirements
+Strong technical leadership experience in globally geo distributed environments
+12 plus years solid experience in Internet Infrastructure, including at least 4 - 5 years in cloud based DevOps environment
+CS degree required or equivalent work experience
+5 plus years of relevant experience managing large, fast-paced and dynamic DevOps engineering teams
+A proven track record of managing successful high-capacity, large-scale, internet-based product platforms/architectures
+Capable of technical deep-dives, networking, cloud services, yet verbally and cognitively agile enough to hold their own in a strategy discussion with senior technical or executive leadership
+Comfortable recruiting and leading technical leads and a global team of very bright, experienced engineers capable of working on projects and at scale unlike any other they've encountered
+Very experienced with Agile / Scrum methodologies
+Outstanding communication skills, both written and oral
+Expert understanding of Engineering, DevOps and cloud computing fundamentals
+Expert understanding of AWS services
+Strong automation and CI / CD experience
+Strong infrastructure security, AAA (authentication, authorization, and accounting) and secret management expertise
+Solid experience with containerized applications/orchestration and serverless functions
+Terraform, Kubernetes, GitHub, CD/CI tools experience, some would say you are a master.
+If I asked your previous team members about you, they would say you were a great leader and they would very much welcome an opportunity to work for you once again.
+Experience in high SLA environments
+Some experience working with Azure, Openstack or GCP as well as experience with ISO 27001 or SAS 70 assessments is a strong plus
+Benefits
+Health and Wellness benefits including competitive medical, dental, and vision plans
+Performance-based bonuses and stock options
+Generous vacation and time off benefits including paid holidays
+Generally flexible working hours
+WeWork Paddington London
+A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
+Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

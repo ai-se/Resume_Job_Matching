@@ -1,0 +1,153 @@
+Job Title = ENGINEER
+
+Duties
+
+Summary
+
+You will serve as a ENGINEER/SCIENTIST in the TDL Interoperability Engineering Branch (CODE 53525) of SPAWARSYSCEN PACIFIC SAN DIEGO CA.
+
+This is a RE-ADVERTISEMENT of Announcement Number:DE--DMM. Applicants that have previously applied NEED to re-apply to this announcement.
+
+This announcement uses the Cyber Workforce direct hire authority to recruit and appoint qualified candidates to certain positions in the cyber workforce.
+Responsibilities
+
+You will be responsible for providing engineering and management oversight for Foreign Military Sales (FMS) of United States Navy Tactical Data Link Systems TDLS) and associated support systems.
+You will be responsible for creating, executing, and monitoring schedules and plans for the definition, development, acquisition, test and integration of the assigned system program segment.
+You will be responsible for preparing price and availability documents and Letters of Acceptance.
+You will be responsible for software and hardware integration of tactical communications systems including platform and interoperability considerations.
+
+Travel Required
+
+Occasional travel - You may be expected to travel for this position.
+
+Supervisory status
+
+No
+
+Promotion Potential
+
+4
+
+Job family (Series)
+
+Similar jobs
+
+Requirements
+
+Conditions of Employment
+
+You will be required to complete training, obtain, and maintain a government credit card for travel and travel-related purchases.
+Must be a US Citizen.
+Must be determined suitable for federal employment.
+Must participate in the direct deposit pay program.
+New employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit
+You will be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withdrawal of a job offer or removal.
+This position may require travel from normal duty station to CONUS and OCONUS and may include remote or isolated sites You must be able to travel on military and commercial aircraft for extended periods of time.
+
+Qualifications
+
+Your resume must demonstrate at least one year of specialized experience at or equivalent to the (GS-11) grade level or (ND-03) pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following: as a professional ENGINEER/SCIENTIST supporting Foreign Military Sales (FMS) management of Tactical Data Link (TDL) Systems or Command, Control, Communications, Computers and Intelligence (C4I) systems and their respective support systems; and/or software and hardware integration of TDL, C4I and Link 16 systems including platform and interoperability considerations.
+
+Additional qualification information can be found from the following Office of Personnel Management web site:
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+
+Education
+
+Applicants must meet the following positive education qualifications requirements of the Office of Personnel Management (OPM) Qualifications Standards Manual: Applicants must possess:
+
+0854/0855: Basic Requirements:
+A. Degree: Engineering. To be acceptable, the program must: (1) lead to a bachelor's degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics.
+OR
+B. Combination of education and experience -- college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background must be demonstrated by one of the following:
+1. Professional registration or licensure -- Current registration as an Engineer Intern (EI), Engineer in Training (EIT)1, or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions.
+2. Written Test -- Evidence of having successfully passed the Fundamentals of Engineering (FE)2 examination or any other written test required for professional
+
+1550: Basic Requirements:
+Bachelor's degree in computer science or bachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. All academic degrees and course work must be from accredited or pre-accredited institutions.
+Education completed in foreign colleges or universities may be used to meet the qualification requirements if the applicant can provide documentation indicating that the foreign education is comparable to that received in an accredited educational institution in the United States. It is the responsibility of the applicant to provide such evidence when applying for further information, visit: .
+
+Additional information
+
+THIS IS A DIRECT HIRE ANNOUNCEMENT. Section 1643(a)(3) of the National Defense Authorization Act for Fiscal Year 2017 authorizes the Secretary of Defense to recruit and appoint qualified candidates directly to cyber workforce positions within the Department of Defense (DoD). Competitive rating and ranking of applicants do not apply to the Direct Hire process.
+
+Generally, current Federal employees applying for STRL jobs must serve at least one year at the next lower grade level. All qualifications and time-in-grade requirements must be met by the closing date of this announcement and clearly documented in your resume.
+
+This position is in the Science & Technology Reinvention Laboratory (STRL) Human Resource Management System pay band for Department of Defense laboratories.
+
+The pay schedule and pay band for all Science & Engineer Positions will be ND-1/2/3/4/5.
+Position has been designated as a Cyber IT/cybersecurity Workforce position in specialty area 803 as a condition of employment incumbents of this position are required to comply with the DON Cyber IT/CSWF program requirements of SECNAVM-5239.2 which include:
+1. Earn and maintain appropriate credentials from the Cyber IT/CSWF Qualification Matrix (described in SECNAV M-5239.2) associated with the specialty area and level commensurate with the scope of major assigned duties for the position to which you are assigned, and;
+Per SECNAVINST 1543.2, Cyber It/CSWF individuals shall participate annually in 40 hours of continuous learning (CL) activities to be documented in a current individual development plan (IDP) signed by both the employee and supervisor.
+
+This position is eligible for part time, full time or ad-hoc telework at the discretion of management.
+
+This position is covered by the Department of Defense Priority Placement Program.
+
+Additional vacancies may be filled by this announcement.
+
+A tentative offer of employment will be rescinded if the selectee fails to meet the pre-employment requirements, including failure to report to any of the scheduled appointments.
+
+If you are unable to apply online and request information about the Alternate Application process, please contact the Department of Navy's Employment Information Center.
+
+Federal annuitant information: The selection of an annuitant is subject to the Department of Defense and Department of the Navy policy on the employment of annuitants. Policy information may be found at:
+
+ICTAP Applicants: To be considered well-qualified and exercise selection priority as an ICTAP candidate for this vacancy, displaced Federal employees must satisfy all qualification requirements for the position and receive a rating in the highly qualified category or higher. For more information about ICTAP eligibility please review the following link:
+
+How You Will Be Evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+In order to qualify for this position, your resume must provide sufficient experience and/or education, knowledge, skills, and abilities to perform the duties of the specific position for which you are being considered. Your resume is the key means we have for evaluating your skills, knowledge, and abilities as they relate to this position. Therefore, we encourage you to be clear and specific when describing your experience.
+
+When the application process is complete, we will review your resume to ensure you meet the hiring eligibility and qualification requirements listed in this announcement. You will be rated based on the information provided in your resume and responses to the Occupational Questionnaire, along with your supporting documentation to determine your ability to demonstrate the following competencies:
+
+You will be evaluated and rated under Category Rating selection procedures. Additional points are not added for veterans' preference; however, preference is still applied. Applicants eligible for veteran's preference will receive selection priority over non-veterans.
+
+If you meet the qualification requirements, your application will be placed in one of three categories:
+
+Best Qualified - Candidates in this category possess exceptional skills and experience to exceed well above the minimum requirements for announced position.
+Highly Qualified - Candidates in this category possess good skills and experience above the minimum requirements for announced position.
+Qualified - Candidates in this category meet the minimum experience requirements for announced position.
+
+If selected, you may be required to provide supporting documentation.
+
+If after reviewing your resume and supporting documentation, a determination is made that you inflated your qualifications and/or experience, your score may be adjusted to more accurately reflect your abilities or you may be found ineligible/not qualified.
+
+Please follow all instructions carefully. Errors or omissions may affect your rating or consideration for employment.
+
+All qualifications requirements must be met by the closing date of this announcement.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+
+Background checks and security clearance
+
+Security clearance
+
+Drug test required
+
+No
+
+Required Documents
+
+You are required to provide documentation that supports the eligibility and qualification claims made in your resume and assessment questionnaire. You must submit the applicable documents listed here and those listed with the eligibilities you select in the announcement questionnaire with your application package. Applicants who do not provide supporting documentation that fully support their claims will not be referred to the hiring manager. Cover letter is optional.
+
+A complete resume is required. Your resume must show relevant experience, job title, duties and accomplishments. Your resume must show complete information for each job entry to support minimum qualifications. The following information should be provided in your resume, but it is acceptable to provide elsewhere in your application package: employer's name, starting and end dates (Mo/Yr), hours per week, and pay plan, series and grade level (e.g. GS-0201-09) for relevant federal experience.TIP: A good way to ensure you include all essential information is to use the Resume Builder in USAJOBS to create your resume.
+
+Are you claiming membership in any professional organizations, or possession of a license, certificate or credentials? Check the Conditions of Employment section above to see if any are required. If you claim membership, license, certification, or credentials, you must submit a copy of said document in your application package.
+
+Are you using education as a substitute for some or all of the experience requirement? Is there a basic education requirement for this position? Check the Education section above to see what is allowed and what is required. Any claims you make in your resume or assessment questionnaire regarding education or degrees MUST be supported by official or unofficial transcripts or a list of courses, grades earned, completion dates, and quarter and semester hours earned issued from your school. While unofficial transcripts are acceptable for initial application, an official transcript will ultimately be required if you are selected for the position. You may submit a copy your degree(s) if specific coursework does not have to be verified. Claims for approved "grandfather" clauses must be fully supported with documentation.
+
+Are you a veteran claiming 5-point veterans' preference or claiming sole survivorship preference? You must submit a copy of your latest DD-214 Certificate of Release or Discharge from Active Duty (any copy that shows all dates of service, as well as character of service [Honorable, General, etc.] is acceptable) OR a VA letter that shows dates of service or service connected disability AND character of service. If you have more than one DD-214 for multiple periods of active duty service, submit a copy for each period of service. If you were issued a DD-215 to amend aforementioned information on the DD-214 you must submit that too. If you are not sure of your preference eligibility, visit the Department of Labor's website:
+
+Are you a disabled veteran or claiming 10-point veterans' preference?
+If you are eligible to claim 10 point veterans preference you must submit a DD-214 Certificate of Release or Discharge from Active Duty as described above for 5-point preference.
+
+You must also provide the applicable supporting documentation of your disability (e.g. disability letter from the VA) as described on Standard Form-15 (SF-15). .
+
+Are you an active duty service member? Active Duty Service Members are required to submit a statement of service printed on command letterhead and signed by the command. The statement of service must provide the branch of service, rate/rank, all dates of service, the expected date of discharge and anticipated character of service (Honorable, General, etc.).
+
+Documents submitted as part of
+
+
+Go to apply 
+

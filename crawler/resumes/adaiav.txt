@@ -1,0 +1,76 @@
+
+SKILLS
+Graphic: HTML, CSS, Bootstrap, Invision, Adobe Photoshop, Autodesk 3DS Max, IClone, Adobe Flash. Database: SQL Server, MySQL, SQLite, Entity Framework/Linq. Programming: C#, VB.NET, MVC 5, WinForms, J2EE, PHP, JAVASCRIPT / AJAX, JQuery, JQuery Plugins,ASP.NET, HTML, CSS, SQL, XML, DevExpress (development tool), XAML, JSON, Ionic Framework, Xamarin.
+I was born on 23/12/1993, Graduated with a university license, I started my experience at the beginning of year 2013, Ambitious, sociable and motivated. ABOUT
+Tunisia, Tunis, El Khadra city adaiav@r.postjobfree.com +216-**-**-**-** CONTACT
+WIJLINI ABDELMONEM
+Full-Stack Developer
+Principal Mission: Developing sales force applications for Motorola terminals (Win CE 7/6/5).
+Interacting with users to gather information and implementing their needs.
+Developing & maintaining processes, procedures and documentation. DEVELOPER
+Provision November 2015-January 2016
+Principal Mission: Coding of all types of projects targeting those are based on .NET technology (C #, VB.NET and ASP.NET).
+Utilizing programming capabilities in .Net, SQL and javascript and other libraries as needed.
+Converting mockups into HTML, JavaScript, AJAX and JSON.
+Fixing errors, upgrading interfaces and improving performance.
+Consult regularly with customers on project status, proposals and technical issues.
+February 2016 (2 years)
+FREELANCER
+Principal Mission: Coding of Web applications based on .NET technology for accounting management.
+MVC 5, C#, HTML5, CSS, Web Forms and SQL.
+Knowledge of web development using JavaScript frameworks like Bootstrap and jQuery.
+Determine operational feasibility by evaluating analysis, problem deﬁnition, requirements, solution development, and proposed solutions.
+Project management with Scrum Team Foundation Server from Microsoft.
+General technical troubleshooting and provide consultation to the Applications users.
+Handling day-to-day database activities.
+DEVELOPER
+CEGID (5th software editor in french) December 2017-Now PROFESSIONAL EXPERIENCE (MORE THAN 3 YEARS)
+Analyzing Information, General Programming Skills, Software Design, Software Debugging, Software Documentation, Software Testing, Problem Solving, Teamwork, Software Development Fundamentals, Software Development Process, Software Requirements, Project management.
+Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.
+Determine customer requirements, implement and follow up as needed.
+Ability to troubleshoot issues to resolution. Strong problem solving and root cause analysis skills.
+Multi-Tasking/Multi-Threading Development and ability to work in a team environment.
+Able to work individually, as part of a co-located team or as part of a distributed global team.
+Strong problem-solving and analytical skills.
+Ability to anticipate problems and develop effective solutions.
+CAPABILITIES
+Principal Mission: Handle the requests concerning the disturbances of the network, ﬁxing them.
+TECHNICIAN
+Tunisie TELECOM August 2014-September 2014
+Principal Mission: The project of the end of studies was the development of a mobile application for managing complaints and news for the citizens of Kef (Windows Phone 8.1 / Windows Desktop 8.1).
+VB.NET, XAML, WCF services and SQL.
+DEVELOPER
+Kef municipality March 2015-July 2015
+Web Application dedicated to produce monthly, quarterly and annual dashboards. This application allows to control the activity of the company and also to follow via a dedicated portal in real time. C#,JavaScript, JQuery, CSS, HTML,AJAX and SQL
+SUIVICLICK
+Web Application dedicated to allows you to determine with accurately the
+"optimum" remuneration of the leader, considering costs social and ﬁscal rights, or to deﬁne the most appropriate legal status. C#,JavaScript, JQuery, ExtJS, CSS, HTML, WebForms, AJAX and SQL WEBREM
+Web Application Dedicated to calculate social security contributions for free workers (Not Salaried).
+C#,JavaScript, JQuery, Material, CSS, HTML5, MVC5, AJAX and SQL WEBTNS (BETA)
+Website for Qatar media corporation allows visitors to see latest news about the corporation, job vacancies, also a CMS to manage content for visitors and candidates.
+C#,JavaScript, JQuery, CSS, HTML5, WebForms, AJAX and SQL QATAR MEDIA CORPORATION
+Website for Quran radio station allows visitors to see latest media content and program schedule, also a CMS to manage content for visitors. C#,JavaScript, JQuery, CSS, HTML5, WebForms, AJAX and SQL QURAN RADIO STATION
+Website for Qatar radio station allows visitors to see latest media content and program schedule, also a CMS to manage content for visitors. C#,JavaScript, JQuery, CSS, HTML5, WebForms, AJAX and SQL QATAR RADIO STATION
+PROJECTS
+ENGLISH
+
+FRENCH
+
+ARABIC
+
+LANGUAGES
+TRAINING CERTIFICATION IN C# LANGUAGE
+GTEC Training Center August 2015-September 2015
+I acquired a degree of license applied in technology of the computing, the speciality was the development of information system from the higher institute of the technological studies of Kef.
+Kef ISET September 2012-July2015
+APPLIED LICENTIATE
+EDUCATION
+Windows phone / Desktop Application dedicated to citizen to claim the municipality of Kef city for issues related to its activities. VBNET and SQL
+MUNICIPALITY OF KEF RECLAMATIONS
+Desktop Application dedicated to communicate with many people in real time within chat rooms (live chatting voice and camera). C#,WPF and SQL
+VOIP CHAT ROOMS APPLICATION
+Web Application dedicated to present in an online viewer all balance sheets and ﬁnancial items of companies (annual accounts, sectors ratio, business plan, business valuation, ﬁnancial analysis ...), including many graphics and personalized comments .
+C#,JavaScript, JQuery, CSS, HTML,AJAX and SQL
+VISUALBILAN
+
+Contact this candidate

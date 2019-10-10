@@ -1,0 +1,28 @@
+Job Title = Engineer
+
+Responsibilities:
+Service Delivery
+Involve in technical planning, implementation and delivery for enhancement projects
+Develop and review test cases for the service
+Perform system and service testing to roll-out new related products and services.
+
+Service Operations
+Responsible for supporting the daily operation of servers (HW & SW mainly in Linux OS) and storage systems.
+System and Platform Patch loading, implementation of software and hardware upgrades
+Perform and coordinate disaster recovery activity expeditiously in times of service disruptions so as to minimize service downtime and revenue loss.
+
+May need to work outside normal working hours to carry out upgrades and patch loading as such activities may disrupt services.
+
+The Ideal Candidate should have/be:
+A good engineering or computing degree
+Basic knowledge on Linux Operating System
+Basic knowledge on IP networking fundamentals
+critical thinking and problem solving skills.
+Planning and organizing
+Communication skills
+Teamwork
+Self-driven and highly motivated
+
+
+Go to apply 
+

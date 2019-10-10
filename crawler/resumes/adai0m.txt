@@ -1,0 +1,70 @@
+
+Summary
+To work in a progressive environment where I can utilize my skills and expertise for the benefit of the organization in the long run.
+* ***** ** ********** ** IT industry mainly in SharePoint, Power BI analytic tool, R programming and all MS applications.
+Completed Business Analytics at Great Lakes with specialization in R language in all ML techniques.
+
+Technical Proficiency
+R 4/5
+SQL 3/5
+Ms Excel 4/5
+Power BI 3/5
+Python 3/5
+
+Professional Experience 3 years 05 months
+
+Senior Systems Engineer, INFOSYS May 2016 – Till date
+
+SQL Server BI/ Power BI Administrator
+Expert in creating and developing Power BI Dashboards in to rich look.
+Used various sources to pull data into Power BI such as SQL Server, SAP BW etc.
+Installed and configured Enterprise gateway in Power bi service.
+Created Workspace and content packs for business users to view the developed reports.
+Developed Power BI dashboards and reports for data analysis by getting data from SQL server data source.’
+
+Data Analytics Projects:
+Analyzing the Marketing Campaign for Personal Loan Product - Based on the given attributes and customer information, build a machine learning model that predicts the most likely to purchase personal loan products.
+Approach : EDA to understand the data. This project identified the target audience for marketing campaigns of the personal loan product for a bank. A model using machine learning algorithms was developed to predict the customers who are most likely to purchase personal loan products.
+Key skills : R, Clustering, Supervised learning, Machine Learning techniques(CART, Random Forest, Neural Network, LDA, KNN, Logistic Regression)
+Customer Satisfaction -- Hair product -The objective of the project is to use the dataset Factor-Hair-Revised.csv to build a regression model to predict satisfaction.
+Approach : 1. Data Exploration 2. Collinearity of the variables 3. Initial Regression analysis 4. Factor Analysis 5. Labelling and interpreting of the factors 6. Regression analysis using the factors as independent variable 7. Model performance measure.
+Key Skills : Anova, Linear Regression, Factor analysis
+
+Par Inc Analysis for New Product Development- The objective of the project was to study whether Par Inc, who is a major manufacturer of golf equipment, should introduce new cut-resistant balls or not.
+Approach : Data around tests conducted on both the old and new golf balls was used to do the following: 1. Formulate and build a hypothesis, 2. Conduct hypothesis testing 3. Evaluate and choose between different statistical tests.
+Key Skills : Probability, Hypothesis testing, Business statistics
+
+Cardio Fitness Analysis Using R - The objective was to study and Analyze which of the products is effective in terms of fitness and usage.
+Approach: Cardio fitness data on about 180 people using various cardio fitness products were provided. The project involved interpretation of statistical output to generate managerial recommendations, using regression as a prediction device and most importantly evaluating and choosing of alternative statistical models.
+Key Skills : Hypothesis testing, Descriptive statistics
+
+Time Series Forecasting – The objective was to study the best model obtained from different forecast methods for the period Oct 2017 to December 2018 for both items given in the dataset and provide forecasted values as well as their upper and lower confidence limits.
+Approach: 1. Read the data as time series objects in R and plot the data 2. Decompose each series to extract trend and seasonality 3. Extracted the residuals for the two decomposition series and checked stationary series writing down the null and alternative hypothesis 4. Computed the MAPE value to choose the best model 5. Provide forecasted values as well as their upper and lower confidence limits
+Key Skills : ARIMA, Time series forecast ( Holt-winters, Exponential Methods).
+
+E-Portfolio Link: https://eportfolio.greatlearning.in/vignesh-v (Real time Capstone projects covered during my Business Analyst course.)
+SharePoint Analyst
+Conducted technical training session for SharePoint end users.
+Participated in site migrations and designed content management solutions.
+Implemented and managed user profiles and Power BI dashboards.
+Developed SharePoint UI as per client requirements using HTML and CSS.
+Created Master pages and custom SharePoint forms for client requirements.
+Collected client requirements and created workflows to perform automated jobs in SharePoint.
+
+Office365 Administrator
+Resolved tenancy technical issues and monitored Office 365 systems.
+Administered and supported Office 365 and MS Exchange policies.
+Well versed with working mechanism of Microsoft developed Office 365 applications like Power BI, Microsoft Teams, OneDrive, PowerApps and MS Flow etc. The technology which has been fastly growing and adopted by various clients for its wide range of benefits.
+Conducted technical training session for end users on Office 365 applications.
+Automated Microsoft Flows have been developed to perform any specific action for a trigger based on client requirements.
+Automated creation of SharePoint sites using RPA Tool(Automation Studio) Anywhere.
+
+Education
+Business Analyst (BACP)– Great Lakes Business school 2018-19
+Certification link - https://olympus1.greatlearning.in/certificate/VCXLGWMK
+B.E, Mechanical Engineering – Anna University
+2012-16
+Certifications
+Completed Microsoft Certification in Analyzing and Visualizing data with Power BI (70-778). 2019
+
+Contact this candidate

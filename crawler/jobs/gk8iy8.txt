@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Responsibilities and Qualifications:
 - Operate tools in order to aid in the manufacturing process

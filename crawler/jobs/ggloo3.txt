@@ -1,0 +1,42 @@
+Job Title = Engineer
+
+The driving force behind our success has always been the people of AspenTech. What drives us, is our aspiration, our desire and ambition to keep pushing the envelope, overcoming any hurdle, challenging the status quo to continually find a better way. You will experience these qualities of passion, pride and aspiration in many ways — from a rich set of career development programs to support of community service projects to social events that foster fun and relationship building across our global community.
+
+The Role
+
+We are looking for experienced software developers to help design and implement game-changing, next-generation capabilities for our market-leading simulation and engineering products. Visit us at
+
+Your Impact
+
+* Design, develop, maintain, and support new and existing capabilities for modeling, simulation, design, and rating software for chemicals, oil & gas, and refining processes
+
+* Provide technical support to product management, product marketing, services, and customer and business support on customer activities.
+
+* Work with customers to understand their engineering work processes and modeling requirements.
+
+* Collaborate with product managers, product designers and developers to develop detailed product requirements and specifications for process engineering products.
+
+* Keep current with new and developing technologies as they appear in industry and academia, and assist in determining the feasibility of implementing new technologies.
+
+What You'll Need
+
+* Bachelor's degree in Chemical Engineering or related fields
+
+* 2-5 years of industrial and/or academic experience in the development of software for modeling, simulation and design of chemicals, oil & gas, and refining processes
+
+* Strong background in numerical methods and mathematical modeling
+
+* Strong computer programming and software development experience, with specific experience in one or more of these languages: C++, C#, WPF
+
+* Experience using software tools for process simulation, design, and rating – experience with AspenTech products is a plus.
+
+* Excellent interpersonal, communication, writing and presentation skills.
+
+* Demonstrated ability to convey complex information in a clear and concise manner.
+
+* English fluency (written and verbal) required.
+SDL2017
+
+
+Go to apply 
+

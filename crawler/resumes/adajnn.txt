@@ -1,0 +1,70 @@
+
+Divya Kundal Email: adajnn@r.postjobfree.com
+Informatica Developer Arlington Height, Illinois
+LinkedIn: https://www.linkedin.com/in/divya-kundal-23477a97/ Ph: 424-***-****
+
+Summary:
+Informatica Developer with four years of experience in data analysis, ETL/database development, QA testing, production turnovers and product support.
+In depth knowledge of data warehouse concepts that includes Dimensional Modeling, Fact tables, Primary/Foreign/unique keys, SCD type1/2/3/4, Star schemas, and Snowflakes schema.
+Experience working with high volume data sets from various sources like DB2, Sybase, SQL server, XML files and flat files.
+Expertise in performance tuning by identifying the bottlenecks, partitioning the large data, working on cache data, and SQL’s. Successfully able to tune the ETL processing run time from 2 hours to 20 minutes.
+Strong understanding of SQL includes Performance Tuning, Joins, Stored Procedures, Views, Query Plans, Indexes and Partitioning.
+Experience in data profiling using Informatica IDQ to identifying data issues and fixing the issue by implementing appropriate procedures with existing/new mappings in Informatica IDQ.
+Designed and developed data quality rule to improve the data quality by understanding the business requirements.
+Experience in cleansing, parsing and standardizing data by developing mappings in Informatica IDQ.
+Experience performing Proof of concept for Informatica IDQ and performing data profiling in Informatica IDE.
+Basic understanding of Big Data, Hadoop, Python, Perl and Data science concepts.
+Proficiently worked on multiple python projects including use of Numpy, Pandas (Data Frames and Series), and CSV and Data visualization with Matplotlib and Seaborn for learning data science during certification in UCLA.
+Good interpersonal skills, energetic and motivated team player and an attitude to learn and adapt easily to situations.
+Excellent written and oral communication.
+
+Technical Skills: -
+Data warehouse Tool: Informatica Power Center v8.6.1, Informatica IDQ
+Database: DB2 9.7, MS SQL Server, MySQL, Sybase, NoSQL
+Programming: Python, Unix Shell Scripting, PL/SQL, HTML, Perl
+Operating System: Windows, Unix
+Learned basics of Data science, Python Programming, Big data, Hadoop, NoSQL during certification in UCLA.
+Tool: BOXI reporting, merger tool, db2ts.
+
+Work Experience: -
+Client: - Morgan Stanley Investment Bank, NY Mar-2012 to Dec-2015
+Project: - Itara-etl-dm
+Domain: - Banking
+Responsibility: -
+Developed ETL program using informatica to implement the business requirements, create various views, Stored Procedures, AutoSys jobs and worked on Perl scripts.
+Closely worked with the business users to understand the requirements and thereby design and develop and test the data quality using Informatica IDQ.
+Worked with Informatica Data Quality (IDQ) toolkit, Analysis, data cleansing, data matching, data conversion, exception handling, and reporting and monitoring capabilities of IDQ.
+Worked on profiling the data from different sources and documented the profiled results.
+Used IDQ transformations like Filter, sorter and expression to remove the unwanted data and to sort the source database on a particular key.
+Extensively worked on data extraction, cleansing and data integration, and loading from various heterogeneous data sources including flat files, xml file, Sybase, DB2 using Informatica power center.
+Involved in various SQL and ETL performance tunings by creating indexes on appropriate columns and by adding fragments for faster access of data by choosing the right column for partition keys.
+Investigated invalid/erroneous data sources by identifying the root causes of data integrity issues, and created corrective processes and systems to prevent reoccurrence.
+Worked with data profiling on large data sets and created recommendations based on the profiling results.
+Efficiently performed the role of SME for Data Mart and was responsible for checking proper functioning of the end-to-end stream flow.
+Worked directly with the DBA’s, Reporting Teams and Source Data Teams on daily basis for discussing and solving the reported issue.
+Worked on various reconciling report to ensure the data accuracy, by comparing the source and target sample columns and then establishing a daily job to keep a check on prod data.
+Used reconciliation report for QA testing by comparing the prod data and QA data after pointing the QA source to prod.
+Worked with various transformation including Source Analyzer, Update Strategy, Lookup, Expression, Filter, Router, Sorter, Aggregator, Sequence Generator and others to meet the business requirements.
+Communicate with multiple stakeholders and SMEs to understand the full requirements and identify the data source(s) for bringing new flows and fulfilling the reporting team’s requirements.
+Worked as data analyst to ensure data integrity and solve data quality (bad data) issues reported by the downstream reporting team.
+Developed AutoSys job streams to schedule the flow, file watcher and to keep the dependencies in the flow.
+Effectively worked in informatica version based environment and use deployment to migrate the objects from different versions DEV- QA then QA testing and after signoff QA-PROD.
+Responsible for providing the timeline of multiple tasks to the related reporting owners and prioritize the task after discussing it on calls.
+Used Unix to navigate, remove, create or permission the file and for various kind of testing of the data.
+Actively prepared the documents like DFD (Data Flow Diagram), ERD (Entity Relationship Diagram), SRS (Software Required Specification) and BRD (Business Required Document), Run book, Use cases, Test Cases based on scenario.
+To investigate and fix the bug occurred in the production environment and provide the On-Call support.
+Effectively worked in Onsite and Offshore work model.
+
+Education: -
+Bachelors in Computer Science from Acropolis institute of research and technology, India Sep 2007 to May 2011
+
+Certification: -
+Certification in DBMS/DataScience from UCLA March 2017 to Present
+DB2 v9 SQL Procedure Certification Dec 2013
+NCFM Financial Beginners Oct 2014
+Microsoft certification on SQL SERVER database. Jan 2011
+
+Declaration:
+I solemnly declare that the given particulars are true to the best of my knowledge and belief.
+
+Contact this candidate

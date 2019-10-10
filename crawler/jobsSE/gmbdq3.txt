@@ -1,27 +1,51 @@
+Job Title = Selenium Or Ui Or Devops Or Java jobs in Raleigh, NC, 27606
 
-Role : Devops Engineer
-Location: Phoenix, AZ
-12 months
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to ... * Must have working knowledge of implementing CICD/DevOps process in Jenkins/similar environments. * Proven success in ...
+- Dice.com, Oct 09
 
-Job Description:
+Marga Consulting  – 
+Raleigh, NC, 27607
+... * Create and maintain test automation framework using Selenium, Java, SQL and UNIX. * Suggest and implement improvements to ... * Must have working knowledge of implementing CICD/DevOps process in Jenkins/similar environments. * Proven success in ...
+- Dice, Oct 08
 
-* Experience in DEVOPS - setting up CI/CD pipeline, XLR integration, Jenkins automation, Continuous Testing (CT) implementation.
-* Strong core java experience (development or testing).
-* Experience in integrating and working on test automation tools for products with UI / Portal.
-* Scripting experience on Shell, Python etc.
-* Able to do some manual testing.
-Need candidate with some selenium experience as well.
+Systel  – 
+Morrisville, NC
+... Role- Selenium Tester Location - Morrisville, North Carolina Job Description: - 8 yrs. of experience in IT Quality Assurance - Automated hands on test tool experience – Selenium and Cucumber - BFS domain knowledge - Good understanding of Devops - ...
+- Neuvoo, Oct 08
 
-Regards
+Diverse Lynx  – 
+Morrisville, NC
+Position: Selenium Automation Tester. Job Location: Morrisville, NC Job Type: Fulltime Job Description: Required Skills (List must have skills) Strong hands on Dot Net, Core Java, Selenium Automation experience (3+ yrs), Excellent knowledge and ...
+- Neuvoo, Sep 30
 
-Ria Simpson
-Sr Talent Acquisition
-Software Technology, Inc.
-100 Overlook Center, Suite 200, Princeton, NJ 08540
-Direct:
+Cognizant  – 
+Morrisville, NC
+-6+ yrs of experience in IT Quality Assurance -Automated hands on test tool experience – Selenium -Excellent experience in PLSQL -BFS domain knowledge -Good understanding of Devops -Well versed with test/defect management tools like ALM, Jira -Well ...
+- Neuvoo, Oct 04
 
-Permanent
+Golden Tech Systems Inc.  – 
+Raleigh, NC, 27604
+Company Overview Golden Tech is a systems integrator firm, focusing on solving complex problems in areas of DevOps, Cloud ... Selenium web driver in addition to keeping abreast of automation best practices. • Create, execute, and automate SOAP UI ...
+- ZipRecruiter, Oct 08
 
+Cognizant  – 
+Morrisville, NC, 27560
+- 6+ yrs of experience in IT Quality Assurance - Automated hands on test tool experience Selenium - Excellent experience in PLSQL - BFS domain knowledge - Good understanding of Devops - Well versed with test/defect management tools like ALM, Jira - ...
+- Jobs2Careers, Oct 06
 
-Go to apply 
+Ace Technologies  – 
+Durham, NC
+... Java, etc.)•Experience with cloud-native application development such as JavaScript, HTML, CSS, SQL (MySQL, PostgreSQL, or DB2, etc) or NoSQL Databases (MongoDB, Cloudant, or Cassandra, etc.)•Knowledge of microservices architecture•Knowledge of DevOps ...
+- Neuvoo, Oct 03
 
+Enormous Enterprise LLC  – 
+Durham, NC
+... logging, command line interface and UI Browsers: FF, Chrome, Safari, Edge, IE Understanding of the developers tools for all of the above browsers Test tools: Jenkins jMeter Selenium RQM RTC Programming languages: Java cURL Python Java Script VB ...
+- Sep 25
+
+VDart Inc  – 
+Morrisville, NC
+... Selenium · Excellent experience in PLSQL · BFS domain knowledge · Good understanding of Devops · Well versed with test/defect management tools like ALM, Jira · Well versed with STLC cycle, Test plan, test Strategy, test scripting. · Good Comms Skill
+- Neuvoo, Oct 04

@@ -1,0 +1,58 @@
+
+Steve Oosthuizen
++27-83-212**** adahup@r.postjobfree.com
+Bloemfontein, South Africa https://za.linkedin.com/in/steve-oost Summary
+Telecoms professional with 10+ years’ experience focused on delivering successful high-pressure projects by leveraging leadership experience and technical background. Currently seeking new challenges.
+Skills
+Project management – Prince2 Agile
+Excellent MS Excel advanced formulas, macros and pivots
+Microwave transmission rollout
+HSPA+ / 3G, GSM / 2G RAN
+Network deployment and optimization
+Network stats analysis
+SQL
+Unix
+Asset
+Ericsson OSS
+Actix
+Aresio GEO
+COPS (Celcite)
+TEMS Investigation and Discovery
+Work Experience
+Ericsson SA = Rollout Manager Nov 2018 - Current
+Approached to join microwave deployment project on MTN SA Network in Central region, as of October project only reflected 35% completion and running at a loss. Successfully converted the project deficit to +-$415 000 profit by auditing all work completed, implementing a cost vs profit report, invoicing all items previously missed, improving team structures, ended project with 65% completion in January 2019
+2018 project was shared with other vendors, 2019 project given exclusively to Ericsson
+On boarding contractor teams and setting up project team (20 contractor teams and 10 direct reports)
+Organizing teams to run on schedule and on budget in line with the project plan
+Responsible for project finances, plan and delivery
+Building customer trust by listening to their priorities, keeping open lines of communication and delivering on their priorities
+Tracker Connect SA = Radio Frequency Engineer Mar 2018 - Oct 2018
+Set up inventory control process to reduce running costs caused by misplaced and incorrectly allocated stock
+Completed courses in Linux and Shell Scripting in order to improve my efficiency
+Managed schedules, maintenance, costs, stock levels and all fixed assets
+End to end responsible for new site builds
+Ericsson SA = Implementation Manager Jan 2017 - Feb 2018
+Assigned microwave deployment project on the MTN SA network Eastern Cape region that was failing, 4 months later produced +-$755 000 profit and delivered 65% of 12 month target, 5 staff directly reported to me and various subcontractors
+Improved interdepartmental relations to ensure a smooth transition between project phases
+Cultivated 3rd party relationships, ensuring the availability of their facilities without which project would not have been able to proceed
+Created and automated reports for the project in Excel
+Oosie's Solutions = Manager Jul 2016 - Jan 2017
+Orchestrated schedules and stock control to ensure positive profit margins
+Created a positive public perception by putting customer relations first
+Defined the scope of work, set customer expectations, managed and delivered the projects on time and on budget
+Ericsson SA = RAN Network and Optimization Engineer Jan 2015 - Jun 2016
+Lead a team of international network optimization engineers (30 shared resources) to meet the needs of a larger project(MTN SA 18 Month Project)
+Set up specific procedures to meet the detailed requirements and KPIs of the customer which improved service quality
+Oversee network performance for rollout sites, 524 sites, 2G, 3G and LTE
+MTN SA = Radio Planning and Optimization Engineer Mar 2012 - Dec 2014
+Created procedure documents and proposed the tool used for the National MSC Blade Cluster Cut Over Project and created commands to be included in the scripts to streamline the process
+Youngest planner in the company at the time and recognised as the best fault finder
+Network performance optimized by reviewing stats adjusting RAN parameters for 2G and 3G responsible for 253 sites
+Network planning done for 2G, 3G and LTE sites
+MTN SA = Planning and Optimization Drive Tester Oct 2010- Feb 2012
+Given engineer level tasks as a result of proven accuracy and tenacity
+Trialling network, assessing data and cell performance and audio quality Education
+Diploma (Three Years) Electrical Engineering (WES Accredited)
+Certified Prince2 Agile Practitioner
+
+Contact this candidate

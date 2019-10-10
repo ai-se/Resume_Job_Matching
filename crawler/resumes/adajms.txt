@@ -1,0 +1,72 @@
+
+NEHA CHAUHAN
+Senior Analyst HCL Technologies
+* ******** ****-* ******* 2019
+CONTACT:837-***-****
+EMAIL: adajms@r.postjobfree.com
+CAREER VISION
+To work in a challenging environment demanding all my skills and efforts to explore and adapt myself in different fields and realize my potential also where I get the opportunity for continuous learning and exploring and be and asset to the company’s growth also . SUMMARY
+• Installation of Linux based operating system : fedora, ubuntu.
+• Inter process communication concepts:pipes, FIFO
+• Comfortable with respect to programming in C Language.
+• Able to implement data structures.
+• Have good understanding of GCC compilation process.
+• Have good understanding of development tools like Makefile and RCS.
+• Comfortable to use Pointer function .
+• Understand Process Duplication, Process replacing.
+• Implement Synchronization techniques using Semaphore and Mutex.
+• Understand the concepts of Threads and Thread Synchronization.
+• Understand the Concept of Sockets.
+• Understand the architecture of Character device Drivers. TECHNICAL SKILLS
+• Programming languages: C language,Shell scripting using shell, HTML
+• Development languages: Makefile, RCS
+• Compiler: GCC
+• Operating system : Fedora
+PROFESSIONAL EXPERIENCE
+• Senior Analyst, HCL technologies,Noida-- Present
+• Trained and supervised 6 employees as they were new to email process(Outbound), ensuring they maintain fastidious attention to details.
+• Conducted thorough reviews of their performance via maintaining their quality parameter.
+• Documenting and tracking all received requests in incident management system.
+• Collected and updated data to assist with customer issues and concerns.
+• Assistance in software installations.
+• Provided inter-departmental collaboration by escalating unresolved issues to appropriate support functions.
+• Identified priority calls and highlighted potential problems, ensuring that targets are met in line with tight key Performance indicators. TRAINING
+Ongoing training Embedded Linux Kernel Internal with ARM, Device Drivers at Emblogic Research and competency Development labs
+PROJECT :
+On going project:
+• Character Device Driver Development:
+Registering tour driver with standard kernel functions, providing Major and Minor numbers.
+Exporting Dynamic Kernel Modules into the Kernel and utilizing them from other modules.
+Project Completed:
+• Client server communication using Sockets:
+Designing FTP client server architecture using threads and Sockets in which multiple client can access the server.
+Processing using Socket and threads with AF_UNIX and AF_INET as communication domains.
+Server creates a new thread for desling with each new client that come fresh out of the Listen Queue,So now each client will be catered to by a new thread.
+• Client and Server Model using IPC and Threads
+Implementing a Server program where some clients (requesting clients) would send a request to the server and server would further find the appropriate client (processing clients) to process the request.
+Server invokes new client(processing client) so as to process the request. And to avoid data being sent through wrong path semaphores are used to set the sequence synchronization techniques.
+Processing client then processes the data accepted from the server after processing client sends the result back to the server using Message queues
+• Multiple data compression and decompression techniques using C Project comprises of master array which help us to get the compressed file and using the same master array the bits are then decompressed and original information is extracted. The project aims to remove ASCII code based data redundancy in the provided source file so as to trim the entire file and at the same time encode it with our algorithm in order to encrypt the data.
+• Client and Server communication using pipes and FIFO: Implementing a Server program where some clients (requesting clients) would send a request to the server and server would further find the appropriate client
+(processing clients) to process the request.
+Server invokes the new client (processing client) so as to process the request.
+• GSM Based e-notice board (Major project) Designed and constructed GSM based electronic notice board with AT89c52 microcontroller
+• DTMF Based home automation (Minor project) Designed and constructed DTMF based home automation system with AT89c52 microcontroller PAPER PRESENTED/ CONFERENCE ATTENDED:
+Published an international level paper on” Analogous study of 4G and 5G” in the 3rd international conference on “Computation for sustainable global development” sponsored by BVICAM, New Delhi(INDIA)
+YOUTH SEMINAR on sustainable solutions for access to safe water: promoting innovation and collaboration organized by TERI.
+YUVA MEET 2015 sustainable solutions: safe water for all organized by TERI ACHIEVEMENTS:
+Awarded as a top performer of the project, from HCL’send Awarded as a champion for email support from client’s end Certificate of merit in youth seminar organized by TERI for solution searchers: best performance
+Certificate of Excellence in Code Magnet Event and bagged First position. EDUCATION:
+• B.tech in Electronics and communication stream with 68.5% (2012-2016).
+• Higher secondary schooling from CBSE with 69.2% in 2012.
+• Secondary schooling from CBSE with 80% in 2010.
+PERSONALITY TRAITS:
+Positivity,willing to learn, logical thinking, team work, Idea initiator. PERSONAL PROFILE:
+DATE OF BIRTH: 15 August 1994
+PRESENT ADDRESS: B-706 MOD appartments,Vasundhara enclave, New delhi. PERMANENT ADDRESS: 2KH8 Madhuban housing board basni Jodhpur,Rajasthan. EMAIL ADDRESS: adajms@r.postjobfree.com
+CONTACT NUMBER: 837-***-****,843-***-****
+LANGUAGES KNOWN: English, Hindi.
+DECLARATION:
+I hereby declare that the information given herewith is correct to the best of my knowledge and I will be responsible for any discrepancy Date Signature
+
+Contact this candidate

@@ -1,0 +1,60 @@
+Job Title = Engineer
+
+CertTech, a premier provider of test automation services, test systems and products solutions, is seeking all levels of engineering professionals in the Systems, Software, Electrical and Mechanical disciplines for our Albuquerque operations. CertTech is an ISO 9001:2015 certified company based in the Kansas City metro area with branch offices in Albuquerque, NM and Boulder, CO.
+
+Job Summary: Contribute to the design, development and integration of hardware, software, and systems in a team environment. Responsible for preparation of deliverables such as planning documents, requirements documents, design documents, system designs/drawings, software designs and source code, hardware designs/drawings, review records, calibration and alignment procedures, measurement accuracy statements, reports and other responsibilities as directed by management.
+
+Skills/Experience:
+
+Excellent technical communications skills
+
+Solid client interaction skills
+
+And one or more of:
+
+Familiarity/experience with modular instrumentation (National Instruments, Keysight, etc…)
+
+LabVIEW Realtime/FPGA and/or VHDL a plus
+
+National Instruments certification (CLD, CLA) a plus
+
+Experience with National Instruments TestStand, Keysight VEE
+
+National Instruments certification (CTD, CTA) a plus
+
+Familiarity/experience with C/C++/C#, VB/VB.NET, Object-Oriented Programming
+
+Familiarity/experience with Instrumentation and Test Automation
+
+Familiarity/experience with PXIe/AXIe, Data Acquisition, Virtual Instrumentation
+
+Basic understanding of the fundamentals of verification and validation
+
+Responsibilities:
+
+Professional interaction with clients/partners
+
+Designing, developing and maintaining test and data acquisition/control systems
+
+Status reporting
+
+Troubleshooting system level, software, hardware, wiring, and interfaces
+
+Supporting new business development activities
+
+Minimum Requirements:
+
+College Degree: physics, computer science, electrical/mechanical/systems engineering or related field
+
+U.S. citizenship
+
+Ability to obtain a DOE security clearance. Existing security clearance a plus
+
+CertTech Mission Statement:
+To be a key strategic supplier of innovative products, systems and services supporting development of advanced technology high reliability solutions.
+
+Apply online today:
+
+
+Go to apply 
+

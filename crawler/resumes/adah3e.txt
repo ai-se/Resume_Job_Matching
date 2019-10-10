@@ -1,0 +1,66 @@
+
+Rajesh, Bangalore Krishnappa
+Contact: 316-***-****; adah3e@r.postjobfree.com
+Present Address: *** ******* **** ****, **********, Ohio 43040
+
+Bachelor in Industrial Engineering with 12 years of experience in Automotive & non-automotive industry. Expertise in using CATIA V5/V6, Solidworks, & ENOVIA (>8000hrs) tool. Familiar with UG NX. Good experience to Solid & surface modeling, Sheet metal, drawing and Assembly’s tools.
+Experience in Product design & development – Expertise includes Sheet metal (Stamping & brake press) & 3 to 5 axis machined components used in automobile chassis, Electro-mechanical devices, & aircraft structures. Investigate change requests, core team items & cost out ideas, create 3D solids & drawing
+Experience in Should costing – Estimate the optimal manufacturing cost of sheet metal & machined parts based on labour & process rates/hr etc, using SEER-mfg & guideline manuals.
+Experience in Assembly jigs –for assembly structural components of Aircraft wing & empennage structure
+Knowledge of manufacturing standards, stackup analysis, GD&T. Good ability to follow written & verbal instructions, meet schedules with little supervision.
+Date of birth - 01 April 1983
+Passport – India citizenship. Work Authorization - H1B visa - valid till January 2023
+Relocate – Yes
+
+Experience Summary
+
+1.Jan 2018 – Sep 2019 : Worked for Goken America (Dublin, Ohio) for the client - Honda research & development centre (Raymond, Ohio) – Chassis design team
+Role – Design Engineer. Supported the chassis design team to create 3D solid models & drawings of sheet metal stampings. Perform basic FEM analysis for frequency & strength.
+Concept to detailed design ownership, participate in design reviews for layout check, Co-ordinated with suppliers for manufacturability. Update the 3D solid geometry per the styling inputs, supplier manufacturing requirements. Created red pen drawings for preliminary costing.
+Create the release documents worksheets, provide the details of design changes from previous releases, circulate & follow up for group review & release of the testing /production drawings.
+Project –Exhaust system - Worked on heat baffle plate, Silencer – upper & lower shell, separators, brackets, stay, chambers and perforated pipes, finisher inner & body.
+Created unique bracket used to mount Exhaust system to chassis and the racket can be used in many locations & other programs, resulting to dollar savings.
+Worked on heat baffle bracket for actuator assembly, co-ordinated with electrical system group for wire mount & heat protection requirements.
+Created Exhaust system air model for acoustic analysis & flow analysis.
+Worked with supplier across the globe to identify manufacturing requirements & update the changes to the CAD.
+Project – brackets for sub frame assembly – worked on front side & centre brackets, rear attachment brackets, mount brackets etc, made from thick sheets stampings to attach the sub frame to the chassis.
+Involved in layout design to identify resuse of production brackets, resulting to dollar savings
+Worked with supplier across the globe to identify manufacturing requirements & update the changes to the CAD.
+Created sub-assembly drawings for the subframes.
+Using Excel checklist, design manuals & CAD assembly - Validated 3D models & drawings, created large installation drawings with material type, processes, finishes & BOM for production.
+Performed layout check - Validate the components with vehicle environment such as floor pan, frame, propeller shaft, fuel tank, suspension etc
+
+2.Aug 2013 – Dec 2017: INFOSYS Engineering services (Bangalore, India) for the client - SPIRIT AeroSystems – Design & quality team.
+Role– Engineering lead. Create build-to work package. Supported the client in a concurrent environment of CAD tools to gather requirements, investigate the feasibilities to create detailed designs, review & release of the deliverables.
+Create 3D solid models & drawings of sheet metal brake press & 3-5 axis machined components per the loft & reference parts. Using Enovia & PDM - Define the configurations & effectivity of the part for product life cycle. Create production drawings for detail parts, assemblies & installations.
+Project - ABB – Electromechanical casing design for 1MVA transformer
+Team member. Involved in creating the controller box assembly made from Sheet metal stampings
+Create 3D solid models and 2D drawings using Catia V5 like enclosure, upper body, side cover, Mount bracket. shelf brackets, baffle plate for PCB mount, Key bracket etc. Added features like lance & louver for air flow cooling the PCBs, Coin/emboss features for stiffness & fastening the case to main body, Hem for secondary part assembly, beads & gussets for stiffness of planar areas, stamps for placing smaller parts of PCB assembly etc.
+Concept to detailed design ownership, Performed trade study for manufacturing costs in monolithic v/s subassembly designs. Co-ordinated with stress team for thermal analysis requirements, updated the changes to CAD. Co-ordinated with suppliers for manufacturability.
+Created installation drawings, specifications for manufacturing & assembly, BOM in Windchill PDM, and release of the package.
+Project - Should Costing for sheet metal & machined components - using SEER-Mfg, manuals & clean sheets, estimated the optimal manufacturing cost of the components and assemblies based on material used, manufacturing methods, process time & costs, labor time & rates etc.
+Involved in requirements gathering, participated in brainstorming sessions to create guidelines & clean sheet spreadsheet for arriving labor time for various manufacturing process.
+Ownership of deliverables from simple to very complex parts (>500). This data is used by SCM for trade study & negotiate with the suppliers.
+Project - Pressure valves for Oil & Gas – Convert legacy pressure valves drawings in images format to Solid works 3D and 2D. Worked on Globe, Check and Miniature Values. Create 3D models with Core & Cavity modeling procedures, 2D drawings updated for latest standards, create assembly drawings with Open/Shut configurations etc. Worked on valve parts like - casting Body, Bonnet, Handles, disc, stem etc
+
+3.April 2008 – July 2013: TEXTRON (Bangalore, India) for the business unit - CESSNA Aircraft - Advanced design team.
+Role – Sr. Design Engineer. Supported the NPD team to work on design of structural components, participate in preliminary design reviews, gather requirements, investigate the feasibilities to create concept – layout to detailed designs.
+Identify product improvement areas for weight reduction, trade study for cost & manufacturability.
+Using CATIA V5/V6 & Enovia - Created 3D solid models & drawings of sheet metal brake press & 3-5 axis machined components. Build the product structure & define the configurations & effectivity of the part for product life cycle.
+Work with Shop supervision team to understand the assembly sequence, & created the assembly drawings to match shop floor requirements. Created substitution forms for part obsolete & alternates.
+Project - Product design & improvements. Using CATIA, fatigue sizing inputs & design manuals, created concepts design, review the layout with chief engineers & system groups. Work with manufacturing & methods team for manufacturing feasibilities, cost & weight changes.
+Proposed alternative methods for better material utilization and reduce machining cost, design of monolithic structures, perform trade studies etc, ensuring equivalent form- fit -function.
+Worked on pressure Bulkheads, Cabin Door structure, Monolithic speed Brakes, Bulkheads, frames, Spar Web, Cowl Door etc. Created unique cross section of Ti Cap for Stringer repairs that can be used in many locations resulting to dollar savings & turn around time.
+Project - Sustaining Engineering – Provide disposition to engineering deviations (QN, CR & Core team items), prepare MOD drawings & BOM. Worked on design changes on wing L.E Assembly, Monolithic NLG Barrel, Ballast Box Install, Water Barrier Install, Baggage Nose Diverter install, Battery structure. Convert CATIA V4 to V5 parametric 3D models of BHD, Longeron, intercostal, fittings.
+Project - Knowledge Management – Using CATIA V6, created catalog of standard parts with various configurations with the help of if/else formulas, Power copy & design table. Prepared BOKs.
+
+4.Aug 2006 – March 2008: Aircraft Design and Engineering services (Bangalore, India) for the client - National Aerospace Lab – Tool design team.
+Role – Design Engineer. Supported the SARAS Proto-2 aircraft design team to build the jig structure for assembling components like skin, frames, spar, ribs, brackets, systems etc.
+Project - Design of Assembly jigs. Involved in creating concepts & detailed design of assembly jigs for - Horizontal & Vertical tail assembly, Wing assembly, ICY media, Locators, templates, drill jig for pindle pin boring, datum pads, Weld-Strut assy etc. Created 3D & 2D for all above activities.
+Review the jig assembly procedures with design & shop assembly team for the ease of assembly. Create inspection sheets & assembly procedure documents.
+
+The information furnished above is true to my best knowledge & belief. Thank you.
+Rajesh, Bangalore Krishnappa
+October – 2019
+
+Contact this candidate

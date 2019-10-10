@@ -1,0 +1,202 @@
+
+Career IT Architect & Management Consultant
+Daniel Ratliff
+**** * ******** **
+Fort Worth TX 76137
+Home: 817-***-****
+Cell: 817-***-****
+Email: adahur@r.postjobfree.com
+Honorably Discharged E8 United States Marine Corp. EDUCATION:
+Bachelor’s Degree Computer Science & Engineering in Communication Auburn University
+USA Consulting (Overview) Jan/17 – March/19
+• Consulting Manager, Remediation’s, Architectural designs and Budgeting
+• Compliance Consultant including implementation of Security solutions
+• Staffing
+Catholic Health Initiatives (Contract) April/2016 – Dec/2016 Project Manager II, EPMO
+• Server and Application remediation at Saint Joseph’s Bryan Texas
+• Server and Application remediation at Saint Luke’s Huston Texas
+• Server and Application remediation at Memorial Saint Luke’s Lufkin Texas
+• Managed compliance with FedRAMP, HIPAA and SOX regulations.
+• Negotiated Hard ware & Software quoted prices for all three
+• Implementations in Lufkin Memorial consisted of, but not limited to the following
+• Managed installation of Extreme IO storage for virtualization of current and future Server needs.
+• Facilitated integration of existing McAfee Content Security Blade Server Console
+• Coordinated transfer of 12 TB of existing data to new EXIO
+• Coordinated VBLOCK acquisition and installation for Disaster Recovery.
+• Managed all vender relations and PO process and contracts Sparkle Dental (Contract) Mar/2015 – Feb/2016
+Senior Architect.
+• Design full upgrade from existing Citrix 4.5 environment to 7.5 VDI Solution.
+• Design from MPLS and Branch Repeaters through Check Point Firewall to Virtual Servers
+• Server builds were virtual with access globally (SaaS) per FedRAMP compliance requirements
+• Managed compliance with HIPAA and SOX regulations.
+• Hypervisors include both VM Ware and XenServer.
+• Performed project cost analysis and presentation.
+• Cost analysis and Budget Proposal
+• Conducted interviews with all contractors to staff project.
+• Conducted or Participated in daily status meetings.
+• Projected completion date October 1 2015
+• VDI Solution is now in production at all branches. Project complete 6 weeks early.
+• Currently consulting as needed.
+Neovia Logistics (Contract) Oct/2014 – Feb/2015
+Senior Disaster Recovery Architect.
+• Tasked with design and Documentation of DR procedure for Citrix Environment
+• Physical and Virtual NetScaler
+• XenServer XenApp- XenDesktop-VMWare
+Baylor Scott &White Health Services (Contract) Feb/2014 – Oct/2014 Senior Disaster Recovery Architect.
+• Tasked with design and Documentation of DR procedure for Citrix Environment
+• Physical and Virtual NetScaler
+• XenServer – XenApp- XenDesktop- VMWare
+• FedRAMP and HIPAA Compliance Consultant
+• Manage Vendor relationships as per contract agreement. (Replication Circuits and Hardware)
+• Required to deliver status reports on all aspects to all levels of management. Providence Health Services (Contract) Mar/2014 – Jun/2014 Senior Integration Architect.
+• Tasked with doing Root Cause Analysis of over 200 hours of downtime. (total for 2013)
+• Performed in-depth analysis of Complete Citrix Environment.
+• Epic, McKesson, Meditech, Cerner, AEHR each analyzed separately.
+• Root Cause led to in-depth interviews of Senior Management to prevent further outages.
+• Required changes made to correct mediated problems and long term strategy in place for prevention.
+San Juan Puerto Rico Municipal Hospitals (Contract) Dec/2013 – Feb/2014 Senior Architect. Reported to Director of Technology.
+• Ground up design (Network, Storage, VM Hardware) of HIPPA Compliant Citrix Solution.
+• Server builds were virtual with access globally (SaaS) following FedRAMP guidelines.
+• 5 Municipals Hospitals. (San Juan, Bayamon, Cayey, Yabucoa, Juncos)
+• McKesson, Meditech, Cerner, AEHR
+• Average 1000 concurrent users in 5 hospitals and 11 Clinics.
+• Design accepted, build underway.
+Catholic Health Initiatives (Contract) Oct/2012 – Nov/2013 Manager / Team Lead. 12 on shore 13 off shore Citrix Engineers. Reported to VP of Technology
+• 400 Citrix Servers in 8 Farm. All Citrix Platforms from Presentation Server 4.5 to XenApp 6.5
+• Server builds were virtual with access globally (SaaS)
+• Managed compliance with FedRAMP, HIPAA and SOX regulations.
+• Deployed Citrix Solution to acquired Hospitals in KY,TN,VA and Iowa.
+• McKesson Star, EPIC, Meditech, Cerner, AEHR, PPMS
+• Average 8000 concurrent users in 80 hospitals and 110 Clinics. Baptist Saint Antony’s Hospital Jul/2012 - Sep/2012
+• Remediation of 32 bit Presentation 4.5 Farms and hosted applications.
+• Update Farms to latest hotfix. Both Microsoft and Citrix
+• Delivered Migration plan to bring Environment up to Current Citrix Platforms. SWS Environmental Services Mar/2012 - Jun/2012
+• Upgrade existing XenServer to current release and patch.
+• Design and build complete new XenApp Farm including license server & web interface, XenApp 6.0
+• Existing XenApp 5 environment used for one off applications and incompatible 32 bit custom applications.
+• Standard office use applications and proprietary custom applications.
+• Deployed Published Applications & Desktop to branch offices.
+• MacAfee Server Suite deployed as AV
+• Support currently being provided as needed.
+TTI Inc Dec/2011 - Mar/2012
+• Provisioning server, license server & web interface, XenApp 6.5, XenDesktop 5.5, Edge Sight 5.4
+• Standard office use applications and proprietary custom applications.
+• Deployed Published Desktop to branch offices in Arlington, Houston & Boston MA
+• Support currently being provided as needed.
+Davidson County Community College (Contract) Davidson County NC Oct/2011 – Dec/2011
+• XenServer installation, provisioning server, license server & web interface, XenApp 6
+• Published requested custom Department of Education applications and MS Office 2010 Suite
+• Compliance Consultant
+• Support currently being provided as needed.
+USA Consulting Projects (Contract) Apr/2011 – Oct/2011 Louisiana Workforce Commission, Baton Rouge LA
+• XenServer installation, provisioning server, license server & web interface, XenApp 6
+• Published requested custom Government applications and Lotus Notes and MS Office 2010 Suite
+Colonial Savings Bank, Fort Worth TX
+• License server & web interface, XenApp 6
+• Compliance Consultant
+• Published requested custom Banking applications and MS Office 2010 Suite AMS Pictures, Plano TX
+• License server & web interface, XenApp 6
+• Published requested custom Video Production applications and MS Office 2010 Suite Holland Services, Fort Worth TX
+• XenServer installation, license server & web interface, XenApp 6
+• Published requested Oil and Gas applications and MS Office 2010 Suite Saint Bernard’s Medical Center, Jonesboro AR
+• License server & web interface, XenApp 6
+• Corrected Smart Card issue
+Hemphill County Hospital, Hemphill TX
+• Design Citrix XenApp Solution that includes RFID Proximity device for auto login. University Medical Center, Lubbock TX & Longview Diagnostic Center, Longview TX
+• Citrix Troubleshooting and Break/Fix Support
+Texas Health Resources Jan/2011 – Mar/2011
+Consultant-Citrix Engineer
+• December 11-12, 2010 four major components of infrastructure change were implemented concurrently.
+• Major version upgrade to Epic, Windows OS upgrade to Server 2008 R2, Citrix XenApp upgrade from 4.5 to 6.0, and the final step of migrating all users off full clients to Citrix was completed.
+• Work leading up to this occurred on a condensed timeline without a fallback plan in place.
+• Upgrade failed and a complete roll back to the Server 2003 and PS 4.5 had to be completed within 48 hours due to all hospitals being affected.
+• Hired to diagnose the issues that occurred and design a project plan to make all the needed upgrades in a timely manner with little to no end user disruption. Fletcher Allen Hospital (Contract) Apr/2010 – Jan/2011 Consultant-Citrix Engineer
+• Stabilized environment and assisted current staff in adding billing software in a 64 bit environment.
+• Diagnosed and resolved long standing printing and access issues in a data center used by the entire state.
+• Compliance Consultant
+• Performed all monthly updates to Citrix Services including but not limited to the OS and all applications such as EPIC and Meditech, as well as over 100 hosted applications, and Virtual Desktops.
+• Fletcher extended my contract until the end of the year even after issues were resolved. Freeman Company (Contract) Mar/2010 – Apr/2010
+Consultant-Citrix Engineer
+• Hired to fill in for and assist the full time Citrix Administrator in a mixed environment of Presentation Server 4.0 and 4.5 hosting custom applications as well as SAP and Microsoft standard applications.
+• Worked with Citrix Engineers from Florida on an ongoing printing issue.
+• Addressed and resolved over 150 trouble tickets there were in cue to 1 ticket upon completion of the assignment.
+MetLife (Contract) Aug/2009 – 10/2009
+Consultant-Citrix Engineer
+• Created virtual Desktop image for development teams, including over 200 applications and multiple database access points.
+• Debug of applications in XenDesktop and correct connection errors to Oracle as well as SQL databases in several locations. Imaged and tested by teams then rolled into production. Christus Health (Contract) Jan/2009 – Apr/2009
+Consultant-Citrix Engineer
+• Consolidated Citrix Farms from all over the Christus Health network Data Centers and relocated to San Antonio with a mixture of VM and conventional servers.
+• Compliance Consultant
+• Novell environment with over 1000 users, PS 4.5, Win 2003 Server
+• Healthcare Data Center allows for zero downtime and performance was of the upmost importance. All tasks were completed ahead of schedule. Aleris Corp. (Contract) Oct/2008 – Nov/2008
+Consultant
+• Added new ADP applications, move new users and provide documentation for help desk use.
+• Completed this project in only a few weeks as I have worked for this company before and built the existing environment. Project completed on time and under budget. Intrepid USA (Contract) Jun/2008 – Aug/2008
+Consultant-Senior Engineer
+• Troubleshoot existing PS 4.0 and 4.5 farm that serviced much of the United States.
+• Intrepid USA is a large insurance company so it was imperative that uptime and performance not be compromised.
+• Upon trouble shooting the farm, made recommendations to management that an upgrade of the Win 2000 Server OS as well as an upgrade from PS 4.0 to 4.5 was required to improve stability and performance. Additionally, upgrading DL 380 services would improve the end user experience.
+Aleris Corp (Contract) Jan/2008 – May/2008
+Consultant-Sr. Engineer
+• Designed and installed small Citrix Presentation Server 4.0 environment.
+• Entire farm was set up in a VM environment, Terminal Server used as a backup for some custom apps that did not like Citrix and RDP was used to manage servers remotely.
+• Completed 2 weeks ahead of schedule.
+DXP Corp (Contract) Sep/2007 – Jan/2008
+Consultant-Project Lead
+• Consolidated four existing Citrix Farms to one single Presentation Server 4.5 platform, including VM environment.
+• New farm consisted of IBM Blade Center with 28 servers and scaled to 2000 users and 110 published applications.
+• Terminal Server used with older applications, tested Windows 2008 and Hyper V and RDP was used to manage servers remotely.
+IBM/Capital One (Contract) Nov/2006 –Jun/2007
+Senior Engineer
+• Oversaw the stabilization and debug of 63 Citrix Presentation Servers.
+• Expanded farm to 100 Servers.
+• Citrix Presentation Server 4.0 on Windows Server 2003 and 2000 for legacy applications.
+• Compliance Consultant
+• Supported global connectivity for outsourced call centers and internal remote locations.
+• Trained outsourced System Administrators in India and on site Administrators to support Citrix Environment and RDP was used to manage servers remotely over VPN. Atos Origins (Contract) Jul/2006 – Sep/2006
+Senior System Engineer
+• Oversaw the design, build and implementation of a 25 server farm for Bansefi Bank in Mexico over VPN.
+• Standard build including domain controllers, zone data collectors, and file servers.
+• Citrix Presentation Server 4.0 with 17 application server load balanced.
+• Once completed, asked to take over a project of migrating Republic Insurance group from Citrix XPE on Windows 2000 Server to Citrix Presentation Server on Windows Server 2003.
+• Migration contained over 90 applications and RDP was used to manage servers remotely. IBM/Sprint (Contract) Oct/2004 – May/2006
+Release Manager
+• Release Manager for Quality Assurance solution for Sprint/Nextel via IBM consultation.
+• Led a staff of 10 Engineers and SMEs responsible for deploying solution to call centers in Canada, United States and Philippines (Convergys,TP USA, Accent, Sprint) over VPN.
+• Solution was deployed via a virtual ACD and Citrix to the desktop with soft phones used by agents. (eTalk Qfiniti and Witness) RDP was used to manage servers remotely. Schlumberger Corp (Contract) Jul/2004 – Oct/2004
+Consultant
+• Stabilized Citrix and Sametime environment for large oil company in Sugar Land Texas
+• Over 8000 total users, Terminal Server used for some apps. Sparkle Dental Oct/2003 – Jun/2004
+Independent System Administration Consulting
+• Setup LAN and WAN connection between two offices in the DFW area.
+• Designed and built Citrix MetaFrame server farm to enable remote secure connections.
+• Eliminated the need for duplicate file and print servers in both locations. As well as access from home for dentists.
+B&H Remodeling
+• Designed and built WAN and LAN for new office in Fort Worth.
+• This included the building of file and print servers and all PCs.
+• Citrix XP server was used to provide secure remote access for all of upper management. eTalk Corporation (Contract) Mar/2002 – Sep/2003
+Field Engineer
+• Worked at length with eTalk developers to integrate eTalk’s software into a Citrix environment.
+• Upon completion of development, extensive testing was done on many platforms.
+• Installation into UNIX and Windows environments at customer sites in the US as well as other countries.
+Bell Helicopter Textron (Contract) Apr/2001 – Nov/2001 Sr. Network Engineer
+Bell Helicopter is a customer of IBM and after the completion of my project in Austin I was asked to work with the IT department they had in place at Bell, to Engineer a remote access solution for Bell Helicopter’s Customers all over the world.
+• Citrix MetaFrame over Frame Relay using 128 bit encryption.
+• Designed and built a small farm of 5 MetaFrame Servers for Bell’s Engineering Department.
+• Engineering was HPUX or AIX and required a PC as well as a UNIX machine on each desk or share with a co-worker in order to get e mail.
+• Using Citrix we were able to put a Windows desktop via MetaFrame on each user’s UNIX Machine. Terminal Server used for some apps.
+IBM Global Services South Nov/1999 – Mar/2001
+Sr. Network Engineer (contract)
+• Engineered, constructed and implemented a Citrix MetaFrame solution for IBM’s call centers in Dallas TX, Atlanta, GA and Montreal, Canada over VPN.
+• The challenge was to obtain as near 100% uptime as possible. Accomplished with the use of all IBM servers and Citrix MetaFrame Load Balancing and hardware RAID 5 controllers with hot swappable everything. Terminal Server used for some apps.
+• My team received awards for completing the project on time and under budget. RDP was used to manage servers remotely.
+Qwest Communications International (Contract) Nov/1998 – Oct/1999 Sr. Network Engineer
+• Lead over relocation of Data Center from Denver CO to Columbus OH and installation and roll out of 250 WTS/Citrix MetaFrame Servers over VPN.
+• Configured load balancing and proprietary Novell application integration into a WTS/Citrix environment.
+• Set matrix in place to roll out the Citrix Client to over 8000 remote nodes nationwide. WTS/Citrix Server was also used as a fast and secure way of connecting new business partners to local databases. RDP was used to manage servers remotely. EDS at Genicom Corporation (Contract) Mar/1997 – Jul/1998 Sr. Network Engineer
+• Network Support (After normal business hours) – Primary Administrator Citrix
+• Servers – Primary Administrator WAN – Primary Administrator CD Server – Primary Administrator LAN Infrastructure – Primary Administrator Legacy Communications & WAN EDS at Signet Bank Data Center (Contract) Oct/1995 – Feb/1997 Sr. Network Engineer
+• LAN Infrastructure Engineer – LAN Management - WAN Engineer – WAN Management EDS at McGuire Veterans Hospital (Contract) Sep/1993 – Sep/1995 Network Engineer
+• Engineering of Voice and Data installation for over 6,000 nodes in a single location.
+
+Contact this candidate

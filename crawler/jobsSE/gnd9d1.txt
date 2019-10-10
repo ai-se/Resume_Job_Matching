@@ -1,3 +1,4 @@
+Job Title = Technical Support Engineer
 
 About RedRock Software: RedRock Software is headquartered in Las Vegas, NV.
 The system was created by hospitality technology experts providing a modern and integrated supply chain management (SCM) software system.

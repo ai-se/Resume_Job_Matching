@@ -1,0 +1,95 @@
+Job Title = Engineer
+
+Business Group Highlights
+Civilian, State and Local
+Perspecta's Civilian, State and Local segment partners with the U.S. Federal Civilian State and Local governments to provide infrastructure services, business solutions, and digital transformation services that help them achieve policy objectives and integrate citizen-centric services.
+
+Responsibilities
+Every day at Perspecta, we enable hundreds of thousands of people to take on our nation's most important work. We're a company founded on a diverse set of capabilities and skills, bound together by a single promise: we never stop solving our nation's most complex challenges. Our team of engineers, analysts, developers, investigators, integrators and architects work tirelessly to create innovative solutions. We continually push ourselves to respond, to adapt, to go further. To look ahead to the changing landscape and develop new and innovative ways to serve our customers.
+Perspecta works with U.S. government customers in defense, intelligence, civilian, health care, and state and local markets. Our high-caliber employees are rewarded in many ways not only through competitive salaries and benefits packages, but the opportunity to create a meaningful impact in jobs and on projects that matter.
+Perspecta's talented and robust workforce 14,000 strong stands ready to welcome you to the team. Let's make an impact together.
+Perspecta has an immediate/upcoming need for an 0365 Engineer inWashington, DC.
+Perspecta is currently conducting interviews to make contingent offers for an exciting potential new customer, the Department of Labor (DOL). Candidates with a current Public Trust clearance, and all other qualified personnel are encouraged to apply for immediate consideration. The customer states that employees working under this task order shall be United States Citizens or legal permanent residents (i.e.: "Those authorized to work in the United States without sponsorship are encouraged to apply.s").
+Under general direction, conceptualizes, designs, constructs, tests, and implements portions of business and technical information technology solutions through application of appropriate software development life cycle methodology. Interacts with the customer to gain an understanding of the business environment, technical context and organizational strategic direction. Defines scope, plans and deliverables for assigned projects. Collects, identifies, defines, and organizes detailed user and information technology requirements. Coordinates and collaborates with others in analyzing collected requirements to ensure plans and identified solutions meet customer needs and expectations. Confirms and prioritizes project plans and deliverables with the customer. Participates in business and technical information technology solution implementations, upgrades, enhancements, and conversions. Understands and uses appropriate tools to analyze, identify and resolve business and/or technical problems. Applies metrics to monitor performance and measure key project criteria. Prepares system documentation. Establishes and maintains security, integrity and business continuity controls and documents. Participates in special studies. Stays current on emerging tools, techniques, and technologies.
+
+Qualifications
+Education and Experience Required:
+Bachelor's Degree and 2 years relevant experience OR Associate's Degree and 4 years relevant experience or 6 years relevant experience.
+
+Knowledge and Skills Required:
+
+Experience with Enterprise Messaging Systems (EMS) including providing support to end users, troubleshooting messaging issues.
+
+Able to work to ensure 99% uptime, assist with management of email flow including anti-spam efforts.
+
+Experience supporting and managing individual and shared email mailboxes including user permissions and group distribution lists.
+
+Experience supporting management of email security appliances, filtering, Anti-Virus Protection, and email policy enforcement, remote user access using handheld smartphone devices.
+
+Able to assist with management of infrastructure components of the cloud solution regarding EMS.
+
+Able to provide assistance 24x7x365 monitoring, maintenance restoration support, and eDiscovery, as required; Suppor the Service desk support (Tier 1/2/3/4).
+
+Provides support to the other O365 Engineers and Manager.
+
+An Active Public Trust or the ability to obtain a clearance.
+
+Experience includes but not limited to, the following:
+
+Management of email flow, including anti-spam efforts.
+
+Management of individual and shared email mailboxes including user permissions and group distribution lists.
+
+Management of email security appliances, filtering, Anti-Virus Protection, and email policy enforcement.
+
+Troubleshooting mailbox issues.
+
+Email security, including anti-virus scans for messages.
+
+Remote user access using handheld smartphone devices.
+
+Management of infrastructure components of the cloud solution.
+
+24x7x365 monitoring, maintenance restoration support, and eDiscovery, as required.
+
+Service desk support (Tier 2/3/4)
+
+DOL OCIO operates a consolidated Tier 1 help desk with which the IT Operations candidate would need to interface and coordinate.
+
+Operational Support for Cloud Mailbox Services.
+
+Preferred Qualifications:
+
+AWS cloud certification preferred
+
+Azure cloud certification preferred
+
+Microsoft Certified System Engineer (MCSE) a plus
+
+Microsoft Certified Solutions Associate (MCSA) a plus
+
+ITIL v3 foundation a plus
+
+Bachelor's Degree in Computer Science, Engineering, Information Systems or a related field
+
+About Perspecta
+What matters to our nation, is what matters to us. At Perspecta, everything we do, from conducting innovative research to cultivating strong relationships, supports one imperative: ensuring that your work succeeds.
+Our company was formed to bring a broad array of capabilities to all parts of the public sector-from investigative services and IT strategy to systems work and next-generation engineering.
+Our promise is simple: never stop solving our nation's most complex challenges. And with a workforce of approximately 14,000, more than 48 percent of which is cleared, we have been trusted to just that, as a partner of choice across the entire sector.
+Perspecta is an AA/EEO Employer - Minorities/Women/Veterans/Disabled and other protected categories.
+
+Options
+Apply for this job onlineApply
+Share
+Email this job to a friendRefer
+Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.
+Share on your newsfeed
+As a government contractor, Perspecta abides by the following provision
+PAY TRANSPARENCY NONDISCRIMINATION PROVISION
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information. 41 CFR 60-1.35(c) - provided by Dice
+
+Full Time
+
+
+Go to apply 
+

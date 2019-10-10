@@ -1,36 +1,51 @@
+Job Title = Embedded Or Engineer Or Test Or West jobs in Raleigh, NC, 27606
 
-Description:
+Extron Electronics  – 
+Raleigh, NC, 27601
+EMBEDDED HARDWARE TEST ENGINEER Responsibilities include test and debug of embedded hardware for audio and video IP streaming and processing products. Includes developing test plans, setting up test scenarios and automated testing with scripting ...
+- Lensa, Oct 03
 
-Senior Engineer will be a technical hands-on professional experienced with embedded software management in the bio-pharmaceutical field
-The Senior Engineer will be proficient in computerized systems life cycle and design requirements and configuration. The senior engineer will participate in computer system activities including requirements, design, implementation and maintenance
-The Information System department leads the computerized systems lifecycle management and implementation
+Aerotek  – 
+Raleigh, NC, 27601
+... Responsibilities include creating formal test plans based on requirements and design specifications, developing automated test scripts, executing automated regression, and investigating & recording the results. This may include new test script ...
+- Jobg8, Oct 08
 
-Key responsibilities of the Senior Engineer include:
+Aerotek  – 
+Raleigh, NC, 27601
+... Responsibilities include creating formal test plans based on requirements and design specifications, developing automated test scripts, executing automated regression, and investigating & recording the results. This may include new test script ...
+- Jobg8, Oct 08
 
-Participate in defining design requirements
-Participate in network forums
-Configure, test, qualify and validate the systems
-Perform software test and software verification test and generate reports
-Perform software test tool requirement analysis, design, implementation and validation
-Work with tools for software configuration management, software build and software verification
-Follow a disciplined process and participate in technical reviews and ensure robust deliverables and documentation traceability
-Execute to project plans and schedules, providing high quality, on time, and on cost results
+Aerotek  – 
+Raleigh, NC, 27601
+... Responsibilities include creating formal test plans based on requirements and design specifications, developing automated test scripts, executing automated regression, and investigating & recording the results. This may include new test script ...
+- Jobg8, Sep 28
 
-BasicQualifications:
+Next Generation Technology, Inc.  – 
+Raleigh, NC, 27601
+... understanding of wireless protocols, LTE, 5G, UMTS, GSM Full stack development experiences with C/C++, embedded systems, APIs Development and test experiences involving Qualcomm technologies, tools (QXDM, QCAT) Familiarity with Agile development ...
+- Jobg8, Oct 02
 
-Doctorate Degree OR
-Master' s Degree and 3 years of Engineering or Computer Systems experience OR
-Bachelor' s Degree and 5 years of Engineering or Computer Systems experience OR
-Associate' s Degree and10 years of Engineering or Computer Systems experience
+aerotek  – 
+Raleigh, NC
+... Our company is assisting their team to find a strong embedded engineer that can help the R&D team grow and produce new ... record leading technical teams – required • Experience authoring and executing embedded firmware validation test protocols. ...
+- Adzuna, Oct 07
 
-Preferred Qualifications:
+Aerotek  – 
+Raleigh, NC, 27601
+... Our company is assisting their team to find a strong embedded engineer that can help the R&D team grow and produce new ... record leading technical teams - required • Experience authoring and executing embedded firmware validation test protocols. ...
+- Jobg8, Oct 08
 
-5+ years of experience in regulated environment and computerized systems management
-Computer Systems lifecycle management experience
-Experience with formal testing and generating test protocol & reports
-Strong problem solving, risk assessment, and risk management skills
-Computer Systems Data integrity knowledge
+Aerotek  – 
+Raleigh, NC, 27603
+• Minimum (5) years experience in system test, specifically within an R&D Environment • Minimum (5) years experience performing testing of products and systems comprised of hardware, firmware and software • Minimum (3) years of solid experience with ...
+- Jobg8, Oct 02
 
+aerotek  – 
+Raleigh, NC
+Seeking both Mid-level and Senior level Embedded Software Engineers. We currently have an opening for a team developing ... Unit test software components to ensure module-level functionality and data structure consistency. Participates in design ...
+- Adzuna, Oct 07
 
-Go to apply 
-
+Aerotek  – 
+Raleigh, NC, 27601
+Seeking both Mid-level and Senior level Embedded Software Engineers. We currently have an opening for a team developing ... Unit test software components to ensure module-level functionality and data structure consistency. Participates in design ...
+- Jobg8, Oct 08

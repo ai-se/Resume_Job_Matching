@@ -1,8 +1,51 @@
+Job Title = Os Or Forensic Or C++ Or Unix jobs in Raleigh, NC, 27606
 
-Must have a passion for delivering products that make a difference! Work in a product and research oriented environment where Developers are dedicated to solving customer problems. The primary responsibility of the Senior Developer is to provide technical expertise and leadership in the design, development and delivery of our next generation computer forensic and enterprise security software. The ideal candidate for this position will have a passion for technology and a strong interest with algorithms and solving complex problems. You are great at:
-•Provide technical expertise and leadership in the design, development and delivery of enterprise security and forensic software, while adhering to strict timelines, coding guidelines, deliverables, and quality•Responsible for developing, testing and maintaining applications in accordance with specifications•Participate in product-related projects, as well as projects to improve processing and automation•Provide non-obvious solutions by researching problems while owning complex areas of the product, that require your ability to dive deep into the code
-ESSENTIAL REQUIREMENTS:Minimum 5 years of C++ developmentSolid foundation in Windows OS architectureExperience with low level driver developmentDemonstrated experience in developing multithreaded applicationsExperience with performance and scalability engineeringAbility to analyze and solve complex problems, to provide guidance and instruction to othersAbility to work independently to accomplish long-term, complex objectivesAbility to work in a fast-paced environmentA passion for clean, extensible and maintainable design and architectureBachelor degree or higher in Computer Science or related field DESIRED SKILLS: Experience with non-Windows OS’s (UNIX, etc…)Experience with file-system designExperience with encryption standardsExperience with researching proprietary and open formats, towards the goal of discovering new digital artifacts
+State Employees' Credit Union  – 
+Raleigh, NC, 27603
+... OS operating systems, SMP/E, JCL, TSO, VSAM data structures, preferably in a GDPS Sysplex environment. Knowledge of ICSF, RACF, Web Services would be beneficial Preference will be given to those who also have familiarity with CICS, COBOL, SA and UNIX ...
+- Dice, Sep 20
 
+Magna Systems International  – 
+Raleigh, NC, 27601
+... GIAC Certified Forensic Analyst (GCFA); GIAC Certified Forensic Examiner (GCFE); Encase Certified Examiner (EnCE) Advanced working knowledge of forensic tools analyzing audit logs Experience with UNIX, Linux, Mac, and Windows systems, and an admin ...
+- Jobs2Careers, Oct 03
 
-Go to apply 
+Sirius Computer Solutions  – 
+Raleigh, NC, 27608
+... Demonstrated skills in the majority of the following o WLM o z/OS Assembler language programming o SYSPLEX Operations o Coupling Facility Management o TSO/ISPF o UNIX Systems Services o z/OS o REXX/CLIST o JCL o ISV product installations, upgrades ...
+- Nexxt, Sep 17
 
+Blackberry Limited  – 
+Cary, NC, 27518
+... who are industry experts on embedded systems and implementations SKILLS AND QUALIFICATIONS * Familiarity with QNX, Linux or other UNIX-like operating systems * Programming experience in C * Python scripting experience * Excellent communication and ...
+- StartwireL2, Oct 07
+
+A&H Forensic Roofing  – 
+Durham, NC, 27701
+OBJECTIVE/MISSION: A&H Forensic Roofing is fully committed to establishing healthy relationships with not just our customers, but also the wider community, who are in need of roofing services built on honesty. Our pride on total perfection is a ...
+- Jobs2Careers, Oct 08
+
+CyberCoders  – 
+Raleigh, NC
+... with: - Strong background with open-source languages (we use Java, JavaScript, Golang, and C++, but we're open to hear from other stacks) - Building software in Linux/Unix environments - Previous experience leading development teams - Bachelor's of ...
+- CyberCoders, Sep 25
+
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+Unix Systems Administrator (JobID 572210) Wake Forest Rd, Raleigh, NC, USA Contract Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with more than 18 years experience providing effective, expert-level ...
+- Lensa, Oct 07
+
+General Dynamics Information Technology, Inc.,  – 
+Durham, NC
+Senior Unix Administrator The Task 5: Server Services group provides infrastructure support of EPA Windows, Unix, and VMware information systems on hardware located primarily in Durham, NC, and Washington, D.C., with satellite data centers in Denver ...
+- Neuvoo, Sep 30
+
+HCL Global Systems  – 
+Durham, NC, 27701
+... Position: DB2 DBA (z/OS) Location: Durham, NC Duration: Long Term Contract This role will be responsible for moving data from their mainframe systems to an Oracle database via CDC as well as replicating it using Q Replication Required Qualifications ...
+- Dice, Sep 16
+
+NetApp  – 
+Durham, NC, 27709
+Job Summary As a Unix DevOps Engineer, you will work as part of a team of highly technical professionals who design, deliver and support NetApp's Unix/Linux environment. You will utilize your technical background and related experience to help ...
+- Jobs2Careers, Oct 06

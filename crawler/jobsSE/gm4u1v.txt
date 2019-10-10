@@ -1,7 +1,51 @@
+Job Title = Desktop Or Telecom Or Mac Or Os jobs in Raleigh, NC, 27606
 
-Endpoint Engineer I - Intelliswift Software IncThe Team: Deployments primary task is to handle the hardware lifecycle for equipment deployed to Client colleagues within all USA/Canada locations. The support of hardware lifecycle includes: ? Procuring hardware for on-hand inventory ? Receive new and used hardware and ensure proper asset tracking ? Prepare and image computers and deploy as needed ? Support hardware deployment projects ? Support getting hardware repaired or RMA as needed ? Collect hardware as needed ? Prepare the disposal of equipment at end of life for the hardware The Deployment Technician: As the Deployment Technician, you will be helping with the asset lifecycle management of corporate computer assets such as laptops, desktops, workstations, servers, monitors and computer accessories. Some of the tasks you will perform include but not limited to: ? Shipping/receiving of computer assets ? Installing a corporate computer image on machines prior to deployment ? Delivering hardware to colleagues as requested ? Review, diagnostics, and cleanup of uses hardware ? Reclaiming hardware ? Disposal of hardware Who are we looking for? ? Support the asset management lifecycle of corporate hardware throughout the organization. ? Performs inventory control such as monthly and quarterly counts and quality audits to validate data integrity and resolve discrepancies. ? Restocking of all computer accessory vending machines and other deployment cabinets around campus. ? Manage your ticket queue ? Unloading and delivering computer shipment to Deployment, Oasis rooms or Client colleagues. ? Assist with New Hire desktop setups and deployment for North America. ? Image new and used systems (laptop and desktop) as requested. ? Identify and implement improvements to the existing lifecycle management process. ? Provide ongoing operational support including operating systems releases, upgrades, service pack installations, bug fixes, security updates, and any system change activities. ? Serve as Tier 1 support to the Endpoint Services to resolve desktop system issues as reported by the end-users. ? Ensure adequate customer follow up communications and timely issue status updates to customer and IT management. ? Update the asset database in a timely manner to ensure data integrity. ? Ensures cleanliness of all on-site deployment and storage areas. Work Experience Requirements: ? Minimum of 2 years with experience working in a warehouse or logistics (receiving, asset lifecycle management) logistics certifications or education in lieu of experience. ? IT experience. Minimum 1 years' experiences supporting Microsoft systems (Win 7 ? Win 10), and Mac OS X. ? Some knowledge of computer hardware, software installation preferred. ? Understand of network implementation and maintenance, in coordination with Corporate IT (e.g. routers, switches, wireless). ? You should have experience with following departmental policies and procedures. ? To be successful you should understand typical desktop applications, (i.e., MS Office, virus scan, etc.). ? Must have some knowledge of desktop architecture build methodologies. ? Must understand other IT disciplines, (i.e., Telecom, Networking, Messaging, Server operations, etc.) ? Proven Customer Service skills. ? Exceptional written and oral communication. Experience with Client desktop products (Fusion, Player, Workstation, etc.) would be a distinct advantage.
-by Jobble
+Noralogic  – 
+Durham, NC
+Desktop support Engineer who has minimum 4-5 years supporting and troubleshooting MAC systems, MAC OS followed by general office infrastructure support(Some windows support, network support, new-hire setup, phone/VOIP support, setting up conference ...
+- Neuvoo, Oct 07
 
+Spectraforce Technologies  – 
+Raleigh, NC
+... 5-10 years): PC/Mac Technical Support Experience; Knowledge of Windows 10 (1903) OS, Apple MacOS 10.14 (Mojave), Microsoft ... Knowledge of Server 2012 r2, Active Directory, Print Server, Group Permissions, Remote Desktop Protocol and Certificates. ...
+- Neuvoo, Oct 02
 
-Go to apply 
+apninccom  – 
+Durham, NC, 27703
+... and special events (if needed)Requirements 3+ years of experience providing hardware and software support for desktop/laptop on MAC/Windows OS Support for mobile devices (iOS, Android, and Windows) Solid understanding of basic networking and active ...
+- Lensa, Sep 13
 
+Kforce Technology Staffing  – 
+Durham, NC, 27701
+RESPONSIBILITIES: Kforce has a client that is seeking a Desktop Support Technician in Durham, North Carolina (NC). Duties ... needed REQUIREMENTS: * Service now experience * Experience with Apple OS devices *Ability to support includes specification, ...
+- Dice.com, Oct 08
+
+Kforce, Inc.  – 
+Durham, NC
+Kforce has a client that is seeking a Desktop Support Technician in Durham, North Carolina (NC).Duties include: Accurately ... activities as needed Service now experience Experience with Apple OS devices Ability to support includes specification, ...
+- Neuvoo, Oct 09
+
+acifedcom  – 
+Raleigh, NC, 27601
+Description:Desktop Computing PMSearching for a resources to provide Program Management expertise to support the US Postal Enterprise Access Infrastructure organization (Telecom Services, Desktop Computing, Mobile Computing, Data Transfer Services, ...
+- Lensa, Oct 07
+
+A3 Staffing Solutions  – 
+Durham, NC
+... Desktop Technician II: Position Requirements: • Strong Customer Service Skills and are approachable, a good listener, takes ownership of their issue and empathetic • Candidates must be A+ Certified to be considered. • Experience with Apple / MAC ...
+- ZipRecruiter, Oct 08
+
+Spectraforce Technologies  – 
+Raleigh, NC
+6 years minimum of experience in deskside/desktop break/fix support.Previous experience in tech bar/walk-up service a PLUS. ... Must be able to think on their feet, and have the ability to fix a variety of Windows OS issues, Outlook email and calendar ...
+- Neuvoo, Sep 26
+
+Kforce Technology Staffing  – 
+Durham, NC, 27701
+RESPONSIBILITIES: Kforce has a client that is seeking a Desktop Support Technician in Durham, North Carolina (NC). Duties ... needed REQUIREMENTS: * Service now experience * Experience with Apple OS devices *Ability to support includes specification, ...
+- Dice, Oct 08
+
+Empire Telecom  – 
+Apex, NC, 27502
+This position will ensure self-perform and subcontractors are complying with internal, client and OSHA safety standards. This position assists in coordinating safety training programs and objectives. Primary Responsibilities: Conduct daily walk...
+- Jobs2Careers, Oct 08

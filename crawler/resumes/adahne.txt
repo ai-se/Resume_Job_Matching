@@ -1,0 +1,64 @@
+
+CURRICULUM VITAE - INSTRUMENT ENGINEER
+CV of Mehdi Askarian (Updated on 08th June 2019) Page 1 of 3
+Name : Mehdi Askarain
+Marital Status : Married
+Date of Birth : 16-Sep-1978
+Place of Birth : Shiraz - Iran
+Nationality : Iranian
+Present Location : Iran
+Mobile Phone: +989*********
+Office Tel: +987*********
+E-Mail: adahne@r.postjobfree.com
+Company Email: adahne@r.postjobfree.com
+Objective:
+To be part of a professionally managed company for a challenging career with opportunity to contribute towards the growth of organisations and personal development. Education: 2012-2015, Master of Science (MSc.) in Electronic Engineering from Kerman Azad University of Kerman, Iran
+Thesis: "Localization of smart instruments for process control of oil & gas industry", Supervisor: Dr Mehran Abdali, 2015.
+Summary of
+Experiences:
+My career has been built upon a17-year experience in offshore and onshore oil & gas facilities and petrochemical plants. The primary role has been instrument and F&G engineering: mainly detailed engineering, application engineering, construction, inspection, commissioning and star up and maintenance until handing over the plant as EPCI project. Furthermore, my secondary role in telecommunication has been expanded along with my career. There have been assignments in some international and overseas EPCI projects with different aspects of approach and results. Skills: In conclusion, Basic Design, FEED, Detailed Design, Technical Bid Evaluation, Construction, Mechanical Completion, Pre-Commissioning, Commissioning, Start Up, and Operation of offshore/onshore Oil & Gas projects with respect to hazardous area classifications are my areas of expertise.
+My career has been specialized in instrumentation and automation including developing P&ID, DCS, ESD, F&G, field instrumentation, fiscal metering units and regulation for classified areas such as Zone 1 and Zone 2. Moreover, it has been developed in telecommunication containing PAGA, Positioning System & Access Control System, SDH/PDH, Fiber Optic transmission, VHF Radio (Marine & Air band), UHF Radio.
+Well versed with International codes and standards such as ABS, API, ANSI, ASME, BS, DNV, GL, IEC, IEEE, ISA, ISO, ITU, NACE, NEC, NFPA, Norsok and TIA. Management of a group of engineers, draftsmen and technicians. Experiences: Pars Oil and Gas Company / Blocks 20& 21 - lead instrument, control and telecom engineer Nov 2011-Present Location: Assaluyeh/Iran
+Pars Oil and Gas Company (POGC) was established in 1998. POGC is responsible for developing of South Pars field in 28 phases. http://www.pogc.ir/. The project for development of these phases
+(20&21) in the form of EPC (Engineering, Procurement, & Construction).Daily Production of 50 MMSCM/d treated gas for domestic consumption. Annual Recovery of 1,000,000 tons of ethane, as feedstock for petrochemical industries. Annual Recovery of 1.05 million tons of premium grade LPG for export. Daily production of 75,000 barrels of stabilized and de-sulfurized condensates for export; and daily Recovery of 400 tons sulfur for export.
+Responsible for engineering and design during FEED, detailed design, developing P&ID, HAZOP, HAZID, SIL, FAT and responding to technical queries. The tasks are included field instrumentation, control systems, gas & condensate fiscal metering units and telecommunication systems such as LAN, SDH, AISS, PABX, UHF, VHF, CCTV, Access Control and Public Address General Alarm (PAGA) systems. For revolution in the industry along with assessing vendors’ documents during bid evaluation for telecommunication systems.
+Pars Oil and Gas company/ 1000 MW Power Plant- senior instrument engineer
+Feb. 2009 until Oct 2011 Location: Iran
+Responsible for instrument discipline in pre-commissioning, commissioning and start-up of 1000 MW X 132 KV Central Power Plant by 6 X 157 MW gas turbines. Provide continuous guidance to the contractor on Instrument requirements and ensure compliance during all Pre-commissioning and commissioning activities. Review and validate work break down to system and sub-system, mark-up drawings, commissioning procedures, commissioning plan, manpower, tools, and documents. CURRICULUM VITAE - INSTRUMENT ENGINEER
+CV of Mehdi Askarian (Updated on 08th June 2019) Page 2 of 3 Pars Oil and Gas Company / Blocks 6,7and 8 (Statoil Hydro + IKM) – Company Representative Mar. 2008 until Nov. 2009 Location: Iran
+Assigned to US$6 billion South Pars gas field development project, Phase 6, 7& 8 (EPCI – 3) consists of three offshore platforms and 100+92+85 Km sub-sea pipeline. Responsible for the resolution of instrumentation engineering and fabrication and preparation site instruction and responding to technical query and supervision of mechanical completion, offshore hook up completion, pre- commissioning, and commissioning of gas processing wellhead platforms SPD-7, SPD-8 and SPD-9. All platforms have been connected via fiber optic links through South Pars integration fiber optic network (SPIFON-II).
+Company representative for commissioning of 3 offshore sour gas production platforms with total production of 3600 MMSCFD of gas and 120000 Bbl. /d of condensate. Supervision of the final phase of commissioning activities, leading to offshore platform ‘start up’ including operational test of all equipment and units, instruments function testing, loop testing, start-up and performance test.
+According to myself experience in South pars fields, we had team working by Statoil and IKM very closely.
+Achievements: familiarized with Norsok standards and experienced in SAP. Pars Oil and Gas Company / Blocks 4&5 (ENI) – Offshore Production supervisor Oct. 2004 until Feb. 2008 Location: Iran
+The development operation of the above mentioned phases was awarded to a consortium comprising of Eni of Italy (60%), Petronas of Malaysia (20%) and NIOC (20%) in July 2000. Responsible for offshore hook up completion, pre-commissioning, and commissioning of gas processing wellhead platforms SPD-5 and SPD-6 in South Pars. Review and comment key construction deliverables: strategy, engineering road map, sequence, manpower requirement, organization and mobilization plan Optimize construction activities. Participate in FAT’s and follow up clearance of subsequent FAT punch lists. Involving construction activities against the project schedule and keeping daily contact with the assigned Contractor CM to assess progress of the works. Responsible for Instrument maintenance of SPD5/6 platform with production of 1200 MMSCFD rich gas in SIMOPS operation.
+Pars Oil and Gas Company Blocks 4&5 (ENI) –Onshore Instrument engineer Oct. 2002 until Oct. 2004 Location: Iran
+Involved in loop check in onshore Gas facility.
+Per commissioning / commissioning for Units 100(SIL4), 103,110,106… Experience OPERCOM Methodology and ICAPS Software. Handling different type of DCS, ESD and F&G systems (Yokogawa, SIMENS, and HIMA) Pars Hassas Company / BIPC petrochemical –Instrument Technician Jul. 2001 until Oct. 2002 Location: Iran
+Involved in Electrical & instrument equipment installation: cable tray installation, cable laying, gland & termination, instrument calibration, instrument installation. Pre-commissioning of electrical and instruments of export loading arm jetty.
+Involved in technical office and specially permit system during operation (SIMOPS) for developing the system from pneumatic to DCS of 33 storage tanks project CURRICULUM VITAE - INSTRUMENT ENGINEER
+CV of Mehdi Askarian (Updated on 08th June 2019) Page 3 of 3 Computer:
+Good Command of Engineering Softwares, including SPI (INtools), Instrument Manager, CalcuLux, Siemens PLCs (S5, S7), special softwares such as SAP, Navisworks, Review Reality, AutoCAD, Matlab, and Microsoft Office
+Training:
+1. Maintenance and repair course (30 hours) in LMF company, Leobersdorfer, Austria - Dec. 2018 - Dec. 2022
+2. Basic safety training course-firefighting, HUT, H2S, first aid and sea survival in STC Kish, Iran - Sep.2006
+3. Power Transfer course (60 hours) in Iran Transfo Company, Zanjan, Iran, and Sep.2010. 4. Maintenance course (88 hours) in Iran MECO Company for Gas turbine protection and control system, karaj, Iran, Nov 2010.
+5. Operation course (96 hours) In Iran MECO Company for Gas turbine control system, karaj, Iran, July 2010.
+6. Operation course of Turbo gas Generator type TY 10546 (62 hours) in Iran MPNA Company, Karaj, Iran, July 2010.
+7. SCADA training course (16 hours) in Tehran, Iran Mar 2010. 8. Gas turbine V94.2 General training course (102 hours) in TUGA Company Karaj, Iran, Jun 2010. 9. Operation and maintenance for W 32 Wartsila Company, Assaluyeh, Iran, Oct 2010. 10. Training course for User EDMS (2 days) in Assaluyeh, Iran, Dec. 2010. 11. Mainta – Production course (2 days) in Assaluyeh, Iran, Dec .2010. Languages:
+English: Fluent in writing, speaking, reading and listening Persian: Mother tongue
+References:
+1. Mr. Sepahdare Abbaszadeh- Deputy of offshore production manager Company: POGC
+Email: adahne@r.postjobfree.com
+Mob: +989*********
+2. Mrs. Inger Lise Sandbeck- Sales and Business manager Company: Delta-p Pumpe og Kompressorsystemer as
+Email: adahne@r.postjobfree.com
+Tlf : +47 67806906 Mob: +47 91834235
+3. Mr. Frank Garden- Startup Manager
+Company: OICO
+Telephone: +98 (0-937-***-**** Email: adahne@r.postjobfree.com 4. Mr. Mehdi Negarstani – Principal process Engineer Company: PETRONAS
+E-mail: adahne@r.postjobfree.com
+Mob: 0060-1112245183
+Hobby:
+Reading books, swimming, mountain climbing, and runing.
+
+Contact this candidate

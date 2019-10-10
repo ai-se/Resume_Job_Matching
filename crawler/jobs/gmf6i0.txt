@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Responsibilities:
 Set up machines (minor adjustments/troubleshooting, calibration, cleaning etc.) to start a production cycle.

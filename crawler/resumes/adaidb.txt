@@ -1,0 +1,127 @@
+
+adaidb@r.postjobfree.com 813-***-****
+A Certified Scrum Master offering a proven record of success leading all phases of diverse
+technology projects and computer programming experience. Expert in agile and waterfall project
+management methodologies. Known for ability to produce high-quality deliverables that meet or
+exceed timeline and budgetary targets
+EXPERTISE
+Custom Software Development Cross-Functional Supervision
+Database Design (RDBMS) Team Building &amp; Mentoring
+Systems Engineering Client Relations &amp; Presentations
+System Migrations/Integrations Business &amp; IT Planning
+Requirements Analysis ROI Analysis
+Costing &amp; Budgeting Process Improvement and Reengineering
+Project Scheduling
+
+Technical Proficiencies
+Programming language VBA [Excel Macro, Excel functions, Access], Visual Basic, VB.Net,
+
+Robotic Process Automation
+
+Software Microsoft Office (Word, Excel, Outlook, PowerPoint, Project), SQL, and
+
+SharePoint, Visual Studio, Automation Anywhere, UI Path
+
+Tools VSTO, Visio
+Source Controls Perforce, SVN, Visual Source Safe, JIRA
+Professional Experience
+Axelon: Tampa US
+Citi - Financial Risk and Operations – Reengineering
+Application Programming Expert Jun 2015 – Sept 2017
+GBCS: Tampa US
+Citi - Financial Risk and Operations – Reengineering
+Application Programming Expert Sept 2014 – Dec 2014
+Accomplishment during tenure: -
+Performed the task of planning, conducting, and supervising assignments.
+Defined processes and tools best suited to each project. Moved between agile and waterfall
+approaches depending on project specifics and client goals, creating detailed project road
+maps, plans, schedules and work breakdown structures.
+Played a major role in designing, developing, and implementing solutions.
+Reengineered internal processes with leadership alignment, cross training new teams,
+creating process and technical documentation.
+Worked closely with operations teams to obtain requirement and project sign-off.
+
+Robotic Process Automation Analyst: Oct 2016 – Sept 2017
+Accomplishment during tenure: -
+Work with business stakeholders and Reengineering team to source potential projects for
+automation and understand the productivity impact of the automation and calculate financial
+impact and return on investment.
+Shadow current state process capture, recommend and implement process re-engineering to
+support automation, and Use Case creation.
+Review automation output, recommend optimizations and manage testing and sign-off of
+automated solutions with business stakeholders and the RPA developers.
+Knowledgeable and adheres to all information technology security protocols and procedures.
+Develop and document best practices for operating software robots.
+Enhanced technical knowledge through development with the Automation Anywhere tool.
+Results: Successfully managed relationships between various business partners to fully meet their
+business process and change management needs. This included ad hoc reporting, defining methods &amp;
+procedures and best practices. Provided post implementation results as required by reengineering team to
+save FTE cost and time reduction.
+
+ImageNet LLC: Tampa US
+Wellcare
+Application Developer April 2014 – June 2014
+Accomplishment during tenure: -
+Designing, coding and debugging application in Microsoft technologies [Access VBA, SQL].
+Software Analysis, code analysis, requirement analysis and software review.
+Responsible for loading, extracting and validation of client data.
+
+Tieto Technologies: Pune India
+Nordea Bank
+Project Manager: Mar 2011 - Feb 2013
+Accomplishment during tenure: -
+Weekly/ Monthly reports to Delivery manager, Onsite managers.
+Collaborated with onsite managers for project management activities, development team to
+identify and resolve issues, coordinate system requirements, and create project timelines.
+Influence team members to work on advance development skills.
+Mid-year and annual appraisals for team.
+Lead Software Engineer: Oct 2009 – Feb 2013
+Accomplishment during tenure: -
+Requirement Analysis for new implementation and Client Interaction for a front-end card
+generation system built in classic ASP and SQL.
+Designing, developing and implementing new functionality using classic ASP and SQL.
+Wrote validation test cases for the new software team and performed functional, regression,
+deployment, and integration testing.
+Was responsible to maintain Technical Documentation.
+Results: 100% project completion on time while meeting strict timelines and stakeholder requirements.
+Development of new processes and procedures to improve existing services, or to assist in deploying new
+support services.
+Was promoted to Team manager within 2 years of joining as a Team Lead position.
+
+Early Career
+Credit Pointe Technologies: Pune India
+BrightLeaf Law Firm Senior Software Developer Mar 2009 – Oct 2009
+Capgemini Pune India
+Morgan Stanley Senior Software Developer Mar 2007– Jan 2009
+Synechron Technologies Pune India
+Asurion Insurance Software Developer Jun 2006 – Mar 2007
+Aspect Ratio Pune India
+Jet Airways / Sanofi Aventis Pharma Software Developer Feb 2004 – June 2006
+
+Accomplishment during tenure: -
+Participate in Requirement Analysis and Client Interaction.
+Develops and implements cost savings and performance improvement processes
+Preliminary technical analysis for Office 2007 and VSTO suit and data gathering.
+Migrate existing VBA code to C#. As part of the migration of VBA code from Office 2003 to
+Office 2007 and use of VSTO we had to analyse existing 2003 code for Excel, Access and
+Word VBA. VBA code was further migrated to C#.Net using VSTO [Visual Studio tools for
+Office] with new added functionalities.
+Manipulating, organising, cleansing &amp; processing complex data using Excel pivot, lookup
+functions. Develop, maintain and execute daily, weekly and monthly reports.
+Write Excel VBA code to automate data analysis templates. This included extracting data
+from SQL / MS Access database, code to use excel functions to prepare analysis on the raw
+data and put them in the templates to get output in the desired format with automated
+graphical representation
+
+Results: Achieved seamless migrations and integrations that were transparent to client customers,
+accomplished with no unscheduled downtime. Received twice “Employee of the Month” recognition within
+short span of joining the organisation.
+
+Education and Credentials
+Bachelor’s Degree in Computer Science PUNE University, India
+NCFM Certification: NSE India [Basic Module].
+Certified .Net professional.
+Certified Scrum Mater.
+RPA Automation Anywhere [Basic and Advance Trainings].
+
+Contact this candidate

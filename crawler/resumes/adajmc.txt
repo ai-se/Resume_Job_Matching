@@ -1,0 +1,68 @@
+
+Duc Pham
+**** *. ****** ******
+Santa Ana, CA ***07
+Phone: 714-***-****
+Email- adajmc@r.postjobfree.com
+SKILL SUMMARY
+•Fluent with C, LabView, HPVEE, Visual C, Pascal, Basic programming
+•Develop Analog Mixed Signal Test Solutions for ADCs, DACs, Based-band ASIC,Display controller, Modems, filters, RSIC, DSP Microcontroller, embedded memory, Discrete SRAM/DRAM/ROM.
+•Design Test Adapter, Load board & Dut boards using Protel and Orcad, PCB123 software.
+•Experienced with DFT, (BIST, JTAG, SCAN), design verification and characterization.
+•Comfortable with writing Test Plans & Documentation of Test.
+•Experienced with HP 93K, Catalyst, Teradyne, Trillium, NI PXI system with Multi-function Data acquisition.
+•Experienced with MS Power point, Excel, Word and Visio.
+•Excellent Equipment Skills including Analog/Digital scope, logic analyzer, spectrum analyzer, Frequency counter, DVM meters, PC-based tester with GPIB controlled instruments.
+•Familiar with all advanced packaging such as stack ICS, BGA and FBGA.
+•Responsible for all aspect of test from first silicon debug to full volume production release. EMPLOYMENT HISTORY
+4/2015 – Present Sr. Manufacturing Test Engineer
+Statek Corporation, Orange, CA
+• Responsible for sustaining test program for crystal and hybrid oscillator products
+• Perform products yield and failure analysis for RMA returns
+• Work closely with product Design Team on design verification and improvement
+• Responsible for device characterization, test plan and test procedure documentation.
+• Responsible for maintaining test equipment and new equipment evaluation. 9/2006 – 2/2015 Principal Test Engineer
+Aeroflex, a Cobham Company, Aliso Viejo, CA
+• Write Labview program to test Mixed signal ICs using NI Modular and data acquisition system.
+• Design, layout and build test evaluation boards using PCB123, Wincad schematic capture.
+• Work closely with product Design Team on testability and design verification
+• Responsible for device characterization, test plan and test procedure documentation.
+• Manage R&D Lab.
+9/2003 – 9/2006 Sr. ATE Test Engineer
+SimpleTech, Santa Ana, CA
+• Develop test program for high speed SDRAM, DDR, DDR2 sICs or stacked modules On HP93K tester.
+• Write C shell script to process simulation output files to test vectors
+• Design test adapter, load board and probe cards using OrCAD, Protel schematic capture
+• Responsible for product characterization, yield enhancement, test procedure and training. 9/2000 - 9/2002 Sr. Product/Test Engineer
+Clare Micronix, Aliso Viejo, CA
+• Develop test program for High voltage driver ICs in Labview on GPIB pc-based tester
+• Develop test program in for Mixed-signal Component on ATE.
+• Write C shell script to process simulation output files to test vectors
+• Design test adapter, load board and probe cards using Protel schematic capture
+• Design and implement PC-based Test System with PCI/GPIB controlled instruments.
+• Work closely with product Design on testability (BIST, JTAG, SCAN) and design verification
+• Responsible for product characterization, yield enhancement, test plan and test procedure 7/1999 - 8/2000 Sr. QA Test Engineer/Manager
+Sound Advantage, LLC, Irvine, CA
+• Implement and integrate computer telephony VB program for PBX phone system
+• Build telephone Window NT-based system
+• Perform software and hardware Quality Assurance test
+• Generate test procedure and system documentation
+• Responsible for supervision of five technical support engineers group and training 5/1998- 6/1999 Sr. Test Application Engineer
+Crimble Micro Test, Kelowna, BC Canada
+• Design hardware interface for testing high speed SDRAM memory modules
+• Write test program on CMT Window NT-based tester
+• Configure, build and test new PC test system for customers
+• Design test adapter, load board and probe cards using Orcad schematic capture
+• Responsible for design verification of CMT tester
+• Program conversion from Agilent 83000 to CMT memory tester
+• Provide pre-sale and post sale technical support and training for customers EDUCATION
+1980-1982 Orange Coast College, Costa Mesa California. Associate degree in electronics.
+1982-1984 Cal State Of Long Beach University, Long Beach California. Bachelor of Science of Electrical engineering.
+COMPUTER SKILLS
+- UNIX, SOLARIS, APOLLO, VAX, Window 98/XP/NT, MSDOS operating system.
+- Pascal, C/C++, Basic, Fortran, C shell Script, Perl and Visual Basic.
+- TSSI software, Orcad, Pcb123, wincad and Protel schematic capture.
+- Window 95/98/XP, Lotus Notes, MS Excel, MS word, MS access, MS power point. PERSONAL
+- US citizen
+
+Contact this candidate

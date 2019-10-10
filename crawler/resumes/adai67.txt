@@ -1,0 +1,84 @@
+
+CURRICULAM VITAE
+Amit kumar choudhary
+Mobile: 782-***-****
+E-mail: adai67@r.postjobfree.com
+Professional Summary
+I have sound experience in Network Planning and Optimization. I started my carrier from Graduate trainee Engineer after that work as Field Operation Engineer. I always look forward to excel my skills as a professional in cutting-edge telecom industry and desire a position that will provide me exciting opportunities. Tools & Technology
+Domain: LTE/GSM/WCDMA/TRANSMISSION
+Protocols Worked: LTE (XPIC, SBR, QOS), X2, S1.
+Programming Skills: PYTHON (Basic), Linux, CCNA (Basic)
+Troubleshooting/Analyzing Tools: UE, Map info, Path Loss, NSN Equipment.
+UE Logging tools: OSS, Net Act, EPMP, Citrix, Wireshark for S1AP, Ultra BTS and Flexi BTS.
+Testing Documentation and Bug tracking tools: Ultra Edit-32
+Log Analysis tools: notepad++, tcp dump for capturing packets, WireShark
+MS Excel
+Tools :-
+CM Editor, CM operation manager, Citrix, Reflection, Nokia Ultra/Flexi/Metro Hub manager, Hopper Manager, Map info, Top level user interface, Net Act. Tools, Ericsson Performance management Portal (EPMP), Ceragon IP 10 & Ceragon IP 20, WireShark, MS Excel
+Technical Skills
+Understanding of LTE physical layer, call processing, Layer 3, Layer 2 protocols data structures.
+Understanding of Transmission Equipment, Microwave.
+Rich Experience in LTE.
+Strong Experience in Problem Solving, Testing Documentation, Defect Tracking, Debugging,
+Troubleshooting and Report Analysis.
+Profound knowledge of Airspan different Radio Products eNodeB/RBS
+Good understanding of Wireless Operator's end-end Network
+Optimization and KPI Benchmarking for LTE.
+Expertise in creating test plans for system level, subsystem level and feature level testing
+Experience in Manual Testing and Automation Testing
+Performance/Stability testing, Sanity, Performance Management (KPI) Testing, Migration.
+Excellent understanding in Logs Investigation, Analysis & Debugging issues. EXPERIENCE:-
+Ericsson india Global Service (P) LTD NPO Engineer Feb 2017-Present Network Planning and Optimization Engineer – Bharti Airtel Network Planning.
+Manage Network Planning for Wireless and Transport network of Bharti Airtel account MAH & GOA.
+Work on various Nokia OSS applications such as WBTS manger, Application Launcher, Managed Object Browser Uploading/Downloading Parameters, Alarm Monitor, Net Act Tools and CM Editor.
+Installation, commissioning and integration of 4G, SRAN sites, transmission equipment.
+Microwave Hops traffic rerouting planning for HOP dismantling.
+Work on Migration Activity on Oss and RNC Lavel.
+Work on Path Loss tool.
+Work for SCF(XML) creation of different types of sites like for SRAN Project, TDD Sites, 3G Sites and also for any types of Alarm on Sites.
+Monitor KPIs of Wireless, MW and Transport networks and execution of the activities at field level to improve the same.
+QOS Implementation on Ceragon MW Nodes and Enode B and also KPI Check before and after implementation of QOS
+Planning Support for all the Operational Case Like, LOS Block, High Utilization, MRMC Upgrade, Interference Issues, Hi-Lo Violation, ES, SES and UAS Cases.
+Monitoring of Packet loss cases (Frame loss) and plan activity to resolve on daily basis
+Various reports preparation & analysis for monthly Reviews with the Customer.
+Re-commissioning of BTS remotely.
+Work on Different Types of Link Budgeting, Frequency Planning and Capacity Planning.
+Working Knowledge of Low Level Design(LLD) and High Level Design (HLD).
+Deletion and recreation of new sites for KPI Not reporting.
+Excellent understanding in Logs Investigation, Analysis & Debugging issues.
+Expertise in creating test plans for system level, subsystem level and feature level testing.
+Performance/Stability testing, Sanity, Performance Management (KPI) Testing. Nokia Solutions & Networks FLM Engineer Oct 2016 – Feb 2017 Field maintenance Engineer – MAH & GOA
+SRAN project of Vodafone.
+Swapping of 2G (900) and 3G (1800) BTS into 4g(2300)
+BTS related issue resolution and NSN BTS cabling, equipment fault detection.
+Work on both 2G & 3G BTS of NSN for Airtel.
+Work on Ceragon provided microwave Ethernet and TDM wireless backhaul to wireless service.
+Responsible for provisioning of 2G and 3G trails (Traffic path).
+Managing the process linked with provisioning, of E1, Loop verification etc
+Performing Planned activity raised by circle team in outage window.
+Microwaves management (Nokia-FlexiHopper,Ceragon, NEC) ESSJAY ERICSSON (P) LTD. GTE Oct 2015 – Oct 2016 Graduate trainee Engineer
+Work on infra alarm & SAS alarm of 4G of Reliance Jio Infocom Ltd. in Pune.
+Geographical information system (GIS) updating.
+Work with team of Network operations control (NOC)Engineer.
+Working in the team of operation and maintenance (O&M).
+Working knowledge of work force management (W.F.M).
+Ping IP address to check its status, configure it at different level.
+Fiber cut restoration in which including Splicing,OTDR & Etc for restoration. Education:
+B.E(Electronic and communication) - GRKIST Jabalpur, with 66.50
+HSC - from NIOS Board (Bihar), with 72.8%.
+SSC - from CBSE Board (Bihar), with 74.2%.
+Extra- Curricular Activities:-
+Actively participated in college annual sports as a Co-Ordinator.
+Participated in BASIC ELECTRONICS AND PCB DESIGNING.
+Participated in workshop of HARDWARE AND NETWORKING at Jetking. Personal Information:-
+Name : Amit Kumar choudhary
+Date of Birth : 13 oct. 1992
+Gender : Male
+Languages : English, Hindi
+Nationality : Indian
+Declaration:-
+I hereby declare that all above information is true to the best of my knowledge and belief. Signature:
+• Date:
+• Place: Pune
+
+Contact this candidate

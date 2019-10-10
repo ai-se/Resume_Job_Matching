@@ -1,0 +1,131 @@
+
+SATTANATHAN. S
+Mobile Number: +91-979**-*****
+E-Mail: adaht6@r.postjobfree.com
+
+Career Objectives:
+I would like to obtain a challenging position in IT where my technical and interpersonal skills can be utilized to benefit your Organization.
+To apply my technical Knowledge and project management skills to help lead a competitive growing company to a new level of success and guide them towards a new age of advanced technology.
+
+Professional Certifications & Training:
+Microsoft® Certified Solutions Associate (MCSA): Windows Server 2012
+(MS ID: MS0611206273 MC ID: 12784276)
+VMware from Indian Institute of Hardware and Technology, Chennai
+Certified ISO 27001:2013 Information Security Standard Lead Auditor
+(CQI UDN: 192970)
+
+Technical Skills:
+Windows Administration
+Installing and configuring windows server 2012 R2 and server 2008 R2 edition
+Creating and managing Active Directory users and groups
+Implementation and administration of DNS, DHCP server
+Managing file and folder permissions in File server
+Planning and Maintaining Data backup and restore using NETVAULT
+Planning and Maintaining Data backup and restore using Backup Exec 16
+
+VMware 5.5 knowledge
+Installing and configuring VMWARE ESXi 5.5 Server
+Creating and managing virtual machines
+Creating and Managing the Snapshot, Templates and Clone
+Managing Cold Migration and Hot Migration
+Configuring and Managing HA
+
+Work Experience Summary:
+
+Worked as a System Administrator from 20th Feb 2017 to12th June 2019 in Tuv Sud South Asia Pvt Ltd. Chennai.
+Worked as a L1 Customer Support Engineer from 1st Dec 2014 to 6th Jan 2017 in 247 Computing Service Pvt Ltd. Chennai.
+Worked as a Desktop Support Engineer from August 2013 to September 2014 in YBlue Technologies. Chennai.
+
+Professional Experience:
+M/s. TÜV SÜD South Asia Pvt. Ltd, Chennai
+Feb 2017 to Jun 2019
+Provide Tiers 2 and 3 end user support for 250 corporate users. Install, configure, and troubleshoot the windows server domain. Consistently provide remote support and manage numerous technical queries for client needs and try to resolve on time within SLA breached.
+
+Administration, Installation and troubleshooting of windows server 2003, 08 & 12 Servers.
+Managing and troubleshooting the windows server 2012 Active Directory
+Handling AD User Accounts pertains to Global/Internal applications (Provisioning, Modification, and DE Provisioning Objects). AD tasks – Windows Role Assign, Group policies, Account and security group
+management, User permissions.
+Creating OU Structure for Active Directory Users and Computers administrative tool.
+Configuring and Managing Microsoft Domain Server with Active Directory, DNS, DHCP and GPO servers.
+Familiarity in the following areas: Active Directory Federation Services (ADFS), single sign-on PowerShell, replication topology, resource provisioning, role-based access Control, user lifecycle
+Administrate infrastructure, including firewalls, Symantec Endpoint Protection and other processes through review application logs.
+Performed day-to-day administration functions, file server maintenance, Backup and restore management using Veritas Backup Exec 16.
+Deploy and Managing the Patch in Sccm Server
+Configuring and installing various network devices and services
+Provided technical support for hardware/software configurations and applications
+Network related issues and wireless network management
+Performing maintenance, firmware/driver upgrades, including service packs, patches, hot fixes and security configurations on all servers
+Creation and Manage of Organization Mail ID’s, Distribution List and Exchange Administration Center for Creating Inbound and Outbound Rules in Office365.
+User backup management using NAS
+Creating and managing the Bit Locker Drive Encryption
+Working on ticketing system using a TUV service desk portal
+Work on Internal/ external escalation matrix for customers/ vendors for Incident Management
+Work on ITIL Change Management, Problem Management and Incident Management.
+Defining and implementing ISMS Processes, policies, and controls in accordance with ISO 27001:2013
+
+M/s. 247 Computing Services Pvt Ltd, Chennai
+Dec 2014 to Jan 2017
+Install Configure, Troubleshoot and Monitoring of Servers and Taking major responsibilities of all Administrative System task through locally and remotely. DHCP, DNS configuration in Windows server 2008/2012 and Configure Mail Client MS Outlook 2013 with the help of SMTP and POP Server. Configure Advanced User and Group Policy & Permission in Windows platform. Configure DHCP, DNS, FTP. Configure & Troubleshoot for Cabling, LAN, TCP, Hubs, Switches and Router.
+
+Desktop support and troubleshooting hardware and software issues
+Configuring local and network printers
+Configuring mail account in Microsoft outlook
+Network related issues and wireless network management
+Managing access points and client’s in wireless controller
+Creating and Managing the Domain user account
+Intercom number assign and management
+Managing file and folder permissions in File serve
+User backup management using Dhruva
+Creating and monitoring policies in Symantec Endpoint production for users
+Configuring and maintaining Cyberoam Firewall
+Configuring and maintaining Endian Firewall
+
+M/s. YBlue Technologies, Chennai
+
+Aug 2013 to Sep 2014
+
+Provide Tier 1 support for an end user. DHCP, DNS configuration in Windows server 2003 and Configure Mail Client MS Outlook 2010 with the help of SMTP and POP Server. Configure DHCP, DNS, FTP & Troubleshoot for Cabling, LAN, TCP, Switches and Router.
+
+Desktop support and troubleshooting hardware and software issues
+Configuring local and network printers
+Configuring mail account in Microsoft outlook
+Daily checklist & report submission
+
+Education:
+2012: B. Tech (IT) from PET Engineering College affiliated to Anna University, Chennai
+2008: Diploma (EEE) from SCAD Polytechnic College, Tirunelveli
+2005: SSLC from Merit Matriculation Hr. Sec School, Ambasamudram, Tirunelveli
+
+Personal Profile:
+Date of Birth
+:
+16.01.1990
+Father’s Name
+:
+Mr. S. Shanmuga Sundaram
+Gender
+:
+Male
+Languages Known
+:
+Tamil, English
+Marital Status
+:
+Single
+Nationality
+:
+Indian
+Passport Number
+:
+Z5042925
+
+Highlights of Expertise:
+
+Troubleshooting/Root Cause
+Vendor Evaluation
+Resource Management
+Innovative IT Initiatives
+Client Relationship
+End-user Support
+
+Contact this candidate

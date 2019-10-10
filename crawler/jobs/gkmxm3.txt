@@ -1,3 +1,4 @@
+Job Title = Lathe machinist/operator
 
 CNC LATHE SET UP AND RUN:
 Familiar with Hardinge COBRA, or MORI SEIKI SL1A

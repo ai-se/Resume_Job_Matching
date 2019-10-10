@@ -1,0 +1,44 @@
+
+Wallace K. Woodard
+***** ******* **. **** ***, SC
+linkedin.com/in/wallace-woodard-windowswhiz/ • 803-***-**** • adahje@r.postjobfree.com
+
+IT Support Specialist
+Extensive experience providing innovative IT solutions for large-scale organization and small businesses
+Results-driven professional with solid experience in networking, security, windows server configuration, software installation, troubleshooting, VPN solution, and system administration. Proficient in implementing, supporting, and maintaining complex enterprise networks in a highly dynamic environment. Adept at analyzing complex issues, evaluating technical alternatives, and offering creative solutions to maximize performance. Consummate communicator with highly developed interpersonal skills and ability to work cohesively with stakeholders, clients, and project teams.
+Server Configuration & Execution / Risk Analysis & Mitigation / User Training & Support /SharePoint Admin
+Process Improvement / Troubleshooting & Issue Resolution/Office 365 Admin /SCCM Admin /Active Directory Admin
+TECHNICAL PROFICIENCIES
+Platforms:
+Windows Server 2008\2012\2016, WSUS, SCCM, SQL Server, Citrix, VDI, Office Suites, SharePoint, Windows XP, 7, 8, 10. Office 365, Remedy PAC2000 Configuration and Tracking System. Microsoft Imagex computer imaging, Papercut, VOIP
+Tools:
+Filemon, Regmon, Performance Monitor, Imagex, Security Analyzer, Remote Desktop,
+Hardware:
+Hp Servers, Lenovo, Dell, Hp laptops. Hp desktops. Hp and Ricoh printers. Iphone, Android, Blackberry.
+PROFESSIONAL EXPERIENCE
+PC\Lan Analyst 4 (April 2009 – June 2019) Wells Fargo Bank, Charlotte, NC
+Deliver technical support to ensure the security and proper functioning of computer networks. Improve user experience by coordinating with users, detecting malfunctions in the network, and resolve technical issues with appropriate solution. Manage wide-range of functions, including identifying requirements, establishing network specifications, assessing performance issues, troubleshooting problems, and maintaining documentation. Provide Remote Desktop support for the majority of clients. Co-ordinate with technology management aimed at developing effective business continuity plan for security and recovery. Collaborate with line of business on all changes to application access and infrastructure changes, including additional field data and functional buttons. Identify and fix compliance issues using check EUC governance dashboard for compliance issues. Support enterprise-level management, data storage, applications, and communications by configuring and maintaining six Windows 2008/2012/2016 servers and VDI connections. Design and conduct quarterly audit on LAN, including all users and computers security plan development. SCCM patching and updating Administrator. Windows Active Directory Administrator.
+Key Achievements:
+Ensured high availability of PC based LAN and increased reliance on network systems that improved operational performance of 140 users (risk asset review).Help Desk, Remote Desktop and Desk side support
+Assured positive working experience for user by promptly resolving complex hardware and software issues, including installation, configuration, and repair. Used Remedy PAC2000 Tracking system.
+Created Desktop and laptop images with Ghost and Microsoft ImageX. Image equipment and rolling them out.
+Strengthened network/systems security by testing data encryption software, implementing best practices, and installing Symantec Enterprise Antivirus as well as Enterprise Direct VPN connection for all wireless devices.
+Kept abreast with best in class software and hardware products and negotiated with vendors to attain cost benefits. Saved $5K per license on retail price by displaying strong negotiation skill for the procurement of Win2pdf licenses.
+Improved internal as well as physical controls to protect confidential data, servers and equipment from theft, damage, and unauthorized access.
+Senior Technical Helpdesk Analyst Tier II (2004– 2009) Wachovia Bank, Charlotte, NC
+Provided remarkable services and level two support within fast-paced business environment, including desktop, server, hardware/ software, peripheral devices, institutional, insurance relationship management applications, and retirement accounts administration systems. Delivered expert level services to Capital Management Group lines of business, including wealth management, Wachovia Insurance Services, and retail/retirement services. Updated and maintained software on 150 PCs at Wilkesboro, NC disaster recovery site for Trust Operations and WRS (Wachovia Retirement Services). Led team of 4 in a disaster recovery site project
+Key Achievements:
+Maximized customer satisfaction levels by proactively addressing and resolving customers’ issues call-center using telephone switch, call monitor, and on-line issue management tool.
+Improved desktop operating systems efficiency and network credibility by resolving TCP/IP-LAN related problems in Domain environment.
+Additional experience as Computer Technical Support for Attus Technologies Inc., as Network Support Specialist/Administrator for Barloworld Industrial Handling, as Technical Infrastructure Specialist for SCB Computer Technology, as Windows Support Professional (Engineer) for Microsoft Corporation, as Senior Microcomputer Analyst for Alltel Information Services, as Field Support Engineer for Mylee Digital Science
+EDUCATION AND TRAINING
+Associate of Applied Science, Electronic Engineering Technology
+Spokane Community College, Spokane, WA
+Aviation Electronics Technician
+U.S. Navy, Mayport, FL
+Technical Certifications
+: MCSE Certification • Windows 2000 • MCSE Certification • Windows NT 4.0 • MCP Windows 2000 • MCP + Internet • CNE Certification • Novell 4.11, CompTIA A+ Hardware and Software• Brainbench Certified • Computer Technical Support • Brainbench Certified • Computer Network Support
+Professional Development
+Pursing CCNA, Network+, Powershell Scripting
+
+Contact this candidate

@@ -1,0 +1,60 @@
+
+Pradeep Argalmani
+Email Id: adahyn@r.postjobfree.com Mobile:997-***-****
+Career objective
+Looking forward to work in a challenging environment that has scope for both professional and personal growth. Self-motivated, curious to explore new areas and trusting to provide a long-term relationship to the organization I am employed with.
+Summary
+Excellent Hands on Advance Excel Techniques & Data Management (Pivot Tables, Data Validations, Sorting, Filtering, what if analysis, Subtotalling, Grouping, Solver, Functions like sumifs, countifs, vlookup, hlookup), SQL, Python, R, Tableau, and Machine Learning.
+Excellent Hands on Statistical Tests such as Correlation, Regression (Linear, Multiple, Logistic), T-TEST, Chi- square, Anova, Machine Learning Algorithms such as Decision Tree, Random Forest, SVM. Analyst with 6 months of Experience, with 1 year of experience in Pharmaceutical and medical device industrial recruitment domain.
+Experience in resume sourcing and industrial life cycle research with extensive experience in end to end recruitment and use of resume reaching tools like job diva, career builder, Mon Excellent hands on preparation of MIS and Knowledge base articles Qualified at setting up teams, execution and delivery of projects. Develop, oversee and manage project plan Excellent knowledge on free internet research tools like Google, Yahoo Finance, Business Week, LinkedIn, Wikipedia etc.,
+Excellent Analytical, Communication and Interpersonal skills, self-motivated, quick learner, team player Professional Course
+Data Science & Machine learning Modeling from Nikhil Analytics, Bangalore. Advance Excel Techniques & Data Management
+Predictive Analytics using Modeling and Machine
+Learning R and Python
+Tableau For Analyst
+SQL For Analyst
+PROJECTS:
+1: Predicting customer satisfaction for a Retail chain using R: A project on retail chain aims to prepare a multiple linear regression model for customer satisfaction of retail chain among its different stores by using the given dataset. After finding the correlation between the dependent and independent variables, the model was built with strongly correlated variables. The model with did not have enough accuracy to be qualified as a good model. Therefore a multiple linear regression model was built with strongly and moderately correlated variables to get a good fit model. 2: Student Database creation using SQL:
+Created database, student related tables. Applied constraints such as Primary Key, Foreign Key, Check etc for accepting valid defined data with certain conditions. These tables can be used to input and store the data as and when the user requires. While creating the tables, certain date functions such as dateadd were used as some of the constraints demanded the applicability of these functions. 3: Customer Data Analysis using SQL:
+Objective of SQL project was to extract and analyze customer data present in customer database with their customer ID, Sales, State, and date information. Extracted information from excel datasets and performed operations using Data Extraction techniques, DML commands such as UPDATE, SELECT, DELETE and features such as Join, CTE Derived Tables, Sub-queries, aggregate functions, group by, order by, Having Clauses, row_number etc. to analyze and compare various region specific customer purchase behavior. 4: Inventory Data Analysis using Excel:
+The first part of the project involves data detailing order date, price, quantity and the location of the products while the second part involves data detailing sales data like the stock, price, days unsold and supply time. Created an analysis report using Pivot Tables, Sort & Filter, Data Validation, functions such as Lookup, sum ifs, count ifs etc. which visualize customer behavior their demand and interests on certain products based on different region,
+5: Sales Data Analysis using Excel:
+This Project had details related to sales details of a store related to customers, products purchased and their price over a period of 1 year. Based on the available data i found the top 10 customers, top 5 products and the behavior of purchases. I took the help of pivot table extensively to arrive at the results. Professional Experience
+AITACS, Bengaluru
+Technical Associate April 18 – Nov 18
+Clients: Pharmaceutical & Manufacturing industries - Johnson and Johnson, Roche, Becton Dickinson, John Deere etc.,
+Job responsibilities:
+Majorly worked with manufacturing clients and pharmaceutical research client Majorly involved in negotiation and relationship management with the consultant Attended meeting with the top management such as Risk Engineers of pharmaceutical industry and obtained knowledge of process safety, Risk management
+Elegance Interiors. Bengaluru
+Site Engineer Oct 17 – Mar 18
+Project: Allstate Inc., Cirtrix.
+Job responsibilities:
+Drawing interior furnishing details using AUTOCAD such as interior walls, loose and fix furniture floor plans Planning work flow with MEP sub-contractors
+Quantity checking of materials and documentation
+Assisting Sr. Engineer in quantity estimation and meeting with architects Briefing on safety to Site technicians and Sub-Contractors to support construction team at site Verifying the work for correctness and accuracy
+Coordinating inter-departmental operations
+On daily basis preparing material stock report and daily progress report Lancesoft Inc. Bengaluru
+Technical Associate Jul 17 – Oct 17
+Job responsibilities:
+I have extensively increased my knowledge of medical device and pharmaceutical industry and there manufacturing methods
+Complete knowledge of medical device life cycle right from R&D to the marketing process Brief knowledge of OSHA (Occupational safety and health administration) Good knowledge of Risk Analysis and FMEA
+Attended meeting with the top management such as Risk Engineers of top medical device and pharmaceutical industry and obtained knowledge of process safety, Risk management Internship:
+EnSYDE (Environmental Synergies in Development). Bengaluru Role: Project Coordinating intern
+Accomplishment: A pilot Environmental Experiential Education project emphasized on conservation of water, soil and Energy. By delivering and development of instruction modules to major Govt. school children by experiential learning
+Academic Profile
+Bachelor of Civil Engineering - CGPA: 7.34 July 2016 S D M College of Engineering and Technology (Autonomous) Dharawad Vishveshvaraya Technological University
+Pre-university college - Percentage: 65.5% March 2012 N.V P U college Gulbarga
+Karnataka Pre -University Education Board
+SSLC - Percentage: 75.04% March 2009
+Nutan Vidyalaya High School Gulbarga
+Karnataka Secondary Education Board
+Academic Achievements & Curricular activity
+Major project was chosen as best project in department Participated in entrepreneurial competition “PUPA-14” held at BVBCET, Hubli and worked on development and design of “Inverter-Bulb” with sun system solution, Hubli which was the only product which got attention of industrial R&D experts
+Been as college Co-coordinator as in various social and technical projects at college Deshpande foundation's LEAD cell
+Been as college media club member called "SDMCET MEDIA" for college techno-cultural fest Insignia-15 Organized blood donation camp for consecutive 3 year in college Personal Information
+Father’s name : Mr. Peerappa Argalmani
+Date of birth : 12th November, 1993
+Current City : Bengaluru
+Language spoken : Kannada, Hindi, English, Telagu and Marathi Address : #4 Narayan Reddy Layout, behind milk dairy, kadugodi post Channasandra, Bengaluru. 560067
+
+Contact this candidate

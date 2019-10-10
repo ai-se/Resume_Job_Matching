@@ -1,72 +1,51 @@
+Job Title = Engineer Or Web Or Security Or Anti jobs in Raleigh, NC, 27606
 
-Security Engineer
-Rochester, MI OneStream Software LLC
-Benefits Offered Vision, Medical, Life, Dental, 401K
-Employment Type Full-Time
+GuidePoint Security  – 
+Raleigh, NC, 27611
+... for data security * Cloud Access Security Broker (CASB) implementation and/or management experience (preferred) * Next Generation Anti Malware implementation and/or management experience (preferred) * Threat Intelligence administration experience; ...
+- StartwireL2, Oct 01
 
-ABOUT THE JOB
-We are looking for an experienced Security Engineer to join our IT department in Rochester, Michigan. We are looking for a capable system security engineer, who enjoys security work and possesses both deep and wide expertise in the security space.
-You will make things more secure by protecting system boundaries, keeping computer systems and network devices hardened against attacks and securing highly sensitive data. Qualified candidates will have a background in security orsystems engineering.
-Job Description:
-Primary responsibilities:
-Identify security risks and operational needs
-Perform penetration testing on cloud environments, internal environments, and application
-Perform vulnerability scans (application, network, etc.) managing findings in accordance to best practices
-Collaborate with development team on vulnerability scan findings, remediation, and best practices
-Ensure appropriate hardening of internal and cloud environments
-Monitor environments for security breaches and attempted attacks
-Identify current and emerging security trends and threats
-Identify opportunities for automation, process improvement, and architecture improvements
-Work with OneStream compliance team for internal and external audits
-Review and update FedRAMP System Security Plan (SSP), policies, and procedures as needed
-Provide excellent customer service and support
-This is an exciting opportunity to help build our fast growing international company, your career, as well as the careers of others. The ideal candidate will be passionate about developing and helping others within our company and the community, and have a high interest in the OneStream mission and being an integral part of a collaborative, tight-knit firm. A passion for technology and learning, and the ability to grow others are vital for success in this role.
+Epic Games  – 
+Cary, NC, 27511
+Epic Games is looking for a Senior Programmer focused on Game Security to contribute to hardening our game against exploits and attacks. Your efforts will be critical to the success of internal game projects such as Fortnite . The ideal candidate ...
+- Jobg8, Oct 03
 
-DESIRED SKILLS AND EXPERIENCE
-Formal Education and Certification
-College diploma or bachelor's degree in a technology-related field (or equivalent work experience)
+Epic Games  – 
+Cary, NC
+... Epic Games is looking for a Senior Programmer focused on Game Security to contribute to hardening the our game against exploits and attacks. Your efforts will be critical to the success of internal game projects such as Fortnite. The ideal candidate ...
+- Neuvoo, Sep 23
 
-Knowledge and Experience
-3-5 years of security experience.
-Hands on experience in security systems, including firewalls, intrusion detection systems, anti-virus software, authentication systems, log management, content filtering, etc.
-Experience with network security and networking technologies and with system, security, and network monitoring tools.
-Thorough understanding of the latest security principles, techniques, and protocols
-Familiarity with web related technologies (Web applications, Web Services, Service Oriented Architectures) and of network/web related protocols.
-Problem solving skills and ability to work under pressure.
-Excellent written, verbal, and interpersonal skills.
+Epic Games  – 
+Cary, NC, 27511
+Epic Games is adding a Web Engineer Lead to work across the stack while leading a team with a focus on Epic's customer ... of Epic's web framework to all consumer-facing websites and applications Performance improvement and security hardening ...
+- Jobg8, Oct 04
 
-Personal Attributes
-Results-driven.
-Detail-oriented.
-Strong presentation skills.
-Able to multi-task.
-Flexible and adaptable.
-Team player.
-Legally authorized to work for any company in the United States without sponsorship.
+Epic Games  – 
+Cary, NC, 27511
+Epic Games is looking for a Senior Programmer focused on Game Security to contribute to hardening our game against exploits and attacks. Your efforts will be critical to the success of internal game projects such as Fortnite. The ideal candidate has ...
+- Jobs2Careers, Oct 04
 
-WHO WE ARE
-OneStream Software is a privately held software company created by the same team that invented the leading financial solutions of the last decade. We provide a unified Corporate Performance Management (CPM) platform which enables the enterprise to simplify financial consolidation, reporting, budgeting and forecasting for complex organizations. Our powerful extensibility enables the enterprise to deliver additional analytic solutions without adding any technical complexity. By delivering multiple solutions in one application, we offer increased capabilities for financial reporting and analysis while reducing the risk, complexity and total cost of ownership for our customers. We are driven by our mission statement that every customer must be a reference and success.
+Epic Games  – 
+Cary, NC, 27511
+Epic Games is adding a Web Engineer Lead to work across the stack while leading a team with a focus on Epic's customer ... of Epic's web framework to all consumer-facing websites and applications Performance improvement and security hardening ...
+- Jobs2Careers, Oct 09
 
-We are equally fanatical about our OneStream family members (formally known as employees). We are a team in every sense of the word. Everyone here is approachable and excited to pitch in and help. We work hard and play hard. The right candidate is someone who is easy to get along with, always willing to lend a hand, excited about coming to work, and happy to contribute to the team. We have a casual dress environment and modern office with onsite gym!
-WHY JOIN THE ONESTREAM TEAM
-Transparency around corporate structure, salary, and benefits
-Core value of customer success
-Variety of project work (not industry specific)
-Strong culture andcamaraderie
-Multiple training opportunities
-Benefits at OneStream Software OneStream employees are passionate, hardworking individuals who go above and beyond to keep our customers happy and follow through on our mission statement. They consistently deliver the best and in turn, we make every effort to keep them cared for and happy. A sample of the benefits we provide are:
-Excellent Medical Plan
-Dental & Vision Insurance
-Life Insurance
-Short & Long Term Disability
-Vacation Time
-Paid Holidays
-Professional Development
-Retirement Plan
-OneStream Software is an Equal Opportunity Employer.
+Area 1 Security  – 
+Raleigh, NC, 27611
+... We are looking for a Technical Support Engineer to be a primary point of contact to existing customer. The ideal candidate will be flexible, detail-oriented, and skilled at working with customers (Security & SaaS services preferred). This position ...
+- StartwireL2, Sep 28
 
-Job Posted by ApplicantPro
+Jasper  – 
+Durham, NC, 27711
+We are seeking an expert web application engineer to help lead development/test/support all aspects of our Security Evidence Collection and Reporting Engine. This is going to be a central source of truth for various organizations within Cisco. You ...
+- Ivy Exec, Oct 01
 
+CyberCoders  – 
+Raleigh, NC, 27601
+Minimum Required Skills:Full Stack, Blockchain, REACT, Node.js, SQL, Google Cloud, Cyber Security, Kubernetes, TypeScriptWe are a fully remotely operated financial software company. Click the link at the bottom of this email to search all of our ...
+- Jobs2Careers, Oct 05
 
-Go to apply 
-
+Certara  – 
+Raleigh, NC
+Certara is hiring a Web Development Sr Software Engineer to support our Pharmacometric Software Services group! This ... – competitive pay, incentives, retirement plans, income security programs Health and Wellness – comprehensive benefit ...
+- ZipRecruiter, Sep 29

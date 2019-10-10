@@ -1,0 +1,34 @@
+Job Title = Engineer
+
+Engineer The role Engineers are responsible for all aspects of software development within AHL and utilise their skills to deliver and maintain technology solutions across AHL Research, Trading and Operations departments.
+The Team Engineers at AHL are all part of our broader technology team, members of a group of over sixty individuals representing eighteen nationalities.
+We have varied backgrounds including Computer Science, Mathematics, Physics, Engineering even Classics - but what unifies us is a passion for technology and writing high-quality code.
+Our developers are organised into small cross-functional teams, with our engineering roles broadly of two kinds: "Quant Platform Developers" otherwise known as our "Core Techs", and "Quant Developers" which we often refer to as "Sector Techs". We use the term "Sector Tech" because some of our teams are aligned with a particular asset class or market sector.
+People often rotate teams in order to learn more about our system, as well as find the position that best matches their interests.
+Our Technology Our systems are almost all running on Linux and most of our code is in Python, with the full scientific stack: numpy, scipy, pandas, scikit-learn to name a few of the libraries we use extensively.
+We implement the systems that require the highest data throughput in Java.
+For storage, we rely heavily on MongoDB and Oracle.
+We use Airflow for workflow management, Kafka for data pipelines, Bitbucket for source control, Jenkins for continuous integration, Grafana + Prometheus for metrics collection, ELK for log shipping and monitoring, Docker for containerisation, OpenStack for our private cloud, Ansible for architecture automation, and HipChat for internal communication.
+But our technology list is never static: we constantly evaluate new tools and libraries.
+Working Here AHL has a small company, no-attitude feel.
+It is flat structured, open, transparent and collaborative, and you will have plenty of opportunity to grow and have enormous impact on what we do.
+We are actively engaged with the broader technology community.
+* We host and sponsor London's PyData and Machine Learning Meetups * We open-source some of our technology.
+See * We regularly talk at leading industry conferences, and tweet about relevant technology and how we're using it.
+See @manquanttech We're fortunate enough to have a fantastic open-plan office overlooking the River Thames, and continually strive to make our environment a great place in which to work.
+* We organise regular social events, everything from photography through climbing, karting, wine tasting and monthly team lunches * We have annual away days and off-sites for the whole team * We have a canteen with a daily allowance for breakfast and lunch, and an on-site bar for in the evening * As well as PC's and Macs, in our office you'll also find numerous pieces of cool tech such as light cubes and 3D printers, guitars, ping-pong and table-football, and a piano.
+We offer competitive compensation, a generous holiday allowance, various health and other flexible benefits.
+We are also committed to continuous learning and development via coaching, mentoring, regular conference attendance and sponsoring academic and professional qualifications.
+Technology and Business Skills At AHL we strive to hire only the brightest and best and most highly skilled and passionate technologists.
+Essential * Exceptional technology skills; recognised by your peers as an expert in your domain * A keen interest and understanding of financial markets and instruments * A proponent of strong collaborative software engineering techniques and methods: agile development, continuous integration, code review, unit testing, refactoring and related approaches * Strong knowledge of Python * Proficient on Linux platforms with knowledge of various scripting languages * Experience of data analysis techniques along with relevant libraries e.g.
+NumPy/SciPy/Pandas * Relevant mathematical knowledge e.g.
+statistics, asset pricing theory, optimisation algorithms.
+Advantageous * Experience of front office quantitative software development e.g.
+in a hedge fund or investment bank * Experience of web based development and visualisation technology for portraying large and complex data sets and relationships * Experience of machine learning techniques, natural language processing and related libraries and frameworks e.g.
+scikit-learn, Tensorflow Personal Attributes * Strong academic record and a degree with high mathematical and computing content e.g.
+Computer Science, Mathematics, Engineering or Physics from a leading university * Craftsman-like approach to building software; takes pride in engineering excellence and instils these values in others * Demonstrable passion for technology e.g.
+personal projects, open-source involvement * Intellectually robust with a keenly analytic approach to problem solving * Self-organised with the ability to effectively manage time across multiple projects
+
+
+Go to apply 
+

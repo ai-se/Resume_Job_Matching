@@ -1,0 +1,145 @@
+
+Page * of *
+Sivakumar Natarajan (Siva)
+H: (***) 248 - 0422 Mobile: 848-***-****
+Email:adajvf@r.postjobfree.com
+Objective: To obtain a challenging position as an SME and to mentor the DBA teams. 25+ years (DBA Lead & Manager - 20 years & development - 5 years) of Oracle Experience Work Experience
+Applied applications experience in multiple industries such as finance, trading platform, marketing, production planning, quality control, packaging, retailing, telecommunications, health care, etc. Education
+Master’s in Computer Science, Alagappa University, Karaikudi, India April 1995 Bachelor’s in Computer Science, Bharathidasan University, Tiruchirapalli, India April 1991 Oracle Certified Professional (OCP) on Oracle 10g database Oracle Certified Professional (OCP) on Oracle 9i database Skills
+Operating Environments
+Oracle Exadata, Linux (RedHat, Oracle, SuSe,
+etc.), AIX, HP-UX, Sun Solaris, Windows
+Server, Windows, DOS, OS/390, Zos, X-
+Windows
+Database
+Oracle 18c/12c/11g/10g/9i/8i, RAC, Exadata,
+Oracle Data warehouse, RAC, Oracle Fail-Safe,
+MySQL, MongoDB, Data Lake, BigData,
+Hadoop, etc.
+Cloud Computing
+AWS (EC2, Lambda, S3, EMR, RDS, Glacier,
+Cloud Watch), SaaS, IaaS, PaaS (Private, Public
+& Hybrid).
+Database Tools
+OEM 13c/12c, RAC, Golden Gate, Kafka, Data
+Guard, Database Audit, Server Manager,
+SQL*DBA, SQL*Loader, Export / Import,
+Statspack, AWR, TKPROF, OEM, DB General,
+RMAN, Quest for Oracle, etc.
+Change Control
+ServiceNow
+Languages
+SQL*Plus, PL/SQL, C, Pro*C, awk, yacc, lex, Java,
+PHP, HTML, shell script, perl, Unix. Power Shell
+CASE Tools
+ERWIN, and S-Designer
+Others
+AutoSys, Data Scrubbing, Data Modeling, Database
+Design and VSS, GitLab
+Microsoft tools
+Microsoft Excel, Word, Powerpoint, Project etc.
+Security
+Advanced Security, Transport encryption, CyberArk. Methodologies
+System Development Life Cycle (SDLC), Waterfall,
+Agile, Scrum, Lean Six Sigma.
+Storage
+NAS, SAN, TSM Backup, DDBoost, etc.
+Experience
+Senior DBA Manager / Team Lead, TIAA-CREF, New York, NY Sep 2013 – Present Software Oracle 12c RAC, OEM 13c, AWS, SQL Server, MongoDB, MySQL, BigData, Hadoop, MS Project, etc.
+Description
+TIAA-CREF is one of the oldest companies started over 100 years ago to service retirement needs for professionals in the educational, research and health industries. At present it offers individual investors with Page 2 of 5
+its wide line of financial products ranging from mutual funds and after-tax annuities to life and long-term care insurance. The databases support many financial applications, which includes trading floor, command center, Web Center, Customer Support, Market Research, Quarterly Reporting System for Financial Statements, Call center etc.
+Responsibilities
+• Lead team & perform tasks which requires immediate attention and defer and distribute work to off-shore team with detailed instructions for successful completion.
+• Migrate the legacy OS based Oracle database to Exadata Database appliances.
+• Configure Exadata Caching for Data and Archives.
+• Evaluate, test and implement Exadata specific futures like Smart Flash Cache, Storage Indexes, Smart Scans and Cell Offloading, Hybrid Columnar Compression for large tables.
+• Develop, enforce and automate various standards like Golden Gate / Streams implementation, DB upgrade.
+• Automation tasks with ansible / shell script for production deployment for efficient and minimal downtime.
+• Define and enforce various standards such as application development guidelines, oracle installation standards, naming conventions, security standards, auditing requirements, scripting with shell etc.
+• Developed security policy which details about the roles & privileges. Also, as an SME, involve in development and design of applications and provide insight about the potential security loopholes and advise the best coding practices. Automated scanning of security standards violation with shell script.
+• Involved in many applications including data replication to Datalake, kafka, etc. from various sources.
+• Prepare project plans, identify the tasks and deliverables, assign, follow-up tasks for timely completion.
+• Involve in the SDLC lifecycle and provide technical consultation on projects to enforce the quality of the deliverable and compliance with the industry standard to deliver High Availability applications.
+• Responsible for automation of scaling / upgrading Oracle databases to 12c RAC from lower versions.
+• Maintain Production, Development, Test and Training databases and providing support to make sure that the database is available whenever it is needed for the clients. Automated scripts to fix whenever possible.
+• Install Oracle 12c, 11g server as well as the application schemas.
+• Populating the schema with the seed data & Review the existing partitions and made changes as they needed.
+• Establish Backup & Retention policy based on the compliance requirements for the app and ensure the availability of the backups whenever needed.
+• Engineer and deliver high availability critical business databases like trading, financial etc.
+• Setup DBs for batch operation, data migration and data feeds like daily market feeds from outside sources.
+• Other miscellaneous responsibilities include management reports, decommission obsolete databases, keep the databases under manageable volume, analyze and identify unnecessary underutilized DBs and consolidate them to reduce operating cost.
+Senior Oracle DBA consultant, TIAA-CREF, New York, NY Nov 1999 to Dex 2004 & Oct 2007 – Sep 2013 Software Oracle 11g RAC, Oracle 10g, Oracle 9i, Oracle 10g RAC, AIX, Quest Foglight, etc. Responsibilities
+• Responsible for upgrading and scaling the Web Center database to 11g RAC from lower versions.
+• As an SME (Subject Matter Expert), responsible for expert technical support and technology knowledge transfer.
+• Involved in Siebel Call center application to implement Oracle Streams for business continuity.
+• As an SME (Subject Matter Expert), responsible for expert technical support and knowledge transfer.
+• Provide diagnostics of complex performance issues, troubleshoot the root cause of the problem and fix it.
+• Implement and Support High Availability applications through the data synchronization.
+• Responsible for maintaining the Production, Development, Test and Training databases and providing support to make sure that the database is available whenever it is needed for the clients.
+• Maintain the Application schemas, Logging the Schema changes and Schema versions.
+• Installation of Oracle 11g, 10g server as well as the application schemas.
+• Populating the schema with the minimal data & Review the existing partitions and made changes as they needed.
+• Review and suggest various enhancements to the application schema & objects to take advantage of Oracle12c / 11g.
+Page 3 of 5
+• Review the existing partitions and made changes as they needed.
+• Maintain and schedule backups & restore whenever in need. Develop RMAN backup strategy and implement the backup / restore with RMAN.
+• Support the databases to help traders, financial analysts, etc. Support the databases for batch operation, data migration and data feeds like daily market feeds from outside sources.
+• Other miscellaneous responsibilities include performance tuning, query tuning, Identifying and dropping the unused indexes, creating new indexes to improve performance, Contacting Oracle Customer Support etc. Senior Oracle Consultant, Credit Suisse (CS), New York, NY Jan 2005 – Oct 2007 Software Oracle 10g, Oracle 10g RAC, Streams, Oracle 9i, Oracle 8i, Oracle 8.0, Oracle 9i RAC, Sun Solaris, RedHat Linux, Oracle Data warehouse, Server Manager, Oracle Enterprise Manager, SQL * Plus, Export, Import, SQL * Loader, Statapack, DBArtisan from Embarcadero, etc. Hardware Sun Ultra Enterprise Servers, Intel Xeon based egenera blade servers, Clients running Windows NT/95/2000 on IBM Compatible Intel Pentium desktops. Description
+Credit Suisse Group is a leading global financial services company headquartered in Zurich. Credit Suisse provides private clients and small and medium-sized companies with private banking and financial advisory services and banking products. CS’s businesses include securities underwriting, sales and trading, financial advisory services, investment research, and venture capital and brokerage services for financial institutions. It also provides asset management products and services. Responsibilities
+• As a Senior Oracle Consultant, and DBA Team Lead for front office Oracle databases, responsible for help desk ticket assignments pertaining to DBA depending upon the severity and expertise of available staff.
+• Providing proper responses to all the alerts generated by various systems and resolving them.
+• Making sure the day-to-day activities and the regular maintenance jobs got done on time.
+• Be as a point of contact for on-call escalations for production outages and scheduled production job failures.
+• Prepare project plans, identify tasks and deliverables, assign and follow up the progress to team members.
+• Send weekly status reports to the Management indicating the progress of projects and issues.
+• Provide diagnostics of complex performance issues troubleshoot the root cause of the problem and fix it.
+• Implement and Support High Availability applications with Oracle such as Oracle Streams and RAC.
+• Responsible for maintaining the Production, Development, Test and Training databases and making sure the data is available whenever it is needed.
+• Installation of Oracle 10g, Oracle 9i, Oracle 8i server as well as the application schemas.
+• Responsible for handling complex upgrades like from 9i to 10g RAC or streams, from one platform to another, from 32 bit to 64 bit etc.
+• Review and suggest various enhancements to the application schema & objects to take advantage of Oracle 9i and Oracle 10g.
+• Educate partition management and make changes as necessary.
+• Maintain and schedule backups & restore whenever in need.
+• Support the databases to help traders, financial analysts, etc. Support the databases for batch operation, data migration and data feeds like daily market feeds from outside sources.
+• Other miscellaneous responsibilities include performance tuning, Contacting Oracle Customer Support etc. Senior Oracle DBA, Memorial Sloan Kettering Cancer Center, New York, NY Sep 98 – Oct 99 Software Oracle 8i, Oracle 8.0 & Oracle 7.3.4 under HP-UX10, Sun Solaris and AIX, Oracle Data warehouse Server Manager, Oracle Enterprise Manager, SQL * Plus, Export, Import, SQL * Loader, TK*PROF, Oracle Connection Manager (Net8) etc.
+Hardware HP 9000 Series Servers, Sun Ultra Enterprise Servers, IBM R series servers, Clients running Windows NT/95 on IBM Compatible Intel Pentium desktops.
+Page 4 of 5
+Description
+Memorial Sloan Kettering Cancer Center is a non-profit Organization established in 1884, is the oldest and largest private institution devoted to prevention, patient care, research, and education in cancer. MSKCC has 6 locations in Manhattan, 2 locations in Long Island and 2 locations in New Jersey. There are many applications at MSKCC using Oracle database. An application called Transition to Quality (TQ), developed by TSI Systems, is used to review the in-patient and to prepare for the discharge, tracking and following up the payments from insurance companies etc. A data warehouse application T2 takes care of maintaining the historical data. ESIG (Electronic SIGnature) takes care of the Electronic authorization of medical records. ChartVision / OmniVision developed by Lan Vision to scan all the paper documents and store it in the electronic format for a paperless office. FILENET manages the storage and retrieval of all the scanned documents in the optical platter. The IT division is responsible to maintain, enhance, support, upgrade of application as well as server etc.
+Responsibilities
+• Responsible for maintaining the Development, QA, Production databases and providing support to make sure that the database is available whenever it is needed.
+• Maintaining the Application schemas, Logging the Schema changes and Schema versions.
+• Installation of Oracle 8i, Oracle 8.X and Oracle 7.X server as well as the application schemas.
+• Populating the schema with the minimal data & Review the existing partitions and made changes as they needed.
+• Review and suggest various enhancements to the application schema & objects to take advantage of Oracle8i and Oracle 8.X.
+• Review the existing partitions and made changes as they needed.
+• Implementing RR format fix as they needed depends on the nature of application.
+• Maintain and schedule backups & restore whenever in need.
+• Other miscellaneous responsibilities include performance tuning, query tuning, Identifying and dropping the unused indexes, creating new indexes to improve performance, Contacting Oracle Customer Support etc. Senior Oracle DBA, Intl. Telecommunication Data Systems, Stamford, CT Oct 97 - Aug 98 Software Oracle 8.0 & Oracle 7.3.3 under HP-UX10.2 and Sun Solaris 2.5, server manager, Oracle Enterprise Manager, DB general, SQL * Plus, Export, Import, SQL * Loader, TK*PROF, S-Designer, etc. Hardware HP 9000 Series Servers, Sun Ultra Enterprise Servers, Clients Windows NT/95 on IBM desktops. Description
+ITDS, the second largest cellular billing solutions provider in the world, provides its customers with the totally integrated billing software called "The Edge" to its clients. ITDS also provides various miscellaneous products such as Fraud Protection S/w for cellular phones. The client list includes Frontier Communications, WilCom etc. "The Edge " has all capability for downloading data from any data source to billing and analyzing the credits to the customers, etc.
+Responsibilities
+• Responsible for maintaining Application schema, Schema changes and Schema versions.
+• Installation of Oracle 8.0 server as well as the client and review and suggest various enhancements to the current application schema & objects to take advantage of Oracle8.
+• As a DBA member of Change Control Board, responsible for providing input for all change requests and approve or disapprove them based on the input.
+• Responsible for all installation, maintenance and upgrade of Oracle in various Platforms.
+• Other miscellaneous responsibilities include performance tuning, query tuning, Identifying and dropping the unused indexes, creating new indexes to improve performance, Contacting Oracle Customer Support, backup
+& recovery, database sizing, developing & implementing security standards, partitioning etc. Oracle DBA, GTE Card Services, Dallas Dec 96 - Oct 97 Page 5 of 5
+Software Oracle 7.1.6 Parallel server running on three nodes, AIX 3.2.5, SQL*DBA, Server Manager, Oracle Enterprise Manager, Adhawk Monitor, Adhawk SQLLab, Adhawk Spacer, DB General, PL/SQL, SQL*Plus, Export, Import, SQL*Loader, TKPROF, etc. Hardware IBM R24, Clients running Windows NT/95 on IBM Compatible desktops. Description
+GTE Card Services, part of GTE Telecommunications, provides customers with Postpaid, Prepaid and Cellular calling cards. The Platform through which these calls are placed is active on 7 days by 24 hours basis. The application stores and maintains all accounts in the database. The database is updated on a real time basis. Responsibilities
+• Responsible for administering 40 gigabyte Oracle 7.1.6 Parallel Server.
+• Analysis and fine tuning of SQL and PL/SQL scripts, analyzing the index usage.
+• Database growth tracking, Capacity planning. Addressing the fragmentation problem & reorganizing tables
+• Tracking Backup, Recovering the database when necessary.
+• Monitoring the database activity & Contacting Oracle Customer Support when needed. Oracle DBA, Mindscape Computing Private Limited, Bangalore, India Jan 96 - Nov 96 Software Oracle 7.1, HP-UX, Windows NT, SQL*DBA, Server Manager, PL/SQL, SQL*Plus, Export, Import, SQL*Loader, TKPROF, etc.
+Hardware HP 9000, Windows clients running on PCs.
+Description
+Mindscape is a software consulting firm. The project, which we developed for Arvind Clothing Limited, India, was based on the MRP-II concepts.
+Responsibilities
+• Installed and created new databases for development, testing and production. Converted the logical data model to physical data model. Partitioned database to minimize I/O. Generated schemas and enforced the security rules. Executed stress testing, results of which were used for performance improvement. Developed a backup and recovery plan, tested it in the test instance and suggested it for production. Installed the product at client site and provided on-site support on a 24-hour basis. Consultant, Tube Investments of India Limited, Madras, India Jun 91 - Aug 92 & Nov 94 - Dec 95 Oracle DBA, Quality Control System / Rolls & Tools System / Production Planning & Control Apr 95 - Dec 95 Software Oracle 7.1, HP-UX, Windows NT, SQL*DBA, Server Manager, PL/SQL, SQL*Plus, Export, Import, SQL*Loader, TKPROF, Developer 2000 etc. Hardware HP 9000, Windows clients running on PCs.
+Description
+• Responsible for design and development of the application. Assisted in database related performance issues, created and managed schema and schema objects.
+• Design & development of an Inventory system, which maintains raw material storage, provides production information, and controls routing of raw materials for preprocessing. This system was also integrated with a financial application package to automate payments to vendors & subcontractors. Was also responsible for executing unit tests, integration test, and fixing bugs.
+• Involved in coding, design, and maintenance of a sales & marketing automation application. This system assists the user in tracking customer inquiries and quotations, provided by the company and also helps in obtaining customer orders, and generates acceptance or regression letters. References available on request.
+
+Contact this candidate

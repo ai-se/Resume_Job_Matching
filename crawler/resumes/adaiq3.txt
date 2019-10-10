@@ -1,0 +1,129 @@
+
+OBJECTIVE
+Looking for Management Position
+in IT in a reputed Organization
+having a chance to grow with the
+Organization, which will
+compensate my Qualifications
+and Experiences in Various
+positions in IT, as Technical Pre
+Sales Manager, Technical
+Manager-Projects, IT Consultant,
+and System Engineer in GCC
+Countries : Saudi Arabia, Kuwait
+and UAE.
+CONTACT
++966-*********
+adaiq3@r.postjobfree.com
+Riyadh-KSA
+SKILLS
+IT Management
+Solution Management
+Strategic Planning
+AD, DB, VM, Network, Development
+Customization, Integration
+Business Analysis, Cloud Computing
+Costing, Budgeting, Team
+Management
+QUALIFICATION
+MBA (Information System)
+ITIL (V3 Foundation)
+B.Sc ( Mathematics)
+DISM ( Diploma in Information
+System)
+MCP ( Microsoft Certification)
++ FACTORS
+GCC Valid Driving License (Dubai)
+Arabic Speaking
+SALEEM KARENGIL
+B.Sc.MBA, MCP, ITIL
+WORK EXPERIENCE
+1.Presales Manager – Tejoury KSA
+( Digital Transformation, ECM, Record Management, Digital Archiving, BPO,IT infrastructure )
+March 2019–To Present
+Responsibilities
+• Assessment for Government, Banks and Corporate Project for Digital Transformation, ECM Solutions, Digital Archiving, Record Management & IT Infrastructure
+• Assessment and Solution Presentation to Higher Management.
+• Define Scope of Work for IT infrastructure, ECM & Record Management Solutions, IBM FileNet, Laserfiche, RS- SQL, and BPO
+• Costing for Software & Solutions, Manpower, Equipment and Materials and Provide Technical and Financial Proposal
+• Analysis Risk factors existing and may occur on the fly
+• Formulate Detailed work flow from scratch to end and Hand over to Technical people and Operation
+• Support for Technical people in Active Directory, Installations, Storages, Databases and VMs if Required
+• Integration Support to Technical people for Customization and integration with customers software like ERP(SAP,ACCPACC), CRM, POS, HR, ECM, DMS
+• Participating in tender meetings for clarification and C-Level Communication
+• Provide support to Strategic Department
+• Design SLA on ITIL Basis
+• Provide Cloud Solutions for ECM for Required Customers.
+• Manage Technical Per Sales Team.
+• Cross department communication and Co working.
+2.Technical Manager
+Kuwait United Company
+(A Division of MA Kharafi Group 2012-2018)
+Responsibilities.
+Manage IT Department
+• Manage Devices, Systems and People
+• Design and Implement Policies, Software and Hardware
+• Administration of Network, Servers & Operating Systems
+• Administration of Oracle and SQL Server Databases
+• Delivering Reports for Management for Business Analysis and Development
+• Team Building and Management
+• Demonstration and Training
+• Installation configuration and Trouble shooting ERP(Sage Accpac),POS(Oracle based), ECM ( Laserfiche),
+• Formulate Backup and Fault Tolerance activities and Storage Plans
+• Manage Exchange Server
+• Manage Vendors and Contractors accordance with SLA
+• Implement Best Practices in IT as directed by ITIL best Practices
+• Manage Cloud Solutions for emails, servers and Software ( PaaS, SaaS & IaaS)
+• Manage Development and Integration
+•
+Manage IT Projects
+• Manage ECM (Enterprise Content Management Solution -Laserfiche) Projects for Governments and Private Sector as follows
+• Study of customers Environment for Scope of works for Digital Transformation which includes Flow of Works, Hierarchies of Approval, Document Movement, Authorization, Authentication, Privileges, Securities, Tracking, Digital Signature, Mail Notifications, requirement of Integration with other Software like ERP,POS, CRMS or other Solutions in Customer’s Environment.
+• Planning Software Solution & IT Hardware
+• Planning Digital Transformation Solution as there any requirement in form of customization of our Product Suits (Laserfiche ECM ), Developments requirements in Visual C#, Work Flow Design, Business Process creation
+(BPMN), Auto Capturing Design etc. Selection of Software from our array of tools according to customer’s requirements
+• Selection of OS Platform, Like Windows Servers, Work Stations, Virtual Environment like VM, Hyper V, Storage Selection like ISCSI, Fiber Channel. Selection of Physical Servers with required Hardware Specs, Storage Devices, etc.
+• Implementation of ECM solution with detailed work plan, time plan, man power coordination with reduced system down on customers environment while installation of Laserfiche Servers, Databases, Work Flows, BPMN according to mutually agreed time, facilities and cost.
+• Tracking the Activities of Installation signing confirmation documents of completed jobs. Corrections, Changing of Module as required and Completion
+• Develop Software in C#, ASP.NET MVC, AJAX, JSON, JAVASCRIPT, HTML, CSS for integration with customers solution.
+• Administering Active Directory, Network, Database, Routers, Firewalls, and Trouble shooting 3. IT Consultant
+FedEx Kinko’s UAE ( May–2008 to June-2011)
+Responsibilities
+• Manage and Consultancy to all IT Jobs for FedEx Kinko’s in UAE for their Head office and 10 Branches.
+• Create IT Plans and Budgeting for the financial year
+• Trouble Shooting OS Hardware, Network, AD, Servers, Storages
+• Creating IT Policies for Users, Resources and Devices
+• Formation of Access rights, Privileges, and Securities
+• Monitoring activities in IT system, CCTV system
+• Backup of Databases and other Sensitive and Secured Data
+• Implementation of ECM(Enterprise Content Management System - Laserfiche) projects
+• Installation and Configuration of ERP system with SQL Server
+• Installation and Configuration of Kinkos POS System with Oracle DB, Oracle Forms, Oracle Reports.
+• Follow up with vendors for deliveries, Services and products according to Service Level Agreement. 4.SYSTEM ADMINISTRATOR
+Amwal International Money Exchange Abu Dhabi (Oct -2005 to Dec 2006 ) Responsibilities
+• Manage IT Department. Administrating Active Directory, SQL Server. Configuration and Administration of Symex Exchange Software. Control the share market software with Abu Dhabi Security Exchange and Dubai Financial Market with ATM line. Creating reports for trades. Login and Logout form Share Market Software. Checking the connectivity in ATM Lines.
+• Development of Profile Software in VBA for share market Traders. Configuration, trouble shooting, performance tuning of Hardware Software Network.
+• Performing Security with Antivirus and Firewall Software and Hardware.
+• Installation, Assembling of Servers of All kind Tower, Rack and Blade. Management of Speech log software and IP Phone and PABX system
+• CCTV camera taking reports, trouble shooting backup
+• Backing up of company data from SQL server and configure back up plan. 5.COMPUTER ENGINEER
+Aysha Compute Services Abu Dhabi ( 2001 March to Jul 2005) Responsibilities
+• Sales and Service of PCs, Hardware and Network Products. Assembling PCs from Components, Format and trouble shooting HW and SW problems. Punching Cables, Patch Panels, Out lets Switches and Telephone lines. Configuration of Internet Gateways, Switches and Boosters. 6.COMPUTER INSTRUCTOR
+IIC Computer Services Abu Dhabi ( Oct -1999 to Feb 2001) Responsibilities
+• Taking Computer classes in HW and Software . Teaching Programming Languages Like Visual FoxPro, Visual Basic Oracle and SQL Server.
+• Creating Small Software for small companies in Inventory control system and Point of sales for van sales in dBase and FoxPro as freelancer
+SOFTWARE AWARENESS
+OS: Windows Servers (2003-Latest), Mac, Linux
+MAIL SERVER : MS- EXCHANGE
+OFFICE SUITE : MS OFFICE 365 and Office Standards
+DATABASE : Oracle, MS-SQL
+ERP : ACCPAC, Microsoft Dynamics AX, SAP
+ECM : LASERFICHE, SHARE POINT, FILENET
+MONEY EXCHANGE SOFTWARE : SYMEX, WESTER UNIONS, EXPRESS MONEY RECORD MANAGEMENT : ONEI’L ( Rs-SQL)
+CLOUDE : AZURE, GOOGLE CLOUD
+NETWORK : CISCO Device Manage, Juniper, and Other Gateway &Router Software VIRTUAL : VM ware, Hyper-V, Oracle Box
+DEVELOPMENT:C#,CSS, Java script, J Query, Ajax,
+SEMINAR & TRAINING ATTENDED
+DGCA ( Two day Dubai Gold and Commodity Exchange Training for IT People in Dubai ) SAP & Hana ( One Day awareness for IT Managers by SAP in Kuwait ) Oracle Clouds ( One Day full Cloud Solution awareness for IT Managers by Oracle in Kuwait)
+
+Contact this candidate

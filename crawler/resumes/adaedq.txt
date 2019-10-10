@@ -1,0 +1,180 @@
+
+Takunda Mudhokwani - Curriculum Vitae
+
+Date of Birth: 23 April 1990
+Contact Number: +263-***-***-***
+Email: adaedq@r.postjobfree.com
+ID: 63-2407006-T-80
+Current Residence: Zimbabwe
+Citizenship: Zimbabwean
+
+Education:
+Microsoft Technology Associate Database Fundamentals
+NCC International Diploma in Computer Studies
+
+Work: Zimbabwe Shared Services, Senior Data Analyst / Database Engineer Team Lead
+February 2018 to Present
+
+PROFESSIONAL SUMMARY
+
+I am an eager to continuously learn Data Enthusiast with 6 years solid experience
+
+managing and reporting from data systems, business intelligence design and
+development, and data analysis
+Proven knowledge of tools: SQL Server database querying and development, SQL
+
+Server BI Stack, Power BI, ELK Stack
+T-SQL programming queries, stored procedures, triggers and functions.
+
+Administering multiple SQL Server instances
+
+Configuring, Scheduling and administering routine Jobs, Alerts and Maintenance
+
+Plans.
+Implementing Backup & Recovery solutions
+
+Optimising hardware and software for SQL Server
+
+Experience with Performance Tuning and Optimization using native monitoring and
+
+troubleshooting tools
+Defining and configuring security and access in SSMS including creating logins,
+
+users, roles, and assigning permission to them
+
+TECHNICAL SKILLS
+
+Databases: SQL Server 2012, SQL Server 2014, SQL Server 2016, MySQL,
+Postgres
+Programming: T-SQL, MDX, HTML, CSS3, JavaScript
+Operating Systems: Windows 7, Windows 8.1, Windows 10, Windows SBS11,
+Windows Server 2012, Ubuntu Linux
+Other Technologies: Microsoft Azure, Office365, WordPress, Visual Studio 2013,
+Visual Studio 17, Visual Studio Team Services, Visual Studio Code, GitLab,
+ElasticSearch, Grafana
+
+EDUCATION & CERTIFICATIONS
+
+2013 Microsoft Certified Professional: Microsoft Database Fundamentals
+2009-2011 NCC International Diploma in Computer Studies (Speciss College)
+2007-2008 A Level (Geography, English Literature) (Gateway High School)
+2003-2006 O Levels (St. Johns High Emerald Hill)
+2007 Junior Achievement Zimbabwe - Gana Dinero
+2006 Education for Life (Deseret International) training in HIV/AIDS
+awareness and prevention
+
+Currently pursuing Microsoft Certified Solutions Associate
+
+WORK RELATED TRAINING
+
+2016 Administering Microsoft SQL Server 2012/2014 Databases Adept Training
+2015 Querying Microsoft SQL Server 2012/2014 Databases Adept Training
+2014 SMART Notebook Intermediate Training
+
+WORK EXPERIENCE
+
+1. Zimbabwe Shared Services
+Period: March 2018 - Present
+Job Title: Senior Data Analyst / Database Engineer Team Lead
+Team Size: 3
+Duties:
+
+Team lead responsible for setting up a BI and DBA department to provide all BI
+
+solutions, data management and administration, and problem-solving data/report-
+related issues for the company and its clients.
+Data warehousing all financial data for local and regional banks from various sources
+
+using proprietary tools and SSIS.
+Power BI and SSRS Reports development.
+
+Developing and reviewing stored procedures for reporting.
+
+Finding new products and opportunities for BI Solutions.
+
+Training financial institutions on various reporting systems, including Power BI,
+
+SSRS, and ELK Stack.
+Managing database architecture and servers for data warehouses.
+
+Performance tuning for high velocity financial transactions.
+
+Providing high availably of SQL Server databases by mirroring and replication.
+
+Developing monitoring dashboards in ELK stack and Power Bi for DBAs and First
+
+Line Support.
+Enabling automation for fraud detection
+
+Analysing data for supporting business decisions.
+
+Managing Git Repositories for all reports.
+
+Ensuring sensitive data is always encrypted in SQL Server.
+
+Deploying SQL Server Instances on Windows, Docker, and Linux.
+
+2. Newlands Clinic (Ruedi Luethy Foundation)
+Period: January 2013 February 2018
+Job Title: Data Officer
+Team size: 4
+Duties:
+
+Producing SSRS reports for business intelligence and reporting to Ruedi Luethy
+Foundation, Ministry of Health Zimbabwe, National Aids Council, IeDEA, and
+World Health Organisation
+SQL Server Database Administration and managing maintenance plan for optimal
+performance
+Implementing and monitoring backup, disaster recovery and high availability
+solutions
+Creation of test environment for new feature deployment and testing of new
+functionality
+Implementing early warning alerts and monitoring systems for SQL Server
+Initiation and leading the implementation of DevOps procedures and Agile based
+application life cycle management
+Working with Microsoft support on trouble of database or application server
+Performance tuning and optimization using native SQL tools
+Troubleshooting and resolving bottlenecks and deadlocks in SQL Server
+Designing of various technical documents including Release Management SOP
+and Upgrade Plans
+Providing technical support and mentorship to Newlands Clinic partners including
+Ministry of Health and Population Services International
+Basic computer literacy training
+Network support and configuration
+
+4. Humambo Group (Johannesburg, South Africa)
+Period: January 2011 December 2012
+Job title: Junior IT
+Technician Team size: 2
+
+Duties:
+
+Installing and configuring computer hardware, software, systems, networks,
+
+printers and scanners
+Talking to clients and computer users to determine the nature of any
+
+problems they encounter
+Investigating, diagnosing and solving computer software and hardware faults
+
+Managing stocks of equipment, consumables and other supplies.
+
+Maintaining network diagrams and connectivity records.
+
+Maintaining client support logs
+
+PROFESSIONAL MEMBERSHIPS
+
+Association for Computing Machinery: Member number 9755292
+REFERENCES
+
+1. Mr Kundai Pfende
+IT Manager - Newlands Clinic
+adaedq@r.postjobfree.com
++263-*-***-***
+
+2. Mr George Mande Humambo Group
+adaedq@r.postjobfree.com
++27-12-003-****
+
+Contact this candidate

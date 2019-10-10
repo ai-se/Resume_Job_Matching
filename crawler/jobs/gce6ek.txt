@@ -1,0 +1,41 @@
+Job Title = Senior Database Engineer
+
+Were looking for humble, but ambitious, razor-sharp Database Engineer who can teach us a thing or two. We promise to return the favor. Like us, you know how to design a solid database schema and have a long experience owning databases that can never go down in AWS RDS. You know who to create reliable infrastructure in AWS to make sure the database is always up and running but also know how to create a backup and DR strategy and use it in the extreme case that failure happens.
+
+Why We Need This Role
+We are designing our central DB from the ground-up in AWS RDS and planning ETL jobs to bring in the data dispersed in multiple databases created by separate teams within the organization. We rely on this role to design the new schema, specify the ETL processes, and execute them in a way that does not interrupt the live applications. You are also expected to design the new database infrastructure based on AWS RDS in a way that guarantees it will almost never go down while creating a backup and DR plan to bring the database back up in the rare case that failure happens.
+
+Why You Should Join
+This is a challenging and diverse role that requires you to build both, an organization and new generation of Builder product, nearly from the ground up. Only join this role if you are craving rapid growth, able to create a path in unchartered territory, and comfortable with trying, failing and course-correcting fast.
+
+First Six Month Deliverables
+Design, administer, support and maintain large-scale data and database infrastructure to meet the needs of our clients, projects and internal tools.
+Migrate data from various distributed databases and consolidate into a centralized, company-wide database warehouse.
+Manage migrations and the competing data needs of our various departments and help guide the development of our applications from a database perspective.
+Perform database scaling and reliability analysis. Maintain data integrity and up-time in multiple production environments.
+Implement best-practice methods for backups and data integrity.
+Configure databases and support replication on multi-terabyte Postgres databases. Monitor, upgrade and patch as required.
+Optimize, boost performance and tune our databases.
+Support downstream analysis from various departments and internal company applications.
+Requirements
+Passionate about loosely held values and ideas. We want someone who has experience but is not blinded by the path already taken
+4 plus years solid Database Administration with RDBMS like Postgres
+3 plus years maintaining highly scalable, and fault-tolerant RDS in AWS
+3 plus years creating backup and DR plans
+Must be familiar with NoSQL databases such as MongoDB
+Must be familiar with how to leverage the core building blocks within AWS
+Experience with common database administration tasks including backup and recovery, monitoring, security and data-related maintenance (PostgreSQL preferred)
+Ability to analyze, diagnose and tune database and query performance at all associated layers
+CS degree required or equivalent work experience
+Benefits
+Health and Wellness benefits including competitive medical, dental, and vision plans
+Performance-based bonuses and stock options
+Generous vacation and time off benefits including paid holidays
+Generally flexible working hours
+Working in a beautiful office space the heart of Silicon Beach in Playa Vista
+A collaborative culture where unconventional thinkers come together to solve interesting problems and having fun while doing it
+Mission-driven company that is making the world a better place
+
+
+Go to apply 
+

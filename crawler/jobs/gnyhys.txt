@@ -1,0 +1,15 @@
+Job Title = Engineer
+
+Job Description Summary/Work Environment/Physical Demands/Daily Activities:
+This position will support technical manual development using ASD S1000D Issue 4.1 XML specification in order to create Interactive Electronic Technical Manuals (IETMs) manuals provided by the government. The candidate will create new, update existing, and convert legacy technical manuals using the ASD S1000D Issue 4.1 XML specification. Understanding development of data modules and DTD/Schema a plus. The candidate will provide consultation and expert advice to mixed government and contractor technical Manual team.
+Essential Duties/Responsibilities/Functions:
+The candidate must be able to mentor junior authoring personnel with little to no xml authoring experience. The candidate will prepare draft material for internal review by subject matter experts and final review by customer. The candidate will utilize Arbortext, @Contenta,,Adobe Acrobat and Microsoft Office products.
+The position requires the ability to work with tight deadlines with strong attention to detail with organizational skills. The candidate must be able to mentor junior authoring personnel with little to no xml authoring experience. The candidate will prepare draft material for internal review by subject matter experts and final review by customer. The candidate will utilize Arbortext, @Contenta, Adobe Acrobat and Microsoft Office products.
+Job Requirements (Education/Experience/Skills/Certifications/Licenses):
+Education: Bachelors Degree required in engineering is preferred and excellent written communication skills and a minimum of five (5) years technical writing/editing experience.
+Preferences
+Experience in technical Documentation. Proficient in the use of word processing software or desktop publishing software. Arbortext xml, SGML, HTML experience a plus. Experience: Experience with XML authoring and ASD S1000D XML specification Issue 3.0 or higher. A minimum of nine (9) years' experience authoring USN maintenance information directly from engineering source data is required. Experience authoring NAVSEA technical manual development, delivery, and integrated logistics support (ARs, MIL STDs and MIL-PRFs, IETMs, DIDs, etc.) is required.
+
+
+Go to apply 
+

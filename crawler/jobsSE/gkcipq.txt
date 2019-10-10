@@ -1,25 +1,51 @@
+Job Title = J2ee Or Gis Or Oracle Or Engineer Or Java jobs in Raleigh, NC, 27606
 
-Position Title:- AWS Cloud Engineer
-Job Location:- Irving, TX
-Joining Mode:- Long Term Contract
+Computer Consultants International  – 
+Durham, NC, 27701
+This position serves as a J2EE Technical Architect to be responsible for translating the business and functional ... Experience and proficiency with Oracle PL/SQL and SQL against Oracle 12c database. Required. * 7 Years. Proven skill in ...
+- StartwireL2, Sep 30
 
-Job Description:-
-AWS Architecture, Pitney Bowes Address data management,
-Strong AWS knowledge is must here
-Working experience with version control tools Git, SVN etc.
-Working with onsite, offshore teams
-Multiple technologies, changing priorities
-Systems and processes related to agile projects
-Working experiences in interfacing with SOAP / REST APIs / Web services
-Experience in Working in Agile methodologies
-Experience in working with Continuous Integration (CI) and Continuous delivery(CD) frameworks including Git, Stash, Jenkins, Maven etc
-Strong knowledge / working experience databases preferably PostgreSQL/Oracle
-Java, J2EE, Weblogic, AWS Architecture,
-Pitney Bowes Address data management,
-Scala / elastic search, PostGres database,
-Familiarity with master data and data quality projects,
-Familiarity with GIS data, location data will be an advantage
+Computer Consultants International  – 
+Durham, NC, 27701
+... Design/coding experience using Java/J2EE with Eclispe/RSA and JavaScript. Required. * 5 Years. Experience with relational database (e.g. Oracle), XML, JSON, SQL, Ant, and source code management tooling such as Subversion or GIT. Required. * 5 Years. ...
+- StartwireL2, Oct 03
 
+Baanyan.com  – 
+Raleigh, NC
+... Sr Java J2EE Developer Raleigh, NC Contract/C2H Job Description: -Expertise in server side development. -Technologies include: Core Java, J2EE, Multi-threading, Cache Technology(Oracle Coherence/Apache ignite), Spring Framework. Spring Boot, ...
+- ZipRecruiter, Sep 17
 
-Apply now
+Credit Suisse  – 
+Raleigh, NC, 27601
+Java/J2EE Application Developer to join our growing team of Opera/DAL application in the Product Control IT department in Credit Suisse. Opera DAL as sub-ledger application is responsible to assign GL accounts and provide data to consumers like PC ...
+- Lensa, Oct 07
 
+Credit Suisse  – 
+Raleigh, NC, 27601
+We Offer Java/J2EE Application Developer to join our growing team of Opera/DAL application in the Product Control IT department in Credit Suisse. Opera DAL as sub-ledger application is responsible to assign GL accounts and provide data to consumers ...
+- Jobg8, Oct 02
+
+Computer Consultants International, Inc  – 
+Durham, NC, 27703
+React Mobility Developer (Java/J2EE/Oracle/SOAP/Mobile Test Automation) (Job ID: 581403) N Park Ln, Durham, NC 27713, USA Full-time Company Description Computer Consultants International, Inc. (CCI) is an IT Consulting Firm with more than 18 years ...
+- Lensa, Oct 07
+
+Computer Consultants International, Inc  – 
+Raleigh, NC, 27601
+Lead Java Application Developer (IBM/ETL/Java/J2EE/CSS/REST/SOAP) (Job ID: 583843) 2105 Umstead Drive, Raleigh, NC 27603, ... Good understanding of relational database concepts, specifically Oracle, and software development life cycle is required. ...
+- Lensa, Oct 07
+
+Cynet Systems  – 
+Raleigh, NC
+In this role the ideal candidate will support existing staff to better manage production maintenance work load distribution of Java based tasks activities . Tasks might include such things as review and change Java to ensure proper handling of ...
+- Neuvoo, Sep 23
+
+Computer Consultants International  – 
+Durham, NC, 27701
+... This resource will install, configure, upgrade, troubleshoot Oracle Data Integrator (ODI), SOS Job Scheduler(JS) and IBM ... Experience setting up physical/logical schemas, configuring J2EE agents as per business requirements. Required. * 5 Years.? ...
+- Jobs2Careers, Oct 07
+
+Computer Consultants International, Inc.  – 
+Durham, NC
+... This resource will install, configure, upgrade, troubleshoot Oracle Data Integrator (ODI), SOS Job Scheduler(JS) and IBM ... Experience setting up physical/logical schemas, configuring J2EE agents as per business requirements. Required. * 5 Years. ...
+- Neuvoo, Sep 09

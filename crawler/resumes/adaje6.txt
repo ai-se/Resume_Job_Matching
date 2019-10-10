@@ -1,0 +1,122 @@
+
+Resume
+Karuna Karan Upadhyay
+HN-**, S.S Puram Sundar Vinayaga Nagar, Thiruverkadu, Chennai 600077
+Email: adaje6@r.postjobfree.com Contact# +91-967*******, 740-***-****
+
+Experience Summary:
+Currently working as Technical Support Associate from 25 February 2019 to till date.
+Call logging and proper update of all pending calls till closure. Track and update call related information generate report daily, weekly and monthly pending and closer call’s as per ITIL standard & process with strict adherence to SLA norms
+Basic knowledge on ITIL CONCEPTS
+Converting business requirements into appropriate technical solutions.
+Basic query knowledge on SQL server (MS-2005,2008 R2).
+Willing to work in different time zones.
+Familiarize end users on basic software, hardware and peripheral device operation and solve basic queries.
+Basic troubleshooting knowledge for internet/ LAN and WAN Connectivity issues.
+Diagnose and quickly resolve a wide range of Windows/ Microsoft/ Desktop applications issues.
+Employment Experience:
+Worked as a Technical Support Executive for Nestle India LTD on behalf of RandStad India LTD from 03 March 2014 till 2 February 2019.
+Worked as a Technical Support Executive for CITICORP FIANENCIAL IND LTD (Citibank) on behalf of CMS Info Systems Pvt Ltd from 22 March 2010 to 30 November 2013.
+Worked as a Technical Support Executive for IBM India Private Limited on behalf of Network Solution Pvt. Ltd. (An IBM Company) from March 2008 to 10 Jan 2010.
+Present Experience:
+Working as a Senior Technical Support Associate at Botree Software International Pvt. Limited
+, Chennai from February 25/02/2019 to till date.
+Education Qualification:
+B.A From Swami Devanand Math Lar collage, Deoria, Utter Pradesh.
+Professional Qualification:
+MBA (IS) from Sikkim Manipal University,
+MCSA Certification and training for MCSE from IACM South X Delhi.
+CCNA training from IACM South X-II New Delhi
+Microsoft certified (MCSA) ID:-5936989
+ITIL training from Network Solution an IBM company.
+Microsoft Certified Desktop Support Technician (MCDST) training from Network Solution an IBM company.
+Technology Skills:
+
+Below is the list of important languages, software products, tools and databases that I have worked with.
+
+Database Skills : SQL SERVER 2005, SQL SERVER 2008 R2
+Testing tools : Manual testing concepts. Operating System Windows 7, 8 and 10 / XP / 98
+Language : Basic MS SQL Server SQL 2005 & 2008 installation, Configuration & solve basic queries.
+Other Skill : Installation and Configuration of Active Directory Services
+Mail Client : Configuration and troubleshooting of Microsoft Outlook 2000/2003and 2007.
+O/S : Installation, configuration and Managing of Windows 7 up to Windows 10 machines.
+Anti Virus Software: Quick heal Antivirus, kaspersky, k7&McAfee etc.
+
+Project #1:
+Client : MTR FOOD’s (Chennai)
+Team size : 3
+Project : DMS (CORE STOCKY) and SFA, CPG.
+Duration : 25 Feb ’2019 to till now 2019
+Environment : SQL Server 2005, SQL Server 2008 & SFA
+Description : This is an DMS, SFA, Master Data (ETL) Project and is used by MTR FOOD’s India Ltd
+Extending post : This is an L1/L2 support with all ticket and customer quires.
+Project #2:
+Client : Nestle India Ltd (Uttrakhand)
+Team size : 11
+Project : DMS (CORE STOCKY) and SFA, CPG.
+Duration : 05 Mar’2014 to 02 Feb 2019
+Environment : SQL Server 2005, SQL Server 2008 & SFA
+Description : This is an ERP Project and is used by Nestle India Ltd
+Extending post : This is an L1 support with all ticket and customer quires.
+
+Project #3:
+
+Client : CITICORP FIANENCIAL IND LTD@ Citibank (Delhi)
+Team size : 6
+Project : System Admin
+Duration : 22 March 2010 to 30 November 2013
+Environment : Installation, configuration and Troubleshooting of operating systems
+Applications and Software on desktops.
+Description : This is an L1 support with all ticket and customer quires
+
+Project #4:
+
+Client : IBM India Private Limited and SSL (Delhi)
+Team size : 9
+Project : System Admin
+Duration : March 2008 to 10 Jan 2010
+Environment : Installation, configuration and Troubleshooting of operating systems
+Applications and Software on desktops level.
+Description : This is an L1 support with all ticket and customer quires
+Extending post : Familiarize end users on basic software, hardware and peripheral device (pos) operation and solve basic queries. Basic troubleshooting knowledge for internet/ LAN and WAN Connectivity issues. Diagnose and quickly resolve a wide range of Windows/ Microsoft/ Desktop applications issues.
+
+Role and responsibilities as a Technical Support Associate:
+L1, L2 support engineer.
+Resolving the issues based on priority by taking Remote access of DB system
+Maintain the team for good productivity.
+Reporting the status of the tickets to the manager of our development.
+Responding to the user queries and resolving the user tickets.
+Interacting with onsite clients and scheduling the jobs accordingly.
+Handling Fresh Database Activity from past 5Years to till date.
+Handle all SQL related problems and provide technical resolution.
+Technical Documentation regarding the new releases or bug fixes in each release.
+Role and responsibilities as a System Admin:
+Monitoring hardware health and performing pro-active maintenance for various Compaq, HP, Lenovo and IBM hardware models.
+Handled the local & wide area network, which consist of 450+ Pcs
+Performing system administration tasks for a huge user account base running in mixed mode.
+System Administration & PC-Troubleshooting in WIN XP/ Vista win 07 & win 10 Maintenance of LAN.
+Supporting resolving the network issues for customers
+Handling day to day system and application problems. System Monitoring and Performance Tuning.
+
+Personal Skills:
+Comprehensive problem solving skills.
+Ability to work individually and as team player also.
+Participated in political field.
+Always keep in undertake new responsibilities & challenges.
+Result oriented frame of mind.
+
+Personal Profile:
+Date of Birth : 01/10/1986
+Marital Status : Male
+Nationality : Indian
+Marital Status : married
+Languages : Hindi, English, Bhojpuri.
+Permanent Address: Village/ post- Sajaon Deoria (UP)
+Passport No : H9171000
+
+Declaration:
+I hereby declare that all the details furnished above are true to the best of my knowledge.
+
+Place: - Chennai (Karuna karan upadhyay)
+
+Contact this candidate

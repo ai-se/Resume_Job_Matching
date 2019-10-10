@@ -1,10 +1,51 @@
+Job Title = Cisco Or Network Or Engineer Or Os jobs in Raleigh, NC, 27606
 
-Network Engineer - Marlborough, MA Contract Length: 6 months to start Location: Marlborough, MA Interview: Phone Screen and Video Interview Skill Set: Network Engineer Education and Experience Requirements: A minimum of seven years working as a Network Engineer in a Cisco environment Must have NX-OS experience Must have experience working with dynamics routing protocols such as OSPF, EIGRP & BGP Must have deep skills in setting, configuring and auditing up firewalls (Cisco, Palo Alto, Fortinet) Excellent verbal and written communication skills.
-Bachelor s Degree is a requirement Preferred Skills Cisco Certifications Arista experience SIP experience Experience configuring and implementing an MPLS network Experience working with Software Defined Networking or SDWAN Client is seeking a senior level resource.
-Candidates must have completed a project in at least 3 of the 5 items listed below and must be able to explain them: Nexus Replacement Replace Nexus 7k with new Nexus chassis configuration, physical planning, and cutover Nexus Config Cleanup Review current production Nexus configurations and clean up any unused or erroneous networks, interfaces, etc.
-Firewall Config Cleanup Review current production configurations and cleanup unused objects, rules, etc.
-MPLS Configure new MPLS network and deploy Switch Decom Review current switch config and interfaces, migrate any connections to new switch to decomm current
+Cisco  – 
+Durham, NC, 27709
+... Engineer** : You possess technical skills and you have the capacity to understand and connect customer use cases/plans with Cisco ... tasks, installing OS, upgrading OS, installing RPMS, configuring Linux firewall, etc.) + Understanding of network automation ...
+- Nexxt, Oct 05
 
+Cisco  – 
+North Carolina
+Consulting Engineer for delivering the Network Resiliency Assessment service. The Network Resiliency Assessment service ... Proficient in Cisco’s technology, products and operating systems (i.e. IOS, IOS-XR, Nexus-OS, etc.). Desired Skills Bonus ...
+- Neuvoo, Oct 04
 
-Go to apply 
+Cisco  – 
+Durham, NC
+... technology in Cisco’s Advanced Labs • Craft services that help customers manage their networks while providing strategic and tactical support • Build networks consisting of an array of Cisco equipment every day • Monitor and track network recreate ...
+- Neuvoo, Sep 19
 
+Cisco  – 
+Raleigh, NC, 27695
+... Interest Networking + Job Id 1278881 Consulting Engineer for delivering the Network Resiliency Assessment service. ... + Proficient in Cisco’s technology, products and operating systems (i.e. IOS, IOS-XR, Nexus-OS, etc.). **Desired Skills** ...
+- DE Jobs, Oct 05
+
+Cisco  – 
+RTP, NC
+**Senior Network Security Engineer** + Location: RTP, North Carolina, US + Area of Interest Engineer - Software + Job Type ... An in-depth understanding of Cisco networking and security products is required. Hands-on experience in evaluating the ...
+- DE Jobs, Oct 01
+
+Cisco  – 
+Durham, NC
+... Chain Operations empowers the company to deliver an overall experience that compels Customers and Partners to choose Cisco. ... We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do – you ...
+- Neuvoo, Oct 05
+
+Cisco  – 
+Durham, NC
+What You'll Do This Technical Marketing Engineer position is in support of Cisco’s Internet of Things (IoT) initiatives. ... At a minimum, we expect you to have a BS/MS/Engineering degree or equivalent plus extensive experience in a network ...
+- Neuvoo, Oct 04
+
+Cisco  – 
+Durham, NC
+... Prior experience supporting Cisco Webex Meetings, Teams, and devices. Understanding of network topology. Must have excellent troubleshooting skills. Must have amazing customer management expertise. Must have excellent oral communication skills. Must ...
+- Neuvoo, Oct 02
+
+Cisco  – 
+Durham, NC, 27713
+... Experience deploying and troubleshooting Cisco security solutions. Knowledgein NGFW, ISE, AMP, VPN, IPS, Web and Email Security, Umbrella, Stealthwatch, network segmentation, security management, cloud security, etc. experience in 2-3 of the ...
+- Jobs2Careers, Oct 07
+
+Cisco  – 
+Durham, NC, 27701
+... experiences Evangelizing the value and utility of Cisco security technologies to customers, the field, and channel partners The Technical Marketing Engineer enables the success of Cisco?s Network Security products by Executing the strategic plan ...
+- Jobs2Careers, Oct 05

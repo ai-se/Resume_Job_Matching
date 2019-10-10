@@ -1,0 +1,98 @@
+
+Angular Full-stack developer - Alexander Khloponin
+General Information
+Full name Alexander Khloponin
+Objective Web-developer, mobile app developer, software development IT experience Since 2008
+Education Kyrgyz State Technical University(specialist in electromechanics) Tomsk Polytechnic University - System engineering of software Location Nationality - Kyrgyz Republic, Location - Kyrgyz Republic Here are some of my skills and experience.
+Front-end:
+- AngularJS/Angular 6, 7, 8;
+- Other JS libs like: D3.js, jQuery, Raphael, Chart.js etc;
+- HTML, CSS, Bootstrap, less/sass;
+- using of twig, gulp, grunt, bower, npm etc;
+Back-end:
+- good Python knowledge: Flask, Django, ML(sklearn, numpy, bs)
+- LAMP/LEMP(Linux using), MySQL, Apache & NGINX installing & configuring;
+- MySQL, PostgreSQL, MSSQL, NoSQL;
+- using of twig, gulp, grunt, bower, npm etc;
+- CVS: Git, Mercurial
+Extra skills:
+- PHP/Drupal knowledge, Symfony and Silex knowledge;
+- Elasticsearch;
+- System integration;
+I have recently worked on two projects with similar stack the first one is related to Flask/Angular7 and based on RaspberryPi, the second one is related to data scraping and collecting the data, which is based on Django/Angular7. Certifications
+● BigData certificate of MIT
+● TextMining certificate
+placed in my LinkedIn profile(see in contacts section) Also have a certificate of standardization
+My interests
+Complex projects with RESTful API with additional data sources(data scraping, data mining) A lot of hobbies
+Projects related to Angular:
+Period: May 10, 2019 – Present
+Client: TiendAnimal
+Project description: The project allows to consumers use only electronic devices during receiving their purchased goods, excepting “buffer” people from this process.
+This start-up works on RaspberryPi platform using
+touchscreen for UI.
+Used technologies: Back-end: Flask
+DB: SQLite
+Front-end: Angular 7, Angular-material, Bootstrap, SASS, FontAwesome etc
+Position: Fullstack developer: Angular on front-end and Flask on back-end
+Link: There is no site for the project
+Period: November 25, 2018 – February 21, 2019
+Client: OneTrolley
+Project description:
+It is a start-up project which included different stages of development. The customer needed to have a system which could take data from different sources(scraping of web, taking from aggregated data sources, XML files, etc), then he wanted to show these data from his own web-system. He wanted to use ML technologies in the future. There were prepared the data for ML and predictions.
+Used technologies: Back-end: Django and Flask
+DB: ElasticSearch as a DataWarehouse
+Front-end: Angular7+, Bootstrap, SASS, FontAwesome etc Position: 1) At the beginning of the project it was a Product owner: defining milestones, decomposition of tasks, roadmap making and conversing all aspects with the customer; 2) Full-stack developer + Data Engineer
+Link: There is no site for the project yet
+Period: Jul 2013 - Jan 2015
+Client: TickerOn
+Project description:
+Financial B2C web service start-up. This startup is based on cutting edge technologies. It includes AI, Machine Learning, agile working process etc
+Used technologies: Back-end:C#/ASP.NET
+DB: MSSQL
+Front-end: AngularJS, Bootstrap, SASS, FontAwesome etc Position: 1) Full-stack developer: C# + AngularJS
+2) PHP Drupal developer
+Link: https://tickeron.com
+Skills / competencies:
+Category Competence Level Last used Years
+Working area
+Data mining systems, Markets
+mining, data scraping
+Experienced Recently Since 2016
+Corporate sites development
+Experienced Recently Since 2011
+E-commerce systems development Experienced Recently Since 2012 Nonstandard projects: using web
+technologies for different problem
+solving(HTML+JS+CSS) on tablets,
+phones, for corporate events, for
+using on Raspberry Pi etc
+Experienced Recently
+Since 2016
+Technologies
+Django Intermediate Recently Since 2017
+Drupal 6, 7 Advanced Recently Since 2010
+Drupal 8 Intermediate Recently Since Feb
+2015
+AngularJS Intermediate Recently 2
+Angular 6+ Intermediate Recently 2
+Elasticsearch Intermediate Recently Since 2016
+Big Data & Data Mining Intermediate Recently Since 2016 EntityFramework Intermediate Jan 2015 June 2014
+Platforms
+Microsoft Windows XP, 7 Experienced Recently Since starting
+Linux/Unix Advanced Recently 7
+Databases
+MySQL Advanced Recently Since 2009
+MSSQL Advanced Feb 2016 Since 2012
+Elasticsearch Intermediate Recently Since 2015
+PostgreSQL Intermediate Recently Since 2017
+Languages:
+Languages Spoken level Written level
+English(IELTS certificate) Fluent Upper-Intermediate Russian Native Excellent
+French - Beginner
+Contacts:
+Name: Source
+LinkedIn: https://www.linkedin.com/in/alexander-khloponin-16759365 UpWork: https://www.upwork.com/freelancers/~01ab65d229b04363f8 E-mail: adai9w@r.postjobfree.com
+Skype:
+alexkhjazzman
+
+Contact this candidate

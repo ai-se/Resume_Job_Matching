@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Choice1Temps is hiring machine operators!
 M-F 2nd and 3rd Shift

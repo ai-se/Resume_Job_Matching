@@ -1,0 +1,33 @@
+Job Title = Technician
+
+Overview
+Job Title: Technician
+Job Location:- Santa Clara, CA
+Duration:- Full Time
+Responsibilities:
+You’ll use your experience, knowledge and skills in the development of new user representative workflows, architecture analysis experimentation, and measurements to help evaluate the solution. You’ll be responsible for board re-work, bring up, debug, power and performance measurements and analysis of solutions under development. This position requires you to be self-driven, hands-on, and have a problem-solving mindset. You’ll be joining a highly skilled interdisciplinary team that collaborates internally and across functional organizations to build innovative solutions to unique problems.
+Qualifications:
+BS degree in EE or CS or equivalent
+Working knowledge of board re-work, bring up early silicon and debug/troubleshoot the platform
+Working knowledge of running performance and power tests, gathering measurements, clear documentation and reporting of the data
+Hands-on experience in building a hardware and debugging mobile device hardware.
+Working knowledge of Oscilloscopes, Spectrum Analyzer, Frequency counter, NI DAQ
+Familiarity with MS Windows OS environment and MS Office applications
+Creative problem solving
+Self-starter
+Strong verbal and written communication skills
+Experience with a network analyzer
+Familiarity with scripting language Python, Labview
+Noralogic Inc
+Nikhilesh Yadav
+
+109 East 17th St, Cheyenne WY 82001
+LinkedIn:
+WY, MD, NJ, Noida, Hyderabad
+**WBE and MBE company**
+** ISO 9001:2015**
+**WY Top 50 Minority owned growing company**
+
+
+Go to apply 
+

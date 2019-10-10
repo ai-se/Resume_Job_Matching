@@ -1,3 +1,4 @@
+Job Title = Data Privacy Engineer
 
 The Data Privacy Engineer will work across Jamf's product portfolio, services, and infrastructure to ensure compliance with data privacy requirements. The position is responsible for providing guidance and technical expertise during the product/services planning and development process as well as analyzing existing systems and processes. In addition, the position is responsible for the development of privacy impact assessments, technical risk analyses, and coordinating internal and external audits/assessments of our privacy controls and procedures.
 

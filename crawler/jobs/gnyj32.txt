@@ -1,0 +1,30 @@
+Job Title = Engineer
+
+We are currently seeking a Test Engineer to work on a long term project in Austin, TX. This project is supporting the Department of Veterans Affaris. The work being performed is a full time opportunity. After the first few months there will be some telework authorized based on performance.
+The tester will be assising our client in providing independent verification and validation (IV&V) and quality assurance (QA) services to the Department of Veterans Affairs (VA) Software Quality Assurance Service (SQAS) at the Austin Information Technology Center (AITC) in Austin, TX. This task order includes IV&V of Financial Management System (FMS) and logistics software applications used throughout VA and at the VA’s Financial Services Center (FSC). The IV&V services will be based on IEEE 1012-2016 and include both manual and automated testing.
+The IV&V Team will use VA applications and mainframe systems to perform on-line and off-line processing of daily, monthly, and yearly cycles and process transactions to test the systems. The Team will also develop a new Automated Test Framework to establish an Automated Testing capability in support of SQAS IV&V testing.
+Responsibilities
+The Test Engineer position will include, but is not limited to, the following tasks:
+Complete Rational Tool Training (Team Concert, DOORS, Quality Manager)
+Develop testing plans, schedules, and estimates
+Provide Pre-Test System Documentation, lead/direct Unit, System and Regression Testing, and provide Post-Test System Documentation
+Conduct Risk Assessments
+Provide Weekly Status Reports
+Basic Required Qualifications and Skills:
+Experience with manual and automated testing techniques
+Experience with Rational Toolkit or with similar SDLC tool
+Experience in at least one of the following areas: mainframe, JCL, SAS, File Aid
+This position requires the ability to obtain a VA designated High-Risk Background Investigation (BI)
+
+Desired Qualifications and Skills:
+Bachelor’s Degree in a technical field
+Experience with Rational Toolkit
+Experience with Accounting education
+Experience developing automated testing framework
+VA testing experience
+Knowledge of and experience with IEEE 1012-2016
+ZR1
+
+
+Go to apply 
+

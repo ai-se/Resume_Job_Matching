@@ -1,0 +1,49 @@
+
+SAMUEL DENNIS HICKS
+adadsl@r.postjobfree.com www.linkedin.com/in/samuel-dennis-hicks-1a207719 Cell: 843-***-**** PROFESSIONAL PROFILE
+TECHNICAL – A+ Trained Computer Service Technician. Experienced in troubleshooting and repair of computer desktops/laptops, printers, and various peripherals, Able to wire data and phones for network environments. Instructed a 3-day continuing education course in PC Repair & Diagnostics at Trident Technical College. SOFTWARE - A+ Trained in Windows support. Experienced in network environments, including Windows NT, SQL Server. Knowledgeable in Database programing, development and Data Management. Fluent in Windows XP/7/10, MS Office, Active Directory, Cisco AnyConnect VPN Client, Symantec Ghost, BMC Remedy/Footprints Service Core. Dell Certified Systems Expert (DCSE)
+SUPPORT / COMMUNICATION – 6 years experience in a supervisory and management capacity. 16+ years experience in end-user support and training. Provided award–winning liaison support and training while coordinating a successful multi-state system migration.
+Communications Server Environments Operating System Environments AT&T PBX System IBM OS390 Mainframe Microsoft Windows (XP/NT/7/8/10) AT&T Call Management System IIS Novell ZenWorks Management BMC Remedy Novell Netware
+BMC Footprints Service Core NT Server Languages
+Dameware SQL Server Active Server Pages
+eFax Account Administration Active Directory HTML
+GlobalMeet Account Administration Windows Server 2008 R2 / 2012 Paradox ObjectPAL GovQA Ticketing Software SQL
+Heat Ticketing Software
+HelpStar Ticketing Softare Utilities
+Internet FTP CarbonCopy Database
+Microsoft SCCM Imaging Console One Microsoft Access Microsoft Online Portal Symantec Ghost Imaging Software Paradox Microsoft Office 2007/2010/2013/2016 RapiDeploy Disk Cloning Software SQL PC Anywhere (DOS and Windows) IBM IT Asset Management Software ShoreTel Communicator Mimecast
+SKYPE for Business Account Administration LANSweeper TightVNC AssetPanda
+PROFESSIONAL EXPERIENCE
+City of Charleston, Charleston, SC 2017 – 2019
+A progressive and energetic city, where the goal is to grant residents with the best service a city can provide and visitors with the best vacation or business trip that a city can provide. Help Desk Technician II / PC Support Technician
+• Government Help Desk/field Technical support for Hardware/Software via Phone, Email and Remote Desktop sessions.
+• Image and deploy desktop and laptop computers to users, as needed. Maintained data integrity during upgrades.
+• Maintain Inventory database of hardware/software setups for all deployed PC desktops, laptops, peripherals, etc.
+• Developed an Access database to manage loaner equipment for laptops and peripherals.
+• Promoted from Help Desk Technician to Help Desk Technician Level II after first week of employment, dividing time between Help Desk and field support.
+• Promoted to full-time PC Support Technician after 3 months of employment. KapStone Paper & Packaging, North Charleston, SC 2013 – 2017 Leading producer of unbleached Kraft paper and corrugated packaging products with annual revenue exceeding $3B and 6,000 employees. Service Desk Specialist I
+• Corporate Helpdesk Support for Hardware/Software employees via Phone, Email and Remote Desktop sessions. SD HICKS adadsl@r.postjobfree.com Page 2
+• Software Admin for BMC Footprints Service Core software, including Incident Ticketing and Access Mgmnt. requests.
+• Built BMC Footprints application upgrades in coordination with vendor. Coordinated server and database backups.
+• Configure system applications, designed/created web-based forms for end-user requests of incidents and access requests.
+• Administrative maintenance for eFax, GlobalMeet and Skype for Business accounts.
+• Imaged Desktop / Laptop computers for the Refresh deployments.
+• Experience with SCCM for implementing and monitoring of software pushes to computers. DialAmerica, North Charleston, SC 2012- 2013
+Full-service/range call center for B2B and B2C customer engagement services across many industries. Call Center Representative
+PC TECHNICAN / HELPDESK SUPPORT (CONTRACT) 2003- 2011 CHARLESTON COUNTY GOVERNMENT (Information Gateways), North Charleston, SC (2010 – 2011) Information technology solutions and services, specializing in design, integration, and maintenance of information technology systems. PC Technician / Helpdesk Support (Contract)
+• Installed, configured, and supported HP desktop and Laptop PC’S for Charleston County Government operations.
+• Experienced in HEAT ticketing software, RapiDeploy, CarbonCopy, Audio/Visual equipment and software. BOEING CHARLESTON (Dell Perot Systems/TEKSystems), Charleston, SC (2009 – 2010) Global leading provider of IT staffing, IT talent management and IT services. PC Technician / Helpdesk Support (Contract)
+• Installed, configured, and supported hardware / software on Dell Desktop / Laptop PC’s for Dell Perot Systems in support of Boeing Charleston operations.
+CHARLESTON NAVAL HOSPITAL (General Dynamics IT/TCMC), Charleston, SC (2008 – 2009) Information technology (IT), systems engineering, professional services and simulation and training to defense, federal civilian government, health, homeland security, intelligence, state and local government and commercial sectors. PC Technician / Helpdesk Support (Contract)
+• Installed, configured, and supported hardware / software on Dell desktop and laptops PC’s for the DOD Naval Health Clinic Charleston, and Naval Weapons Station sites.
+• Experienced in Active Directory, Symantec Ghost and HelpStar. SANTEE COOPER (Innovative Partners, Inc.), Charleston, SC (2008) Contract staffing and recruiting firm.
+PC Technician / Helpdesk Support (Contract)
+• Install/configure/support hardware / software for Dell desktop and laptop PC’S at Santee Cooper Headquarters and sites.
+• Novell ZenWorks Management, Imaging Console One, GroupWise, BMC Remedy and IBM IT Asset Management. Additional Experience
+Cigna Corp., Printing & Distribution, N. Charleston, SC (5 years) Senior Programmer / Analyst, Project Coordinator, Applications Administrator
+• Earned 2 promotions reaching Sr. Programmer/Analyst position. Responsible for order update and automation of billing processes; training, troubleshooting and support for Inventory Management System software; served as main liaison between vendor and users in support of multi–state system migration; monitored, audited and documented data import / export processes between SQL, Novell and Forms Exchange application; programming support, database maintenance and documentation for internal fulfilment application and intranet operations; provided end–user training, technical / network support.
+EDUCATION
+Charleston Southern University, Charleston, SC
+Certifications: A+ PC Technician, Dell Certified Systems Expert (DCSE)
+
+Contact this candidate

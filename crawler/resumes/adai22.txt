@@ -1,0 +1,27 @@
+
+RITI GUPTA
++1-669-***-**** *** NorthLake Dr, San Jose, CA - 95117 adai22@r.postjobfree.com Linkedin Github EDUCATION
+MS, Computer Science GPA - 3.9
+San Jose State University, San Jose, CA Aug 2018 - Dec 2019 (expected) Select Coursework : 1.Algorithms 2.Object Oriented Programming 3.Information Retrieval 4.Machine Learning 5.Cloud Computing Bachelor Of Engineering, Computer Engineering
+Netaji Subhas Institute Of Technology, Delhi University, India Aug 2007 - June 2011 Select Coursework : 1.Databases 2.Operating Systems 3.Artificial Intelligence 4.Computer Networks 5.Compilers TECHNICAL SKILLS
+Languages : C, C++, Java, Python, PHP, HTML, XML, CSS Tools : Apache Kafka, Spark, Hadoop (MapReduce), GIT, CVS, Perforce, Makefile, Sql, Tcl, Shell Scripting, gdb, Valgrind, Gprof Others : Keras, Sklearn, STL, UML, Distributed Systems, AWS, Google Cloud, Azure, SOAP, REST, Virtualization PROFESSIONAL EXPERIENCE - 6 Years
+Software Engineering Intern, Google Inc. May 2019 - Aug 2019
+● Worked on improving Google Help Engine for faster execution of customer queries. The large sized rule was split into many small rules which would aid in parallel execution.
+● Also, worked on other programmatic infrastructure aspects for the Support Platform like detection of rule conflicts using SAT checker with 99.8% completeness. The language used was C++ along with various Google internal tools. Lead Software Engineer, Mentor Graphics Sept 2014 - Oct 2017
+● Ported old code from C to C++ using appropriate design patterns and correct coding practices.
+● Wrote hierarchical based CDC which resulted in 2x runtime reduction of the tool. Software Engineer, Ansys Jan 2012 - Sept 2014
+● Developed algorithm to reduce runtime of the tool due to multiple system calls for additional memory. Bigger blocks of memory were stored as smaller blocks which were tracked and organised using a circular list.
+● Multithreaded spef parsing using producer-consumer methodology leading to significant runtime reduction. Software Associate, Royal Bank Of Scotland Jun 2011 - Dec 2011
+● Worked on developing a risk evaluation software for traders based on previous day closing prices using .NET and SQL. ACADEMIC PROJECTS
+Twitter Sentiment Analysis Using Parallelization Techniques (Apache Kafka, Map Reduce, Java) Currently working
+● Building a framework for analysis of logs using Big Data tools by tapping distributed computing methodologies. E-commerce website on cloud (AWS, PHP) Jan 2019 - May 2019
+● Built ecommerce website using AWS services like EC2 instances, S3 storage, RDB, Cloudwatch and Autoscaling. Data management using RESTful web service (Java, Google cloud, JSON) Jan 2019 - May 2019
+● Created Java-based RESTful web service server for data management on Google Cloud datastore. The HTTP request and response were in JSON format.
+Detecting duplicate questions on Quora (Machine Learning) Jan 2019 - May 2019
+● Built a model to detect duplicate questions on quora by preprocessing the data, extracting various features and then using random forest, SVM, adaboost and neural networks(LSTM). The accuracy achieved was 80% on the test data. Detect a card from playing deck (Convolutional Neural Networks) Jan 2019 - May 2019
+● Built CNN model to detect suit and color of a card in a deck. Achieved an accuracy of around 85%. News Group Classification (Logistic Regression, NLP) Jan 2019 - May 2019
+● Built logistic regression model to classify news groups by visualising the data, preprocessing using NLP techniques like stemming, stop-words elimination, etc. Got an accuracy around 88% using k-fold cross validation. Information Retrieval From Websites (Python) Aug 2018 - Dec 2018
+● Wrote efficient page ranking algorithms (cosine, proximity, bm25) using inverted indexing for big data files which can be used for data mining. Compared the results using trec_eval based on recall, precision and MAP scores. Extendable Design patterns frameworks (Java) Aug 2018 - Dec 2018
+● Developed design pattern frameworks for publisher-subscriber, decorator, MVC, factory, strategy, agent-facilitator.
+
+Contact this candidate

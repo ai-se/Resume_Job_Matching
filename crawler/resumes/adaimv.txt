@@ -1,0 +1,103 @@
+
+Name: Sarbani Raychoudhury
+Mobile: +91-824*******
+Email Id: adaimv@r.postjobfree.com
+Career Objective:
+
+Aim to work in a challenging work environment where I can utilize my expertise in resolving the problems in test-plans and advocate my analytical skills towards the growth of the organization.
+
+TECHNICAL SKILLS
+Manual Testing
+Strong in Software Development Life Cycle (SDLC) and Testing Life Cycle (STLC).
+Knowledge in Test Plan, Test Case, Test Case Review Template, Traceability Matrix.
+Through knowledge in Functionality Testing, Integration Testing, System Testing, Compatibility Testing, Regression Testing, Accessibility Testing, Usability Testing, Smoke Testing.
+Knowledge about Performance Testing (Load Testing, Volume Testing, Soak Testing), Reliability Testing.
+Good knowledge of Agile Methodology.
+
+Database:
+Good understanding of MYSQL concepts.
+
+Core Java:
+Good understanding of Programming elements.
+Having good knowledge of Methods, Constructors.
+Good understanding of Inheritance, Method overloading and overriding.
+Good understanding of Abstract class and interface.
+
+EDUCATIONAL QUALIFICATION
+
+B-TECH in CIVIL Engineering from Synergy Institute Of Engineering and Technology Odisha with 65% 2017
+CHSC From Malayagiri Mahavidyalaya Odisha with 56%.2013
+HSC from l Ranjo High School Ranjo Odisha with 68% 2011
+
+Work Experience:
+
+Duration: June 2017 to till date.
+Company: OnWard eServices Pvt Ltd
+Job Title: Test Enginer
+
+PROJECT DETAILS
+
+Project 1:
+Trade Air
+Project Type: Airline Domain
+Client : Trade air d.o.o.
+Technology:Agile
+Testing Approach : Manual Testing
+Defect tracking tool: JIRA
+Role : Test Engineer.
+
+Description:
+The web based project is an attempt to simulate the basic concepts of airline reservation system. The system enables the customer to do the things such as search for airline flights for two travel cities on a specified date, choose a flight based on the details, reservation of flight and cancellation of reservation.
+
+Responsibilities:
+• Involved in Analyzing the Business Requirement Document.
+• Preparing the test cases, Executing Tests and analysing results as per client requirements.
+• Involved in identifying the possible test scenarios.
+• Involved in Writing and executing the Test cases for each scenario.
+• Performed Functional Testing, Integration Testing, System Testing, Smoke Testing of the application
+• Defect logging for failure scripts and tracking for closure.
+• Clear look on updating concepts and finding defects, sending it with suggestions. Fixing the code review comments and helping juniors.
+• To make sure that the application is defect free by using Defect Tracking Tool JIRA.
+• Actively participated in all Agile ceremonies, Agile- Planning, Delivery, Improving team velocity and reporting sprint level deliverables.
+
+Project 2:
+Stalkbuylove
+Project Type: E-commerce
+Client: stalkbuylove
+Defect tracking tool: JIRA
+Role: Test Engineer
+
+Project description:
+Stalkbuylove is a complete web application based and centralized ecommerce solution covering all the functions of an ecommerce organization. The product has been developed using open industry standard, proven technologies and high quality software engineering methodologies. It is highly parameterized to support constantly changing customer and regulatory requirements.
+
+Responsibilities:
+
+• Involvement in analyzing the user stories, Preparation of Test Scenarios, Cases and Test Data.
+•Understanding the software requirements.
+•knowing how the end user will use the application.
+•Creating test cases from the user stories or from test scenarios.
+•Execute the test cases.
+•If defect is found reporting it to developer and fix it.
+•Perform the task again where the defect is found.
+•Make sure that the application is defect free.
+•Send the test reports to test lead.
+•Testing an application in different operating system and in different browsers.
+•In windows 7 operating system using browsers like Chrome (version 39), Opera (version 26), Mozilla (version 16) and Internet explorer (version 8).
+
+PERSONAL STRENGTH
+
+Hard working, disciplined & good etiquette.
+Self-motivated and can motivate my co-workers.
+Desire to learn about the new innovative technologies.
+Confident
+
+PERSONAL PROFILE
+
+Name : Sarbani Raychoudhury
+Languages known : Odiya, English, Hindi
+Nationality : Indian
+
+Date:
+Place: Chennai Sarbani Raychoudhury
+
+Contact this candidate

@@ -1,3 +1,4 @@
+Job Title = System Engineer
 
 Integrated Intel Solutions has a full funded and immediate position available. The primary focus of this position is the engineering and maintenance of production and pre-production technology systems in a hybrid cloud/datacenter environment. This position will serve to provide the engineering support and technical guidance to design operating system baselines to support the Windows hosting strategy, using virtual and cloud automated technologies. The candidate must demonstrate on-the-job competencies and in-depth Windows experience working and integrating both VMWare and AWS/C2S technologies. The candidate will need to have a diverse IT background, strong hands-on technical experience, organizational and interpersonal skills working as part of a team and at times in a highly autonomous manner, mentoring others as needed.
 

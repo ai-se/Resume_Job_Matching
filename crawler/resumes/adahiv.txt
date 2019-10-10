@@ -1,0 +1,51 @@
+
+ED FROST
+
+647-***-****
+adahiv@r.postjobfree.com
+linkedin.com/in/pefrost
+Mississauga, ON
+
+P R O F I L E S U M M A R Y
+
+I possess 10+ years of systems management experience, specifically in enterprise desktop and device management. I have Strong background in managing medium to large environments with Microsoft SCCM. Extensive experience with scripting languages such as PowerShell. Additionally, I have ample experience in application packaging and delivery in large enterprise environments. I’ve supported several Windows migrations (XP - Win7 - Win10).
+
+E X P E R I E N C E
+
+CONSULTANT TD Bank // TORONTO // 2018 – Present
+Joined TD Bank's Desktop Engineering Team in May 2018,, leveraging my experience in the area of endpoint management to assist with the Windows 10 migration effort.
+● Adhere to Microsoft’s servicing timeline by assisting with the test & release of new feature updates into production.
+● Maintain application compatibility for planned Windows updates by packaging new software versions with PS AppDeploy (PSADT).
+● Mitigate risk of changes by working towards certifying all new deployments with the Testing & Validation team.
+● Improve supportability of production scripts written in VBScript/Batch by refactoring code using PowerShell.
+● Improving configuration baselines by merging both evaluation & remediation steps into a single PowerShell script, allowing an immediate resolution to non-compliance issues.
+● Support the migration from Win7 to Win10 for all Retail branches across Canada.
+● Improve manageability of XenDesktop by defining the SCCM client settings within the VDI environment and configuring software updates in SCCM.
+● Mentored support staff by holding weekly knowledge sharing sessions - mostly going over PowerShell.
+
+INFRASTRUCTURE CONSULTANT LOYALTYONE // TORONTO // 2015 – 2017
+Relied on as subject matter expert in the area of endpoint management technologies; such as Microsoft SCCM, Microsoft InTune, Symantec Management Platform (Altiris), Symantec Endpoint Protection, AirWatch, Centrify, JAMF and Bomgar.
+● Maintain near 99% OS & 3rd party patch levels by deploying and monitoring all updates through SCCM and Ivanti Patch.
+● Implement policy-based deployments by creating SCCM collections, programs, task sequences and advertisements.
+● Improve supportability of production scripts written in VBScript/Batch by refactoring code using PowerShell.
+● Improved Windows 10 experience by re-packaging all supported applications ahead of migration from Windows 7.
+● Provide a stable application environment by adhering to packaging standards & best practices and using Installshield and App-V.
+● Mentor new and junior staff by updating all technical and operational documentation on SharePoint and hosting knowledge sharing sessions.
+● Mitigate risk of large-scale deployments through change review, communication, phased deployments, monitoring and troubleshooting.
+● Influence Endpoint Management technology roadmap through annual reviews of product direction to foresee issues & identify solutions.
+
+SYSTEM ADMINISTRATOR LOYALTYONE // TORONTO // 2009 – 2015
+Accountable for the health of all infrastructure relating to endpoint management - Symantec Management Platform(Altiris), AirWatch, Centrify (OSX Management), Symantec Endpoint Protection (endpoint security).
+● Maintain up-time of endpoint management platforms by monitoring the health of Altiris, SEP, AirWatch and Centrify.
+● Improve deployment of custom Windows configurations using VBScript, Batch and PowerShell.
+● Improve stability by documenting company standards in the area of desktop security, application provisioning, remote management (etc.) for Windows, OSX and iOS endpoints.
+● Improve Mac management by implementing Centrify and leveraging AD Group Policy to centrally control Mac system preferences.
+● Expand mobile device offerings and management capabilities by migrating all mobile devices from BES to AirWatch.
+● Maintain software catalogue by packaging and publishing new software and software updates.
+● Support migration from Windows XP to Windows 7 for corporate and call-centre environments.
+
+OTHER POSITIONS LOYALTYONE // TORONTO // 2003 – 2008
+● Senior Technician // 2006 – 2008
+● Technician // 2003 – 2006
+
+Contact this candidate

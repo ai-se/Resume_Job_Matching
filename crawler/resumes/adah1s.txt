@@ -1,0 +1,111 @@
+
+Srinivasan Puthiran
+**, ********* ******,
+adah1s@r.postjobfree.com
+1st Street, +91-801*******
+Kodambakkam.
+Chennai - 600024.
+www.linkedin.com/in/srinistarknetworks
+About Me
+Young and Energetic Networking professional with more than 2 Years of Experience in Analysing, Configuring, Maintaining & Supporting the Network Infrastructure and Network Elements. Previously worked in Prodapt Solutions Ltd & looking forward to work with another professional organization where the intellectual simulations, hard work & commitments are appreciated. Professional Strength
+Solid troubleshooting skills.
+Working knowledge on cisco routers & juniper switches. Strong knowledge of routing protocols.
+Understanding of STP & layer 2 switching concepts. Configuration of VLAN & inter VLAN.
+Review network requirement & engineering concerns associated with ISP request such as equipment configuration & operation impact.
+Ability to learn & respond to demands in fast-paced, highly technical environment & responsibilities. Key Deliverables
+Investigating, diagnosing & resolve network problems based on alerts from network devices. Identifying the chronic problems & take action to identify & also communicating with next level tiered teams.
+Administering LANs, WANs internet/intranet networks. Network connectivity troubleshooting, ping & telnet. Perform network configuration changes till some extent in response to client issues. Manage network incidents & engage additional internal teams. Knowledge in OSI reference model.
+Backups on switches & logs on access point
+Skills
+Good communication skills, I am comfortable speaking in front of an audience. Learning skills, I have the capacity to pick up new skills & ideas quickly & generally thrive on challenges.
+Enthusiasm & creativity gives me an edge on difficult projects. Good analytical skills which always have been helpful in troubleshoot problem & uncover root causes. A high level of patience helps me with logical approach to problem solving. To keep up-to-date with technological advance & interest in electronics & computers. Education
+Trained, CCNA switching & Routing
+Network Geek, Chennai, Tamil Nadu
+Bachelor, Engineering, ECE
+Adhiyamaan College of Engineering
+Hosur, Tamil Nadu
+10+2
+Vidhya Vikaas Boys Higher Secondary School
+Tiruchengode, Tamil Nadu
+10
+Vivekanandha Vidhyalaya Matriculation School
+Thirukovilur, Tamil Nadu
+Completed, 2017
+Course
+Graduated, 2016
+CGPA 8.23
+First Class
+Graduated, 2012
+Marks 79%
+First Class
+Graduated, 2010
+Marks 80.20%
+First Class
+Work Experience
+Network Analyst
+Prodapt Solutions Ltd
+Chennai, Tamil Nadu
+May 2018 – July 2019
+Client: Windstream
+Prodapt Solutions Ltd is a leading communications-focused technology services & operations company, focusing on O/BSS, SDN/NFV, IoT, RPA, telecom consulting, and RIM. A global leader in providing software, engineering, and operational services to digital service providers (DSPs). The deep technical knowledge combined with strong domain-expertise empowers Prodapt to offer tailor- made solutions to customers that will improve business efficiency and fast-track revenue growth. Roles & Responsibilities
+• Configuring in Switch & Router for Single or Bulk customers.
+• Analysing the network issues and requirement to understand customer concern.
+• Solving the trouble tickets and Assist the technicians to rectify the issue.
+• Troubleshooting For the issue on Router to Bras.
+• Monitoring the Utilization of the Bras and subscribers.
+• Supporting for new Dslam Integration.
+• Network device troubleshooting Like Dslam down, Router & Switch isolated issue.
+• Interacting with Technicians and ISP teams for quick and efficient resolutions in case of Network issues.
+• Responsible for orders are provisioned and Troubleshoot in a appropriate manner within the SLA.
+Network Engineer
+Mi-Fi Networks Pvt Ltd
+Chennai, Tamil Nadu
+March 2017 – March 2018
+Client: ITC Grand Chola
+Mi- Fi Networks Pvt Ltd was an inspiring leader trusted for planning, implementing and maintaining, new wireline networking infrastructure and wireless LAN Solutions for wide range of customers, from premium hotels and resorts to large enterprises, SMEs and rural development initiatives with a global presence in 4 different countries.
+Roles & Responsibilities
+• Maintaining cisco routers like 3800, 3900 series & juniper switches & nomadics Ag5800, Ag5900.
+• Configuring access point such as Cisco, Mi-Fi, Ruckus, Net gear, Engenius.
+• Providing technical support & responding inquiries to the hotel guests.
+• Monitoring network traffic based on bandwidth utilization using PRTG.
+• Monitoring network devices through NMS, Wi-Fi & LAN connectivity through DUDE.
+• Responsible for resolving trouble-tickets raised by clients. Interacting with clients, understanding their needs.
+• Providing regular reports & other information to higher authorities/bodies on status of network performance, bandwidth requirements & other network capacity enhancement related requirements.
+Technician
+Elixir Electronics
+Chennai, Tamil Nadu
+August 2016 – January 2017
+Original Equipment Manufacturer
+Elixir Electronics has been successfully functioning as the manufacturer, system integrator, supplier and trader of Audio Communication Equipment. Our product range is wide and comprehensive including Industrial Public Address Systems, Cement Plant Communication Systems and Steel Plant Communication Systems.
+Roles & Responsibilities
+• Manufacturing and designing the communication systems.
+• Soldering and fixing the electronic circuit boards.
+• Installation and service of the public address systems.
+• Attended clients such as Andhra Cements, KCP Cements, DRDO, ICF. Practical knowledge
+Configuration of Customers From BRAS end in equipments ALCATEL 7750, Cisco 7200, Redback SE-800, Juniper(ERX-120,ERX-320,ERX-1440,MX-960). Customer provisioning in DSLAMs like, Alcatel, AdtranTA5000, Adtran TA1248V, Calix C7. Understanding of Firewalls and Network Security Concepts. Troubleshooting of Broadband related issues like Packet loss,Bandwidth issues,No browsing issues.
+Configuration of ATM switches Alcatel ATM, Cisco IGX, Lucent CGBX. Knowledge of applications BMC Remedy, ICRM, WIN CRM, Metasolv Application.. Basic Knowledge of Server and Active Directory.
+Good knowledge in both card and port level configuration in Alcatel DSLAM. Knowledge of Troubleshooting customer related complaints and knowledge of Network connectivity.
+Handled OSS Related Order Issues and Metasolv Related Issues. Part of Team which won the Achievement Award for improvement of SLA from 4-2 hrs. Configuration of static customer in DSLAM and BRAS side. Checking VC related Problem in Router side and mentioning the issue to respective Team. Computer Proficiency
+Knowledge in Microsoft Office.
+Photo editing using Photoshop.
+Video editing using Cyberlink Powerdirector.
+Configuration & Troubleshooting VPN & TCP/IP technology. Configuration & Troubleshooting DNS & DHCP.
+Handling Monitoring Softwares.
+Basic knowledge in C Programming.
+Learning Python for Network Programming.
+Hubs, Switches Cabling and Cross over Cabling.
+IP Addressing and Subnetting, Routing and Switching Concepts. Hobbies & Interests
+Poem Writing
+Knowledge Sharing
+Explore New Ideas
+Hearing Pleasant Music
+Technology Surfing
+Carrom Playing
+Personal Details
+Language: English, Tamil, Hindi(r&w) Marital Status: Single Birthday: September 16, 1994 Nationality: Indian
+Declaration
+I, Srinivasan, hereby declare that the information contained herein is true & correct to the best of my Knowledge & belief.
+Date :
+Srinivasan P Place:
+
+Contact this candidate

@@ -1,0 +1,65 @@
+
+Summary of Experience
+
+Innovative and accomplished Information Security Specialist with Master’s Degree in Cyber Security, and solid track record of applied professional experience conducting seamless network security administration. Highly skilled at detecting, combating, and protecting against attacks. Proficient usage and expert knowledge of a broad-based range of software, operating systems, platforms, and hardware. Currently work with management and education in developing, implementing, and managing effective security policies, standards, and training practices. Proactive, strategic, and collaborative leader with robust technology skills and proven ability to derive all-inclusive levels of organizational cyber security.
+
+Education & Certifications & Additional Professional Skills
+
+Master’s Degree in Cyber Security, GPA 4.0, UMUC, Adelphi, MD 2012
+Bachelor's Degree in Criminal Justice, University of Baltimore, Baltimore, MD 1994
+Education Classes in Visual Basic, Towson State University, Towson, MD
+Security+, CompTIA
+
+Technical skills/ proficiencies
+Security Technologies – Checkpoint Firewall R88.20, Checkpoint Sandblast E80.92, Checkpoint Capsule, McAfee EPO 5.10, McAfee Endpoint Security 10.6.1, McAfee Email Gateway (MEG7) 7.6, McAfee Host DLP, McAfee Endpoint Encryption, Active Directory and Symantec Cloud.
+Information Security Tools & Software: Experience with Solarwinds and SCCM (2007/2010) for asset management, patch management, and deploying Bitlocker with MBAM.
+Networking Systems/Standards – TCP/IP; UDP; SSH, FTP; IPSEC; ICMP; RDP; DHCP; DNS; LAN/WAN; SMTP; HTTP(s); LDAP
+Operating Systems – Windows XP/7-10, Windows Server NT4.0/2000/2003-2016 Servers; DOS; and Linux.
+Software – Microsoft Office, Citrix, API payroll systems, Meditech Magic/V6, Centricity, Websense, and ScriptLogic v8.
+Hardware – Dell Server; IBM-compatible PC’s (Dell/HP)
+Programming Languages – took a class on Visual Basic
+
+Professional Experience
+University of Maryland/Upper Chesapeake Health: Havre de Grace, MD 2011-Current
+Systems Security Engineer
+
+Systems Security Engineer for two hospitals; lead efforts to ensure effective network maintenance, security, and up-to-date status for enterprise security systems.
+Development, testing and operations for Checkpoint firewalls including IPS, Anti-bot & Anti-Virus (Threat Prevention), Sandblast, Capsule Cloud (to filter end user traffic when not remoted in), site-to-site VPNs, application/URL filtering.
+Development, testing and operations for McAfee EPO, Endpoint Security/VirusScan, DLP, Endpoint Encryption, Email Gateway
+Work in collaboration with the Privacy Coordinator; helps direct the provision of policies, standards, and training to staff and physicians, as well as the requirement review of all electronic security needs, including HIPAA compliance.
+Audits security system log data and reports for trends and statistics.
+Coordinates and participates in regular security auditing processes.
+Works with external vendors to ensure secure data transfers.
+Responsible for and oversees day-to-day tracking and follow-up on security issues & questions of daily operations.
+Provides regular reports to IT management regarding security and network issues.
+Monitors and audits user access processes, ensuring compliance with user access practices and policy.
+Previously handled all patch management with SCCM to ensure all workstations were up to date with the latest security patches.
+Well-practiced experience working with Checkpoint Firewall R88.20, Checkpoint Sandblast E80.92, Checkpoint Capsule, Multi-factor authentication, Websense, SolarWinds, Citrix, API payroll systems, Meditech Magic/V6, Centricity, Exchange 2003/2007/2010, and ScriptLogic v8.
+
+University of Maryland/Upper Chesapeake Health: Havre de Grace, MD 2008-2011
+Systems Administrator/Network Admin/PC Technician
+
+Successfully oversee multiple responsibilities such as:
+o remote employee home user and coder facilitation, company-wide cell phone management, and numerous networking/server-related tasks for the entire organization. Adeptly utilize various McAfee products, including: EPO, McAfee Anti-Virus, Email Gateway (MEG7) 7.6, Host DLP, and Endpoint Encryption.
+
+Injured Workers’ Insurance Fund (iwif): Towson, MD 2004-2008
+Claims Adjustor
+
+Orchestrated Workers Compensation claims in the state of Maryland, including assigned claim compensability investigations, and settlement evaluation and negotiation. Consistently provided outstanding levels of customer service and support to injured workers and policyholders. Liaised with IWIF policyholders. Attended and/or testified in cases before the Workers’ Compensation Commission.
+
+Gates Mcdonald: Towson, MD 2002-2004
+Claims Examiner
+
+Conducted cost-effective, timely, and accurate claims administration for one of the organization’s key clients, The American Red Cross, in direct accordance with the Client Service Plan and always within applicable state laws. Efficiently handled all facets of commercial automobile and general liability claims on a nationwide level, including investigation, negotiation, and settlement as applicable. Skillfully managed investigation, subrogation, med pay/PIP payments, litigation, and reporting high dollar/profile cases to client.
+
+Digex: Beltsville, MD 2000-2002
+Tech III (System Administrator) / Application Analyst II
+
+Initially appointed as an Application Analyst to work on CLARIFY and head troubleshooting and software testing. Subsequently selected to facilitate company’s transition to Siebel through involvement in the Train-the-Trainer campaign and training end users. Promoted to Tier I/II tasks, which included resolving issues with the Windows 98/NT/2000/XP operating systems, and later assumed role of Tier III, working with NT Server 4.0, MS Exchange, Citrix, and Shiva.
+
+Allstate: White Marsh, MD 1995-2000
+Staff Claim Analyst
+
+Systematically managed automobile claims, including liability investigation, property damage and bodily injury claim settlement, and subrogation. Selected to head the migration of a Mainframe Environment to a PC Environment, including employee training and support of Windows NT, MS Office (Word, Outlook, Excel, PowerPoint) and Claim File (Allstate proprietary claim handling software). Provided comprehensive oversight of PC, security, and phone system maintenance. Promoted twice during tenure with organization in acknowledgment of exceptional performance and personal achievements.
+
+Contact this candidate

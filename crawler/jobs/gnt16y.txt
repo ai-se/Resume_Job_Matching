@@ -1,0 +1,66 @@
+Job Title = Engineer
+
+SPECIFIC JOB DESCRIPTION
+
+ANSER is seeking qualified personnel to conduct Risk Management and Mission Assurance Assessments at selected USAF bases. Base tasks include the pre-site survey analysis, mission decomposition function, scheduling function and risk assessment working book development to integrate the threats and hazards.
+
+RM/MA Engineers will conduct installation infrastructure vulnerability assessments of water, wastewater, electricity, heating, ventilation, and air conditioning (HVAC), petroleum products, fire protection infrastructure, generators, and natural gas systems that directly support the Mission Assurance Programs on DoD installations and other agencies. Assess the water system vulnerability assessment and fire risk management surveys conducted by the installation. Conduct Structural Engineering vulnerability assessment of perimeter, Access Control Points, facility standoff, facility protection in support to the Mission Assurance Program. Specific duties include:
+
+* Conducting vulnerability assessments of the above utilities to identify single points or lines of failure to terrorist attacks, insider actions, or natural disasters
+
+* Surveying HVAC systems for ground level air intakes and shut down switches
+
+* Assessing the supporting infrastructure for critical assets, including communication hubs and command and control facilities
+
+* Assessing fire protection infrastructure for adequacy to protect critical assets and primary gathering buildings
+
+* Assessing lightning protection and preliminary EMP protection/requirement for critical facilities
+
+* Assessing existing facilities, future facilities and all other planned facilities considering standoff requirements IAW Unified Facility Criteria, CCMD OPORDS and related DoD documents
+
+* Reviewing protection-related documents including; AT Construction Annex, Barrier Plans, and related Annexes
+
+* Using the identified natural hazards, determine impact on mission survivability of mission critical facilities and assets
+
+* Evaluating and making recommendation to MILCON projects under design
+
+* Preparing Assessment Team Reports based upon vulnerabilities observed during the assessments
+
+EDUCATION AND EXPERIENCE
+
+Advanced degree in a discipline relevant to the position plus at least 2 years of relevant professional experience; or bachelor's degree plus at least 5 years' relevant professional experience.
+
+SKILLS AND EXPERIENCE
+
+Additional Qualifications :
+
+* Active Secret clearance with ability to obtain Top Secret security clearance
+
+* Possess a minimum of an undergraduate degree in an engineering discipline
+
+* Minimum of 5 years of experience working in a related engineering discipline, preferably in an Air Force Civil Engineering unit
+
+* Knowledge of risk management concepts employed by DoD or Department of Homeland Security preferred
+
+* Understanding of blast effects on various types of facilities
+
+* Knowledge and understanding of the Unified Facilities Criteria for design, infrastructure, DoD AT Minimum Building Standards, minimum standoff distance, fire protection, etc.
+
+* Experience conducting vulnerability assessments in the engineering discipline preferred
+
+* Extensive knowledge of infrastructure architecture and ability to evaluate designs and provide recommendations
+
+* Strong interpersonal/social skills; proven staff officer/contractor support excellence
+
+* Exceptional written, and verbal communication skills
+
+DISCLAIMER
+
+In compliance with the Americans with Disabilities Act Amendment Act (ADAAA), if you have a disability and would like to request an accommodation in order to apply for a position with ANSER, please call or e-mail .
+
+ANSER is proud to be an Equal Opportunity Employer. We seek individuals from a broad variety of backgrounds with varying levels of experience who have a desire to do meaningful work. We recruit, employ, train, compensate, and promote regardless of race, color, gender, religion, national origin, ancestry, disability, age, sexual orientation, or any other characteristic protected by law.
+SDL2017
+
+
+Go to apply 
+

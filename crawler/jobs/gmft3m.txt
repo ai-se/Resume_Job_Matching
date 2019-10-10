@@ -1,0 +1,42 @@
+Job Title = Technician
+
+About Us:
+CribMaster™, part of Stanley Black & Decker’s Engineered Fastening division, is aimed at connecting assets and developing the solutions that drive productivity and efficiency for industrial end users across the globe. The combination of critical real time data, integrated enterprise (ERP) or manufacturing (MES) systems and powerful analytics enables a foundation to create the smart factory and workplace of the future – delivering value through Internet of Things (IoT).
+
+CribMaster™, provides inventory control solutions through advanced software, innovative vending hardware, Radio-Frequency Identification (RFID) and customer services to manufacturing, distribution, government and service industries for managing indirect inventory (tools, spare parts, MRO, etc). CribMaster ( ties fast and reliable tool crib or store room transactions to a powerful system of inventory control. The system provides critical data to manage consumable and durable inventory, reduce the risk for lost or misplaced tools, and provide critical data to business leaders to reduce risk of tools being lost or left behind, reduce costs and increase productivity.
+
+Position Summary:
+
+The onsite technician is the forefront of representation for technical services to the customer. The technician needs to be able to communicate clearly the methods of operation that are required as well as successfully implement them. An onsite technician should be capable to execute all aspects of repair and maintenance to include everything from physical cleaning of components, to detailed software diagnosis. The consulting portion of the job includes being able to recommend preventive actions, maintenance options, and upgrade possibilities to the client as necessary. This ability comes with the immersion that the technician has on a day to day basis with actual client scenarios.
+Essential Job Functions:
+Specific technical duties defined per incident include:
+Analysis and Investigation of problems
+Repair, substitution or replacement of faulty hardware as necessary
+Repair, installation, reinstallation or reprogram of software as necessary
+Testing and error checking of solutions
+Preventive maintenance to be performed
+Backup of data as necessary in order to restore functionality
+Provide recommendations as necessary for the general health of the equipment
+Provide technical documentation and/or materials upon request or as necessary
+Follow-up with Customer after the solution has been implemented Non Specific technical duties:
+A mechanical knowledge of tools for hardware repairs
+Clearly documenting all incidents (internal database driven)
+Confirmation and Follow-up calls to clients as necessary Resources:
+Must be presentable in appearance
+Must have excellent English communication skills in both written and verbal forms
+Must be willing to on occasion work unscheduled hours. Essential Skills & Experience:
+Practical knowledge of internal components of workstations to include motherboards, ram, hard drives, video, sound, I/O, optical drives, ports and cooling systems
+Practical knowledge of accessories including keyboards, pointing devices, scanners, printers, networking devices, routers, wireless devices, security devices and gaming devices
+Practical knowledge of assembly, disassembly and maintenance of all hardware components
+Ability to thoroughly learn all mechanical components of CribMaster hardware machines
+Practical knowledge of all currently available Windows operating systems to include installation, recovery, setup and updating of all current versions.
+Practical knowledge of most major software suites for office use including Microsoft Office
+Practical knowledge of SQL server and databases
+Ability to learn installation and setup of CribMaster and ATR applications
+Trouble shooting skills in hardware components
+Trouble shooting skills in software components
+Stanley Black & Decker offers its employees a competitive salary and a comprehensive benefits plan that includes medical, dental, life, disability, 401k, retirement savings, ESPP, vacation, paid holidays, and more! Only those candidates who are currently eligible to work in the US will be considered for the opportunity. Stanley Black & Decker is proud to be an Equal Opportunity Employer.
+
+
+Go to apply 
+

@@ -1,0 +1,16 @@
+Job Title = Storage Admin
+
+Should have thorough understanding of SAN, NAS(NFS/CIFS) and iSCSI environment
+Be well versed with EMC VNX, Celerra, Clariion and Isilon storages
+Thorough experience working with Pure SSD storage
+Should have good working experience on IBM XIV Storage
+Knowledge of Netapp CDOT Storage system
+Knowledge and experience working on Cisco fabric switches(9513)
+Should have knowledge on cabling the storage/server with switches in data center environment.
+Should have good troubleshooting and performance experience with storage-server(Physical/Virtual)
+Experience with upgrade and implementing storage system.
+Working knowledge of backup like netbackup, avamar etc is preferred.
+
+
+Apply now
+

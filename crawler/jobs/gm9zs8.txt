@@ -1,3 +1,4 @@
+Job Title = Machine Operator
 
 Job Summary:
 · Operate single automatic machine to produce a variety of metal parts.

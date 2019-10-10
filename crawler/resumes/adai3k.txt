@@ -1,0 +1,53 @@
+
+Juan E. Segebre
+Computer Science Engineer
+San Pedro Sula, Honduras
++504-****-****
+adai3k@r.postjobfree.com
+LinkedIn
+EXPERIENCE
+Number8, Honduras — Front-End Developer
+APRIL 2019 - PRESENT
+Accessibility compliant Front-End development using Razor, Back-End development using Sitecore and C#, Agile development practices using Scrum and Azure, deployments on Azure platform.
+Number8, Honduras — Web Scrapers Developer
+DECEMBER 2018 - APRIL 2019
+Page communication analysis using Postman, HTML and image download using internal library, creation of multiple parsers in C#, unit tests and code review practices.
+Number8, Honduras — Full-Stack Developer Internship JULY 2018 - DECEMBER 2018
+PDF library creation with Syncfusion, Agile development practices using Scrum and Jira, PrimeNG library source code modifications, Angular development, HTML and CSS error resolution, email templating using SparkPost.
+EDUCATION
+Unitec, Honduras — BS in Computer Science Engineering JULY 2014 - APRIL 2019
+President of the Computer Science Association, participant in voluntary community service, scholarship holder, tutor, and laboratory instructor. NTHU, Taiwan — Frontier of Information Technology
+Diploma
+JUNE 2017 - JULY 2017
+Introduction to machine learning, big data, and blockchains. Academia Americana, Honduras — Highschool BA in Science and Language Arts
+Graduated JULY 2014
+Participant in extracurricular activities including Math Olympics, Debate Club, Choir, and Band.
+TECHNICAL SKILLS
+Programing Languages:
+Ruby, Dart, JavaScript, C#,
+C++, C
+Frameworks: RoR, Angular,
+.Net Core, Flutter, Bootstrap
+Tools: Scrum, Git, Postman,
+Jira, Azure
+Other: HTML, CSS, SQL,
+Verilog
+SOFT SKILLS
+Sense of curiosity, charisma,
+leadership, and public
+speaking
+AWARDS
+Cum Laude on BS in Computer
+Science Engineering
+Outstanding Leadership
+granted by the Faculty of
+Engineering at Unitec
+Cum Laude on Highschool BA
+in Science and Language Arts
+LANGUAGES
+Spanish (Native)
+English (Fluent 99 on TOEFL)
+Portguese (Casual)
+Arabic (Casual)
+
+Contact this candidate

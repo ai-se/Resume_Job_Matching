@@ -1,3 +1,4 @@
+Job Title = Quality Assurance Team Lead
 
 We are seeking a Team Lead to join our QA team. This highly visible role will oversee quality inspections, reviews, and assessments performed by team members. The Team Lead will have ultimate responsibility for collecting, analyzing, and identifying trends and improvement opportunities. The Team Lead will also use quality control to diagnose root cause, and recommend corrective actions and improvement opportunities. This position requires experience managing QA on manual processes.
 

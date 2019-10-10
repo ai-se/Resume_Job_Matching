@@ -1,3 +1,4 @@
+Job Title = Solutions Engineer - New England
 
 About CyberArk:
 CyberArk is the global leader in privileged access security, a critical layer of IT security to protect data, infrastructure and assets across the enterprise, in the cloud and throughout the DevOps pipeline. CyberArk delivers the industry’s most complete solution to reduce risk created by privileged credentials and secrets. The company is trusted by the world’s leading organizations, including more than 50 percent of the Fortune 500, to protect against external attackers and malicious insiders.

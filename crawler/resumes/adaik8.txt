@@ -1,0 +1,89 @@
+
+Rahul M.C Nambiar
+*** * ****** *** #**, DETROIT, MI – 48201 adaik8@r.postjobfree.com 989-***-****
+* * * * *
+Summary
+• Experienced Test Engineer in automobile industry with focus on adhering to superior quality and standards
+• Expertise in identifying issues with new launch models, root cause analysis and providing solutions for the issues identified
+• Experience in validating manufacturing and engineering changes
+• Managed inventory and performed test drive to identify and validate drivability issues
+• Experience prioritizing and managing issues based on severity as per FCA standards
+• 3 Years’ experience in transportation industry with focus on quality services and assisted with fleet acquisitions, retirements & retrofits
+• Experience working at plant in validating assembly line processes. Professional Experience
+RELIABILITY TEST ENGINEER Aug 2018- Feb 2019
+FIAT CHRYSLER AUTOMOBILES
+(Stationed at Roush), AUBURN HILLS, MI
+HRU Tech
+336/HMSR Test
+336 Test: Focused to determine warranty hits.
+HMSR Test: High mileage test focused to determine powertrain quality and reliability.
+• Reviewed pre-production and production vehicles for potential warranty impacts. Raised issue awareness related to Powertrain, BIW, Exterior, Interior, Supplier, Chassis, Electrical, BSR, Restraint etc during disposition meeting
+• Validated and conducted the root cause analysis for issues found during the test.
+• Recorded the identified issues in the corporate database (IDS- Incident Disposition System) and assigned the issue to the respective engineering departments such as Powertrain, BIW, Exterior, Interior, Chassis, Electrical, BSR, Restraint etc.
+• Assisted and supported the corporate engineering departments to root cause the issues.
+• Followed-up the issues until the corrective actions or clean points are provided and closed the issues.
+• Created agenda and take part in daily issue dispositioning meeting and assisted Vehicle Model managers in prioritizing the issues
+• Followed Fiat Chrysler audit standards and categorize the severity of the issues identified during tests to meet high quality standards.
+• Collaborated with emissions testing team for emissions test based on vehicle ODO mileage & aged CAT (Catalytic converter) mileage.
+• Performed customer focused battery testing procedures to analyze battery performance and reliability
+• Ordered vehicle parts using part numbers for the vehicle test requirements.
+• Followed-up the issues until the corrective actions or clean points are provided and close the issue.
+• Created and disseminated daily issue report to corporate management
+• Presented issue status in monthly meeting with senior managers and directors.
+• Recommend engineering design changes if necessary.
+• Proposed and Scheduled work orders (vehicle repair/ part swap) to enable the continuation of vehicle testing.
+• Monitored the test in different environmental regions and supported the immediate requirements in diagnosing the issues via Control Tec data loggers that recorded all the data from electronic control units of the vehicle.
+• Led Initiation of work orders for vehicle testing activities.
+• Validated the incidents reported during the test, high severity incidents are transferred to Global Issue Management System (GIM) for special attention.
+• Utilized Chrysler Diagnostic Applications (CDA) for all FCA vehicle to identify and root cause issues received from Electronic Control Unit (ECU).
+• Monitored and oversaw all test vehicles are updated with latest software. Rahul M.C Nambiar
+950 W FOREST AVE #10, DETROIT, MI – 48201 adaik8@r.postjobfree.com 989-***-**** 2 P a g e
+QUALITY VALIDATION ENGINEER (Contract)
+FIAT CHRYSLER AUTOMOBILES, TOLEDO, OH, USA Nov 2017- Jul 2018 ROUSH/ HRU Tech
+Presigi Test
+• Used CDA software to perform On Board Diagnostics (OBD) of Jeep Wrangler JL to identify DTC
+(Diagnostic Trouble Codes) issues received from the (ECU)
+• Conducted a root cause analysis on a recognized issue and assigned the suspected issue to the concerned departments such as Powertrain, BIW, Exterior, Interior, Supplier, Chassis, Electrical, BSR, Restraint etc. Followed-up until the corrective action (Kaizen, Quality alert sheet) is provided and validated the process.
+• Reviewed Quality alert, 8D & Kaizen documents (Fishbone, 5W1H,4M1D) for the issues seen during the test.
+• Followed-up the issues until the corrective actions or clean points are provided and close the issue.
+• Followed Fiat Chrysler audit standards and categorized the severity of the issues identified during Dynamic and Static checks to meet high quality standards.
+• Recorded identified issues in corporate data base (IDS-Incident disposition system), assigned the issues to the concerned departments in the assembly plant after performing root cause analysis.
+• Responsible for implementing and releasing Quality Holds in the Broadcast system of FCA.
+(Performance feedback system-PFS, mainframe)
+• Assisted in prioritizing issues found that are to be reported by the Quality Engineering Group during the daily status meeting.
+• Meet with and support plant and engineering personnel to discuss, root cause and implement corrective actions for the issues.
+• Alerted Engineering and Plant personnel on issues and statuses.
+• Trained Drivers on the vehicle features and components.
+• Created and disseminated daily and weekly reports to plant leadership on the issues identified and their resolution/containment status
+ASHOKA TRANSPORT, Kerala, INDIA Aug. 2012 – Jun. 2015 Fleet Operations Analyst
+• Analyzed data such as maintenance, finance returns, & safety norms for fleet purchases; Assisted with vehicle acquisitions, retirements & retrofits.
+• Optimization of the fleet in terms of resource, time and routes selection. Tools used are Big M, Excel Solver through decision variables
+• Reviewed and analyzed day-to-day fleet reliability data taking in consideration of critical equipment, MTTR, MTBF, Overall OEE and historical data
+• Developed specific vehicle preventive maintenance plan considering availability and downtime requirement of the specific services
+• Documented fleet repair history and determined when replacements were necessary
+• Monitored driver performance through metrics such as late arrival and customer feedback.
+• Resource planning by considering the budget for maintenance.
+• Monitored and analyzed daily inspection reports in terms of repeated issues and actions taken for cleaning and consumables used
+• Monitored fuel costs and identified cost saving measures CADD CENTRE, Kerala, INDIA Nov. 2012 – Jun. 2015
+Visiting Faculty Instructor (Catia, Siemens NX)
+• Design, developed, and implemented student-specific course plans and lessons.
+• Instructed customized lessons and tutorials during training workshops and laboratory exercises
+• Taught & demonstrated principles, techniques, and methods of CATIA & NX
+• Conducted assessment and evaluation in training; ensured that students had the ability to understand and use tools appropriately
+• Provided appropriate training related feedback and educational assistance to students. Education
+Master of Science, Industrial Engineering May 2017 Wayne State University, USA
+Rahul M.C Nambiar
+950 W FOREST AVE #10, DETROIT, MI – 48201 adaik8@r.postjobfree.com 989-***-**** 3 P a g e
+Bachelor of Engineering, Mechanical May 2012
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, INDIA
+Research
+QUALITY MANAGEMENT IN AIRLINE BUSINESS
+Wayne State University (June 2017- November 2017)
+Data has shown a decline in competitive advantages within the US Airline industry comparatively to its competitors. I analyzed the challenges the airline industry in the United States is facing today, specifically in quality management and explored ways to improve and sustain quality. Academic Projects
+SUSTAINABLE DEVELOPMENT – THE KEY FOR GREEN AVIATION OCT 2016 This was a research paper to analyze the impact of aviation on climate system and evaluate how the carbon footprint can be minimized and attain sustainability. PROJECT MANAGEMENT IN AVIATION April 2017
+A research project conducted to understand how core project management techniques should be utilized in the aviation industry (collection of associated industries including both manufacturers and service providers) to operate efficiently and attain profitability. CORPORATE SUSTAINABILITY REPORT OF AIRBUS NORTH AMERICA INC. DEC 2016 Analysed five-year corporate sustainable reports to assess the embeddedness of environment sustainability using supervised Text Data Mining software (R).
+VALUE ANALYSIS ON PROCESS SALES MAP FOR IMPROVED SELLING July 2016 Study and development of sales strategy of hybrid automobiles using value engineering concepts (value Stream mapping) for improved sales growth.
+Skills
+• Minitab R SAS-JMP Tableau Protégé CATIA UG NX CREO (Pro E) AutoCAD Project Management Continuous Improvement Data Analysis Product design Multitasking Excellent Oral & Written Communication Customer Service Critical Thinking Collaboration Proficient in Microsoft Office (Excel, PowerPoint, Word, Access) PFMEA FMEA DVP&R Problem Solving Product Validation GD&T
+
+Contact this candidate

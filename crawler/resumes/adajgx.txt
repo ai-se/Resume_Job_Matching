@@ -1,0 +1,47 @@
+
+Patrick Heinz
+CTO Senior Blockchain Architect Consultant Advisor
+adajgx@r.postjobfree.com 360-***-**** linkedin.com/in/patrickheinz/ Executive Summary
+Co-founder of Aircraft Blockchain and The Civil Media Company. CTO, Senior Blockchain Engineer, Solutions Architect, Advisor, and Consultant with a decade of technical expertise working in the DLT space.
+Created CIVIL the world’s first blockchain based decentralized journalism platform run on Ethereum and IPFS protocols and raised a $5m series A round from leading investors including Consensys.
+Held leadership roles as CTO of Aircraft Blockchain, Head of Blockchain at Civil, Senior Architect for Blockchain Foundry and the Senior Core Dev for Syscoin. Managed distributed teams of engineers and product ownership in JIRA environment utilizing Agile/Scrum methodologies.
+SKILLS
+● Blockchain Solutions Architecture, ML, AI, Distributed Ledger Technology.
+● Contract Negotiation, Capital Raising, Research and Development, Market Insight.
+● Strategic Leadership and Vision, Global Team Management, Recruiting and Hiring.
+● Node Hardware; Amazon AWS, GPU, FPGA (field programmable gate array), ASIC.
+● Cryptography; Asymmetric (pub / priv key), symmetric, hash function, encryption.
+● Distributed consensus methodologies; Proof of Work (PoW) and Proof of Stake (PoS).
+● Cryptographic protocols; Hyperledger Fabric, Bitcoin, Ethereum, Ripple.
+● Languages; C++, Java, Smart Contracts, Solidity (contract-oriented, high-level). EXPERIENCE
+Co-founder & CTO, Aircraft Blockchain, Remote — AUG 2019 - PRESENT
+● Leverage blockchain solutions to enable General Aviation business partners to securely share reliable, unhackable aircraft logs and maintenance data.
+● Work with CEO and CIO to define an achievable product roadmap and timeline.
+● Develope Hyperledger Fabric architecture to facilitate frictionless integration of traditionally analog processes.
+● Communicate benefits of DLT systems to clients while identifying key benefits to asset management, efficiency, and data security.
+Advisor, Guidepoint, Remote — FEB 2017- PRESENT
+● Provide strategic leadership and vision through analysis and review of blockchain start-up’s business model and value proposal.
+● Generate research based recommendations and industry specific solutions for viability of scaling enterprise level blockchain applications.
+● Serve as DLT subject matter expert for global leaders in Finance, Media, and Blockchain. Patrick Heinz
+CTO Senior Blockchain Architect Consultant Advisor adajgx@r.postjobfree.com 360-***-**** linkedin.com/in/patrickheinz/ Senior Architect, Blockchain Foundry, Vancouver, BC — MAR 2018 - AUG 2018
+● Managed distributed team of engineers in a JIRA / Scrum environment to deliver timely, functional, and well documented code.
+● Researched application of Zero-Knowledge proof with ZKsnarks and sharding in scaling network to support enterprise scale throughput.
+● Lead client negotiations, concept designs, proposals, and contract acquisition for blockchain services department.
+● Secured revenues of $1m+ through contract to build and maintain decentralized Peer to Peer (P2P) blockchain marketplace platform.
+Senior Core Dev, Syscoin, Vancouver, BC — MAR 2018 - AUG 2018
+● Developed Syscoin 3.0 and 4.0 evolution strategy, incorporating ZDAG and Intel Software Guard Extensions, or SGX for masternode and transaction scaling.
+● Lead team of Syscoin core developers in a JIRA environment using Agile/Scrum methodology to deliver strategic vision, bug support, and version upgrades.
+● Designed and implemented Asset / Token Airdrop script and protocols for Transaction Per Second (TPS) testing of Syscoin 3.x to maximize transaction throughput.
+● Created extensive Syscoin public support documentation utilizing Markdown for wallet console operation and Asset / Token management.
+Co-Founder & Head of Blockchain Architecture, Civil, Brooklyn, NY — OCT 2017 - JAN 2018
+● Created CIVIL the world’s first blockchain based decentralized journalism platform run on Ethereum and IPFS protocols, raising $5m in Series A.
+● Lead development using Agile/Scrum of CIVIL Platform Modules and Smart-contracts; CVL Tokens, Marketplace, Content Management, using Consensys Ganache and Truffle development framework for Ethereum.
+● Integrated functionality of CIVIL platform modules and CVL Token with Ethereum Virtual Machine (EVM) and InterPlanetary File System (IPFS).
+● Designed decentralized governance model for CIVIL platform rooted in community whitelisting and economic incentives by utilizing a CVL Token Based Registry. Blockchain Solutions Architect, Independent Consulting, Seattle WA — FEB 2011 - OCT 2017
+● 9 years of technical expertise building in Blockchain, Bitcoin, Ethereum, & Hyperledger.
+● Quantitative and technical analysis, OTC, P2P, HFT & algorithmic crypto trading.
+● Managed distributed node hardware on Amazon AWS, ASIC, FPGA, & GPUs. EDUCATION
+College of DuPage, Glen Ellyn, IL - Associate's Degree JAN 2002 - JAN 2005
+Northern Illinois University, Dekalb, IL - Associate's Degree JAN 2002 - JAN 2005
+
+Contact this candidate
