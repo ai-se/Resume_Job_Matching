@@ -23,7 +23,7 @@ import re
 
 
 class JobResume():
-    def __init__(self,jobfile = "../data/combinedJob.csv",resumefile="../data/combinedResume.csv"):
+    def __init__(self,jobfile = "../data/combinedJob_V2.csv",resumefile="../data/combinedResume_V2.csv"):
         self.jobs = pd.read_csv(jobfile)
         self.resumes = pd.read_csv(resumefile)
         self.resumes["categories"] = [set(x.split(",")) for x in self.resumes["Job Title"]]
@@ -264,6 +264,16 @@ class JobResume():
                         break
             return (resume_id, job_id_a, job_id_b)
 
+    def get_ids(self,category="Software Engineer",is_job=True):
+        candidates = self.jobs["categories"] if is_job else self.resumes["categories"]
+        return [i for i,can in enumerate(candidates)  if category in can]
+
+    def gen_inclass_triplet(self,category="Software Engineer",is_target_job=True):
+        target_ids = self.get_ids(category, is_target_job)
+        candidate_ids = self.get_ids(category, not is_target_job)
+        candidates = list(set(np.random.choice(candidate_ids,2,replace=False)))
+        triplet =  (np.random.choice(target_ids,1)[0], candidates[0], candidates[1])
+        return triplet
 
 def test():
     x = JobResume()     # Load data
@@ -331,7 +341,7 @@ def triplet_test():
     x.prepare()         # Preprocessing
     result_job = {"tfidf":0,"lda":0,"doc2vec":0}
     result_resume = {"tfidf":0,"lda":0,"doc2vec":0}
-    for treatment in [x.tfidf,x.lda]:
+    for treatment in [x.tfidf,x.lda,x.doc2vec]:
         treatment()
         name = treatment.__name__
         for epoch in range(num_triplets):
@@ -459,6 +469,37 @@ def trend2():
         result.append(row)
     df = pd.DataFrame(result)
     df.to_csv("../figure/trend_hierarchy.csv")
+
+def manual_triplet():
+    x = JobResume()  # Load data
+    x.prepare()  # Preprocessing
+    size = 100
+    target_job = set()
+    while len(target_job)<size:
+        target_job.add(x.gen_inclass_triplet(category="Software Engineer",is_target_job=True))
+    target_resume = set()
+    while len(target_resume) < size:
+        target_resume.add(x.gen_inclass_triplet(category="Software Engineer", is_target_job=False))
+    columns = ["Triplet", "Job", "Resume A", "Resume B"]
+    dict = {column:[] for column in columns}
+    for triplet in target_job:
+        dict["Triplet"].append(triplet)
+        dict["Job"].append(x.job_post[triplet[0]])
+        dict["Resume A"].append(x.resume_info[triplet[1]])
+        dict["Resume B"].append(x.resume_info[triplet[2]])
+    df = pd.DataFrame(data=dict,columns=columns)
+    df.to_csv("../dump/target_job_triplet.csv")
+
+    columns = ["Triplet", "Resume", "Job A", "Job B"]
+    dict = {column: [] for column in columns}
+    for triplet in target_resume:
+        dict["Triplet"].append(triplet)
+        dict["Resume"].append(x.resume_info[triplet[0]])
+        dict["Job A"].append(x.job_post[triplet[1]])
+        dict["Job B"].append(x.job_post[triplet[2]])
+    df = pd.DataFrame(data=dict, columns=columns)
+    df.to_csv("../dump/target_resume_triplet.csv")
+
 
 
 
