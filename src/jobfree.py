@@ -130,19 +130,23 @@ class JobResume():
         self.csr_mat=tfer.fit_transform(self.content)
         return
 
-    def match_resume(self,resume_id,num):
+    def match_resume(self,resume_id,num,subset=None):
+        if subset==None:
+            subset = range(self.num_job)
         target = self.csr_mat[resume_id].transpose()
-        jobs = self.csr_mat[self.num_resume:]
-        probs = (jobs*target).toarray().flatten()
+        cans = self.csr_mat[self.num_resume:][subset]
+        probs = (cans*target).toarray().flatten()
         order = np.argsort(probs)[::-1][:num]
-        return order, probs[order]
+        return np.array(subset)[order], probs[order]
 
-    def match_job(self,job_id,num):
+    def match_job(self,job_id,num,subset=None):
+        if subset==None:
+            subset = range(self.num_resume)
         target = self.csr_mat[self.num_resume+job_id].transpose()
-        jobs = self.csr_mat[:self.num_resume]
-        probs = (jobs*target).toarray().flatten()
+        cans = self.csr_mat[:self.num_resume][subset]
+        probs = (cans*target).toarray().flatten()
         order = np.argsort(probs)[::-1][:num]
-        return order, probs[order]
+        return np.array(subset)[order], probs[order]
 
     def cos_dist(self,a,b):
         return (self.csr_mat[a]*(self.csr_mat[b].transpose())).toarray()[0]
@@ -268,12 +272,21 @@ class JobResume():
         candidates = self.jobs["categories"] if is_job else self.resumes["categories"]
         return [i for i,can in enumerate(candidates)  if category in can]
 
-    def gen_inclass_triplet(self,category="Software Engineer",is_target_job=True):
+    def gen_inclass_triplet(self,category="Software Engineer",is_target_job=True, num = 100):
         target_ids = self.get_ids(category, is_target_job)
         candidate_ids = self.get_ids(category, not is_target_job)
-        candidates = list(set(np.random.choice(candidate_ids,2,replace=False)))
-        triplet =  (np.random.choice(target_ids,1)[0], candidates[0], candidates[1])
-        return triplet
+        targets = np.random.choice(target_ids,num, replace=False)
+        triplets = []
+        for target in targets:
+            if is_target_job:
+                cans, probs = self.match_job(target,2,candidate_ids)
+            else:
+                cans, probs = self.match_resume(target, 2, candidate_ids)
+            triplets.append([target] + cans.tolist())
+        # candidates = list(set(np.random.choice(candidate_ids,2,replace=False)))
+        # triplet =  (np.random.choice(target_ids,1)[0], candidates[0], candidates[1])
+
+        return triplets
 
 def test():
     x = JobResume()     # Load data
@@ -473,13 +486,10 @@ def trend2():
 def manual_triplet():
     x = JobResume()  # Load data
     x.prepare()  # Preprocessing
+    x.tfidf()
     size = 100
-    target_job = set()
-    while len(target_job)<size:
-        target_job.add(x.gen_inclass_triplet(category="Software Engineer",is_target_job=True))
-    target_resume = set()
-    while len(target_resume) < size:
-        target_resume.add(x.gen_inclass_triplet(category="Software Engineer", is_target_job=False))
+    target_job = x.gen_inclass_triplet(category="Software Engineer",is_target_job=True,num=size)
+    target_resume = x.gen_inclass_triplet(category="Software Engineer",is_target_job=False,num=size)
     columns = ["Triplet", "Job", "Resume A", "Resume B"]
     dict = {column:[] for column in columns}
     for triplet in target_job:
@@ -488,7 +498,7 @@ def manual_triplet():
         dict["Resume A"].append(x.resume_info[triplet[1]])
         dict["Resume B"].append(x.resume_info[triplet[2]])
     df = pd.DataFrame(data=dict,columns=columns)
-    df.to_csv("../dump/target_job_triplet.csv")
+    df.to_csv("../dump/target_job_triplet_SE.csv")
 
     columns = ["Triplet", "Resume", "Job A", "Job B"]
     dict = {column: [] for column in columns}
@@ -498,7 +508,7 @@ def manual_triplet():
         dict["Job A"].append(x.job_post[triplet[1]])
         dict["Job B"].append(x.job_post[triplet[2]])
     df = pd.DataFrame(data=dict, columns=columns)
-    df.to_csv("../dump/target_resume_triplet.csv")
+    df.to_csv("../dump/target_resume_triplet_SE.csv")
 
 
 
