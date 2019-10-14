@@ -5,7 +5,7 @@ from time import time
 import numpy as np
 from pdb import set_trace
 from demos import cmd
-from job_resume import JobResume
+from jobfree import JobResume
 
 class Model(object):
     def any(self):
@@ -63,47 +63,36 @@ class Optimizee(Model):
         self.model.prepare()         # Preprocessing
 
         self.margin = 0.0
-        self.jobids = {"photographer":6445,"Office Manager":3238,"HR":18993,"ASP.NET Developer":11854,"Sales/Consultant":1525,"Administrative Assistant":14386,"Graphic Designer":14585,"Software Engineer":413, "User Interface/ Web Designer":16808, "Lawyer":19000}
-        self.resumeids = {"photographer":44,"Office Manager":103,"HR":3,"ASP.NET Developer":48,"Sales/Consultant":605,"Administrative Assistant":504,"Graphic Designer":1168,"Software Engineer":881,"User Interface/ Web Designer":41, "Lawyer":392}
+        self.num_triplets = 100000
 
     def getobj(self):
         if self.obj==[]:
 
-            result_job = []
-            result_resume = []
+            result_job = 0
+            result_resume = 0
 
-            for seed in range(10):
-                self.model.lda(seed=seed, num_topics = int(self.dec[0]), alpha=self.dec[1], eta=self.dec[2])
-                r_job = 0
-                r_resume = 0
-                for key in self.jobids:
-                    jobid = self.jobids[key]
-                    resume_yes = self.resumeids[key]
-                    for r in self.resumeids:
-                        if r==key:
-                            continue
-                        resume_no = self.resumeids[r]
-                        diff = self.model.cos_dist(jobid+self.model.num_resume,resume_yes) - self.model.cos_dist(jobid+self.model.num_resume,resume_no)
-                        if diff > self.margin:
-                            r_job+=1
-                        elif diff < -self.margin:
-                            r_job+=-1
-                for key in self.resumeids:
-                    resumeid = self.resumeids[key]
-                    job_yes = self.jobids[key]
-                    for r in self.jobids:
-                        if r==key:
-                            continue
-                        job_no = self.jobids[r]
-                        diff = self.model.cos_dist(resumeid,job_yes+self.model.num_resume) - self.model.cos_dist(resumeid,job_no+self.model.num_resume)
-                        if diff > self.margin:
-                            r_resume+=1
-                        elif diff < -self.margin:
-                            r_resume+=-1
-                result_job.append(r_job)
-                result_resume.append(r_resume)
+            score = 1 / float(self.num_triplets)
 
-            self.obj = [np.median(result_job), np.median(result_resume)]
+            seed = 0
+            self.model.lda(seed=seed, num_topics = int(self.dec[0]), alpha=self.dec[1], eta=self.dec[2])
+            for epoch in range(self.num_triplets):
+                triplet = self.model.gen_triplet(type="job")
+                diff = self.model.cos_dist(triplet[0] + self.model.num_resume, triplet[1]) - self.model.cos_dist(triplet[0] + self.model.num_resume,
+                                                                                      triplet[2])
+                if diff > self.margin:
+                    result_job += score
+                elif diff < -self.margin:
+                    result_job += -score
+
+                triplet = self.model.gen_triplet(type="resume")
+                diff = self.model.cos_dist(triplet[0], triplet[1] + self.model.num_resume) - self.model.cos_dist(triplet[0],
+                                                                                      triplet[2] + self.model.num_resume)
+                if diff > self.margin:
+                    result_resume += score
+                elif diff < -self.margin:
+                    result_resume += -score
+
+            self.obj = [result_job, result_resume]
         return self.obj
 
 def mutate(candidates,f,cr,i):
