@@ -44,9 +44,9 @@ class JobResume():
         print("Resume:")
         print(self.resume_info[resume_id])
 
-    def lda(self, content="all", seed=0, num_topics=100, alpha=0.1, eta=0.01, norm='l2'):
-
-        np.random.seed(seed)
+    def lda(self, content="all", seed=None, num_topics=100, alpha=0.1, eta=0.01, norm='l2'):
+        if seed:
+            np.random.seed(seed)
         import lda
         tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
                                decode_error="ignore")
@@ -367,7 +367,7 @@ def consist():
 
 def triplet_test():
     margin = 0.0
-    num_triplets = 100000
+    num_triplets = 10000
     score = 1/float(num_triplets)
     x = JobResume()     # Load data
     x.prepare()         # Preprocessing
