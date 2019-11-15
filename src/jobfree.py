@@ -510,6 +510,17 @@ def manual_triplet():
     df = pd.DataFrame(data=dict, columns=columns)
     df.to_csv("../dump/target_resume_triplet_SE.csv")
 
+def separate():
+    x=JobResume()
+    categories = ["Machinist","Machine Operator","Technician","Technologist","Engineer","Software Engineer"]
+    for cat in categories:
+        jobs = x.jobs.iloc[[i for i, cats in enumerate(x.jobs["categories"]) if cat in cats]]
+        resumes = x.resumes.iloc[[i for i, cats in enumerate(x.resumes["categories"]) if cat in cats]]
+        jobs.to_csv("../data/separate/job_"+cat+".csv", index=False,line_terminator="\r\n")
+        resumes.to_csv("../data/separate/resume_" + cat + ".csv", index=False, line_terminator="\r\n")
+
+
+
 
 
 
