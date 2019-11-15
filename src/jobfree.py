@@ -44,9 +44,9 @@ class JobResume():
         print("Resume:")
         print(self.resume_info[resume_id])
 
-    def lda(self, content="all", seed=0, num_topics=100, alpha=0.1, eta=0.01):
-
-        np.random.seed(seed)
+    def lda(self, content="all", seed=None, num_topics=100, alpha=0.1, eta=0.01, norm='l2'):
+        if seed:
+            np.random.seed(seed)
         import lda
         tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False,
                                decode_error="ignore")
@@ -80,7 +80,8 @@ class JobResume():
         for i,topic_dist in enumerate(self.topic_words):
             topic = self.vocab[np.argsort(topic_dist)[-n_topic_words:][::-1]]
             print('Topic {}: {}'.format(i,' '.join(topic)))
-        self.csr_mat = csr_matrix(preprocessing.normalize(self.csr_mat,norm='l2',axis=1))
+        if norm:
+            self.csr_mat = csr_matrix(preprocessing.normalize(self.csr_mat,norm=norm,axis=1))
         return
 
     def doc2vec(self):
@@ -272,6 +273,24 @@ class JobResume():
         candidates = self.jobs["categories"] if is_job else self.resumes["categories"]
         return [i for i,can in enumerate(candidates)  if category in can]
 
+    def feature_distribution(self):
+        categories = set()
+        for cans in self.jobs["categories"]:
+            categories = categories | cans
+        job_distribution = {}
+        resume_distribution = {}
+        for cat in categories:
+            job_ids = self.get_ids(category=cat,is_job=True)
+            resume_ids = self.get_ids(category=cat,is_job=False)
+            jobs = self.csr_mat[np.array(job_ids)+self.num_resume]
+            resumes = self.csr_mat[np.array(resume_ids)]
+            job_distribution[cat] = (np.sum(jobs,axis=0)/len(jobs)).tolist()
+            resume_distribution[cat] = (np.sum(resumes,axis=0)/len(resumes)).tolist()
+        df_job = pd.DataFrame(job_distribution,columns=job_distribution.keys())
+        df_resume = pd.DataFrame(resume_distribution,columns=job_distribution.keys())
+        df_job.to_csv("../figure/job_distribution.csv")
+        df_resume.to_csv("../figure/resume_distribution.csv")
+
     def gen_inclass_triplet(self,category="Software Engineer",is_target_job=True, num = 100):
         target_ids = self.get_ids(category, is_target_job)
         candidate_ids = self.get_ids(category, not is_target_job)
@@ -348,29 +367,35 @@ def consist():
 
 def triplet_test():
     margin = 0.0
-    num_triplets = 100000
+    num_triplets = 10000
     score = 1/float(num_triplets)
     x = JobResume()     # Load data
     x.prepare()         # Preprocessing
-    result_job = {"tfidf":0,"lda":0,"doc2vec":0}
-    result_resume = {"tfidf":0,"lda":0,"doc2vec":0}
-    for treatment in [x.tfidf,x.lda,x.doc2vec]:
-        treatment()
+    num_tries = 30
+    result_job = {"tfidf":[],"lda":[],"doc2vec":[]}
+    result_resume = {"tfidf":[],"lda":[],"doc2vec":[]}
+    for treatment in [x.tfidf,x.lda]:
         name = treatment.__name__
-        for epoch in range(num_triplets):
-            triplet = x.gen_triplet(type="job")
-            diff = x.cos_dist(triplet[0]+x.num_resume,triplet[1]) - x.cos_dist(triplet[0]+x.num_resume,triplet[2])
-            if diff > margin:
-                result_job[name]+=score
-            elif diff < -margin:
-                result_job[name]+=-score
+        for tries in range(num_tries):
+            treatment()
+            r_job = 0
+            r_resume = 0
+            for epoch in range(num_triplets):
+                triplet = x.gen_triplet(type="job")
+                diff = x.cos_dist(triplet[0]+x.num_resume,triplet[1]) - x.cos_dist(triplet[0]+x.num_resume,triplet[2])
+                if diff > margin:
+                    r_job+=score
+                elif diff < -margin:
+                    r_job+=-score
 
-            triplet = x.gen_triplet(type="resume")
-            diff = x.cos_dist(triplet[0],triplet[1]+x.num_resume) - x.cos_dist(triplet[0],triplet[2]+x.num_resume)
-            if diff > margin:
-                result_resume[name]+=score
-            elif diff < -margin:
-                result_resume[name]+=-score
+                triplet = x.gen_triplet(type="resume")
+                diff = x.cos_dist(triplet[0],triplet[1]+x.num_resume) - x.cos_dist(triplet[0],triplet[2]+x.num_resume)
+                if diff > margin:
+                    r_resume+=score
+                elif diff < -margin:
+                    r_resume+=-score
+            result_job[name].append(r_job)
+            result_resume[name].append(r_resume)
     print("targeting jobs")
     print(result_job)
     print("targeting resumes")
@@ -516,12 +541,16 @@ def separate():
     for cat in categories:
         jobs = x.jobs.iloc[[i for i, cats in enumerate(x.jobs["categories"]) if cat in cats]]
         resumes = x.resumes.iloc[[i for i, cats in enumerate(x.resumes["categories"]) if cat in cats]]
-        jobs.to_csv("../data/separate/job_"+cat+".csv", index=False,line_terminator="\r\n")
-        resumes.to_csv("../data/separate/resume_" + cat + ".csv", index=False, line_terminator="\r\n")
+        jobs.to_csv("../data/separate/job_"+cat+".csv", index=False)
+        resumes.to_csv("../data/separate/resume_" + cat + ".csv", index=False)
 
 
 
-
+def lda_distribution():
+    x = JobResume()     # Load data
+    x.prepare()         # Preprocessing
+    x.lda(seed=0,num_topics=10,norm=None)
+    x.feature_distribution()
 
 
 if __name__ == "__main__":

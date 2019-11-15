@@ -97,11 +97,11 @@ class Optimizee(Model):
 
 def mutate(candidates,f,cr,i):
     tmp=range(len(candidates))
+    xold=candidates[i]
     tmp.remove(i)
     while True:
         abc=np.random.choice(tmp,3)
         a3=[candidates[tt] for tt in abc]
-        xold=candidates[i]
         r=randint(0,xold.decnum-1)
         xnew=Optimizee()
         xnew.any()
@@ -120,10 +120,9 @@ def mutate(candidates,f,cr,i):
 "DE, maximization"
 def differential_evolution():
 
-    import multiprocessing as mp
+    from multiprocessing import Pool
     # nb = mp.cpu_count()
     nb = 10
-    pool = mp.Pool(nb)
 
     maxtries=10
     f=0.75
@@ -131,11 +130,11 @@ def differential_evolution():
     candidates=[Optimizee() for i in range(nb)]
     for tries in range(maxtries):
         print(", Retries: %2d, " %tries)
-        next_gen=[pool.apply(mutate, args=(candidates,f,cr,i)) for i in range(nb)]
+        with Pool(nb) as pool:
+            next_gen=[pool.apply(mutate, args=(candidates,f,cr,i)) for i in range(nb)]
         candidates = next_gen
     evals = [x.eval() for x in candidates]
     xbest = candidates[np.argmax(evals)]
-    pool.close()
     print("Best solution: %s, " %xbest.dec,"obj: %s, " %xbest.getobj(),
           "evals: %s * %s" %(nb,maxtries))
     return xbest.dec,xbest.obj
