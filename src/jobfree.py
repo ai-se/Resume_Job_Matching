@@ -26,12 +26,15 @@ class JobResume():
     def __init__(self,jobfile = "../data/combinedJob_V2.csv",resumefile="../data/combinedResume_V2.csv"):
         self.jobs = pd.read_csv(jobfile)
         self.resumes = pd.read_csv(resumefile)
+        self.resumes["Text"] = [x.decode('string_escape') for x in self.resumes["Text"]]
+        self.jobs["Text"] = [x.decode('string_escape') for x in self.jobs["Text"]]
+
         self.resumes["categories"] = [set(x.split(",")) for x in self.resumes["Job Title"]]
         self.jobs["categories"] = [set(x.split(",")) for x in self.jobs["Job Title"]]
 
     def prepare(self):
-        self.resume_info = [x.decode('string_escape') for x in self.resumes["Text"]]
-        self.job_post = [x.decode('string_escape') for x in self.jobs["Text"]]
+        self.resume_info = [x for x in self.resumes["Text"]]
+        self.job_post = [x for x in self.jobs["Text"]]
         self.num_resume = len(self.resume_info)
         self.num_job = len(self.job_post)
         self.content = self.resume_info+self.job_post
@@ -538,11 +541,12 @@ def manual_triplet():
 def separate():
     x=JobResume()
     categories = ["Machinist","Machine Operator","Technician","Technologist","Engineer","Software Engineer"]
+
     for cat in categories:
         jobs = x.jobs.iloc[[i for i, cats in enumerate(x.jobs["categories"]) if cat in cats]]
         resumes = x.resumes.iloc[[i for i, cats in enumerate(x.resumes["categories"]) if cat in cats]]
-        jobs.to_csv("../data/separate/job_"+cat+".csv", index=False)
-        resumes.to_csv("../data/separate/resume_" + cat + ".csv", index=False)
+        jobs.to_csv("../data/separate/job_"+cat+".csv", index=True)
+        resumes.to_csv("../data/separate/resume_" + cat + ".csv", index=True)
 
 
 
