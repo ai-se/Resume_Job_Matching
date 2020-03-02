@@ -131,6 +131,7 @@ class JobResume():
         self.csr_mat=tfer.fit_transform(self.content)
         return
 
+
     def match_resume(self,resume_id,num,subset=None):
         if subset==None:
             subset = range(self.num_job)
